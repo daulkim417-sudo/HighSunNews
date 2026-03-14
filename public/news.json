@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-14T15:48:14.762250",
+  "lastUpdate": "2026-03-14T15:59:53.684788",
   "items": [
     {
       "title": "“낚싯배 위장한 드론보트로 유조선 타격”···이란의 소형무인선 벌떼 공격 - 경향신문",
@@ -8,9 +8,9 @@
       "pubDate": "Sat, 14 Mar 2026 07:45:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/03/14/news-p.v1.20260314.c09d264dac244f6381e5367ed6cd0292_P1.jpg",
       "summaries": {
-        "ko": "이란이 호르무즈 해협에서 낚싯배로 위장한 폭발물 탑재 드론 보트를 대량 투입하는 '벌떼 작전'을 통해 유조선을 타격하며 미군에 대한 압박과 하이브리드 전쟁의 새 국면을 열고 있다.",
-        "en": "Iran is opening a new phase of hybrid warfare and pressuring the U.S. by striking oil tankers in the Strait of Hormuz using 'swarm tactics' of deploying numerous explosive-laden drone boats disguised as fishing vessels.",
-        "zh": "伊朗正在霍尔木兹海峡利用伪装成渔船的、装载爆炸物的无人艇进行大规模“蜂群战术”攻击油轮，从而开启了混合战争的新阶段并对美国施加压力。"
+        "ko": "이란은 군사력 열세를 만회하기 위해 호르무즈 해협에서 낚싯배로 위장한 폭발물 탑재 드론 보트를 대량 투입하는 '벌떼 작전'으로 유조선을 연이어 공격하며 미군에 탐지 및 제거의 어려움을 주고 있다.",
+        "en": "Iran is successfully attacking oil tankers in the Strait of Hormuz using 'swarm tactics' involving numerous explosive-laden drone boats disguised as fishing vessels, posing significant detection and neutralization challenges for the US military as a strategy to compensate for its military inferiority.",
+        "zh": "为弥补军事劣势，伊朗在霍尔木兹海峡利用伪装成渔船的爆炸物无人艇进行“蜂群攻击”，接连袭击油轮，给美军的侦测和清除带来巨大挑战。"
       }
     },
     {
@@ -20,9 +20,9 @@
       "pubDate": "Sat, 14 Mar 2026 08:53:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/695/461/imgdb/original/2026/0314/20260314500549.webp",
       "summaries": {
-        "ko": "북한이 한미 연합연습 '자유의 방패'에 맞서 600㎜ 초대형 방사포로 추정되는 탄도미사일 10여 발을 동해상으로 발사하며 무력 시위를 벌였다.",
-        "en": "North Korea fired over 10 ballistic missiles, presumed to be 600mm super-large multiple rocket launchers, into the East Sea as a show of force against the ongoing ROK-US joint exercise 'Freedom Shield'.",
-        "zh": "朝鲜为回应韩美联合军演“自由之盾”，向东海发射了十几枚被推定为600毫米超大型火箭炮的弹道导弹，进行武力示威。"
+        "ko": "북한이 한미 연합연습 '자유의 방패'에 반발하여 동해상으로 600㎜ 초대형 방사포로 추정되는 탄도미사일 10여 발을 발사하며 무력 시위를 벌였다.",
+        "en": "North Korea conducted a show of force by launching over 10 ballistic missiles, presumed to be 600mm super large multiple rocket launchers, into the East Sea in response to the ROK-US joint exercise 'Freedom Shield'.",
+        "zh": "朝鲜为抗议韩美联合演习“自由之盾”，向东海发射了10余枚被推定为600毫米超大型火箭炮的弹道导弹，进行武力示威。"
       }
     },
     {
@@ -32,9 +32,9 @@
       "pubDate": "Sat, 14 Mar 2026 02:03:31 GMT",
       "image": "https://pimg.mk.co.kr/news/cms/202603/14/news-p.v1.20260314.56ba3bab44b54e31818051499cd2d6a7_R.jpg",
       "summaries": {
-        "ko": "미국이 이란의 주요 원유 수출시설인 하르그섬을 공습하자, 이란은 자국 에너지 시설이 공격받을 경우 중동 내 미국 협력 석유 시설을 반격하겠다고 경고했다.",
-        "en": "Following a US airstrike on Iran's major crude oil export facility, Kharg Island, Iran warned it would retaliate against US-cooperating oil facilities in the Middle East if its own energy infrastructure is attacked.",
-        "zh": "在美国空袭伊朗主要原油出口设施哈尔格岛后，伊朗警告称，如果其自身能源基础设施遭到攻击，将反击中东地区与美国合作的石油设施。"
+        "ko": "미국이 핵심 원유 수출 시설인 이란 하르그섬을 공습하자 이란은 자국 석유 시설이 공격받을 경우 중동 내 미국 협력 석유 시설을 반격하겠다고 경고했다.",
+        "en": "Following a US airstrike on Iran's crucial Kharg Island oil export terminal, Iran warned it would retaliate against US-allied oil facilities in the Middle East if its own oil infrastructure is targeted.",
+        "zh": "在美国空袭伊朗关键石油出口设施哈尔格岛后，伊朗警告称，若其自身石油基础设施遭到攻击，将反击中东地区与美国合作的石油设施。"
       }
     },
     {
@@ -50,18 +50,6 @@
       }
     },
     {
-      "title": "트럼프 “이란 완전히 파괴 중…오늘 무슨 일 벌어지는지 보라” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1249214.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 13 Mar 2026 13:11:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0310/20260310500214.webp",
-      "summaries": {
-        "ko": "미국·이스라엘과 이란 간 공습과 상호 위협이 격화되는 가운데 도널드 트럼프 미국 대통령이 이란의 테러 정권이 \"완전히 파괴되고 있다\"고 선언하며 \"오늘 정신 나간 쓰레기들에게 무슨 일이 벌어지는지 보라\"고 강력히 경고했다.",
-        "en": "Amid escalating airstrikes and mutual threats between the US/Israel and Iran, Donald Trump issued a fierce warning, declaring Iran's terrorist regime is being \"completely destroyed\" and suggesting significant events would unfold \"today.\"",
-        "zh": "在美国、以色列与伊朗之间的空袭和相互威胁不断升级之际，唐纳德·特朗普发出严厉警告，宣称伊朗恐怖政权正在“彻底被摧毁”，并暗示“今天”将有重大事件发生。"
-      }
-    },
-    {
       "title": "성공하면 ‘돈벼락’…그리스 선박 10척, 위치정보 끄고 호르무즈 야밤 통과 - 동아일보",
       "link": "https://www.donga.com/news/Inter/article/all/20260314/133530148/2",
       "source": "동아일보",
@@ -74,51 +62,63 @@
       }
     },
     {
-      "title": "여야, 재판소원 사건 급증 공방‥\"범죄자 천국\" vs \"호들갑\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6807402_36911.html",
+      "title": "판사들, 헌재 심판정에 서게 될까 [서초동M본부] - MBC 뉴스",
+      "link": "https://imnews.imbc.com/newszoomin/newsinsight/6807390_29123.html",
       "source": "MBC 뉴스",
-      "pubDate": "Sat, 14 Mar 2026 03:27:31 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/03/14/chhh_20260314_20.jpg",
+      "pubDate": "Sat, 14 Mar 2026 02:17:27 GMT",
+      "image": "https://image.imnews.imbc.com/newszoomin/newsinsight/__icsFiles/afieldfile/2026/03/14/jhp_20260314_18_1.jpg",
       "summaries": {
-        "ko": "여야는 법원 확정판결에 대한 헌법소원을 허용하는 재판소원법 시행 후 급증하는 사건 접수를 두고 국민의힘은 '범죄자 천국을 만들 4심제'라며 비판했고 민주당은 '호들갑 떠는 프레임 씌우기'라고 반박하며 공방을 벌였습니다.",
-        "en": "The ruling and opposition parties are clashing over the surge in judicial appeal cases filed since the implementation of a law allowing constitutional appeals against final court judgments, with the People Power Party criticizing it as a \"fourth instance system creating a criminals' paradise\" and the Democratic Party refuting it as \"overreacting frame-setting.\"",
-        "zh": "执政党和在野党就允许对终审判决进行宪法诉愿的“司法诉愿法”实施后案件激增一事展开激烈争论，国民力量党批评其为“制造罪犯天堂的第四审制度”，而共同民主党则反驳称其为“小题大做的陷害”。"
+        "ko": "새로운 재판소원 제도의 시행으로 헌법재판소가 법원 판결을 취소하고 판사들을 소환하여 설명을 요구할 수 있게 되면서 사법부 내에서 우려가 커지고 있다.",
+        "en": "The implementation of a new judicial review petition, allowing the Constitutional Court to overturn court judgments and potentially summon judges for explanation, is causing growing concern within the judiciary.",
+        "zh": "新的司法审查申诉制度的实施，允许宪法法院推翻法院判决并可能传唤法官进行解释，这在司法界引起了日益增长的担忧。"
       }
     },
     {
-      "title": "서울 소공동 게스트하우스 화재로 외국인 등 10명 부상…3명 중상 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1249323.html",
+      "title": "이정현 국힘 공천관리위원장 사퇴…“생각한 방향 추진 어려워” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1249141.html",
       "source": "한겨레",
-      "pubDate": "Sat, 14 Mar 2026 13:14:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0314/53_17734935578474_20260314500687.webp",
+      "pubDate": "Sat, 14 Mar 2026 15:31:50 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0313/20260313500656.webp",
       "summaries": {
-        "ko": "서울 중구 소공동의 캡슐호텔형 게스트하우스에서 화재가 발생하여 외국인 등 10명이 부상을 입었으며, 당국은 추가 사상자 확인 및 정확한 화재 원인을 조사 중이다.",
-        "en": "A fire broke out at a capsule hotel-type guesthouse in Sogon-dong, Jung-gu, Seoul, injuring 10 people, including foreigners, and authorities are investigating for potential additional casualties and the exact cause of the fire.",
-        "zh": "首尔中区小公洞一家胶囊酒店式宾馆发生火灾，包括外国人在内的10人受伤，当局正在调查是否有更多伤亡人员以及确切的火灾原因。"
+        "ko": "국민의힘 이정현 공천관리위원장이 본인이 생각했던 공천 방향 추진이 어렵다며 위원장직에서 사퇴했다.",
+        "en": "Lee Jung-hyun, chairman of the People Power Party's Nomination Management Committee, resigned, stating it was difficult to pursue the nomination direction he had envisioned.",
+        "zh": "国民力量党公荐管理委员会委员长李贞贤辞职，表示难以继续推行自己设想的公荐方向。"
       }
     },
     {
-      "title": "이정현 “국힘 ‘코마 상태’... 전기충격기 못 들면 내가 떠나야” - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/03/14/G4MDKQUXGFHSZDFSEXSS357S3E/",
-      "source": "조선일보",
-      "pubDate": "Sat, 14 Mar 2026 04:48:52 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GA2GEYJXGVSDSMDCGM3WENTEMY.jpg?auth=0eb303e885dee390598160d4a260d5e64654ca6743adedff3190a6cdfe33facc&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "이정현 “국힘 ‘코마 상태’... 전기충격기 못 들면 내가 떠나야” - 조선일보",
-        "en": "이정현 “국힘 ‘코마 상태’... 전기충격기 못 들면 내가 떠나야” - 조선일보",
-        "zh": "이정현 “국힘 ‘코마 상태’... 전기충격기 못 들면 내가 떠나야” - 조선일보"
-      }
-    },
-    {
-      "title": "정부, 쉰들러 국제투자분쟁(ISDS) 승소…\"3천억 배상청구 기각\" - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260314140256kyl",
+      "title": "한미 장병, 임진강서 '연합 도하훈련'...수룡-IRB 연합부교 첫 구축 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260314153127cJO",
       "source": "연합뉴스TV",
-      "pubDate": "Sat, 14 Mar 2026 05:04:50 GMT",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260314/AKR20260314140256kyl_01_i.jpg",
+      "pubDate": "Sat, 14 Mar 2026 06:33:00 GMT",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260314/AKR20260314153127cJO_01_i.jpg",
       "summaries": {
-        "ko": "정부, 쉰들러 국제투자분쟁(ISDS) 승소…\"3천억 배상청구 기각\" - 연합뉴스TV",
-        "en": "정부, 쉰들러 국제투자분쟁(ISDS) 승소…\"3천억 배상청구 기각\" - 연합뉴스TV",
-        "zh": "정부, 쉰들러 국제투자분쟁(ISDS) 승소…\"3천억 배상청구 기각\" - 연합뉴스TV"
+        "ko": "한미 장병들이 임진강에서 연합 도하훈련을 실시하며 한국형 자주도하장비 '수룡'과 미군의 개량형 전술부교(IRB)를 결합한 연합부교를 최초로 구축하여 연합작전 수행 능력을 향상시켰다.",
+        "en": "US and ROK troops conducted a combined river-crossing drill on the Imjin River, successfully building a joint pontoon bridge for the first time by combining the ROK's 'Suyong' self-propelled amphibious bridge and the US's Improved Ribbon Bridge (IRB), enhancing their combined operational capabilities.",
+        "zh": "韩美两国士兵在临津江举行了联合渡河演习，首次成功架设了结合韩国“水龙”自行浮渡设备和美军改进型战术浮桥（IRB）的联合浮桥，从而提升了联合作战能力。"
+      }
+    },
+    {
+      "title": "韓 정부, 쉰들러 제기 3200억원 규모 ISDS 승소 - 조선일보",
+      "link": "https://www.chosun.com/national/court_law/2026/03/14/CAVHAPR6WZB5RPBF5IFWIGFBCY/",
+      "source": "조선일보",
+      "pubDate": "Sat, 14 Mar 2026 05:08:01 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GAYDIYTDMYZGKMZZGRSDKOJXGY.jpg?auth=f622c0d2a6929e918beffc663bbfeb689dbb15bdfb75069bce7049a099af8d0a&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "韓 정부, 쉰들러 제기 3200억원 규모 ISDS 승소 - 조선일보",
+        "en": "韓 정부, 쉰들러 제기 3200억원 규모 ISDS 승소 - 조선일보",
+        "zh": "韓 정부, 쉰들러 제기 3200억원 규모 ISDS 승소 - 조선일보"
+      }
+    },
+    {
+      "title": "서울 소공동 게스트하우스에서 화재...3명 중상·7명 경상 - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/03/14/HZ5DKTDEMRGE5GKXCOX6PZTRMU/",
+      "source": "조선일보",
+      "pubDate": "Sat, 14 Mar 2026 12:37:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GY2WEN3DMFRDOYRYMIYTQNBVMU.jpg?auth=736db468f41e820508643b6041d1caf4bc18e9b3ee0bc37cb90bd03e17ad19be&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "서울 소공동 게스트하우스에서 화재...3명 중상·7명 경상 - 조선일보",
+        "en": "서울 소공동 게스트하우스에서 화재...3명 중상·7명 경상 - 조선일보",
+        "zh": "서울 소공동 게스트하우스에서 화재...3명 중상·7명 경상 - 조선일보"
       }
     },
     {
