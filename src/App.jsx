@@ -1,11 +1,11 @@
 import { useEffect, useState } from 'react'
+import { motion } from 'framer-motion' // 프레이머 모션 불러오기
 
 function App() {
   const [newsData, setNewsData] = useState(null)
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
-    // GitHub Pages 배포 환경에서도 잘 작동하도록 상대 경로 사용
     fetch('./news.json')
       .then((res) => res.json())
       .then((data) => {
@@ -18,48 +18,90 @@ function App() {
       })
   }, [])
 
-  if (loading) return <div style={{ padding: '20px' }}>뉴스를 불러오는 중...</div>
+  // 애니메이션 설정값
+  const container = {
+    hidden: { opacity: 0 },
+    show: {
+      opacity: 1,
+      transition: { staggerChildren: 0.1 } // 자식 요소들이 0.1초 간격으로 순차적으로 등장
+    }
+  }
+
+  const itemAnim = {
+    hidden: { y: 20, opacity: 0 },
+    show: { y: 0, opacity: 1 }
+  }
+
+  if (loading) return (
+    <div className="flex items-center justify-center min-h-screen bg-gray-950">
+      <div className="text-sky-500 animate-pulse text-xl font-bold">뉴스를 긁어오는 중...</div>
+    </div>
+  )
 
   return (
-    <div style={{ maxWidth: '800px', margin: '0 auto', padding: '20px', fontFamily: 'sans-serif' }}>
-      <header style={{ borderBottom: '2px solid #333', marginBottom: '20px', paddingBottom: '10px' }}>
-        <h1 style={{ margin: 0 }}>📰 실시간 뉴스 봇</h1>
-        {newsData && (
-          <p style={{ color: '#666', fontSize: '0.9rem' }}>
-            마지막 업데이트: {new Date(newsData.lastUpdate).toLocaleString('ko-KR')}
-          </p>
-        )}
+    <div className="min-h-screen bg-gray-950 text-gray-100 selection:bg-sky-500/30">
+      {/* 상단 헤더 */}
+      <header className="sticky top-0 z-50 backdrop-blur-md bg-gray-950/70 border-b border-gray-800">
+        <div className="max-w-4xl mx-auto px-6 py-6 flex flex-col md:flex-row md:items-end justify-between gap-4">
+          <div>
+            <h1 className="text-4xl font-black tracking-tighter bg-gradient-to-r from-sky-400 to-blue-600 bg-clip-text text-transparent">
+              HIGHSUN NEWS
+            </h1>
+            <p className="text-gray-500 text-sm mt-1 font-medium tracking-widest uppercase">Real-time Feed</p>
+          </div>
+          
+          {newsData && (
+            <div className="text-xs font-mono text-gray-500 bg-gray-900/50 px-3 py-1 rounded-full border border-gray-800">
+              LAST UPDATE: {new Date(newsData.lastUpdate).toLocaleString('ko-KR')}
+            </div>
+          )}
+        </div>
       </header>
 
-      <main>
+      {/* 메인 콘텐츠 */}
+      <main className="max-w-4xl mx-auto px-6 py-12">
         {newsData?.items.length > 0 ? (
-          newsData.items.map((item, index) => (
-            <article key={index} style={{ 
-              marginBottom: '20px', 
-              padding: '15px', 
-              border: '1px solid #ddd', 
-              borderRadius: '8px',
-              transition: 'transform 0.2s',
-              cursor: 'pointer'
-            }}
-            onMouseOver={(e) => e.currentTarget.style.transform = 'scale(1.01)'}
-            onMouseOut={(e) => e.currentTarget.style.transform = 'scale(1)'}
-            onClick={() => window.open(item.link, '_blank')}
-            >
-              <h3 style={{ margin: '0 0 10px 0', color: '#007bff' }}>{item.title}</h3>
-              <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.85rem', color: '#888' }}>
-                <span>출처: {item.source}</span>
-                <span>{item.pubDate}</span>
-              </div>
-            </article>
-          ))
+          <motion.div 
+            variants={container}
+            initial="hidden"
+            animate="show"
+            className="grid gap-6"
+          >
+            {newsData.items.map((item, index) => (
+              <motion.article
+                key={index}
+                variants={itemAnim}
+                whileHover={{ scale: 1.01, x: 5 }}
+                className="group relative overflow-hidden bg-gray-900/40 border border-gray-800 p-6 rounded-2xl hover:border-sky-500/50 transition-colors cursor-pointer"
+                onClick={() => window.open(item.link, '_blank')}
+              >
+                {/* 배경 장식 */}
+                <div className="absolute -right-4 -top-4 w-24 h-24 bg-sky-500/5 blur-3xl group-hover:bg-sky-500/10 transition-colors" />
+                
+                <div className="relative z-10">
+                  <h3 className="text-xl font-bold text-gray-100 group-hover:text-sky-400 transition-colors leading-tight mb-4">
+                    {item.title}
+                  </h3>
+                  
+                  <div className="flex items-center justify-between text-xs tracking-wider font-semibold">
+                    <span className="text-sky-500 uppercase">{item.source}</span>
+                    <span className="text-gray-600 italic">
+                      {new Date(item.pubDate).toLocaleDateString()}
+                    </span>
+                  </div>
+                </div>
+              </motion.article>
+            ))}
+          </motion.div>
         ) : (
-          <p>표시할 뉴스가 없습니다.</p>
+          <div className="text-center text-gray-600 py-20">뉴스가 없습니다.</div>
         )}
       </main>
 
-      <footer style={{ marginTop: '40px', textAlign: 'center', color: '#aaa', fontSize: '0.8rem' }}>
-        <p>GitHub Actions + React (Serverless Project)</p>
+      <footer className="py-20 text-center border-t border-gray-900">
+        <p className="text-gray-600 text-xs font-mono tracking-widest">
+          &copy; 2026 HIGHSUN PROJECT. ALL RIGHTS RESERVED.
+        </p>
       </footer>
     </div>
   )
