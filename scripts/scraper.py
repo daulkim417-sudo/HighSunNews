@@ -14,7 +14,7 @@ if not GEMINI_API_KEY:
     exit(1)
 
 genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel('gemini-1.5-flash')
+model = genai.GenerativeModel('gemini-2.5-flash-lite')
 
 def get_article_content(url):
     """뉴스 원문에서 본문 텍스트와 이미지 후보들을 추출"""
