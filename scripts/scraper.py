@@ -10,7 +10,7 @@ from googlenewsdecoder import gnewsdecoder
 # 환경 설정
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel('gemini-2.5-flash-lite')
+model = genai.GenerativeModel('gemini-2.5-flash')
 
 # 긁어올 뉴스 소스 리스트 (RSS 기반)
 NEWS_SOURCES = [
