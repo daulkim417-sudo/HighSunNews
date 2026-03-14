@@ -1,8 +1,9 @@
 /* src/index.css */
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss"; /* v4에서는 이렇게 한 줄로 불러와야 해! */
 
-body {
-  @apply bg-gray-950 text-gray-100;
+@layer base {
+  body {
+    /* @apply는 꼭 @import 아래에 있어야 작동해 */
+    @apply bg-gray-950 text-gray-100;
+  }
 }
