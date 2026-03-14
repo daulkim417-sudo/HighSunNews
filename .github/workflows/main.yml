@@ -30,6 +30,8 @@ jobs:
         run: pip install feedparser
 
       - name: Run Scraper
+        env:
+            GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} # 이 줄을 추가!
         run: python scripts/scraper.py
 
       - name: Commit and Push changes
