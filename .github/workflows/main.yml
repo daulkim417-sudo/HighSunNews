@@ -28,17 +28,16 @@ jobs:
 
       - name: Install System Dependencies & Python Libraries
         run: |
-          # 리눅스 시스템 패키지 설치 (newspaper3k 작동 필수 재료)
+          # 시스템 패키지 설치 (여전히 필요)
           sudo apt-get update
           sudo apt-get install -y libxml2-dev libxslt-dev libjpeg-dev zlib1g-dev libpng-dev
 
-          # 파이썬 라이브러리 설치
+          # pip 업그레이드 및 requirements.txt 설치
           python -m pip install --upgrade pip
-          pip install feedparser beautifulsoup4 requests google-generativeai newspaper3k lxml_html_clean
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-          # NLP 코퍼스 다운로드 (newspaper3k 분석용 데이터)
+          # NLP 코퍼스 다운로드
           curl https://raw.githubusercontent.com/codelucas/newspaper/master/download_corpora.py | python3
-
       - name: Run Scraper
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
