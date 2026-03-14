@@ -2,3 +2,5 @@ feedparser
 beautifulsoup4
 requests
 google-generativeai
+newspaper3k
+lxml_html_clean
