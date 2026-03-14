@@ -4,10 +4,10 @@ on:
   schedule:
     - cron: '*/10 * * * *'  # 10분마다 실행
   push:
-    branches: [ WIP2 ]      # WIP 브랜치에 푸시될 때 실행
-  workflow_dispatch:       # 수동으로 실행하고 싶을 때 버튼 생성
+    branches: [ WIP2 ]      # WIP2 브랜치에 푸시될 때 실행
+  workflow_dispatch:       # 수동 실행 버튼 생성
 
-# 권한 설정 (파일 쓰기 및 페이지 배포를 위해 필수)
+# 권한 설정 (파일 쓰기 및 페이지 배포 필수)
 permissions:
   contents: write
   pages: write
@@ -22,17 +22,26 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
+      - name: Install System Dependencies & Python Libraries
         run: |
+          # 리눅스 시스템 패키지 설치 (newspaper3k 작동 필수 재료)
+          sudo apt-get update
+          sudo apt-get install -y libxml2-dev libxslt-dev libjpeg-dev zlib1g-dev libpng-dev
+
+          # 파이썬 라이브러리 설치
           python -m pip install --upgrade pip
-          pip install feedparser beautifulsoup4 requests google-generativeai
+          pip install feedparser beautifulsoup4 requests google-generativeai newspaper3k lxml_html_clean
+
+          # NLP 코퍼스 다운로드 (newspaper3k 분석용 데이터)
+          curl https://raw.githubusercontent.com/codelucas/newspaper/master/download_corpora.py | python3
+
       - name: Run Scraper
         env:
-            GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} # 이 줄을 추가!
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/scraper.py
 
       - name: Commit and Push changes
@@ -40,19 +49,19 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add public/news.json
+          # [skip ci]를 붙여서 봇의 커밋이 다시 워크플로우를 트리거하지 않게 방지
           git commit -m "chore: update news data [skip ci]" || echo "No changes to commit"
           git push
-        # [skip ci]는 봇이 커밋했을 때 워크플로우가 무한 반복되는걸 막아줘.
 
   # 2. 리액트 앱을 빌드하고 배포하는 작업
   build-and-deploy:
-    needs: update-news # 데이터 업데이트가 끝난 후에 실행
+    needs: update-news # 데이터 업데이트가 성공적으로 끝난 후 실행
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          ref: WIP2 # 방금 봇이 업데이트한 최신 커밋을 가져옴
+          ref: WIP2 # 봇이 업데이트한 최신 커밋(news.json)을 반영하기 위함
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -72,4 +81,5 @@ jobs:
           path: './dist'
 
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
