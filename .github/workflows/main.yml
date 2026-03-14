@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '*/10 * * * *'  # 10분마다 실행
   push:
-    branches: [ main ]      # main 브랜치에 푸시될 때 실행
+    branches: [ WIP ]      # WIP 브랜치에 푸시될 때 실행
   workflow_dispatch:       # 수동으로 실행하고 싶을 때 버튼 생성
 
 # 권한 설정 (파일 쓰기 및 페이지 배포를 위해 필수)
