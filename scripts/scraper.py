@@ -11,20 +11,17 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel('gemini-1.5-flash')
 
-def get_real_url(google_url):
-    """구글 리다이렉션 링크를 따라가서 실제 언론사 원문 URL을 알아냄"""
-    try:
-        # 구글 뉴스 링크는 봇 방지가 까다로울 수 있어 User-Agent 설정 필수
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-        }
-        # allow_redirects=True로 설정하여 최종 목적지까지 추적
-        response = requests.get(google_url, headers=headers, timeout=10, allow_redirects=True)
-        return response.url
-    except Exception as e:
-        print(f"🔗 URL 추적 실패: {e}")
-        return google_url
+from googlenews_decoder import gnews_decoder
 
+def get_real_url(google_url):
+    try:
+        # 요청을 보내지 않고 알고리즘으로만 주소를 해독함 (차단 위험 0%)
+        decoded_url = gnews_decoder(google_url)
+        return decoded_url.get('decoded_url', google_url)
+    except Exception as e:
+        print(f"🔗 디코딩 실패: {e}")
+        return google_url
+        
 def get_article_data(google_url):
     # 1. 실제 주소부터 따낸다
     actual_url = get_real_url(google_url)

@@ -4,4 +4,4 @@ requests
 google-generativeai
 newspaper3k
 lxml_html_clean
-# force update test
+googlenews-decoder
