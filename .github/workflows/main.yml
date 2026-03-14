@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '*/10 * * * *'  # 10분마다 실행
   push:
-    branches: [ WIP ]      # WIP 브랜치에 푸시될 때 실행
+    branches: [ WIP2 ]      # WIP 브랜치에 푸시될 때 실행
   workflow_dispatch:       # 수동으로 실행하고 싶을 때 버튼 생성
 
 # 권한 설정 (파일 쓰기 및 페이지 배포를 위해 필수)
@@ -51,7 +51,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          ref: WIP # 방금 봇이 업데이트한 최신 커밋을 가져옴
+          ref: WIP2 # 방금 봇이 업데이트한 최신 커밋을 가져옴
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
