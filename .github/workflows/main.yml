@@ -1,1 +1,72 @@
-## WIP
+name: News Bot Full Pipeline
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # 10분마다 실행
+  push:
+    branches: [ main ]      # main 브랜치에 푸시될 때 실행
+  workflow_dispatch:       # 수동으로 실행하고 싶을 때 버튼 생성
+
+# 권한 설정 (파일 쓰기 및 페이지 배포를 위해 필수)
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  # 1. 뉴스 데이터를 긁어서 저장소에 업데이트하는 작업
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Run Scraper
+        run: python scripts/scraper.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/news.json
+          git commit -m "chore: update news data [skip ci]" || echo "No changes to commit"
+          git push
+        # [skip ci]는 봇이 커밋했을 때 워크플로우가 무한 반복되는걸 막아줘.
+
+  # 2. 리액트 앱을 빌드하고 배포하는 작업
+  build-and-deploy:
+    needs: update-news # 데이터 업데이트가 끝난 후에 실행
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: main # 방금 봇이 업데이트한 최신 커밋을 가져옴
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build React App
+        run: npm run build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './dist'
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4

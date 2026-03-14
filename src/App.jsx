@@ -1,120 +1,67 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
-import './App.css'
+import { useEffect, useState } from 'react'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [newsData, setNewsData] = useState(null)
+  const [loading, setLoading] = useState(true)
+
+  useEffect(() => {
+    // GitHub Pages 배포 환경에서도 잘 작동하도록 상대 경로 사용
+    fetch('./news.json')
+      .then((res) => res.json())
+      .then((data) => {
+        setNewsData(data)
+        setLoading(false)
+      })
+      .catch((err) => {
+        console.error("데이터 로딩 실패:", err)
+        setLoading(false)
+      })
+  }, [])
+
+  if (loading) return <div style={{ padding: '20px' }}>뉴스를 불러오는 중...</div>
 
   return (
-    <>
-      <section id="center">
-        <div className="hero">
-          <img src={heroImg} className="base" width="170" height="179" alt="" />
-          <img src={reactLogo} className="framework" alt="React logo" />
-          <img src={viteLogo} className="vite" alt="Vite logo" />
-        </div>
-        <div>
-          <h1>Get started</h1>
-          <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
+    <div style={{ maxWidth: '800px', margin: '0 auto', padding: '20px', fontFamily: 'sans-serif' }}>
+      <header style={{ borderBottom: '2px solid #333', marginBottom: '20px', paddingBottom: '10px' }}>
+        <h1 style={{ margin: 0 }}>📰 실시간 뉴스 봇</h1>
+        {newsData && (
+          <p style={{ color: '#666', fontSize: '0.9rem' }}>
+            마지막 업데이트: {new Date(newsData.lastUpdate).toLocaleString('ko-KR')}
           </p>
-        </div>
-        <button
-          className="counter"
-          onClick={() => setCount((count) => count + 1)}
-        >
-          Count is {count}
-        </button>
-      </section>
+        )}
+      </header>
 
-      <div className="ticks"></div>
+      <main>
+        {newsData?.items.length > 0 ? (
+          newsData.items.map((item, index) => (
+            <article key={index} style={{ 
+              marginBottom: '20px', 
+              padding: '15px', 
+              border: '1px solid #ddd', 
+              borderRadius: '8px',
+              transition: 'transform 0.2s',
+              cursor: 'pointer'
+            }}
+            onMouseOver={(e) => e.currentTarget.style.transform = 'scale(1.01)'}
+            onMouseOut={(e) => e.currentTarget.style.transform = 'scale(1)'}
+            onClick={() => window.open(item.link, '_blank')}
+            >
+              <h3 style={{ margin: '0 0 10px 0', color: '#007bff' }}>{item.title}</h3>
+              <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.85rem', color: '#888' }}>
+                <span>출처: {item.source}</span>
+                <span>{item.pubDate}</span>
+              </div>
+            </article>
+          ))
+        ) : (
+          <p>표시할 뉴스가 없습니다.</p>
+        )}
+      </main>
 
-      <section id="next-steps">
-        <div id="docs">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#documentation-icon"></use>
-          </svg>
-          <h2>Documentation</h2>
-          <p>Your questions, answered</p>
-          <ul>
-            <li>
-              <a href="https://vite.dev/" target="_blank">
-                <img className="logo" src={viteLogo} alt="" />
-                Explore Vite
-              </a>
-            </li>
-            <li>
-              <a href="https://react.dev/" target="_blank">
-                <img className="button-icon" src={reactLogo} alt="" />
-                Learn more
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div id="social">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#social-icon"></use>
-          </svg>
-          <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
-          <ul>
-            <li>
-              <a href="https://github.com/vitejs/vite" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#github-icon"></use>
-                </svg>
-                GitHub
-              </a>
-            </li>
-            <li>
-              <a href="https://chat.vite.dev/" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#discord-icon"></use>
-                </svg>
-                Discord
-              </a>
-            </li>
-            <li>
-              <a href="https://x.com/vite_js" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#x-icon"></use>
-                </svg>
-                X.com
-              </a>
-            </li>
-            <li>
-              <a href="https://bsky.app/profile/vite.dev" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#bluesky-icon"></use>
-                </svg>
-                Bluesky
-              </a>
-            </li>
-          </ul>
-        </div>
-      </section>
-
-      <div className="ticks"></div>
-      <section id="spacer"></section>
-    </>
+      <footer style={{ marginTop: '40px', textAlign: 'center', color: '#aaa', fontSize: '0.8rem' }}>
+        <p>GitHub Actions + React (Serverless Project)</p>
+      </footer>
+    </div>
   )
 }
 
