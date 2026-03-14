@@ -1,7 +1,6 @@
 import os
 import feedparser
 import json
-import base64
 import requests
 import google.generativeai as genai
 from datetime import datetime
@@ -12,51 +11,42 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel('gemini-1.5-flash')
 
-def decode_google_news_url(url):
-    """구글 뉴스 RSS의 암호화된 URL을 실제 원문 URL로 디코딩"""
+def get_real_url(google_url):
+    """구글 리다이렉션 링크를 따라가서 실제 언론사 원문 URL을 알아냄"""
     try:
-        if "articles/" not in url:
-            return url
-        
-        # URL에서 암호화된 부분 추출
-        base64_str = url.split("articles/")[1].split("?")[0]
-        
-        # 패딩 처리 및 디코딩
-        padding = '=' * (4 - len(base64_str) % 4)
-        decoded_bytes = base64.urlsafe_b64decode(base64_str + padding)
-        
-        # 디코딩된 바이트에서 실제 URL 부분 추출 (바이너리 구조상 뒷부분에 위치)
-        decoded_str = decoded_bytes.decode('latin-1')
-        
-        # 보통 http로 시작하는 문자열을 찾아냄
-        if "http" in decoded_str:
-            actual_url = "http" + decoded_str.split("http")[-1]
-            # 노이즈 제거
-            actual_url = "".join(c for c in actual_url if ord(c) >= 32 and ord(c) <= 126)
-            return actual_url
+        # 구글 뉴스 링크는 봇 방지가 까다로울 수 있어 User-Agent 설정 필수
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        }
+        # allow_redirects=True로 설정하여 최종 목적지까지 추적
+        response = requests.get(google_url, headers=headers, timeout=10, allow_redirects=True)
+        return response.url
     except Exception as e:
-        print(f"🔗 URL 디코딩 실패 (기본값 사용): {e}")
-    return url
+        print(f"🔗 URL 추적 실패: {e}")
+        return google_url
 
 def get_article_data(google_url):
-    """디코딩된 URL로 실제 기사 데이터를 추출"""
-    actual_url = decode_google_news_url(google_url)
+    # 1. 실제 주소부터 따낸다
+    actual_url = get_real_url(google_url)
     print(f"🔗 원문 주소 확인: {actual_url}")
     
     try:
+        # 2. 진짜 주소로 newspaper3k 실행
         article = Article(actual_url, language='ko')
         article.download()
         article.parse()
         
-        # 구글 서버 이미지가 아닌 실제 언론사 서버 이미지를 가져옴
-        return article.text[:2000], article.top_image
+        # 본문과 대표 이미지 추출
+        return article.text[:2000], article.top_image, actual_url
     except Exception as e:
         print(f"⚠️ 원문 파싱 실패: {e}")
-        return "", None
+        return "", None, actual_url
 
 def analyze_with_gemini(title, content):
-    """Gemini AI 요약"""
-    prompt = f"뉴스 제목: {title}\n본문: {content}\n\n위 내용을 1문장으로 섹시하게 요약해줘. JSON 형식: {{\"summary\": \"내용\"}}"
+    if not content or len(content) < 100:
+        return {"summary": "본문 내용을 가져오지 못해 요약할 수 없습니다."}
+        
+    prompt = f"뉴스 제목: {title}\n본문: {content}\n\n위 내용을 1문장으로 섹시하고 임팩트 있게 요약해줘. JSON 형식: {{\"summary\": \"내용\"}}"
     try:
         response = model.generate_content(prompt)
         json_text = response.text.replace('```json', '').replace('```', '').strip()
@@ -69,25 +59,31 @@ def main():
     feed = feedparser.parse(RSS_URL)
     processed_news = []
     
+    # 상위 6개 기사 처리
     for entry in feed.entries[:6]:
         print(f"🚀 처리 중: {entry.title}")
-        content, top_image = get_article_data(entry.link)
+        
+        # 기사 데이터 가져오기 (실제 URL 포함)
+        content, top_image, actual_url = get_article_data(entry.link)
+        
+        # Gemini 요약
         analysis = analyze_with_gemini(entry.title, content)
         
         processed_news.append({
             "title": entry.title,
-            "link": decode_google_news_url(entry.link), # 링크도 원문 주소로 저장
+            "link": actual_url, # 이제 진짜 주소가 저장됨
             "source": entry.source.title if hasattr(entry, 'source') else "Google News",
             "pubDate": entry.published,
             "summary": analysis.get("summary"),
             "image": top_image
         })
 
-    # 파일 저장 로직 (이전과 동일)
+    # 저장 로직
     result_data = {"lastUpdate": datetime.now().isoformat(), "items": processed_news}
     os.makedirs('public', exist_ok=True)
     with open('public/news.json', 'w', encoding='utf-8') as f:
         json.dump(result_data, f, ensure_ascii=False, indent=2)
+    print(f"✅ 완료! {len(processed_news)}개의 뉴스가 저장되었습니다.")
 
 if __name__ == "__main__":
     main()
