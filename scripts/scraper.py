@@ -10,7 +10,7 @@ from googlenewsdecoder import gnewsdecoder
 # 환경 설정
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel('gemini-1.5-flash')
+model = genai.GenerativeModel('gemini-2.5-flash-lite')
 
 # 긁어올 뉴스 소스 리스트 (RSS 기반)
 NEWS_SOURCES = [
@@ -59,7 +59,7 @@ def analyze_and_translate(title, content):
     except Exception as e:
         print(f"❌ 번역 생성 실패: {e}")
         return {"ko": title, "en": title, "zh": title}
-        
+
 def main():
     all_entries = []
     for source in NEWS_SOURCES:
