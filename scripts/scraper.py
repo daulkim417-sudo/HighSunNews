@@ -11,7 +11,7 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel('gemini-1.5-flash')
 
-from googlenews_decoder import gnews_decoder
+from googlenewsdecoder import gnews_decoder
 
 def get_real_url(google_url):
     try:
@@ -21,7 +21,7 @@ def get_real_url(google_url):
     except Exception as e:
         print(f"🔗 디코딩 실패: {e}")
         return google_url
-        
+
 def get_article_data(google_url):
     # 1. 실제 주소부터 따낸다
     actual_url = get_real_url(google_url)
