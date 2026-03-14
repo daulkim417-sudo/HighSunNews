@@ -49,7 +49,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          ref: main # 방금 봇이 업데이트한 최신 커밋을 가져옴
+          ref: WIP # 방금 봇이 업데이트한 최신 커밋을 가져옴
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
