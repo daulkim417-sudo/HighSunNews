@@ -28,15 +28,19 @@ def get_real_url(google_url):
     except: return google_url
 
 def analyze_and_translate(title, content):
-    """Gemini를 써서 요약하고 미리 번역 기초 데이터를 만듦"""
+    """Gemini를 사용해 3개 국어로 요약 생성 (엄격한 JSON 모드)"""
+    if not content or len(content) < 100:
+        return {"ko": title, "en": title, "zh": title}
+    
+    # 프롬프트를 아주 명확하고 단순하게 수정
     prompt = f"""
-    뉴스제목: {title}
-    본문: {content}
+    Title: {title}
+    Content: {content}
     
-    1. 이 내용을 한 문장으로 아주 임팩트 있게 요약해줘.
-    2. 요약한 내용을 한국어(ko), 영어(en), 중국어(zh) 3개 국어로 번역해줘.
+    Task: Summarize the news in one sentence and translate it into Korean(ko), English(en), and Chinese(zh).
+    Constraint: Response MUST be a valid JSON object only. No extra text.
     
-    응답은 반드시 아래 JSON 형식으로만 해줘:
+    Format:
     {{
         "ko": "한국어 요약",
         "en": "English summary",
@@ -45,10 +49,17 @@ def analyze_and_translate(title, content):
     """
     try:
         response = model.generate_content(prompt)
-        return json.loads(response.text.replace('```json', '').replace('```', '').strip())
-    except:
+        # 텍스트에서 JSON 부분만 추출하는 로직 강화
+        raw_text = response.text.strip()
+        start = raw_text.find('{')
+        end = raw_text.rfind('}') + 1
+        json_clean = raw_text[start:end]
+        
+        return json.loads(json_clean)
+    except Exception as e:
+        print(f"❌ 번역 생성 실패: {e}")
         return {"ko": title, "en": title, "zh": title}
-
+        
 def main():
     all_entries = []
     for source in NEWS_SOURCES:
