@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-15T18:01:26.521232",
+  "lastUpdate": "2026-03-15T18:55:56.175481",
   "items": [
     {
       "title": "사우디서 211명 태운 공군 수송기 서울공항 도착 - 한겨레",
@@ -8,9 +8,45 @@
       "pubDate": "Sun, 15 Mar 2026 15:55:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/564/imgdb/original/2026/0315/141773576818854.webp",
       "summaries": {
-        "ko": "우리 공군 수송기가 '사막의 빛' 작전을 성공적으로 수행하여, 중동 분쟁 지역에 체류 중이던 한국인과 일본인 등 211명을 5월 15일 서울공항으로 안전하게 철수시켰다.",
-        "en": "A South Korean military transport plane successfully completed the 'Desert Light' operation, evacuating 211 people, including South Korean and Japanese nationals, from conflict-affected Middle Eastern countries to Seoul Airport on May 15.",
-        "zh": "韩国军用运输机成功完成“沙漠之光”行动，于5月15日将包括韩国和日本公民在内的211人从中东冲突地区安全撤离至首尔机场。"
+        "ko": "중동 지역 갈등이 확전되는 가운데, '사막의 빛' 작전으로 투입된 우리 군 수송기가 4월 15일 사우디아라비아 등 중동 국가에 체류 중이던 한국인 204명과 외국 국적 가족 5명, 일본인 2명 등 총 211명을 태우고 서울공항에 도착했다.",
+        "en": "Amidst escalating conflict in the Middle East, a South Korean military transport plane, deployed under the 'Desert Light' operation, arrived at Seoul Airport on April 15th, evacuating a total of 211 people, including 204 Koreans, 5 foreign family members, and 2 Japanese nationals, who had been staying in Middle Eastern countries like Saudi Arabia.",
+        "zh": "在中东地区冲突升级的背景下，韩国军用运输机在“沙漠之光”行动下，于4月15日搭载包括204名韩国公民、5名外国籍家属和2名日本公民在内的共211人，从沙特阿拉伯等中东国家撤离并抵达首尔机场。"
+      }
+    },
+    {
+      "title": "트럼프 '호르무즈 군함 파견' 요청받은 한국 등 5개국 '신중' - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260316031809fKR",
+      "source": "연합뉴스TV",
+      "pubDate": "Sun, 15 Mar 2026 18:18:11 GMT",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260315/AKR20260316031809fKR_01_i.jpg",
+      "summaries": {
+        "ko": "트럼프 '호르무즈 군함 파견' 요청받은 한국 등 5개국 '신중' - 연합뉴스TV",
+        "en": "트럼프 '호르무즈 군함 파견' 요청받은 한국 등 5개국 '신중' - 연합뉴스TV",
+        "zh": "트럼프 '호르무즈 군함 파견' 요청받은 한국 등 5개국 '신중' - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "이 대통령 \"몰아친다고 되는 건 아냐\"···여당 초선들과 만찬서 검찰개혁 강경파에 전언 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603152216005",
+      "source": "경향신문",
+      "pubDate": "Sun, 15 Mar 2026 13:16:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/15/khan_g8daZF.jpg",
+      "summaries": {
+        "ko": "이 대통령 \"몰아친다고 되는 건 아냐\"···여당 초선들과 만찬서 검찰개혁 강경파에 전언 - 경향신문",
+        "en": "이 대통령 \"몰아친다고 되는 건 아냐\"···여당 초선들과 만찬서 검찰개혁 강경파에 전언 - 경향신문",
+        "zh": "이 대통령 \"몰아친다고 되는 건 아냐\"···여당 초선들과 만찬서 검찰개혁 강경파에 전언 - 경향신문"
+      }
+    },
+    {
+      "title": "‘이란 경제 심장’ 하르그섬 공습…미, 호르무즈 봉쇄 풀 지렛대로 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1249406.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 15 Mar 2026 13:12:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0315/20260315501794.webp",
+      "summaries": {
+        "ko": "‘이란 경제 심장’ 하르그섬 공습…미, 호르무즈 봉쇄 풀 지렛대로 - 한겨레",
+        "en": "‘이란 경제 심장’ 하르그섬 공습…미, 호르무즈 봉쇄 풀 지렛대로 - 한겨레",
+        "zh": "‘이란 경제 심장’ 하르그섬 공습…미, 호르무즈 봉쇄 풀 지렛대로 - 한겨레"
       }
     },
     {
@@ -23,42 +59,6 @@
         "ko": "이틀만에 돌아온 이정현 “오세훈, 제발 공천 참여를” - 조선일보",
         "en": "이틀만에 돌아온 이정현 “오세훈, 제발 공천 참여를” - 조선일보",
         "zh": "이틀만에 돌아온 이정현 “오세훈, 제발 공천 참여를” - 조선일보"
-      }
-    },
-    {
-      "title": "한국 포함 5개국 호르무즈 ‘킬 박스’ 몰아넣나…뒤로 빠지는 트럼프 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1249386.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 15 Mar 2026 15:54:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/738/imgdb/child/2026/0315/17735679306516_4517735632414627.webp",
-      "summaries": {
-        "ko": "한국 포함 5개국 호르무즈 ‘킬 박스’ 몰아넣나…뒤로 빠지는 트럼프 - 한겨레",
-        "en": "한국 포함 5개국 호르무즈 ‘킬 박스’ 몰아넣나…뒤로 빠지는 트럼프 - 한겨레",
-        "zh": "한국 포함 5개국 호르무즈 ‘킬 박스’ 몰아넣나…뒤로 빠지는 트럼프 - 한겨레"
-      }
-    },
-    {
-      "title": "미, 이란 ‘석유 전초기지’ 하르그섬 폭격…주일미군도 파견 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603152031005",
-      "source": "경향신문",
-      "pubDate": "Sun, 15 Mar 2026 11:31:00 GMT",
-      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
-      "summaries": {
-        "ko": "미, 이란 ‘석유 전초기지’ 하르그섬 폭격…주일미군도 파견 - 경향신문",
-        "en": "미, 이란 ‘석유 전초기지’ 하르그섬 폭격…주일미군도 파견 - 경향신문",
-        "zh": "미, 이란 ‘석유 전초기지’ 하르그섬 폭격…주일미군도 파견 - 경향신문"
-      }
-    },
-    {
-      "title": "이 대통령 “헌법에 있는 ‘검찰총장’ 어떻게 바꾸나” 작심 발언 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1249447.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 15 Mar 2026 15:53:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/655/499/imgdb/original/2026/0315/20260315502148.webp",
-      "summaries": {
-        "ko": "이 대통령 “헌법에 있는 ‘검찰총장’ 어떻게 바꾸나” 작심 발언 - 한겨레",
-        "en": "이 대통령 “헌법에 있는 ‘검찰총장’ 어떻게 바꾸나” 작심 발언 - 한겨레",
-        "zh": "이 대통령 “헌법에 있는 ‘검찰총장’ 어떻게 바꾸나” 작심 발언 - 한겨레"
       }
     },
     {
@@ -119,30 +119,6 @@
         "ko": "[단독] 불난 서울 호스텔 ‘일본인 모녀’ 엄마 의식불명…스프링클러 없었다 - 한겨레",
         "en": "[단독] 불난 서울 호스텔 ‘일본인 모녀’ 엄마 의식불명…스프링클러 없었다 - 한겨레",
         "zh": "[단독] 불난 서울 호스텔 ‘일본인 모녀’ 엄마 의식불명…스프링클러 없었다 - 한겨레"
-      }
-    },
-    {
-      "title": "[속보] 민주 \"트럼프 군함 파견 요구 관련 당정 간 긴밀 소통 예정\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260315211811iNF",
-      "source": "Breaking News",
-      "pubDate": "Sun, 15 Mar 2026 21:18:14 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260315/AKR20260315211811iNF_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 민주 \"트럼프 군함 파견 요구 관련 당정 간 긴밀 소통 예정\"",
-        "en": "[속보] 민주 \"트럼프 군함 파견 요구 관련 당정 간 긴밀 소통 예정\"",
-        "zh": "[속보] 민주 \"트럼프 군함 파견 요구 관련 당정 간 긴밀 소통 예정\""
-      }
-    },
-    {
-      "title": "[속보]  민주 \"이 대통령, 초선의원 만찬서 개혁과제 해결 위한 당정 협조 당부\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260315211258aNC",
-      "source": "Breaking News",
-      "pubDate": "Sun, 15 Mar 2026 21:13:00 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260315/AKR20260315211258aNC_01_i.jpg",
-      "summaries": {
-        "ko": "[속보]  민주 \"이 대통령, 초선의원 만찬서 개혁과제 해결 위한 당정 협조 당부\"",
-        "en": "[속보]  민주 \"이 대통령, 초선의원 만찬서 개혁과제 해결 위한 당정 협조 당부\"",
-        "zh": "[속보]  민주 \"이 대통령, 초선의원 만찬서 개혁과제 해결 위한 당정 협조 당부\""
       }
     }
   ]
