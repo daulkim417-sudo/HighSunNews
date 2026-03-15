@@ -1,28 +1,40 @@
 {
-  "lastUpdate": "2026-03-15T09:57:14.558137",
+  "lastUpdate": "2026-03-15T10:20:57.508319",
   "items": [
     {
-      "title": "트럼프 군함 요청 받은 중·일·영·프, 동의도 거절도 않고 ‘모호성 유지’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/china/1249404.html",
+      "title": "[속보] “첩보작전 방불” 사우디 교민 탈출… 군 수송기 서울공항 도착 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1249420.html",
       "source": "한겨레",
-      "pubDate": "Sun, 15 Mar 2026 08:18:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/750/500/imgdb/original/2026/0315/20260315501760.webp",
+      "pubDate": "Sun, 15 Mar 2026 09:32:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0315/53_17735663334234_20260315501886.webp",
       "summaries": {
-        "ko": "트럼프 군함 요청 받은 중·일·영·프, 동의도 거절도 않고 ‘모호성 유지’ - 한겨레",
-        "en": "트럼프 군함 요청 받은 중·일·영·프, 동의도 거절도 않고 ‘모호성 유지’ - 한겨레",
-        "zh": "트럼프 군함 요청 받은 중·일·영·프, 동의도 거절도 않고 ‘모호성 유지’ - 한겨레"
+        "ko": "중동 분쟁 확산 속 우리 정부가 ‘사막의 빛’ 작전명 아래 군 수송기를 투입하여 사우디아라비아 등 중동에 체류 중이던 우리 국민과 외국인 등 총 211명을 서울공항으로 성공적으로 귀국시켰다.",
+        "en": "Amidst the escalating conflict in the Middle East, the South Korean government successfully repatriated a total of 211 people, including its citizens and foreign nationals from countries like Saudi Arabia, to Seoul Air Base using a military transport plane under 'Operation Desert Light'.",
+        "zh": "随着中东冲突升级，韩国政府在“沙漠之光”行动下动用军用运输机，成功将包括韩国公民和外国人在内的共211名滞留沙特阿拉伯等中东国家的人员接回首尔机场。"
       }
     },
     {
       "title": "트럼프 “모즈타바 살아있다면 항복해야…하르그섬 재미삼아 또 공격할수도” - 조선일보",
       "link": "https://www.chosun.com/international/international_general/2026/03/15/PWKTHVJ5HJHEPG2VQM775KT2WQ/",
       "source": "조선일보",
-      "pubDate": "Sun, 15 Mar 2026 06:12:00 GMT",
+      "pubDate": "Sun, 15 Mar 2026 06:22:56 GMT",
       "image": "https://www.chosun.com/resizer/v2/GUZDMNZXGA4GGNBVMM4GENBVME.jpg?auth=d61acb8c35c03268aef41b900f40682030850ba7360898692733a682f02314ec&width=1200&height=630&smart=true",
       "summaries": {
         "ko": "트럼프 “모즈타바 살아있다면 항복해야…하르그섬 재미삼아 또 공격할수도” - 조선일보",
         "en": "트럼프 “모즈타바 살아있다면 항복해야…하르그섬 재미삼아 또 공격할수도” - 조선일보",
         "zh": "트럼프 “모즈타바 살아있다면 항복해야…하르그섬 재미삼아 또 공격할수도” - 조선일보"
+      }
+    },
+    {
+      "title": "이란 국민들 “정권 교체 아닌 국가 붕괴”···전쟁 장기화에 ‘반정부 동력’도 위축 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603151414001",
+      "source": "경향신문",
+      "pubDate": "Sun, 15 Mar 2026 05:14:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/15/rcv.YNA.20260315.PEP20260315049701009_P1.jpg",
+      "summaries": {
+        "ko": "전쟁 장기화와 사상자 급증, 시설 파괴로 이란 국민들은 정권 교체에 대한 기대 대신 국가 붕괴와 더욱 잔혹해질 정권을 우려하며 반정부 동력을 잃고 있다.",
+        "en": "With the prolonged war, surging casualties, and destruction, Iranians' initial hope for regime change has dwindled, replaced by fears of state collapse and a more brutal regime, especially as US and Israeli expectations for immediate change have also receded.",
+        "zh": "随着战争长期化、伤亡激增和设施被毁，伊朗民众对政权更迭的期望已消退，转而担忧国家崩溃和政权愈发残暴，尤其在美国和以色列对立即政权更迭的期待也已减弱之后。"
       }
     },
     {
@@ -38,27 +50,15 @@
       }
     },
     {
-      "title": "이란 국민들 “정권 교체 아닌 국가 붕괴”···전쟁 장기화에 ‘반정부 동력’도 위축 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603151414001",
-      "source": "경향신문",
-      "pubDate": "Sun, 15 Mar 2026 05:14:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/15/rcv.YNA.20260315.PEP20260315049701009_P1.jpg",
+      "title": "이틀 만에 복귀한 이정현 “오세훈, 공천 참여하라” - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/03/15/TS6YRXFDCJE7JOF2I7DU7EVLBY/",
+      "source": "조선일보",
+      "pubDate": "Sun, 15 Mar 2026 03:26:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/44JFRIYCGVOQXE446EFOQ4VGKM.jpg?auth=ea14c5c214a47ecf7224c1ed3473379706662acdb20a538e363eec9dc45e29f2&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "이란 국민들 “정권 교체 아닌 국가 붕괴”···전쟁 장기화에 ‘반정부 동력’도 위축 - 경향신문",
-        "en": "이란 국민들 “정권 교체 아닌 국가 붕괴”···전쟁 장기화에 ‘반정부 동력’도 위축 - 경향신문",
-        "zh": "이란 국민들 “정권 교체 아닌 국가 붕괴”···전쟁 장기화에 ‘반정부 동력’도 위축 - 경향신문"
-      }
-    },
-    {
-      "title": "\"이란과 종전 합의 생각 없어\"…트럼프 장기전 불사하나 - 마켓인",
-      "link": "https://marketin.edaily.co.kr/News/ReadE?newsId=01866326645383648",
-      "source": "마켓인",
-      "pubDate": "Sun, 15 Mar 2026 08:50:35 GMT",
-      "image": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/03/PS26031500432.jpg",
-      "summaries": {
-        "ko": "\"이란과 종전 합의 생각 없어\"…트럼프 장기전 불사하나 - 마켓인",
-        "en": "\"이란과 종전 합의 생각 없어\"…트럼프 장기전 불사하나 - 마켓인",
-        "zh": "\"이란과 종전 합의 생각 없어\"…트럼프 장기전 불사하나 - 마켓인"
+        "ko": "이틀 만에 복귀한 이정현 “오세훈, 공천 참여하라” - 조선일보",
+        "en": "이틀 만에 복귀한 이정현 “오세훈, 공천 참여하라” - 조선일보",
+        "zh": "이틀 만에 복귀한 이정현 “오세훈, 공천 참여하라” - 조선일보"
       }
     },
     {
@@ -71,18 +71,6 @@
         "ko": "[사설] 외국인 몰린 캡슐호텔 화재, ‘BTS 공연’ 안전에 이상 없나 - 한겨레",
         "en": "[사설] 외국인 몰린 캡슐호텔 화재, ‘BTS 공연’ 안전에 이상 없나 - 한겨레",
         "zh": "[사설] 외국인 몰린 캡슐호텔 화재, ‘BTS 공연’ 안전에 이상 없나 - 한겨레"
-      }
-    },
-    {
-      "title": "국힘 이정현 “서울시장 후보 추가 접수받을 것…오세훈 참여 기대” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603151143011",
-      "source": "경향신문",
-      "pubDate": "Sun, 15 Mar 2026 02:43:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/15/news-p.v1.20260315.31398cfc8147459cbebfab40f93d04c0_P1.jpg",
-      "summaries": {
-        "ko": "국힘 이정현 “서울시장 후보 추가 접수받을 것…오세훈 참여 기대” - 경향신문",
-        "en": "국힘 이정현 “서울시장 후보 추가 접수받을 것…오세훈 참여 기대” - 경향신문",
-        "zh": "국힘 이정현 “서울시장 후보 추가 접수받을 것…오세훈 참여 기대” - 경향신문"
       }
     },
     {
@@ -110,15 +98,27 @@
       }
     },
     {
-      "title": "이 대통령, 국민 무사 귀국에 \"범정부 차원 원팀 협력 성과\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260315184650lDj",
-      "source": "Breaking News",
-      "pubDate": "Sun, 15 Mar 2026 18:46:53 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260315/AKR20260315184650lDj_01_i.jpg",
+      "title": "월요일 출근길 기온 뚝, 일교차 커 - 조선일보",
+      "link": "https://www.chosun.com/national/transport-environment/2026/03/15/IMT4BT2ZRBFMRALQQZ73KPA2KQ/",
+      "source": "조선일보",
+      "pubDate": "Sun, 15 Mar 2026 07:26:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GUYGIZDGGE4TOMZTMIYGEYZZMI.jpg?auth=077115f0774e5ed814e0f08715df1cf6475b64cd8ae9bd1948cbb7740cf792c3&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "이 대통령, 국민 무사 귀국에 \"범정부 차원 원팀 협력 성과\"",
-        "en": "이 대통령, 국민 무사 귀국에 \"범정부 차원 원팀 협력 성과\"",
-        "zh": "이 대통령, 국민 무사 귀국에 \"범정부 차원 원팀 협력 성과\""
+        "ko": "월요일 출근길 기온 뚝, 일교차 커 - 조선일보",
+        "en": "월요일 출근길 기온 뚝, 일교차 커 - 조선일보",
+        "zh": "월요일 출근길 기온 뚝, 일교차 커 - 조선일보"
+      }
+    },
+    {
+      "title": "靑, 정책실장 주재 관계부처 회의…\"신속 추경 편성\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260315191935npd",
+      "source": "Breaking News",
+      "pubDate": "Sun, 15 Mar 2026 19:19:54 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260315/MYH20260315191935npd.jpg",
+      "summaries": {
+        "ko": "청와대가 이재명 대통령의 지시에 따라 정책실장 주재 관계부처 회의를 열고 중동 정세 불안에 따른 경제 영향 최소화를 위해 초과 세수를 활용한 신속한 추가경정예산 편성을 논의했다.",
+        "en": "The presidential office held a meeting of relevant ministries, presided over by the Chief of Staff for Policy, as per President Lee Jae-myung's directive, to discuss the swift formation of a supplementary budget utilizing excess tax revenue to minimize the economic impact of Middle East instability.",
+        "zh": "青瓦台根据李在明总统的指示，召集政策室长主持的相关部门会议，讨论如何利用超额税收，迅速编制追加预算，以最大程度地减少中东局势不稳定对经济的影响。"
       }
     },
     {
