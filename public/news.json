@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-03-15T15:03:01.462933",
+  "lastUpdate": "2026-03-15T15:39:18.475628",
   "items": [
-    {
-      "title": "‘호르무즈 너무 위험한데, 유가는 잡아야겠고’···트럼프, 동맹국에 중국까지 ‘압박’ - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603152026005",
-      "source": "경향신문",
-      "pubDate": "Sun, 15 Mar 2026 11:26:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/15/l_2026031601000401900046331.jpg",
-      "summaries": {
-        "ko": "‘호르무즈 너무 위험한데, 유가는 잡아야겠고’···트럼프, 동맹국에 중국까지 ‘압박’ - 경향신문",
-        "en": "‘호르무즈 너무 위험한데, 유가는 잡아야겠고’···트럼프, 동맹국에 중국까지 ‘압박’ - 경향신문",
-        "zh": "‘호르무즈 너무 위험한데, 유가는 잡아야겠고’···트럼프, 동맹국에 중국까지 ‘압박’ - 경향신문"
-      }
-    },
     {
       "title": "사우디서 211명 태운 공군 수송기 서울공항 도착 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1249420.html",
@@ -35,6 +23,18 @@
         "ko": "‘이란 경제 심장’ 하르그섬 공습…미, 호르무즈 봉쇄 풀 지렛대로 - 한겨레",
         "en": "‘이란 경제 심장’ 하르그섬 공습…미, 호르무즈 봉쇄 풀 지렛대로 - 한겨레",
         "zh": "‘이란 경제 심장’ 하르그섬 공습…미, 호르무즈 봉쇄 풀 지렛대로 - 한겨레"
+      }
+    },
+    {
+      "title": "‘호르무즈 너무 위험한데, 유가는 잡아야겠고’···트럼프, 동맹국에 중국까지 ‘압박’ - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603152026005",
+      "source": "경향신문",
+      "pubDate": "Sun, 15 Mar 2026 11:26:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/15/l_2026031601000401900046331.jpg",
+      "summaries": {
+        "ko": "‘호르무즈 너무 위험한데, 유가는 잡아야겠고’···트럼프, 동맹국에 중국까지 ‘압박’ - 경향신문",
+        "en": "‘호르무즈 너무 위험한데, 유가는 잡아야겠고’···트럼프, 동맹국에 중국까지 ‘압박’ - 경향신문",
+        "zh": "‘호르무즈 너무 위험한데, 유가는 잡아야겠고’···트럼프, 동맹국에 중국까지 ‘압박’ - 경향신문"
       }
     },
     {
@@ -74,27 +74,15 @@
       }
     },
     {
-      "title": "[단독] 불난 서울 호스텔 ‘일본인 모녀’ 엄마 의식불명…스프링클러 없었다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1249422.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 15 Mar 2026 13:12:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/600/imgdb/original/2026/0315/20260315501928.webp",
+      "title": "무안 제주항공 참사 유족 \"사고 현장서 유해 추정 10여점 추가 발견\" - 조선일보",
+      "link": "https://www.chosun.com/national/regional/2026/03/15/U4VPDDVYMJB2LKMDUHYNE47EUU/",
+      "source": "조선일보",
+      "pubDate": "Sun, 15 Mar 2026 05:43:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/4C4ELVHVTVN5HLJRXZIT4NIZPE.jpg?auth=6fa9f3f7c69a4b4742e68caf38822e2ad34dd7adae378e00dc7f92d1744b35ab&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "[단독] 불난 서울 호스텔 ‘일본인 모녀’ 엄마 의식불명…스프링클러 없었다 - 한겨레",
-        "en": "[단독] 불난 서울 호스텔 ‘일본인 모녀’ 엄마 의식불명…스프링클러 없었다 - 한겨레",
-        "zh": "[단독] 불난 서울 호스텔 ‘일본인 모녀’ 엄마 의식불명…스프링클러 없었다 - 한겨레"
-      }
-    },
-    {
-      "title": "제주항공 참사 유족 \"사고 현장서 유해 추정 물체 10여점 발견\" - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260315029300054",
-      "source": "연합뉴스",
-      "pubDate": "Sun, 15 Mar 2026 03:41:46 GMT",
-      "image": "https://img3.yna.co.kr/photo/yna/YH/2026/03/12/PYH2026031219760005400_P4.jpg",
-      "summaries": {
-        "ko": "제주항공 참사 유족 \"사고 현장서 유해 추정 물체 10여점 발견\" - 연합뉴스",
-        "en": "제주항공 참사 유족 \"사고 현장서 유해 추정 물체 10여점 발견\" - 연합뉴스",
-        "zh": "제주항공 참사 유족 \"사고 현장서 유해 추정 물체 10여점 발견\" - 연합뉴스"
+        "ko": "무안 제주항공 참사 유족 \"사고 현장서 유해 추정 10여점 추가 발견\" - 조선일보",
+        "en": "무안 제주항공 참사 유족 \"사고 현장서 유해 추정 10여점 추가 발견\" - 조선일보",
+        "zh": "무안 제주항공 참사 유족 \"사고 현장서 유해 추정 10여점 추가 발견\" - 조선일보"
       }
     },
     {
@@ -119,6 +107,18 @@
         "ko": "이 대통령, 3·15 의거 기념식 참석 후 반송시장 깜짝방문‥장바구니 물가도 점검 - MBC 뉴스",
         "en": "이 대통령, 3·15 의거 기념식 참석 후 반송시장 깜짝방문‥장바구니 물가도 점검 - MBC 뉴스",
         "zh": "이 대통령, 3·15 의거 기념식 참석 후 반송시장 깜짝방문‥장바구니 물가도 점검 - MBC 뉴스"
+      }
+    },
+    {
+      "title": "월요일 출근길 기온 뚝, 일교차 커 - 조선일보",
+      "link": "https://www.chosun.com/national/transport-environment/2026/03/15/IMT4BT2ZRBFMRALQQZ73KPA2KQ/",
+      "source": "조선일보",
+      "pubDate": "Sun, 15 Mar 2026 07:26:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GUYGIZDGGE4TOMZTMIYGEYZZMI.jpg?auth=077115f0774e5ed814e0f08715df1cf6475b64cd8ae9bd1948cbb7740cf792c3&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "월요일 출근길 기온 뚝, 일교차 커 - 조선일보",
+        "en": "월요일 출근길 기온 뚝, 일교차 커 - 조선일보",
+        "zh": "월요일 출근길 기온 뚝, 일교차 커 - 조선일보"
       }
     },
     {
