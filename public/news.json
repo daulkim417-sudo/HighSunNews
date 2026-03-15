@@ -1,16 +1,52 @@
 {
-  "lastUpdate": "2026-03-15T10:20:57.508319",
+  "lastUpdate": "2026-03-15T10:52:36.451585",
   "items": [
     {
-      "title": "[속보] “첩보작전 방불” 사우디 교민 탈출… 군 수송기 서울공항 도착 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1249420.html",
+      "title": "뒤로 빠지는 트럼프, 한국 포함 5개국 호르무즈 ‘킬 박스’ 몰아넣나 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1249386.html",
       "source": "한겨레",
-      "pubDate": "Sun, 15 Mar 2026 09:32:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0315/53_17735663334234_20260315501886.webp",
+      "pubDate": "Sun, 15 Mar 2026 08:36:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/738/imgdb/child/2026/0315/17735679306516_4517735632414627.webp",
       "summaries": {
-        "ko": "중동 분쟁 확산 속 우리 정부가 ‘사막의 빛’ 작전명 아래 군 수송기를 투입하여 사우디아라비아 등 중동에 체류 중이던 우리 국민과 외국인 등 총 211명을 서울공항으로 성공적으로 귀국시켰다.",
-        "en": "Amidst the escalating conflict in the Middle East, the South Korean government successfully repatriated a total of 211 people, including its citizens and foreign nationals from countries like Saudi Arabia, to Seoul Air Base using a military transport plane under 'Operation Desert Light'.",
-        "zh": "随着中东冲突升级，韩国政府在“沙漠之光”行动下动用军用运输机，成功将包括韩国公民和外国人在内的共211名滞留沙特阿拉伯等中东国家的人员接回首尔机场。"
+        "ko": "트럼프 대통령이 이란의 비대칭 전력 위협으로 '킬 박스'가 될 수 있는 호르무즈 해협의 위험한 호송 임무에 한국 등 주요 원유 수입국들의 군함 파견을 요구하며, 미군은 원거리 타격으로 역할을 제한해 작전의 고위험을 분산하려 하고 있다.",
+        "en": "President Trump is demanding that major oil-importing nations, including South Korea, send warships for dangerous escort missions in the Strait of Hormuz, which could become a 'kill box' due to Iran's asymmetric threats, while the U.S. limits its role to remote strikes to distribute the high operational risks.",
+        "zh": "特朗普总统要求包括韩国在内的主要石油进口国派遣军舰，承担霍尔木兹海峡的危险护航任务，因伊朗不对称威胁，该海峡可能成为“杀戮区”；而美军则将自身作用限制在远程打击，旨在分散行动的高风险。"
+      }
+    },
+    {
+      "title": "[속보] 사우디 출발 군 수송기 서울공항 도착…한국인 등 211명 탑승 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603151805001",
+      "source": "경향신문",
+      "pubDate": "Sun, 15 Mar 2026 09:05:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/15/news-p.v1.20260315.ecd17e8b8008402585e7f5f7001f7303_P1.jpeg",
+      "summaries": {
+        "ko": "[속보] 사우디 출발 군 수송기 서울공항 도착…한국인 등 211명 탑승 - 경향신문",
+        "en": "[속보] 사우디 출발 군 수송기 서울공항 도착…한국인 등 211명 탑승 - 경향신문",
+        "zh": "[속보] 사우디 출발 군 수송기 서울공항 도착…한국인 등 211명 탑승 - 경향신문"
+      }
+    },
+    {
+      "title": "“당에 전기충격” 전권 쥔 이정현, 대구 중진 컷오프 관철할까 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603151758001",
+      "source": "경향신문",
+      "pubDate": "Sun, 15 Mar 2026 08:58:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/15/news-p.v1.20260315.e49ccee69a624b40a23ac43640ecb420_P1.jpg",
+      "summaries": {
+        "ko": "“당에 전기충격” 전권 쥔 이정현, 대구 중진 컷오프 관철할까 - 경향신문",
+        "en": "“당에 전기충격” 전권 쥔 이정현, 대구 중진 컷오프 관철할까 - 경향신문",
+        "zh": "“당에 전기충격” 전권 쥔 이정현, 대구 중진 컷오프 관철할까 - 경향신문"
+      }
+    },
+    {
+      "title": "\"미·이란 전쟁, 주변국 포함 군·민간인 사망자 3천명 넘어\" - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260315010000009",
+      "source": "연합뉴스",
+      "pubDate": "Sat, 14 Mar 2026 23:25:53 GMT",
+      "image": "https://img6.yna.co.kr/etc/inner/KR/2026/03/15/AKR20260315010000009_01_i_P4.jpg",
+      "summaries": {
+        "ko": "\"미·이란 전쟁, 주변국 포함 군·민간인 사망자 3천명 넘어\" - 연합뉴스",
+        "en": "\"미·이란 전쟁, 주변국 포함 군·민간인 사망자 3천명 넘어\" - 연합뉴스",
+        "zh": "\"미·이란 전쟁, 주변국 포함 군·민간인 사망자 3천명 넘어\" - 연합뉴스"
       }
     },
     {
@@ -26,18 +62,6 @@
       }
     },
     {
-      "title": "이란 국민들 “정권 교체 아닌 국가 붕괴”···전쟁 장기화에 ‘반정부 동력’도 위축 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603151414001",
-      "source": "경향신문",
-      "pubDate": "Sun, 15 Mar 2026 05:14:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/15/rcv.YNA.20260315.PEP20260315049701009_P1.jpg",
-      "summaries": {
-        "ko": "전쟁 장기화와 사상자 급증, 시설 파괴로 이란 국민들은 정권 교체에 대한 기대 대신 국가 붕괴와 더욱 잔혹해질 정권을 우려하며 반정부 동력을 잃고 있다.",
-        "en": "With the prolonged war, surging casualties, and destruction, Iranians' initial hope for regime change has dwindled, replaced by fears of state collapse and a more brutal regime, especially as US and Israeli expectations for immediate change have also receded.",
-        "zh": "随着战争长期化、伤亡激增和设施被毁，伊朗民众对政权更迭的期望已消退，转而担忧国家崩溃和政权愈发残暴，尤其在美国和以色列对立即政权更迭的期待也已减弱之后。"
-      }
-    },
-    {
       "title": "국힘 \"李 대통령, 공소취소 거래설 침묵 일관 말라‥공소 취소 전면 중단해야\" - MBC 뉴스",
       "link": "https://imnews.imbc.com/news/2026/politics/article/6807524_36911.html",
       "source": "MBC 뉴스",
@@ -50,27 +74,15 @@
       }
     },
     {
-      "title": "이틀 만에 복귀한 이정현 “오세훈, 공천 참여하라” - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/03/15/TS6YRXFDCJE7JOF2I7DU7EVLBY/",
-      "source": "조선일보",
-      "pubDate": "Sun, 15 Mar 2026 03:26:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/44JFRIYCGVOQXE446EFOQ4VGKM.jpg?auth=ea14c5c214a47ecf7224c1ed3473379706662acdb20a538e363eec9dc45e29f2&width=1200&height=630&smart=true",
+      "title": "소공동 캡슐호텔 화재로 의식 잃었던 중국인 남성 깨어났다···오늘 경찰·소방 합동감식 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603151054001",
+      "source": "경향신문",
+      "pubDate": "Sun, 15 Mar 2026 01:54:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/15/rcv.YNA.20260314.PYH2026031408230001300_P1.jpg",
       "summaries": {
-        "ko": "이틀 만에 복귀한 이정현 “오세훈, 공천 참여하라” - 조선일보",
-        "en": "이틀 만에 복귀한 이정현 “오세훈, 공천 참여하라” - 조선일보",
-        "zh": "이틀 만에 복귀한 이정현 “오세훈, 공천 참여하라” - 조선일보"
-      }
-    },
-    {
-      "title": "[사설] 외국인 몰린 캡슐호텔 화재, ‘BTS 공연’ 안전에 이상 없나 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/opinion/editorial/1249415.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 15 Mar 2026 09:00:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0315/20260315501855.webp",
-      "summaries": {
-        "ko": "[사설] 외국인 몰린 캡슐호텔 화재, ‘BTS 공연’ 안전에 이상 없나 - 한겨레",
-        "en": "[사설] 외국인 몰린 캡슐호텔 화재, ‘BTS 공연’ 안전에 이상 없나 - 한겨레",
-        "zh": "[사설] 외국인 몰린 캡슐호텔 화재, ‘BTS 공연’ 안전에 이상 없나 - 한겨레"
+        "ko": "소공동 캡슐호텔 화재로 의식 잃었던 중국인 남성 깨어났다···오늘 경찰·소방 합동감식 - 경향신문",
+        "en": "소공동 캡슐호텔 화재로 의식 잃었던 중국인 남성 깨어났다···오늘 경찰·소방 합동감식 - 경향신문",
+        "zh": "소공동 캡슐호텔 화재로 의식 잃었던 중국인 남성 깨어났다···오늘 경찰·소방 합동감식 - 경향신문"
       }
     },
     {
@@ -86,18 +98,6 @@
       }
     },
     {
-      "title": "[단독]‘1.5평 독방 아동 감금’ 13년 전 학대 가해자, 같은 보육원 원장으로 돌아왔다 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603151427001",
-      "source": "경향신문",
-      "pubDate": "Sun, 15 Mar 2026 05:27:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/15/ams.V01.photo.KHN.P.20200612.20200612000388_P1.jpg",
-      "summaries": {
-        "ko": "[단독]‘1.5평 독방 아동 감금’ 13년 전 학대 가해자, 같은 보육원 원장으로 돌아왔다 - 경향신문",
-        "en": "[단독]‘1.5평 독방 아동 감금’ 13년 전 학대 가해자, 같은 보육원 원장으로 돌아왔다 - 경향신문",
-        "zh": "[단독]‘1.5평 독방 아동 감금’ 13년 전 학대 가해자, 같은 보육원 원장으로 돌아왔다 - 경향신문"
-      }
-    },
-    {
       "title": "월요일 출근길 기온 뚝, 일교차 커 - 조선일보",
       "link": "https://www.chosun.com/national/transport-environment/2026/03/15/IMT4BT2ZRBFMRALQQZ73KPA2KQ/",
       "source": "조선일보",
@@ -110,39 +110,15 @@
       }
     },
     {
-      "title": "靑, 정책실장 주재 관계부처 회의…\"신속 추경 편성\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260315191935npd",
-      "source": "Breaking News",
-      "pubDate": "Sun, 15 Mar 2026 19:19:54 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260315/MYH20260315191935npd.jpg",
+      "title": "이 대통령, '3·15의거 기념식' 참석‥김대중 이어 26년 만에 대통령 참석 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6807508_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 15 Mar 2026 02:12:16 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/03/15/cyj_260315_10.jpg",
       "summaries": {
-        "ko": "청와대가 이재명 대통령의 지시에 따라 정책실장 주재 관계부처 회의를 열고 중동 정세 불안에 따른 경제 영향 최소화를 위해 초과 세수를 활용한 신속한 추가경정예산 편성을 논의했다.",
-        "en": "The presidential office held a meeting of relevant ministries, presided over by the Chief of Staff for Policy, as per President Lee Jae-myung's directive, to discuss the swift formation of a supplementary budget utilizing excess tax revenue to minimize the economic impact of Middle East instability.",
-        "zh": "青瓦台根据李在明总统的指示，召集政策室长主持的相关部门会议，讨论如何利用超额税收，迅速编制追加预算，以最大程度地减少中东局势不稳定对经济的影响。"
-      }
-    },
-    {
-      "title": "[속보] 이 대통령 \"국민 204명 무사 귀국…기쁜 소식\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260315184246nzY",
-      "source": "Breaking News",
-      "pubDate": "Sun, 15 Mar 2026 18:43:01 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260315/MYH20260315184246nzY.jpg",
-      "summaries": {
-        "ko": "[속보] 이 대통령 \"국민 204명 무사 귀국…기쁜 소식\"",
-        "en": "[속보] 이 대통령 \"국민 204명 무사 귀국…기쁜 소식\"",
-        "zh": "[속보] 이 대통령 \"국민 204명 무사 귀국…기쁜 소식\""
-      }
-    },
-    {
-      "title": "[속보] 이 대통령 \"국민 204명 무사 귀국…범정부차원 협력 의미있는 성과\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260315183926FaG",
-      "source": "Breaking News",
-      "pubDate": "Sun, 15 Mar 2026 18:39:27 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260315/AKR20260315183926FaG_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 이 대통령 \"국민 204명 무사 귀국…범정부차원 협력 의미있는 성과\"",
-        "en": "[속보] 이 대통령 \"국민 204명 무사 귀국…범정부차원 협력 의미있는 성과\"",
-        "zh": "[속보] 이 대통령 \"국민 204명 무사 귀국…범정부차원 협력 의미있는 성과\""
+        "ko": "이 대통령, '3·15의거 기념식' 참석‥김대중 이어 26년 만에 대통령 참석 - MBC 뉴스",
+        "en": "이 대통령, '3·15의거 기념식' 참석‥김대중 이어 26년 만에 대통령 참석 - MBC 뉴스",
+        "zh": "이 대통령, '3·15의거 기념식' 참석‥김대중 이어 26년 만에 대통령 참석 - MBC 뉴스"
       }
     }
   ]
