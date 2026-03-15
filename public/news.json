@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-15T14:01:51.942832",
+  "lastUpdate": "2026-03-15T14:42:19.103531",
   "items": [
     {
       "title": "‘호르무즈 너무 위험한데, 유가는 잡아야겠고’···트럼프, 동맹국에 중국까지 ‘압박’ - 경향신문",
@@ -8,9 +8,9 @@
       "pubDate": "Sun, 15 Mar 2026 11:26:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/03/15/l_2026031601000401900046331.jpg",
       "summaries": {
-        "ko": "트럼프 대통령이 호르무즈 해협 유조선 호위 작전에 동맹국과 중국의 파병을 요구하고 있지만, 이란의 공격 위험과 막대한 작전 필요 자원 때문에 미국조차 개시를 주저하며 참여국 확보에 난항을 겪고 있다.",
-        "en": "President Trump is demanding that allies and China send troops for oil tanker escort operations in the Strait of Hormuz, but due to the risk of Iranian attacks and the massive resources required, even the U.S. is hesitant to commence the operation, making it difficult to secure participating nations.",
-        "zh": "特朗普总统正要求盟友和中国派兵参与霍尔木兹海峡的油轮护航行动，但由于伊朗袭击的风险和行动所需的大量资源，连美国也迟迟未能启动，导致难以争取到参与国。"
+        "ko": "트럼프 대통령이 호르무즈 해협 유조선 호위를 위해 동맹국과 중국에 군함 파견을 요청했지만, 이란의 공격 위험과 막대한 군사 자원 필요성으로 인해 각국의 참여 결정이 난항을 겪고 있다.",
+        "en": "President Trump has requested allies and China to dispatch warships for oil tanker escort in the Strait of Hormuz, but their participation is proving difficult due to the high risk of Iranian attacks and the significant military resources required.",
+        "zh": "特朗普总统要求盟友和中国派军舰前往霍尔木兹海峡护送油轮，但由于伊朗袭击的风险和所需的大量军事资源，各国难以决定是否参与。"
       }
     },
     {
@@ -26,11 +26,23 @@
       }
     },
     {
+      "title": "‘이란 경제 심장’ 하르그섬 공습…미, 호르무즈 봉쇄 풀 지렛대로 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1249406.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 15 Mar 2026 13:12:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0315/20260315501794.webp",
+      "summaries": {
+        "ko": "‘이란 경제 심장’ 하르그섬 공습…미, 호르무즈 봉쇄 풀 지렛대로 - 한겨레",
+        "en": "‘이란 경제 심장’ 하르그섬 공습…미, 호르무즈 봉쇄 풀 지렛대로 - 한겨레",
+        "zh": "‘이란 경제 심장’ 하르그섬 공습…미, 호르무즈 봉쇄 풀 지렛대로 - 한겨레"
+      }
+    },
+    {
       "title": "국힘 이정현, 오세훈에 “공천 신청 재재공모 이례적... 꼭 경쟁해주길 간절히 바란다” - 조선일보",
       "link": "https://www.chosun.com/politics/assembly/2026/03/15/VQBJUG7PWZHDJFI3G2G36DJBG4/",
       "source": "조선일보",
       "pubDate": "Sun, 15 Mar 2026 10:44:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/CLQWWFEQXBKZXIFJGBN2EFTMJI.jpg?auth=98d9cc8930d3bb017e5461c561d9fe5d90943b033a6153ed0ce479042dcd3eb7&width=1200&height=630&smart=true",
+      "image": "https://www.chosun.com/resizer/v2/CLQWWFEQXBKZXIFJGBN2EFTMJI.jpg?auth=98d9cc8930d3bb017e5461c561d9fe5d90943b033a6153ed0ce479042dcd3eb7&width=1200&height=630&focal=642,420",
       "summaries": {
         "ko": "국힘 이정현, 오세훈에 “공천 신청 재재공모 이례적... 꼭 경쟁해주길 간절히 바란다” - 조선일보",
         "en": "국힘 이정현, 오세훈에 “공천 신청 재재공모 이례적... 꼭 경쟁해주길 간절히 바란다” - 조선일보",
@@ -62,18 +74,6 @@
       }
     },
     {
-      "title": "정부, 쉰들러 3200억 국제투자분쟁 승소…소송비 96억 돌려받는다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1249417.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 15 Mar 2026 12:14:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/385/imgdb/original/2026/0315/20260315501865.webp",
-      "summaries": {
-        "ko": "정부, 쉰들러 3200억 국제투자분쟁 승소…소송비 96억 돌려받는다 - 한겨레",
-        "en": "정부, 쉰들러 3200억 국제투자분쟁 승소…소송비 96억 돌려받는다 - 한겨레",
-        "zh": "정부, 쉰들러 3200억 국제투자분쟁 승소…소송비 96억 돌려받는다 - 한겨레"
-      }
-    },
-    {
       "title": "제주항공 참사 유족 \"사고 현장서 유해 추정 물체 10여점 발견\" - 연합뉴스",
       "link": "https://www.yna.co.kr/view/AKR20260315029300054",
       "source": "연합뉴스",
@@ -86,15 +86,15 @@
       }
     },
     {
-      "title": "피해자 직장 앞서 기다리다 '스토킹 살해'…체포영장 신청 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260315162449uNs",
-      "source": "연합뉴스TV",
-      "pubDate": "Sun, 15 Mar 2026 07:25:11 GMT",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260315/AKR20260315162449uNs_01_i.JPG",
+      "title": "스마트워치·전자발찌 다 있었지만…또 막지 못한 스토킹 살인 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/capital/1249383.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 15 Mar 2026 11:18:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/422/imgdb/original/2026/0315/20260315501531.webp",
       "summaries": {
-        "ko": "피해자 직장 앞서 기다리다 '스토킹 살해'…체포영장 신청 - 연합뉴스TV",
-        "en": "피해자 직장 앞서 기다리다 '스토킹 살해'…체포영장 신청 - 연합뉴스TV",
-        "zh": "피해자 직장 앞서 기다리다 '스토킹 살해'…체포영장 신청 - 연합뉴스TV"
+        "ko": "스마트워치·전자발찌 다 있었지만…또 막지 못한 스토킹 살인 - 한겨레",
+        "en": "스마트워치·전자발찌 다 있었지만…또 막지 못한 스토킹 살인 - 한겨레",
+        "zh": "스마트워치·전자발찌 다 있었지만…또 막지 못한 스토킹 살인 - 한겨레"
       }
     },
     {
