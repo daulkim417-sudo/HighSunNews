@@ -1,52 +1,64 @@
 {
-  "lastUpdate": "2026-03-17T07:20:40.322937",
+  "lastUpdate": "2026-03-17T08:05:05.674738",
   "items": [
     {
-      "title": "[속보] 오세훈 “서울시장 후보 등록하겠다... 張 지도부는 무능·무책임” - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/03/17/HYHJU5URYFHXFGWX5MY3DB4PCQ/",
-      "source": "조선일보",
-      "pubDate": "Tue, 17 Mar 2026 06:01:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/S5AHVATSS5LFTBHBRD2MBRWWNQ.JPG?auth=66e20bf3a0adb13f0aa758a85836bc0a8b98a61d549ad5f329bac46e8998d6e6&width=1200&height=630&focal=3330,1637",
-      "summaries": {
-        "ko": "[속보] 오세훈 “서울시장 후보 등록하겠다... 張 지도부는 무능·무책임” - 조선일보",
-        "en": "[속보] 오세훈 “서울시장 후보 등록하겠다... 張 지도부는 무능·무책임” - 조선일보",
-        "zh": "[속보] 오세훈 “서울시장 후보 등록하겠다... 張 지도부는 무능·무책임” - 조선일보"
-      }
-    },
-    {
-      "title": "이 대통령 “전쟁 추경, 소득지원 할 수밖에…지방에 더 대대적으로” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1249672.html",
+      "title": "오세훈 후보 등록…“선당후사, 최전방 사령관의 마음” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1249722.html",
       "source": "한겨레",
-      "pubDate": "Tue, 17 Mar 2026 05:34:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0317/53_17737255195966_20260317501172.webp",
+      "pubDate": "Tue, 17 Mar 2026 07:15:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/child/2026/0317/53_17737285663783_9417737284396812.webp",
       "summaries": {
-        "ko": "이재명 대통령은 미국·이스라엘-이란 전쟁으로 취약계층의 삶이 어려워진다며 '전쟁 추경'을 신속히 편성하여 소득 지원 정책을 펴고 특히 지방에 더 대대적으로 지원할 것을 당부했다.",
-        "en": "President Lee Jae-myung called for the swift formation of a \"war supplementary budget\" to provide income support, especially to local areas on a large scale, citing the difficulties faced by vulnerable groups due to the US-Israel-Iran war.",
-        "zh": "李在明总统表示，由于美国-以色列-伊朗战争导致弱势群体的生活日益艰难，他呼吁迅速编制“战争追加预算”，以推行收入支持政策，并特别要求对地方进行更大规模的援助。"
+        "ko": "오세훈 서울시장이 장동혁 대표의 변화 의지 부족을 비판하며 서울시장 후보로 등록하고 \"최전방 사령관의 마음으로 반드시 승리하고 서울에서부터 변화를 시작하겠다\"고 선언했다.",
+        "en": "Seoul Mayor Oh Se-hoon registered as a candidate for Seoul Mayor, criticizing Jang Dong-hyuk's lack of will for change, and declared, \"With the heart of a frontline commander, I will surely win and begin change starting from Seoul.\"",
+        "zh": "首尔市长吴世勋登记参选首尔市长，批评张东赫代表缺乏改革意愿，并宣称“以最前线司令官的心情，我必将获胜并从首尔开始变革”。"
       }
     },
     {
-      "title": "“우리 전쟁 아냐” “협박 말라”···유럽, 호르무즈 파병 압박에도 ‘선 긋기’ - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603171512001",
-      "source": "경향신문",
-      "pubDate": "Tue, 17 Mar 2026 06:12:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/17/rcv.YNA.20260317.PEP20260317033201009_P1.jpg",
+      "title": "“日 정부, 호르무즈 해협에 자위대 파견 검토 착수” - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/03/17/UB2CVLBXLNEBFAXFB24JBGNKYA/",
+      "source": "조선일보",
+      "pubDate": "Tue, 17 Mar 2026 06:12:10 GMT",
+      "image": "https://www.chosun.com/resizer/v2/H4VFA3ZW4BPE7JRAPX7XXJRTJM.jpg?auth=6e6a1ca7d4f6572b03c73eb072064df625604ea16a46685954dec82efe81be34&width=1200&height=630&focal=1850,1387",
       "summaries": {
-        "ko": "유럽 국가들은 호르무즈 해협 파병을 요구하는 트럼프 미국 대통령의 압박에 '우리의 전쟁이 아니다'라며 선을 긋고 냉담한 반응을 보이고 있으며, 이는 트럼프 정부의 동맹 무시와 압력 남용에 대한 불만이 반영된 것으로 풀이된다.",
-        "en": "European nations are drawing a line and reacting coldly to US President Trump's pressure for Strait of Hormuz deployment, stating \"this is not our war,\" reflecting dissatisfaction with the Trump administration's disregard for alliances and overuse of pressure.",
-        "zh": "欧洲国家对美国总统特朗普要求在霍尔木兹海峡部署军队的压力反应冷淡，划清界限并表示“这不是我们的战争”，这反映出对特朗普政府无视盟友和滥用压力的不满。"
+        "ko": "“日 정부, 호르무즈 해협에 자위대 파견 검토 착수” - 조선일보",
+        "en": "“日 정부, 호르무즈 해협에 자위대 파견 검토 착수” - 조선일보",
+        "zh": "“日 정부, 호르무즈 해협에 자위대 파견 검토 착수” - 조선일보"
       }
     },
     {
-      "title": "“모즈타바, 미 공습 당시 마당 산책···몇 분 차이로 목숨 구해” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603171057001",
+      "title": "[단독]정부, 저소득층 ‘지역화폐 직접 지원’ 추경 검토···고유가 대응 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603171104001",
       "source": "경향신문",
-      "pubDate": "Tue, 17 Mar 2026 01:57:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/17/rcv.YNA.20260314.PAP20260314212601009_P1.jpg",
+      "pubDate": "Tue, 17 Mar 2026 06:50:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/17/news-p.v1.20260317.7f6313355a014c4dba226f51f27421df_P1.jpeg",
       "summaries": {
-        "ko": "이란의 새 최고지도자 모즈타바 하메네이가 최근 미국-이스라엘 공습 당시 마당에 있어 부친과 다른 가족들이 사망하는 와중에도 몇 분 차이로 목숨을 건졌다는 보도가 나왔으며, 이는 그의 현재 저조한 공개 활동과 미확인된 건강 문제와 연관되고 있다.",
-        "en": "Iran's new Supreme Leader, Mojtaba Khamenei, reportedly survived a recent US-Israeli airstrike that killed his father and other family members, by being in his yard just minutes before the impact, an event now linked to his low public profile and unconfirmed health issues.",
-        "zh": "据报道，伊朗新任最高领袖莫吉塔巴·哈梅内伊在最近一次美以空袭中幸存，当时他的父亲和其他家人遇难，他因在袭击发生前几分钟身处院中而得以逃生，此事现已与他低调的公众形象和未经证实的健康问题联系起来。"
+        "ko": "정부가 고유가·고물가 충격 완화를 위해 추가경정예산으로 저소득층에게 지역화폐를 직접 지원하는 방안을 검토 중이며, 이재명 대통령 또한 소득 지원 정책의 필요성을 강조했다.",
+        "en": "The government is reportedly considering direct support of regional currency to low-income households through a supplementary budget to mitigate the impact of high oil prices and inflation, a measure also emphasized by President Lee Jae-myung.",
+        "zh": "韩国政府正在考虑通过追加预算案向低收入阶层直接发放地区货币，以应对高油价和高物价冲击，李在明总统也强调了收入支援政策的必要性。"
+      }
+    },
+    {
+      "title": "박형준, 국민의힘 부산시장 후보 '경선' 결정에 \"올바른 방향\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6808093_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Tue, 17 Mar 2026 05:07:49 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/03/17/ljm_20260317_1.jpg",
+      "summaries": {
+        "ko": "국민의힘 공천관리위원회가 현역 박형준 부산시장의 컷오프 논란 끝에 부산시장 후보를 경선으로 선출하기로 결정했으며, 박형준 시장과 경쟁 후보 주진우 의원 모두 이를 환영했다.",
+        "en": "Following controversy over a potential cut-off for incumbent Busan Mayor Park Hyeong-joon, the Grand National Party's nomination management committee decided to select its Busan mayoral candidate through primaries, a decision welcomed by both Mayor Park and his competitor, Assemblyman Joo Jin-woo.",
+        "zh": "国民力量党公荐管理委员会在对现任釜山市长朴亨埈的剔除争议后，决定通过竞选选出釜山市长候选人，朴亨埈市长和竞争对手朱振佑议员均对此表示欢迎。"
+      }
+    },
+    {
+      "title": "광화문 뒤흔들 ‘아리랑’…BTS 귀환, AI가 본 진짜 의미 - 지디넷코리아",
+      "link": "https://zdnet.co.kr/view/?no=20260317130313",
+      "source": "지디넷코리아",
+      "pubDate": "Tue, 17 Mar 2026 05:18:20 GMT",
+      "image": "https://image.zdnet.co.kr/2026/03/17/36d8e691cbdece4f1f6e39139c7512c4.png",
+      "summaries": {
+        "ko": "방탄소년단(BTS)의 완전체 귀환을 알리는 광화문 무료 공연이 대규모 인파를 모으며 즉각적인 경제 효과와 사회적 비용, 그리고 한국 브랜드 가치 상승이라는 무형의 문화적 자본 사이에서 AI 전문가들의 다양한 논쟁을 불러일으키고 있다.",
+        "en": "BTS's full-group return with a free Gwanghwamun concert is drawing a massive crowd and sparking diverse debates among AI experts, ranging from its immediate economic impact and potential social costs to its long-term, invaluable cultural capital in elevating Korea's brand value.",
+        "zh": "防弹少年团(BTS)以完整体回归，在光化门举办的免费公演预计将吸引大量人潮，引发AI专家对其即时经济效益、潜在社会成本以及提升韩国品牌价值的无形文化资本等真实意义的热烈讨论。"
       }
     },
     {
@@ -56,81 +68,57 @@
       "pubDate": "Tue, 17 Mar 2026 04:49:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/03/17/news-p.v1.20260317.2dccb751b6284823abe92dc5131db206_P1.jpg",
       "summaries": {
-        "ko": "2차 특검팀이 서울-양평고속도로 노선 변경 특혜 의혹과 관련해 원희룡 전 국토부 장관을 출국금지하면서 사건 전모 규명에 대한 기대가 커지고 있다.",
-        "en": "The second special prosecutor's team has imposed a travel ban on former Minister of Land, Infrastructure and Transport Won Hee-ryong in connection with the Seoul-Yangpyeong Expressway route change controversy, raising expectations for a full investigation into the alleged preferential treatment.",
-        "zh": "第二特别检察组就首尔-杨平高速公路路线变更特惠嫌疑对前国土交通部长官元喜龙实施了出境禁令，引发了对案件全面查明的期待。"
+        "ko": "서울-양평고속도로 의혹을 재수사하는 2차 특별검사팀이 원희룡 전 국토교통부 장관을 출국금지하면서, 지난 특검에서 밝히지 못했던 사건의 전모가 규명될지 주목받고 있다.",
+        "en": "The 2nd special prosecutor team, re-investigating the Seoul-Yangpyeong Expressway controversy, has imposed a travel ban on former Minister of Land, Infrastructure and Transport Won Hee-ryong, drawing attention to whether the full truth of the case, which the previous special prosecutor failed to uncover, will now be revealed.",
+        "zh": "第二批特别检察官团队在重新调查首尔-杨平高速公路争议时，对前国土交通部长元喜龙实施了出境禁令，引发了人们对前次特检未能揭露的案件真相能否被查明的关注。"
       }
     },
     {
-      "title": "‘BTS 공연 전날’ 금요일부터 서울 지하철역 17곳 물품 보관함 폐쇄 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8510527",
+      "title": "이 대통령 “부동산 세금은 핵폭탄, 써야 하면 쓸 것”…투기 경고 높여 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1249687.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 17 Mar 2026 02:29:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/396/imgdb/original/2026/0317/20260317501299.webp",
+      "summaries": {
+        "ko": "이재명 대통령은 부동산 투기를 잡기 위해 금융과 공급 정책을 우선하되, 세금은 핵폭탄 같아 신중해야 하지만 최후 수단으로 필요하면 사용할 것이라고 경고했다.",
+        "en": "President Lee Jae-myung warned that while financial and supply policies are prioritized to curb real estate speculation, taxes, though like a nuclear bomb requiring caution, will be used as a last resort if necessary.",
+        "zh": "李在明总统警告说，为了遏制房地产投机，金融和供应政策是优先事项，但税收如同核弹，需谨慎使用，然而在必要时将作为最终手段。"
+      }
+    },
+    {
+      "title": "경찰, 김영환 충북지사 구속영장... ‘3100만원 수수 혐의’ - 조선일보",
+      "link": "https://www.chosun.com/national/incident/2026/03/17/NK2OU6O5LNAATMQNABWWKX2PCE/",
+      "source": "조선일보",
+      "pubDate": "Tue, 17 Mar 2026 02:05:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/JP7ZPRQKGBIVZC6ABTK3KYFZ4I.jpg?auth=987ef60e59c899987cabfea9bf966b404bae649f08c1657ccae346c5c8ae654c&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "경찰, 김영환 충북지사 구속영장... ‘3100만원 수수 혐의’ - 조선일보",
+        "en": "경찰, 김영환 충북지사 구속영장... ‘3100만원 수수 혐의’ - 조선일보",
+        "zh": "경찰, 김영환 충북지사 구속영장... ‘3100만원 수수 혐의’ - 조선일보"
+      }
+    },
+    {
+      "title": "경남 산청·전남 함평 돼지농장 ASF 발생…올해 24건 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8510623",
       "source": "KBS 뉴스",
-      "pubDate": "Tue, 17 Mar 2026 05:39:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/03/17/20260317_TLZYj5.png",
+      "pubDate": "Tue, 17 Mar 2026 07:37:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/03/17/20260317_Laivxj.jpg",
       "summaries": {
-        "ko": "방탄소년단(BTS) 공연을 앞두고 테러 가능성에 대비하여 20일부터 22일까지 서울 지하철역 17곳의 물품 보관함이 폐쇄됩니다.",
-        "en": "In preparation for potential terrorism ahead of the BTS concert, lockers at 17 Seoul subway stations will be closed from the 20th to the 22nd.",
-        "zh": "为防范BTS演唱会前的恐怖袭击可能性，首尔17个地铁站的储物柜将于20日至22日关闭。"
+        "ko": "경남 산청·전남 함평 돼지농장 ASF 발생…올해 24건 - KBS 뉴스",
+        "en": "경남 산청·전남 함평 돼지농장 ASF 발생…올해 24건 - KBS 뉴스",
+        "zh": "경남 산청·전남 함평 돼지농장 ASF 발생…올해 24건 - KBS 뉴스"
       }
     },
     {
-      "title": "국민의힘, '컷오프' 논란 끝에‥부산도 박형준·주진우 경선으로 후보 확정 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6808026_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 17 Mar 2026 01:42:01 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/03/17/ljh_20260317_21.jpg",
-      "summaries": {
-        "ko": "국민의힘, '컷오프' 논란 끝에‥부산도 박형준·주진우 경선으로 후보 확정 - MBC 뉴스",
-        "en": "국민의힘, '컷오프' 논란 끝에‥부산도 박형준·주진우 경선으로 후보 확정 - MBC 뉴스",
-        "zh": "국민의힘, '컷오프' 논란 끝에‥부산도 박형준·주진우 경선으로 후보 확정 - MBC 뉴스"
-      }
-    },
-    {
-      "title": "경찰, 국힘 김영환에 구속영장 신청…공천 배제 다음날 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/chungcheong/1249705.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 17 Mar 2026 06:00:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/701/324/imgdb/original/2026/0317/20260317501622.webp",
-      "summaries": {
-        "ko": "경찰, 국힘 김영환에 구속영장 신청…공천 배제 다음날 - 한겨레",
-        "en": "경찰, 국힘 김영환에 구속영장 신청…공천 배제 다음날 - 한겨레",
-        "zh": "경찰, 국힘 김영환에 구속영장 신청…공천 배제 다음날 - 한겨레"
-      }
-    },
-    {
-      "title": "김건희 쪽 “목걸이·금거북이 받았지만 선물, 대가성 아냐”…매관매직 재판 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1249702.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 17 Mar 2026 05:09:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/540/imgdb/original/2026/0317/20260317501566.webp",
-      "summaries": {
-        "ko": "김건희 쪽 “목걸이·금거북이 받았지만 선물, 대가성 아냐”…매관매직 재판 - 한겨레",
-        "en": "김건희 쪽 “목걸이·금거북이 받았지만 선물, 대가성 아냐”…매관매직 재판 - 한겨레",
-        "zh": "김건희 쪽 “목걸이·금거북이 받았지만 선물, 대가성 아냐”…매관매직 재판 - 한겨레"
-      }
-    },
-    {
-      "title": "한국환경보전원, 아프리카돼지열병 차단울타리 점검 - 환경일보",
-      "link": "https://www.hkbs.co.kr/news/articleView.html?idxno=819276",
-      "source": "환경일보",
-      "pubDate": "Tue, 17 Mar 2026 04:56:56 GMT",
-      "image": "https://cdn.hkbs.co.kr/news/thumbnail/202603/819276_549697_1929_v150.jpg",
-      "summaries": {
-        "ko": "한국환경보전원, 아프리카돼지열병 차단울타리 점검 - 환경일보",
-        "en": "한국환경보전원, 아프리카돼지열병 차단울타리 점검 - 환경일보",
-        "zh": "한국환경보전원, 아프리카돼지열병 차단울타리 점검 - 환경일보"
-      }
-    },
-    {
-      "title": "[속보] 中, 트럼프 방중 연기 요청에 \"美와 소통하며 일정 논의 중\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260317161513TWh",
+      "title": "광고 러브콜 쏟아진 '구 충주맨' 김선태…1호 홍보 대상은 우리은행?",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260317170310Lsc",
       "source": "Breaking News",
-      "pubDate": "Tue, 17 Mar 2026 16:15:15 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260317/AKR20260317161513TWh_01_i.jpg",
+      "pubDate": "Tue, 17 Mar 2026 17:03:11 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260317/AKR20260317170310Lsc_01_i.jpg",
       "summaries": {
-        "ko": "[속보] 中, 트럼프 방중 연기 요청에 \"美와 소통하며 일정 논의 중\"",
-        "en": "[속보] 中, 트럼프 방중 연기 요청에 \"美와 소통하며 일정 논의 중\"",
-        "zh": "[속보] 中, 트럼프 방중 연기 요청에 \"美와 소통하며 일정 논의 중\""
+        "ko": "광고 러브콜 쏟아진 '구 충주맨' 김선태…1호 홍보 대상은 우리은행?",
+        "en": "광고 러브콜 쏟아진 '구 충주맨' 김선태…1호 홍보 대상은 우리은행?",
+        "zh": "광고 러브콜 쏟아진 '구 충주맨' 김선태…1호 홍보 대상은 우리은행?"
       }
     }
   ]
