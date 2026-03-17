@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-03-17T22:21:45.098913",
+  "lastUpdate": "2026-03-17T22:57:37.933555",
   "items": [
+    {
+      "title": "트럼프 “나토 도움 필요 없다…일본·호주·한국도 마찬가지” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603180727001",
+      "source": "경향신문",
+      "pubDate": "Tue, 17 Mar 2026 22:27:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/18/news-p.v1.20260318.d803a5d52b6249b6a2856f7abbeb50cd_P1.png",
+      "summaries": {
+        "ko": "트럼프 미국 대통령은 이란 군사 작전에 동맹국들이 지원을 거부한 것에 분노와 실망을 표하며, 미국은 나토와 일본, 호주, 한국 등 그 누구의 도움도 필요 없다고 주장했다.",
+        "en": "U.S. President Trump expressed anger and disappointment over allies' refusal to support military operations against Iran, claiming the U.S. no longer needs help from anyone, including NATO, Japan, Australia, and South Korea.",
+        "zh": "美国总统特朗普对盟友拒绝支持对伊朗的军事行动表示愤怒和失望，声称美国不再需要包括北约、日本、澳大利亚和韩国在内的任何人的帮助。"
+      }
+    },
     {
       "title": "장동혁에 ‘2차전’ 벼르는 오세훈 “혁신선대위 반드시 관철” - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1249804.html",
@@ -8,45 +20,33 @@
       "pubDate": "Tue, 17 Mar 2026 14:16:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0317/20260317503497.webp",
       "summaries": {
-        "ko": "오세훈 서울시장이 6·3 지방선거 서울시장 후보로 등록하며 당 대표를 강하게 비판하고 혁신 선대위 관철을 주장해 당내 노선 갈등이 심화될 전망이다.",
-        "en": "Seoul Mayor Oh Se-hoon registered as a candidate for the June 3 local election, strongly criticizing the party leader and vowing to push through an \"innovation election committee,\" signaling intensified internal party conflict over reform.",
-        "zh": "首尔市长吴世勋登记为6月3日地方选举首尔市长候选人，他强烈批评党代表并誓言推行“革新选举对策委员会”，预示党内路线斗争将加剧。"
+        "ko": "장동혁에 ‘2차전’ 벼르는 오세훈 “혁신선대위 반드시 관철” - 한겨레",
+        "en": "장동혁에 ‘2차전’ 벼르는 오세훈 “혁신선대위 반드시 관철” - 한겨레",
+        "zh": "장동혁에 ‘2차전’ 벼르는 오세훈 “혁신선대위 반드시 관철” - 한겨레"
       }
     },
     {
-      "title": "공소청 ‘특사경 지휘·감독’ 폐지…수사권 ‘복원 방지’ 조항도 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603172028005",
-      "source": "경향신문",
-      "pubDate": "Tue, 17 Mar 2026 11:28:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/17/l_2026031801000491800054461.jpg",
-      "summaries": {
-        "ko": "공소청 ‘특사경 지휘·감독’ 폐지…수사권 ‘복원 방지’ 조항도 - 경향신문",
-        "en": "공소청 ‘특사경 지휘·감독’ 폐지…수사권 ‘복원 방지’ 조항도 - 경향신문",
-        "zh": "공소청 ‘특사경 지휘·감독’ 폐지…수사권 ‘복원 방지’ 조항도 - 경향신문"
-      }
-    },
-    {
-      "title": "'차량5부제'부터 '수출통제'까지‥이 대통령 \"최악 시나리오 대비\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6808209_37004.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 17 Mar 2026 11:05:52 GMT",
-      "image": "https://image.imnews.imbc.com/replay/2026/nwdesk/article/__icsFiles/afieldfile/2026/03/17/desk_20260317_200507_1_9_Large.jpg",
-      "summaries": {
-        "ko": "중동 사태 장기화에 이재명 대통령은 '최악의 시나리오'를 전제로 원유 추가 확보, 차량 5부제 등 에너지 절감 정책, 수출 통제 검토, 신속한 추경 편성 등 비상 대응책 마련을 지시했다.",
-        "en": "As the Middle East crisis prolongs, President Lee Jae-myung ordered the preparation of emergency response measures, assuming a 'worst-case scenario,' which include securing additional crude oil, implementing energy-saving policies like a car rationing system (e.g., 5-day rotation), considering export controls, and compiling a rapid supplementary budget.",
-        "zh": "随着中东局势长期化，李在明总统指示，以‘最坏情景’为前提，制定包括确保额外原油供应、实施汽车五部制等节能政策、考虑出口管制以及迅速编制追加预算等紧急应对措施。"
-      }
-    },
-    {
-      "title": "트럼프 “韓·日·나토 지원 필요 없다”…‘호르무즈 연합’ 불참 동맹국에 불만 폭발 - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/03/18/AO6ZLPWSJZDE5MI6XBFLCHGZXE/",
+      "title": "특별사법경찰 2만명 지휘권도 박탈… 수사 체계 대혼란 - 조선일보",
+      "link": "https://www.chosun.com/national/court_law/2026/03/18/32HHMULKZFEDPGJJUX3W42OPEI/",
       "source": "조선일보",
-      "pubDate": "Tue, 17 Mar 2026 16:36:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/4SG46BJTP5D7ZGRCBLDZO6FLLY.jpg?auth=751510a7d40d4966ceff86e2fdbcb7462e3e93796c2ef26571bf1b3dd2a46ac8&width=1200&height=630&smart=true",
+      "pubDate": "Tue, 17 Mar 2026 15:50:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MTV6IQBULRHI7GUMNNMPYBGXYI.jpg?auth=d7a3c62829f62eade1d0c248363998086d8b02b626b21115adae35b2dcd329bd&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "트럼프 “韓·日·나토 지원 필요 없다”…‘호르무즈 연합’ 불참 동맹국에 불만 폭발 - 조선일보",
-        "en": "트럼프 “韓·日·나토 지원 필요 없다”…‘호르무즈 연합’ 불참 동맹국에 불만 폭발 - 조선일보",
-        "zh": "트럼프 “韓·日·나토 지원 필요 없다”…‘호르무즈 연합’ 불참 동맹국에 불만 폭발 - 조선일보"
+        "ko": "특별사법경찰 2만명 지휘권도 박탈… 수사 체계 대혼란 - 조선일보",
+        "en": "특별사법경찰 2만명 지휘권도 박탈… 수사 체계 대혼란 - 조선일보",
+        "zh": "특별사법경찰 2만명 지휘권도 박탈… 수사 체계 대혼란 - 조선일보"
+      }
+    },
+    {
+      "title": "[단독]‘장경태 성추행 의혹’ 수심위, 장경태 진술 듣는다…제도 시행 이후 첫 사례 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603180600121",
+      "source": "경향신문",
+      "pubDate": "Tue, 17 Mar 2026 21:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/18/news-p.v1.20260317.1d51bc7afec440bebe7cc4c61c516361_P1.jpg",
+      "summaries": {
+        "ko": "[단독]‘장경태 성추행 의혹’ 수심위, 장경태 진술 듣는다…제도 시행 이후 첫 사례 - 경향신문",
+        "en": "[단독]‘장경태 성추행 의혹’ 수심위, 장경태 진술 듣는다…제도 시행 이후 첫 사례 - 경향신문",
+        "zh": "[단독]‘장경태 성추행 의혹’ 수심위, 장경태 진술 듣는다…제도 시행 이후 첫 사례 - 경향신문"
       }
     },
     {
@@ -56,21 +56,9 @@
       "pubDate": "Tue, 17 Mar 2026 21:14:12 GMT",
       "image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202603/3037364_3040601_2559_v150.jpg",
       "summaries": {
-        "ko": "국립암센터 이건국 연구소장이 '암예방의 날'을 맞아 암 예방 및 관리 분야 기여를 인정받아 국민포장을, 최정미 사무국장이 국무총리 표창을 수상했다.",
-        "en": "At the 'Cancer Prevention Day' ceremony, Lee Geon-guk, Director of Research at the National Cancer Center, was awarded the National Medal (Order of Civil Merit) for his contributions to cancer prevention and management, while Choi Jung-mi, Chief Administrator, received the Prime Minister's Commendation.",
-        "zh": "在“癌症预防日”纪念活动中，国立癌症中心研究主任李建国因其在癌症预防和管理领域的贡献荣获国民褒章，行政室长崔贞美则获得国务总理表彰。"
-      }
-    },
-    {
-      "title": "경남 산청·전남 함평 돼지농장 ASF 발생…올해 24건 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8510623",
-      "source": "KBS 뉴스",
-      "pubDate": "Tue, 17 Mar 2026 07:37:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/03/17/20260317_Laivxj.jpg",
-      "summaries": {
-        "ko": "경남 산청과 전남 함평 돼지농장에서 아프리카돼지열병(ASF)이 추가 발생해 올해 국내 발생 건수가 24건으로 늘었고, 이에 따라 해당 농장 돼지 7천697마리가 처분되고 방역 조치가 강화됩니다.",
-        "en": "African Swine Fever (ASF) has been additionally confirmed at pig farms in Sancheong, Gyeongnam, and Hampyeong, Jeonnam, increasing this year's total domestic outbreaks to 24, leading to the culling of 7,697 pigs and intensified quarantine measures.",
-        "zh": "庆尚南道山清和全罗南道咸平的养猪场新增非洲猪瘟（ASF）病例，使今年韩国国内疫情累计达到24例，导致7697头生猪被扑杀并加强了防疫措施。"
+        "ko": "국립암센터 이건국 연구소장 ‘국민포장’ 수상 - 청년의사",
+        "en": "국립암센터 이건국 연구소장 ‘국민포장’ 수상 - 청년의사",
+        "zh": "국립암센터 이건국 연구소장 ‘국민포장’ 수상 - 청년의사"
       }
     },
     {
@@ -86,18 +74,6 @@
       }
     },
     {
-      "title": "파주 민통선 철책 넘던 남성 체포…“진술 거부” - 문화일보",
-      "link": "https://www.munhwa.com/article/11575298",
-      "source": "문화일보",
-      "pubDate": "Tue, 17 Mar 2026 15:14:25 GMT",
-      "image": "https://wimg.munhwa.com/news/cms/2026/03/18/news-p.v1.20260317.a9b23d4e022843ee942419ab2b81b0e7_R.jpg",
-      "summaries": {
-        "ko": "파주 민통선 철책 넘던 남성 체포…“진술 거부” - 문화일보",
-        "en": "파주 민통선 철책 넘던 남성 체포…“진술 거부” - 문화일보",
-        "zh": "파주 민통선 철책 넘던 남성 체포…“진술 거부” - 문화일보"
-      }
-    },
-    {
       "title": "'BTS 컴백 라이브' 교통·안전 필수정보 여기서 확인! - 서울특별시",
       "link": "https://mediahub.seoul.go.kr/archives/2017482",
       "source": "서울특별시",
@@ -110,15 +86,39 @@
       }
     },
     {
-      "title": "‘공천 배제’ 김영환 “이정현, 김수민 접촉해 공천 신청 권유…가처분 낼 것” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/chungcheong/1249768.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 17 Mar 2026 10:16:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/701/324/imgdb/original/2026/0317/20260317503328.webp",
+      "title": "조길형 충북지사 예비후보 사퇴…국민의힘 탈당 시사 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260317186000064",
+      "source": "연합뉴스",
+      "pubDate": "Tue, 17 Mar 2026 13:43:13 GMT",
+      "image": "https://img7.yna.co.kr/photo/yna/YH/2026/03/11/PYH2026031108350001300_P4.jpg",
       "summaries": {
-        "ko": "‘공천 배제’ 김영환 “이정현, 김수민 접촉해 공천 신청 권유…가처분 낼 것” - 한겨레",
-        "en": "‘공천 배제’ 김영환 “이정현, 김수민 접촉해 공천 신청 권유…가처분 낼 것” - 한겨레",
-        "zh": "‘공천 배제’ 김영환 “이정현, 김수민 접촉해 공천 신청 권유…가처분 낼 것” - 한겨레"
+        "ko": "조길형 충북지사 예비후보 사퇴…국민의힘 탈당 시사 - 연합뉴스",
+        "en": "조길형 충북지사 예비후보 사퇴…국민의힘 탈당 시사 - 연합뉴스",
+        "zh": "조길형 충북지사 예비후보 사퇴…국민의힘 탈당 시사 - 연합뉴스"
+      }
+    },
+    {
+      "title": "[단독]‘괴물 산불’ 1년, 몇안되던 사람마저 떠난다 - 동아일보",
+      "link": "https://www.donga.com/news/Society/article/all/20260317/133543780/2",
+      "source": "동아일보",
+      "pubDate": "Mon, 16 Mar 2026 19:30:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/17/133541342.6.jpg",
+      "summaries": {
+        "ko": "[단독]‘괴물 산불’ 1년, 몇안되던 사람마저 떠난다 - 동아일보",
+        "en": "[단독]‘괴물 산불’ 1년, 몇안되던 사람마저 떠난다 - 동아일보",
+        "zh": "[단독]‘괴물 산불’ 1년, 몇안되던 사람마저 떠난다 - 동아일보"
+      }
+    },
+    {
+      "title": "이란 전쟁 이후 개인 ETF '대이동'…코스닥액티브 집중 매수",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260318075213X4O",
+      "source": "Breaking News",
+      "pubDate": "Wed, 18 Mar 2026 07:52:15 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260317/AKR20260318075213X4O_01_i.jpg",
+      "summaries": {
+        "ko": "이란 전쟁 이후 개인 ETF '대이동'…코스닥액티브 집중 매수",
+        "en": "이란 전쟁 이후 개인 ETF '대이동'…코스닥액티브 집중 매수",
+        "zh": "이란 전쟁 이후 개인 ETF '대이동'…코스닥액티브 집중 매수"
       }
     }
   ]
