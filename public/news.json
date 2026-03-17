@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-17T21:09:43.289996",
+  "lastUpdate": "2026-03-17T21:52:24.969222",
   "items": [
     {
       "title": "장동혁에 ‘2차전’ 벼르는 오세훈 “혁신선대위 반드시 관철” - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Tue, 17 Mar 2026 14:16:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0317/20260317503497.webp",
       "summaries": {
-        "ko": "오세훈 서울시장이 6·3 지방선거 국민의힘 서울시장 후보로 등록하며 장동혁 대표를 강하게 비판하고 '혁신 선거대책위원회'를 반드시 관철하겠다고 밝혔다.",
-        "en": "Seoul Mayor Oh Se-hoon registered as the People Power Party's candidate for the June 3 local election, strongly criticizing party leader Jang Dong-hyuk and vowing to push for an 'innovation election committee.'",
-        "zh": "首尔市长吴世勋注册为国民力量党6月3日地方选举的首尔市长候选人，强烈批评了党代表张东赫，并誓言将彻底贯彻“革新选举对策委员会”。"
+        "ko": "오세훈 서울시장이 당 지도부의 쇄신 부족을 강하게 비판하며 6·3 지방선거 서울시장 후보로 등록하고 혁신 선거대책위원회 구성을 반드시 관철하겠다는 의지를 밝혔다.",
+        "en": "Seoul Mayor Oh Se-hoon registered as a candidate for the 6/3 local election for Seoul Mayor, strongly criticizing the party leadership's lack of reform and expressing his determination to push through the establishment of an innovation election committee.",
+        "zh": "首尔市长吴世勋登记参加6月3日地方选举的首尔市长候选人，强烈批评党领导层缺乏改革，并表示将坚决推动成立创新选举对策委员会。"
       }
     },
     {
@@ -38,27 +38,15 @@
       }
     },
     {
-      "title": "정부, 차량 5부·10부제 검토 착수…민간 강제시 걸프전 후 처음 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8510718",
-      "source": "KBS 뉴스",
-      "pubDate": "Tue, 17 Mar 2026 09:55:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/03/17/20260317_xA3gvd.jpg",
+      "title": "‘공천 배제’ 김영환 “이정현, 김수민 접촉해 공천 신청 권유…가처분 낼 것” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/chungcheong/1249768.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 17 Mar 2026 10:16:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/701/324/imgdb/original/2026/0317/20260317503328.webp",
       "summaries": {
-        "ko": "정부, 차량 5부·10부제 검토 착수…민간 강제시 걸프전 후 처음 - KBS 뉴스",
-        "en": "정부, 차량 5부·10부제 검토 착수…민간 강제시 걸프전 후 처음 - KBS 뉴스",
-        "zh": "정부, 차량 5부·10부제 검토 착수…민간 강제시 걸프전 후 처음 - KBS 뉴스"
-      }
-    },
-    {
-      "title": "광화문 뒤흔들 ‘아리랑’…BTS 귀환, AI가 본 진짜 의미 - 지디넷코리아",
-      "link": "https://zdnet.co.kr/view/?no=20260317130313",
-      "source": "지디넷코리아",
-      "pubDate": "Tue, 17 Mar 2026 05:18:20 GMT",
-      "image": "https://image.zdnet.co.kr/2026/03/17/36d8e691cbdece4f1f6e39139c7512c4.png",
-      "summaries": {
-        "ko": "광화문 뒤흔들 ‘아리랑’…BTS 귀환, AI가 본 진짜 의미 - 지디넷코리아",
-        "en": "광화문 뒤흔들 ‘아리랑’…BTS 귀환, AI가 본 진짜 의미 - 지디넷코리아",
-        "zh": "광화문 뒤흔들 ‘아리랑’…BTS 귀환, AI가 본 진짜 의미 - 지디넷코리아"
+        "ko": "‘공천 배제’ 김영환 “이정현, 김수민 접촉해 공천 신청 권유…가처분 낼 것” - 한겨레",
+        "en": "‘공천 배제’ 김영환 “이정현, 김수민 접촉해 공천 신청 권유…가처분 낼 것” - 한겨레",
+        "zh": "‘공천 배제’ 김영환 “이정현, 김수민 접촉해 공천 신청 권유…가처분 낼 것” - 한겨레"
       }
     },
     {
@@ -74,27 +62,39 @@
       }
     },
     {
-      "title": "부산 항공사 기장 살해 피의자, 14시간여 만에 검거(종합) - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260317181451051",
-      "source": "연합뉴스",
-      "pubDate": "Tue, 17 Mar 2026 12:01:45 GMT",
-      "image": "https://img6.yna.co.kr/photo/cms/2025/05/13/51/PCM20250513000051990_P4.jpg",
+      "title": "파주 민통선 철책 넘던 남성 체포…“진술 거부” - 문화일보",
+      "link": "https://www.munhwa.com/article/11575298",
+      "source": "문화일보",
+      "pubDate": "Tue, 17 Mar 2026 15:14:25 GMT",
+      "image": "https://wimg.munhwa.com/news/cms/2026/03/18/news-p.v1.20260317.a9b23d4e022843ee942419ab2b81b0e7_R.jpg",
       "summaries": {
-        "ko": "부산 항공사 기장 살해 피의자, 14시간여 만에 검거(종합) - 연합뉴스",
-        "en": "부산 항공사 기장 살해 피의자, 14시간여 만에 검거(종합) - 연합뉴스",
-        "zh": "부산 항공사 기장 살해 피의자, 14시간여 만에 검거(종합) - 연합뉴스"
+        "ko": "파주 민통선 철책 넘던 남성 체포…“진술 거부” - 문화일보",
+        "en": "파주 민통선 철책 넘던 남성 체포…“진술 거부” - 문화일보",
+        "zh": "파주 민통선 철책 넘던 남성 체포…“진술 거부” - 문화일보"
       }
     },
     {
-      "title": "경찰, 김영환 충북지사 구속영장…3100만원 수수 혐의(종합) - 뉴스1",
-      "link": "https://www.news1.kr/local/sejong-chungbuk/6103906",
-      "source": "뉴스1",
-      "pubDate": "Tue, 17 Mar 2026 02:54:18 GMT",
-      "image": "https://i3n.news1.kr/system/photos/2025/12/21/7660922/high.jpg",
+      "title": "'BTS 컴백 라이브' 교통·안전 필수정보 여기서 확인! - 서울특별시",
+      "link": "https://mediahub.seoul.go.kr/archives/2017482",
+      "source": "서울특별시",
+      "pubDate": "Tue, 17 Mar 2026 08:13:00 GMT",
+      "image": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/03/yOTkYNcbHYujMmOGbGbUMcnxprnNseHh.jpg?ver=1.0",
       "summaries": {
-        "ko": "경찰, 김영환 충북지사 구속영장…3100만원 수수 혐의(종합) - 뉴스1",
-        "en": "경찰, 김영환 충북지사 구속영장…3100만원 수수 혐의(종합) - 뉴스1",
-        "zh": "경찰, 김영환 충북지사 구속영장…3100만원 수수 혐의(종합) - 뉴스1"
+        "ko": "'BTS 컴백 라이브' 교통·안전 필수정보 여기서 확인! - 서울특별시",
+        "en": "'BTS 컴백 라이브' 교통·안전 필수정보 여기서 확인! - 서울특별시",
+        "zh": "'BTS 컴백 라이브' 교통·안전 필수정보 여기서 확인! - 서울특별시"
+      }
+    },
+    {
+      "title": "경북·경남·울산 산불 1년…\"1조 8800억 원 규모 복구 집행 중\" - 대한민국 정책브리핑",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148960951",
+      "source": "대한민국 정책브리핑",
+      "pubDate": "Tue, 17 Mar 2026 06:40:12 GMT",
+      "image": "https://www.korea.kr/newsWeb/resources/attaches/2026.03/17/18991ad2c8304f8b530d4d734f989e3e.jpg",
+      "summaries": {
+        "ko": "경북·경남·울산 산불 1년…\"1조 8800억 원 규모 복구 집행 중\" - 대한민국 정책브리핑",
+        "en": "경북·경남·울산 산불 1년…\"1조 8800억 원 규모 복구 집행 중\" - 대한민국 정책브리핑",
+        "zh": "경북·경남·울산 산불 1년…\"1조 8800억 원 규모 복구 집행 중\" - 대한민국 정책브리핑"
       }
     },
     {
@@ -110,15 +110,15 @@
       }
     },
     {
-      "title": "[단독]‘전자발찌 스토킹’ 살인범, 범행전 이틀에 걸쳐 사전답사했다 - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260317/133543424/2",
-      "source": "동아일보",
-      "pubDate": "Mon, 16 Mar 2026 19:30:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/17/133544024.1.png",
+      "title": "접촉사고 내고 비틀비틀…약물운전 혐의 50대 입건",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260318064126nil",
+      "source": "Breaking News",
+      "pubDate": "Wed, 18 Mar 2026 06:41:45 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260317/MYH20260318064126nil.jpg",
       "summaries": {
-        "ko": "[단독]‘전자발찌 스토킹’ 살인범, 범행전 이틀에 걸쳐 사전답사했다 - 동아일보",
-        "en": "[단독]‘전자발찌 스토킹’ 살인범, 범행전 이틀에 걸쳐 사전답사했다 - 동아일보",
-        "zh": "[단독]‘전자발찌 스토킹’ 살인범, 범행전 이틀에 걸쳐 사전답사했다 - 동아일보"
+        "ko": "접촉사고 내고 비틀비틀…약물운전 혐의 50대 입건",
+        "en": "접촉사고 내고 비틀비틀…약물운전 혐의 50대 입건",
+        "zh": "접촉사고 내고 비틀비틀…약물운전 혐의 50대 입건"
       }
     }
   ]
