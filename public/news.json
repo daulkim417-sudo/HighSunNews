@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-18T23:17:45.784657",
+  "lastUpdate": "2026-03-18T23:44:35.514352",
   "items": [
     {
       "title": "트럼프 “이란 끝장내고 해협 이용국이 책임진다면 동맹들 움직일 것” - 한겨레",
@@ -38,30 +38,6 @@
       }
     },
     {
-      "title": "이란 “라리자니 순교 가혹한 복수” vs 이스라엘 “모즈타바도 제거” - 동아일보",
-      "link": "https://www.donga.com/news/Inter/article/all/20260319/133560509/2",
-      "source": "동아일보",
-      "pubDate": "Wed, 18 Mar 2026 19:30:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/19/133557252.5.jpg",
-      "summaries": {
-        "ko": "이란 “라리자니 순교 가혹한 복수” vs 이스라엘 “모즈타바도 제거” - 동아일보",
-        "en": "이란 “라리자니 순교 가혹한 복수” vs 이스라엘 “모즈타바도 제거” - 동아일보",
-        "zh": "이란 “라리자니 순교 가혹한 복수” vs 이스라엘 “모즈타바도 제거” - 동아일보"
-      }
-    },
-    {
-      "title": "“UAE, 한국은 원유공급 넘버원”…정부, 2400만 배럴 긴급 도입 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1249974.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 18 Mar 2026 15:19:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/721/432/imgdb/original/2026/0318/20260318503462.webp",
-      "summaries": {
-        "ko": "“UAE, 한국은 원유공급 넘버원”…정부, 2400만 배럴 긴급 도입 - 한겨레",
-        "en": "“UAE, 한국은 원유공급 넘버원”…정부, 2400만 배럴 긴급 도입 - 한겨레",
-        "zh": "“UAE, 한국은 원유공급 넘버원”…정부, 2400만 배럴 긴급 도입 - 한겨레"
-      }
-    },
-    {
       "title": "AI 기반 글로벌 헬스케어 미래 조망되다 - 메디칼업저버",
       "link": "https://www.monews.co.kr/news/articleView.html?idxno=410182",
       "source": "메디칼업저버",
@@ -74,15 +50,27 @@
       }
     },
     {
-      "title": "보건의료 AI 확산…의료기관 간 연계 추진 - 데일리메디",
-      "link": "https://www.dailymedi.com/news/news_view.php?wr_id=934763",
-      "source": "데일리메디",
-      "pubDate": "Wed, 18 Mar 2026 21:05:00 GMT",
-      "image": "https://www.dailymedi.com/img/d_logo.jpg",
+      "title": "정은경 장관-국립대병원, 공공의료 AI 확산 방안 논의 - MEDI:GATE NEWS",
+      "link": "https://www.medigatenews.com/news/1537868614",
+      "source": "MEDI:GATE NEWS",
+      "pubDate": "Wed, 18 Mar 2026 20:48:00 GMT",
+      "image": "https://medigatenews.com/file/news/497161",
       "summaries": {
-        "ko": "보건의료 AI 확산…의료기관 간 연계 추진 - 데일리메디",
-        "en": "보건의료 AI 확산…의료기관 간 연계 추진 - 데일리메디",
-        "zh": "보건의료 AI 확산…의료기관 간 연계 추진 - 데일리메디"
+        "ko": "정은경 장관-국립대병원, 공공의료 AI 확산 방안 논의 - MEDI:GATE NEWS",
+        "en": "정은경 장관-국립대병원, 공공의료 AI 확산 방안 논의 - MEDI:GATE NEWS",
+        "zh": "정은경 장관-국립대병원, 공공의료 AI 확산 방안 논의 - MEDI:GATE NEWS"
+      }
+    },
+    {
+      "title": "\"연 700명 의사 입건 현실\" 의료사고 형사 부담 완화 '첫발' 떼자 - 의협신문",
+      "link": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=163769",
+      "source": "의협신문",
+      "pubDate": "Wed, 18 Mar 2026 07:58:13 GMT",
+      "image": "http://www.doctorsnews.co.kr/news/photo/202603/163769_135420_2112.jpg",
+      "summaries": {
+        "ko": "\"연 700명 의사 입건 현실\" 의료사고 형사 부담 완화 '첫발' 떼자 - 의협신문",
+        "en": "\"연 700명 의사 입건 현실\" 의료사고 형사 부담 완화 '첫발' 떼자 - 의협신문",
+        "zh": "\"연 700명 의사 입건 현실\" 의료사고 형사 부담 완화 '첫발' 떼자 - 의협신문"
       }
     },
     {
@@ -98,27 +86,39 @@
       }
     },
     {
-      "title": "\"제조 AX로 경쟁력 강화\"…산업부, 첨단산업 현안 간담회",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202603190815442Ga",
-      "source": "Breaking News",
-      "pubDate": "Thu, 19 Mar 2026 08:15:46 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260318/AKR202603190815442Ga_01_i.jpg",
+      "title": "복지위 與 “통합돌봄 성공 위해 재원 문제 해결 시급” 한 목소리 - 의사신문",
+      "link": "http://www.doctorstimes.com/news/articleView.html?idxno=237203",
+      "source": "의사신문",
+      "pubDate": "Wed, 18 Mar 2026 10:14:00 GMT",
+      "image": "http://www.doctorstimes.com/news/thumbnail/202603/237203_103688_243_v150.jpg",
       "summaries": {
-        "ko": "\"제조 AX로 경쟁력 강화\"…산업부, 첨단산업 현안 간담회",
-        "en": "\"제조 AX로 경쟁력 강화\"…산업부, 첨단산업 현안 간담회",
-        "zh": "\"제조 AX로 경쟁력 강화\"…산업부, 첨단산업 현안 간담회"
+        "ko": "복지위 與 “통합돌봄 성공 위해 재원 문제 해결 시급” 한 목소리 - 의사신문",
+        "en": "복지위 與 “통합돌봄 성공 위해 재원 문제 해결 시급” 한 목소리 - 의사신문",
+        "zh": "복지위 與 “통합돌봄 성공 위해 재원 문제 해결 시급” 한 목소리 - 의사신문"
       }
     },
     {
-      "title": "[날씨] 오늘 맑고 일교차 커…오전까지 내륙 짙은 안개",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260319080519WhY",
+      "title": "\"보스턴다이내믹스 기업가치 약 30조원\"…현대차 인수 때의 24배",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260319084349ONO",
       "source": "Breaking News",
-      "pubDate": "Thu, 19 Mar 2026 08:05:45 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260318/MYH20260319080519WhY.jpg",
+      "pubDate": "Thu, 19 Mar 2026 08:43:51 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260318/AKR20260319084349ONO_01_i.jpg",
       "summaries": {
-        "ko": "[날씨] 오늘 맑고 일교차 커…오전까지 내륙 짙은 안개",
-        "en": "[날씨] 오늘 맑고 일교차 커…오전까지 내륙 짙은 안개",
-        "zh": "[날씨] 오늘 맑고 일교차 커…오전까지 내륙 짙은 안개"
+        "ko": "\"보스턴다이내믹스 기업가치 약 30조원\"…현대차 인수 때의 24배",
+        "en": "\"보스턴다이내믹스 기업가치 약 30조원\"…현대차 인수 때의 24배",
+        "zh": "\"보스턴다이내믹스 기업가치 약 30조원\"…현대차 인수 때의 24배"
+      }
+    },
+    {
+      "title": "삼성전자, 상업용 디스플레이 판매 17년째 세계 1위…지난해 역대 최대",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260319084107FqJ",
+      "source": "Breaking News",
+      "pubDate": "Thu, 19 Mar 2026 08:41:08 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260318/AKR20260319084107FqJ_01_i.jpg",
+      "summaries": {
+        "ko": "삼성전자, 상업용 디스플레이 판매 17년째 세계 1위…지난해 역대 최대",
+        "en": "삼성전자, 상업용 디스플레이 판매 17년째 세계 1위…지난해 역대 최대",
+        "zh": "삼성전자, 상업용 디스플레이 판매 17년째 세계 1위…지난해 역대 최대"
       }
     }
   ]
