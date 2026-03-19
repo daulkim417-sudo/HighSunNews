@@ -1,16 +1,16 @@
 {
-  "lastUpdate": "2026-03-19T16:15:01.235201",
+  "lastUpdate": "2026-03-19T17:16:17.036507",
   "items": [
     {
       "title": "이란 공격받은 카타르 “한국 등에 LNG 공급 불가항력 선언 가능” - 한겨레",
       "link": "https://www.hani.co.kr/arti/international/arabafrica/1250213.html",
       "source": "한겨레",
-      "pubDate": "Thu, 19 Mar 2026 15:26:55 GMT",
+      "pubDate": "Thu, 19 Mar 2026 15:14:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0319/20260319503990.webp",
       "summaries": {
-        "ko": "이란의 공격으로 에너지 시설이 손상된 카타르가 한국 등과의 LNG 장기 공급 계약에 대해 최장 5년간 '불가항력'을 선언할 수 있다고 밝혀, 세계 에너지 수급에 큰 영향을 미칠 전망이다.",
-        "en": "Qatar, whose energy facilities were damaged by an Iranian attack, announced it may declare 'force majeure' on long-term LNG supply contracts with countries including South Korea for up to five years, which is expected to significantly impact global energy supply.",
-        "zh": "由于伊朗袭击导致能源设施受损，卡塔尔宣布可能对包括韩国在内的多个国家的液化天然气长期供应合同援引“不可抗力”条款，为期最长五年，预计将对全球能源供应产生重大影响。"
+        "ko": "이란의 공격으로 LNG 시설이 손상된 카타르가 한국 등과의 장기 공급 계약에 대해 최장 5년간 불가항력을 선언할 수 있다고 밝히면서 세계 에너지 수급에 큰 영향을 미칠 것으로 보인다.",
+        "en": "Qatar announced it might declare 'force majeure' for up to five years on long-term LNG supply contracts, including those with South Korea, due to Iranian attacks damaging its energy facilities, potentially significantly impacting global energy supply.",
+        "zh": "由于伊朗袭击导致其液化天然气设施受损，卡塔尔宣布可能对包括韩国在内的长期供应合同援引“不可抗力”条款，为期最长五年，这可能对全球能源供应产生重大影响。"
       }
     },
     {
@@ -26,6 +26,18 @@
       }
     },
     {
+      "title": "미 해병대, 이란 석유 수출 거점 '하르그섬' 점령 전망 나와 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6808795_36925.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Thu, 19 Mar 2026 10:23:14 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/03/19/hye_20260319_20.jpg",
+      "summaries": {
+        "ko": "미 해병대, 이란 석유 수출 거점 '하르그섬' 점령 전망 나와 - MBC 뉴스",
+        "en": "미 해병대, 이란 석유 수출 거점 '하르그섬' 점령 전망 나와 - MBC 뉴스",
+        "zh": "미 해병대, 이란 석유 수출 거점 '하르그섬' 점령 전망 나와 - MBC 뉴스"
+      }
+    },
+    {
       "title": "이 대통령 “채용 때 월급 안 알려주는 건 정말 문제···임금, 원래 비정규직이 더 받아야” - 경향신문",
       "link": "https://www.khan.co.kr/article/202603192034005",
       "source": "경향신문",
@@ -38,39 +50,27 @@
       }
     },
     {
-      "title": "국힘 이정현 ‘대구 중진 컷오프’, 한동훈 보선 출마 차단용? - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1250130.html",
+      "title": "청와대 “이 대통령 ‘조폭연루설’ 허위 확정됐으니 ‘추후보도’ 해달라” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1250166.html",
       "source": "한겨레",
-      "pubDate": "Thu, 19 Mar 2026 08:43:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/568/imgdb/original/2026/0319/20260319503220.webp",
+      "pubDate": "Thu, 19 Mar 2026 11:11:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/717/340/imgdb/original/2026/0319/20260319503522.webp",
       "summaries": {
-        "ko": "국힘 이정현 ‘대구 중진 컷오프’, 한동훈 보선 출마 차단용? - 한겨레",
-        "en": "국힘 이정현 ‘대구 중진 컷오프’, 한동훈 보선 출마 차단용? - 한겨레",
-        "zh": "국힘 이정현 ‘대구 중진 컷오프’, 한동훈 보선 출마 차단용? - 한겨레"
+        "ko": "청와대 “이 대통령 ‘조폭연루설’ 허위 확정됐으니 ‘추후보도’ 해달라” - 한겨레",
+        "en": "청와대 “이 대통령 ‘조폭연루설’ 허위 확정됐으니 ‘추후보도’ 해달라” - 한겨레",
+        "zh": "청와대 “이 대통령 ‘조폭연루설’ 허위 확정됐으니 ‘추후보도’ 해달라” - 한겨레"
       }
     },
     {
-      "title": "이스라엘, 카스피해 일대 이란 해군 첫 타격 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603190939001",
-      "source": "경향신문",
-      "pubDate": "Thu, 19 Mar 2026 00:39:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/19/news-p.v1.20260319.9eaa62fe9944473ab361f4efc8cfb3bd_P1.jpg",
+      "title": "주호영 “이정현, 지선 장애물…이진숙 전략공천? 대구시민 무시” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260319/133561231/1",
+      "source": "동아일보",
+      "pubDate": "Thu, 19 Mar 2026 00:10:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/01/27/133242246.1.jpg",
       "summaries": {
-        "ko": "이스라엘, 카스피해 일대 이란 해군 첫 타격 - 경향신문",
-        "en": "이스라엘, 카스피해 일대 이란 해군 첫 타격 - 경향신문",
-        "zh": "이스라엘, 카스피해 일대 이란 해군 첫 타격 - 경향신문"
-      }
-    },
-    {
-      "title": "[속보] 경찰 수사심의위 “장경태 준강제추행 혐의 송치해야” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603192107001",
-      "source": "경향신문",
-      "pubDate": "Thu, 19 Mar 2026 12:07:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/19/news-p.v1.20260317.1d51bc7afec440bebe7cc4c61c516361_P1.jpg",
-      "summaries": {
-        "ko": "[속보] 경찰 수사심의위 “장경태 준강제추행 혐의 송치해야” - 경향신문",
-        "en": "[속보] 경찰 수사심의위 “장경태 준강제추행 혐의 송치해야” - 경향신문",
-        "zh": "[속보] 경찰 수사심의위 “장경태 준강제추행 혐의 송치해야” - 경향신문"
+        "ko": "주호영 “이정현, 지선 장애물…이진숙 전략공천? 대구시민 무시” - 동아일보",
+        "en": "주호영 “이정현, 지선 장애물…이진숙 전략공천? 대구시민 무시” - 동아일보",
+        "zh": "주호영 “이정현, 지선 장애물…이진숙 전략공천? 대구시민 무시” - 동아일보"
       }
     },
     {
@@ -86,27 +86,39 @@
       }
     },
     {
-      "title": "6년 전 세살 딸 학대치사 암매장… 친모·전남친 구속 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260319160911oLn",
-      "source": "연합뉴스TV",
-      "pubDate": "Thu, 19 Mar 2026 07:12:25 GMT",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260319/AKR20260319160911oLn_01_i.jpg",
+      "title": "[르포] 무안공항서 또 발견된 유해…유족 “책임자 처벌하라” - 국민일보",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029552167",
+      "source": "국민일보",
+      "pubDate": "Thu, 19 Mar 2026 07:10:00 GMT",
+      "image": "https://image.kmib.co.kr/online_image/2026/0319/2026031915474315981_1773902864_0029552167.jpg",
       "summaries": {
-        "ko": "6년 전 세살 딸 학대치사 암매장… 친모·전남친 구속 - 연합뉴스TV",
-        "en": "6년 전 세살 딸 학대치사 암매장… 친모·전남친 구속 - 연합뉴스TV",
-        "zh": "6년 전 세살 딸 학대치사 암매장… 친모·전남친 구속 - 연합뉴스TV"
+        "ko": "[르포] 무안공항서 또 발견된 유해…유족 “책임자 처벌하라” - 국민일보",
+        "en": "[르포] 무안공항서 또 발견된 유해…유족 “책임자 처벌하라” - 국민일보",
+        "zh": "[르포] 무안공항서 또 발견된 유해…유족 “책임자 처벌하라” - 국민일보"
       }
     },
     {
-      "title": "서울남부지법, 김영환 ‘컷오프 효력정지’ 가처분 23일 심리 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1250108.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 19 Mar 2026 06:43:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/640/imgdb/original/2026/0319/20260319502611.webp",
+      "title": "‘금품 받고 재판 거래 의혹’ 현직 부장판사, 23일 구속영장 심사 - 조선일보",
+      "link": "https://www.chosun.com/national/court_law/2026/03/19/VFWEIMBAVNB4VJMT7SJKCL4KBI/",
+      "source": "조선일보",
+      "pubDate": "Thu, 19 Mar 2026 02:21:04 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GZSTMYJXGI2WKMTBG4ZGMNBXGQ.jpg?auth=e3376065065f28cb124aefdc570643dd386ff9bbcb8379e28def9280d4972c37&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "서울남부지법, 김영환 ‘컷오프 효력정지’ 가처분 23일 심리 - 한겨레",
-        "en": "서울남부지법, 김영환 ‘컷오프 효력정지’ 가처분 23일 심리 - 한겨레",
-        "zh": "서울남부지법, 김영환 ‘컷오프 효력정지’ 가처분 23일 심리 - 한겨레"
+        "ko": "‘금품 받고 재판 거래 의혹’ 현직 부장판사, 23일 구속영장 심사 - 조선일보",
+        "en": "‘금품 받고 재판 거래 의혹’ 현직 부장판사, 23일 구속영장 심사 - 조선일보",
+        "zh": "‘금품 받고 재판 거래 의혹’ 현직 부장판사, 23일 구속영장 심사 - 조선일보"
+      }
+    },
+    {
+      "title": "[속보] 이란 혁명수비대 \"美 F-35 공격 손상 입혀\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260320011656F9e",
+      "source": "Breaking News",
+      "pubDate": "Fri, 20 Mar 2026 01:16:59 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260319/AKR20260320011656F9e_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] 이란 혁명수비대 \"美 F-35 공격 손상 입혀\"",
+        "en": "[속보] 이란 혁명수비대 \"美 F-35 공격 손상 입혀\"",
+        "zh": "[속보] 이란 혁명수비대 \"美 F-35 공격 손상 입혀\""
       }
     },
     {
@@ -131,18 +143,6 @@
         "ko": "[속보] 트럼프-다카이치 회담 시작...호르무즈 파병여부 주목",
         "en": "[속보] 트럼프-다카이치 회담 시작...호르무즈 파병여부 주목",
         "zh": "[속보] 트럼프-다카이치 회담 시작...호르무즈 파병여부 주목"
-      }
-    },
-    {
-      "title": "[속보] 트럼프-다카이치 회담 시작…호르무즈 파병 여부 주목",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260320005013LOV",
-      "source": "Breaking News",
-      "pubDate": "Fri, 20 Mar 2026 00:50:14 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260319/AKR20260320005013LOV_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 트럼프-다카이치 회담 시작…호르무즈 파병 여부 주목",
-        "en": "[속보] 트럼프-다카이치 회담 시작…호르무즈 파병 여부 주목",
-        "zh": "[속보] 트럼프-다카이치 회담 시작…호르무즈 파병 여부 주목"
       }
     }
   ]
