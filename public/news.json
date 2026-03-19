@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-19T23:03:52.581315",
+  "lastUpdate": "2026-03-19T23:40:05.254786",
   "items": [
     {
       "title": "트럼프, 다카이치 압박 “일본의 이란 대응 역할 확대 믿는다” - 한겨레",
@@ -8,9 +8,21 @@
       "pubDate": "Thu, 19 Mar 2026 17:43:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0320/20260320500032.webp",
       "summaries": {
-        "ko": "트럼프, 다카이치 압박 “일본의 이란 대응 역할 확대 믿는다” - 한겨레",
-        "en": "트럼프, 다카이치 압박 “일본의 이란 대응 역할 확대 믿는다” - 한겨레",
-        "zh": "트럼프, 다카이치 압박 “일본의 이란 대응 역할 확대 믿는다” - 한겨레"
+        "ko": "도널드 트럼프 미국 대통령이 다카이치 사나에 일본 총리와의 회담에서 일본에 이란 관련 대응, 특히 호르무즈 해협에서의 역할 확대를 압박하며 나토 국가들과 대비되는 적극적 태도를 칭찬했으나, 진주만에 대한 논란의 여지가 있는 발언도 했다.",
+        "en": "U.S. President Donald Trump pressured Japanese Prime Minister Sanae Takaichi to expand Japan's role in responding to Iran-related issues, especially concerning the Strait of Hormuz, praising Japan's proactive stance compared to NATO while also making a controversial remark about Pearl Harbor.",
+        "zh": "美国总统唐纳德·特朗普在与日本首相高市早苗的会谈中，敦促日本扩大在应对伊朗相关问题，特别是霍尔木兹海峡问题上的作用，赞扬日本相较于北约的积极立场，同时还发表了关于珍珠港的争议言论。"
+      }
+    },
+    {
+      "title": "네타냐후 “이란, 핵·미사일 능력 상실…전쟁 일찍 끝날 수도” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603200817001",
+      "source": "경향신문",
+      "pubDate": "Thu, 19 Mar 2026 23:17:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/20/rcv.YNA.20260320.PRU20260320078501009_P1.jpg",
+      "summaries": {
+        "ko": "네타냐후 이스라엘 총리는 이란과의 전쟁에서 압도적인 승리를 선언하며 이란의 핵·미사일 능력이 상실되었고 전쟁이 예상보다 빨리 끝날 수 있다고 주장했다.",
+        "en": "Israeli Prime Minister Netanyahu declared an overwhelming victory in the war with Iran, claiming Iran has lost its nuclear and missile capabilities and that the conflict could end sooner than expected.",
+        "zh": "以色列总理内塔尼亚胡宣布对伊朗战争取得压倒性胜利，声称伊朗已丧失核与导弹能力，并表示战争可能比预期更早结束。"
       }
     },
     {
@@ -23,18 +35,6 @@
         "ko": "‘레드라인’ 넘는 가스전 공격…걸프국 참전 방아쇠 당기나 - 한겨레",
         "en": "‘레드라인’ 넘는 가스전 공격…걸프국 참전 방아쇠 당기나 - 한겨레",
         "zh": "‘레드라인’ 넘는 가스전 공격…걸프국 참전 방아쇠 당기나 - 한겨레"
-      }
-    },
-    {
-      "title": "네타냐후 \"이란 핵·미사일 능력 상실…전쟁 일찍 끝날수도\"(종합) - 마켓인",
-      "link": "https://marketin.edaily.co.kr/News/ReadE?newsId=02325526645385288",
-      "source": "마켓인",
-      "pubDate": "Thu, 19 Mar 2026 21:42:39 GMT",
-      "image": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/03/PS26032000200.jpg",
-      "summaries": {
-        "ko": "네타냐후 \"이란 핵·미사일 능력 상실…전쟁 일찍 끝날수도\"(종합) - 마켓인",
-        "en": "네타냐후 \"이란 핵·미사일 능력 상실…전쟁 일찍 끝날수도\"(종합) - 마켓인",
-        "zh": "네타냐후 \"이란 핵·미사일 능력 상실…전쟁 일찍 끝날수도\"(종합) - 마켓인"
       }
     },
     {
@@ -62,63 +62,75 @@
       }
     },
     {
-      "title": "국힘 이정현 ‘대구 중진 컷오프’, 한동훈 보선 출마 차단용? - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1250130.html",
+      "title": "주호영 “이정현, 지선 장애물…이진숙 전략공천? 대구시민 무시” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260319/133561231/1",
+      "source": "동아일보",
+      "pubDate": "Thu, 19 Mar 2026 00:10:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/01/27/133242246.1.jpg",
+      "summaries": {
+        "ko": "주호영 “이정현, 지선 장애물…이진숙 전략공천? 대구시민 무시” - 동아일보",
+        "en": "주호영 “이정현, 지선 장애물…이진숙 전략공천? 대구시민 무시” - 동아일보",
+        "zh": "주호영 “이정현, 지선 장애물…이진숙 전략공천? 대구시민 무시” - 동아일보"
+      }
+    },
+    {
+      "title": "‘3살 딸 암매장’ 엄마, 양육·아동수당 챙겨…“도주 우려” 구속 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/capital/1250123.html",
       "source": "한겨레",
-      "pubDate": "Thu, 19 Mar 2026 08:43:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/568/imgdb/original/2026/0319/20260319503220.webp",
+      "pubDate": "Thu, 19 Mar 2026 11:11:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/646/imgdb/original/2026/0319/20260319503083.webp",
       "summaries": {
-        "ko": "국힘 이정현 ‘대구 중진 컷오프’, 한동훈 보선 출마 차단용? - 한겨레",
-        "en": "국힘 이정현 ‘대구 중진 컷오프’, 한동훈 보선 출마 차단용? - 한겨레",
-        "zh": "국힘 이정현 ‘대구 중진 컷오프’, 한동훈 보선 출마 차단용? - 한겨레"
+        "ko": "‘3살 딸 암매장’ 엄마, 양육·아동수당 챙겨…“도주 우려” 구속 - 한겨레",
+        "en": "‘3살 딸 암매장’ 엄마, 양육·아동수당 챙겨…“도주 우려” 구속 - 한겨레",
+        "zh": "‘3살 딸 암매장’ 엄마, 양육·아동수당 챙겨…“도주 우려” 구속 - 한겨레"
       }
     },
     {
-      "title": "\"BTS 광화문 공연, 상징적이지만 과연 'K-컬처 실체'인가\" - 노컷뉴스",
-      "link": "https://www.nocutnews.co.kr/news/6488009",
-      "source": "노컷뉴스",
-      "pubDate": "Thu, 19 Mar 2026 10:25:00 GMT",
-      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/03/19/202603191920446183_0.jpg",
+      "title": "남양주 스토킹 살해범은 44세 김훈…신상 공개(종합) - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260319093251060",
+      "source": "연합뉴스",
+      "pubDate": "Thu, 19 Mar 2026 02:42:47 GMT",
+      "image": "https://img5.yna.co.kr/etc/inner/KR/2026/03/19/AKR20260319093251060_04_i_P4.jpg",
       "summaries": {
-        "ko": "\"BTS 광화문 공연, 상징적이지만 과연 'K-컬처 실체'인가\" - 노컷뉴스",
-        "en": "\"BTS 광화문 공연, 상징적이지만 과연 'K-컬처 실체'인가\" - 노컷뉴스",
-        "zh": "\"BTS 광화문 공연, 상징적이지만 과연 'K-컬처 실체'인가\" - 노컷뉴스"
+        "ko": "남양주 스토킹 살해범은 44세 김훈…신상 공개(종합) - 연합뉴스",
+        "en": "남양주 스토킹 살해범은 44세 김훈…신상 공개(종합) - 연합뉴스",
+        "zh": "남양주 스토킹 살해범은 44세 김훈…신상 공개(종합) - 연합뉴스"
       }
     },
     {
-      "title": "6년 전 세살 딸 학대치사 암매장… 친모·전남친 구속 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260319160911oLn",
-      "source": "연합뉴스TV",
-      "pubDate": "Thu, 19 Mar 2026 07:15:25 GMT",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260319/AKR20260319160911oLn_01_i.jpg",
-      "summaries": {
-        "ko": "6년 전 세살 딸 학대치사 암매장… 친모·전남친 구속 - 연합뉴스TV",
-        "en": "6년 전 세살 딸 학대치사 암매장… 친모·전남친 구속 - 연합뉴스TV",
-        "zh": "6년 전 세살 딸 학대치사 암매장… 친모·전남친 구속 - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "‘남양주 스토킹 살해’ 신상공개...44세 김훈 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/03/19/TUWNTQYFNFBTBGTYTNUCSTUDGU/",
-      "source": "조선일보",
-      "pubDate": "Thu, 19 Mar 2026 03:24:26 GMT",
-      "image": "https://www.chosun.com/resizer/v2/LYSDH7W3GNA67N4ROJYTCSZGR4.jpg?auth=00d122232a11a3de7e981872992593e2e3cb18433fc4efc58adbe41ecc61bd63&width=750&height=393&smart=true",
-      "summaries": {
-        "ko": "‘남양주 스토킹 살해’ 신상공개...44세 김훈 - 조선일보",
-        "en": "‘남양주 스토킹 살해’ 신상공개...44세 김훈 - 조선일보",
-        "zh": "‘남양주 스토킹 살해’ 신상공개...44세 김훈 - 조선일보"
-      }
-    },
-    {
-      "title": "[3분증시] 중동 긴장 속 '확전 자제'…뉴욕증시, 소폭 하락",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202603200755103V1",
+      "title": "트럼프 '확전 자제' 속 뉴욕증시 소폭 하락",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260320083748vrr",
       "source": "Breaking News",
-      "pubDate": "Fri, 20 Mar 2026 07:55:44 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260319/MYH202603200755103V1.jpg",
+      "pubDate": "Fri, 20 Mar 2026 08:38:05 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260319/MYH20260320083748vrr.jpg",
       "summaries": {
-        "ko": "[3분증시] 중동 긴장 속 '확전 자제'…뉴욕증시, 소폭 하락",
-        "en": "[3분증시] 중동 긴장 속 '확전 자제'…뉴욕증시, 소폭 하락",
-        "zh": "[3분증시] 중동 긴장 속 '확전 자제'…뉴욕증시, 소폭 하락"
+        "ko": "트럼프 '확전 자제' 속 뉴욕증시 소폭 하락",
+        "en": "트럼프 '확전 자제' 속 뉴욕증시 소폭 하락",
+        "zh": "트럼프 '확전 자제' 속 뉴욕증시 소폭 하락"
+      }
+    },
+    {
+      "title": "트럼프 \"日 나서주길\"…네타냐후 \"조기 종전 가능\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260320083612qZB",
+      "source": "Breaking News",
+      "pubDate": "Fri, 20 Mar 2026 08:36:55 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260319/MYH20260320083612qZB.jpg",
+      "summaries": {
+        "ko": "트럼프 \"日 나서주길\"…네타냐후 \"조기 종전 가능\"",
+        "en": "트럼프 \"日 나서주길\"…네타냐후 \"조기 종전 가능\"",
+        "zh": "트럼프 \"日 나서주길\"…네타냐후 \"조기 종전 가능\""
+      }
+    },
+    {
+      "title": "[속보] 의정부시 용현동 공장화재…대응 1단계 발령",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260320083458djs",
+      "source": "Breaking News",
+      "pubDate": "Fri, 20 Mar 2026 08:35:16 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260319/MYH20260320083458djs.jpg",
+      "summaries": {
+        "ko": "[속보] 의정부시 용현동 공장화재…대응 1단계 발령",
+        "en": "[속보] 의정부시 용현동 공장화재…대응 1단계 발령",
+        "zh": "[속보] 의정부시 용현동 공장화재…대응 1단계 발령"
       }
     }
   ]
