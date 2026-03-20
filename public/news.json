@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-20T23:46:06.491036",
+  "lastUpdate": "2026-03-20T23:59:44.508335",
   "items": [
     {
       "title": "[경제뭔데] ‘BTS노믹스’가 온다···BTS 컴백에 경제 효과 3조원 - 경향신문",
@@ -8,9 +8,9 @@
       "pubDate": "Fri, 20 Mar 2026 21:00:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/03/21/news-p.v1.20260318.3098239eae214d3683d66e676db9de8e_P1.png",
       "summaries": {
-        "ko": "방탄소년단(BTS)의 완전체 컴백과 글로벌 투어가 콘서트, 굿즈 판매, 관광객 유입 등으로 최소 수조 원대의 막대한 경제 효과를 창출하여 'BTS노믹스'를 이끌며 지역 경제를 활성화할 것으로 기대된다.",
-        "en": "BTS's full-group comeback and global tour are expected to generate massive economic effects, at least trillions of won, leading to 'BTSnomics' and revitalizing regional economies through concerts, merchandise sales, and tourist influx.",
-        "zh": "防弹少年团（BTS）以完整体回归并进行全球巡演，预计将通过演唱会、周边商品销售、游客流入等方式，创造至少数万亿韩元的巨大经济效益，从而引领“BTS经济学”并振兴区域经济。"
+        "ko": "방탄소년단(BTS)의 완전체 컴백이 콘서트, 굿즈 판매, 관광객 유입 등을 통해 'BTS노믹스'라 불리는 수조 원대 규모의 막대한 경제 파급 효과를 가져올 것으로 기대된다.",
+        "en": "BTS's full-group comeback is expected to generate a massive economic ripple effect, dubbed 'BTSnomics,' estimated at trillions of won, through concerts, merchandise sales, and tourist inflow.",
+        "zh": "防弹少年团的完整体回归预计将通过演唱会、周边商品销售和游客涌入等方式，带来被称为“BTSnomics”的数万亿韩元规模的巨大经济连锁效应。"
       }
     },
     {
@@ -20,9 +20,21 @@
       "pubDate": "Fri, 20 Mar 2026 20:27:00 GMT",
       "image": "http://news.kbs.co.kr/data/news/2026/03/21/20260321_7dAXEe.jpg",
       "summaries": {
-        "ko": "도널드 트럼프 미국 대통령이 한국, 중국, 일본 등 호르무즈 해협을 이용하는 주요 에너지 소비국들이 해협 항행 정상화를 위한 지원에 관여해야 한다고 거듭 강조했다.",
-        "en": "US President Donald Trump reiterated that major energy-consuming countries like South Korea, China, and Japan, which utilize the Strait of Hormuz, should be involved in supporting its safe navigation.",
-        "zh": "美国总统唐纳德·特朗普重申，韩国、中国、日本等利用霍尔木兹海峡的主要能源消费国应参与支持该海峡的正常通航。"
+        "ko": "트럼프, 호르무즈 지원에 “한·중·일 등 필요한 나라들 관여해야” - KBS 뉴스",
+        "en": "트럼프, 호르무즈 지원에 “한·중·일 등 필요한 나라들 관여해야” - KBS 뉴스",
+        "zh": "트럼프, 호르무즈 지원에 “한·중·일 등 필요한 나라들 관여해야” - KBS 뉴스"
+      }
+    },
+    {
+      "title": "정부, ‘호르무즈 해협 봉쇄 규탄’ 7개국 성명에 동참 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1250400.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 20 Mar 2026 14:54:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0320/53_17740181184135_20260320502851.webp",
+      "summaries": {
+        "ko": "정부, ‘호르무즈 해협 봉쇄 규탄’ 7개국 성명에 동참 - 한겨레",
+        "en": "정부, ‘호르무즈 해협 봉쇄 규탄’ 7개국 성명에 동참 - 한겨레",
+        "zh": "정부, ‘호르무즈 해협 봉쇄 규탄’ 7개국 성명에 동참 - 한겨레"
       }
     },
     {
@@ -47,30 +59,6 @@
         "ko": "SBS '그알', '이재명 조폭 연루설'에 \"근거없는 의혹 제기 사과\" - 오마이뉴스",
         "en": "SBS '그알', '이재명 조폭 연루설'에 \"근거없는 의혹 제기 사과\" - 오마이뉴스",
         "zh": "SBS '그알', '이재명 조폭 연루설'에 \"근거없는 의혹 제기 사과\" - 오마이뉴스"
-      }
-    },
-    {
-      "title": "정부, ‘호르무즈 해협 봉쇄 규탄’ 7개국 성명에 동참 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1250400.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 20 Mar 2026 14:54:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0320/53_17740181184135_20260320502851.webp",
-      "summaries": {
-        "ko": "정부, ‘호르무즈 해협 봉쇄 규탄’ 7개국 성명에 동참 - 한겨레",
-        "en": "정부, ‘호르무즈 해협 봉쇄 규탄’ 7개국 성명에 동참 - 한겨레",
-        "zh": "정부, ‘호르무즈 해협 봉쇄 규탄’ 7개국 성명에 동참 - 한겨레"
-      }
-    },
-    {
-      "title": "法, 항공사 기장 살해범 구속영장 발부…“기득권에 복수” - 조선일보",
-      "link": "https://www.chosun.com/national/regional/2026/03/20/HQE32Z5PQVFXLID3QRGIS4IULE/",
-      "source": "조선일보",
-      "pubDate": "Fri, 20 Mar 2026 12:40:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GZSTIODCHA3TMMLGHA3DAZDCHA.jpg?auth=180aad97eb41f86ef9b6993b974fd669ed78270099c30967e2fedfcb00502993&width=1200&height=630&focal=3681,2117",
-      "summaries": {
-        "ko": "法, 항공사 기장 살해범 구속영장 발부…“기득권에 복수” - 조선일보",
-        "en": "法, 항공사 기장 살해범 구속영장 발부…“기득권에 복수” - 조선일보",
-        "zh": "法, 항공사 기장 살해범 구속영장 발부…“기득권에 복수” - 조선일보"
       }
     },
     {
@@ -110,27 +98,27 @@
       }
     },
     {
-      "title": "특검 '디올백 선물' 최재영에 징역 4개월 구형",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260321084436BdK",
-      "source": "Breaking News",
-      "pubDate": "Sat, 21 Mar 2026 08:44:55 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260320/MYH20260321084436BdK.jpg",
+      "title": "李, 서울~양평고속도로 사업 재개 지시…“원점에서 재검토” - 조선일보",
+      "link": "https://www.chosun.com/politics/blue_house/2026/03/20/N5WXKWUYSJCIFOZ6BYIS7LYSYY/",
+      "source": "조선일보",
+      "pubDate": "Fri, 20 Mar 2026 07:41:22 GMT",
+      "image": "https://www.chosun.com/resizer/v2/HA3DCM3FMRRWCYZSGZSDOM3CMU.jpg?auth=b9405a40ecb247c97920532e069d8f1555615e9e29398929ec68a3b445ed0deb&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "김건희 여사에게 명품 가방을 건네며 인사 청탁을 한 혐의로 기소된 최재영 목사에게 특검이 징역 4개월을 구형했습니다.",
-        "en": "The special prosecution team has requested a four-month prison sentence for Pastor Choi Jae-young, who was indicted on charges of offering a luxury bag to First Lady Kim Keon-hee along with an influence-peddling request.",
-        "zh": "特别检察官要求判处牧师崔在英四个月有期徒刑，他因涉嫌向第一夫人金建希女士赠送名牌包并提出人事请托而被起诉。"
+        "ko": "李, 서울~양평고속도로 사업 재개 지시…“원점에서 재검토” - 조선일보",
+        "en": "李, 서울~양평고속도로 사업 재개 지시…“원점에서 재검토” - 조선일보",
+        "zh": "李, 서울~양평고속도로 사업 재개 지시…“원점에서 재검토” - 조선일보"
       }
     },
     {
-      "title": "[속보] 트럼프 \"전쟁 목표 달성에 매우 가까워지고 있다\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260321062856ZIQ",
+      "title": "이란 \"미에 기지 제공은 공격 동참\"…영국 \"확전 개입 안해\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260321085728fYz",
       "source": "Breaking News",
-      "pubDate": "Sat, 21 Mar 2026 06:28:57 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260320/AKR20260321062856ZIQ_01_i.jpg",
+      "pubDate": "Sat, 21 Mar 2026 08:57:28 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260320/AKR20260321085728fYz_01_i.jpg",
       "summaries": {
-        "ko": "[속보] 트럼프 \"전쟁 목표 달성에 매우 가까워지고 있다\"",
-        "en": "[속보] 트럼프 \"전쟁 목표 달성에 매우 가까워지고 있다\"",
-        "zh": "[속보] 트럼프 \"전쟁 목표 달성에 매우 가까워지고 있다\""
+        "ko": "이란 \"미에 기지 제공은 공격 동참\"…영국 \"확전 개입 안해\"",
+        "en": "이란 \"미에 기지 제공은 공격 동참\"…영국 \"확전 개입 안해\"",
+        "zh": "이란 \"미에 기지 제공은 공격 동참\"…영국 \"확전 개입 안해\""
       }
     }
   ]
