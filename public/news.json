@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-21T19:15:38.631768",
+  "lastUpdate": "2026-03-21T19:37:01.268548",
   "items": [
     {
       "title": "광화문 광장 메운 BTS의 ‘아리랑’...10만명 아미도 “아라리요” - 조선일보",
@@ -20,9 +20,9 @@
       "pubDate": "Sat, 21 Mar 2026 14:35:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/653/imgdb/original/2026/0321/3117740955819696.webp",
       "summaries": {
-        "ko": "대전 공장 화재, 층 쪼개 만든 ‘무허가 시설’이 참사 키웠다 - 한겨레",
-        "en": "대전 공장 화재, 층 쪼개 만든 ‘무허가 시설’이 참사 키웠다 - 한겨레",
-        "zh": "대전 공장 화재, 층 쪼개 만든 ‘무허가 시설’이 참사 키웠다 - 한겨레"
+        "ko": "대전 공장 화재 참사는 허가 없이 층을 쪼개 만든 무허가 시설인 헬스장과 휴게실이 환기 부족으로 연기를 가둬 인명 피해를 키웠으며, 이는 당국도 몰랐던 사실로 밝혀졌다.",
+        "en": "The high death toll in the Daejeon factory fire was exacerbated by unauthorized facilities, such as a gym and lounge illegally created by splitting a floor, which lacked proper ventilation and trapped smoke, a fact unknown to authorities.",
+        "zh": "大田工厂火灾伤亡惨重，系未经许可私自隔层建造的健身房和休息室因通风不足困住烟雾所致，且这些违规设施此前未被当局发现。"
       }
     },
     {
@@ -50,18 +50,6 @@
       }
     },
     {
-      "title": "미군 2500명 더 파견 예정…이란 “중동 밖 미 지휘관 추적·보복” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1250428.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 21 Mar 2026 14:34:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/700/466/imgdb/original/2026/0321/20260321500605.webp",
-      "summaries": {
-        "ko": "미군 2500명 더 파견 예정…이란 “중동 밖 미 지휘관 추적·보복” - 한겨레",
-        "en": "미군 2500명 더 파견 예정…이란 “중동 밖 미 지휘관 추적·보복” - 한겨레",
-        "zh": "미군 2500명 더 파견 예정…이란 “중동 밖 미 지휘관 추적·보복” - 한겨레"
-      }
-    },
-    {
       "title": "공소청법 이어 중수청법도 민주당 주도로 국회 본회의 통과 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/assembly/1250435.html",
       "source": "한겨레",
@@ -71,6 +59,18 @@
         "ko": "공소청법 이어 중수청법도 민주당 주도로 국회 본회의 통과 - 한겨레",
         "en": "공소청법 이어 중수청법도 민주당 주도로 국회 본회의 통과 - 한겨레",
         "zh": "공소청법 이어 중수청법도 민주당 주도로 국회 본회의 통과 - 한겨레"
+      }
+    },
+    {
+      "title": "“사업자 대출로 주택 구입, 사기죄” 경고했던 이 대통령 “처벌 전 자진 상환하라” 권고 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603211319001",
+      "source": "경향신문",
+      "pubDate": "Sat, 21 Mar 2026 04:19:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/21/news-p.v1.20260321.40f0e69dd4a543e489b136b88a3e4224_P2.jpeg",
+      "summaries": {
+        "ko": "“사업자 대출로 주택 구입, 사기죄” 경고했던 이 대통령 “처벌 전 자진 상환하라” 권고 - 경향신문",
+        "en": "“사업자 대출로 주택 구입, 사기죄” 경고했던 이 대통령 “처벌 전 자진 상환하라” 권고 - 경향신문",
+        "zh": "“사업자 대출로 주택 구입, 사기죄” 경고했던 이 대통령 “처벌 전 자진 상환하라” 권고 - 경향신문"
       }
     },
     {
@@ -98,27 +98,27 @@
       }
     },
     {
-      "title": "트럼프 “이란 작전 축소 검토…호르무즈는 이용국이 경비해야” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1250407.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 21 Mar 2026 14:37:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0321/20260321500128.webp",
+      "title": "트럼프, 이란 작전 ‘축소’ 시사…“호르무즈 해협은 이용국이 책임져야” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603210802001",
+      "source": "경향신문",
+      "pubDate": "Fri, 20 Mar 2026 23:02:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/21/news-p.v1.20260321.e701dacd076e4e68ac45b8418184a5eb_P1.jpg",
       "summaries": {
-        "ko": "트럼프 “이란 작전 축소 검토…호르무즈는 이용국이 경비해야” - 한겨레",
-        "en": "트럼프 “이란 작전 축소 검토…호르무즈는 이용국이 경비해야” - 한겨레",
-        "zh": "트럼프 “이란 작전 축소 검토…호르무즈는 이용국이 경비해야” - 한겨레"
+        "ko": "트럼프, 이란 작전 ‘축소’ 시사…“호르무즈 해협은 이용국이 책임져야” - 경향신문",
+        "en": "트럼프, 이란 작전 ‘축소’ 시사…“호르무즈 해협은 이용국이 책임져야” - 경향신문",
+        "zh": "트럼프, 이란 작전 ‘축소’ 시사…“호르무즈 해협은 이용국이 책임져야” - 경향신문"
       }
     },
     {
-      "title": "이란 19세 유망 레슬러의 비극 - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/03/21/BYQFKMUAJJHFBPZFHSPNSHJWLM/",
-      "source": "조선일보",
-      "pubDate": "Fri, 20 Mar 2026 15:46:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/43G26C3XKVET5K56RJSY4HLL24.png?auth=896941025847f49341497fbdc2db0fc17dc58097288a9a75b37bb3becbc8da35&width=600&height=315&smart=true",
+      "title": "미군 2500명 더 파견 예정…이란 “중동 밖 미 지휘관 추적·보복” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1250428.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 21 Mar 2026 14:34:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/700/466/imgdb/original/2026/0321/20260321500605.webp",
       "summaries": {
-        "ko": "이란 19세 유망 레슬러의 비극 - 조선일보",
-        "en": "이란 19세 유망 레슬러의 비극 - 조선일보",
-        "zh": "이란 19세 유망 레슬러의 비극 - 조선일보"
+        "ko": "미군 2500명 더 파견 예정…이란 “중동 밖 미 지휘관 추적·보복” - 한겨레",
+        "en": "미군 2500명 더 파견 예정…이란 “중동 밖 미 지휘관 추적·보복” - 한겨레",
+        "zh": "미군 2500명 더 파견 예정…이란 “중동 밖 미 지휘관 추적·보복” - 한겨레"
       }
     }
   ]
