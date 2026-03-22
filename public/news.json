@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-03-22T01:43:50.050711",
+  "lastUpdate": "2026-03-22T04:06:37.321603",
   "items": [
-    {
-      "title": "“서울 한복판 공연에 감격”…BTS 컴백 무대 질서 있게 마무리 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1250441.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 21 Mar 2026 23:33:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/597/imgdb/original/2026/0321/9217740981470231.webp",
-      "summaries": {
-        "ko": "방탄소년단(BTS)이 21일 서울 광화문 광장에서 정규 5집 '아리랑' 발매 기념 컴백 공연을 성공적으로 마쳤으며, 우려했던 인파 사고 없이 질서 있게 마무리되었다.",
-        "en": "BTS successfully concluded their comeback concert for their 5th album \"ARIRANG\" at Gwanghwamun Square in Seoul on November 21st, ending orderly and without major crowd accidents despite initial concerns.",
-        "zh": "BTS于11月21日在首尔光化门广场成功举办了第五张专辑《阿里郎》的回归演唱会，尽管存在担忧，但活动在没有发生重大人群事故的情况下有序落幕。"
-      }
-    },
     {
       "title": "트럼프, 이란에 “48시간 내 호르무즈 개방 않으면 발전소 초토화” - 조선일보",
       "link": "https://www.chosun.com/international/us/2026/03/22/YT6XAJ6YXVFW3KC7RDCJ2YU6KY/",
@@ -26,51 +14,63 @@
       }
     },
     {
-      "title": "대전 공장 화재, 층 쪼개 만든 ‘무허가 시설’이 참사 키웠다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/chungcheong/1250431.html",
+      "title": "“BTS 컴백, 역사적 현장 놓칠 수 없어”…전 세계 아미, 광화문 집결 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1250436.html",
       "source": "한겨레",
-      "pubDate": "Sat, 21 Mar 2026 14:35:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/653/imgdb/original/2026/0321/3117740955819696.webp",
+      "pubDate": "Sat, 21 Mar 2026 23:34:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/600/imgdb/original/2026/0321/20260321500800.webp",
       "summaries": {
-        "ko": "대전 공장 화재, 층 쪼개 만든 ‘무허가 시설’이 참사 키웠다 - 한겨레",
-        "en": "대전 공장 화재, 층 쪼개 만든 ‘무허가 시설’이 참사 키웠다 - 한겨레",
-        "zh": "대전 공장 화재, 층 쪼개 만든 ‘무허가 시설’이 참사 키웠다 - 한겨레"
+        "ko": "전 세계 아미들이 방탄소년단 컴백 콘서트의 '역사적 순간'을 경험하고 분위기를 느끼기 위해 서울 도심, 특히 광화문에 집결했으며, 많은 이들이 제한된 티켓에도 불구하고 야외 전광판이나 스트리밍으로 공연을 즐겼다.",
+        "en": "International ARMYs gathered in Seoul's city center, particularly around Gwanghwamun, for the BTS comeback concert, eager to experience the 'historic moment' and soak in the atmosphere, with many enjoying the performance via outdoor screens or streaming services despite limited tickets.",
+        "zh": "尽管门票有限，但世界各地的阿米们仍齐聚首尔市中心（尤其是光化门），渴望体验防弹少年团回归演唱会的“历史性时刻”并感受现场氛围，许多人通过户外大屏幕或流媒体服务观看了演出。"
       }
     },
     {
-      "title": "[속보]이 대통령, 다주택 공직자 부동산 정책 과정서 배제 지시 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603220951001",
+      "title": "이 대통령 “다주택 공직자, 부동산 정책서 배제”…누가 해당? - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1250459.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 22 Mar 2026 02:39:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/469/imgdb/original/2026/0322/20260322500670.webp",
+      "summaries": {
+        "ko": "이 대통령 “다주택 공직자, 부동산 정책서 배제”…누가 해당? - 한겨레",
+        "en": "이 대통령 “다주택 공직자, 부동산 정책서 배제”…누가 해당? - 한겨레",
+        "zh": "이 대통령 “다주택 공직자, 부동산 정책서 배제”…누가 해당? - 한겨레"
+      }
+    },
+    {
+      "title": "李대통령, ‘그알’ SBS 노조 반발에 “언론 자유는 특권 아냐” - 조선일보",
+      "link": "https://www.chosun.com/politics/blue_house/2026/03/22/IWLH34QIENFTPPACDOWL53XZBE/",
+      "source": "조선일보",
+      "pubDate": "Sun, 22 Mar 2026 02:27:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MI3DMZBXMVSWCMDEMQ3WMMRWGY.jpg?auth=36af36a1a07a01f4632902076d0ba346bcb04a697ebc9018b80a7c0fbda5dce2&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "李대통령, ‘그알’ SBS 노조 반발에 “언론 자유는 특권 아냐” - 조선일보",
+        "en": "李대통령, ‘그알’ SBS 노조 반발에 “언론 자유는 특권 아냐” - 조선일보",
+        "zh": "李대통령, ‘그알’ SBS 노조 반발에 “언론 자유는 특권 아냐” - 조선일보"
+      }
+    },
+    {
+      "title": "74명 사상 대전 공장화재, 인명피해 왜 커졌나···내부환경·위험물·점심시간 등 악조건 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603221142001",
       "source": "경향신문",
-      "pubDate": "Sun, 22 Mar 2026 00:51:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/22/news-p.v1.20260320.f070b5bd1a014107ade4842a3dfbfe80_P1.jpeg",
+      "pubDate": "Sun, 22 Mar 2026 02:42:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/22/news-p.v1.20260322.cd382d9400694b299a0a196ffb7e2622_P1.png",
       "summaries": {
-        "ko": "이재명 대통령은 다주택자, 비거주고가주택 소유자, 부동산 과다보유자를 주택 및 부동산 정책 논의 및 결정 과정에서 배제하도록 지시하며, 이는 정권의 성패가 달린 중요한 일임을 강조했다.",
-        "en": "President Lee Jae-myung ordered the exclusion of multi-homeowners, owners of non-residential high-value homes, and excessive real estate holders from the housing and real estate policy discussion and decision-making processes, emphasizing that this is crucial for the success of the administration.",
-        "zh": "李在明总统指示，将多住宅拥有者、非居住用高价住宅所有者以及房产过多持有者排除在住宅和房地产政策的讨论及决策过程之外，并强调这是关系到政权成败的重要事项。"
+        "ko": "74명 사상 대전 공장화재, 인명피해 왜 커졌나···내부환경·위험물·점심시간 등 악조건 - 경향신문",
+        "en": "74명 사상 대전 공장화재, 인명피해 왜 커졌나···내부환경·위험물·점심시간 등 악조건 - 경향신문",
+        "zh": "74명 사상 대전 공장화재, 인명피해 왜 커졌나···내부환경·위험물·점심시간 등 악조건 - 경향신문"
       }
     },
     {
-      "title": "핵 제거냐 협상이냐…트럼프, 이란전 ‘확전 vs 협상’ 갈림길 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1250446.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 21 Mar 2026 23:53:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0322/20260322500206.webp",
+      "title": "대구로 간 장동혁 “모든 공천 잡음, 당 대표인 제 책임” - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/03/22/2NL2P7HUSVB6FFHMN7UIC6JHYM/",
+      "source": "조선일보",
+      "pubDate": "Sun, 22 Mar 2026 02:14:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GOFMXXIU5JJPTDYQLYKDBPELRI.JPG?auth=4c1f914c44b5c06a27d6bfa3ed733d9be2f55a6eb922138403cd4a8572f36c1e&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "핵 제거냐 협상이냐…트럼프, 이란전 ‘확전 vs 협상’ 갈림길 - 한겨레",
-        "en": "핵 제거냐 협상이냐…트럼프, 이란전 ‘확전 vs 협상’ 갈림길 - 한겨레",
-        "zh": "핵 제거냐 협상이냐…트럼프, 이란전 ‘확전 vs 협상’ 갈림길 - 한겨레"
-      }
-    },
-    {
-      "title": "부산·울산·경남 구름 많고 건조…낮 최고 16∼18도 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260322004200051",
-      "source": "연합뉴스",
-      "pubDate": "Sat, 21 Mar 2026 21:16:30 GMT",
-      "image": "https://img7.yna.co.kr/photo/yna/YH/2025/05/21/PYH2025052119260005100_P4.jpg",
-      "summaries": {
-        "ko": "부산·울산·경남 구름 많고 건조…낮 최고 16∼18도 - 연합뉴스",
-        "en": "부산·울산·경남 구름 많고 건조…낮 최고 16∼18도 - 연합뉴스",
-        "zh": "부산·울산·경남 구름 많고 건조…낮 최고 16∼18도 - 연합뉴스"
+        "ko": "대구로 간 장동혁 “모든 공천 잡음, 당 대표인 제 책임” - 조선일보",
+        "en": "대구로 간 장동혁 “모든 공천 잡음, 당 대표인 제 책임” - 조선일보",
+        "zh": "대구로 간 장동혁 “모든 공천 잡음, 당 대표인 제 책임” - 조선일보"
       }
     },
     {
@@ -86,27 +86,27 @@
       }
     },
     {
-      "title": "野 이정현 “시끄러워도 밀고 갈 것”…‘공천 내홍’ 정면 돌파 시사 - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/03/21/WX3L6G5JF5EWHI5HPE4SS7EPVA/",
-      "source": "조선일보",
-      "pubDate": "Sat, 21 Mar 2026 05:34:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/HAYTCYRSHE4WGMZQMU4WMMZVMI.jpg?auth=36c34dcf8acd5b0a13af2852e91d600388578d6cb8e45d1abe109ce73004be84&width=1200&height=630&smart=true",
+      "title": "'위안부 부정' 김병헌 \"나는 처벌 못 해\"‥과연? - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6809230_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sat, 21 Mar 2026 03:10:34 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/03/21/jhp_20260321_5.jpg",
       "summaries": {
-        "ko": "野 이정현 “시끄러워도 밀고 갈 것”…‘공천 내홍’ 정면 돌파 시사 - 조선일보",
-        "en": "野 이정현 “시끄러워도 밀고 갈 것”…‘공천 내홍’ 정면 돌파 시사 - 조선일보",
-        "zh": "野 이정현 “시끄러워도 밀고 갈 것”…‘공천 내홍’ 정면 돌파 시사 - 조선일보"
+        "ko": "'위안부 부정' 김병헌 \"나는 처벌 못 해\"‥과연? - MBC 뉴스",
+        "en": "'위안부 부정' 김병헌 \"나는 처벌 못 해\"‥과연? - MBC 뉴스",
+        "zh": "'위안부 부정' 김병헌 \"나는 처벌 못 해\"‥과연? - MBC 뉴스"
       }
     },
     {
-      "title": "이란, 4천㎞ 밖 인도양 英기지에 미사일 '깜짝 발사' - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260321057800098",
-      "source": "연합뉴스",
-      "pubDate": "Sat, 21 Mar 2026 15:05:36 GMT",
-      "image": "https://img1.yna.co.kr/photo/etc/epa/2025/12/05/PEP20251205157801009_P4.jpg",
+      "title": "김예지 손으로 점자 읽으며 17시간 35분 필리버스터... 장동혁 이어 2위 - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/03/22/VQPDNMCPMZFTHHJNPUB7RNJKT4/",
+      "source": "조선일보",
+      "pubDate": "Sun, 22 Mar 2026 01:47:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/4VNAOLR6UJLZNAXEMQNGPRX53Y.jpg?auth=a64a63ef5346dbf944301f3e58178f3b13df6d67fbe58afd8cfe09746677b49c&width=1200&height=630&focal=2768,1041",
       "summaries": {
-        "ko": "이란, 4천㎞ 밖 인도양 英기지에 미사일 '깜짝 발사' - 연합뉴스",
-        "en": "이란, 4천㎞ 밖 인도양 英기지에 미사일 '깜짝 발사' - 연합뉴스",
-        "zh": "이란, 4천㎞ 밖 인도양 英기지에 미사일 '깜짝 발사' - 연합뉴스"
+        "ko": "김예지 손으로 점자 읽으며 17시간 35분 필리버스터... 장동혁 이어 2위 - 조선일보",
+        "en": "김예지 손으로 점자 읽으며 17시간 35분 필리버스터... 장동혁 이어 2위 - 조선일보",
+        "zh": "김예지 손으로 점자 읽으며 17시간 35분 필리버스터... 장동혁 이어 2위 - 조선일보"
       }
     },
     {
