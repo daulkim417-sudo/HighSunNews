@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-21T23:58:40.974740",
+  "lastUpdate": "2026-03-22T01:43:50.050711",
   "items": [
     {
       "title": "“서울 한복판 공연에 감격”…BTS 컴백 무대 질서 있게 마무리 - 한겨레",
@@ -8,21 +8,57 @@
       "pubDate": "Sat, 21 Mar 2026 23:33:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/597/imgdb/original/2026/0321/9217740981470231.webp",
       "summaries": {
-        "ko": "방탄소년단(BTS)의 서울 광화문 광장 컴백 공연이 대규모 인파 통제와 높은 예상 참석자 수에도 불구하고 큰 사고 없이 성공적으로 마무리되었고, 팬들은 질서 정연하게 해산했다.",
-        "en": "BTS successfully concluded their comeback concert in Seoul's Gwanghwamun Square without any major incidents, despite massive crowd control efforts and high attendance forecasts, with fans dispersing in an orderly manner.",
-        "zh": "防弹少年团在首尔光化门广场举行的回归演唱会在大规模安保和人流控制下，最终顺利、无事故地结束，粉丝们也井然有序地散场。"
+        "ko": "방탄소년단(BTS)이 21일 서울 광화문 광장에서 정규 5집 '아리랑' 발매 기념 컴백 공연을 성공적으로 마쳤으며, 우려했던 인파 사고 없이 질서 있게 마무리되었다.",
+        "en": "BTS successfully concluded their comeback concert for their 5th album \"ARIRANG\" at Gwanghwamun Square in Seoul on November 21st, ending orderly and without major crowd accidents despite initial concerns.",
+        "zh": "BTS于11月21日在首尔光化门广场成功举办了第五张专辑《阿里郎》的回归演唱会，尽管存在担忧，但活动在没有发生重大人群事故的情况下有序落幕。"
       }
     },
     {
-      "title": "대전 화재 실종자 14명 끝내 주검으로... 부상은 60명 - 조선일보",
-      "link": "https://www.chosun.com/national/regional/2026/03/21/I5HXSYJPJBENNLOBVXFRETTQOY/",
+      "title": "트럼프, 이란에 “48시간 내 호르무즈 개방 않으면 발전소 초토화” - 조선일보",
+      "link": "https://www.chosun.com/international/us/2026/03/22/YT6XAJ6YXVFW3KC7RDCJ2YU6KY/",
       "source": "조선일보",
-      "pubDate": "Sat, 21 Mar 2026 12:37:05 GMT",
-      "image": "https://www.chosun.com/resizer/v2/HFRDSMDFGQZGEMLCHEZWEMRTGU.jpg?auth=c22750266b16fb98fcf845e935afe505a12c0c7df1abb277600ff8966db318a9&width=1200&height=630&smart=true",
+      "pubDate": "Sun, 22 Mar 2026 00:20:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/WCWIH57J7RHCXASKUPSDX7M5ZA.jpg?auth=79e8f8da21de7260c2b579e2553bc7f33c4c009f21ad7c3d96c5ec5060022478&width=1200&height=630&focal=3301,1427",
       "summaries": {
-        "ko": "대전 화재 실종자 14명 끝내 주검으로... 부상은 60명 - 조선일보",
-        "en": "대전 화재 실종자 14명 끝내 주검으로... 부상은 60명 - 조선일보",
-        "zh": "대전 화재 실종자 14명 끝내 주검으로... 부상은 60명 - 조선일보"
+        "ko": "트럼프, 이란에 “48시간 내 호르무즈 개방 않으면 발전소 초토화” - 조선일보",
+        "en": "트럼프, 이란에 “48시간 내 호르무즈 개방 않으면 발전소 초토화” - 조선일보",
+        "zh": "트럼프, 이란에 “48시간 내 호르무즈 개방 않으면 발전소 초토화” - 조선일보"
+      }
+    },
+    {
+      "title": "대전 공장 화재, 층 쪼개 만든 ‘무허가 시설’이 참사 키웠다 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/chungcheong/1250431.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 21 Mar 2026 14:35:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/653/imgdb/original/2026/0321/3117740955819696.webp",
+      "summaries": {
+        "ko": "대전 공장 화재, 층 쪼개 만든 ‘무허가 시설’이 참사 키웠다 - 한겨레",
+        "en": "대전 공장 화재, 층 쪼개 만든 ‘무허가 시설’이 참사 키웠다 - 한겨레",
+        "zh": "대전 공장 화재, 층 쪼개 만든 ‘무허가 시설’이 참사 키웠다 - 한겨레"
+      }
+    },
+    {
+      "title": "[속보]이 대통령, 다주택 공직자 부동산 정책 과정서 배제 지시 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603220951001",
+      "source": "경향신문",
+      "pubDate": "Sun, 22 Mar 2026 00:51:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/22/news-p.v1.20260320.f070b5bd1a014107ade4842a3dfbfe80_P1.jpeg",
+      "summaries": {
+        "ko": "이재명 대통령은 다주택자, 비거주고가주택 소유자, 부동산 과다보유자를 주택 및 부동산 정책 논의 및 결정 과정에서 배제하도록 지시하며, 이는 정권의 성패가 달린 중요한 일임을 강조했다.",
+        "en": "President Lee Jae-myung ordered the exclusion of multi-homeowners, owners of non-residential high-value homes, and excessive real estate holders from the housing and real estate policy discussion and decision-making processes, emphasizing that this is crucial for the success of the administration.",
+        "zh": "李在明总统指示，将多住宅拥有者、非居住用高价住宅所有者以及房产过多持有者排除在住宅和房地产政策的讨论及决策过程之外，并强调这是关系到政权成败的重要事项。"
+      }
+    },
+    {
+      "title": "핵 제거냐 협상이냐…트럼프, 이란전 ‘확전 vs 협상’ 갈림길 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/america/1250446.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 21 Mar 2026 23:53:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0322/20260322500206.webp",
+      "summaries": {
+        "ko": "핵 제거냐 협상이냐…트럼프, 이란전 ‘확전 vs 협상’ 갈림길 - 한겨레",
+        "en": "핵 제거냐 협상이냐…트럼프, 이란전 ‘확전 vs 협상’ 갈림길 - 한겨레",
+        "zh": "핵 제거냐 협상이냐…트럼프, 이란전 ‘확전 vs 협상’ 갈림길 - 한겨레"
       }
     },
     {
@@ -50,75 +86,39 @@
       }
     },
     {
-      "title": "미군 2500명 더 파견 예정…이란 “중동 밖 미 지휘관 추적·보복” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1250428.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 21 Mar 2026 14:34:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/700/466/imgdb/original/2026/0321/20260321500605.webp",
+      "title": "野 이정현 “시끄러워도 밀고 갈 것”…‘공천 내홍’ 정면 돌파 시사 - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/03/21/WX3L6G5JF5EWHI5HPE4SS7EPVA/",
+      "source": "조선일보",
+      "pubDate": "Sat, 21 Mar 2026 05:34:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/HAYTCYRSHE4WGMZQMU4WMMZVMI.jpg?auth=36c34dcf8acd5b0a13af2852e91d600388578d6cb8e45d1abe109ce73004be84&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "미군 2500명 더 파견 예정…이란 “중동 밖 미 지휘관 추적·보복” - 한겨레",
-        "en": "미군 2500명 더 파견 예정…이란 “중동 밖 미 지휘관 추적·보복” - 한겨레",
-        "zh": "미군 2500명 더 파견 예정…이란 “중동 밖 미 지휘관 추적·보복” - 한겨레"
+        "ko": "野 이정현 “시끄러워도 밀고 갈 것”…‘공천 내홍’ 정면 돌파 시사 - 조선일보",
+        "en": "野 이정현 “시끄러워도 밀고 갈 것”…‘공천 내홍’ 정면 돌파 시사 - 조선일보",
+        "zh": "野 이정현 “시끄러워도 밀고 갈 것”…‘공천 내홍’ 정면 돌파 시사 - 조선일보"
       }
     },
     {
-      "title": "최정섭 회장 \"의협 회장 소통 부재·책임 회피로 전공의들 독립…의료계 분열 기로\" - MEDI:GATE NEWS",
-      "link": "https://www.medigatenews.com/news/2728426080",
-      "source": "MEDI:GATE NEWS",
-      "pubDate": "Sat, 21 Mar 2026 09:02:00 GMT",
-      "image": "https://medigatenews.com/file/news/497384",
-      "summaries": {
-        "ko": "최정섭 회장 \"의협 회장 소통 부재·책임 회피로 전공의들 독립…의료계 분열 기로\" - MEDI:GATE NEWS",
-        "en": "최정섭 회장 \"의협 회장 소통 부재·책임 회피로 전공의들 독립…의료계 분열 기로\" - MEDI:GATE NEWS",
-        "zh": "최정섭 회장 \"의협 회장 소통 부재·책임 회피로 전공의들 독립…의료계 분열 기로\" - MEDI:GATE NEWS"
-      }
-    },
-    {
-      "title": "핵 제거냐 출구전략이냐…트럼프, 이란전 ‘확전 vs 협상’ 갈림길 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1250446.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 21 Mar 2026 23:10:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0322/20260322500206.webp",
-      "summaries": {
-        "ko": "핵 제거냐 출구전략이냐…트럼프, 이란전 ‘확전 vs 협상’ 갈림길 - 한겨레",
-        "en": "핵 제거냐 출구전략이냐…트럼프, 이란전 ‘확전 vs 협상’ 갈림길 - 한겨레",
-        "zh": "핵 제거냐 출구전략이냐…트럼프, 이란전 ‘확전 vs 협상’ 갈림길 - 한겨레"
-      }
-    },
-    {
-      "title": "정부, 이란-일본 호르무즈 선박통과 협의에 “이란 등과 소통” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603211536001",
-      "source": "경향신문",
-      "pubDate": "Sat, 21 Mar 2026 06:36:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/21/news-p.v1.20260321.e37afd17939d4a3583467d2e8f7aadd6_P1.png",
-      "summaries": {
-        "ko": "정부, 이란-일본 호르무즈 선박통과 협의에 “이란 등과 소통” - 경향신문",
-        "en": "정부, 이란-일본 호르무즈 선박통과 협의에 “이란 등과 소통” - 경향신문",
-        "zh": "정부, 이란-일본 호르무즈 선박통과 협의에 “이란 등과 소통” - 경향신문"
-      }
-    },
-    {
-      "title": "이란 \"美·이스라엘, 나탄즈 핵시설 또 공격…방사능 누출 없어\"(종합) - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260321049451079",
+      "title": "이란, 4천㎞ 밖 인도양 英기지에 미사일 '깜짝 발사' - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260321057800098",
       "source": "연합뉴스",
-      "pubDate": "Sat, 21 Mar 2026 11:15:42 GMT",
-      "image": "https://img3.yna.co.kr/etc/inner/KR/2026/03/21/AKR20260321049451079_01_i_P4.jpg",
+      "pubDate": "Sat, 21 Mar 2026 15:05:36 GMT",
+      "image": "https://img1.yna.co.kr/photo/etc/epa/2025/12/05/PEP20251205157801009_P4.jpg",
       "summaries": {
-        "ko": "이란 \"美·이스라엘, 나탄즈 핵시설 또 공격…방사능 누출 없어\"(종합) - 연합뉴스",
-        "en": "이란 \"美·이스라엘, 나탄즈 핵시설 또 공격…방사능 누출 없어\"(종합) - 연합뉴스",
-        "zh": "이란 \"美·이스라엘, 나탄즈 핵시설 또 공격…방사능 누출 없어\"(종합) - 연합뉴스"
+        "ko": "이란, 4천㎞ 밖 인도양 英기지에 미사일 '깜짝 발사' - 연합뉴스",
+        "en": "이란, 4천㎞ 밖 인도양 英기지에 미사일 '깜짝 발사' - 연합뉴스",
+        "zh": "이란, 4천㎞ 밖 인도양 英기지에 미사일 '깜짝 발사' - 연합뉴스"
       }
     },
     {
-      "title": "“종이호랑이·겁쟁이”…트럼프, 나토 동맹국 맹비난 - 매일경제",
-      "link": "https://www.mk.co.kr/news/society/11994238",
-      "source": "매일경제",
-      "pubDate": "Sat, 21 Mar 2026 00:26:29 GMT",
-      "image": "https://pimg.mk.co.kr/news/cms/202603/21/news-p.v1.20260321.550f37d682554db4b9200bbc0fe5afe7_R.jpeg",
+      "title": "미국인 65% \"트럼프, 결국 이란과 대규모 지상전 벌일것\"(종합) - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260320183451071",
+      "source": "연합뉴스",
+      "pubDate": "Fri, 20 Mar 2026 16:19:00 GMT",
+      "image": "https://img7.yna.co.kr/photo/etc/epa/2020/08/10/PEP20200810138201055_P4.jpg",
       "summaries": {
-        "ko": "“종이호랑이·겁쟁이”…트럼프, 나토 동맹국 맹비난 - 매일경제",
-        "en": "“종이호랑이·겁쟁이”…트럼프, 나토 동맹국 맹비난 - 매일경제",
-        "zh": "“종이호랑이·겁쟁이”…트럼프, 나토 동맹국 맹비난 - 매일경제"
+        "ko": "미국인 65% \"트럼프, 결국 이란과 대규모 지상전 벌일것\"(종합) - 연합뉴스",
+        "en": "미국인 65% \"트럼프, 결국 이란과 대규모 지상전 벌일것\"(종합) - 연합뉴스",
+        "zh": "미국인 65% \"트럼프, 결국 이란과 대규모 지상전 벌일것\"(종합) - 연합뉴스"
       }
     }
   ]
