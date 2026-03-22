@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-22T07:45:27.537102",
+  "lastUpdate": "2026-03-22T08:02:09.215057",
   "items": [
     {
       "title": "대전시청 1층에 ‘화재 참사’ 합동분향소…숨진 14명 신원 확인 중 - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Sun, 22 Mar 2026 01:53:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0322/20260322500706.webp",
       "summaries": {
-        "ko": "대전 자동차 부품 공장 화재로 14명이 숨진 가운데, 대전시청에 합동분향소가 마련되었고, 정부는 희생자 신원 확인과 유가족 지원, 사고 원인 조사 및 재발 방지 대책 마련에 주력하고 있다.",
-        "en": "Following a major fire at a Daejeon automobile parts factory that killed 14, a joint memorial altar has been established at Daejeon City Hall, with the government focusing on victim identification, family support, cause investigation, and recurrence prevention.",
-        "zh": "韩国大田一汽车零部件工厂发生重大火灾导致14人死亡后，大田市政府设立了联合悼念所，政府正专注于遇难者身份确认、家属支援、事故原因调查以及防止事故再次发生。"
+        "ko": "대전 대덕구 자동차 부품 공장 화재로 14명이 사망하고 60명이 부상한 가운데, 대전시청에 합동분향소가 마련됐으며 정부는 유가족 지원, 사고 원인 조사 및 유사 사업장 긴급 점검에 착수했다.",
+        "en": "A joint memorial altar has been set up at Daejeon City Hall following a large fire at an automobile parts factory in Daejeon's Daedeok-gu that killed 14 and injured 60, with the government supporting victims' families, investigating the cause, and launching emergency inspections of similar workplaces.",
+        "zh": "大田大德区一家汽车零部件工厂发生火灾，造成14人死亡、60人受伤，大田市政府已设立联合悼念所，政府正为遇难者家属提供支持、调查事故原因并对类似工作场所进行紧急检查。"
       }
     },
     {
@@ -26,27 +26,63 @@
       }
     },
     {
-      "title": "이 대통령 “다주택 공직자, 부동산 정책서 배제”…누가 해당? - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1250459.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 22 Mar 2026 05:51:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/469/imgdb/original/2026/0322/20260322500670.webp",
+      "title": "이 대통령 “다주택·부동산 과다보유자, 부동산 정책 라인 배제…0.1% 구멍도 안 돼” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603221642001",
+      "source": "경향신문",
+      "pubDate": "Sun, 22 Mar 2026 07:42:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/22/news-p.v1.20260322.b6bb623ce4934d6aacaa0c40219cd97b_P1.jpeg",
       "summaries": {
-        "ko": "이재명 대통령은 부동산 정책의 공정성과 신뢰 확보를 위해 다주택 공직자들을 정책 논의 및 결정 과정에서 배제하도록 지시하며, 주택 가격 안정이 대한민국의 운명에 달렸다고 강조했다.",
-        "en": "President Lee Jae-myung ordered multi-homeowner public officials to be excluded from real estate policy discussions and decision-making processes to ensure fairness and trust, emphasizing that stable housing prices are crucial for South Korea's future.",
-        "zh": "李在明总统指示，为确保房地产政策的公正性和信任度，将多套房产的公职人员排除在政策讨论和决策过程之外，并强调住房价格稳定关乎大韩民国的命运。"
+        "ko": "이재명 대통령이 다주택자 및 부동산 과다 보유자를 부동산 정책 논의·입안 과정에서 배제하도록 지시하며, 이해충돌을 막고 0.1%의 결함도 없는 부동산 시장 개혁을 추진하겠다는 의지를 밝혔다.",
+        "en": "President Lee Jae-myung has ordered the exclusion of multi-homeowners and those with excessive real estate from all real estate policy processes to prevent conflicts of interest and ensure the integrity and effectiveness of property reforms, emphasizing that even a 0.1% flaw is unacceptable.",
+        "zh": "韩国总统李在明指示将多套住房拥有者和房地产过度持有者排除在房地产政策讨论和制定过程之外，以防止利益冲突，并表明推动“0.1%缺陷都不能有”的房地产市场改革的决心。"
       }
     },
     {
-      "title": "이 대통령 “언론 자유가 특권은 아니다”…‘그알’ SBS 노조 반발 겨냥 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603221100021",
+      "title": "중수청·공소청법 통과됐지만···검사의 ‘특사경 지휘권’ 없어진 건 아냐 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603221558001",
       "source": "경향신문",
-      "pubDate": "Sun, 22 Mar 2026 02:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/22/news-p.v1.20260322.78e0ae2813b84d78a352641ce25572cb_P1.jpeg",
+      "pubDate": "Sun, 22 Mar 2026 06:58:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/22/news-p.v1.20260320.12a57c40c576451b887e714cf72ee382_P1.jpeg",
       "summaries": {
-        "ko": "이재명 대통령은 SBS <그것이 알고 싶다>의 허위 '조폭 연루설' 보도에 대한 사과 요구에 반발한 SBS 노조를 향해 언론 자유는 특권이 아닌 책임이 따르는 것이라고 비판했다.",
-        "en": "President Lee Jae-myung criticized the SBS union's opposition to his demand for an apology from SBS's \"Unanswered Questions\" program regarding its false \"gangster involvement\" report, stating that freedom of the press entails responsibility, not privilege.",
-        "zh": "李在明总统批评SBS工会对SBS节目《想知道真相》就其虚假“黑帮牵连说”报道的道歉要求提出反驳，称新闻自由是伴随责任而非特权。"
+        "ko": "공소청법에서 검사의 특사경 지휘권이 명시적으로 제외되었음에도 불구하고 현행 형사소송법에 해당 권한이 여전히 규정되어 있어 향후 논란이 예상되며, 정부는 형사소송법 개정 논의를 통해 이 문제를 다룰 방침이다.",
+        "en": "Although the Prosecution Office Act explicitly removed the mention of prosecutors' command authority over special judicial police, this power remains stipulated in the current Criminal Procedure Act, leading to anticipated future controversy, and the government plans to address this issue through discussions on amending the Criminal Procedure Act.",
+        "zh": "尽管检察官对特别司法警察的指挥权被明确排除在《公诉厅法》之外，但现行《刑事诉讼法》仍对此权有所规定，预计将引发未来争议，政府计划通过修订《刑事诉讼法》的讨论来解决这个问题。"
+      }
+    },
+    {
+      "title": "일본에 파병 못 얻어낸 트럼프 “한국 사랑해”…정부의 선택은 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1250475.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 22 Mar 2026 03:27:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0322/20260322500936.webp",
+      "summaries": {
+        "ko": "일본이 호르무즈 파병을 사실상 거부하자 트럼프 대통령은 \"한국을 사랑한다\"며 한국의 역할을 재차 촉구했고, 한국 정부는 이란의 해협 봉쇄 비판 성명에는 동참했지만 군사적 지원에는 선을 그으며 '전략적 모호성'을 유지했다.",
+        "en": "After Japan effectively refused military deployment to the Strait of Hormuz, President Trump reiterated his call for South Korea's role, saying \"I love Korea,\" while the South Korean government joined a statement criticizing Iran's blockade but maintained \"strategic ambiguity\" regarding military support.",
+        "zh": "在日本实际拒绝向霍尔木兹海峡派兵后，特朗普总统在表示“我爱韩国”的同时，再次敦促韩国发挥作用，而韩国政府虽然加入了谴责伊朗封锁海峡的声明，但对军事支持划清界限，维持了“战略模糊性”。"
+      }
+    },
+    {
+      "title": "이 대통령, '언론 길들이기' 반발에 \"언론 자유, 특권 의미하는 건 아냐\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6809332_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 22 Mar 2026 01:50:50 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/03/22/jhp_20260322_14.jpg",
+      "summaries": {
+        "ko": "이재명 대통령은 SBS 언론노조의 '언론 독립 침해' 반발에 대해 언론의 자유가 특권을 의미하는 것이 아니며 사실 왜곡에 대해 더 큰 책임을 져야 한다고 강조했습니다.",
+        "en": "President Lee Jae-myung, in response to the SBS media union's protest against \"infringement of media independence,\" emphasized that freedom of the press does not imply privilege and that media should bear greater responsibility for distorting facts.",
+        "zh": "李在明总统针对SBS媒体工会抗议“侵犯媒体独立”一事，强调新闻自由不意味着特权，媒体对歪曲事实应承担更大责任。"
+      }
+    },
+    {
+      "title": "“창문 있어야 깨고 나오지”…대전 화재 참사, 아들 잃은 아버지 오열 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1250487.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 22 Mar 2026 06:47:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/361/imgdb/original/2026/0322/20260322501288.webp",
+      "summaries": {
+        "ko": "대전 안전공업 화재 참사로 14명이 사망한 가운데, 아들을 잃은 아버지가 창문 없는 열악한 작업 환경을 오열하며 비통해했고, 유가족들은 합동분향소에서 신원 확인조차 어려운 상황에 깊은 슬픔을 나누고 있다.",
+        "en": "Following the Daejeon Safety Industry fire that killed 14, a father tearfully recounted his son's tragic death in a windowless, poor working environment, as grieving families shared their profound sorrow at the joint memorial altar while struggling with difficulties in victim identification.",
+        "zh": "韩国大田安全工业火灾造成14人死亡后，一位父亲哭诉了儿子在没有窗户的恶劣工作环境中遇难的悲剧，同时悲痛欲绝的家属们在联合灵堂上表达了深切的悲痛，并仍在努力确认遇难者身份。"
       }
     },
     {
@@ -62,51 +98,15 @@
       }
     },
     {
-      "title": "이란, 4천㎞ 밖 ‘미·영 기지’ 공격…파괴당한 미사일 역량 유효하나 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1250478.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 22 Mar 2026 05:12:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/970/imgdb/original/2026/0322/20260322501054.webp",
-      "summaries": {
-        "ko": "이란이 4천km 밖의 미국-영국 기지를 공격하고 이스라엘 핵시설을 타격하며 기존 미사일 사거리 제한을 깨고 공격적 억지 전략으로 전환했음을 보여주며 서방의 방어 개념을 흔들었다.",
-        "en": "Iran demonstrated unexpectedly advanced missile capabilities, including a 4000km strike on the US-UK Diego Garcia base and an attack on Israeli nuclear facilities, breaking its self-imposed range limits and signaling a shift to an aggressive deterrence strategy, thereby challenging existing defense concepts.",
-        "zh": "伊朗展示出超乎预期的导弹能力，包括对4000公里外美英迭戈加西亚基地和以色列核设施的袭击，打破了其自我设定的射程限制，标志着转向积极威慑战略，从而挑战了现有的防御理念。"
-      }
-    },
-    {
-      "title": "[속보] 李대통령, 한국은행 총재에 신현송 BIS 통화경제국장 지명 - 조선일보",
-      "link": "https://www.chosun.com/politics/blue_house/2026/03/22/STMV3CJLOZA5LFHLDWVEOZPQEI/",
-      "source": "조선일보",
-      "pubDate": "Sun, 22 Mar 2026 06:46:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/QZP5QC3RJZEZXIDBKPK42C7QSQ.JPG?auth=09c95699a29491bc9cd0aac43d865dbe378356384c3131c2dc04896b59c6e018&width=1200&height=630&focal=2510,1060",
-      "summaries": {
-        "ko": "[속보] 李대통령, 한국은행 총재에 신현송 BIS 통화경제국장 지명 - 조선일보",
-        "en": "[속보] 李대통령, 한국은행 총재에 신현송 BIS 통화경제국장 지명 - 조선일보",
-        "zh": "[속보] 李대통령, 한국은행 총재에 신현송 BIS 통화경제국장 지명 - 조선일보"
-      }
-    },
-    {
-      "title": "“창문 있어야 깨고 나오지”…안전공업 참사로 아들 잃은 아버지의 오열 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1250487.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 22 Mar 2026 06:47:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/361/imgdb/original/2026/0322/20260322501288.webp",
-      "summaries": {
-        "ko": "대전 안전공업 참사 희생자 14명을 위한 합동분향소에서, 창문 없는 공장에서 아들을 잃은 아버지 등 유가족과 동료들이 깊은 슬픔을 나누며 신원 확인 지연에 대한 좌절감을 토로하고 있다.",
-        "en": "At the joint memorial altar for the 14 victims of the Daejeon Anjeon Industrial disaster, grieving families and colleagues, including a father lamenting his son's death in a factory without escape windows, express profound sorrow and frustration over the slow pace of victim identification.",
-        "zh": "在大田安全工业灾难14名遇难者的联合焚香所，包括一名为儿子在没有窗户的工厂中丧生而悲痛的父亲在内的遇难者家属和同事们，表达了深切的悲痛以及对遇难者身份确认进展缓慢的沮丧。"
-      }
-    },
-    {
       "title": "“불타는 차 안, 아내의 마지막 눈빛 선한데”…산불 1년, 남겨진 사람들[더뎁스] - 동아일보",
       "link": "https://www.donga.com/news/Society/article/all/20260322/133565655/1",
       "source": "동아일보",
       "pubDate": "Sun, 22 Mar 2026 06:01:00 GMT",
       "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/22/133565752.1.jpg",
       "summaries": {
-        "ko": "경북 산불 발생 1년 후, 가족과 보금자리를 잃은 생존자들이 높은 외상후스트레스장애(PTSD) 위험에도 불구하고 이웃의 위로와 공동체의 지지를 통해 아픔을 이겨내고 살아가고 있다.",
-        "en": "One year after the devastating Gyeongbuk wildfires, survivors who lost family and homes are coping with high risks of PTSD, finding strength and resilience through the solace and support of their communities.",
-        "zh": "韩国庆北山火发生一年后，失去家人和家园的幸存者们尽管面临很高的创伤后应激障碍（PTSD）风险，仍在邻里的慰藉和社区的支持下，努力克服痛苦并继续生活。"
+        "ko": "“불타는 차 안, 아내의 마지막 눈빛 선한데”…산불 1년, 남겨진 사람들[더뎁스] - 동아일보",
+        "en": "“불타는 차 안, 아내의 마지막 눈빛 선한데”…산불 1년, 남겨진 사람들[더뎁스] - 동아일보",
+        "zh": "“불타는 차 안, 아내의 마지막 눈빛 선한데”…산불 1년, 남겨진 사람들[더뎁스] - 동아일보"
       }
     },
     {
