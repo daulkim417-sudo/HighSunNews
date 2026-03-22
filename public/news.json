@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-22T17:36:04.331291",
+  "lastUpdate": "2026-03-22T17:54:32.221577",
   "items": [
     {
       "title": "트인 구조에 찌든 기름때, 대피로 미비…대전 공장 화재 참사 키웠다 - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Sun, 22 Mar 2026 11:42:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/860/536/imgdb/original/2026/0322/20260322501991.webp",
       "summaries": {
-        "ko": "대전 자동차 부품 공장 화재 참사는 높은 층고의 트인 구조, 찌든 기름때와 유증기로 인한 빠른 연소 확대, 그리고 불법 증축으로 인한 대피로 미비가 복합적으로 작용하여 74명의 사상자를 발생시켰다.",
-        "en": "The Daejeon car parts factory fire, which resulted in 74 casualties, was exacerbated by an open, high-ceiling structure, rapid fire spread fueled by accumulated oil mist and residue, and insufficient escape routes due to illegal building expansions.",
-        "zh": "大田汽车零部件工厂火灾造成74人伤亡，其惨重后果是由于高层开放式结构、长期积累的油污和油雾导致火势迅速蔓延，以及非法扩建导致逃生通道不足等多种因素共同造成的。"
+        "ko": "트인 구조에 찌든 기름때, 대피로 미비…대전 공장 화재 참사 키웠다 - 한겨레",
+        "en": "트인 구조에 찌든 기름때, 대피로 미비…대전 공장 화재 참사 키웠다 - 한겨레",
+        "zh": "트인 구조에 찌든 기름때, 대피로 미비…대전 공장 화재 참사 키웠다 - 한겨레"
       }
     },
     {
@@ -23,6 +23,18 @@
         "ko": "국힘, 대구시장 주호영·이진숙 전격 컷오프에···“무소속 출마” “납득 못해” 반발 - 경향신문",
         "en": "국힘, 대구시장 주호영·이진숙 전격 컷오프에···“무소속 출마” “납득 못해” 반발 - 경향신문",
         "zh": "국힘, 대구시장 주호영·이진숙 전격 컷오프에···“무소속 출마” “납득 못해” 반발 - 경향신문"
+      }
+    },
+    {
+      "title": "이란 “적국外 호르무즈 개방”… 트럼프 ‘초토화’ 경고 통했나 - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/03/22/37KMYLASXVCAVMVHIH5VHXHINM/",
+      "source": "조선일보",
+      "pubDate": "Sun, 22 Mar 2026 14:32:45 GMT",
+      "image": "https://www.chosun.com/resizer/v2/3BF62BBCV5DKZJPZY5PUSSW35U.jpg?auth=89fa21cb3dbe89ff6210a7cd712b5a4a116b63594d3332b12fc0121c561b9d5c&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "이란 “적국外 호르무즈 개방”… 트럼프 ‘초토화’ 경고 통했나 - 조선일보",
+        "en": "이란 “적국外 호르무즈 개방”… 트럼프 ‘초토화’ 경고 통했나 - 조선일보",
+        "zh": "이란 “적국外 호르무즈 개방”… 트럼프 ‘초토화’ 경고 통했나 - 조선일보"
       }
     },
     {
@@ -62,6 +74,18 @@
       }
     },
     {
+      "title": "민주당 경기지사 후보, 김동연·추미애·한준호 압축…다음달 5~7일 본경선 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603221907001",
+      "source": "경향신문",
+      "pubDate": "Sun, 22 Mar 2026 10:07:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/22/news-p.v1.20260322.db98a8c5d7f74f3ebdb8a623f95dae37_P1.jpeg",
+      "summaries": {
+        "ko": "민주당 경기지사 후보, 김동연·추미애·한준호 압축…다음달 5~7일 본경선 - 경향신문",
+        "en": "민주당 경기지사 후보, 김동연·추미애·한준호 압축…다음달 5~7일 본경선 - 경향신문",
+        "zh": "민주당 경기지사 후보, 김동연·추미애·한준호 압축…다음달 5~7일 본경선 - 경향신문"
+      }
+    },
+    {
       "title": "원희룡 양평고속도 재개 환영에 민주당 경기지사 후보들 일제히 ‘비판’···“뻔뻔한 남탓” “유체이탈” - 경향신문",
       "link": "https://www.khan.co.kr/article/202603221512001",
       "source": "경향신문",
@@ -74,27 +98,15 @@
       }
     },
     {
-      "title": "[단독] 안전공업 전 직원이 찍은 ‘불기둥’…기름때 쌓인 집진기로 빨려들어가 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1250552.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 22 Mar 2026 16:03:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/599/imgdb/original/2026/0322/5317741837703051.webp",
+      "title": "국회, 윤석열 정부 검찰 조작기소 의혹 국정조사 계획서 본회의 의결 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6809379_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 22 Mar 2026 08:15:27 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/03/22/ggm_20260322_9_1.jpg",
       "summaries": {
-        "ko": "[단독] 안전공업 전 직원이 찍은 ‘불기둥’…기름때 쌓인 집진기로 빨려들어가 - 한겨레",
-        "en": "[단독] 안전공업 전 직원이 찍은 ‘불기둥’…기름때 쌓인 집진기로 빨려들어가 - 한겨레",
-        "zh": "[단독] 안전공업 전 직원이 찍은 ‘불기둥’…기름때 쌓인 집진기로 빨려들어가 - 한겨레"
-      }
-    },
-    {
-      "title": "민주 경기지사 후보 김동연·추미애·한준호…3파전 압축 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260322/133581666/2",
-      "source": "동아일보",
-      "pubDate": "Sun, 22 Mar 2026 11:03:32 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/22/133581710.2.jpg",
-      "summaries": {
-        "ko": "민주 경기지사 후보 김동연·추미애·한준호…3파전 압축 - 동아일보",
-        "en": "민주 경기지사 후보 김동연·추미애·한준호…3파전 압축 - 동아일보",
-        "zh": "민주 경기지사 후보 김동연·추미애·한준호…3파전 압축 - 동아일보"
+        "ko": "국회, 윤석열 정부 검찰 조작기소 의혹 국정조사 계획서 본회의 의결 - MBC 뉴스",
+        "en": "국회, 윤석열 정부 검찰 조작기소 의혹 국정조사 계획서 본회의 의결 - MBC 뉴스",
+        "zh": "국회, 윤석열 정부 검찰 조작기소 의혹 국정조사 계획서 본회의 의결 - MBC 뉴스"
       }
     },
     {
@@ -107,18 +119,6 @@
         "ko": "국민의힘, 서울시장 면접‥오세훈 \"혁신 선대위 요구, 당 접수 뜻 아냐\" - MBC 뉴스",
         "en": "국민의힘, 서울시장 면접‥오세훈 \"혁신 선대위 요구, 당 접수 뜻 아냐\" - MBC 뉴스",
         "zh": "국민의힘, 서울시장 면접‥오세훈 \"혁신 선대위 요구, 당 접수 뜻 아냐\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "‘조작기소 국정조사’ 與 주도 본회의 통과 - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/03/22/FPVNDX6EGNA5HAOLFNFALU6IVQ/",
-      "source": "조선일보",
-      "pubDate": "Sun, 22 Mar 2026 08:23:57 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MI3GMMJZGZRDAMZWMVSWEOBQG4.jpg?auth=c50a8042245f0049409bc6a04ab11e51a1d6dfe4dfc755a02318bdafe31daaad&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "‘조작기소 국정조사’ 與 주도 본회의 통과 - 조선일보",
-        "en": "‘조작기소 국정조사’ 與 주도 본회의 통과 - 조선일보",
-        "zh": "‘조작기소 국정조사’ 與 주도 본회의 통과 - 조선일보"
       }
     }
   ]
