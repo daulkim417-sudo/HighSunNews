@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-23T22:00:12.101696",
+  "lastUpdate": "2026-03-23T22:31:10.361611",
   "items": [
     {
       "title": "트럼프 “이란 핵포기 등 합의”... 호르무즈는 ‘공동 관리’ 시사 - 조선일보",
@@ -20,9 +20,33 @@
       "pubDate": "Mon, 23 Mar 2026 14:20:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/701/458/imgdb/original/2026/0323/20260323503407.webp",
       "summaries": {
-        "ko": "정부 감독 기관들이 서류 검토와 민간 자체 점검에 의존하고 인력 부족을 이유로 불법 증축 현장을 직접 확인하지 않아 대전 안전공업 화재 참사에서 불법 구조물이 인명 피해를 키운 배경이 되었다는 지적이 나온다.",
-        "en": "Criticism has emerged that government oversight bodies, relying on document review and private self-inspections and citing staff shortages, failed to directly confirm illegal extensions at the Daejeon Safety Industry fire site, allowing illegal structures to exacerbate casualties in the tragedy.",
-        "zh": "有指责称，政府监管机构因依赖文件审查和民间自主检查，并以人力不足为由未能亲自核查非法扩建现场，导致大田安全工业火灾事故中非法结构成为加剧人员伤亡的背景。"
+        "ko": "불법 증축으로 14명의 목숨을 앗아간 대전 안전공업 화재와 관련해 정부 감독 기관들이 현장 확인 없이 서류 검토에만 의존하며 제도적 한계를 핑계로 감독 소홀을 인정해 비판받고 있다.",
+        "en": "Government oversight bodies are facing criticism for admitting supervisory negligence in the Daejeon Safety Industry Factory fire, which killed 14 people due to illegal extensions, by citing systemic limitations and relying solely on document review without on-site verification.",
+        "zh": "关于大田安全工业工厂因非法扩建导致14人死亡的火灾，政府监管机构承认监管不力，将其归咎于制度限制，且仅依赖文件审查而未进行现场核查，因此受到批评。"
+      }
+    },
+    {
+      "title": "“이란과 생산적 대화” 트럼프 말했는데…이스라엘 “테헤란 공습중” - 매일경제",
+      "link": "https://www.mk.co.kr/news/world/11996176",
+      "source": "매일경제",
+      "pubDate": "Mon, 23 Mar 2026 14:38:01 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202603/24/news-p.v1.20260323.fb6c7140c59c4993bcded0285f772dfd_R.jpg",
+      "summaries": {
+        "ko": "트럼프 대통령이 이란과의 생산적인 대화를 언급한 직후 이스라엘이 이란 수도 테헤란을 공습했다고 발표했고, 이란 매체는 미국과 이스라엘의 다른 공격으로 인한 사상자를 보도했다.",
+        "en": "Shortly after President Trump mentioned productive talks with Iran, Israel announced an airstrike on the Iranian capital Tehran, while Iranian media reported casualties from other US and Israeli attacks.",
+        "zh": "特朗普总统提及与伊朗进行富有成效的对话后不久，以色列宣布对伊朗首都德黑兰发动空袭，同时伊朗媒体报道了其他地区美以袭击造成的伤亡。"
+      }
+    },
+    {
+      "title": "단일공 위암 로봇수술 효과·한계 비교 분석 - 의학신문",
+      "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3001310",
+      "source": "의학신문",
+      "pubDate": "Mon, 23 Mar 2026 08:45:26 GMT",
+      "image": "https://cdn.bosa.co.kr/news/photo/202603/3001310_401356_4151.png",
+      "summaries": {
+        "ko": "국내 연구팀이 위암 수술에서 단일공 로봇수술이 기존 다공 로봇수술보다 수술 시간은 길고 림프절 확보는 적었지만 종양학적 안전성은 유사하면서 환자 회복 측면에서는 우수한 결과를 보였다고 발표했다.",
+        "en": "A Korean research team reported that for gastric cancer surgery, single-port robotic surgery, while taking longer and securing fewer lymph nodes than multi-port robotic surgery, showed superior patient recovery outcomes with comparable oncological safety.",
+        "zh": "韩国研究团队报告称，在胃癌手术中，单孔机器人手术虽然比多孔机器人手术耗时更长、淋巴结获取数量更少，但在肿瘤学安全性相当的情况下，患者康复效果更优。"
       }
     },
     {
@@ -38,39 +62,39 @@
       }
     },
     {
-      "title": "[릴레이집회-187일차] \"한약사문제, 정부는 언제까지 방치할 것인가\" - 약사공론",
-      "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=531553",
-      "source": "약사공론",
-      "pubDate": "Mon, 23 Mar 2026 20:50:00 GMT",
-      "image": "https://cdn.kpanews.co.kr/news/photo/202603/531553_440354_304.png",
-      "summaries": {
-        "ko": "[릴레이집회-187일차] \"한약사문제, 정부는 언제까지 방치할 것인가\" - 약사공론",
-        "en": "[릴레이집회-187일차] \"한약사문제, 정부는 언제까지 방치할 것인가\" - 약사공론",
-        "zh": "[릴레이집회-187일차] \"한약사문제, 정부는 언제까지 방치할 것인가\" - 약사공론"
-      }
-    },
-    {
-      "title": "“이란과 생산적 대화” 트럼프 말했는데…이스라엘 “테헤란 공습중” - 매일경제",
-      "link": "https://www.mk.co.kr/news/world/11996176",
-      "source": "매일경제",
-      "pubDate": "Mon, 23 Mar 2026 14:38:01 GMT",
-      "image": "https://pimg.mk.co.kr/news/cms/202603/24/news-p.v1.20260323.fb6c7140c59c4993bcded0285f772dfd_R.jpg",
-      "summaries": {
-        "ko": "“이란과 생산적 대화” 트럼프 말했는데…이스라엘 “테헤란 공습중” - 매일경제",
-        "en": "“이란과 생산적 대화” 트럼프 말했는데…이스라엘 “테헤란 공습중” - 매일경제",
-        "zh": "“이란과 생산적 대화” 트럼프 말했는데…이스라엘 “테헤란 공습중” - 매일경제"
-      }
-    },
-    {
-      "title": "추미애, 법사위원장 사임…“마지막 소임인 검찰개혁 본회의 통과” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603231513001",
+      "title": "[속보] 조현 장관, 이란 외교장관과 통화…“호르무즈 해협 항행 안전 보장” 촉구 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603231906001",
       "source": "경향신문",
-      "pubDate": "Mon, 23 Mar 2026 06:13:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/23/rcv.YNA.20260323.PYH2026032302840001300_P1.jpg",
+      "pubDate": "Mon, 23 Mar 2026 10:06:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/23/rcv.YNA.20260317.PYH2026031710260001300_P1.jpg",
       "summaries": {
-        "ko": "추미애 의원이 마지막 소임으로 꼽은 검찰개혁 법안의 본회의 통과를 이유로 법사위원장직에서 사임하며, 경기지사 본경선에 집중하겠다고 밝혔다.",
-        "en": "National Assembly member Choo Mi-ae announced her resignation as the chairperson of the Legislation and Judiciary Committee, stating that her last duty, the passage of prosecutorial reform bills, has been completed, and will now focus on the Gyeonggi Province gubernatorial primary election.",
-        "zh": "韩国国会议员秋美爱宣布辞去法制司法委员会委员长一职，理由是她认为其“最后使命”——检察改革法案已在全体会议上通过，并表示将专注于京畿道知事预选。"
+        "ko": "[속보] 조현 장관, 이란 외교장관과 통화…“호르무즈 해협 항행 안전 보장” 촉구 - 경향신문",
+        "en": "[속보] 조현 장관, 이란 외교장관과 통화…“호르무즈 해협 항행 안전 보장” 촉구 - 경향신문",
+        "zh": "[속보] 조현 장관, 이란 외교장관과 통화…“호르무즈 해협 항행 안전 보장” 촉구 - 경향신문"
+      }
+    },
+    {
+      "title": "경기지사 본경선 진출 추미애, 법사위원장 사임 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260323/133583621/1",
+      "source": "동아일보",
+      "pubDate": "Mon, 23 Mar 2026 00:16:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/23/133583653.1.jpg",
+      "summaries": {
+        "ko": "경기지사 본경선 진출 추미애, 법사위원장 사임 - 동아일보",
+        "en": "경기지사 본경선 진출 추미애, 법사위원장 사임 - 동아일보",
+        "zh": "경기지사 본경선 진출 추미애, 법사위원장 사임 - 동아일보"
+      }
+    },
+    {
+      "title": "[朝鮮칼럼] 북한 9차 당대회로 본 ‘사탕과 총알’의 이중 전략 - 조선일보",
+      "link": "https://www.chosun.com/opinion/chosun_column/2026/03/22/J4XJR4NDTBG4JCAETUPRE2MARY/",
+      "source": "조선일보",
+      "pubDate": "Sun, 22 Mar 2026 14:55:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/JHF7MSAKFFFTXFBFAGU6VJJJEI.png?auth=4bb0b593aa8719f6fbde4d2e8361138d15f73fad0633dbed62627f203f174a68&width=500&height=262&smart=true",
+      "summaries": {
+        "ko": "[朝鮮칼럼] 북한 9차 당대회로 본 ‘사탕과 총알’의 이중 전략 - 조선일보",
+        "en": "[朝鮮칼럼] 북한 9차 당대회로 본 ‘사탕과 총알’의 이중 전략 - 조선일보",
+        "zh": "[朝鮮칼럼] 북한 9차 당대회로 본 ‘사탕과 총알’의 이중 전략 - 조선일보"
       }
     },
     {
@@ -86,51 +110,15 @@
       }
     },
     {
-      "title": "지역 개원의사는 죽어가는데 의대 정원만 늘리면 되나…\"지역 개원 시 세제·재정 혜택해 달라\" - MEDI:GATE NEWS",
-      "link": "https://www.medigatenews.com/news/2868285916",
-      "source": "MEDI:GATE NEWS",
-      "pubDate": "Sun, 22 Mar 2026 04:18:00 GMT",
-      "image": "https://medigatenews.com/file/news/497427",
-      "summaries": {
-        "ko": "지역 개원의사는 죽어가는데 의대 정원만 늘리면 되나…\"지역 개원 시 세제·재정 혜택해 달라\" - MEDI:GATE NEWS",
-        "en": "지역 개원의사는 죽어가는데 의대 정원만 늘리면 되나…\"지역 개원 시 세제·재정 혜택해 달라\" - MEDI:GATE NEWS",
-        "zh": "지역 개원의사는 죽어가는데 의대 정원만 늘리면 되나…\"지역 개원 시 세제·재정 혜택해 달라\" - MEDI:GATE NEWS"
-      }
-    },
-    {
-      "title": "이 대통령 \"국제정세 복잡해‥자주국방이 통합방위 핵심\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6809608_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Mon, 23 Mar 2026 06:37:14 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/03/23/sa_20260323_7.jpg",
-      "summaries": {
-        "ko": "이 대통령 \"국제정세 복잡해‥자주국방이 통합방위 핵심\" - MBC 뉴스",
-        "en": "이 대통령 \"국제정세 복잡해‥자주국방이 통합방위 핵심\" - MBC 뉴스",
-        "zh": "이 대통령 \"국제정세 복잡해‥자주국방이 통합방위 핵심\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "[AM-PM] 헌재, 지정재판부 평의…에너지 절약 조치 발표 外",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260324065552582",
+      "title": "[이시각헤드라인] 3월 24일 라이브투데이",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260324072455rnw",
       "source": "Breaking News",
-      "pubDate": "Tue, 24 Mar 2026 06:56:16 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260323/MYH20260324065552582.jpg",
+      "pubDate": "Tue, 24 Mar 2026 07:25:25 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260323/MYH20260324072455rnw.jpg",
       "summaries": {
-        "ko": "[AM-PM] 헌재, 지정재판부 평의…에너지 절약 조치 발표 外",
-        "en": "[AM-PM] 헌재, 지정재판부 평의…에너지 절약 조치 발표 外",
-        "zh": "[AM-PM] 헌재, 지정재판부 평의…에너지 절약 조치 발표 外"
-      }
-    },
-    {
-      "title": "[속보] 김정은 \"한국 가장 적대국으로 공인…건드리면 무자비한 대가\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202603240627182on",
-      "source": "Breaking News",
-      "pubDate": "Tue, 24 Mar 2026 06:27:36 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260323/MYH202603240627182on.jpg",
-      "summaries": {
-        "ko": "[속보] 김정은 \"한국 가장 적대국으로 공인…건드리면 무자비한 대가\"",
-        "en": "[속보] 김정은 \"한국 가장 적대국으로 공인…건드리면 무자비한 대가\"",
-        "zh": "[속보] 김정은 \"한국 가장 적대국으로 공인…건드리면 무자비한 대가\""
+        "ko": "[이시각헤드라인] 3월 24일 라이브투데이",
+        "en": "[이시각헤드라인] 3월 24일 라이브투데이",
+        "zh": "[이시각헤드라인] 3월 24일 라이브투데이"
       }
     }
   ]
