@@ -1,40 +1,52 @@
 {
-  "lastUpdate": "2026-03-23T09:44:12.599702",
+  "lastUpdate": "2026-03-23T10:37:51.908672",
   "items": [
     {
-      "title": "안철수·조정훈·박수영, 당신들부터 파병 자원하라[김민아 칼럼] - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603231458001",
-      "source": "경향신문",
-      "pubDate": "Mon, 23 Mar 2026 05:58:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/23/news-p.v1.20260323.647b964ef7c04b0bba46508801a8d91a_P1.jpeg",
-      "summaries": {
-        "ko": "김민아 칼럼은 국민의힘 안철수, 조정훈, 박수영 의원 등이 국민의 생명을 담보로 호르무즈 파병을 주장하는 것을 '망언'이라 비판하며, 파병 찬성자들이 먼저 자원하라고 촉구한다.",
-        "en": "Kim Min-ah's column sharply criticizes People Power Party lawmakers Ahn Cheol-soo, Cho Jung-hoon, and Park Soo-young for advocating for the dispatch of troops to the Strait of Hormuz by risking citizens' lives for strategic assets, labeling their arguments as 'outrageous remarks' and challenging them to volunteer for deployment first.",
-        "zh": "金敏雅的专栏文章严厉批评国民力量党议员安哲秀、赵正勋、朴洙英等人主张以公民生命为代价向霍尔木兹海峡派兵，称其为“妄言”，并敦促派兵支持者首先自愿前往。"
-      }
-    },
-    {
-      "title": "[속보] 영덕 풍력 발전기서 화재… “1명 사망, 2명 연락 두절” - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/03/23/NNWOUTXF3ZCDZKZ5DJFITWITYE/",
-      "source": "조선일보",
-      "pubDate": "Mon, 23 Mar 2026 06:25:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/UGXJFMLELNENHNIAYOGPN2XZHQ.gif?auth=79c092146dcab644ee35a6c95c9d719baebe26907438a61c56271246a7a13ccc&width=480&height=252&focal=253,140",
-      "summaries": {
-        "ko": "[속보] 영덕 풍력 발전기서 화재… “1명 사망, 2명 연락 두절” - 조선일보",
-        "en": "[속보] 영덕 풍력 발전기서 화재… “1명 사망, 2명 연락 두절” - 조선일보",
-        "zh": "[속보] 영덕 풍력 발전기서 화재… “1명 사망, 2명 연락 두절” - 조선일보"
-      }
-    },
-    {
-      "title": "종합특검, 이창수 전 지검장의 “주가조작 무혐의 판례 검토” 지시 정황 확보 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1250677.html",
+      "title": "영덕 풍력발전기 화재, 점검하던 3명 사망…불길 야산 번져 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/yeongnam/1250635.html",
       "source": "한겨레",
-      "pubDate": "Mon, 23 Mar 2026 08:10:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/850/562/imgdb/original/2026/0323/20260323502911.webp",
+      "pubDate": "Mon, 23 Mar 2026 09:28:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0323/53_17742554620334_5217742550618997.webp",
       "summaries": {
-        "ko": "종합특검팀은 이창수 전 서울중앙지검장이 도이치모터스 주가조작 사건에 대해 '방조범 무죄 판례 검토'를 지시한 내부 메신저 메시지를 확보하여 김건희 여사 불기소 처분의 봐주기 수사 의혹을 키우고 있다.",
-        "en": "The Special Prosecutor's Office secured an internal messenger message showing former Seoul Central District Prosecutor Lee Chang-soo instructed his team to \"review innocent precedents for accomplices\" in the Deutsch Motors stock manipulation case, fueling suspicions of preferential treatment in First Lady Kim Keon-hee's non-indictment.",
-        "zh": "综合特检组已获取内部通讯记录，显示前首尔中央地方检察厅检察长李昌洙曾指示其团队在调查Deutsch Motors股价操纵案时“审查共犯无罪判例”，引发对金建希女士不起诉处分涉嫌偏袒的怀疑。"
+        "ko": "영덕 풍력발전기 화재, 점검하던 3명 사망…불길 야산 번져 - 한겨레",
+        "en": "영덕 풍력발전기 화재, 점검하던 3명 사망…불길 야산 번져 - 한겨레",
+        "zh": "영덕 풍력발전기 화재, 점검하던 3명 사망…불길 야산 번져 - 한겨레"
+      }
+    },
+    {
+      "title": "2차 특검, ‘김건희 봐주기 의혹’ 대검·중앙지검 압수수색 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603231641001",
+      "source": "경향신문",
+      "pubDate": "Mon, 23 Mar 2026 07:41:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/23/news-p.v1.20260128.96ee67d40a5842a89ff2afa1d80cd4fe_P1.jpeg",
+      "summaries": {
+        "ko": "2차 특검, ‘김건희 봐주기 의혹’ 대검·중앙지검 압수수색 - 경향신문",
+        "en": "2차 특검, ‘김건희 봐주기 의혹’ 대검·중앙지검 압수수색 - 경향신문",
+        "zh": "2차 특검, ‘김건희 봐주기 의혹’ 대검·중앙지검 압수수색 - 경향신문"
+      }
+    },
+    {
+      "title": "조현, 이란 외무 조만간 통화... 호르무즈 통행 논의할 듯 - 조선일보",
+      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/03/23/NVYDXMH2AJAT5J65N7F7MEWIAY/",
+      "source": "조선일보",
+      "pubDate": "Mon, 23 Mar 2026 06:45:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/DPN4L7DV6RMMHNJIUIJVU2I5LI.jpg?auth=b92c2949fd28b74ef270136d1b4afa9564852421bdcf7e3e86cf948f640ab436&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "조현, 이란 외무 조만간 통화... 호르무즈 통행 논의할 듯 - 조선일보",
+        "en": "조현, 이란 외무 조만간 통화... 호르무즈 통행 논의할 듯 - 조선일보",
+        "zh": "조현, 이란 외무 조만간 통화... 호르무즈 통행 논의할 듯 - 조선일보"
+      }
+    },
+    {
+      "title": "‘종이호랑이’ 비판받은 나토 “한·일 등 22개국과 호르무즈 해협 대응” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/america/1250571.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 23 Mar 2026 04:39:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/485/imgdb/original/2026/0323/20260323500219.webp",
+      "summaries": {
+        "ko": "‘종이호랑이’ 비판받은 나토 “한·일 등 22개국과 호르무즈 해협 대응” - 한겨레",
+        "en": "‘종이호랑이’ 비판받은 나토 “한·일 등 22개국과 호르무즈 해협 대응” - 한겨레",
+        "zh": "‘종이호랑이’ 비판받은 나토 “한·일 등 22개국과 호르무즈 해협 대응” - 한겨레"
       }
     },
     {
@@ -44,21 +56,21 @@
       "pubDate": "Mon, 23 Mar 2026 08:43:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/03/23/news-p.v1.20260323.6b859a4af44c4b5790a7d7c41768193b_P1.jpeg",
       "summaries": {
-        "ko": "안전공업 화재참사는 유증기 등 작업환경 문제를 간과한 시설 위주 소방점검의 한계와 산업안전보건 측면의 화재 예방 관리 부재를 드러냈으며, 이에 소방과 고용노동부의 협력 및 관련 제도 개선이 촉구된다.",
-        "en": "The Anjeon Industrial fire tragedy, caused by facility-focused fire inspections overlooking hazardous work environments like oil residue and volatile organic compounds, underscores the need for fire prevention to be managed from an industrial safety and health perspective with enhanced cooperation between fire and labor authorities.",
-        "zh": "安全工业火灾惨案暴露出仅以设施为主的消防检查忽视了油污和蒸汽等危险作业环境的局限性，文章呼吁应从工业安全卫生角度管理火灾预防，并加强消防与劳动部门的合作及相关制度的改进。"
+        "ko": "대전 안전공업 공장 화재 참사를 계기로, 시설 위주의 현행 소방 점검으로는 유증기 등 작업 환경의 위험 요소를 간과할 수 있으므로, 사업장 화재 예방을 산업안전보건 관점에서 관리해야 한다는 비판이 제기되었다.",
+        "en": "The Daejeon Anjeon Industrial factory fire disaster has sparked criticism that current facility-focused fire inspections overlook workplace environmental risks like oil vapor, necessitating a shift to managing fire prevention from an industrial safety and health perspective.",
+        "zh": "大田安全工业工厂火灾惨案引发批评，指出目前侧重于设施的消防检查忽视了油蒸汽等作业环境风险，因此工作场所的火灾预防管理应转向工业安全卫生视角。"
       }
     },
     {
-      "title": "이 대통령 “국제정세 매우 복잡…자주국방이 통합방위 핵심” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1250639.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 23 Mar 2026 06:48:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/393/imgdb/original/2026/0323/20260323502313.webp",
+      "title": "BTS 광화문 공연, 전 세계가 봤다… 넷플릭스 77개국 정상 - 조선일보",
+      "link": "https://www.chosun.com/culture-life/culture_general/2026/03/23/3WGVGVR5TBDBVKIIWKXTAY6R4U/",
+      "source": "조선일보",
+      "pubDate": "Mon, 23 Mar 2026 01:40:47 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MU2WCNLGGU4TAZBUGVQTKZJUHE.jpg?auth=3f8130da40b70f1a6edbdf201b103e4d18d9ee71aea776e7e37bfd6d77c3f8b5&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "이재명 대통령은 복잡한 국제정세 속에서 국가 안보의 중요성을 강조하며 자주국방이 통합방위의 핵심임을 밝혔다.",
-        "en": "President Lee Jae-myung emphasized the importance of national security amidst complex international affairs, stating that self-reliant defense is the core of integrated defense.",
-        "zh": "李在明总统强调，在复杂的国际局势中，国家安全至关重要，并指出自主国防是综合防卫的核心。"
+        "ko": "BTS 광화문 공연, 전 세계가 봤다… 넷플릭스 77개국 정상 - 조선일보",
+        "en": "BTS 광화문 공연, 전 세계가 봤다… 넷플릭스 77개국 정상 - 조선일보",
+        "zh": "BTS 광화문 공연, 전 세계가 봤다… 넷플릭스 77개국 정상 - 조선일보"
       }
     },
     {
@@ -74,51 +86,51 @@
       }
     },
     {
-      "title": "북, 7년 만에 최고인민회의 개최…김정은 국무위원장 재추대 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260323082815Lq9",
-      "source": "연합뉴스TV",
-      "pubDate": "Sun, 22 Mar 2026 23:39:34 GMT",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260322/AKR20260323082815Lq9_01_i.jpg",
+      "title": "건국·동국·한림의대, 의평원 평가서 '불인증 유예' - MEDI:GATE NEWS",
+      "link": "https://www.medigatenews.com/news/1687557547",
+      "source": "MEDI:GATE NEWS",
+      "pubDate": "Mon, 23 Mar 2026 03:29:00 GMT",
+      "image": "https://medigatenews.com/file/news/497488",
       "summaries": {
-        "ko": "북한이 7년 만에 최고인민회의를 개최하여 김정은을 국무위원장으로 재추대하고 조용원을 최고인민회의 상임위원장으로 선출했다.",
-        "en": "North Korea held its Supreme People's Assembly after seven years, re-electing Kim Jong Un as Chairman of the State Affairs Commission and appointing Jo Yong-won as the new Chairman of the Standing Committee.",
-        "zh": "朝鲜时隔七年召开最高人民会议，再次推举金正恩为国务委员长，并选举赵甬元为最高人民会议常任委员长。"
+        "ko": "건국·동국·한림의대, 의평원 평가서 '불인증 유예' - MEDI:GATE NEWS",
+        "en": "건국·동국·한림의대, 의평원 평가서 '불인증 유예' - MEDI:GATE NEWS",
+        "zh": "건국·동국·한림의대, 의평원 평가서 '불인증 유예' - MEDI:GATE NEWS"
       }
     },
     {
-      "title": "국힘 서울시당, '중징계' 받은 박강수 마포구청장 공천‥\"윤리위, 신뢰 않아\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6809607_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Mon, 23 Mar 2026 06:29:30 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/03/23/joo260323_11.jpg",
+      "title": "[단독]김정은 국무위원장 재추대 당일, 美 컴뱃센트 날아왔다 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260323/133586227/1",
+      "source": "동아일보",
+      "pubDate": "Mon, 23 Mar 2026 05:58:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/23/133586544.1.jpg",
       "summaries": {
-        "ko": "국민의힘 서울시당이 언론사 주식 백지신탁 거부로 중앙당 윤리위원회로부터 중징계를 받은 박강수 마포구청장을 공천해 논란이 되고 있다.",
-        "en": "The People Power Party's Seoul chapter has controversially nominated Mapo District Mayor Park Kang-soo as a candidate, despite him receiving a severe 6-month suspension of party membership from the party's central ethics committee for refusing to divest or blind-trust media company shares, which was deemed a conflict of interest.",
-        "zh": "执政党国民力量党首尔市党部提名麻浦区厅长朴康洙为候选人引发争议，此前朴康洙因拒绝处理其家族媒体公司的股份（被认定为利益冲突）而受到党中央伦理委员会暂停党籍六个月的重罚。"
+        "ko": "[단독]김정은 국무위원장 재추대 당일, 美 컴뱃센트 날아왔다 - 동아일보",
+        "en": "[단독]김정은 국무위원장 재추대 당일, 美 컴뱃센트 날아왔다 - 동아일보",
+        "zh": "[단독]김정은 국무위원장 재추대 당일, 美 컴뱃센트 날아왔다 - 동아일보"
       }
     },
     {
-      "title": "변호사 성공보수 판례 11년 만에 바뀌나…법원 \"일률 금지 안돼\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202603231842389JP",
+      "title": "기후부, 영덕 풍력발전기 화재 긴급 조치…수습 인력 현지 급파",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260323192914Hpc",
       "source": "Breaking News",
-      "pubDate": "Mon, 23 Mar 2026 18:42:40 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260323/AKR202603231842389JP_01_i.jpeg",
+      "pubDate": "Mon, 23 Mar 2026 19:29:14 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260323/AKR20260323192914Hpc_01_i.jpg",
       "summaries": {
-        "ko": "변호사 성공보수 판례 11년 만에 바뀌나…법원 \"일률 금지 안돼\"",
-        "en": "변호사 성공보수 판례 11년 만에 바뀌나…법원 \"일률 금지 안돼\"",
-        "zh": "변호사 성공보수 판례 11년 만에 바뀌나…법원 \"일률 금지 안돼\""
+        "ko": "기후부, 영덕 풍력발전기 화재 긴급 조치…수습 인력 현지 급파",
+        "en": "기후부, 영덕 풍력발전기 화재 긴급 조치…수습 인력 현지 급파",
+        "zh": "기후부, 영덕 풍력발전기 화재 긴급 조치…수습 인력 현지 급파"
       }
     },
     {
-      "title": "황종우 해수부장관 후보자 인사청문보고서, 여야 합의 채택",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260323183714kvD",
+      "title": "[속보] 한·이란 외교장관 통화...\"긴장 완화 조치 촉구\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202603231916575SF",
       "source": "Breaking News",
-      "pubDate": "Mon, 23 Mar 2026 18:37:16 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260323/AKR20260323183714kvD_01_i.jpg",
+      "pubDate": "Mon, 23 Mar 2026 19:17:12 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260323/MYH202603231916575SF.jpg",
       "summaries": {
-        "ko": "황종우 해수부장관 후보자 인사청문보고서, 여야 합의 채택",
-        "en": "황종우 해수부장관 후보자 인사청문보고서, 여야 합의 채택",
-        "zh": "황종우 해수부장관 후보자 인사청문보고서, 여야 합의 채택"
+        "ko": "[속보] 한·이란 외교장관 통화...\"긴장 완화 조치 촉구\"",
+        "en": "[속보] 한·이란 외교장관 통화...\"긴장 완화 조치 촉구\"",
+        "zh": "[속보] 한·이란 외교장관 통화...\"긴장 완화 조치 촉구\""
       }
     }
   ]
