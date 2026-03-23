@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-23T11:27:35.317452",
+  "lastUpdate": "2026-03-23T12:00:59.262409",
   "items": [
     {
       "title": "트럼프 초토화 공언해도…‘이란 대정전’ 현실화 어렵다 - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Mon, 23 Mar 2026 09:26:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/943/625/imgdb/original/2026/0323/20260323503134.webp",
       "summaries": {
-        "ko": "트럼프 초토화 공언해도…‘이란 대정전’ 현실화 어렵다 - 한겨레",
-        "en": "트럼프 초토화 공언해도…‘이란 대정전’ 현실화 어렵다 - 한겨레",
-        "zh": "트럼프 초토화 공언해도…‘이란 대정전’ 현실화 어렵다 - 한겨레"
+        "ko": "트럼프 대통령이 이란 발전소 파괴를 위협했음에도, 이란 전력망은 넓게 분산된 다수의 화력발전소와 복구 역량을 갖춰 전면적인 대정전 시나리오는 현실화하기 어렵다는 분석이 나왔다.",
+        "en": "Despite President Trump's threats to destroy power plants, an analysis suggests that a nationwide power outage in Iran is unlikely to materialize due to its extensively dispersed power grid, numerous thermal power plants, and robust recovery capabilities.",
+        "zh": "尽管美国总统特朗普威胁摧毁发电站，但分析认为，由于伊朗电力网络广泛分散、拥有众多火力发电站且具备强大的修复能力，全境大停电的设想难以实现。"
       }
     },
     {
@@ -26,15 +26,15 @@
       }
     },
     {
-      "title": "[속보] 조현 장관, 이란 외교장관과 통화…“호르무즈 해협 항행 안전 보장” 촉구 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603231906001",
+      "title": "한·이란 외교장관 통화…조현 장관 ‘호르무즈 해협 항행 안전 보장’ 촉구 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603231601011",
       "source": "경향신문",
-      "pubDate": "Mon, 23 Mar 2026 10:06:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/23/rcv.YNA.20260317.PYH2026031710260001300_P1.jpg",
+      "pubDate": "Mon, 23 Mar 2026 07:01:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/23/news-p.v1.20260322.163da092897544338b410e8d699fe89f_P1.png",
       "summaries": {
-        "ko": "[속보] 조현 장관, 이란 외교장관과 통화…“호르무즈 해협 항행 안전 보장” 촉구 - 경향신문",
-        "en": "[속보] 조현 장관, 이란 외교장관과 통화…“호르무즈 해협 항행 안전 보장” 촉구 - 경향신문",
-        "zh": "[속보] 조현 장관, 이란 외교장관과 통화…“호르무즈 해협 항행 안전 보장” 촉구 - 경향신문"
+        "ko": "한·이란 외교장관 통화…조현 장관 ‘호르무즈 해협 항행 안전 보장’ 촉구 - 경향신문",
+        "en": "한·이란 외교장관 통화…조현 장관 ‘호르무즈 해협 항행 안전 보장’ 촉구 - 경향신문",
+        "zh": "한·이란 외교장관 통화…조현 장관 ‘호르무즈 해협 항행 안전 보장’ 촉구 - 경향신문"
       }
     },
     {
@@ -86,63 +86,51 @@
       }
     },
     {
-      "title": "김정은 北국무위원장 재추대‥최고인민회의 상임위원장에 조용원 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/world/article/6809487_36925.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sun, 22 Mar 2026 22:28:46 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/03/23/kds_20260323_15.jpg",
+      "title": "북, 7년 만에 최고인민회의 개최…김정은 국무위원장 재추대 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260323082815Lq9",
+      "source": "연합뉴스TV",
+      "pubDate": "Sun, 22 Mar 2026 23:39:34 GMT",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260322/AKR20260323082815Lq9_01_i.jpg",
       "summaries": {
-        "ko": "김정은 北국무위원장 재추대‥최고인민회의 상임위원장에 조용원 - MBC 뉴스",
-        "en": "김정은 北국무위원장 재추대‥최고인민회의 상임위원장에 조용원 - MBC 뉴스",
-        "zh": "김정은 北국무위원장 재추대‥최고인민회의 상임위원장에 조용원 - MBC 뉴스"
+        "ko": "북, 7년 만에 최고인민회의 개최…김정은 국무위원장 재추대 - 연합뉴스TV",
+        "en": "북, 7년 만에 최고인민회의 개최…김정은 국무위원장 재추대 - 연합뉴스TV",
+        "zh": "북, 7년 만에 최고인민회의 개최…김정은 국무위원장 재추대 - 연합뉴스TV"
       }
     },
     {
-      "title": "권양숙 여사, 검찰개혁 보고받고 눈물… “鄭대표님 안아보고 싶다” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260323/133585075/2",
-      "source": "동아일보",
-      "pubDate": "Mon, 23 Mar 2026 06:44:58 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/23/133585086.2.jpg",
+      "title": "김민석 “ABC로 국민 나누기도 하는데, 힘 모아야”…유시민 ‘ABC론’ 겨냥 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603231917001",
+      "source": "경향신문",
+      "pubDate": "Mon, 23 Mar 2026 10:17:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/23/news-p.v1.20260323.5e8c8531f9f64de2ac57a856b3d0d0f7_P1.jpeg",
       "summaries": {
-        "ko": "권양숙 여사, 검찰개혁 보고받고 눈물… “鄭대표님 안아보고 싶다” - 동아일보",
-        "en": "권양숙 여사, 검찰개혁 보고받고 눈물… “鄭대표님 안아보고 싶다” - 동아일보",
-        "zh": "권양숙 여사, 검찰개혁 보고받고 눈물… “鄭대표님 안아보고 싶다” - 동아일보"
+        "ko": "김민석 “ABC로 국민 나누기도 하는데, 힘 모아야”…유시민 ‘ABC론’ 겨냥 - 경향신문",
+        "en": "김민석 “ABC로 국민 나누기도 하는데, 힘 모아야”…유시민 ‘ABC론’ 겨냥 - 경향신문",
+        "zh": "김민석 “ABC로 국민 나누기도 하는데, 힘 모아야”…유시민 ‘ABC론’ 겨냥 - 경향신문"
       }
     },
     {
-      "title": "트럼프 \"이란 발전소·에너지시설 공격 5일간 중단 지시\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260323202134Dui",
+      "title": "'중동전쟁' 4주째 민간인 희생 커…\"정세 오판\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260323205403UYX",
       "source": "Breaking News",
-      "pubDate": "Mon, 23 Mar 2026 20:21:34 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260323/AKR20260323202134Dui_01_i.jpg",
+      "pubDate": "Mon, 23 Mar 2026 20:54:26 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260323/MYH20260323205403UYX.jpg",
       "summaries": {
-        "ko": "트럼프 \"이란 발전소·에너지시설 공격 5일간 중단 지시\"",
-        "en": "트럼프 \"이란 발전소·에너지시설 공격 5일간 중단 지시\"",
-        "zh": "트럼프 \"이란 발전소·에너지시설 공격 5일간 중단 지시\""
+        "ko": "'중동전쟁' 4주째 민간인 희생 커…\"정세 오판\"",
+        "en": "'중동전쟁' 4주째 민간인 희생 커…\"정세 오판\"",
+        "zh": "'중동전쟁' 4주째 민간인 희생 커…\"정세 오판\""
       }
     },
     {
-      "title": "[속보] 트럼프 \"이란 발전소·에너지시설 5일간 공격중단 지시\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260323201241W6p",
+      "title": "[속보] 트럼프 \"이란 발전소 등 공격 5일간 중단 지시\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260323203108tdK",
       "source": "Breaking News",
-      "pubDate": "Mon, 23 Mar 2026 20:12:42 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260323/AKR20260323201241W6p_01_i.jpg",
+      "pubDate": "Mon, 23 Mar 2026 20:31:28 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260323/MYH20260323203108tdK.jpg",
       "summaries": {
-        "ko": "[속보] 트럼프 \"이란 발전소·에너지시설 5일간 공격중단 지시\"",
-        "en": "[속보] 트럼프 \"이란 발전소·에너지시설 5일간 공격중단 지시\"",
-        "zh": "[속보] 트럼프 \"이란 발전소·에너지시설 5일간 공격중단 지시\""
-      }
-    },
-    {
-      "title": "[속보] 트럼프 \"이란과 중동전쟁 해결 위한 생산적 대화\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260323200845e09",
-      "source": "Breaking News",
-      "pubDate": "Mon, 23 Mar 2026 20:08:47 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260323/AKR20260323200845e09_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 트럼프 \"이란과 중동전쟁 해결 위한 생산적 대화\"",
-        "en": "[속보] 트럼프 \"이란과 중동전쟁 해결 위한 생산적 대화\"",
-        "zh": "[속보] 트럼프 \"이란과 중동전쟁 해결 위한 생산적 대화\""
+        "ko": "[속보] 트럼프 \"이란 발전소 등 공격 5일간 중단 지시\"",
+        "en": "[속보] 트럼프 \"이란 발전소 등 공격 5일간 중단 지시\"",
+        "zh": "[속보] 트럼프 \"이란 발전소 등 공격 5일간 중단 지시\""
       }
     }
   ]
