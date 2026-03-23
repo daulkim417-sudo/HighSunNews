@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-03-23T06:51:37.135026",
+  "lastUpdate": "2026-03-23T07:54:24.333478",
   "items": [
+    {
+      "title": "안철수·조정훈·박수영, 당신들부터 파병 자원하라[김민아 칼럼] - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603231458001",
+      "source": "경향신문",
+      "pubDate": "Mon, 23 Mar 2026 05:58:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/23/news-p.v1.20260323.647b964ef7c04b0bba46508801a8d91a_P1.jpeg",
+      "summaries": {
+        "ko": "김민아 칼럼은 안철수, 조정훈, 박수영 의원이 국민의 생명과 안전을 외면한 채 호르무즈 해협 파병을 전략적 수단으로 주장하는 것을 비판하며, 이는 국민적 반대와 전문가들의 경고를 무시하는 '호전 DNA'적 행태라고 지적한다.",
+        "en": "Kim Min-a's column criticizes politicians Ahn Cheol-soo, Cho Jung-hoon, and Park Soo-young for advocating the dispatch of troops to the Strait of Hormuz as a strategic tool, disregarding public opposition and expert warnings, and labeling their actions as exhibiting a 'war-mongering DNA' that ignores the lives and safety of the people.",
+        "zh": "金玟娥的评论文章批评韩国政治家安哲秀、赵正勋、朴洙英等人无视民众生命安全、公众反对和专家警告，主张将向霍尔木兹海峡派兵作为战略手段，并指出他们展现出一种“好战DNA”。"
+      }
+    },
     {
       "title": "대구시장 컷오프 거센 반발... 이정현 “아픈 길 가야 산다” - 조선일보",
       "link": "https://www.chosun.com/politics/assembly/2026/03/23/M5LVEGJAKNFZDBP2JQKSAL2JBI/",
@@ -14,63 +26,51 @@
       }
     },
     {
-      "title": "“힘을 통한 평화” 트럼프 ‘48시간 통첩’ 강조…중동 긴장 최고조 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1250628.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 23 Mar 2026 05:50:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/681/imgdb/child/2026/0323/17742468520149_9917742467689304.webp",
-      "summaries": {
-        "ko": "“힘을 통한 평화” 트럼프 ‘48시간 통첩’ 강조…중동 긴장 최고조 - 한겨레",
-        "en": "“힘을 통한 평화” 트럼프 ‘48시간 통첩’ 강조…중동 긴장 최고조 - 한겨레",
-        "zh": "“힘을 통한 평화” 트럼프 ‘48시간 통첩’ 강조…중동 긴장 최고조 - 한겨레"
-      }
-    },
-    {
       "title": "박형준 “부산서 얼굴 들고 다닐 수 없다” 삭발···‘글로벌허브도시특별법’ 제정 촉구 - 경향신문",
       "link": "https://www.khan.co.kr/article/202603231107011",
       "source": "경향신문",
       "pubDate": "Mon, 23 Mar 2026 02:07:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/03/23/news-p.v1.20260323.3bf2a04f58414324a9d4b70495922475_P1.jpeg",
       "summaries": {
-        "ko": "박형준 “부산서 얼굴 들고 다닐 수 없다” 삭발···‘글로벌허브도시특별법’ 제정 촉구 - 경향신문",
-        "en": "박형준 “부산서 얼굴 들고 다닐 수 없다” 삭발···‘글로벌허브도시특별법’ 제정 촉구 - 경향신문",
-        "zh": "박형준 “부산서 얼굴 들고 다닐 수 없다” 삭발···‘글로벌허브도시특별법’ 제정 촉구 - 경향신문"
+        "ko": "박형준 부산시장이 전북·강원 지역 발전법과의 형평성을 주장하며 2년 가까이 국회에 계류 중인 부산 글로벌 허브도시 특별법의 조속한 제정을 촉구하며 삭발했다.",
+        "en": "Busan Mayor Park Heong-joon shaved his head, urging the swift enactment of the Busan Global Hub City Special Act, which has been pending in the National Assembly for nearly two years, claiming unfairness compared to regional development laws for Jeonbuk and Gangwon.",
+        "zh": "釜山市长朴亨埈剃发，敦促尽快制定在国会悬而未决近两年、他宣称与全罗北道和江原道的地区发展法存在公平性问题的《釜山全球枢纽城市特别法》。"
       }
     },
     {
-      "title": "BTS 광화문 공연, 전 세계가 봤다… 넷플릭스 77개국 정상 - 조선일보",
-      "link": "https://www.chosun.com/culture-life/culture_general/2026/03/23/3WGVGVR5TBDBVKIIWKXTAY6R4U/",
-      "source": "조선일보",
-      "pubDate": "Mon, 23 Mar 2026 01:33:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MU2WCNLGGU4TAZBUGVQTKZJUHE.jpg?auth=3f8130da40b70f1a6edbdf201b103e4d18d9ee71aea776e7e37bfd6d77c3f8b5&width=1200&height=630&smart=true",
+      "title": "종합특검, ‘김건희 불기소’ 대검·서울중앙지검 압수수색 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1250616.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 23 Mar 2026 05:26:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0318/53_17738047049158_20260318501747.webp",
       "summaries": {
-        "ko": "BTS 광화문 공연, 전 세계가 봤다… 넷플릭스 77개국 정상 - 조선일보",
-        "en": "BTS 광화문 공연, 전 세계가 봤다… 넷플릭스 77개국 정상 - 조선일보",
-        "zh": "BTS 광화문 공연, 전 세계가 봤다… 넷플릭스 77개국 정상 - 조선일보"
+        "ko": "권창영 특별검사팀이 김건희 여사의 수사 무마 의혹과 관련하여 대검찰청과 서울중앙지검을 압수수색 중이다.",
+        "en": "Kwon Chang-young's special prosecutor team is currently raiding the Supreme Prosecutors' Office and the Seoul Central District Prosecutors' Office in connection with suspicions of obstructing the investigation into First Lady Kim Keon-hee.",
+        "zh": "权昌荣特别检察官小组正在对大检察厅和首尔中央地方检察厅进行搜查，以调查与金建熙女士涉嫌阻碍调查有关的指控。"
       }
     },
     {
-      "title": "이 대통령 “다주택 공직자, 부동산 정책서 빼라”…청와대, 현황 조사 착수 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8514998",
-      "source": "KBS 뉴스",
-      "pubDate": "Sun, 22 Mar 2026 22:52:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/03/22/20260322_L3WxEI.png",
+      "title": "‘종이호랑이’ 비판받은 나토 “한·일 등 22개국과 호르무즈 해협 대응” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/america/1250571.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 23 Mar 2026 04:39:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/485/imgdb/original/2026/0323/20260323500219.webp",
       "summaries": {
-        "ko": "이 대통령 “다주택 공직자, 부동산 정책서 빼라”…청와대, 현황 조사 착수 - KBS 뉴스",
-        "en": "이 대통령 “다주택 공직자, 부동산 정책서 빼라”…청와대, 현황 조사 착수 - KBS 뉴스",
-        "zh": "이 대통령 “다주택 공직자, 부동산 정책서 빼라”…청와대, 현황 조사 착수 - KBS 뉴스"
+        "ko": "나토 사무총장은 트럼프의 '종이호랑이' 비판에 맞서 한국·일본 등 22개국이 이란에 의해 사실상 봉쇄된 호르무즈 해협의 자유로운 통항을 보장하기 위한 군사 및 인력 계획을 수립 중이라고 밝혔다.",
+        "en": "Responding to Trump's 'paper tiger' criticism, the NATO Secretary-General announced that 22 countries, including South Korea and Japan, are developing military and personnel plans to ensure free navigation through the Strait of Hormuz, which is effectively blockaded by Iran.",
+        "zh": "为回应特朗普“纸老虎”的批评，北约秘书长表示，包括韩国和日本在内的22个国家正在制定军事和人员计划，以确保伊朗事实上封锁的霍尔木兹海峡的自由通航。"
       }
     },
     {
-      "title": "대전 안전공업 화재 원인 규명 착수···노조 관계자 “기계서 불꽃 튀었을 가능성” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603231528001",
-      "source": "경향신문",
-      "pubDate": "Mon, 23 Mar 2026 06:28:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/23/news-p.v1.20260323.40023a91667a489cb083301f882c3294_P1.png",
+      "title": "‘화재 참사’에 수사관 60명 투입…대전 안전공업 압수수색 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1250586.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 23 Mar 2026 06:35:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/360/imgdb/original/2026/0323/20260323500734.webp",
       "summaries": {
-        "ko": "대전 안전공업 화재 원인 규명 착수···노조 관계자 “기계서 불꽃 튀었을 가능성” - 경향신문",
-        "en": "대전 안전공업 화재 원인 규명 착수···노조 관계자 “기계서 불꽃 튀었을 가능성” - 경향신문",
-        "zh": "대전 안전공업 화재 원인 규명 착수···노조 관계자 “기계서 불꽃 튀었을 가능성” - 경향신문"
+        "ko": "대전 안전공업 공장 화재로 74명의 사상자가 발생하자 경찰과 노동당국이 화재 원인과 안전조치 위반 여부 등을 규명하기 위해 본사와 공장을 압수수색하며 강제 수사에 착수했다.",
+        "en": "Following a fire at Daejeon's Safe Industrial factory that resulted in 74 casualties, police and labor authorities launched a compulsory investigation, raiding the company's headquarters and factory to determine the cause of the fire and investigate potential violations of safety measures.",
+        "zh": "大田安全工业工厂发生火灾导致74人死伤后，警方和劳动部门已启动强制调查，对公司总部和工厂进行搜查，以查明火灾原因并调查是否存在违反安全措施的行为。"
       }
     },
     {
@@ -86,39 +86,51 @@
       }
     },
     {
-      "title": "대만 “이달 말까지 답 없으면 한국 입국신고서 ‘남한’ 변경”···‘중국(대만)’ 표기 반발 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603231057001",
-      "source": "경향신문",
-      "pubDate": "Mon, 23 Mar 2026 01:57:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/23/news-p.v1.20260323.04cabca49b8141de93a5752aaa0e61e3_P1.jpg",
+      "title": "이 대통령 “0.1% 구멍도 안 돼”…다주택 공직자 부동산 정책서 배제 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1250550.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 23 Mar 2026 01:20:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0322/53_17741900419679_20260227502223.webp",
       "summaries": {
-        "ko": "대만 “이달 말까지 답 없으면 한국 입국신고서 ‘남한’ 변경”···‘중국(대만)’ 표기 반발 - 경향신문",
-        "en": "대만 “이달 말까지 답 없으면 한국 입국신고서 ‘남한’ 변경”···‘중국(대만)’ 표기 반발 - 경향신문",
-        "zh": "대만 “이달 말까지 답 없으면 한국 입국신고서 ‘남한’ 변경”···‘중국(대만)’ 표기 반발 - 경향신문"
+        "ko": "이재명 대통령은 부동산 정책의 신뢰도 강화를 위해 다주택을 보유하거나 비거주 고가 주택을 소유한 공직자의 부동산 정책 개입을 원천 배제하라고 지시했다.",
+        "en": "President Lee Jae-myung has ordered the complete exclusion of public officials who own multiple homes or non-resident high-value properties from involvement in real estate policy, aiming to strengthen its credibility.",
+        "zh": "李在明总统指示，为加强房地产政策的公信力，将拥有多套住房或非居住性高价住宅的公职人员彻底排除在房地产政策制定之外。"
       }
     },
     {
-      "title": "김정은 北국무위원장 재추대…최고인민회의 상임위원장에 조용원 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260323005651504",
-      "source": "연합뉴스",
-      "pubDate": "Sun, 22 Mar 2026 22:06:03 GMT",
-      "image": "https://img8.yna.co.kr/photo/yna/YH/2026/03/23/PYH2026032300560004200_P4.jpg",
+      "title": "김정은 北국무위원장 재추대‥최고인민회의 상임위원장에 조용원 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6809487_36925.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 22 Mar 2026 22:28:46 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/03/23/kds_20260323_15.jpg",
       "summaries": {
-        "ko": "김정은 北국무위원장 재추대…최고인민회의 상임위원장에 조용원 - 연합뉴스",
-        "en": "김정은 北국무위원장 재추대…최고인민회의 상임위원장에 조용원 - 연합뉴스",
-        "zh": "김정은 北국무위원장 재추대…최고인민회의 상임위원장에 조용원 - 연합뉴스"
+        "ko": "김정은 北국무위원장 재추대‥최고인민회의 상임위원장에 조용원 - MBC 뉴스",
+        "en": "김정은 北국무위원장 재추대‥최고인민회의 상임위원장에 조용원 - MBC 뉴스",
+        "zh": "김정은 北국무위원장 재추대‥최고인민회의 상임위원장에 조용원 - MBC 뉴스"
       }
     },
     {
-      "title": "정청래 “김부겸, 대구시장 후보로 뛰어달라… 대구 승리 역사 만들겠다” - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/03/23/OE2CGJW2QJBEXNIFIYJN7V45BI/",
-      "source": "조선일보",
-      "pubDate": "Mon, 23 Mar 2026 01:35:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/ZCSN3273VZPLFM75L2A3JSCWSY.jpg?auth=74e610328608c7e91a1f11beb407901216dd45c9181171a75122300b76d4328a&width=1200&height=630&focal=1526,951",
+      "title": "'라키비움형 복합문화공간' 대전테미문학관 27일 개관",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260323165200cAm",
+      "source": "Breaking News",
+      "pubDate": "Mon, 23 Mar 2026 16:52:01 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260323/AKR20260323165200cAm_01_i.jpg",
       "summaries": {
-        "ko": "정청래 “김부겸, 대구시장 후보로 뛰어달라… 대구 승리 역사 만들겠다” - 조선일보",
-        "en": "정청래 “김부겸, 대구시장 후보로 뛰어달라… 대구 승리 역사 만들겠다” - 조선일보",
-        "zh": "정청래 “김부겸, 대구시장 후보로 뛰어달라… 대구 승리 역사 만들겠다” - 조선일보"
+        "ko": "'라키비움형 복합문화공간' 대전테미문학관 27일 개관",
+        "en": "'라키비움형 복합문화공간' 대전테미문학관 27일 개관",
+        "zh": "'라키비움형 복합문화공간' 대전테미문학관 27일 개관"
+      }
+    },
+    {
+      "title": "[속보] \"대전 화재 시신 일부 추가 수습, 시신 13구 신원 확인\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260323164618zmx",
+      "source": "Breaking News",
+      "pubDate": "Mon, 23 Mar 2026 16:46:20 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260323/AKR20260323164618zmx_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] \"대전 화재 시신 일부 추가 수습, 시신 13구 신원 확인\"",
+        "en": "[속보] \"대전 화재 시신 일부 추가 수습, 시신 13구 신원 확인\"",
+        "zh": "[속보] \"대전 화재 시신 일부 추가 수습, 시신 13구 신원 확인\""
       }
     }
   ]
