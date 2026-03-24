@@ -1,28 +1,16 @@
 {
-  "lastUpdate": "2026-03-24T08:04:52.583336",
+  "lastUpdate": "2026-03-24T09:05:11.323127",
   "items": [
     {
-      "title": "이 대통령 “중동 전쟁 비상대응체계 선제 가동…석탄발전소 폐쇄 일정 조정 검토” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603241647001",
-      "source": "경향신문",
-      "pubDate": "Tue, 24 Mar 2026 07:47:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/24/news-p.v1.20260324.cf79c0b64b9b4447aef101f3d53f1658_P1.jpeg",
+      "title": "이 대통령 “중동 전쟁 비상체계…에너지 절약 운동 나서달라” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1250791.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 24 Mar 2026 08:24:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/641/385/imgdb/child/2026/0324/53_17743173643812_20260324501150.webp",
       "summaries": {
-        "ko": "이재명 대통령은 중동 사태로 인한 에너지 수급 불안에 대비해 석탄발전소 폐쇄 일정 조정을 검토하고, 추가경정예산은 지역화폐로 지급하며, 차량 5부제 확대 및 대중교통 이용 분산 방안 마련을 지시했다.",
-        "en": "President Lee Jae-myung, in response to energy supply instability caused by the Middle East situation, ordered a review of the scheduled closure of coal power plants, proposed distributing the supplementary budget as local currency, and directed the implementation of expanded vehicle restrictions and measures to disperse public transport usage.",
-        "zh": "为应对中东局势导致的能源供应不稳定，李在明总统指示审查煤电厂关闭计划，提提议以地区货币形式发放追加预算，并建议推行车辆五部制和分散公共交通使用时间的措施。"
-      }
-    },
-    {
-      "title": "공공기관 내일부터 차량 5부제... 李 “국민은 에너지 아껴 써달라” - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/03/24/YSDFJDVO6NF5VCWHMYNLLFJFCA/",
-      "source": "조선일보",
-      "pubDate": "Tue, 24 Mar 2026 01:54:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/H67Z2SXBL5PYRA4JGV64L55VDY.jpg?auth=a9df58c3bea0ddce277d2877c5bcfc693936a76c8bf6e7ed8ee7a575a96bd267&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "공공기관 내일부터 차량 5부제... 李 “국민은 에너지 아껴 써달라” - 조선일보",
-        "en": "공공기관 내일부터 차량 5부제... 李 “국민은 에너지 아껴 써달라” - 조선일보",
-        "zh": "공공기관 내일부터 차량 5부제... 李 “국민은 에너지 아껴 써달라” - 조선일보"
+        "ko": "이재명 대통령은 중동 전쟁으로 인한 에너지 위기에 대비해 비상체계 가동과 에너지 절약 운동을 당부하고, 정유업계의 담합을 경고하며 국민 일상의 모든 분야에 대한 철저한 대비를 주문했다.",
+        "en": "President Lee Jae-myung urged the activation of an emergency system and an energy-saving campaign in preparation for the energy crisis caused by the Middle East war, warned against collusion by oil companies, and ordered thorough preparations for all aspects of daily life.",
+        "zh": "李在明总统呼吁启动应对中东战争引发的能源危机的紧急体系和节约能源运动，警告炼油行业不得串通涨价，并指示对国民日常生活的各个方面进行彻底准备。"
       }
     },
     {
@@ -38,51 +26,75 @@
       }
     },
     {
-      "title": "“불법 증축, 눈으로 확인 안 해”…참사 배경엔 정부 감독 기관들 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/area_general/1250738.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 24 Mar 2026 02:23:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/701/458/imgdb/original/2026/0323/20260323503407.webp",
+      "title": "대구시장 컷오프, 보궐선거 출마?... 이진숙 “당 요청 받으면 생각해보겠다” - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/03/24/LF4GGJNMNNE6JPCFUQMRYCWGRY/",
+      "source": "조선일보",
+      "pubDate": "Tue, 24 Mar 2026 05:34:49 GMT",
+      "image": "https://www.chosun.com/resizer/v2/PY25CPA3PJJH3EYRHXTFRVA3PE.jpg?auth=e06a6d8e40cdcddc481c3d18c3cc126c8fc8f93a5cf3be9ed19cd89a764a638e&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "대전 안전공업 화재 참사에서 불법 증축된 '2.5층 휴게 공간'이 대규모 인명 피해의 주원인으로 지목된 가운데, 정부 감독 기관들이 인력 및 제도적 한계를 이유로 현장 확인과 위험 감지에 소홀하여 참사를 키웠다는 비판이 제기된다.",
-        "en": "Government oversight bodies are criticized for neglecting on-site verification and hazard detection due to staffing and systemic limitations, which contributed to the Daejeon Safety Industry factory fire disaster where an illegally expanded '2.5-story lounge area' was identified as the primary cause of mass casualties.",
-        "zh": "在大田安全工业工厂火灾事故中，非法扩建的“2.5层休息空间”被认为是造成大量人员伤亡的主要原因，而政府监管机构则因人力和制度限制，忽视现场核查和危险检测，导致灾难扩大，因此受到批评。"
+        "ko": "대구시장 컷오프, 보궐선거 출마?... 이진숙 “당 요청 받으면 생각해보겠다” - 조선일보",
+        "en": "대구시장 컷오프, 보궐선거 출마?... 이진숙 “당 요청 받으면 생각해보겠다” - 조선일보",
+        "zh": "대구시장 컷오프, 보궐선거 출마?... 이진숙 “당 요청 받으면 생각해보겠다” - 조선일보"
       }
     },
     {
-      "title": "'대구 컷오프' 내홍 지속하는 국힘…경기 등 험지 논의는 제자리(종합) - 연합뉴스 한민족센터",
-      "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1328908",
-      "source": "연합뉴스 한민족센터",
-      "pubDate": "Tue, 24 Mar 2026 07:39:40 GMT",
-      "image": "https://www.koreancenter.or.kr/image/logo/snslogo_20241018113332.png",
+      "title": "트럼프가 이란 ‘차기 지도자’로 낙점?···혁명수비대 출신 강경파 갈리바프, 대화 나설까 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603241545001",
+      "source": "경향신문",
+      "pubDate": "Tue, 24 Mar 2026 06:45:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/24/news-p.v1.20260324.6f6f02a61ec847818e0cef951e77bce6_P1.jpg",
       "summaries": {
-        "ko": "국민의힘은 보수 텃밭인 대구시장 후보 컷오프를 둘러싼 내홍과 후보들의 반발로 어려움을 겪는 한편, 험지인 경기·호남 지역에서는 인물난으로 공천 논의가 제자리걸음이다.",
-        "en": "The People Power Party is experiencing severe internal conflict and candidate protests following controversial cutoffs for the Daegu mayoral race in its conservative stronghold, while also facing stalled nomination discussions due to a shortage of candidates in challenging regions like Gyeonggi and Honam.",
-        "zh": "国民力量党在保守阵营票仓大邱市长候选人初选裁员问题上引发内讧和候选人反对，同时在京畿道和湖南等艰难选区因人才匮乏导致提名讨论停滞不前。"
+        "ko": "트럼프 행정부가 이란의 차기 지도자로 거론되는 혁명수비대 출신 강경파 갈리바프 의장을 협상 상대로 검토 중이지만, 그의 강경한 입장 때문에 대화의 유연성에 의문이 제기된다.",
+        "en": "The Trump administration is reportedly considering hardliner Mohammad Bagher Ghalibaf, an ex-Revolutionary Guard commander and potential \"next leader\" of Iran, as a negotiation partner, but his firm stance raises doubts about his flexibility in dialogue.",
+        "zh": "据报道，特朗普政府正在考虑将伊朗前革命卫队指挥官、被视为潜在“下一任领导人”的强硬派议长穆罕默德·巴盖尔·加利巴夫作为谈判伙伴，但其强硬立场使其对话灵活性受到质疑。"
       }
     },
     {
-      "title": "李 “어르신 무료 대중교통, 출퇴근 시간엔 제한 연구해보라” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260324/133594030/1",
-      "source": "동아일보",
-      "pubDate": "Tue, 24 Mar 2026 04:18:08 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/24/133594203.1.jpg",
+      "title": "잠자던 ‘부산글로벌법’ 2년 만에 첫 소위 논의 통과… 6·3 지방선거 앞두자 급물살 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603241710001",
+      "source": "경향신문",
+      "pubDate": "Tue, 24 Mar 2026 08:10:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/24/news-p.v1.20260324.b1f8fbca08944ad9a59c13e58ad984b4_P1.jpeg",
       "summaries": {
-        "ko": "李 “어르신 무료 대중교통, 출퇴근 시간엔 제한 연구해보라” - 동아일보",
-        "en": "李 “어르신 무료 대중교통, 출퇴근 시간엔 제한 연구해보라” - 동아일보",
-        "zh": "李 “어르신 무료 대중교통, 출퇴근 시간엔 제한 연구해보라” - 동아일보"
+        "ko": "2년간 잠자던 ‘부산 글로벌허브도시 특별법’이 6월 지방선거를 앞두고 부산이 최대 격전지로 부상하면서 여당의 태도 변화로 첫 소위 논의를 통과하며 급물살을 탔다.",
+        "en": "The 'Busan Global Hub City Special Act,' dormant for two years, rapidly passed its first subcommittee review due to the ruling party's shift in attitude as Busan emerged as a key battleground ahead of the June local elections.",
+        "zh": "停滞两年的《釜山全球枢纽城市特别法》在首次小组委员会讨论中获得通过并迅速推进，原因是在6月地方选举前，釜山成为主要战场，执政党态度发生转变。"
       }
     },
     {
-      "title": "이 대통령 \"부동산 저항 못 이겨내면 나라 미래 없다‥투기 방치하면 나라 망해\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6809825_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 24 Mar 2026 02:13:28 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/03/24/lyj_260324_16.jpg",
+      "title": "아리셀 판박이…'74명 사상' 안전공업 수사 쟁점은? - 노컷뉴스",
+      "link": "https://www.nocutnews.co.kr/news/6489622",
+      "source": "노컷뉴스",
+      "pubDate": "Mon, 23 Mar 2026 20:00:00 GMT",
+      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/03/23/202603231722205804_0.jpg",
       "summaries": {
-        "ko": "이재명 대통령은 부동산 투기를 방치하면 나라가 망한다며, 투기 욕망에 따른 저항을 이겨내고 엄정하게 근절해야 국가의 미래가 있다고 강조했다.",
-        "en": "President Lee Jae-myung warned that neglecting real estate speculation would ruin the country, emphasizing that the nation's future depends on overcoming resistance from speculative desires and strictly eradicating them.",
-        "zh": "李在明总统警告称，放任房地产投机将毁掉国家，并强调只有战胜投机欲望带来的阻力并严格根除投机行为，国家才有未来。"
+        "ko": "고용노동부와 경찰이 74명의 사상자가 발생한 대전 안전공업 화재 참사의 불법 증축과 현장 경고 묵살 등 아리셀 참사와 판박이인 구조적 원인을 규명하기 위한 수사에 착수했다.",
+        "en": "The Ministry of Employment and Labor and the police have launched an investigation into the Daejeon Anjeon Gongup factory fire, which caused 74 casualties, focusing on structural causes such as illegal expansion and ignored safety warnings, mirroring the Aricell tragedy.",
+        "zh": "韩国雇佣劳动部和警方已对造成74人伤亡的大田安全工业火灾事故展开调查，重点关注与Aricell惨案如出一辙的非法扩建和无视现场警告等结构性原因。"
+      }
+    },
+    {
+      "title": "[속보]이 대통령 “부동산 저항 못 이겨내면 정부와 나라 미래 없다” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603241026001",
+      "source": "경향신문",
+      "pubDate": "Tue, 24 Mar 2026 01:26:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/24/news-p.v1.20260324.55fd7e822f1145f590e0d3860d79dd97_P1.jpg",
+      "summaries": {
+        "ko": "이재명 대통령은 부동산 투기에 대한 저항을 이겨내지 못하면 정부와 나라의 미래가 없다고 경고하며, 부동산 불패 신화에 맞서 엄정하고 철저한 대책 마련을 촉구했다.",
+        "en": "President Lee Jae-myung warned that if the government fails to overcome resistance to real estate speculation, both the government and the nation will have no future, urging strict and thorough measures to counter the 'real estate invincibility' myth.",
+        "zh": "李在明总统警告称，如果政府未能克服对房地产投机的抵制，那么政府和国家将没有未来，并敦促制定严格彻底的措施来对抗“房地产不败”的神话。"
+      }
+    },
+    {
+      "title": "여성에게 퇴짜 맞자 욕설 입모양…제주청년센터 홍보 영상 뭇매 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260324083400056",
+      "source": "연합뉴스",
+      "pubDate": "Tue, 24 Mar 2026 02:18:55 GMT",
+      "image": "https://img5.yna.co.kr/etc/inner/KR/2026/03/24/AKR20260324083400056_02_i_P4.jpg",
+      "summaries": {
+        "ko": "여성에게 퇴짜 맞자 욕설 입모양…제주청년센터 홍보 영상 뭇매 - 연합뉴스",
+        "en": "여성에게 퇴짜 맞자 욕설 입모양…제주청년센터 홍보 영상 뭇매 - 연합뉴스",
+        "zh": "여성에게 퇴짜 맞자 욕설 입모양…제주청년센터 홍보 영상 뭇매 - 연합뉴스"
       }
     },
     {
@@ -98,27 +110,27 @@
       }
     },
     {
-      "title": "여직원에 딱지맞자 욕설…제주청년센터 홍보영상 ‘황당’ - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260324/133594599/2",
-      "source": "동아일보",
-      "pubDate": "Tue, 24 Mar 2026 04:05:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/24/133594551.3.jpg",
+      "title": "'종전 기대'에 코스피 5,500선 사수…환율 1,490원대",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260324180216lxD",
+      "source": "Breaking News",
+      "pubDate": "Tue, 24 Mar 2026 18:02:44 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260324/MYH20260324180216lxD.jpg",
       "summaries": {
-        "ko": "여직원에 딱지맞자 욕설…제주청년센터 홍보영상 ‘황당’ - 동아일보",
-        "en": "여직원에 딱지맞자 욕설…제주청년센터 홍보영상 ‘황당’ - 동아일보",
-        "zh": "여직원에 딱지맞자 욕설…제주청년센터 홍보영상 ‘황당’ - 동아일보"
+        "ko": "'종전 기대'에 코스피 5,500선 사수…환율 1,490원대",
+        "en": "'종전 기대'에 코스피 5,500선 사수…환율 1,490원대",
+        "zh": "'종전 기대'에 코스피 5,500선 사수…환율 1,490원대"
       }
     },
     {
-      "title": "김병욱, 장남 강남 아파트 매수 의혹에 반박···“부부합산 축적자산 총 19억원” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603241517011",
-      "source": "경향신문",
-      "pubDate": "Tue, 24 Mar 2026 06:17:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/24/news-p.v1.20260324.bca0e876d5474acbacce2c9bd950cdff_P1.png",
+      "title": "[속보] 헌재, 재판소원 사전심사서 26건 줄줄이 각하",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202603241748226jB",
+      "source": "Breaking News",
+      "pubDate": "Tue, 24 Mar 2026 17:48:37 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260324/MYH202603241748226jB.jpg",
       "summaries": {
-        "ko": "김병욱 전 청와대 정무비서관이 장남의 28억원대 강남 아파트 매수 의혹에 대해 장남 부부의 총 근로소득, 대출, 결혼 전 자산 등으로 자금 출처가 충분히 소명 가능하다고 반박했다.",
-        "en": "Former Blue House Political Secretary Kim Byung-wook refuted allegations regarding his eldest son's 2.8 billion won Gangnam apartment purchase, stating that the source of funds is fully explainable through his son and daughter-in-law's combined income, loans, and pre-marital assets.",
-        "zh": "前青瓦台政务秘书金炳旭反驳了关于其长子购买28亿韩元江南公寓的资金来源疑虑，称其长子夫妇的总劳动收入、贷款及婚前资产足以解释资金来源。"
+        "ko": "[속보] 헌재, 재판소원 사전심사서 26건 줄줄이 각하",
+        "en": "[속보] 헌재, 재판소원 사전심사서 26건 줄줄이 각하",
+        "zh": "[속보] 헌재, 재판소원 사전심사서 26건 줄줄이 각하"
       }
     }
   ]
