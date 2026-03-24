@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-24T19:58:34.003824",
+  "lastUpdate": "2026-03-24T20:35:36.985359",
   "items": [
     {
       "title": "“이란 외무장관, 美 중동 특사에게 ‘경제 제재 완화’ 등 요구” - 조선일보",
@@ -20,21 +20,33 @@
       "pubDate": "Tue, 24 Mar 2026 15:29:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/860/575/imgdb/original/2026/0325/20260325500012.webp",
       "summaries": {
-        "ko": "카타르, 한국 등 4개국 LNG 장기 공급 계약 ‘불가항력’ 선언 - 한겨레",
-        "en": "카타르, 한국 등 4개국 LNG 장기 공급 계약 ‘불가항력’ 선언 - 한겨레",
-        "zh": "카타르, 한국 등 4개국 LNG 장기 공급 계약 ‘불가항력’ 선언 - 한겨레"
+        "ko": "카타르 국영 에너지 기업 카타르에너지가 이란의 미사일 공격으로 생산 시설이 파괴되어 한국 등 4개국에 대한 액화천연가스(LNG) 장기 공급 계약에 '불가항력'을 선언했으며, 이는 한국의 가스 요금에 영향을 미칠 수 있다.",
+        "en": "Qatar Energy, the state-owned energy company, has declared 'Force Majeure' on long-term liquefied natural gas (LNG) supply contracts to four countries including South Korea, following a missile attack that destroyed production facilities, an action that could impact gas prices in South Korea.",
+        "zh": "卡塔尔国家能源公司因生产设施遭导弹袭击而受损，对包括韩国在内的四个国家的液化天然气（LNG）长期供应合同宣布“不可抗力”，此举可能影响韩国的天然气价格。"
       }
     },
     {
-      "title": "사탕수수밭 살인, 탈옥, 호화수감…송환된 '마약왕' 박왕열 - 연합뉴스 한민족센터",
-      "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1329032",
-      "source": "연합뉴스 한민족센터",
-      "pubDate": "Tue, 24 Mar 2026 17:35:02 GMT",
-      "image": "https://www.koreancenter.or.kr/image/logo/snslogo_20241018113332.png",
+      "title": "차량 5부제 공공은 ‘의무’, 민간은 ‘자율’…효과는? - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8517118",
+      "source": "KBS 뉴스",
+      "pubDate": "Tue, 24 Mar 2026 12:14:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/03/24/20260324_X2UmXp.png",
       "summaries": {
-        "ko": "사탕수수밭 살인, 탈옥, 호화수감…송환된 '마약왕' 박왕열 - 연합뉴스 한민족센터",
-        "en": "사탕수수밭 살인, 탈옥, 호화수감…송환된 '마약왕' 박왕열 - 연합뉴스 한민족센터",
-        "zh": "사탕수수밭 살인, 탈옥, 호화수감…송환된 '마약왕' 박왕열 - 연합뉴스 한민족센터"
+        "ko": "차량 5부제 공공은 ‘의무’, 민간은 ‘자율’…효과는? - KBS 뉴스",
+        "en": "차량 5부제 공공은 ‘의무’, 민간은 ‘자율’…효과는? - KBS 뉴스",
+        "zh": "차량 5부제 공공은 ‘의무’, 민간은 ‘자율’…효과는? - KBS 뉴스"
+      }
+    },
+    {
+      "title": "‘보유세 인상’도 검토… 靑, 부동산대책 강공 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260325/133600922/2",
+      "source": "동아일보",
+      "pubDate": "Tue, 24 Mar 2026 19:30:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/25/133601142.1.jpg",
+      "summaries": {
+        "ko": "‘보유세 인상’도 검토… 靑, 부동산대책 강공 - 동아일보",
+        "en": "‘보유세 인상’도 검토… 靑, 부동산대책 강공 - 동아일보",
+        "zh": "‘보유세 인상’도 검토… 靑, 부동산대책 강공 - 동아일보"
       }
     },
     {
@@ -50,75 +62,63 @@
       }
     },
     {
-      "title": "이 대통령, 부동산 보유세 기사 소개…세제 개편 ‘빌드업’일까 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603242019005",
+      "title": "인천 중구농협, 영농부산물 파쇄로 산불 예방·일손 지원 - 농민신문",
+      "link": "https://www.nongmin.com/article/20260324500473",
+      "source": "농민신문",
+      "pubDate": "Tue, 24 Mar 2026 11:54:00 GMT",
+      "image": "https://www.nongmin.com/-/raw/srv-nongmin/data2/content/image/2026/03/24/.cache/512/20260324500441.jpg",
+      "summaries": {
+        "ko": "인천 중구농협, 영농부산물 파쇄로 산불 예방·일손 지원 - 농민신문",
+        "en": "인천 중구농협, 영농부산물 파쇄로 산불 예방·일손 지원 - 농민신문",
+        "zh": "인천 중구농협, 영농부산물 파쇄로 산불 예방·일손 지원 - 농민신문"
+      }
+    },
+    {
+      "title": "필리핀 수감 '마약왕' 국내 송환…李대통령 외교성과 한달 만에 결실 - 연합인포맥스",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4405690",
+      "source": "연합인포맥스",
+      "pubDate": "Tue, 24 Mar 2026 17:35:12 GMT",
+      "image": "https://cdn.news.einfomax.co.kr/news/thumbnail/202603/4405690_302945_362_v150.jpg",
+      "summaries": {
+        "ko": "필리핀 수감 '마약왕' 국내 송환…李대통령 외교성과 한달 만에 결실 - 연합인포맥스",
+        "en": "필리핀 수감 '마약왕' 국내 송환…李대통령 외교성과 한달 만에 결실 - 연합인포맥스",
+        "zh": "필리핀 수감 '마약왕' 국내 송환…李대통령 외교성과 한달 만에 결실 - 연합인포맥스"
+      }
+    },
+    {
+      "title": "이 대통령 “악질 부동산 범죄, 꼭 뿌리 뽑겠다”···‘7명 구속’ 특별단속 결과 공개 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603242212001",
       "source": "경향신문",
-      "pubDate": "Tue, 24 Mar 2026 11:19:00 GMT",
-      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
+      "pubDate": "Tue, 24 Mar 2026 13:12:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/24/news-p.v1.20260324.00aae871886146dabcea89a1fd4f5b77_P1.jpeg",
       "summaries": {
-        "ko": "이 대통령, 부동산 보유세 기사 소개…세제 개편 ‘빌드업’일까 - 경향신문",
-        "en": "이 대통령, 부동산 보유세 기사 소개…세제 개편 ‘빌드업’일까 - 경향신문",
-        "zh": "이 대통령, 부동산 보유세 기사 소개…세제 개편 ‘빌드업’일까 - 경향신문"
+        "ko": "이 대통령 “악질 부동산 범죄, 꼭 뿌리 뽑겠다”···‘7명 구속’ 특별단속 결과 공개 - 경향신문",
+        "en": "이 대통령 “악질 부동산 범죄, 꼭 뿌리 뽑겠다”···‘7명 구속’ 특별단속 결과 공개 - 경향신문",
+        "zh": "이 대통령 “악질 부동산 범죄, 꼭 뿌리 뽑겠다”···‘7명 구속’ 특별단속 결과 공개 - 경향신문"
       }
     },
     {
-      "title": "대전 참사 빈소, 통곡 속 12살 아들은 가만히 서 있었다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1250868.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 24 Mar 2026 14:03:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/816/621/imgdb/original/2026/0324/20260324503032.webp",
+      "title": "아리셀 판박이…'74명 사상' 안전공업 수사 쟁점은? - 노컷뉴스",
+      "link": "https://www.nocutnews.co.kr/news/6489622",
+      "source": "노컷뉴스",
+      "pubDate": "Mon, 23 Mar 2026 20:00:00 GMT",
+      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/03/23/202603231722205804_0.jpg",
       "summaries": {
-        "ko": "대전 참사 빈소, 통곡 속 12살 아들은 가만히 서 있었다 - 한겨레",
-        "en": "대전 참사 빈소, 통곡 속 12살 아들은 가만히 서 있었다 - 한겨레",
-        "zh": "대전 참사 빈소, 통곡 속 12살 아들은 가만히 서 있었다 - 한겨레"
+        "ko": "아리셀 판박이…'74명 사상' 안전공업 수사 쟁점은? - 노컷뉴스",
+        "en": "아리셀 판박이…'74명 사상' 안전공업 수사 쟁점은? - 노컷뉴스",
+        "zh": "아리셀 판박이…'74명 사상' 안전공업 수사 쟁점은? - 노컷뉴스"
       }
     },
     {
-      "title": "기후부 “차량 5부제 이어 재택근무 권고 검토할 수도” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1250851.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 24 Mar 2026 14:02:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/507/268/imgdb/child/2026/0324/17743416221217_20260324502749.webp",
+      "title": "한병도 \"이창수, 김건희 주가조작 면죄부 가이드라인‥반드시 규명돼야\" - imnews.imbc.com",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6809824_36911.html",
+      "source": "imnews.imbc.com",
+      "pubDate": "Tue, 24 Mar 2026 02:10:00 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/03/24/chhh_20260324_7.jpg",
       "summaries": {
-        "ko": "기후부 “차량 5부제 이어 재택근무 권고 검토할 수도” - 한겨레",
-        "en": "기후부 “차량 5부제 이어 재택근무 권고 검토할 수도” - 한겨레",
-        "zh": "기후부 “차량 5부제 이어 재택근무 권고 검토할 수도” - 한겨레"
-      }
-    },
-    {
-      "title": "민주당 서울시장 박주민·정원오·전현희 3파전 확정 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603241834011",
-      "source": "경향신문",
-      "pubDate": "Tue, 24 Mar 2026 09:34:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/24/news-p.v1.20260320.8b96370e0e714303a602592d3ec65f80_P1.jpeg",
-      "summaries": {
-        "ko": "민주당 서울시장 박주민·정원오·전현희 3파전 확정 - 경향신문",
-        "en": "민주당 서울시장 박주민·정원오·전현희 3파전 확정 - 경향신문",
-        "zh": "민주당 서울시장 박주민·정원오·전현희 3파전 확정 - 경향신문"
-      }
-    },
-    {
-      "title": "안철수 “李, 코스피 관련 공무원 주식투자도 막을건가” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260324/133593425/2",
-      "source": "동아일보",
-      "pubDate": "Tue, 24 Mar 2026 01:29:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/24/133593426.2.jpg",
-      "summaries": {
-        "ko": "안철수 “李, 코스피 관련 공무원 주식투자도 막을건가” - 동아일보",
-        "en": "안철수 “李, 코스피 관련 공무원 주식투자도 막을건가” - 동아일보",
-        "zh": "안철수 “李, 코스피 관련 공무원 주식투자도 막을건가” - 동아일보"
-      }
-    },
-    {
-      "title": "“윤석열이 당선되면 외상값 다 갚을 건데…” ‘불법 여론조사’ 재판서 강혜경 음성 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603241738001",
-      "source": "경향신문",
-      "pubDate": "Tue, 24 Mar 2026 08:38:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/24/rcv.YNA.20260304.PYH2026030404870001300_P1.jpg",
-      "summaries": {
-        "ko": "“윤석열이 당선되면 외상값 다 갚을 건데…” ‘불법 여론조사’ 재판서 강혜경 음성 - 경향신문",
-        "en": "“윤석열이 당선되면 외상값 다 갚을 건데…” ‘불법 여론조사’ 재판서 강혜경 음성 - 경향신문",
-        "zh": "“윤석열이 당선되면 외상값 다 갚을 건데…” ‘불법 여론조사’ 재판서 강혜경 음성 - 경향신문"
+        "ko": "한병도 \"이창수, 김건희 주가조작 면죄부 가이드라인‥반드시 규명돼야\" - imnews.imbc.com",
+        "en": "한병도 \"이창수, 김건희 주가조작 면죄부 가이드라인‥반드시 규명돼야\" - imnews.imbc.com",
+        "zh": "한병도 \"이창수, 김건희 주가조작 면죄부 가이드라인‥반드시 규명돼야\" - imnews.imbc.com"
       }
     }
   ]
