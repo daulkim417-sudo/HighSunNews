@@ -1,40 +1,28 @@
 {
-  "lastUpdate": "2026-03-25T09:04:55.698968",
+  "lastUpdate": "2026-03-25T10:03:46.507767",
   "items": [
     {
-      "title": "이란대사관 “투기세력의 허위정보”…미국과 휴전 협상설 부인 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1251000.html",
+      "title": "이란군 “미국, 스스로와 협상하는 지경”···트럼프 ‘15개 요구안’은 1년 전 것 재탕이었다 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603251628001",
+      "source": "경향신문",
+      "pubDate": "Wed, 25 Mar 2026 07:28:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/25/news-p.v1.20260325.bee77267492d4b6ebee590782f3d3b33_P1.jpg",
+      "summaries": {
+        "ko": "트럼프 행정부가 파키스탄을 통해 1년 전 제안을 재탕한 15개 휴전 요구안을 이란에 전달했으나, 이란은 수용 가능성이 낮고 이란군 대변인은 미국의 진정성을 비판했다.",
+        "en": "The Trump administration delivered 15 ceasefire demands to Iran via Pakistan, largely a rehash of year-old proposals, which Iran is unlikely to accept, drawing criticism from an Iranian military spokesperson regarding US sincerity.",
+        "zh": "据报道，特朗普政府通过巴基斯坦向伊朗提出了15项停火要求，但这些被指是重提一年前的旧案，伊朗接受的可能性很低，且伊朗军方发言人批评了美国的诚意。"
+      }
+    },
+    {
+      "title": "이 대통령 “초음속 전투기 KF-21 성공…우리 기술로 자주국방” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1251026.html",
       "source": "한겨레",
-      "pubDate": "Wed, 25 Mar 2026 06:42:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0325/20260325501496.webp",
+      "pubDate": "Wed, 25 Mar 2026 08:36:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/515/imgdb/child/2026/0325/17744203001188_9917744200225238.webp",
       "summaries": {
-        "ko": "주한 이란대사관은 미국과의 휴전 협상설을 공식 부인하며, 이는 에너지 및 주식 시장에서 부당한 이익을 취하려는 투기 세력의 허위 정보 유포라고 주장했다.",
-        "en": "The Iranian Embassy in South Korea officially denied reports of truce negotiations with the U.S., asserting that these are false information spread by speculative forces to gain illicit profits in energy and stock markets.",
-        "zh": "驻韩国伊朗大使馆正式否认了与美国进行休战谈判的报道，称这是投机势力为在能源和股票市场获取不当利益而散布的虚假信息。"
-      }
-    },
-    {
-      "title": "KF-21 양산 1호기 출고...李 “자주국방 염원 담은 전투기” - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/03/25/WYR3DH5QZZGOPMOMZ5C4XFLRJE/",
-      "source": "조선일보",
-      "pubDate": "Wed, 25 Mar 2026 06:38:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/EO2GK7M7K5DURPA2FBQX3KOZEY.gif?auth=0ba2caf4353799740aa2173151f666778552b207f30890139b9df874620a4548&width=480&height=252&focal=254,152",
-      "summaries": {
-        "ko": "KF-21 양산 1호기 출고...李 “자주국방 염원 담은 전투기” - 조선일보",
-        "en": "KF-21 양산 1호기 출고...李 “자주국방 염원 담은 전투기” - 조선일보",
-        "zh": "KF-21 양산 1호기 출고...李 “자주국방 염원 담은 전투기” - 조선일보"
-      }
-    },
-    {
-      "title": "SK “4층까진 걸어다니자” LG “출퇴근은 셔틀버스”... 에너지 절감 동참 - 조선일보",
-      "link": "https://www.chosun.com/economy/industry-company/2026/03/25/4GA4VI7HY5DTBKRPJETGXXX7QM/",
-      "source": "조선일보",
-      "pubDate": "Wed, 25 Mar 2026 07:24:16 GMT",
-      "image": "https://www.chosun.com/resizer/v2/YIKJVG47HVDMDA5HZFPMJR7QTA.jpg?auth=481f1739cad073aac31f90947d66dccf0389949308fdce65ecba94a6cfc2d055&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "SK “4층까진 걸어다니자” LG “출퇴근은 셔틀버스”... 에너지 절감 동참 - 조선일보",
-        "en": "SK “4층까진 걸어다니자” LG “출퇴근은 셔틀버스”... 에너지 절감 동참 - 조선일보",
-        "zh": "SK “4층까진 걸어다니자” LG “출퇴근은 셔틀버스”... 에너지 절감 동참 - 조선일보"
+        "ko": "이재명 대통령은 한국형 초음속 전투기 KF-21 양산 1호기 출고식에서 우리 기술로 자주국방을 실현하고 세계 4대 방산 강국으로 도약하는 발판을 마련했다고 강조했다.",
+        "en": "President Lee Jae-myung emphasized at the rollout ceremony for the first mass-produced KF-21 supersonic fighter jet that it lays the groundwork for achieving self-reliant defense with domestic technology and for South Korea to emerge as one of the world's top four defense industry powerhouses.",
+        "zh": "李在明总统在KF-21超音速战斗机量产1号机出厂仪式上强调，这为凭借韩国技术实现自主国防并跃升为世界四大国防工业强国奠定了基础。"
       }
     },
     {
@@ -50,39 +38,63 @@
       }
     },
     {
+      "title": "중동 전쟁 장기화 대응에 국가 역량 결집…정부, '비상경제본부' 가동 - 대한민국 정책브리핑",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148961438",
+      "source": "대한민국 정책브리핑",
+      "pubDate": "Wed, 25 Mar 2026 07:45:09 GMT",
+      "image": "https://www.korea.kr/newsWeb/resources/attaches/2026.03/25/c05766bb571e0d2cae45c7b68caefcfc.jpg",
+      "summaries": {
+        "ko": "정부는 중동 전쟁 장기화에 따른 경제 위기 대응을 위해 대통령 주재 '비상경제점검회의'를 최고 컨트롤타워로, 총리 본부장의 '비상경제본부'를 가동하는 등 범국가적 비상 대응체계를 강화한다.",
+        "en": "The government is strengthening its nationwide emergency response system, including activating the Presidential 'Emergency Economic Review Meeting' as the supreme control tower and the Prime Minister-led 'Emergency Economic Headquarters,' to address economic crises due to the prolonged Middle East war.",
+        "zh": "为应对中东战争长期化引发的经济危机，韩国政府决定强化全国性应急响应体系，包括启动由总统主持的‘紧急经济检查会议’作为最高指挥塔，并由总理担任本部长启动‘紧急经济本部’。"
+      }
+    },
+    {
       "title": "정동영, 공식석상에서 ‘조선민주주의인민공화국’ 첫 언급 - 경향신문",
       "link": "https://www.khan.co.kr/article/202603251433001",
       "source": "경향신문",
       "pubDate": "Wed, 25 Mar 2026 05:33:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/03/25/news-p.v1.20260325.db2a5fd1c8d3449eb786971d6a8f02d6_P1.jpg",
       "summaries": {
-        "ko": "정동영 통일부 장관이 공식 석상에서 처음으로 북한을 ‘조선민주주의인민공화국’으로 호칭하며 평화 공존을 위한 남북의 책임 있는 결단을 촉구하고, 이를 자신의 ‘평화적 두 국가론’을 통한 북한 적대 정책 대응의 일환으로 제시했다.",
-        "en": "Unification Minister Jeong Dong-young, for the first time in a public setting, referred to North Korea by its official name 'Democratic People's Republic of Korea,' urging responsible decisions from both sides for peaceful coexistence and presenting this as part of his 'peaceful two-state theory' to counter North Korea's hostile policies.",
-        "zh": "韩国统一部长郑东泳首次在公开场合正式称呼朝鲜为“朝鲜民主主义人民共和国”，敦促韩朝为和平共存做出负责任的决断，并将其作为以其“和平两国论”应对朝鲜敌对政策的一环。"
+        "ko": "정동영 통일부 장관이 공식 석상에서 처음으로 북한의 국호인 ‘조선민주주의인민공화국’을 언급하며, 북한의 ‘적대적 두 국가’ 기조에 맞서 ‘평화적 두 국가론’과 평화 공존을 한반도 정책의 중심에 둘 것을 강조했다.",
+        "en": "Minister of Unification Jung Dong-young officially mentioned North Korea's full name, 'Democratic People's Republic of Korea,' for the first time in a public setting, emphasizing his 'peaceful two-state theory' and peaceful coexistence as central to Korean Peninsula policy to counter North Korea's 'hostile two-state' stance.",
+        "zh": "韩国统一部长官郑东泳首次在公开场合提及朝鲜国号“朝鲜民主主义人民共和国”，强调以“和平两国论”和和平共存作为朝鲜半岛政策核心，以应对朝鲜的“敌对两国”基调。"
+      }
+    },
+    {
+      "title": "\"현대판 사법쿠데타\"‥범여권 의원들 '조희대 탄핵안' 초안 마련 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6810200_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Wed, 25 Mar 2026 07:30:46 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/03/25/yh_20260325-13.jpg",
+      "summaries": {
+        "ko": "\"현대판 사법쿠데타\"‥범여권 의원들 '조희대 탄핵안' 초안 마련 - MBC 뉴스",
+        "en": "\"현대판 사법쿠데타\"‥범여권 의원들 '조희대 탄핵안' 초안 마련 - MBC 뉴스",
+        "zh": "\"현대판 사법쿠데타\"‥범여권 의원들 '조희대 탄핵안' 초안 마련 - MBC 뉴스"
+      }
+    },
+    {
+      "title": "‘의원직 상실’ 양문석 “김용이 안산갑 지역구 맡아달라” 공개 요청 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603251012001",
+      "source": "경향신문",
+      "pubDate": "Wed, 25 Mar 2026 01:12:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/25/news-p.v1.20260312.0c67e149fee74bc98a735b9298aa2e33_P1.jpg",
+      "summaries": {
+        "ko": "‘의원직 상실’ 양문석 “김용이 안산갑 지역구 맡아달라” 공개 요청 - 경향신문",
+        "en": "‘의원직 상실’ 양문석 “김용이 안산갑 지역구 맡아달라” 공개 요청 - 경향신문",
+        "zh": "‘의원직 상실’ 양문석 “김용이 안산갑 지역구 맡아달라” 공개 요청 - 경향신문"
       }
     },
     {
       "title": "상복 바짓단 2번 접은 초등생 아들의 ‘마지막 잔’…안전공업 희생자 발인 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/society_general/1251015.html",
       "source": "한겨레",
-      "pubDate": "Wed, 25 Mar 2026 07:32:00 GMT",
+      "pubDate": "Wed, 25 Mar 2026 08:35:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/875/667/imgdb/child/2026/0325/17744161648655_20260325501791.webp",
       "summaries": {
-        "ko": "대전 안전공업 화재 참사 희생자들의 발인식이 애통함 속에 진행됐으며, 상복 바짓단을 두 번 접은 어린 아들들이 마지막 잔을 올리는 등 유족들의 깊은 슬픔이 빈소를 채웠다.",
-        "en": "Funerals for the victims of the Daejeon Anjeon Industrial fire tragedy were held amidst profound sorrow, filling the mourning halls with the deep grief of families, including young sons offering their last respects with their mourning clothes' pant legs folded twice.",
-        "zh": "大田安全工业火灾事故遇难者的遗体告别仪式在悲痛中举行，灵堂内充满了家属们深深的哀伤，其中包括小儿子们两次卷起孝服裤脚献上最后一杯酒的场景。"
-      }
-    },
-    {
-      "title": "[단독]“조희대, 별동대에 李사건 사전배당”…탄핵안 초안에 담겨 - v.daum.net",
-      "link": "https://v.daum.net/v/20260325141945342",
-      "source": "v.daum.net",
-      "pubDate": "Wed, 25 Mar 2026 05:19:44 GMT",
-      "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202603/25/donga/20260325141946449uyhf.jpg",
-      "summaries": {
-        "ko": "범야권은 조희대 대법원장에 대한 탄핵을 가속화하며, 이재명 대표 사건의 비공식 사전 배당을 통한 직권남용, 사실관계 재평가로 법률심 권한을 넘어선 점, 그리고 12·3 내란 동조 의혹 등을 탄핵소추안 초안에서 지적했다.",
-        "en": "The pan-opposition bloc is accelerating the impeachment of Supreme Court Chief Justice Cho Hee-dae, citing allegations in the draft impeachment motion of abuse of power through unofficial pre-assignment of Lee Jae-myung's case, exceeding legal review authority by re-evaluating facts, and complicity in the December 3 rebellion.",
-        "zh": "泛在野党联盟正在加速对大法院院长赵熙大的弹劾，弹劾案草案中指控他滥用职权，将李在明案件非法预先分配给非官方小组，超越法律审查权限重新评估事实，并涉嫌参与12月3日叛乱。"
+        "ko": "상복 바짓단 2번 접은 초등생 아들의 ‘마지막 잔’…안전공업 희생자 발인 - 한겨레",
+        "en": "상복 바짓단 2번 접은 초등생 아들의 ‘마지막 잔’…안전공업 희생자 발인 - 한겨레",
+        "zh": "상복 바짓단 2번 접은 초등생 아들의 ‘마지막 잔’…안전공업 희생자 발인 - 한겨레"
       }
     },
     {
@@ -98,39 +110,15 @@
       }
     },
     {
-      "title": "정청래 “억울한 컷오프 없어…부적격자 공천 배제와 구분해야” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260325/133603645/2",
-      "source": "동아일보",
-      "pubDate": "Wed, 25 Mar 2026 02:53:32 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/25/133603643.3.jpg",
-      "summaries": {
-        "ko": "정청래 “억울한 컷오프 없어…부적격자 공천 배제와 구분해야” - 동아일보",
-        "en": "정청래 “억울한 컷오프 없어…부적격자 공천 배제와 구분해야” - 동아일보",
-        "zh": "정청래 “억울한 컷오프 없어…부적격자 공천 배제와 구분해야” - 동아일보"
-      }
-    },
-    {
-      "title": "작년 가상자산 시총 87조로 감소…거래규모·수익성 악화",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260325180209TIn",
+      "title": "靑 \"카타르 LNG 도입 중단돼도 안정적 공급 가능\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260325190024Z4q",
       "source": "Breaking News",
-      "pubDate": "Wed, 25 Mar 2026 18:02:12 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260325/AKR20260325180209TIn_01_i.jpg",
+      "pubDate": "Wed, 25 Mar 2026 19:00:24 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260325/AKR20260325190024Z4q_01_i.jpg",
       "summaries": {
-        "ko": "작년 하반기 국내 가상자산 시장은 시가총액과 거래 규모, 수익성이 악화되었음에도 불구하고 투자자 계정 수와 원화 예치금은 증가했으며, 단독 상장 종목 증가로 투자 위험이 커졌다.",
-        "en": "In the latter half of last year, South Korea's virtual asset market saw its market capitalization, transaction volume, and profitability worsen, yet investor accounts and KRW deposits increased, with the rise in single-listed assets also heightening investment risks.",
-        "zh": "去年下半年，韩国虚拟资产市场市值、交易规模和盈利能力均出现恶化，但投资者账户和韩元存款有所增加，同时独家上市币种的增加也加剧了投资风险。"
-      }
-    },
-    {
-      "title": "[속보] 이 대통령, 내일 10시 비상경제점검회의 주재",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260325174622j9U",
-      "source": "Breaking News",
-      "pubDate": "Wed, 25 Mar 2026 17:46:39 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260325/MYH20260325174622j9U.jpg",
-      "summaries": {
-        "ko": "이재명 대통령은 내일 오전 10시 청와대에서 중동 상황에 따른 비상경제 대응방안을 논의하기 위한 비상경제점검회의를 주재한다.",
-        "en": "President Lee Jaemyung will preside over an emergency economic review meeting tomorrow at 10 AM at the Blue House to discuss emergency economic countermeasures in response to the Middle East situation.",
-        "zh": "李在明总统将于明日上午10时在青瓦台主持召开紧急经济检查会议，讨论应对中东局势的紧急经济对策。"
+        "ko": "靑 \"카타르 LNG 도입 중단돼도 안정적 공급 가능\"",
+        "en": "靑 \"카타르 LNG 도입 중단돼도 안정적 공급 가능\"",
+        "zh": "靑 \"카타르 LNG 도입 중단돼도 안정적 공급 가능\""
       }
     }
   ]
