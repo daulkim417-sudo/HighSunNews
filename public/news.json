@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-03-25T22:29:10.394497",
+  "lastUpdate": "2026-03-25T23:03:27.826701",
   "items": [
+    {
+      "title": "백악관 “이란, 패배 인정 안 하면 더 큰 타격…지옥 불러올 준비” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/america/1251144.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 25 Mar 2026 21:35:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0326/20260326500146.webp",
+      "summaries": {
+        "ko": "백악관은 이란이 군사적 패배를 인정하지 않으면 \"지금까지보다 훨씬 더 강력한 타격\"을 가해 \"지옥을 불러올 준비\"가 되어 있다고 경고하며, 현재 이란과의 생산적인 협상이 진행 중이고 군사 작전이 빠르게 성공하고 있다고 밝혔다.",
+        "en": "The White House warned that if Iran does not acknowledge military defeat, it will face \"much stronger strikes\" and President Trump is \"ready to unleash hell,\" while also stating that productive negotiations with Iran are ongoing and military operations are succeeding faster than expected.",
+        "zh": "白宫警告称，如果伊朗不承认军事失败，将面临“比以往更强大的打击”，特朗普总统已“做好准备唤来地狱”，同时表示与伊朗的富有成效的谈判正在进行，军事行动的进展也超出了预期。"
+      }
+    },
     {
       "title": "주식으로 대박… 이세웅 542억, 이장형 42억, 고동진 35억 벌어 - 조선일보",
       "link": "https://www.chosun.com/politics/politics_general/2026/03/26/YZPVLW63QZH4HBOQGSN3ZIHJBI/",
@@ -14,15 +26,15 @@
       }
     },
     {
-      "title": "이란대사관 “투기세력의 허위정보”…미국과 휴전 협상설 부인 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1251000.html",
+      "title": "[속보] “이란, 미 종전안 거절…‘침략 중단·피해 배상’ 역제안” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1251128.html",
       "source": "한겨레",
-      "pubDate": "Wed, 25 Mar 2026 06:42:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0325/20260325501496.webp",
+      "pubDate": "Wed, 25 Mar 2026 16:29:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/600/imgdb/original/2026/0326/20260326500002.webp",
       "summaries": {
-        "ko": "이란대사관 “투기세력의 허위정보”…미국과 휴전 협상설 부인 - 한겨레",
-        "en": "이란대사관 “투기세력의 허위정보”…미국과 휴전 협상설 부인 - 한겨레",
-        "zh": "이란대사관 “투기세력의 허위정보”…미국과 휴전 협상설 부인 - 한겨레"
+        "ko": "[속보] “이란, 미 종전안 거절…‘침략 중단·피해 배상’ 역제안” - 한겨레",
+        "en": "[속보] “이란, 미 종전안 거절…‘침략 중단·피해 배상’ 역제안” - 한겨레",
+        "zh": "[속보] “이란, 미 종전안 거절…‘침략 중단·피해 배상’ 역제안” - 한겨레"
       }
     },
     {
@@ -32,21 +44,9 @@
       "pubDate": "Wed, 25 Mar 2026 07:43:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/03/25/news-p.v1.20260325.782f2ce2023b49fabe83c09dafab8113_P1.jpeg",
       "summaries": {
-        "ko": "이 대통령, KF-21 양산 1호기 출고식 참석…“반세기 넘은 자주국방 염원” - 경향신문",
-        "en": "이 대통령, KF-21 양산 1호기 출고식 참석…“반세기 넘은 자주국방 염원” - 경향신문",
-        "zh": "이 대통령, KF-21 양산 1호기 출고식 참석…“반세기 넘은 자주국방 염원” - 경향신문"
-      }
-    },
-    {
-      "title": "이란, 美 종전안 거절... 5개 조건 역제안했다 - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/03/25/YCWT4QWYQRHNHLIFAK7LDRONBE/",
-      "source": "조선일보",
-      "pubDate": "Wed, 25 Mar 2026 14:57:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/E7ZDLT5AIVLF7MPGGJK2VNUAPA.jpg?auth=d1d3e54cd8da3dad66647c1b4e51a395e47fd99c12f16ac44ebb0f38dc4e7eb9&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "이란, 美 종전안 거절... 5개 조건 역제안했다 - 조선일보",
-        "en": "이란, 美 종전안 거절... 5개 조건 역제안했다 - 조선일보",
-        "zh": "이란, 美 종전안 거절... 5개 조건 역제안했다 - 조선일보"
+        "ko": "이재명 대통령은 국산 전투기 KF-21 양산 1호기 출고식에 참석하여 대한민국이 반세기 넘은 자주국방의 염원을 달성하고 세계 4대 방산 강국으로 도약할 발판을 마련했다고 강조했다.",
+        "en": "President Lee Jae-myung attended the rollout ceremony for the first mass-produced KF-21 fighter jet, emphasizing that South Korea has achieved its long-held aspiration for independent defense and laid the groundwork to become one of the world's top four defense industry powers.",
+        "zh": "李在明总统出席了国产战斗机KF-21量产1号机的出厂仪式，强调韩国实现了半个多世纪以来自主国防的夙愿，并为跻身世界四大军工强国奠定了基础。"
       }
     },
     {
@@ -56,33 +56,33 @@
       "pubDate": "Wed, 25 Mar 2026 10:06:58 GMT",
       "image": "https://pimg.mk.co.kr/news/cms/202603/25/news-p.v1.20260325.41ca5c68cf6446739eecfad5d01e00da_R.png",
       "summaries": {
-        "ko": "“차량 요일제부터 엘레베이터 격층 운행”…삼성·SK·롯데, 에너지 절약 ‘솔선수범’ - 매일경제",
-        "en": "“차량 요일제부터 엘레베이터 격층 운행”…삼성·SK·롯데, 에너지 절약 ‘솔선수범’ - 매일경제",
-        "zh": "“차량 요일제부터 엘레베이터 격층 운행”…삼성·SK·롯데, 에너지 절약 ‘솔선수범’ - 매일경제"
+        "ko": "삼성, SK, 롯데 등 국내 주요 기업들이 중동발 에너지 위기에 대응하기 위한 정부의 에너지 절약 방침에 동참하여 차량 운행 제한과 사무실 내 에너지 절약 캠페인 등을 시행한다.",
+        "en": "Major South Korean companies like Samsung, SK, and Lotte are joining the government's energy-saving initiatives, including vehicle restrictions and office energy-saving campaigns, in response to the energy crisis stemming from the Middle East conflict.",
+        "zh": "鉴于中东冲突引发的能源危机，三星、SK、乐天等韩国主要企业积极响应政府的节能政策，将实施车辆限行和办公室节能活动。"
       }
     },
     {
-      "title": "與, 李사건 수사검사 등 102명 증인 채택…野 “국조 위헌” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260325/133605878/1",
-      "source": "동아일보",
-      "pubDate": "Wed, 25 Mar 2026 11:56:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/25/133606479.1.jpg",
+      "title": "[사설]김건희 주가조작 무마 정황들, 검찰 무슨 짓을 한 건가 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603241810001",
+      "source": "경향신문",
+      "pubDate": "Tue, 24 Mar 2026 09:10:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/24/rcv.YNA.20260323.PYH2026032312190001301_P1.jpg",
       "summaries": {
-        "ko": "與, 李사건 수사검사 등 102명 증인 채택…野 “국조 위헌” - 동아일보",
-        "en": "與, 李사건 수사검사 등 102명 증인 채택…野 “국조 위헌” - 동아일보",
-        "zh": "與, 李사건 수사검사 등 102명 증인 채택…野 “국조 위헌” - 동아일보"
+        "ko": "김건희 여사의 도이치모터스 주가조작 의혹 수사에서 이창수 전 서울중앙지검장이 무죄 판례 검토를 지시하고 검찰 지휘부가 교체되는 등 봐주기 수사를 통해 무혐의 처분을 내린 정황들이 드러나 특검이 수사를 본격화했다.",
+        "en": "Strong indications suggest that the prosecution's investigation into First Lady Kim Keon-hee's alleged involvement in the Deutsch Motors stock manipulation case was lenient, with former Seoul Central District Prosecutor Lee Chang-soo instructing a review of acquittal precedents and a change in prosecution leadership leading to a no-indictment decision, prompting the special prosecution team to launch a full-scale investigation.",
+        "zh": "针对金建希女士涉嫌参与 Deutsch Motors 操纵股价案的调查中，有证据表明检方存在袒护行为，包括前首尔中央地方检察厅厅长李昌洙指示审查无罪判例以及检方领导层被更换，最终作出了不予起诉的决定，特别检察官团队已正式展开调查。"
       }
     },
     {
-      "title": "[단독] 믿기 힘든 ‘김건희 무혐의’ 처리 과정…다 짜여진 각본이었다 - JTBC",
-      "link": "https://news.jtbc.co.kr/article/NB12291141",
-      "source": "JTBC",
-      "pubDate": "Tue, 24 Mar 2026 10:01:00 GMT",
-      "image": "https://thumb.jtbc.co.kr/photo/r600x0/news/cms/etc/2026/03/24/20260324190007599001.jpg",
+      "title": "[단독]\"화재 나흘 전 노사협의회서도 환경 개선 요구…수십년간 묵살\" - 노컷뉴스",
+      "link": "https://www.nocutnews.co.kr/news/6490625",
+      "source": "노컷뉴스",
+      "pubDate": "Wed, 25 Mar 2026 01:50:00 GMT",
+      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/03/25/202603251053202908_0.jpg",
       "summaries": {
-        "ko": "[단독] 믿기 힘든 ‘김건희 무혐의’ 처리 과정…다 짜여진 각본이었다 - JTBC",
-        "en": "[단독] 믿기 힘든 ‘김건희 무혐의’ 처리 과정…다 짜여진 각본이었다 - JTBC",
-        "zh": "[단독] 믿기 힘든 ‘김건희 무혐의’ 처리 과정…다 짜여진 각본이었다 - JTBC"
+        "ko": "[단독]\"화재 나흘 전 노사협의회서도 환경 개선 요구…수십년간 묵살\" - 노컷뉴스",
+        "en": "[단독]\"화재 나흘 전 노사협의회서도 환경 개선 요구…수십년간 묵살\" - 노컷뉴스",
+        "zh": "[단독]\"화재 나흘 전 노사협의회서도 환경 개선 요구…수십년간 묵살\" - 노컷뉴스"
       }
     },
     {
@@ -110,15 +110,15 @@
       }
     },
     {
-      "title": "[이시각헤드라인] 3월 26일 라이브투데이",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260326072622gH8",
-      "source": "Breaking News",
-      "pubDate": "Thu, 26 Mar 2026 07:26:39 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260325/MYH20260326072622gH8.jpg",
+      "title": "‘쓰레기 봉투 사재기’ 조짐에, 이 대통령 “재활용 원료 활용해 대비” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1251057.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 25 Mar 2026 14:20:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/605/imgdb/original/2026/0325/20260325503205.webp",
       "summaries": {
-        "ko": "[이시각헤드라인] 3월 26일 라이브투데이",
-        "en": "[이시각헤드라인] 3월 26일 라이브투데이",
-        "zh": "[이시각헤드라인] 3월 26일 라이브투데이"
+        "ko": "‘쓰레기 봉투 사재기’ 조짐에, 이 대통령 “재활용 원료 활용해 대비” - 한겨레",
+        "en": "‘쓰레기 봉투 사재기’ 조짐에, 이 대통령 “재활용 원료 활용해 대비” - 한겨레",
+        "zh": "‘쓰레기 봉투 사재기’ 조짐에, 이 대통령 “재활용 원료 활용해 대비” - 한겨레"
       }
     }
   ]
