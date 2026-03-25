@@ -1,16 +1,64 @@
 {
-  "lastUpdate": "2026-03-25T03:14:45.856154",
+  "lastUpdate": "2026-03-25T05:05:22.360632",
   "items": [
     {
-      "title": "트럼프 “호르무즈 석유·가스 관련 큰 선물 받아”…이란 “가짜뉴스” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1250962.html",
+      "title": "미 제안 15개항에 ‘이란 핵 포기-제재 해제’ 담긴 듯…수용 가능성은 ‘글쎄’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1250995.html",
       "source": "한겨레",
-      "pubDate": "Tue, 24 Mar 2026 22:17:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0325/20260325500165.webp",
+      "pubDate": "Wed, 25 Mar 2026 02:47:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/720/579/imgdb/original/2026/0325/20260325501435.webp",
       "summaries": {
-        "ko": "도널드 트럼프 미국 대통령이 이란으로부터 호르무즈 해협의 석유·가스 흐름과 관련된 “매우 큰 선물”을 받았고 이란이 핵무기를 포기하기로 동의했다고 주장했으나, 이란은 이를 미국과의 직접 협상에 대한 “가짜 뉴스”라며 강하게 부인했다.",
-        "en": "U.S. President Donald Trump claimed Iran provided a \"very big gift\" related to oil and gas flow in the Strait of Hormuz and agreed to abandon nuclear weapons, but Iran vehemently denied this, calling it \"fake news\" regarding direct negotiations with the U.S.",
-        "zh": "美国总统唐纳德·特朗普声称伊朗送出了与霍尔木兹海峡石油和天然气流动相关的“大礼”，并已同意放弃核武器，但伊朗对此强烈否认，称其为有关与美国直接谈判的“假新闻”。"
+        "ko": "미국이 이란에 핵 능력 포기 및 중동 동맹 지원 중단 등을 요구하고 제재를 전면 해제하는 15개항 협상안을 제시했으나, 이란이 이를 수용할지는 미지수다.",
+        "en": "The U.S. has reportedly proposed a 15-point negotiation plan to Iran, demanding the abandonment of nuclear capabilities and an end to support for Middle Eastern allies in exchange for a full lifting of sanctions, but Iran's acceptance remains uncertain.",
+        "zh": "美国据报向伊朗提出了一项15点谈判方案，要求伊朗放弃核能力并停止支持中东盟友，以换取全面解除制裁，但伊朗是否会接受仍是未知数。"
+      }
+    },
+    {
+      "title": "청와대 “중동상황 여파 최장 6개월까지 염두 대응 방안 준비” - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8517789",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 25 Mar 2026 02:57:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/03/25/20260325_qMKuHw.png",
+      "summaries": {
+        "ko": "청와대 “중동상황 여파 최장 6개월까지 염두 대응 방안 준비” - KBS 뉴스",
+        "en": "청와대 “중동상황 여파 최장 6개월까지 염두 대응 방안 준비” - KBS 뉴스",
+        "zh": "청와대 “중동상황 여파 최장 6개월까지 염두 대응 방안 준비” - KBS 뉴스"
+      }
+    },
+    {
+      "title": "트럼프 ‘종전 제안서’ 내밀었지만…지렛대 쥔 이란 ‘3번은 안 속아’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1250964.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 25 Mar 2026 03:42:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0325/53_17744033076786_4917742467689967.webp",
+      "summaries": {
+        "ko": "트럼프 ‘종전 제안서’ 내밀었지만…지렛대 쥔 이란 ‘3번은 안 속아’ - 한겨레",
+        "en": "트럼프 ‘종전 제안서’ 내밀었지만…지렛대 쥔 이란 ‘3번은 안 속아’ - 한겨레",
+        "zh": "트럼프 ‘종전 제안서’ 내밀었지만…지렛대 쥔 이란 ‘3번은 안 속아’ - 한겨레"
+      }
+    },
+    {
+      "title": "범죄도시 사탕수수밭 살인 그놈... ‘마약왕’ 박왕열 송환 - 조선일보",
+      "link": "https://www.chosun.com/national/court_law/2026/03/25/DC3PTQKRIBBULLHVF2OJAMGQQA/",
+      "source": "조선일보",
+      "pubDate": "Tue, 24 Mar 2026 22:56:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/STKGPCSUQ5AQZGWH26SZLTQGHQ.jpg?auth=d115fbba045992d26aafd1a0fa6ed5e1f78989c0247da01e97b4dad95c509e19&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "범죄도시 사탕수수밭 살인 그놈... ‘마약왕’ 박왕열 송환 - 조선일보",
+        "en": "범죄도시 사탕수수밭 살인 그놈... ‘마약왕’ 박왕열 송환 - 조선일보",
+        "zh": "범죄도시 사탕수수밭 살인 그놈... ‘마약왕’ 박왕열 송환 - 조선일보"
+      }
+    },
+    {
+      "title": "걸프만에 갇힌 3200척... 이란 “‘비적대적 선박’만 호르무즈 해협 통과 허용” - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/03/25/6XEJQI4CBRAQNDC3WIP5XCUNK4/",
+      "source": "조선일보",
+      "pubDate": "Wed, 25 Mar 2026 00:51:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/YSFYXZHP3ZODLD33KWQEKMFOCQ.jpg?auth=22f60b5e33a0a450c40908e67097b1d4a8c9e6eb0d60d7d9acb1b54c4f7a2f96&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "걸프만에 갇힌 3200척... 이란 “‘비적대적 선박’만 호르무즈 해협 통과 허용” - 조선일보",
+        "en": "걸프만에 갇힌 3200척... 이란 “‘비적대적 선박’만 호르무즈 해협 통과 허용” - 조선일보",
+        "zh": "걸프만에 갇힌 3200척... 이란 “‘비적대적 선박’만 호르무즈 해협 통과 허용” - 조선일보"
       }
     },
     {
@@ -26,42 +74,6 @@
       }
     },
     {
-      "title": "카타르, 한국 등 4개국 LNG 장기 공급 계약 ‘불가항력’ 선언 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1250953.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 24 Mar 2026 23:38:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/860/575/imgdb/original/2026/0325/20260325500012.webp",
-      "summaries": {
-        "ko": "카타르, 한국 등 4개국 LNG 장기 공급 계약 ‘불가항력’ 선언 - 한겨레",
-        "en": "카타르, 한국 등 4개국 LNG 장기 공급 계약 ‘불가항력’ 선언 - 한겨레",
-        "zh": "카타르, 한국 등 4개국 LNG 장기 공급 계약 ‘불가항력’ 선언 - 한겨레"
-      }
-    },
-    {
-      "title": "사탕수수밭 살인·호화 수감…‘필리핀 마약왕’ 박왕열 10년 만에 송환 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1250955.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 25 Mar 2026 02:43:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0325/53_17743990567686_8417743990416295.webp",
-      "summaries": {
-        "ko": "사탕수수밭 살인·호화 수감…‘필리핀 마약왕’ 박왕열 10년 만에 송환 - 한겨레",
-        "en": "사탕수수밭 살인·호화 수감…‘필리핀 마약왕’ 박왕열 10년 만에 송환 - 한겨레",
-        "zh": "사탕수수밭 살인·호화 수감…‘필리핀 마약왕’ 박왕열 10년 만에 송환 - 한겨레"
-      }
-    },
-    {
-      "title": "FT “이란, 비적대적 선박만 호르무즈 해협 통과 허용” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603250834001",
-      "source": "경향신문",
-      "pubDate": "Tue, 24 Mar 2026 23:34:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/25/news-p.v1.20260325.6a02ceb47ce34bcb9146178e0f6a0813_P1.png",
-      "summaries": {
-        "ko": "FT “이란, 비적대적 선박만 호르무즈 해협 통과 허용” - 경향신문",
-        "en": "FT “이란, 비적대적 선박만 호르무즈 해협 통과 허용” - 경향신문",
-        "zh": "FT “이란, 비적대적 선박만 호르무즈 해협 통과 허용” - 경향신문"
-      }
-    },
-    {
       "title": "與 김부겸, 국힘 대구시장 후보 8명과 양자 대결 모두 우위 [리얼미터] - 조선일보",
       "link": "https://www.chosun.com/politics/assembly/2026/03/25/WUNXQR4OG5DIHPQ5BFUPILUM5Q/",
       "source": "조선일보",
@@ -74,27 +86,15 @@
       }
     },
     {
-      "title": "이 대통령, ‘그알 보고 윤석열 뽑았다’ 글 공유하며 “조작 보도는 선거방해” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603242310001",
-      "source": "경향신문",
-      "pubDate": "Tue, 24 Mar 2026 14:10:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/24/news-p.v1.20260324.3b30382034414e7e855ef082448f1d05_P1.png",
+      "title": "아리셀 판박이…'74명 사상' 안전공업 수사 쟁점은? - 노컷뉴스",
+      "link": "https://www.nocutnews.co.kr/news/6489622",
+      "source": "노컷뉴스",
+      "pubDate": "Mon, 23 Mar 2026 20:00:00 GMT",
+      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/03/23/202603231722205804_0.jpg",
       "summaries": {
-        "ko": "이 대통령, ‘그알 보고 윤석열 뽑았다’ 글 공유하며 “조작 보도는 선거방해” - 경향신문",
-        "en": "이 대통령, ‘그알 보고 윤석열 뽑았다’ 글 공유하며 “조작 보도는 선거방해” - 경향신문",
-        "zh": "이 대통령, ‘그알 보고 윤석열 뽑았다’ 글 공유하며 “조작 보도는 선거방해” - 경향신문"
-      }
-    },
-    {
-      "title": "[속보]청와대 비상경제상황실 가동…김민석 “중동 상황 장기화 대비 정부 대응 체계 강화” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603250913011",
-      "source": "경향신문",
-      "pubDate": "Wed, 25 Mar 2026 00:13:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/25/news-p.v1.20260325.640844dc7e8041b184a4790b616e7354_P1.jpeg",
-      "summaries": {
-        "ko": "[속보]청와대 비상경제상황실 가동…김민석 “중동 상황 장기화 대비 정부 대응 체계 강화” - 경향신문",
-        "en": "[속보]청와대 비상경제상황실 가동…김민석 “중동 상황 장기화 대비 정부 대응 체계 강화” - 경향신문",
-        "zh": "[속보]청와대 비상경제상황실 가동…김민석 “중동 상황 장기화 대비 정부 대응 체계 강화” - 경향신문"
+        "ko": "아리셀 판박이…'74명 사상' 안전공업 수사 쟁점은? - 노컷뉴스",
+        "en": "아리셀 판박이…'74명 사상' 안전공업 수사 쟁점은? - 노컷뉴스",
+        "zh": "아리셀 판박이…'74명 사상' 안전공업 수사 쟁점은? - 노컷뉴스"
       }
     },
     {
@@ -110,15 +110,15 @@
       }
     },
     {
-      "title": "‘보유세 인상’도 검토… 靑, 부동산대책 강공 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260325/133600922/2",
-      "source": "동아일보",
-      "pubDate": "Tue, 24 Mar 2026 19:30:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/25/133601142.1.jpg",
+      "title": "이재명 대통령, 과거 조폭연루설 '그알' 방송에 \"민주주의 파괴\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6810007_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Tue, 24 Mar 2026 14:19:51 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/03/24/joo260324_19.jpg",
       "summaries": {
-        "ko": "‘보유세 인상’도 검토… 靑, 부동산대책 강공 - 동아일보",
-        "en": "‘보유세 인상’도 검토… 靑, 부동산대책 강공 - 동아일보",
-        "zh": "‘보유세 인상’도 검토… 靑, 부동산대책 강공 - 동아일보"
+        "ko": "이재명 대통령, 과거 조폭연루설 '그알' 방송에 \"민주주의 파괴\" - MBC 뉴스",
+        "en": "이재명 대통령, 과거 조폭연루설 '그알' 방송에 \"민주주의 파괴\" - MBC 뉴스",
+        "zh": "이재명 대통령, 과거 조폭연루설 '그알' 방송에 \"민주주의 파괴\" - MBC 뉴스"
       }
     }
   ]
