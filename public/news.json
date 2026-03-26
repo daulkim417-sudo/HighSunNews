@@ -1,16 +1,16 @@
 {
-  "lastUpdate": "2026-03-26T03:21:58.299234",
+  "lastUpdate": "2026-03-26T05:19:43.609479",
   "items": [
     {
-      "title": "이란 전쟁: 미국과의 협상 거부로 드러난, 이란의 깊은 불신 - BBC",
-      "link": "https://www.bbc.com/korean/articles/cr5160gmj14o",
-      "source": "BBC",
-      "pubDate": "Thu, 26 Mar 2026 02:34:15 GMT",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_korean/d671/live/8438bc10-2888-11f1-934f-036468834728.jpg",
+      "title": "이 대통령 “전기요금 웬만하면 유지…한전 적자 200조, 아껴 써달라” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1251184.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 26 Mar 2026 02:49:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/954/572/imgdb/child/2026/0326/53_17744920363895_20260326501533.webp",
       "summaries": {
-        "ko": "이란은 과거 협상 이후 공격이 뒤따랐던 경험으로 인해 미국에 깊은 불신을 표하며 평화 협상 주장을 부인하지만, 이러한 강경한 태도는 더 유리한 외교 조건을 얻기 위한 전술일 수 있음을 시사한다.",
-        "en": "Iran expresses deep distrust of the US, denying claims of ongoing peace talks due to past experiences where negotiations were followed by attacks, suggesting its strong rhetoric may also be a tactic to secure more favorable diplomatic terms.",
-        "zh": "伊朗对美国表现出深度不信任，否认正在进行的和平谈判，理由是过去的谈判后都发生了袭击，这表明其强硬措辞也可能是争取更有利外交条件的策略。"
+        "ko": "이재명 대통령은 중동 위기와 한국전력공사의 200조 원대 부채를 언급하며 전기요금을 웬만하면 유지하겠지만, 국민들에게 에너지 절약, 특히 전기 사용 줄이기에 동참해달라고 요청했다.",
+        "en": "President Lee Jae-myung cited the Middle East crisis and KEPCO's 200 trillion won debt, stating that electricity rates would largely be maintained but urged the public to participate in energy conservation, especially by reducing electricity consumption.",
+        "zh": "李在明总统提及中东危机和韩国电力公社高达200万亿韩元的债务，表示电费将尽量维持不变，但请求国民参与节能，特别是减少用电量。"
       }
     },
     {
@@ -26,99 +26,111 @@
       }
     },
     {
-      "title": "“아우디 살 돈으로 왜 소나타 만드냐”…비아냥 딛고 KF-21 성공 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/defense/1251135.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 26 Mar 2026 00:59:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/540/imgdb/original/2026/0325/20260325503821.webp",
-      "summaries": {
-        "ko": "“아우디 살 돈으로 왜 소나타 만드냐”…비아냥 딛고 KF-21 성공 - 한겨레",
-        "en": "“아우디 살 돈으로 왜 소나타 만드냐”…비아냥 딛고 KF-21 성공 - 한겨레",
-        "zh": "“아우디 살 돈으로 왜 소나타 만드냐”…비아냥 딛고 KF-21 성공 - 한겨레"
-      }
-    },
-    {
-      "title": "국힘 권영진 “이진숙 대구 보선 공천?…더 큰 악재될 것” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1251164.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 26 Mar 2026 02:27:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/699/imgdb/original/2026/0326/20260326501026.webp",
-      "summaries": {
-        "ko": "국힘 권영진 “이진숙 대구 보선 공천?…더 큰 악재될 것” - 한겨레",
-        "en": "국힘 권영진 “이진숙 대구 보선 공천?…더 큰 악재될 것” - 한겨레",
-        "zh": "국힘 권영진 “이진숙 대구 보선 공천?…더 큰 악재될 것” - 한겨레"
-      }
-    },
-    {
-      "title": "“미국, 이란 의회의장·외무장관 암살 표적서 일시 제외” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8518786",
-      "source": "KBS 뉴스",
-      "pubDate": "Thu, 26 Mar 2026 01:20:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/03/26/20260326_P3FaG8.png",
-      "summaries": {
-        "ko": "“미국, 이란 의회의장·외무장관 암살 표적서 일시 제외” - KBS 뉴스",
-        "en": "“미국, 이란 의회의장·외무장관 암살 표적서 일시 제외” - KBS 뉴스",
-        "zh": "“미국, 이란 의회의장·외무장관 암살 표적서 일시 제외” - KBS 뉴스"
-      }
-    },
-    {
-      "title": "‘안방’ 내준 트럼프, 조기총선 몰린 네타냐후…지지율 ‘동반 나락’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1251150.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 26 Mar 2026 02:34:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/657/imgdb/original/2026/0324/20260324501975.webp",
-      "summaries": {
-        "ko": "‘안방’ 내준 트럼프, 조기총선 몰린 네타냐후…지지율 ‘동반 나락’ - 한겨레",
-        "en": "‘안방’ 내준 트럼프, 조기총선 몰린 네타냐후…지지율 ‘동반 나락’ - 한겨레",
-        "zh": "‘안방’ 내준 트럼프, 조기총선 몰린 네타냐후…지지율 ‘동반 나락’ - 한겨레"
-      }
-    },
-    {
-      "title": "셔츠에 선글라스 꽂고 등장… 박왕열 기내서 “수갑 풀고 가면 안 돼요?” 불평 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/03/26/QXMAA3AC3JBY5ALXDJMFELTZB4/",
-      "source": "조선일보",
-      "pubDate": "Thu, 26 Mar 2026 00:23:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MJRDGOBRMMZTGMBSGJQTEYTBME.jpg?auth=67dd58f8d22121c811dd8688788db079bf20ee05b7efa30f0d02f0f260f1da92&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "셔츠에 선글라스 꽂고 등장… 박왕열 기내서 “수갑 풀고 가면 안 돼요?” 불평 - 조선일보",
-        "en": "셔츠에 선글라스 꽂고 등장… 박왕열 기내서 “수갑 풀고 가면 안 돼요?” 불평 - 조선일보",
-        "zh": "셔츠에 선글라스 꽂고 등장… 박왕열 기내서 “수갑 풀고 가면 안 돼요?” 불평 - 조선일보"
-      }
-    },
-    {
-      "title": "[속보]이 대통령 국정 지지율 69% 취임 후 최고치…민주 46%, 국힘 18%[NBS] - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603261115011",
+      "title": "이란 “호르무즈 통행료 1회 30억원”···‘안보 비용’ 대가로 징수 추진 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603261012001",
       "source": "경향신문",
-      "pubDate": "Thu, 26 Mar 2026 02:15:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/26/news-p.v1.20260326.9ba93f5dc7244407844ea8a55bff3057_P1.jpeg",
+      "pubDate": "Thu, 26 Mar 2026 01:12:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/26/rcv.YNA.20260325.PRU20260325251001009_P1.jpg",
       "summaries": {
-        "ko": "[속보]이 대통령 국정 지지율 69% 취임 후 최고치…민주 46%, 국힘 18%[NBS] - 경향신문",
-        "en": "[속보]이 대통령 국정 지지율 69% 취임 후 최고치…민주 46%, 국힘 18%[NBS] - 경향신문",
-        "zh": "[속보]이 대통령 국정 지지율 69% 취임 후 최고치…민주 46%, 국힘 18%[NBS] - 경향신문"
+        "ko": "이란 “호르무즈 통행료 1회 30억원”···‘안보 비용’ 대가로 징수 추진 - 경향신문",
+        "en": "이란 “호르무즈 통행료 1회 30억원”···‘안보 비용’ 대가로 징수 추진 - 경향신문",
+        "zh": "이란 “호르무즈 통행료 1회 30억원”···‘안보 비용’ 대가로 징수 추진 - 경향신문"
       }
     },
     {
-      "title": "“감옥서 1㎞ 떨어진 마잉푸 위쪽”···안중근 유해 위치 단서 일본 신문 첫 공개 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603260600071",
+      "title": "이란 외교장관 “미국 종전안, 흥미 없지만…최고 당국자 입장 발표는 할 것” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1251146.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 26 Mar 2026 01:23:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0326/20260326500212.webp",
+      "summaries": {
+        "ko": "이란 외교장관 “미국 종전안, 흥미 없지만…최고 당국자 입장 발표는 할 것” - 한겨레",
+        "en": "이란 외교장관 “미국 종전안, 흥미 없지만…최고 당국자 입장 발표는 할 것” - 한겨레",
+        "zh": "이란 외교장관 “미국 종전안, 흥미 없지만…최고 당국자 입장 발표는 할 것” - 한겨레"
+      }
+    },
+    {
+      "title": "김부겸 “출마 여부는 30일에”…정청래 “총리님은 공공재” 읍소 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1251194.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 26 Mar 2026 02:59:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/953/572/imgdb/child/2026/0326/53_17744935318131_20260326501738.webp",
+      "summaries": {
+        "ko": "김부겸 “출마 여부는 30일에”…정청래 “총리님은 공공재” 읍소 - 한겨레",
+        "en": "김부겸 “출마 여부는 30일에”…정청래 “총리님은 공공재” 읍소 - 한겨레",
+        "zh": "김부겸 “출마 여부는 30일에”…정청래 “총리님은 공공재” 읍소 - 한겨레"
+      }
+    },
+    {
+      "title": "주한 이란대사 “한국, 공범 되지 않길···호르무즈 해협 선박 정보 제공 요청” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603260901001",
       "source": "경향신문",
-      "pubDate": "Wed, 25 Mar 2026 21:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/26/news-p.v1.20260325.0675ad2ea9e94ce9b47007cd9fcd468e_P1.jpg",
+      "pubDate": "Thu, 26 Mar 2026 00:01:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/26/news-p.v1.20260325.f3763d01f22a46708be37f35d77a347d_P1.jpeg",
       "summaries": {
-        "ko": "“감옥서 1㎞ 떨어진 마잉푸 위쪽”···안중근 유해 위치 단서 일본 신문 첫 공개 - 경향신문",
-        "en": "“감옥서 1㎞ 떨어진 마잉푸 위쪽”···안중근 유해 위치 단서 일본 신문 첫 공개 - 경향신문",
-        "zh": "“감옥서 1㎞ 떨어진 마잉푸 위쪽”···안중근 유해 위치 단서 일본 신문 첫 공개 - 경향신문"
+        "ko": "주한 이란대사 “한국, 공범 되지 않길···호르무즈 해협 선박 정보 제공 요청” - 경향신문",
+        "en": "주한 이란대사 “한국, 공범 되지 않길···호르무즈 해협 선박 정보 제공 요청” - 경향신문",
+        "zh": "주한 이란대사 “한국, 공범 되지 않길···호르무즈 해협 선박 정보 제공 요청” - 경향신문"
       }
     },
     {
-      "title": "[단독]합수본 “전재수 받은 시계 785만원 까르띠에 발롱블루” - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260326/133610232/2",
-      "source": "동아일보",
-      "pubDate": "Wed, 25 Mar 2026 19:30:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/26/133607071.5.jpg",
+      "title": "장동혁 \"주호영, 당 위한 결정할 것…한동훈 막을 방법 없어\" - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260325173233vRT",
+      "source": "연합뉴스TV",
+      "pubDate": "Wed, 25 Mar 2026 08:32:35 GMT",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260325/AKR20260325173233vRT_01_i.jpg",
       "summaries": {
-        "ko": "[단독]합수본 “전재수 받은 시계 785만원 까르띠에 발롱블루” - 동아일보",
-        "en": "[단독]합수본 “전재수 받은 시계 785만원 까르띠에 발롱블루” - 동아일보",
-        "zh": "[단독]합수본 “전재수 받은 시계 785만원 까르띠에 발롱블루” - 동아일보"
+        "ko": "장동혁 \"주호영, 당 위한 결정할 것…한동훈 막을 방법 없어\" - 연합뉴스TV",
+        "en": "장동혁 \"주호영, 당 위한 결정할 것…한동훈 막을 방법 없어\" - 연합뉴스TV",
+        "zh": "장동혁 \"주호영, 당 위한 결정할 것…한동훈 막을 방법 없어\" - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "이 대통령 지지율 69% ‘역대 최고’…민주 46%·국힘 18% [NBS] - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1251187.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 26 Mar 2026 03:18:05 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/677/imgdb/original/2026/0322/20260322502099.webp",
+      "summaries": {
+        "ko": "이 대통령 지지율 69% ‘역대 최고’…민주 46%·국힘 18% [NBS] - 한겨레",
+        "en": "이 대통령 지지율 69% ‘역대 최고’…민주 46%·국힘 18% [NBS] - 한겨레",
+        "zh": "이 대통령 지지율 69% ‘역대 최고’…민주 46%·국힘 18% [NBS] - 한겨레"
+      }
+    },
+    {
+      "title": "종량제 봉투 사재기 마세요…정부 \"재고 3개월치 넘어 충분\" - 뉴스1",
+      "link": "https://www.news1.kr/society/environment/6113974",
+      "source": "뉴스1",
+      "pubDate": "Wed, 25 Mar 2026 09:19:24 GMT",
+      "image": "https://i3n.news1.kr/system/photos/2026/3/25/7817183/high.jpg",
+      "summaries": {
+        "ko": "종량제 봉투 사재기 마세요…정부 \"재고 3개월치 넘어 충분\" - 뉴스1",
+        "en": "종량제 봉투 사재기 마세요…정부 \"재고 3개월치 넘어 충분\" - 뉴스1",
+        "zh": "종량제 봉투 사재기 마세요…정부 \"재고 3개월치 넘어 충분\" - 뉴스1"
+      }
+    },
+    {
+      "title": "경찰, '마약왕' 박왕열 구속영장 신청…혐의 대체로 인정",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202603261418069bH",
+      "source": "Breaking News",
+      "pubDate": "Thu, 26 Mar 2026 14:18:08 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260326/AKR202603261418069bH_01_i.jpg",
+      "summaries": {
+        "ko": "경찰, '마약왕' 박왕열 구속영장 신청…혐의 대체로 인정",
+        "en": "경찰, '마약왕' 박왕열 구속영장 신청…혐의 대체로 인정",
+        "zh": "경찰, '마약왕' 박왕열 구속영장 신청…혐의 대체로 인정"
+      }
+    },
+    {
+      "title": "[속보] 유류세 인하폭 확대 \"경유 10→25%·휘발유 7→15%\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202603261403440ho",
+      "source": "Breaking News",
+      "pubDate": "Thu, 26 Mar 2026 14:03:44 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260326/AKR202603261403440ho_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] 유류세 인하폭 확대 \"경유 10→25%·휘발유 7→15%\"",
+        "en": "[속보] 유류세 인하폭 확대 \"경유 10→25%·휘발유 7→15%\"",
+        "zh": "[속보] 유류세 인하폭 확대 \"경유 10→25%·휘발유 7→15%\""
       }
     }
   ]
