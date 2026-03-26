@@ -1,52 +1,28 @@
 {
-  "lastUpdate": "2026-03-26T06:20:17.718398",
+  "lastUpdate": "2026-03-26T07:39:08.815843",
   "items": [
     {
-      "title": "이 대통령 “전기요금 웬만하면 유지…한전 부채 200조, 아껴 써달라” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1251184.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 26 Mar 2026 04:21:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/954/572/imgdb/child/2026/0326/53_17744920363895_20260326501533.webp",
-      "summaries": {
-        "ko": "이 대통령은 중동 위기로 인한 에너지 비상 상황을 언급하며, 전기요금은 웬만하면 유지하되 한국전력의 200조원 부채를 고려하여 국민의 적극적인 에너지 절약, 특히 전기 사용 줄이기에 동참해 줄 것을 요청했다.",
-        "en": "The President, citing the energy emergency caused by the Middle East crisis, announced that electricity tariffs would largely be maintained but urged the public to actively participate in energy saving, especially reducing electricity consumption, considering KEPCO's 200 trillion won debt.",
-        "zh": "总统指出中东危机造成的能源紧急状况，表示将尽可能维持电费，但考虑到韩国电力公司200万亿韩元的债务，呼吁国民积极参与节能，特别是减少用电。"
-      }
-    },
-    {
-      "title": "백악관 “이란 패배 인정 안하면 지옥 불러올 준비”…협상 위해 고위 지도자 암살 표적서 일시 제외 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603261356021",
+      "title": "주한 이란대사 “한국, 공범 되지 않길…호르무즈 해협 선박 정보 제공 요청” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603260901001",
       "source": "경향신문",
-      "pubDate": "Thu, 26 Mar 2026 04:56:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/26/news-p.v1.20260326.48cc6ddbbb534cbc929bbdb36f20cf09_P1.png",
+      "pubDate": "Thu, 26 Mar 2026 06:59:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/26/news-p.v1.20260325.f3763d01f22a46708be37f35d77a347d_P1.jpeg",
       "summaries": {
-        "ko": "백악관 “이란 패배 인정 안하면 지옥 불러올 준비”…협상 위해 고위 지도자 암살 표적서 일시 제외 - 경향신문",
-        "en": "백악관 “이란 패배 인정 안하면 지옥 불러올 준비”…협상 위해 고위 지도자 암살 표적서 일시 제외 - 경향신문",
-        "zh": "백악관 “이란 패배 인정 안하면 지옥 불러올 준비”…협상 위해 고위 지도자 암살 표적서 일시 제외 - 경향신문"
+        "ko": "주한 이란대사가 호르무즈 해협 통과를 위해 한국 선박의 사전 정보 제공을 요청하며 미국 기업과 거래하는 한국 선박의 통행은 불가능하다고 밝히고, 이 상황의 책임은 미국에 있다고 강조했다.",
+        "en": "The Iranian Ambassador to South Korea requested advance information for Korean ships to pass through the Strait of Hormuz, stated that passage would be impossible for Korean vessels dealing with U.S. companies, and emphasized that the U.S. is responsible for the current situation.",
+        "zh": "伊朗驻韩国大使要求提前提供通过霍尔木兹海峡的韩国船舶信息，表示与美国公司有交易的韩国船舶无法通行，并强调当前局势的责任在美国。"
       }
     },
     {
-      "title": "당정 “민생지원금 선별 지급... 25조 전쟁 추경은 31일 국회 제출” - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/03/26/ZJI5T2F46VFYLPC7N47ECSXYHI/",
-      "source": "조선일보",
-      "pubDate": "Thu, 26 Mar 2026 01:06:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/2DPGWJVXNVPGVBF2UIYA44A3GU.JPG?auth=3bdb6747078a9270528cf826ca45cf0800e0be1d54390ed1d644d09f26acc2d7&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "당정 “민생지원금 선별 지급... 25조 전쟁 추경은 31일 국회 제출” - 조선일보",
-        "en": "당정 “민생지원금 선별 지급... 25조 전쟁 추경은 31일 국회 제출” - 조선일보",
-        "zh": "당정 “민생지원금 선별 지급... 25조 전쟁 추경은 31일 국회 제출” - 조선일보"
-      }
-    },
-    {
-      "title": "정청래 만난 김부겸 “피하긴 힘들겠구나”…30일 출마 여부 발표 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1251194.html",
+      "title": "이란 외교장관 “미국 종전안, 흥미 없지만…최고 당국자 입장 발표는 할 것” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1251146.html",
       "source": "한겨레",
-      "pubDate": "Thu, 26 Mar 2026 02:59:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/953/572/imgdb/child/2026/0326/53_17744935318131_20260326501738.webp",
+      "pubDate": "Thu, 26 Mar 2026 01:23:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0326/20260326500212.webp",
       "summaries": {
-        "ko": "정청래 만난 김부겸 “피하긴 힘들겠구나”…30일 출마 여부 발표 - 한겨레",
-        "en": "정청래 만난 김부겸 “피하긴 힘들겠구나”…30일 출마 여부 발표 - 한겨레",
-        "zh": "정청래 만난 김부겸 “피하긴 힘들겠구나”…30일 출마 여부 발표 - 한겨레"
+        "ko": "이란 외교장관은 미국이 제안한 종전안에 흥미가 없고 협상할 의사도 없다고 밝히면서도 최고 당국자의 입장 발표 가능성을 열어두고 5가지 종전 조건을 재확인했다.",
+        "en": "Iran's Foreign Minister stated they are not interested in the U.S. proposed end-of-war plan and have no intention of negotiating, while also leaving open the possibility of a statement from top officials and reiterating five conditions for ending the war.",
+        "zh": "伊朗外交部长表示，对美国提出的终战方案不感兴趣，也无意进行谈判，但仍保留最高当局发表立场的可能性，并重申了结束战争的五项条件。"
       }
     },
     {
@@ -56,69 +32,93 @@
       "pubDate": "Thu, 26 Mar 2026 05:41:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/03/26/news-p.v1.20250515.546e55f2d8d649c9a08989f9dd7b4c40_P1.jpg",
       "summaries": {
-        "ko": "[속보]장예찬 150만원 벌금형, 선거 출마 못한다···여론조사 왜곡 홍보 유죄 - 경향신문",
-        "en": "[속보]장예찬 150만원 벌금형, 선거 출마 못한다···여론조사 왜곡 홍보 유죄 - 경향신문",
-        "zh": "[속보]장예찬 150만원 벌금형, 선거 출마 못한다···여론조사 왜곡 홍보 유죄 - 경향신문"
+        "ko": "장예찬 전 여의도연구원 부원장이 2024년 총선 당시 여론조사 결과를 왜곡 홍보한 혐의로 벌금 150만원을 선고받아 향후 5년간 선거 출마가 불가능해졌다.",
+        "en": "Jang Ye-chan, former deputy director of the Yeouido Institute, was fined 1.5 million won for distorting and promoting poll results during the 2024 general election, rendering him ineligible to run for election for the next five years.",
+        "zh": "前汝矣岛研究所副所长张艺灿因在2024年大选期间歪曲宣传民意调查结果，被判处罚款150万韩元，未来五年内将无法参加选举。"
       }
     },
     {
-      "title": "[속보] 주호영, ‘공천 배제’ 효력정지 가처분 신청 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1251221.html",
+      "title": "정청래 만난 김부겸 “피하긴 힘들겠구나”…30일 출마 여부 발표 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1251194.html",
       "source": "한겨레",
-      "pubDate": "Thu, 26 Mar 2026 05:46:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0326/20260326502494.webp",
+      "pubDate": "Thu, 26 Mar 2026 02:59:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/953/572/imgdb/child/2026/0326/53_17744935318131_20260326501738.webp",
       "summaries": {
-        "ko": "[속보] 주호영, ‘공천 배제’ 효력정지 가처분 신청 - 한겨레",
-        "en": "[속보] 주호영, ‘공천 배제’ 효력정지 가처분 신청 - 한겨레",
-        "zh": "[속보] 주호영, ‘공천 배제’ 효력정지 가처분 신청 - 한겨레"
+        "ko": "김부겸 전 국무총리가 정청래 더불어민주당 대표의 대구시장 출마 간곡한 요청을 받은 뒤 \"피하긴 힘들겠구나\"라고 밝히며 30일 출마 여부를 공식 발표하겠다고 예고, 사실상 출마를 시사했다.",
+        "en": "Former Prime Minister Kim Boo-kyum, after a meeting where Democratic Party leader Jung Chung-rae urgently requested his candidacy for Daegu Mayor, indicated he \"couldn't avoid\" the party's call and will officially announce his decision on the 30th, strongly suggesting his return to politics.",
+        "zh": "前国务总理金富谦在与共同民主党代表郑清来会面，并收到其敦促他竞选大邱市长的请求后，表示“难以避免”，并预告将于30日正式公布参选与否，实际上暗示了他将参选。"
       }
     },
     {
-      "title": "이란대사 \"한국 선박도 호르무즈 항행 불가\" 쐐기 - 노컷뉴스",
-      "link": "https://www.nocutnews.co.kr/news/6491293",
-      "source": "노컷뉴스",
-      "pubDate": "Thu, 26 Mar 2026 00:39:00 GMT",
-      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/03/26/202603260938240234_0.jpg",
+      "title": "“아우디 살 돈으로 쏘나타 만드냐”…KF-21, 이 말 쏙 들어가게 했다 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/defense/1251135.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 26 Mar 2026 02:37:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/540/imgdb/original/2026/0325/20260325503821.webp",
       "summaries": {
-        "ko": "이란대사 \"한국 선박도 호르무즈 항행 불가\" 쐐기 - 노컷뉴스",
-        "en": "이란대사 \"한국 선박도 호르무즈 항행 불가\" 쐐기 - 노컷뉴스",
-        "zh": "이란대사 \"한국 선박도 호르무즈 항행 불가\" 쐐기 - 노컷뉴스"
+        "ko": "한국은 초기 난관과 회의론에도 불구하고 4.5세대 초음속 전투기 KF-21 보라매 양산 1호기를 성공적으로 공개하며 세계 8번째 전투기 개발국으로서 자주국방의 위용을 떨쳤다.",
+        "en": "South Korea successfully unveiled its first mass-produced 4.5-generation supersonic fighter, the KF-21 Boramae, despite initial challenges and skepticism, establishing itself as the 8th country to develop such an aircraft and bolstering its self-reliant defense capabilities.",
+        "zh": "尽管面临初期挑战和质疑，韩国成功推出了其首架量产型KF-21“猎鹰”4.5代超音速战斗机，成为全球第八个开发此类飞机的国家，显著提升了其自主国防能力。"
       }
     },
     {
-      "title": "대전 공장 화재 경보 울렸다 바로 꺼져… 경찰 “대피 지연 원인” - 조선일보",
-      "link": "https://www.chosun.com/national/regional/2026/03/26/65F4ZUTNMZCV7MCRDPHVLAKOFU/",
-      "source": "조선일보",
-      "pubDate": "Thu, 26 Mar 2026 02:26:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/ZBH4LVSKTJBMBFDRIMGPCMGJKM.jpg?auth=b652e08defd3815c7c86369ab9833af2b0500a4e0565084f0ede5ef085872d5a&width=719&height=377&smart=true",
+      "title": "‘안전공업 참사’ 잠깐 울리고 꺼진 화재경보기…경찰 “대피 늦춰 인명피해 키운 핵심 요인” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/chungcheong/1251225.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 26 Mar 2026 05:52:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/581/imgdb/child/2026/0326/53_17745040800647_20260326502514.webp",
       "summaries": {
-        "ko": "대전 공장 화재 경보 울렸다 바로 꺼져… 경찰 “대피 지연 원인” - 조선일보",
-        "en": "대전 공장 화재 경보 울렸다 바로 꺼져… 경찰 “대피 지연 원인” - 조선일보",
-        "zh": "대전 공장 화재 경보 울렸다 바로 꺼져… 경찰 “대피 지연 원인” - 조선일보"
+        "ko": "대전 안전공업 참사 당시 화재경보기가 잠깐 울린 뒤 꺼져 직원들의 대피가 늦어져 인명 피해를 키운 핵심 요인으로 지목됐으며, 경찰은 경영진 6명을 출국 금지하고 위험물질 불법 취급 등 전반적인 사고 원인을 수사 중이다.",
+        "en": "Police are investigating the Daejeon Ahnjeon Industrial disaster, where a fire alarm that briefly rang and then immediately turned off is identified as a core factor that delayed evacuation and significantly increased the 14 casualties, with six executives also being barred from leaving the country amidst probes into illegal handling of hazardous materials.",
+        "zh": "大田安全工业惨案发生时，火灾警报器短暂响起随即关闭，被认为是延误员工疏散、导致伤亡人数增加的关键因素，警方正以此为核心展开调查，并对包括社长在内的6名管理人员实施了出境禁令，同时调查非法处理危险品等问题。"
       }
     },
     {
-      "title": "항공사 기장 살인 범행대상 6명이었다, 김동환 “악랄한 기득권··· 천벌 받은 것” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603261247001",
-      "source": "경향신문",
-      "pubDate": "Thu, 26 Mar 2026 03:47:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/26/news-p.v1.20260320.caa9c74a279b438abd9882b53635939d_P1.png",
+      "title": "‘6주택’ 장동혁, 4채 처분했다…실거주·지역구 아파트 남겨 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1251235.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 26 Mar 2026 06:14:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0326/53_17745052984166_20260326502691.webp",
       "summaries": {
-        "ko": "항공사 기장 살인 범행대상 6명이었다, 김동환 “악랄한 기득권··· 천벌 받은 것” - 경향신문",
-        "en": "항공사 기장 살인 범행대상 6명이었다, 김동환 “악랄한 기득권··· 천벌 받은 것” - 경향신문",
-        "zh": "항공사 기장 살인 범행대상 6명이었다, 김동환 “악랄한 기득권··· 천벌 받은 것” - 경향신문"
+        "ko": "‘6주택’ 장동혁, 4채 처분했다…실거주·지역구 아파트 남겨 - 한겨레",
+        "en": "‘6주택’ 장동혁, 4채 처분했다…실거주·지역구 아파트 남겨 - 한겨레",
+        "zh": "‘6주택’ 장동혁, 4채 처분했다…실거주·지역구 아파트 남겨 - 한겨레"
       }
     },
     {
-      "title": "경찰, \"탄핵 인용시 폭동\" 발언 황교안 내란선동 혐의 불송치",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260326151850SQB",
+      "title": "지방정부·공공기관 '차량 5부제' 엄격 관리…\"위반 시 벌칙 부과\" - 대한민국 정책브리핑",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148961528",
+      "source": "대한민국 정책브리핑",
+      "pubDate": "Thu, 26 Mar 2026 05:15:21 GMT",
+      "image": "https://www.korea.kr/newsWeb/resources/attaches/2026.03/26/fbe89212164cec9882e5b57359fc214a.jpg",
+      "summaries": {
+        "ko": "지방정부·공공기관 '차량 5부제' 엄격 관리…\"위반 시 벌칙 부과\" - 대한민국 정책브리핑",
+        "en": "지방정부·공공기관 '차량 5부제' 엄격 관리…\"위반 시 벌칙 부과\" - 대한민국 정책브리핑",
+        "zh": "지방정부·공공기관 '차량 5부제' 엄격 관리…\"위반 시 벌칙 부과\" - 대한민국 정책브리핑"
+      }
+    },
+    {
+      "title": "정부, 27일 0시부터 나프타 수출 제한",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260326163657ob7",
       "source": "Breaking News",
-      "pubDate": "Thu, 26 Mar 2026 15:18:52 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260326/AKR20260326151850SQB_01_i.jpg",
+      "pubDate": "Thu, 26 Mar 2026 16:37:19 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260326/MYH20260326163657ob7.jpg",
       "summaries": {
-        "ko": "경찰, \"탄핵 인용시 폭동\" 발언 황교안 내란선동 혐의 불송치",
-        "en": "경찰, \"탄핵 인용시 폭동\" 발언 황교안 내란선동 혐의 불송치",
-        "zh": "경찰, \"탄핵 인용시 폭동\" 발언 황교안 내란선동 혐의 불송치"
+        "ko": "정부, 27일 0시부터 나프타 수출 제한",
+        "en": "정부, 27일 0시부터 나프타 수출 제한",
+        "zh": "정부, 27일 0시부터 나프타 수출 제한"
+      }
+    },
+    {
+      "title": "내일부터 유류세 대폭 인하…휘발유 15%·경유 25%",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260326163610KPj",
+      "source": "Breaking News",
+      "pubDate": "Thu, 26 Mar 2026 16:36:41 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260326/MYH20260326163610KPj.jpg",
+      "summaries": {
+        "ko": "내일부터 유류세 대폭 인하…휘발유 15%·경유 25%",
+        "en": "내일부터 유류세 대폭 인하…휘발유 15%·경유 25%",
+        "zh": "내일부터 유류세 대폭 인하…휘발유 15%·경유 25%"
       }
     }
   ]
