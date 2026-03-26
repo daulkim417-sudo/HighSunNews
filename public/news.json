@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-26T20:28:51.501103",
+  "lastUpdate": "2026-03-26T20:57:20.682148",
   "items": [
     {
       "title": "트럼프 재촉에 이란과 ‘완전한 합의’ 없는 휴전 가능성 부상…주말 분수령 - 한겨레",
@@ -26,6 +26,30 @@
       }
     },
     {
+      "title": "캐시카우 막힌 제약사들...학회·의사회 후원도 줄어들 듯 - 메디칼타임즈",
+      "link": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1167954",
+      "source": "메디칼타임즈",
+      "pubDate": "Thu, 26 Mar 2026 20:30:00 GMT",
+      "image": "https://pds.medicaltimes.com/Thumnail/20260326/1774525153.jpg",
+      "summaries": {
+        "ko": "캐시카우 막힌 제약사들...학회·의사회 후원도 줄어들 듯 - 메디칼타임즈",
+        "en": "캐시카우 막힌 제약사들...학회·의사회 후원도 줄어들 듯 - 메디칼타임즈",
+        "zh": "캐시카우 막힌 제약사들...학회·의사회 후원도 줄어들 듯 - 메디칼타임즈"
+      }
+    },
+    {
+      "title": "정부, 31일 추경안 제출…지방·취약층 우대 ‘민생지원금’ 검토 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603262052005",
+      "source": "경향신문",
+      "pubDate": "Thu, 26 Mar 2026 11:52:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/26/l_2026032701000765000086271.jpg",
+      "summaries": {
+        "ko": "정부, 31일 추경안 제출…지방·취약층 우대 ‘민생지원금’ 검토 - 경향신문",
+        "en": "정부, 31일 추경안 제출…지방·취약층 우대 ‘민생지원금’ 검토 - 경향신문",
+        "zh": "정부, 31일 추경안 제출…지방·취약층 우대 ‘민생지원금’ 검토 - 경향신문"
+      }
+    },
+    {
       "title": "항공사 기장 살인 범행대상 4명 아닌 6명이었다…김동환 “악랄한 기득권, 천벌 받은 것” - 경향신문",
       "link": "https://www.khan.co.kr/article/202603261247001",
       "source": "경향신문",
@@ -35,30 +59,6 @@
         "ko": "항공사 기장 살인 범행대상 4명 아닌 6명이었다…김동환 “악랄한 기득권, 천벌 받은 것” - 경향신문",
         "en": "항공사 기장 살인 범행대상 4명 아닌 6명이었다…김동환 “악랄한 기득권, 천벌 받은 것” - 경향신문",
         "zh": "항공사 기장 살인 범행대상 4명 아닌 6명이었다…김동환 “악랄한 기득권, 천벌 받은 것” - 경향신문"
-      }
-    },
-    {
-      "title": "지역화폐로 민생지원금, 고유가 충격 큰 취약층-지방 중심 지급 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260327/133618603/2",
-      "source": "동아일보",
-      "pubDate": "Thu, 26 Mar 2026 19:30:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/27/133618600.3.jpg",
-      "summaries": {
-        "ko": "지역화폐로 민생지원금, 고유가 충격 큰 취약층-지방 중심 지급 - 동아일보",
-        "en": "지역화폐로 민생지원금, 고유가 충격 큰 취약층-지방 중심 지급 - 동아일보",
-        "zh": "지역화폐로 민생지원금, 고유가 충격 큰 취약층-지방 중심 지급 - 동아일보"
-      }
-    },
-    {
-      "title": "[날씨] 낮 최고 15∼25도…수도권 미세먼지 '매우 나쁨' - 연합뉴스 한민족센터",
-      "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1330308",
-      "source": "연합뉴스 한민족센터",
-      "pubDate": "Thu, 26 Mar 2026 11:00:02 GMT",
-      "image": "https://www.koreancenter.or.kr/image/logo/snslogo_20241018113332.png",
-      "summaries": {
-        "ko": "[날씨] 낮 최고 15∼25도…수도권 미세먼지 '매우 나쁨' - 연합뉴스 한민족센터",
-        "en": "[날씨] 낮 최고 15∼25도…수도권 미세먼지 '매우 나쁨' - 연합뉴스 한민족센터",
-        "zh": "[날씨] 낮 최고 15∼25도…수도권 미세먼지 '매우 나쁨' - 연합뉴스 한민족센터"
       }
     },
     {
@@ -86,6 +86,18 @@
       }
     },
     {
+      "title": "[날씨] 낮 최고 15∼25도…수도권 미세먼지 '매우 나쁨' - 연합뉴스 한민족센터",
+      "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1330308",
+      "source": "연합뉴스 한민족센터",
+      "pubDate": "Thu, 26 Mar 2026 11:00:02 GMT",
+      "image": "https://www.koreancenter.or.kr/image/logo/snslogo_20241018113332.png",
+      "summaries": {
+        "ko": "[날씨] 낮 최고 15∼25도…수도권 미세먼지 '매우 나쁨' - 연합뉴스 한민족센터",
+        "en": "[날씨] 낮 최고 15∼25도…수도권 미세먼지 '매우 나쁨' - 연합뉴스 한민족센터",
+        "zh": "[날씨] 낮 최고 15∼25도…수도권 미세먼지 '매우 나쁨' - 연합뉴스 한민족센터"
+      }
+    },
+    {
       "title": "박왕열이 ‘죽이겠다’ 협박도 했다고…“넌, 남자도 아녀” 노려본 ‘그 기자’ - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/society_general/1251201.html",
       "source": "한겨레",
@@ -98,39 +110,15 @@
       }
     },
     {
-      "title": "지방정부·공공기관 '차량 5부제' 엄격 관리…\"위반 시 벌칙 부과\" - 대한민국 정책브리핑",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148961528",
-      "source": "대한민국 정책브리핑",
-      "pubDate": "Thu, 26 Mar 2026 06:12:07 GMT",
-      "image": "https://www.korea.kr/newsWeb/resources/attaches/2026.03/26/fbe89212164cec9882e5b57359fc214a.jpg",
-      "summaries": {
-        "ko": "지방정부·공공기관 '차량 5부제' 엄격 관리…\"위반 시 벌칙 부과\" - 대한민국 정책브리핑",
-        "en": "지방정부·공공기관 '차량 5부제' 엄격 관리…\"위반 시 벌칙 부과\" - 대한민국 정책브리핑",
-        "zh": "지방정부·공공기관 '차량 5부제' 엄격 관리…\"위반 시 벌칙 부과\" - 대한민국 정책브리핑"
-      }
-    },
-    {
-      "title": "[속보] 트럼프 \"이란발전소 공격유예 4월 6일까지 연장\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260327052640qNv",
+      "title": "경찰, 김병기 차남 참고인 소환…각종 의혹 확인",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260327055212VNB",
       "source": "Breaking News",
-      "pubDate": "Fri, 27 Mar 2026 05:26:52 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260326/MYH20260327052640qNv.jpg",
+      "pubDate": "Fri, 27 Mar 2026 05:52:33 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260326/MYH20260327055212VNB.jpg",
       "summaries": {
-        "ko": "[속보] 트럼프 \"이란발전소 공격유예 4월 6일까지 연장\"",
-        "en": "[속보] 트럼프 \"이란발전소 공격유예 4월 6일까지 연장\"",
-        "zh": "[속보] 트럼프 \"이란발전소 공격유예 4월 6일까지 연장\""
-      }
-    },
-    {
-      "title": "[속보] 트럼프, 이란발전소 공격유예 연장…\"4월6일 오후 8시 시한\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260327051640E5P",
-      "source": "Breaking News",
-      "pubDate": "Fri, 27 Mar 2026 05:16:43 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260326/AKR20260327051640E5P_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 트럼프, 이란발전소 공격유예 연장…\"4월6일 오후 8시 시한\"",
-        "en": "[속보] 트럼프, 이란발전소 공격유예 연장…\"4월6일 오후 8시 시한\"",
-        "zh": "[속보] 트럼프, 이란발전소 공격유예 연장…\"4월6일 오후 8시 시한\""
+        "ko": "경찰, 김병기 차남 참고인 소환…각종 의혹 확인",
+        "en": "경찰, 김병기 차남 참고인 소환…각종 의혹 확인",
+        "zh": "경찰, 김병기 차남 참고인 소환…각종 의혹 확인"
       }
     }
   ]
