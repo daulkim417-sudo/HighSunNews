@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-26T22:51:37.000851",
+  "lastUpdate": "2026-03-26T23:19:01.610819",
   "items": [
     {
       "title": "트럼프, 이란 에너지시설 공격 중단 10일 추가 연장…“협상 순조롭다” - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Thu, 26 Mar 2026 22:22:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0327/20260327500090.webp",
       "summaries": {
-        "ko": "트럼프 대통령이 이란 에너지시설 공격 중단 기간을 10일 추가 연장하며 협상 순조로움을 주장했지만, 이란은 직접 대화와 '합의 구걸'을 부인하며 양측의 입장차와 긴장이 지속되고 있음을 드러냈다.",
-        "en": "President Trump extended the halt on attacks against Iranian energy facilities for an additional 10 days, claiming smooth negotiations, while Iran denied direct talks and \"begging\" for a deal, highlighting persistent divergence and tension.",
-        "zh": "特朗普总统以谈判进展顺利为由，将对伊朗能源设施的袭击暂停期再延长10天，而伊朗否认直接对话和“乞求”协议，凸显双方持续的分歧和紧张局势。"
+        "ko": "트럼프 대통령이 \"순조로운 협상\"을 이유로 이란 에너지 시설 공격 중단 기간을 10일 추가 연장했지만, 양측은 직접 대화를 부인하며 군사적 압박을 유지하는 가운데 간접적으로 경고와 요구를 주고받고 있다.",
+        "en": "President Trump extended the halt on attacks on Iranian energy facilities by 10 days, citing \"smooth negotiations,\" but both sides deny direct talks while exchanging warnings and demands through intermediaries amidst ongoing military pressure.",
+        "zh": "特朗普总统以“谈判顺利”为由，将暂停袭击伊朗能源设施的期限延长10天，但双方均否认直接对话，并在持续的军事压力下通过中间人交换警告和要求。"
       }
     },
     {
@@ -20,9 +20,9 @@
       "pubDate": "Thu, 26 Mar 2026 21:30:02 GMT",
       "image": "https://img2.yna.co.kr/etc/inner/KR/2026/03/26/AKR20260326015800518_12_i_P4.jpg",
       "summaries": {
-        "ko": "[팩트체크] 4월부터 감기약 먹어도 처벌된다? 약물운전 단속 대상은 - 연합뉴스",
-        "en": "[팩트체크] 4월부터 감기약 먹어도 처벌된다? 약물운전 단속 대상은 - 연합뉴스",
-        "zh": "[팩트체크] 4월부터 감기약 먹어도 처벌된다? 약물운전 단속 대상은 - 연합뉴스"
+        "ko": "4월 2일부터 약물운전 처벌이 강화되지만 감기약 자체는 단속 대상이 아니며, 마약류 등이 주요 단속 대상이나 운전에 영향을 주는 모든 약물 복용 후 운전은 금지된다.",
+        "en": "New drug-driving regulations, effective April 2nd, strengthen penalties and primarily target narcotics, clarifying that while cold medicine itself isn't a direct target, any medication impairing driving ability is prohibited.",
+        "zh": "4月2日起，药驾处罚将加强，主要针对毒品等，但明确指出感冒药本身通常并非管制对象，不过任何影响驾驶能力的药物服用后均禁止驾驶。"
       }
     },
     {
@@ -74,18 +74,6 @@
       }
     },
     {
-      "title": "지방정부·공공기관 '차량 5부제' 엄격 관리…\"위반 시 벌칙 부과\" - 대한민국 정책브리핑",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148961528",
-      "source": "대한민국 정책브리핑",
-      "pubDate": "Thu, 26 Mar 2026 06:12:07 GMT",
-      "image": "https://www.korea.kr/newsWeb/resources/attaches/2026.03/26/fbe89212164cec9882e5b57359fc214a.jpg",
-      "summaries": {
-        "ko": "지방정부·공공기관 '차량 5부제' 엄격 관리…\"위반 시 벌칙 부과\" - 대한민국 정책브리핑",
-        "en": "지방정부·공공기관 '차량 5부제' 엄격 관리…\"위반 시 벌칙 부과\" - 대한민국 정책브리핑",
-        "zh": "지방정부·공공기관 '차량 5부제' 엄격 관리…\"위반 시 벌칙 부과\" - 대한민국 정책브리핑"
-      }
-    },
-    {
       "title": "'음주폭행·체납' 이혁재, 국민의힘 '청년 오디션' 심사위원 '시끌' - 노컷뉴스",
       "link": "https://www.nocutnews.co.kr/news/6491263",
       "source": "노컷뉴스",
@@ -95,6 +83,18 @@
         "ko": "'음주폭행·체납' 이혁재, 국민의힘 '청년 오디션' 심사위원 '시끌' - 노컷뉴스",
         "en": "'음주폭행·체납' 이혁재, 국민의힘 '청년 오디션' 심사위원 '시끌' - 노컷뉴스",
         "zh": "'음주폭행·체납' 이혁재, 국민의힘 '청년 오디션' 심사위원 '시끌' - 노컷뉴스"
+      }
+    },
+    {
+      "title": "지방정부·공공기관 '차량 5부제' 엄격 관리…\"위반 시 벌칙 부과\" - 대한민국 정책브리핑",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148961528",
+      "source": "대한민국 정책브리핑",
+      "pubDate": "Thu, 26 Mar 2026 06:12:07 GMT",
+      "image": "https://www.korea.kr/newsWeb/resources/attaches/2026.03/26/fbe89212164cec9882e5b57359fc214a.jpg",
+      "summaries": {
+        "ko": "지방정부·공공기관 '차량 5부제' 엄격 관리…\"위반 시 벌칙 부과\" - 대한민국 정책브리핑",
+        "en": "지방정부·공공기관 '차량 5부제' 엄격 관리…\"위반 시 벌칙 부과\" - 대한민국 정책브리핑",
+        "zh": "지방정부·공공기관 '차량 5부제' 엄격 관리…\"위반 시 벌칙 부과\" - 대한민국 정책브리핑"
       }
     },
     {
@@ -110,15 +110,15 @@
       }
     },
     {
-      "title": "오픈AI, 전문가·투자자 난색에 '성인모드' 개발 무기한 보류",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260327073132OVj",
+      "title": "유튜브 점령한 가짜 이국종?…100만명 속인 AI 딥페이크",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202603270814375ky",
       "source": "Breaking News",
-      "pubDate": "Fri, 27 Mar 2026 07:31:33 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260326/AKR20260327073132OVj_01_i.jpg",
+      "pubDate": "Fri, 27 Mar 2026 08:14:38 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260326/AKR202603270814375ky_01_i.jpg",
       "summaries": {
-        "ko": "오픈AI, 전문가·투자자 난색에 '성인모드' 개발 무기한 보류",
-        "en": "오픈AI, 전문가·투자자 난색에 '성인모드' 개발 무기한 보류",
-        "zh": "오픈AI, 전문가·투자자 난색에 '성인모드' 개발 무기한 보류"
+        "ko": "유튜브 점령한 가짜 이국종?…100만명 속인 AI 딥페이크",
+        "en": "유튜브 점령한 가짜 이국종?…100만명 속인 AI 딥페이크",
+        "zh": "유튜브 점령한 가짜 이국종?…100만명 속인 AI 딥페이크"
       }
     }
   ]
