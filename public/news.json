@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-03-26T11:31:28.083759",
+  "lastUpdate": "2026-03-26T12:07:57.413494",
   "items": [
-    {
-      "title": "트럼프 “이란 협상 원하지만 살해 두려워 말 못해” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8519258",
-      "source": "KBS 뉴스",
-      "pubDate": "Thu, 26 Mar 2026 10:01:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsnet/2026/03/26/20_8519258.jpg",
-      "summaries": {
-        "ko": "트럼프 대통령은 이란 지도자들이 협상을 원하지만 살해될까 두려워 말하지 못한다고 주장하며 핵무기를 가진 이란을 제거해야 할 '암'으로 지칭했고, 한편 미중 정상회담은 5월에 개최될 것이라고 밝혔다.",
-        "en": "President Trump claimed Iranian leaders desire negotiations but fear expressing it due to the risk of being killed by their own people, labeling nuclear Iran a 'cancer' to be eradicated, while also announcing the US-China summit is set for May.",
-        "zh": "特朗普总统声称伊朗领导人希望谈判但因害怕被本国人民杀害而不敢表露，并将拥有核武器的伊朗称为需要清除的“癌症”，同时宣布美中峰会将于五月举行。"
-      }
-    },
     {
       "title": "이란 대사 “한국은 비적대국… 미국 주도 합의에 참여 말라” - 조선일보",
       "link": "https://www.chosun.com/international/international_general/2026/03/26/BX6PBTFALREBTHWZNVZFOS2GFY/",
@@ -26,15 +14,27 @@
       }
     },
     {
+      "title": "이 대통령, 석유비축기지 찾아 간담회…“최대한 원유 확보하고 소비 줄여야” - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8519187",
+      "source": "KBS 뉴스",
+      "pubDate": "Thu, 26 Mar 2026 08:23:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/03/26/20260326_wrXF5C.png",
+      "summaries": {
+        "ko": "이재명 대통령은 중동 전쟁 장기화에 따른 에너지 수급 문제 해결을 위해 서산 비축기지를 찾아 \"원유를 최대한 확보하고 소비를 줄여야 한다\"고 강조하며 정부의 지원과 민관 협력을 당부했습니다.",
+        "en": "President Lee Jae-myung visited the Seosan oil reserve base to address energy supply issues caused by the prolonged Middle East war, emphasizing the need to \"maximize crude oil acquisition and reduce consumption\" while urging government support and public-private cooperation.",
+        "zh": "李在明总统为解决中东战争长期化造成的能源供需问题，访问了瑞山石油储备基地，强调“应最大限度地 확보原油并减少消费”，并呼吁政府提供支持和官民合作。"
+      }
+    },
+    {
       "title": "[단독] 안전공업 ‘기름 탓 바닥 미끄러움’ 8년 연속 지적에도 시정 안 했다 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/society_general/1251297.html",
       "source": "한겨레",
       "pubDate": "Thu, 26 Mar 2026 09:20:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/852/568/imgdb/original/2026/0326/20260326503842.webp",
       "summaries": {
-        "ko": "14명의 목숨을 앗아간 안전공업 화재 참사 전, 해당 업체가 8년 연속 작업환경측정에서 '기름 탓 바닥 미끄러움'과 미흡한 환기 상태를 지적받고도 시정 조치를 하지 않은 사실이 드러났다.",
-        "en": "It has been revealed that Anjeon Industrial, where a fire disaster killed 14 workers, had continuously received and ignored warnings for 8 years about 'slippery floors due to oil' and inadequate ventilation in its workplace environment assessments prior to the tragedy.",
-        "zh": "在造成14人死亡的安全工业火灾惨案发生前，该公司被曝出连续8年在工作环境测量中收到关于‘因油污导致地面湿滑’和‘通风不良’的指摘，但却未采取任何整改措施。"
+        "ko": "[단독] 안전공업 ‘기름 탓 바닥 미끄러움’ 8년 연속 지적에도 시정 안 했다 - 한겨레",
+        "en": "[단독] 안전공업 ‘기름 탓 바닥 미끄러움’ 8년 연속 지적에도 시정 안 했다 - 한겨레",
+        "zh": "[단독] 안전공업 ‘기름 탓 바닥 미끄러움’ 8년 연속 지적에도 시정 안 했다 - 한겨레"
       }
     },
     {
@@ -44,9 +44,9 @@
       "pubDate": "Thu, 26 Mar 2026 08:14:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/03/26/news-p.v1.20260326.7d8ec156198f4a5b8c1423bd303d9248_P1.jpeg",
       "summaries": {
-        "ko": "정청래 만난 김부겸 “30일 입장 밝힌다” 출마 선언 예고…대구 지역 대대적 지원 촉구 - 경향신문",
-        "en": "정청래 만난 김부겸 “30일 입장 밝힌다” 출마 선언 예고…대구 지역 대대적 지원 촉구 - 경향신문",
-        "zh": "정청래 만난 김부겸 “30일 입장 밝힌다” 출마 선언 예고…대구 지역 대대적 지원 촉구 - 경향신문"
+        "ko": "김부겸 전 국무총리가 정청래 더불어민주당 대표와 만나 대구시장 출마를 요청받고 30일 출마 선언을 예고하며, 대구 지역에 대한 당 차원의 대대적인 지원을 촉구했다.",
+        "en": "Former Prime Minister Kim Boo-kyum met with Democratic Party leader Jeong Cheong-rae, was urged to run for Daegu mayor, and announced he would declare his candidacy on the 30th, while calling for extensive party support for the Daegu region.",
+        "zh": "前国务总理金富谦与共同民主党代表郑清来会面，在收到参选大邱市长的请求后，预告将于30日宣布参选，并呼吁党派对大邱地区提供大规模支持。"
       }
     },
     {
@@ -56,9 +56,9 @@
       "pubDate": "Wed, 25 Mar 2026 23:47:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0326/20260326500330.webp",
       "summaries": {
-        "ko": "이스라엘 “트럼프, 조기 휴전 가능성”…단기 군사성과 내기 총력 - 한겨레",
-        "en": "이스라엘 “트럼프, 조기 휴전 가능성”…단기 군사성과 내기 총력 - 한겨레",
-        "zh": "이스라엘 “트럼프, 조기 휴전 가능성”…단기 군사성과 내기 총력 - 한겨레"
+        "ko": "미국이 이란과의 '원칙적 합의'를 명분으로 조기 휴전을 선언할 가능성을 우려한 이스라엘이 단기간 내 이란 방산업체 파괴 등 군사 성과 극대화에 총력을 기울이고 있다.",
+        "en": "Fearing a potential early ceasefire declaration by the US based on a 'principle agreement' with Iran, Israel is making an all-out effort to maximize short-term military achievements, including destroying Iranian defense industries.",
+        "zh": "由于担心美国可能以与伊朗达成“原则性协议”为由提前宣布停火，以色列正全力在短期内最大化军事成果，包括摧毁伊朗国防工业。"
       }
     },
     {
@@ -98,39 +98,27 @@
       }
     },
     {
-      "title": "경찰 “항공사 기장 살해범 김동환, 6명 살해 계획”…운항정보도 확인 - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260326/133613197/2",
-      "source": "동아일보",
-      "pubDate": "Thu, 26 Mar 2026 02:39:08 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/26/133613198.2.jpg",
+      "title": "경찰, 기장 살해범 김동환 \"검거 안 됐으면 추가 범행했을 것\" - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260326092900051",
+      "source": "연합뉴스",
+      "pubDate": "Thu, 26 Mar 2026 02:41:48 GMT",
+      "image": "https://img5.yna.co.kr/photo/yna/YH/2026/03/26/PYH2026032604840005100_P4.jpg",
       "summaries": {
-        "ko": "경찰 “항공사 기장 살해범 김동환, 6명 살해 계획”…운항정보도 확인 - 동아일보",
-        "en": "경찰 “항공사 기장 살해범 김동환, 6명 살해 계획”…운항정보도 확인 - 동아일보",
-        "zh": "경찰 “항공사 기장 살해범 김동환, 6명 살해 계획”…운항정보도 확인 - 동아일보"
+        "ko": "경찰, 기장 살해범 김동환 \"검거 안 됐으면 추가 범행했을 것\" - 연합뉴스",
+        "en": "경찰, 기장 살해범 김동환 \"검거 안 됐으면 추가 범행했을 것\" - 연합뉴스",
+        "zh": "경찰, 기장 살해범 김동환 \"검거 안 됐으면 추가 범행했을 것\" - 연합뉴스"
       }
     },
     {
-      "title": "‘어묵 1개 3000원?’ 진해군항제, 이런 바가지요금 한번만 걸려도 ‘즉시 퇴출’ - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603261526001",
+      "title": "‘강등’ 정유미 검사장, 첫 변론서 정성호 장관 직격…“인사로 검사들 침묵시켜” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603261649011",
       "source": "경향신문",
-      "pubDate": "Thu, 26 Mar 2026 06:26:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/26/news-p.v1.20260326.c8dfc71869f044a882bbcbe7f0040e12_P1.jpg",
+      "pubDate": "Thu, 26 Mar 2026 07:49:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/26/rcv.YNA.20260326.PYH2026032616520001300_P1.jpg",
       "summaries": {
-        "ko": "‘어묵 1개 3000원?’ 진해군항제, 이런 바가지요금 한번만 걸려도 ‘즉시 퇴출’ - 경향신문",
-        "en": "‘어묵 1개 3000원?’ 진해군항제, 이런 바가지요금 한번만 걸려도 ‘즉시 퇴출’ - 경향신문",
-        "zh": "‘어묵 1개 3000원?’ 진해군항제, 이런 바가지요금 한번만 걸려도 ‘즉시 퇴출’ - 경향신문"
-      }
-    },
-    {
-      "title": "[속보] 2차 석유 최고가 휘발유 1,934원·경유 1,923원",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260326200932iPR",
-      "source": "Breaking News",
-      "pubDate": "Thu, 26 Mar 2026 20:09:58 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260326/MYH20260326200932iPR.jpg",
-      "summaries": {
-        "ko": "[속보] 2차 석유 최고가 휘발유 1,934원·경유 1,923원",
-        "en": "[속보] 2차 석유 최고가 휘발유 1,934원·경유 1,923원",
-        "zh": "[속보] 2차 석유 최고가 휘발유 1,934원·경유 1,923원"
+        "ko": "‘강등’ 정유미 검사장, 첫 변론서 정성호 장관 직격…“인사로 검사들 침묵시켜” - 경향신문",
+        "en": "‘강등’ 정유미 검사장, 첫 변론서 정성호 장관 직격…“인사로 검사들 침묵시켜” - 경향신문",
+        "zh": "‘강등’ 정유미 검사장, 첫 변론서 정성호 장관 직격…“인사로 검사들 침묵시켜” - 경향신문"
       }
     }
   ]
