@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-27T14:43:32.886836",
+  "lastUpdate": "2026-03-27T15:36:09.302087",
   "items": [
     {
       "title": "[단독] 천안함 유족 “北 사과 받아달라”... 李 “사과하란다고 하겠습니까” - 조선일보",
@@ -20,21 +20,9 @@
       "pubDate": "Fri, 27 Mar 2026 08:31:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/03/27/news-p.v1.20260327.ec43c536ff2a4b46878879378d7ae4b2_P1.png",
       "summaries": {
-        "ko": "이란이 호르무즈 해협에 '톨게이트'를 설치하고 혁명수비대 심사와 호위 조건으로 선박 통행료를 중국 위안화로 징수하고 있어 국제법 위반 및 경제 테러라는 비판에 직면했다.",
-        "en": "Iran has established a 'tollgate' in the Strait of Hormuz, charging ships transit fees in Chinese Yuan for IRGC vetting and escort, facing criticism for violating international law and committing economic terrorism.",
-        "zh": "伊朗在霍尔木兹海峡设立“收费站”，以伊斯兰革命卫队的审查和护航为条件，向过往船只征收人民币通行费，此举正面临违反国际法和构成经济恐怖主义的批评。"
-      }
-    },
-    {
-      "title": "이 대통령 \"한미동맹 과도한 의존 금물‥전작권 회복 조속히 추진\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6810791_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Fri, 27 Mar 2026 07:30:58 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/03/27/hye_20260327_11.jpg",
-      "summaries": {
-        "ko": "이 대통령 \"한미동맹 과도한 의존 금물‥전작권 회복 조속히 추진\" - MBC 뉴스",
-        "en": "이 대통령 \"한미동맹 과도한 의존 금물‥전작권 회복 조속히 추진\" - MBC 뉴스",
-        "zh": "이 대통령 \"한미동맹 과도한 의존 금물‥전작권 회복 조속히 추진\" - MBC 뉴스"
+        "ko": "이란이 호르무즈 해협 통과 선박에 혁명수비대 호위 명목으로 중국 위안화로 통행료를 징수하며 통제권을 강화하려 하자, 국제법 위반 및 '경제 테러'라는 비판이 제기되고 있다.",
+        "en": "Iran is reportedly charging tolls in Chinese yuan for ships passing through the Strait of Hormuz under the escort of its Revolutionary Guard, aiming to strengthen its control, drawing criticism for violating international law and being labeled 'economic terrorism'.",
+        "zh": "据报道，伊朗正向通过霍尔木兹海峡的船只收取人民币通行费，并由其革命卫队护航，此举旨在加强其对海峡的控制，引发了违反国际法和“经济恐怖主义”的批评。"
       }
     },
     {
@@ -74,51 +62,63 @@
       }
     },
     {
-      "title": "‘74명 사상 참사’ 안전공업, ‘김앤장’ 방패 세웠다 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603271544001",
-      "source": "경향신문",
-      "pubDate": "Fri, 27 Mar 2026 06:44:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/27/news-p.v1.20260327.84e8f87dccce43bba3c47adb6d1dcab1_P1.jpeg",
+      "title": "李 “‘서강대교 넘지말라’ 조성현 대령, 본인이 특진 사양…진정한 참군인” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260327/133623976/2",
+      "source": "동아일보",
+      "pubDate": "Fri, 27 Mar 2026 08:22:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/27/133623990.3.jpg",
       "summaries": {
-        "ko": "‘74명 사상 참사’ 안전공업, ‘김앤장’ 방패 세웠다 - 경향신문",
-        "en": "‘74명 사상 참사’ 안전공업, ‘김앤장’ 방패 세웠다 - 경향신문",
-        "zh": "‘74명 사상 참사’ 안전공업, ‘김앤장’ 방패 세웠다 - 경향신문"
+        "ko": "李 “‘서강대교 넘지말라’ 조성현 대령, 본인이 특진 사양…진정한 참군인” - 동아일보",
+        "en": "李 “‘서강대교 넘지말라’ 조성현 대령, 본인이 특진 사양…진정한 참군인” - 동아일보",
+        "zh": "李 “‘서강대교 넘지말라’ 조성현 대령, 본인이 특진 사양…진정한 참군인” - 동아일보"
       }
     },
     {
-      "title": "이 대통령 “‘서강대교 넘지말라’했던 조성현 대령, 특진 사양해 장군 진급 못 시켜” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603271948001",
-      "source": "경향신문",
-      "pubDate": "Fri, 27 Mar 2026 10:48:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/27/news-p.v1.20260327.61f898d686364734a1fac477f2462959_P1.jpeg",
+      "title": "李대통령 \"쓰다만 소설\"…'조폭연루설' 연일 비판 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260327074800001",
+      "source": "연합뉴스",
+      "pubDate": "Fri, 27 Mar 2026 02:45:40 GMT",
+      "image": "https://img8.yna.co.kr/photo/yna/YH/2026/03/24/PYH2026032407880001300_P4.jpg",
       "summaries": {
-        "ko": "이 대통령 “‘서강대교 넘지말라’했던 조성현 대령, 특진 사양해 장군 진급 못 시켜” - 경향신문",
-        "en": "이 대통령 “‘서강대교 넘지말라’했던 조성현 대령, 특진 사양해 장군 진급 못 시켜” - 경향신문",
-        "zh": "이 대통령 “‘서강대교 넘지말라’했던 조성현 대령, 특진 사양해 장군 진급 못 시켜” - 경향신문"
+        "ko": "이재명 대통령은 자신을 향한 '조폭 연루설'을 \"스토리라인이 부실한 쓰다만 소설\"이라고 비판하며, 조작 폭로 방송의 반성과 사과를 거듭 요구했다.",
+        "en": "President Lee Jae-myung criticized the 'gang involvement rumors' against him as an \"unfinished novel\" with a poor storyline, reiterating his demand for reflection and apology from the manipulative broadcast that exposed it.",
+        "zh": "李在明总统批评针对自己的“黑帮牵连说”是“剧本薄弱的未完小说”，并再次要求相关操控性爆料媒体进行反省和道歉。"
       }
     },
     {
-      "title": "“주호영 우수하니 다른 훌륭한 일에…이정현의 해괴망측한 논리” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1251471.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 27 Mar 2026 12:15:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/549/imgdb/original/2026/0327/20260327502016.webp",
+      "title": "울산 택배기사 분신 뒤엔…기사 수백명 불법 알고도 1000억원대 탈루 - 조선일보",
+      "link": "https://www.chosun.com/national/regional/2026/03/27/SVYLMMHFSRALPNP3NFTFBS2SFY/",
+      "source": "조선일보",
+      "pubDate": "Fri, 27 Mar 2026 11:16:47 GMT",
+      "image": "https://www.chosun.com/resizer/v2/Q6VLXVGNA5OBJAOBDJGSE3GEUA.jpg?auth=c88628e9e3c2e843caa6882376c1dfce37bbfab2d1b103fe9c3a98585a94c082&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "“주호영 우수하니 다른 훌륭한 일에…이정현의 해괴망측한 논리” - 한겨레",
-        "en": "“주호영 우수하니 다른 훌륭한 일에…이정현의 해괴망측한 논리” - 한겨레",
-        "zh": "“주호영 우수하니 다른 훌륭한 일에…이정현의 해괴망측한 논리” - 한겨레"
+        "ko": "울산 택배기사 분신 뒤엔…기사 수백명 불법 알고도 1000억원대 탈루 - 조선일보",
+        "en": "울산 택배기사 분신 뒤엔…기사 수백명 불법 알고도 1000억원대 탈루 - 조선일보",
+        "zh": "울산 택배기사 분신 뒤엔…기사 수백명 불법 알고도 1000억원대 탈루 - 조선일보"
       }
     },
     {
-      "title": "[날씨] 주말 맑고 건조한 봄…고농도 미세먼지 주의",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260327233753iUx",
+      "title": "러시아 외무부 장관 \"미국, 노르트스트림 장악하겠다고 공언\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260327235809N1X",
       "source": "Breaking News",
-      "pubDate": "Fri, 27 Mar 2026 23:38:12 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260327/MYH20260327233753iUx.jpg",
+      "pubDate": "Fri, 27 Mar 2026 23:58:11 +0900",
+      "image": "https://www.yonhapnewstv.co.kr/asset/img/common/favicon.png",
       "summaries": {
-        "ko": "[날씨] 주말 맑고 건조한 봄…고농도 미세먼지 주의",
-        "en": "[날씨] 주말 맑고 건조한 봄…고농도 미세먼지 주의",
-        "zh": "[날씨] 주말 맑고 건조한 봄…고농도 미세먼지 주의"
+        "ko": "러시아 외무부 장관 \"미국, 노르트스트림 장악하겠다고 공언\"",
+        "en": "러시아 외무부 장관 \"미국, 노르트스트림 장악하겠다고 공언\"",
+        "zh": "러시아 외무부 장관 \"미국, 노르트스트림 장악하겠다고 공언\""
+      }
+    },
+    {
+      "title": "\"미국, 이란에 지뢰 투하한 듯…사실이면 실전 사용 20여 년 만\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260327235436mno",
+      "source": "Breaking News",
+      "pubDate": "Fri, 27 Mar 2026 23:54:38 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260327/AKR20260327235436mno_01_i.jpg",
+      "summaries": {
+        "ko": "미국이 이란 남부 주거 지역에 자국 'BLU-91/B' 대전차 지뢰를 투하한 것으로 보인다고 워싱턴포스트가 보도했으며, 이는 20여 년 만의 실전 사용 가능성과 민간인 피해 우려를 낳고 있다.",
+        "en": "The Washington Post reported that the U.S. appears to have dropped its 'BLU-91/B' anti-tank mines in residential areas of southern Iran, raising concerns about potential civilian casualties as it would mark the first combat use in over 20 years.",
+        "zh": "华盛顿邮报报道称，美国似乎在伊朗南部居民区投下了其“BLU-91/B”反坦克地雷，这可能是美国20多年来首次在实战中使用此类武器，引发了对平民伤亡的担忧。"
       }
     }
   ]
