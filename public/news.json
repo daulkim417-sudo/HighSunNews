@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-03-27T20:58:31.163295",
+  "lastUpdate": "2026-03-27T21:29:35.579839",
   "items": [
-    {
-      "title": "낮 최고 23도로 따뜻…짙은 안개·미세먼지 주의 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260328008000034",
-      "source": "연합뉴스",
-      "pubDate": "Fri, 27 Mar 2026 20:31:55 GMT",
-      "image": "https://img6.yna.co.kr/photo/yna/YH/2026/03/27/PYH2026032703500006500_P4.jpg",
-      "summaries": {
-        "ko": "낮 최고 23도로 따뜻…짙은 안개·미세먼지 주의 - 연합뉴스",
-        "en": "낮 최고 23도로 따뜻…짙은 안개·미세먼지 주의 - 연합뉴스",
-        "zh": "낮 최고 23도로 따뜻…짙은 안개·미세먼지 주의 - 연합뉴스"
-      }
-    },
     {
       "title": "트럼프, 이란 에너지시설 공격 중단 10일 추가 연장…“협상 순조롭다” - 한겨레",
       "link": "https://www.hani.co.kr/arti/international/america/1251380.html",
@@ -20,9 +8,33 @@
       "pubDate": "Fri, 27 Mar 2026 06:09:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0327/20260327500090.webp",
       "summaries": {
-        "ko": "트럼프, 이란 에너지시설 공격 중단 10일 추가 연장…“협상 순조롭다” - 한겨레",
-        "en": "트럼프, 이란 에너지시설 공격 중단 10일 추가 연장…“협상 순조롭다” - 한겨레",
-        "zh": "트럼프, 이란 에너지시설 공격 중단 10일 추가 연장…“협상 순조롭다” - 한겨레"
+        "ko": "트럼프 대통령이 이란과의 '순조로운 협상'을 이유로 이란 에너지 시설 공격 중단 기간을 10일 추가 연장했으나, 이란은 직접 협상을 부인하며 양측의 군사적 긴장과 요구는 여전히 첨예하다.",
+        "en": "President Trump extended the halt on attacks against Iranian energy facilities by 10 days, citing 'smooth negotiations,' even though Iran denies direct talks and both sides continue to maintain military pressure and exchange strong demands.",
+        "zh": "特朗普总统以与伊朗的“顺利谈判”为由，将暂停攻击伊朗能源设施的期限额外延长10天，但伊朗否认直接对话，双方的军事紧张局势和要求仍然尖锐。"
+      }
+    },
+    {
+      "title": "부산·울산·경남 낮 최고 20∼24도…미세먼지 '보통' - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260328010400051",
+      "source": "연합뉴스",
+      "pubDate": "Fri, 27 Mar 2026 21:18:18 GMT",
+      "image": "https://img7.yna.co.kr/photo/yna/YH/2022/07/07/PYH2022070703010005100_P4.jpg",
+      "summaries": {
+        "ko": "28일 부산·울산·경남 지역은 낮 최고기온이 20~24도로 평년보다 높겠고 미세먼지는 '보통' 수준을 보이며, 내륙에 큰 일교차가 예상되는 가운데 30일부터 비가 내리겠다.",
+        "en": "On October 28th, Busan, Ulsan, and Gyeongnam will experience high temperatures of 20-24°C, which are higher than average, with 'normal' fine dust levels, a large diurnal temperature range in inland areas, and rain expected from October 30th.",
+        "zh": "10月28日，釜山、蔚山、庆南地区白天最高气温为20-24°C，高于往年平均水平，细颗粒物浓度为“普通”，内陆地区昼夜温差大，并预计从10月30日起降雨。"
+      }
+    },
+    {
+      "title": "이란 매체 “호르무즈 통행료 수입 연간 150조원 넘을 것” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603272237001",
+      "source": "경향신문",
+      "pubDate": "Fri, 27 Mar 2026 13:37:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/27/news-p.v1.20260327.7e9909bce41549289cce91246ae5fa97_P1.png",
+      "summaries": {
+        "ko": "이란 매체 “호르무즈 통행료 수입 연간 150조원 넘을 것” - 경향신문",
+        "en": "이란 매체 “호르무즈 통행료 수입 연간 150조원 넘을 것” - 경향신문",
+        "zh": "이란 매체 “호르무즈 통행료 수입 연간 150조원 넘을 것” - 경향신문"
       }
     },
     {
@@ -38,87 +50,75 @@
       }
     },
     {
-      "title": "다주택 청와대 참모들 “집 빨리 팔자”…매물 잇따라 내놓는 이유는 - 매일경제",
-      "link": "https://www.mk.co.kr/news/realestate/11999956",
-      "source": "매일경제",
-      "pubDate": "Fri, 27 Mar 2026 00:13:13 GMT",
-      "image": "https://pimg.mk.co.kr/news/cms/202603/27/news-p.v1.20260327.8e6ebf5b298148e8a844b3322c4de71c_R.jpeg",
+      "title": "남부지방 곳곳 벚꽃 펴…토요일도 포근하지만 미세먼지 많아 - segye.com",
+      "link": "https://www.segye.com/newsView/20260327513980",
+      "source": "segye.com",
+      "pubDate": "Fri, 27 Mar 2026 08:32:51 GMT",
+      "image": "https://www.segye.com/content/image/2026/03/27/20260327514099.jpg",
       "summaries": {
-        "ko": "다주택 청와대 참모들 “집 빨리 팔자”…매물 잇따라 내놓는 이유는 - 매일경제",
-        "en": "다주택 청와대 참모들 “집 빨리 팔자”…매물 잇따라 내놓는 이유는 - 매일경제",
-        "zh": "다주택 청와대 참모들 “집 빨리 팔자”…매물 잇따라 내놓는 이유는 - 매일경제"
+        "ko": "남부지방 곳곳 벚꽃 펴…토요일도 포근하지만 미세먼지 많아 - segye.com",
+        "en": "남부지방 곳곳 벚꽃 펴…토요일도 포근하지만 미세먼지 많아 - segye.com",
+        "zh": "남부지방 곳곳 벚꽃 펴…토요일도 포근하지만 미세먼지 많아 - segye.com"
       }
     },
     {
-      "title": "선거 두달앞 국힘 지지율 10%대 첫 추락… 與는 영남 공천 속도전 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260328/133626917/2",
+      "title": "[단독] 부동산 정책 세울 때 관련 부처 ‘다주택 과장급’까지 배제 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1251376.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 27 Mar 2026 01:32:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/718/451/imgdb/original/2026/0326/20260326504409.webp",
+      "summaries": {
+        "ko": "이재명 대통령의 지시에 따라 청와대가 국토교통부, 재정경제부 등 관련 부처의 다주택자 과장급 공무원까지 부동산 정책 입안 과정에서 배제하는 방안을 검토 중이다.",
+        "en": "Following President Lee Jae-myung's directive, Cheong Wa Dae is considering excluding multi-homeowner manager-level officials from related ministries such as the Ministry of Land, Infrastructure and Transport and the Ministry of Finance and Economy from the real estate policy-making process.",
+        "zh": "根据李在明总统的指示，青瓦台正在考虑将国土交通部、财政经济部等相关部门的多套住房拥有者科长级公务员排除在房地产政策制定过程之外。"
+      }
+    },
+    {
+      "title": "지선 두달앞 국힘 지지율, 장동혁 취임후 10%대 첫 추락 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260327/133623092/1",
       "source": "동아일보",
-      "pubDate": "Fri, 27 Mar 2026 16:40:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/28/133623886.5.jpg",
+      "pubDate": "Fri, 27 Mar 2026 11:47:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/27/133378888.1.jpg",
       "summaries": {
-        "ko": "선거 두달앞 국힘 지지율 10%대 첫 추락… 與는 영남 공천 속도전 - 동아일보",
-        "en": "선거 두달앞 국힘 지지율 10%대 첫 추락… 與는 영남 공천 속도전 - 동아일보",
-        "zh": "선거 두달앞 국힘 지지율 10%대 첫 추락… 與는 영남 공천 속도전 - 동아일보"
+        "ko": "지선 두달앞 국힘 지지율, 장동혁 취임후 10%대 첫 추락 - 동아일보",
+        "en": "지선 두달앞 국힘 지지율, 장동혁 취임후 10%대 첫 추락 - 동아일보",
+        "zh": "지선 두달앞 국힘 지지율, 장동혁 취임후 10%대 첫 추락 - 동아일보"
       }
     },
     {
-      "title": "李대통령 \"쓰다만 소설\"…'조폭연루설' 연일 비판 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260327074800001",
-      "source": "연합뉴스",
-      "pubDate": "Fri, 27 Mar 2026 02:45:40 GMT",
-      "image": "https://img8.yna.co.kr/photo/yna/YH/2026/03/24/PYH2026032407880001300_P4.jpg",
+      "title": "기획처, '아미 타이거' 부대 점검…\"첨단 전력에 예산 재배분\" - 연합뉴스 한민족센터",
+      "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1330796",
+      "source": "연합뉴스 한민족센터",
+      "pubDate": "Fri, 27 Mar 2026 08:30:00 GMT",
+      "image": "https://www.koreancenter.or.kr/image/logo/snslogo_20241018113332.png",
       "summaries": {
-        "ko": "李대통령 \"쓰다만 소설\"…'조폭연루설' 연일 비판 - 연합뉴스",
-        "en": "李대통령 \"쓰다만 소설\"…'조폭연루설' 연일 비판 - 연합뉴스",
-        "zh": "李대통령 \"쓰다만 소설\"…'조폭연루설' 연일 비판 - 연합뉴스"
+        "ko": "기획처, '아미 타이거' 부대 점검…\"첨단 전력에 예산 재배분\" - 연합뉴스 한민족센터",
+        "en": "기획처, '아미 타이거' 부대 점검…\"첨단 전력에 예산 재배분\" - 연합뉴스 한민족센터",
+        "zh": "기획처, '아미 타이거' 부대 점검…\"첨단 전력에 예산 재배분\" - 연합뉴스 한민족센터"
       }
     },
     {
-      "title": "\"제2의 대전공장 화재 막는다\" - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "link": "https://www.korea.kr/multi/visualNewsView.do?newsId=148961601",
-      "source": "대한민국 정책브리핑",
-      "pubDate": "Fri, 27 Mar 2026 05:15:18 GMT",
-      "image": "https://www.korea.kr/newsWeb/resources/attaches/2026.03/27/9d86928486e3cef895d9522d894c5703.jpg",
-      "summaries": {
-        "ko": "\"제2의 대전공장 화재 막는다\" - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-        "en": "\"제2의 대전공장 화재 막는다\" - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-        "zh": "\"제2의 대전공장 화재 막는다\" - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑"
-      }
-    },
-    {
-      "title": "전쟁 장기화 우려에 뉴욕증시 3대지수 일제히 하락…다우도 조정구간",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260328051805OqN",
+      "title": "[속보]  \"타이거 우즈, '음주 또는 약물운전 혐의' 체포 후 구금\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260328061618V8S",
       "source": "Breaking News",
-      "pubDate": "Sat, 28 Mar 2026 05:18:07 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260327/AKR20260328051805OqN_01_i.jpg",
+      "pubDate": "Sat, 28 Mar 2026 06:16:19 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260327/AKR20260328061618V8S_01_i.jpg",
       "summaries": {
-        "ko": "전쟁 장기화 우려에 뉴욕증시 3대지수 일제히 하락…다우도 조정구간",
-        "en": "전쟁 장기화 우려에 뉴욕증시 3대지수 일제히 하락…다우도 조정구간",
-        "zh": "전쟁 장기화 우려에 뉴욕증시 3대지수 일제히 하락…다우도 조정구간"
+        "ko": "[속보]  \"타이거 우즈, '음주 또는 약물운전 혐의' 체포 후 구금\"",
+        "en": "[속보]  \"타이거 우즈, '음주 또는 약물운전 혐의' 체포 후 구금\"",
+        "zh": "[속보]  \"타이거 우즈, '음주 또는 약물운전 혐의' 체포 후 구금\""
       }
     },
     {
-      "title": "유엔, 호르무즈 봉쇄 대응 TF 구성…인도주의적 문제 대응",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202603280510318H1",
+      "title": "[알아BIO] 코스닥 주도주 된 제약바이오…마냥 웃을 수는 없다?",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260327162401MBd",
       "source": "Breaking News",
-      "pubDate": "Sat, 28 Mar 2026 05:10:34 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260327/AKR202603280510318H1_01_i.jpg",
+      "pubDate": "Sat, 28 Mar 2026 06:00:15 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260327/AKR20260327162401MBd_01_i.jpg",
       "summaries": {
-        "ko": "유엔, 호르무즈 봉쇄 대응 TF 구성…인도주의적 문제 대응",
-        "en": "유엔, 호르무즈 봉쇄 대응 TF 구성…인도주의적 문제 대응",
-        "zh": "유엔, 호르무즈 봉쇄 대응 TF 구성…인도주의적 문제 대응"
-      }
-    },
-    {
-      "title": "미 국무 \"이란전 몇 주 내 종료될 것\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202603280210073Eo",
-      "source": "Breaking News",
-      "pubDate": "Sat, 28 Mar 2026 02:10:08 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260327/AKR202603280210073Eo_01_i.jpg",
-      "summaries": {
-        "ko": "미 국무 \"이란전 몇 주 내 종료될 것\"",
-        "en": "미 국무 \"이란전 몇 주 내 종료될 것\"",
-        "zh": "미 국무 \"이란전 몇 주 내 종료될 것\""
+        "ko": "[알아BIO] 코스닥 주도주 된 제약바이오…마냥 웃을 수는 없다?",
+        "en": "[알아BIO] 코스닥 주도주 된 제약바이오…마냥 웃을 수는 없다?",
+        "zh": "[알아BIO] 코스닥 주도주 된 제약바이오…마냥 웃을 수는 없다?"
       }
     }
   ]
