@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-28T23:17:07.393216",
+  "lastUpdate": "2026-03-28T23:48:03.108795",
   "items": [
     {
       "title": "친이란 ‘후티 반군’ 참전 공식화…호르무즈 이어 홍해 봉쇄 긴장 - 한겨레",
@@ -8,21 +8,45 @@
       "pubDate": "Sat, 28 Mar 2026 11:23:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/669/446/imgdb/original/2026/0328/20260328500547.webp",
       "summaries": {
-        "ko": "친이란 ‘후티 반군’ 참전 공식화…호르무즈 이어 홍해 봉쇄 긴장 - 한겨레",
-        "en": "친이란 ‘후티 반군’ 참전 공식화…호르무즈 이어 홍해 봉쇄 긴장 - 한겨레",
-        "zh": "친이란 ‘후티 반군’ 참전 공식화…호르무즈 이어 홍해 봉쇄 긴장 - 한겨레"
+        "ko": "예멘의 친이란 후티 반군이 이스라엘에 미사일 공격을 감행하며 전쟁 참전을 공식화했고, 이는 글로벌 물류 및 에너지 시스템에 영향을 미치는 경제 전쟁으로 확전될 수 있다는 분석이 나온다.",
+        "en": "Yemen's pro-Iranian Houthi rebels officially declared their participation in the war by launching missile attacks on Israel, leading to analyses that this could escalate into an economic war affecting global logistics and energy systems.",
+        "zh": "也门亲伊朗胡塞武装向以色列发射导弹，正式宣布参战，有分析认为这可能升级为影响全球物流和能源系统的经济战争。"
       }
     },
     {
-      "title": "민주당 총력 설득 끝 등판…김부겸, 대구 선거판 흔드나 - yna.co.kr",
+      "title": "민주당 총력 설득 끝 등판…김부겸, 대구 선거판 흔드나 - 연합뉴스",
       "link": "https://www.yna.co.kr/view/AKR20260327144600053",
-      "source": "yna.co.kr",
+      "source": "연합뉴스",
       "pubDate": "Sat, 28 Mar 2026 21:01:12 GMT",
       "image": "https://img8.yna.co.kr/photo/yna/YH/2026/03/26/PYH2026032610600001300_P4.jpg",
       "summaries": {
-        "ko": "민주당 총력 설득 끝 등판…김부겸, 대구 선거판 흔드나 - yna.co.kr",
-        "en": "민주당 총력 설득 끝 등판…김부겸, 대구 선거판 흔드나 - yna.co.kr",
-        "zh": "민주당 총력 설득 끝 등판…김부겸, 대구 선거판 흔드나 - yna.co.kr"
+        "ko": "민주당 총력 설득 끝 등판…김부겸, 대구 선거판 흔드나 - 연합뉴스",
+        "en": "민주당 총력 설득 끝 등판…김부겸, 대구 선거판 흔드나 - 연합뉴스",
+        "zh": "민주당 총력 설득 끝 등판…김부겸, 대구 선거판 흔드나 - 연합뉴스"
+      }
+    },
+    {
+      "title": "“트럼프, 호르무즈 해협→ 트럼프 해협 명칭 변경 검토” - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/03/28/QQXDK6LHMBDKHHBEWIZ4INFRB4/",
+      "source": "조선일보",
+      "pubDate": "Sat, 28 Mar 2026 09:44:53 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MFHJLJSNCZHGFMN6DWHEDECZBQ.jpg?auth=f662c0916be74fe59cfa2424594e40c04a0a0ff4598de6f25ee8053f7eec6a22&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "“트럼프, 호르무즈 해협→ 트럼프 해협 명칭 변경 검토” - 조선일보",
+        "en": "“트럼프, 호르무즈 해협→ 트럼프 해협 명칭 변경 검토” - 조선일보",
+        "zh": "“트럼프, 호르무즈 해협→ 트럼프 해협 명칭 변경 검토” - 조선일보"
+      }
+    },
+    {
+      "title": "우크라이나군, 병사들에 근력 보조 ‘외골격 기기’ 첫 보급…전투력 유지 총력 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603290800011",
+      "source": "경향신문",
+      "pubDate": "Sat, 28 Mar 2026 23:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/29/news-p.v1.20260326.835af770c00c4ddaa86d4911dd7c601d_P1.png",
+      "summaries": {
+        "ko": "우크라이나군이 전투 지속력을 높이고 고령화된 병사들의 신체적 부담을 덜기 위해 AI 제어 외골격 기기를 포병 부대에 최초 보급하기 시작했으며, 이는 무거운 포탄 취급 시 부담을 30% 경감시킨다.",
+        "en": "The Ukrainian army has begun deploying AI-controlled exoskeleton devices to its artillery units for the first time, aiming to enhance combat sustainability and alleviate the physical burden on its aging soldiers by reducing strain by 30% when handling heavy shells.",
+        "zh": "乌克兰军队首次向其炮兵部队配发了人工智能控制的外骨骼设备，旨在通过减轻士兵在搬运重型炮弹时30%的体力负担，提高作战持续能力并应对兵员老龄化问题。"
       }
     },
     {
@@ -30,35 +54,11 @@
       "link": "https://www.kyeonggi.com/article/20260328580087",
       "source": "경기일보",
       "pubDate": "Sat, 28 Mar 2026 21:30:00 GMT",
-      "image": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/03/28/.cache/512/20260328580088.jpg?v=20260329081648",
+      "image": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/03/28/.cache/512/20260328580088.jpg?v=20260329084748",
       "summaries": {
         "ko": "낮 기온 20도 안팎 ‘포근’…수도권·강원 건조특보 [날씨] - 경기일보",
         "en": "낮 기온 20도 안팎 ‘포근’…수도권·강원 건조특보 [날씨] - 경기일보",
         "zh": "낮 기온 20도 안팎 ‘포근’…수도권·강원 건조특보 [날씨] - 경기일보"
-      }
-    },
-    {
-      "title": "정성호 장관 “해든이 사망에 분노…아동학대 법정형 상향 검토” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1251498.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 27 Mar 2026 14:33:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/555/imgdb/original/2026/0327/20260327502260.webp",
-      "summaries": {
-        "ko": "정성호 장관 “해든이 사망에 분노…아동학대 법정형 상향 검토” - 한겨레",
-        "en": "정성호 장관 “해든이 사망에 분노…아동학대 법정형 상향 검토” - 한겨레",
-        "zh": "정성호 장관 “해든이 사망에 분노…아동학대 법정형 상향 검토” - 한겨레"
-      }
-    },
-    {
-      "title": "한강유람선 강바닥 걸려 멈춰… 승객 300여명 한밤 전원 구조 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/03/28/LL4AOL7INZEKTCBNORUSPRFNIE/",
-      "source": "조선일보",
-      "pubDate": "Sat, 28 Mar 2026 13:27:46 GMT",
-      "image": "https://www.chosun.com/resizer/v2/WFJMRXB4KVBN5FLFI2WIM37A3U.gif?auth=28e00136fb516a2aed9f0243aa47a2a8450b9a4af8cf38f97306992e3a210212&width=800&height=420&smart=true",
-      "summaries": {
-        "ko": "한강유람선 강바닥 걸려 멈춰… 승객 300여명 한밤 전원 구조 - 조선일보",
-        "en": "한강유람선 강바닥 걸려 멈춰… 승객 300여명 한밤 전원 구조 - 조선일보",
-        "zh": "한강유람선 강바닥 걸려 멈춰… 승객 300여명 한밤 전원 구조 - 조선일보"
       }
     },
     {
@@ -74,51 +74,51 @@
       }
     },
     {
-      "title": "이진숙 컷오프는 약속대련?... \"대구가 핫바지냐\" 민심 뿔나 - 조선일보",
-      "link": "https://www.chosun.com/politics/2026/03/29/AXESJRU2SVE7JMNTDSV4MKNMMU/",
+      "title": "대구 공천 내홍, 장동혁-한동훈 정치생명 건 전면전 비화 - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/03/29/2NOBBF3ETRCARIRPQPKZCL2GJQ/",
       "source": "조선일보",
-      "pubDate": "Sat, 28 Mar 2026 20:30:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MMYGIOJUMRTDSZRYMNSDEOBWGU.gif?auth=e5bd809eb959e480b784bf709183eb8ea1844c00dbfe6c2d9877bac939a8e690&width=800&height=420&smart=true",
+      "pubDate": "Sat, 28 Mar 2026 18:00:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/22NGRYNA4NEXTPDSKX3FW4OTJY.jpg?auth=551b0e05744bc75a124b4977c034a37951016152c4c352126e33b6d93a4cca85&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "이진숙 컷오프는 약속대련?... \"대구가 핫바지냐\" 민심 뿔나 - 조선일보",
-        "en": "이진숙 컷오프는 약속대련?... \"대구가 핫바지냐\" 민심 뿔나 - 조선일보",
-        "zh": "이진숙 컷오프는 약속대련?... \"대구가 핫바지냐\" 민심 뿔나 - 조선일보"
+        "ko": "대구 공천 내홍, 장동혁-한동훈 정치생명 건 전면전 비화 - 조선일보",
+        "en": "대구 공천 내홍, 장동혁-한동훈 정치생명 건 전면전 비화 - 조선일보",
+        "zh": "대구 공천 내홍, 장동혁-한동훈 정치생명 건 전면전 비화 - 조선일보"
       }
     },
     {
-      "title": "경복궁 자선당서 새벽에 불…국가유산청 “자연 발화 추정” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1251533.html",
+      "title": "한강유람선 강바닥 걸려 멈춰…승객 359명 전원 구조(종합) - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260328054451004",
+      "source": "연합뉴스",
+      "pubDate": "Sat, 28 Mar 2026 13:30:23 GMT",
+      "image": "https://img0.yna.co.kr/photo/cms/2022/12/12/39/PCM20221212000039990_P4.jpg",
+      "summaries": {
+        "ko": "한강 반포대교 인근에서 강바닥에 걸려 멈춘 유람선의 승객 359명이 전원 구조됐다.",
+        "en": "A cruise ship carrying 359 passengers got stuck on the riverbed in the Han River near Banpo Bridge, and all passengers were safely rescued.",
+        "zh": "一艘载有359名乘客的游览船在汉江盘浦大桥附近搁浅，所有乘客均被安全救出。"
+      }
+    },
+    {
+      "title": "정성호 장관 “해든이 사망에 분노…아동학대 법정형 상향 검토” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1251498.html",
       "source": "한겨레",
-      "pubDate": "Sat, 28 Mar 2026 06:18:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/630/476/imgdb/original/2026/0328/20260328500373.webp",
+      "pubDate": "Fri, 27 Mar 2026 14:33:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/555/imgdb/original/2026/0327/20260327502260.webp",
       "summaries": {
-        "ko": "5월 28일 새벽 경복궁 자선당 삼비문 쪽문에서 자연 발화로 추정되는 불이나 경미한 피해만 발생한 채 안전요원에 의해 진화됐다.",
-        "en": "An early morning fire, presumed to be caused by natural combustion, broke out at a side gate of Gyeongbokgung's Jaseondang Sambimun on May 28, causing minor damage and no casualties, and was quickly extinguished by security staff.",
-        "zh": "5月28日凌晨，景福宫自善堂三扉门侧门发生一起推测为自然起火的火灾，造成轻微损坏且无人员伤亡，火势被迅速扑灭。"
+        "ko": "정성호 장관 “해든이 사망에 분노…아동학대 법정형 상향 검토” - 한겨레",
+        "en": "정성호 장관 “해든이 사망에 분노…아동학대 법정형 상향 검토” - 한겨레",
+        "zh": "정성호 장관 “해든이 사망에 분노…아동학대 법정형 상향 검토” - 한겨레"
       }
     },
     {
-      "title": "서울시의사회 정총…\"의료계 옥죄는 악법 저지\" 각오 다져 - 의협신문",
-      "link": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=163890",
-      "source": "의협신문",
-      "pubDate": "Sat, 28 Mar 2026 09:47:08 GMT",
-      "image": "http://www.doctorsnews.co.kr/news/photo/202603/163890_135613_316.jpg",
+      "title": "경복궁서 새벽에 화재 발생…자선당 문 일부 훼손 - 동아일보",
+      "link": "https://www.donga.com/news/Society/article/all/20260328/133627720/2",
+      "source": "동아일보",
+      "pubDate": "Sat, 28 Mar 2026 06:35:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/28/133627721.2.jpg",
       "summaries": {
-        "ko": "서울시의사회 정총…\"의료계 옥죄는 악법 저지\" 각오 다져 - 의협신문",
-        "en": "서울시의사회 정총…\"의료계 옥죄는 악법 저지\" 각오 다져 - 의협신문",
-        "zh": "서울시의사회 정총…\"의료계 옥죄는 악법 저지\" 각오 다져 - 의협신문"
-      }
-    },
-    {
-      "title": "‘룸살롱 폭행’ 이혁재, 국힘 심사위원 논란에 “왜 나를 못 죽여 안달인가” - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/03/28/LSSMAU44QFEIBI7HXXDEP5HZPU/",
-      "source": "조선일보",
-      "pubDate": "Sat, 28 Mar 2026 10:46:45 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GFRDGY3DGIYDONJVMM3GEZRRMQ.jpg?auth=6f66fd10904b8dd458c519da668d381026e5f63a1bed647071995cf4ab777a32&width=1200&height=630&focal=2359,874",
-      "summaries": {
-        "ko": "‘룸살롱 폭행’ 이혁재, 국힘 심사위원 논란에 “왜 나를 못 죽여 안달인가” - 조선일보",
-        "en": "‘룸살롱 폭행’ 이혁재, 국힘 심사위원 논란에 “왜 나를 못 죽여 안달인가” - 조선일보",
-        "zh": "‘룸살롱 폭행’ 이혁재, 국힘 심사위원 논란에 “왜 나를 못 죽여 안달인가” - 조선일보"
+        "ko": "경복궁서 새벽에 화재 발생…자선당 문 일부 훼손 - 동아일보",
+        "en": "경복궁서 새벽에 화재 발생…자선당 문 일부 훼손 - 동아일보",
+        "zh": "경복궁서 새벽에 화재 발생…자선당 문 일부 훼손 - 동아일보"
       }
     },
     {
