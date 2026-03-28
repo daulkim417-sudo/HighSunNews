@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-28T21:40:02.713497",
+  "lastUpdate": "2026-03-28T21:57:16.710906",
   "items": [
     {
       "title": "친이란 ‘후티 반군’ 참전 공식화…호르무즈 이어 홍해 봉쇄 긴장 - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Sat, 28 Mar 2026 11:23:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/669/446/imgdb/original/2026/0328/20260328500547.webp",
       "summaries": {
-        "ko": "예멘의 친이란 후티 반군이 이스라엘에 미사일 공격을 감행하며 전쟁 참전을 공식화했고, 이는 중동 분쟁의 확전과 국제 물류망에 대한 긴장을 고조시키고 있다.",
-        "en": "Yemen's Iran-backed Houthi rebels have officially joined the war by launching missile attacks against Israel, escalating the Middle East conflict and heightening tensions over international supply chains.",
-        "zh": "也门亲伊朗胡塞武装向以色列发动导弹袭击，正式参战，加剧了中东冲突并加剧了国际物流网络的紧张局势。"
+        "ko": "친이란 예멘 후티 반군이 이스라엘에 미사일 공격을 감행하며 전쟁 참전을 공식화, 중동 분쟁이 물류 및 글로벌 에너지 시스템을 포함하는 경제 전쟁으로 확대될 수 있다는 우려를 낳고 있다.",
+        "en": "Yemen's pro-Iran Houthi rebels officially joined the war by launching missile attacks on Israel, raising concerns that the Middle East conflict could escalate into an economic war encompassing logistics and global energy systems.",
+        "zh": "亲伊朗也门胡塞武装向以色列发射导弹，正式宣布参战，引发了中东冲突可能扩大为一场涵盖物流和全球能源系统的经济战的担忧。"
       }
     },
     {
@@ -26,18 +26,6 @@
       }
     },
     {
-      "title": "민주당 총력 설득 끝 등판…김부겸, 대구 선거판 흔드나 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260327144600053",
-      "source": "연합뉴스",
-      "pubDate": "Sat, 28 Mar 2026 21:01:12 GMT",
-      "image": "https://img8.yna.co.kr/photo/yna/YH/2026/03/26/PYH2026032610600001300_P4.jpg",
-      "summaries": {
-        "ko": "민주당 총력 설득 끝 등판…김부겸, 대구 선거판 흔드나 - 연합뉴스",
-        "en": "민주당 총력 설득 끝 등판…김부겸, 대구 선거판 흔드나 - 연합뉴스",
-        "zh": "민주당 총력 설득 끝 등판…김부겸, 대구 선거판 흔드나 - 연합뉴스"
-      }
-    },
-    {
       "title": "한강유람선 강바닥 걸려 멈춰… 승객 300여명 한밤 전원 구조 - 조선일보",
       "link": "https://www.chosun.com/national/national_general/2026/03/28/LL4AOL7INZEKTCBNORUSPRFNIE/",
       "source": "조선일보",
@@ -50,15 +38,15 @@
       }
     },
     {
-      "title": "봄은 반가운데 이 불청객은 안 반갑네···일요일 낮 최고 22도, 미세먼지는 ‘나쁨’ - khan.co.kr",
-      "link": "https://www.khan.co.kr/article/202603282025001",
-      "source": "khan.co.kr",
-      "pubDate": "Sat, 28 Mar 2026 11:25:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/28/rcv.YNA.20260327.PYH2026032703190001300_P1.jpg",
+      "title": "일요일 낮 최고 22도 봄 날씨…“야외 활동 미세먼지 조심” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1251544.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 28 Mar 2026 12:33:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/627/424/imgdb/original/2026/0328/20260328500572.webp",
       "summaries": {
-        "ko": "봄은 반가운데 이 불청객은 안 반갑네···일요일 낮 최고 22도, 미세먼지는 ‘나쁨’ - khan.co.kr",
-        "en": "봄은 반가운데 이 불청객은 안 반갑네···일요일 낮 최고 22도, 미세먼지는 ‘나쁨’ - khan.co.kr",
-        "zh": "봄은 반가운데 이 불청객은 안 반갑네···일요일 낮 최고 22도, 미세먼지는 ‘나쁨’ - khan.co.kr"
+        "ko": "일요일 낮 최고 22도 봄 날씨…“야외 활동 미세먼지 조심” - 한겨레",
+        "en": "일요일 낮 최고 22도 봄 날씨…“야외 활동 미세먼지 조심” - 한겨레",
+        "zh": "일요일 낮 최고 22도 봄 날씨…“야외 활동 미세먼지 조심” - 한겨레"
       }
     },
     {
@@ -74,6 +62,18 @@
       }
     },
     {
+      "title": "통일교 의혹 수사받는데... 與, 전재수 부산시장 경선 - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/03/27/R5USO734VFCCXHF7XL2MZUUEIM/",
+      "source": "조선일보",
+      "pubDate": "Fri, 27 Mar 2026 13:03:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/7EVC5ORJMVEJ5CU5KOBLB4IGFM.jpg?auth=eec116e9331c56da62aad7b9193283e8f0c73e55b909ae5bb78e4878835a5ffa&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "통일교 의혹 수사받는데... 與, 전재수 부산시장 경선 - 조선일보",
+        "en": "통일교 의혹 수사받는데... 與, 전재수 부산시장 경선 - 조선일보",
+        "zh": "통일교 의혹 수사받는데... 與, 전재수 부산시장 경선 - 조선일보"
+      }
+    },
+    {
       "title": "경복궁 자선당서 새벽에 불…국가유산청 “자연 발화 추정” - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/society_general/1251533.html",
       "source": "한겨레",
@@ -86,6 +86,18 @@
       }
     },
     {
+      "title": "서울시의사회 정총…\"의료계 옥죄는 악법 저지\" 각오 다져 - 의협신문",
+      "link": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=163890",
+      "source": "의협신문",
+      "pubDate": "Sat, 28 Mar 2026 09:47:08 GMT",
+      "image": "http://www.doctorsnews.co.kr/news/photo/202603/163890_135613_316.jpg",
+      "summaries": {
+        "ko": "서울시의사회 정총…\"의료계 옥죄는 악법 저지\" 각오 다져 - 의협신문",
+        "en": "서울시의사회 정총…\"의료계 옥죄는 악법 저지\" 각오 다져 - 의협신문",
+        "zh": "서울시의사회 정총…\"의료계 옥죄는 악법 저지\" 각오 다져 - 의협신문"
+      }
+    },
+    {
       "title": "개소식 세 과시 정면충돌…주진우 \"적자론\" vs 박형준 \"월드클래스\" - 노컷뉴스",
       "link": "https://www.nocutnews.co.kr/news/6492696",
       "source": "노컷뉴스",
@@ -95,18 +107,6 @@
         "ko": "개소식 세 과시 정면충돌…주진우 \"적자론\" vs 박형준 \"월드클래스\" - 노컷뉴스",
         "en": "개소식 세 과시 정면충돌…주진우 \"적자론\" vs 박형준 \"월드클래스\" - 노컷뉴스",
         "zh": "개소식 세 과시 정면충돌…주진우 \"적자론\" vs 박형준 \"월드클래스\" - 노컷뉴스"
-      }
-    },
-    {
-      "title": "정부, 유엔 인권이사회 北인권결의안 공동제안국 참여 - 조선일보",
-      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/03/28/C37WFWPS7REWPP22E6NP3T2VVM/",
-      "source": "조선일보",
-      "pubDate": "Sat, 28 Mar 2026 13:18:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MY3DGOJXHFTDQZBYGQ3WMMDBHA.jpg?auth=5c242bb5c75fb7c8766f2077bbcd3f8a392e02d4a7fb957ed6af4ab2a8746bfc&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "정부, 유엔 인권이사회 北인권결의안 공동제안국 참여 - 조선일보",
-        "en": "정부, 유엔 인권이사회 北인권결의안 공동제안국 참여 - 조선일보",
-        "zh": "정부, 유엔 인권이사회 北인권결의안 공동제안국 참여 - 조선일보"
       }
     },
     {
