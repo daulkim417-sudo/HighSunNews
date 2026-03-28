@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-28T21:57:16.710906",
+  "lastUpdate": "2026-03-28T22:18:49.345019",
   "items": [
     {
       "title": "친이란 ‘후티 반군’ 참전 공식화…호르무즈 이어 홍해 봉쇄 긴장 - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Sat, 28 Mar 2026 11:23:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/669/446/imgdb/original/2026/0328/20260328500547.webp",
       "summaries": {
-        "ko": "친이란 예멘 후티 반군이 이스라엘에 미사일 공격을 감행하며 전쟁 참전을 공식화, 중동 분쟁이 물류 및 글로벌 에너지 시스템을 포함하는 경제 전쟁으로 확대될 수 있다는 우려를 낳고 있다.",
-        "en": "Yemen's pro-Iran Houthi rebels officially joined the war by launching missile attacks on Israel, raising concerns that the Middle East conflict could escalate into an economic war encompassing logistics and global energy systems.",
-        "zh": "亲伊朗也门胡塞武装向以色列发射导弹，正式宣布参战，引发了中东冲突可能扩大为一场涵盖物流和全球能源系统的经济战的担忧。"
+        "ko": "친이란 예멘 후티 반군이 이스라엘에 미사일 공격을 감행하며 전쟁 참전을 공식화, 홍해 봉쇄 긴장과 국제 물류망 및 경제 전쟁 확대 우려를 고조시켰다.",
+        "en": "Yemen's pro-Iranian Houthi rebels officially entered the war by launching missile attacks towards Israel, escalating tensions over a potential Red Sea blockade and fueling concerns about disruptions to international logistics and the expansion of an economic war.",
+        "zh": "亲伊朗的也门胡塞武装通过向以色列发动导弹袭击，正式宣布参战，加剧了红海封锁的紧张局势，并引发了对国际物流中断和经济战扩大的担忧。"
       }
     },
     {
@@ -26,15 +26,27 @@
       }
     },
     {
-      "title": "한강유람선 강바닥 걸려 멈춰… 승객 300여명 한밤 전원 구조 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/03/28/LL4AOL7INZEKTCBNORUSPRFNIE/",
-      "source": "조선일보",
-      "pubDate": "Sat, 28 Mar 2026 13:27:46 GMT",
-      "image": "https://www.chosun.com/resizer/v2/WFJMRXB4KVBN5FLFI2WIM37A3U.gif?auth=28e00136fb516a2aed9f0243aa47a2a8450b9a4af8cf38f97306992e3a210212&width=800&height=420&smart=true",
+      "title": "민주당 총력 설득 끝 등판…김부겸, 대구 선거판 흔드나 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260327144600053",
+      "source": "연합뉴스",
+      "pubDate": "Sat, 28 Mar 2026 21:01:12 GMT",
+      "image": "https://img8.yna.co.kr/photo/yna/YH/2026/03/26/PYH2026032610600001300_P4.jpg",
       "summaries": {
-        "ko": "한강유람선 강바닥 걸려 멈춰… 승객 300여명 한밤 전원 구조 - 조선일보",
-        "en": "한강유람선 강바닥 걸려 멈춰… 승객 300여명 한밤 전원 구조 - 조선일보",
-        "zh": "한강유람선 강바닥 걸려 멈춰… 승객 300여명 한밤 전원 구조 - 조선일보"
+        "ko": "민주당 총력 설득 끝 등판…김부겸, 대구 선거판 흔드나 - 연합뉴스",
+        "en": "민주당 총력 설득 끝 등판…김부겸, 대구 선거판 흔드나 - 연합뉴스",
+        "zh": "민주당 총력 설득 끝 등판…김부겸, 대구 선거판 흔드나 - 연합뉴스"
+      }
+    },
+    {
+      "title": "한강유람선 탔다가 ‘가슴이 철렁’···반포대교 인근서 멈춰 승객 300여명 구조 작업 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603282201001",
+      "source": "경향신문",
+      "pubDate": "Sat, 28 Mar 2026 13:01:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/28/news-p.v1.20260328.79e66e7d51b543a58ba3b7eb1c193acc_P1.jpg",
+      "summaries": {
+        "ko": "한강유람선 탔다가 ‘가슴이 철렁’···반포대교 인근서 멈춰 승객 300여명 구조 작업 - 경향신문",
+        "en": "한강유람선 탔다가 ‘가슴이 철렁’···반포대교 인근서 멈춰 승객 300여명 구조 작업 - 경향신문",
+        "zh": "한강유람선 탔다가 ‘가슴이 철렁’···반포대교 인근서 멈춰 승객 300여명 구조 작업 - 경향신문"
       }
     },
     {
@@ -50,27 +62,15 @@
       }
     },
     {
-      "title": "이혁재 “아스팔트 청년도 소중한 자산…장동혁 중심으로 승리하자” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1251529.html",
+      "title": "정성호 장관 “해든이 사망에 분노…아동학대 법정형 상향 검토” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1251498.html",
       "source": "한겨레",
-      "pubDate": "Sat, 28 Mar 2026 12:11:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/966/580/imgdb/child/2026/0328/53_17746707305034_20260328500279.webp",
+      "pubDate": "Fri, 27 Mar 2026 14:33:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/555/imgdb/original/2026/0327/20260327502260.webp",
       "summaries": {
-        "ko": "이혁재 “아스팔트 청년도 소중한 자산…장동혁 중심으로 승리하자” - 한겨레",
-        "en": "이혁재 “아스팔트 청년도 소중한 자산…장동혁 중심으로 승리하자” - 한겨레",
-        "zh": "이혁재 “아스팔트 청년도 소중한 자산…장동혁 중심으로 승리하자” - 한겨레"
-      }
-    },
-    {
-      "title": "통일교 의혹 수사받는데... 與, 전재수 부산시장 경선 - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/03/27/R5USO734VFCCXHF7XL2MZUUEIM/",
-      "source": "조선일보",
-      "pubDate": "Fri, 27 Mar 2026 13:03:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/7EVC5ORJMVEJ5CU5KOBLB4IGFM.jpg?auth=eec116e9331c56da62aad7b9193283e8f0c73e55b909ae5bb78e4878835a5ffa&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "통일교 의혹 수사받는데... 與, 전재수 부산시장 경선 - 조선일보",
-        "en": "통일교 의혹 수사받는데... 與, 전재수 부산시장 경선 - 조선일보",
-        "zh": "통일교 의혹 수사받는데... 與, 전재수 부산시장 경선 - 조선일보"
+        "ko": "정성호 장관 “해든이 사망에 분노…아동학대 법정형 상향 검토” - 한겨레",
+        "en": "정성호 장관 “해든이 사망에 분노…아동학대 법정형 상향 검토” - 한겨레",
+        "zh": "정성호 장관 “해든이 사망에 분노…아동학대 법정형 상향 검토” - 한겨레"
       }
     },
     {
@@ -86,27 +86,27 @@
       }
     },
     {
-      "title": "서울시의사회 정총…\"의료계 옥죄는 악법 저지\" 각오 다져 - 의협신문",
-      "link": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=163890",
-      "source": "의협신문",
-      "pubDate": "Sat, 28 Mar 2026 09:47:08 GMT",
-      "image": "http://www.doctorsnews.co.kr/news/photo/202603/163890_135613_316.jpg",
+      "title": "장동혁 \"청년의 힘으로 선거승리\"‥'논란' 이혁재와 오디션 참석 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6810937_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sat, 28 Mar 2026 05:38:27 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/03/28/yh_20260328-3.jpg",
       "summaries": {
-        "ko": "서울시의사회 정총…\"의료계 옥죄는 악법 저지\" 각오 다져 - 의협신문",
-        "en": "서울시의사회 정총…\"의료계 옥죄는 악법 저지\" 각오 다져 - 의협신문",
-        "zh": "서울시의사회 정총…\"의료계 옥죄는 악법 저지\" 각오 다져 - 의협신문"
+        "ko": "장동혁 \"청년의 힘으로 선거승리\"‥'논란' 이혁재와 오디션 참석 - MBC 뉴스",
+        "en": "장동혁 \"청년의 힘으로 선거승리\"‥'논란' 이혁재와 오디션 참석 - MBC 뉴스",
+        "zh": "장동혁 \"청년의 힘으로 선거승리\"‥'논란' 이혁재와 오디션 참석 - MBC 뉴스"
       }
     },
     {
-      "title": "개소식 세 과시 정면충돌…주진우 \"적자론\" vs 박형준 \"월드클래스\" - 노컷뉴스",
-      "link": "https://www.nocutnews.co.kr/news/6492696",
-      "source": "노컷뉴스",
-      "pubDate": "Sat, 28 Mar 2026 07:58:00 GMT",
-      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/03/28/202603281641091062_0.jpg",
+      "title": "서울시의사회 정총…\"의료계 옥죄는 악법 저지\" 각오 다져 - doctorsnews.co.kr",
+      "link": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=163890",
+      "source": "doctorsnews.co.kr",
+      "pubDate": "Sat, 28 Mar 2026 09:47:08 GMT",
+      "image": "http://www.doctorsnews.co.kr/news/photo/202603/163890_135613_316.jpg",
       "summaries": {
-        "ko": "개소식 세 과시 정면충돌…주진우 \"적자론\" vs 박형준 \"월드클래스\" - 노컷뉴스",
-        "en": "개소식 세 과시 정면충돌…주진우 \"적자론\" vs 박형준 \"월드클래스\" - 노컷뉴스",
-        "zh": "개소식 세 과시 정면충돌…주진우 \"적자론\" vs 박형준 \"월드클래스\" - 노컷뉴스"
+        "ko": "서울시의사회 정총…\"의료계 옥죄는 악법 저지\" 각오 다져 - doctorsnews.co.kr",
+        "en": "서울시의사회 정총…\"의료계 옥죄는 악법 저지\" 각오 다져 - doctorsnews.co.kr",
+        "zh": "서울시의사회 정총…\"의료계 옥죄는 악법 저지\" 각오 다져 - doctorsnews.co.kr"
       }
     },
     {
