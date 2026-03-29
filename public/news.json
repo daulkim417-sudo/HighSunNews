@@ -1,16 +1,16 @@
 {
-  "lastUpdate": "2026-03-29T23:06:08.954190",
+  "lastUpdate": "2026-03-29T23:44:56.997818",
   "items": [
     {
       "title": "미 지상군 투입 땐 어디 치나…하르그 대신 ‘호르무즈 7개 섬’ 부상 - 한겨레",
       "link": "https://www.hani.co.kr/arti/international/arabafrica/1251665.html",
       "source": "한겨레",
-      "pubDate": "Sun, 29 Mar 2026 21:45:00 GMT",
+      "pubDate": "Sun, 29 Mar 2026 22:09:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/645/imgdb/original/2026/0330/20260330500111.webp",
       "summaries": {
-        "ko": "미 지상군 투입 땐 어디 치나…하르그 대신 ‘호르무즈 7개 섬’ 부상 - 한겨레",
-        "en": "미 지상군 투입 땐 어디 치나…하르그 대신 ‘호르무즈 7개 섬’ 부상 - 한겨레",
-        "zh": "미 지상군 투입 땐 어디 치나…하르그 대신 ‘호르무즈 7개 섬’ 부상 - 한겨레"
+        "ko": "미국이 이란에 지상군을 투입할 경우, 당초 유력 후보였던 하르그섬 대신 호르무즈 해협을 통제하는 7개 전략 섬이 공략 대상으로 부상하고 있으며, 이들 섬의 점령과 유지는 높은 위험을 수반할 것으로 분석된다.",
+        "en": "As the US considers deploying ground troops in Iran, attention shifts from Kharg Island to seven strategic islands controlling the Strait of Hormuz as more likely targets, highlighting their military importance and the high risks involved in their seizure and maintenance.",
+        "zh": "随着美国考虑在伊朗部署地面部队，关注焦点已从哈尔格岛转向控制霍尔木兹海峡的七个战略岛屿，这些岛屿被视为更可能的攻击目标，强调了它们的军事重要性以及占领和维持的巨大风险。"
       }
     },
     {
@@ -38,18 +38,6 @@
       }
     },
     {
-      "title": "미 시민들 “못 참겠다”…분노로 타오른 ‘No Kings’ - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603292022005",
-      "source": "경향신문",
-      "pubDate": "Sun, 29 Mar 2026 11:22:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/29/l_2026033001000800400090661.jpg",
-      "summaries": {
-        "ko": "미 시민들 “못 참겠다”…분노로 타오른 ‘No Kings’ - 경향신문",
-        "en": "미 시민들 “못 참겠다”…분노로 타오른 ‘No Kings’ - 경향신문",
-        "zh": "미 시민들 “못 참겠다”…분노로 타오른 ‘No Kings’ - 경향신문"
-      }
-    },
-    {
       "title": "[단독]‘김건희 무혐의 보고서’ 쓴 검사는 미국 연수 중···특검, 국내 소환 조사 검토 - 경향신문",
       "link": "https://www.khan.co.kr/article/202603300600101",
       "source": "경향신문",
@@ -62,15 +50,39 @@
       }
     },
     {
-      "title": "이란 급습에 쓴맛‥美 4천500억 원짜리 '하늘의 눈' E-3 첫 파괴 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/world/article/6811115_36925.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sun, 29 Mar 2026 12:04:06 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/03/29/yh_20260329-14.jpg",
+      "title": "미 시민들 “못 참겠다”…분노로 타오른 ‘No Kings’ - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603292022005",
+      "source": "경향신문",
+      "pubDate": "Sun, 29 Mar 2026 11:22:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/29/l_2026033001000800400090661.jpg",
       "summaries": {
-        "ko": "이란 급습에 쓴맛‥美 4천500억 원짜리 '하늘의 눈' E-3 첫 파괴 - MBC 뉴스",
-        "en": "이란 급습에 쓴맛‥美 4천500억 원짜리 '하늘의 눈' E-3 첫 파괴 - MBC 뉴스",
-        "zh": "이란 급습에 쓴맛‥美 4천500억 원짜리 '하늘의 눈' E-3 첫 파괴 - MBC 뉴스"
+        "ko": "미 시민들 “못 참겠다”…분노로 타오른 ‘No Kings’ - 경향신문",
+        "en": "미 시민들 “못 참겠다”…분노로 타오른 ‘No Kings’ - 경향신문",
+        "zh": "미 시민들 “못 참겠다”…분노로 타오른 ‘No Kings’ - 경향신문"
+      }
+    },
+    {
+      "title": "4.3 발발지 관덕정 메운 3000여 노동자들…“전쟁 반대·노동권 쟁취” - 제주의소리",
+      "link": "https://www.jejusori.net/news/articleView.html?idxno=500981",
+      "source": "제주의소리",
+      "pubDate": "Sat, 28 Mar 2026 03:53:59 GMT",
+      "image": "https://cdn.jejusori.net/news/photo/202603/500981_501384_4654.jpg",
+      "summaries": {
+        "ko": "4.3 발발지 관덕정 메운 3000여 노동자들…“전쟁 반대·노동권 쟁취” - 제주의소리",
+        "en": "4.3 발발지 관덕정 메운 3000여 노동자들…“전쟁 반대·노동권 쟁취” - 제주의소리",
+        "zh": "4.3 발발지 관덕정 메운 3000여 노동자들…“전쟁 반대·노동권 쟁취” - 제주의소리"
+      }
+    },
+    {
+      "title": "“씨, 어디서 살라고”…이혁재, 음주폭행·내란옹호 욕먹더니 투덜 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1251576.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 29 Mar 2026 07:31:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0329/20260329501032.webp",
+      "summaries": {
+        "ko": "“씨, 어디서 살라고”…이혁재, 음주폭행·내란옹호 욕먹더니 투덜 - 한겨레",
+        "en": "“씨, 어디서 살라고”…이혁재, 음주폭행·내란옹호 욕먹더니 투덜 - 한겨레",
+        "zh": "“씨, 어디서 살라고”…이혁재, 음주폭행·내란옹호 욕먹더니 투덜 - 한겨레"
       }
     },
     {
@@ -86,39 +98,27 @@
       }
     },
     {
-      "title": "[점선면]‘4세 고시’ 없애니 ‘4세 스펙’…영어유치원이 뭐길래 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603300700001",
+      "title": "‘4세·7세 고시’ 막았더니 토플·토익 점수 내라?…‘3조 시장’ 유아 영어 사교육, 잡을 수 있나 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603280900011",
       "source": "경향신문",
-      "pubDate": "Sun, 29 Mar 2026 22:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/30/news-p.v1.20260329.83abcb7234114005ad364339df113e34_P1.jpg",
+      "pubDate": "Sat, 28 Mar 2026 00:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/28/rcv.YNA.20250313.PYH2025031311440001300_P1.jpg",
       "summaries": {
-        "ko": "[점선면]‘4세 고시’ 없애니 ‘4세 스펙’…영어유치원이 뭐길래 - 경향신문",
-        "en": "[점선면]‘4세 고시’ 없애니 ‘4세 스펙’…영어유치원이 뭐길래 - 경향신문",
-        "zh": "[점선면]‘4세 고시’ 없애니 ‘4세 스펙’…영어유치원이 뭐길래 - 경향신문"
+        "ko": "‘4세·7세 고시’ 막았더니 토플·토익 점수 내라?…‘3조 시장’ 유아 영어 사교육, 잡을 수 있나 - 경향신문",
+        "en": "‘4세·7세 고시’ 막았더니 토플·토익 점수 내라?…‘3조 시장’ 유아 영어 사교육, 잡을 수 있나 - 경향신문",
+        "zh": "‘4세·7세 고시’ 막았더니 토플·토익 점수 내라?…‘3조 시장’ 유아 영어 사교육, 잡을 수 있나 - 경향신문"
       }
     },
     {
-      "title": "‘85년만의 귀향’…제주4·3 영혼 위로할 소해금 선율 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603291531001",
-      "source": "경향신문",
-      "pubDate": "Sun, 29 Mar 2026 06:31:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/29/news-p.v1.20260329.bcf797051e594a7191a5aec2e696f3f1_P1.jpg",
+      "title": "영남권 분위기 달라져…국힘→민주 간판 바꿔 출마 ‘우르르’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1251621.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 29 Mar 2026 10:43:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0329/20260329501852.webp",
       "summaries": {
-        "ko": "‘85년만의 귀향’…제주4·3 영혼 위로할 소해금 선율 - 경향신문",
-        "en": "‘85년만의 귀향’…제주4·3 영혼 위로할 소해금 선율 - 경향신문",
-        "zh": "‘85년만의 귀향’…제주4·3 영혼 위로할 소해금 선율 - 경향신문"
-      }
-    },
-    {
-      "title": "국힘 ‘청년 오디션’ 한다더니…이혁재 “아스팔트 청년도 자산” 논란 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260329/133630726/1",
-      "source": "동아일보",
-      "pubDate": "Sun, 29 Mar 2026 08:23:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/29/133631492.1.jpg",
-      "summaries": {
-        "ko": "국힘 ‘청년 오디션’ 한다더니…이혁재 “아스팔트 청년도 자산” 논란 - 동아일보",
-        "en": "국힘 ‘청년 오디션’ 한다더니…이혁재 “아스팔트 청년도 자산” 논란 - 동아일보",
-        "zh": "국힘 ‘청년 오디션’ 한다더니…이혁재 “아스팔트 청년도 자산” 논란 - 동아일보"
+        "ko": "영남권 분위기 달라져…국힘→민주 간판 바꿔 출마 ‘우르르’ - 한겨레",
+        "en": "영남권 분위기 달라져…국힘→민주 간판 바꿔 출마 ‘우르르’ - 한겨레",
+        "zh": "영남권 분위기 달라져…국힘→민주 간판 바꿔 출마 ‘우르르’ - 한겨레"
       }
     }
   ]
