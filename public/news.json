@@ -1,6 +1,30 @@
 {
-  "lastUpdate": "2026-03-29T06:39:57.571025",
+  "lastUpdate": "2026-03-29T07:37:57.159188",
   "items": [
+    {
+      "title": "경찰, 포상·표창 7만여개 전수조사해 이근안 취소 검토…이 대통령 “만시지탄” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1251604.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 29 Mar 2026 07:11:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/428/imgdb/original/2026/0329/20260329501597.webp",
+      "summaries": {
+        "ko": "경찰이 1945년 창설 이후 경찰관에게 수여된 7만여 건의 포상·표창을 전수조사해 '고문기술자' 이근안 등 국가폭력 가담자의 서훈 취소를 검토하며, 이재명 대통령은 이를 '만시지탄'이라고 평했다.",
+        "en": "The police are conducting a full investigation into over 70,000 awards and commendations granted to officers since its 1945 establishment, considering the revocation of honors for those involved in state violence like 'torture expert' Lee Geun-an, a move President Lee Jae-myung described as 'long overdue'.",
+        "zh": "警方正对自1945年建警以来授予警官的7万余份褒奖进行全面调查，考虑撤销包括“拷问专家”李根安在内的参与国家暴力的警官的勋章，李在明总统对此表示“为时已晚但理所当然”。"
+      }
+    },
+    {
+      "title": "후티 참전에 짙어진 확전 그림자···호르무즈 이어 홍해까지 막히나 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603291443001",
+      "source": "경향신문",
+      "pubDate": "Sun, 29 Mar 2026 05:43:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/29/rcv.YNA.20260328.PEP20260328067601009_P1.jpg",
+      "summaries": {
+        "ko": "예멘 후티 반군이 이스라엘 공격에 참전하며 중동 확전 우려가 커지는 가운데, 호르무즈 해협에 이어 홍해와 바브엘만데브 해협까지 위협할 경우 국제 원유시장과 글로벌 공급망에 심각한 충격이 불가피하다는 관측이 나온다.",
+        "en": "Yemen's Houthi rebels' entry into the conflict by attacking Israel escalates concerns of a broader Middle East war, with predictions that severe shocks to the international oil market and global supply chains are inevitable if they further threaten the Red Sea and Bab el-Mandeb Strait, in addition to the Hormuz Strait.",
+        "zh": "也门胡塞武装袭击以色列并正式参战，加剧了中东战事扩大的担忧，有预测指出，若其在霍尔穆兹海峡之外进一步威胁红海及曼德海峡，国际原油市场和全球供应链将不可避免地遭受严重冲击。"
+      }
+    },
     {
       "title": "김부겸 전 총리, 30일 대구시장 출마 공식 선언 - 조선일보",
       "link": "https://www.chosun.com/national/regional/2026/03/29/MJ34HY65LRAKLGL4K4T4ZNFJAQ/",
@@ -14,87 +38,75 @@
       }
     },
     {
-      "title": "이 대통령 “국가폭력 범죄자 훈장 박탈은 당연…공소시효 배제 추진” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1251557.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 29 Mar 2026 02:37:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/605/imgdb/original/2026/0329/20260329500471.webp",
-      "summaries": {
-        "ko": "이재명 대통령은 사법살인 같은 국가폭력 범죄자들의 훈포장 박탈이 당연한 조치임을 강조하며, 경찰의 전수조사 착수와 관련해 이러한 범죄의 공소시효와 소멸시효를 배제하는 법안을 추진하겠다고 밝혔다.",
-        "en": "President Lee Jae-myung emphasized that revoking honors from perpetrators of state violence crimes like judicial murder is a natural measure and pledged to pursue legislation to exclude statutes of limitations for such offenses, following a police investigation into awarded officials.",
-        "zh": "李在明总统强调，剥夺司法杀人等国家暴力犯罪者的勋章是理所当然的措施，并表示将推动立法，取消此类犯罪的刑事诉讼时效和民事诉讼时效，此举与警方针对受勋官员展开的全面调查有关。"
-      }
-    },
-    {
-      "title": "한강유람선 좌초에 민주당 일제히 오세훈 비판…“시민 생명 볼모로 정치쇼” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603291408001",
-      "source": "경향신문",
-      "pubDate": "Sun, 29 Mar 2026 05:08:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/29/rcv.YNA.20260329.PYH2026032903780001300_P1.jpg",
-      "summaries": {
-        "ko": "한강유람선 좌초에 민주당 일제히 오세훈 비판…“시민 생명 볼모로 정치쇼” - 경향신문",
-        "en": "한강유람선 좌초에 민주당 일제히 오세훈 비판…“시민 생명 볼모로 정치쇼” - 경향신문",
-        "zh": "한강유람선 좌초에 민주당 일제히 오세훈 비판…“시민 생명 볼모로 정치쇼” - 경향신문"
-      }
-    },
-    {
       "title": "‘트럼프는 히틀러냐’ 폭발…미국 전역·유럽 3200곳 ‘노 킹스’ 시위 - 한겨레",
       "link": "https://www.hani.co.kr/arti/international/america/1251549.html",
       "source": "한겨레",
-      "pubDate": "Sun, 29 Mar 2026 05:38:00 GMT",
+      "pubDate": "Sun, 29 Mar 2026 06:51:23 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0329/20260329500140.webp",
       "summaries": {
-        "ko": "‘트럼프는 히틀러냐’ 폭발…미국 전역·유럽 3200곳 ‘노 킹스’ 시위 - 한겨레",
-        "en": "‘트럼프는 히틀러냐’ 폭발…미국 전역·유럽 3200곳 ‘노 킹스’ 시위 - 한겨레",
-        "zh": "‘트럼프는 히틀러냐’ 폭발…미국 전역·유럽 3200곳 ‘노 킹스’ 시위 - 한겨레"
+        "ko": "미국과 유럽 전역 3200여 곳에서 '노 킹스(No Kings)' 시위가 대규모로 열려 트럼프 대통령의 이란 전쟁, 권력 남용, 법치 훼손, 투표권 탄압 등을 규탄하며 일부 참가자들은 트럼프를 히틀러에 비유하기도 했습니다.",
+        "en": "Massive 'No Kings' protests erupted in over 3200 locations across the US and Europe, condemning President Trump's Iran war, abuse of power, undermining of the rule of law, and suppression of voting rights, with some participants even comparing Trump to Hitler.",
+        "zh": "美国和欧洲各地3200多处爆发大规模“不是国王”（No Kings）抗议活动，谴责特朗普总统的伊朗战争、滥用权力、破坏法治和压制投票权，部分参与者甚至将特朗普比作希特勒。"
       }
     },
     {
-      "title": "\"美국방부, 이란내 몇주 지상작전 준비…트럼프 아직 결단안해\"(종합) - yna.co.kr",
-      "link": "https://www.yna.co.kr/view/AKR20260329015051009",
-      "source": "yna.co.kr",
-      "pubDate": "Sun, 29 Mar 2026 01:51:09 GMT",
-      "image": "https://img9.yna.co.kr/etc/inner/KR/2026/03/29/AKR20260329015051009_01_i_P4.jpg",
+      "title": "파키스탄 \"이란, 선박 20척 호르무즈 통과 허용\"‥트럼프 '리트윗' - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6811059_36925.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 29 Mar 2026 04:17:48 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/03/29/jhp_20260329_15.jpg",
       "summaries": {
-        "ko": "\"美국방부, 이란내 몇주 지상작전 준비…트럼프 아직 결단안해\"(종합) - yna.co.kr",
-        "en": "\"美국방부, 이란내 몇주 지상작전 준비…트럼프 아직 결단안해\"(종합) - yna.co.kr",
-        "zh": "\"美국방부, 이란내 몇주 지상작전 준비…트럼프 아직 결단안해\"(종합) - yna.co.kr"
+        "ko": "파키스탄 정부는 이란과의 합의로 자국 선박 20척의 호르무즈 해협 통과가 추가 허용되었음을 발표하며 이를 평화의 전조로 평가했고, 도널드 트럼프 전 미국 대통령이 이 발표를 공유했다.",
+        "en": "Pakistan announced an agreement with Iran allowing 20 additional Pakistani ships to pass through the Strait of Hormuz, hailing it as a sign of peace, with former US President Donald Trump sharing the announcement.",
+        "zh": "巴基斯坦政府宣布与伊朗达成协议，允许其20艘船只额外通过霍尔木兹海峡，并将其视为和平的预兆，美国前总统唐纳德·特朗普转发了这一消息。"
       }
     },
     {
-      "title": "구윤철 \"유가 120∼130달러로 오르면 민간에도 차량 5부제 검토\" - 네이트",
-      "link": "https://news.nate.com/view/20260329n06470",
-      "source": "네이트",
-      "pubDate": "Sun, 29 Mar 2026 02:25:00 GMT",
-      "image": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ch/2026/03/29/ch_1774754404926_83810_0.jpg",
+      "title": "이스라엘 표적 사살에 남매 기자 등 3명 사망···CNN 기자에게는 총구 겨눠 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603291542001",
+      "source": "경향신문",
+      "pubDate": "Sun, 29 Mar 2026 06:42:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/29/rcv.YNA.20260328.PAP20260328278401009_P1.jpg",
       "summaries": {
-        "ko": "구윤철 \"유가 120∼130달러로 오르면 민간에도 차량 5부제 검토\" - 네이트",
-        "en": "구윤철 \"유가 120∼130달러로 오르면 민간에도 차량 5부제 검토\" - 네이트",
-        "zh": "구윤철 \"유가 120∼130달러로 오르면 민간에도 차량 5부제 검토\" - 네이트"
+        "ko": "이스라엘군이 레바논에서 'PRESS' 표시 차량의 언론인 3명과 구급대원 1명을 표적 사살하고, 요르단강 서안지구에서는 CNN 기자들을 억류하며 폭력을 행사해 언론 자유 침해라는 비난을 받고 있다.",
+        "en": "Israeli forces are facing strong condemnation for allegedly targeting and killing three journalists in a 'PRESS'-marked vehicle and one EMT in Lebanon, while also detaining and assaulting CNN journalists in the West Bank, actions widely criticized as violations of press freedom.",
+        "zh": "以色列军队因在黎巴嫩定点清除“PRESS”标记车辆的3名记者和1名医护人员，同时在约旦河西岸拘留并袭击CNN记者而受到侵犯新闻自由的广泛谴责。"
       }
     },
     {
-      "title": "이정현 “가장 힘든 곳에서 역할 하겠다” 광주·전남 통합시장 출마 시사 - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/03/29/IWDXPGQ7NFHANL5T6YTX2Y7GIY/",
-      "source": "조선일보",
-      "pubDate": "Sun, 29 Mar 2026 03:10:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/HXPHTFEOYNLN7GR22NVRFNALUU.jpg?auth=c831628c313772f9225b5bf6f8b072ba407391be19848b864f9be5b128888362&width=1200&height=630&smart=true",
+      "title": "구윤철 \"유가 120~130달러 돌파 시 차량5부제 민간에도 도입해야\" - yonhapnewstv.co.kr",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260329110951c3i",
+      "source": "yonhapnewstv.co.kr",
+      "pubDate": "Sun, 29 Mar 2026 02:11:53 GMT",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260329/AKR20260329110951c3i_01_i.jpg",
       "summaries": {
-        "ko": "이정현 “가장 힘든 곳에서 역할 하겠다” 광주·전남 통합시장 출마 시사 - 조선일보",
-        "en": "이정현 “가장 힘든 곳에서 역할 하겠다” 광주·전남 통합시장 출마 시사 - 조선일보",
-        "zh": "이정현 “가장 힘든 곳에서 역할 하겠다” 광주·전남 통합시장 출마 시사 - 조선일보"
+        "ko": "구윤철 부총리는 국제 유가가 배럴당 120~130달러를 돌파할 경우 위기 경보를 격상하고 민간에도 차량 5부제를 의무화하는 방안을 검토할 수 있다고 밝혔습니다.",
+        "en": "Deputy Prime Minister Koo Yoon-cheol stated that if international oil prices exceed $120-130 per barrel, the government may raise the crisis alert level and consider making the vehicle 5-day rotation system mandatory for the private sector.",
+        "zh": "副总理具润哲表示，如果国际油价突破每桶120-130美元，政府可能会提高危机警报级别，并考虑对民间强制实施车辆限行五日制。"
       }
     },
     {
-      "title": "'낮 최고 22도' 완연한 봄…내륙 건조특보에 '산불 조심' - yna.co.kr",
-      "link": "https://www.yna.co.kr/view/AKR20260329002800034",
-      "source": "yna.co.kr",
-      "pubDate": "Sat, 28 Mar 2026 20:51:08 GMT",
-      "image": "https://img2.yna.co.kr/photo/yna/YH/2026/03/23/PYH2026032312390001300_P4.jpg",
+      "title": "일요일 낮 최고 22도 봄 날씨…“야외 활동 미세먼지 조심” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1251544.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 28 Mar 2026 12:33:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/627/424/imgdb/original/2026/0328/20260328500572.webp",
       "summaries": {
-        "ko": "'낮 최고 22도' 완연한 봄…내륙 건조특보에 '산불 조심' - yna.co.kr",
-        "en": "'낮 최고 22도' 완연한 봄…내륙 건조특보에 '산불 조심' - yna.co.kr",
-        "zh": "'낮 최고 22도' 완연한 봄…내륙 건조특보에 '산불 조심' - yna.co.kr"
+        "ko": "일요일 낮 최고 22도 봄 날씨…“야외 활동 미세먼지 조심” - 한겨레",
+        "en": "일요일 낮 최고 22도 봄 날씨…“야외 활동 미세먼지 조심” - 한겨레",
+        "zh": "일요일 낮 최고 22도 봄 날씨…“야외 활동 미세먼지 조심” - 한겨레"
+      }
+    },
+    {
+      "title": "이정현, 광주특별시장 출마 시사…“가장 어려운 곳서 역할할 것” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1251577.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 29 Mar 2026 05:14:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/549/imgdb/original/2026/0329/20260329501078.webp",
+      "summaries": {
+        "ko": "이정현, 광주특별시장 출마 시사…“가장 어려운 곳서 역할할 것” - 한겨레",
+        "en": "이정현, 광주특별시장 출마 시사…“가장 어려운 곳서 역할할 것” - 한겨레",
+        "zh": "이정현, 광주특별시장 출마 시사…“가장 어려운 곳서 역할할 것” - 한겨레"
       }
     },
     {
@@ -107,18 +119,6 @@
         "ko": "與 \"박상용 검사, '이재명 대북송금 주범 자백' 회유\"‥朴 \"이화영 측이 먼저 제안\" - MBC 뉴스",
         "en": "與 \"박상용 검사, '이재명 대북송금 주범 자백' 회유\"‥朴 \"이화영 측이 먼저 제안\" - MBC 뉴스",
         "zh": "與 \"박상용 검사, '이재명 대북송금 주범 자백' 회유\"‥朴 \"이화영 측이 먼저 제안\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "프로야구 개막 2연전에 21만 '구름관중'…이틀 연속 전 구장 매진",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260329153838xMK",
-      "source": "Breaking News",
-      "pubDate": "Sun, 29 Mar 2026 15:38:39 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260329/AKR20260329153838xMK_01_i.jpg",
-      "summaries": {
-        "ko": "프로야구 개막 2연전에 21만 '구름관중'…이틀 연속 전 구장 매진",
-        "en": "프로야구 개막 2연전에 21만 '구름관중'…이틀 연속 전 구장 매진",
-        "zh": "프로야구 개막 2연전에 21만 '구름관중'…이틀 연속 전 구장 매진"
       }
     }
   ]
