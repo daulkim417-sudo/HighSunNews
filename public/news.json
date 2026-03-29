@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-03-29T20:51:37.924258",
+  "lastUpdate": "2026-03-29T21:20:25.853808",
   "items": [
-    {
-      "title": "친이란 후티 반군까지 ‘참전’…포화, 중동 전역 확산 가능성 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603292024005",
-      "source": "경향신문",
-      "pubDate": "Sun, 29 Mar 2026 11:24:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/29/l_2026033001000812700090671.jpg",
-      "summaries": {
-        "ko": "친이란 후티 반군까지 ‘참전’…포화, 중동 전역 확산 가능성 - 경향신문",
-        "en": "친이란 후티 반군까지 ‘참전’…포화, 중동 전역 확산 가능성 - 경향신문",
-        "zh": "친이란 후티 반군까지 ‘참전’…포화, 중동 전역 확산 가능성 - 경향신문"
-      }
-    },
     {
       "title": "김부겸 앞세워 기대 부푼 민주…“대구도 부울경도 해볼만” - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1251651.html",
@@ -26,15 +14,27 @@
       }
     },
     {
-      "title": "[현장] ‘트럼프는 히틀러냐’ 폭발…미국 전역·유럽 3200곳 ‘노 킹스’ 시위 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1251549.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 29 Mar 2026 11:13:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0329/20260329500140.webp",
+      "title": "친이란 후티 반군까지 ‘참전’…포화, 중동 전역 확산 가능성 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603292024005",
+      "source": "경향신문",
+      "pubDate": "Sun, 29 Mar 2026 11:24:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/29/l_2026033001000812700090671.jpg",
       "summaries": {
-        "ko": "[현장] ‘트럼프는 히틀러냐’ 폭발…미국 전역·유럽 3200곳 ‘노 킹스’ 시위 - 한겨레",
-        "en": "[현장] ‘트럼프는 히틀러냐’ 폭발…미국 전역·유럽 3200곳 ‘노 킹스’ 시위 - 한겨레",
-        "zh": "[현장] ‘트럼프는 히틀러냐’ 폭발…미국 전역·유럽 3200곳 ‘노 킹스’ 시위 - 한겨레"
+        "ko": "친이란 후티 반군까지 ‘참전’…포화, 중동 전역 확산 가능성 - 경향신문",
+        "en": "친이란 후티 반군까지 ‘참전’…포화, 중동 전역 확산 가능성 - 경향신문",
+        "zh": "친이란 후티 반군까지 ‘참전’…포화, 중동 전역 확산 가능성 - 경향신문"
+      }
+    },
+    {
+      "title": "미 시민들 “못 참겠다”…분노로 타오른 ‘No Kings’ - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603292022005",
+      "source": "경향신문",
+      "pubDate": "Sun, 29 Mar 2026 11:22:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/29/l_2026033001000800400090661.jpg",
+      "summaries": {
+        "ko": "미 시민들 “못 참겠다”…분노로 타오른 ‘No Kings’ - 경향신문",
+        "en": "미 시민들 “못 참겠다”…분노로 타오른 ‘No Kings’ - 경향신문",
+        "zh": "미 시민들 “못 참겠다”…분노로 타오른 ‘No Kings’ - 경향신문"
       }
     },
     {
@@ -50,18 +50,6 @@
       }
     },
     {
-      "title": "‘윤 어게인’ 최종 우승, ‘폭행 전과’ 이혁재 심사···논란만 남긴 국힘 청년 오디션 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603291604001",
-      "source": "경향신문",
-      "pubDate": "Sun, 29 Mar 2026 07:04:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/29/rcv.YNA.20260326.PYH2026032615930001300_P1.jpg",
-      "summaries": {
-        "ko": "‘윤 어게인’ 최종 우승, ‘폭행 전과’ 이혁재 심사···논란만 남긴 국힘 청년 오디션 - 경향신문",
-        "en": "‘윤 어게인’ 최종 우승, ‘폭행 전과’ 이혁재 심사···논란만 남긴 국힘 청년 오디션 - 경향신문",
-        "zh": "‘윤 어게인’ 최종 우승, ‘폭행 전과’ 이혁재 심사···논란만 남긴 국힘 청년 오디션 - 경향신문"
-      }
-    },
-    {
       "title": "美가 주목한 이란 의회의장 “미군 지상 도착땐 불태울 것” - 조선일보",
       "link": "https://www.chosun.com/international/international_general/2026/03/29/XJ2GAAW72ZBVHKAYULNZNDNT7U/",
       "source": "조선일보",
@@ -74,15 +62,51 @@
       }
     },
     {
-      "title": "“이재명이 주범, 자백 있어야 돼” 녹취…박상용 검사 “짜깁기”라지만 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1251605.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 29 Mar 2026 13:11:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/793/573/imgdb/original/2026/0329/20260329501609.webp",
+      "title": "‘윤 어게인’ 최종 우승, ‘폭행 전과’ 이혁재 심사···논란만 남긴 국힘 청년 오디션 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603291604001",
+      "source": "경향신문",
+      "pubDate": "Sun, 29 Mar 2026 07:04:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/29/rcv.YNA.20260326.PYH2026032615930001300_P1.jpg",
       "summaries": {
-        "ko": "“이재명이 주범, 자백 있어야 돼” 녹취…박상용 검사 “짜깁기”라지만 - 한겨레",
-        "en": "“이재명이 주범, 자백 있어야 돼” 녹취…박상용 검사 “짜깁기”라지만 - 한겨레",
-        "zh": "“이재명이 주범, 자백 있어야 돼” 녹취…박상용 검사 “짜깁기”라지만 - 한겨레"
+        "ko": "‘윤 어게인’ 최종 우승, ‘폭행 전과’ 이혁재 심사···논란만 남긴 국힘 청년 오디션 - 경향신문",
+        "en": "‘윤 어게인’ 최종 우승, ‘폭행 전과’ 이혁재 심사···논란만 남긴 국힘 청년 오디션 - 경향신문",
+        "zh": "‘윤 어게인’ 최종 우승, ‘폭행 전과’ 이혁재 심사···논란만 남긴 국힘 청년 오디션 - 경향신문"
+      }
+    },
+    {
+      "title": "“이재명 주범, 이화영 종범...” 박상용 검사 통화 녹취록 공방 - 조선일보",
+      "link": "https://www.chosun.com/national/court_law/2026/03/29/R3LTWLQMHVEUTCJTY5A2XSKSKQ/",
+      "source": "조선일보",
+      "pubDate": "Sun, 29 Mar 2026 08:21:41 GMT",
+      "image": "https://www.chosun.com/resizer/v2/XSNINMA65REFZP7TQIWDE7726E.jpg?auth=e5cdc1230fe99a2c92a85e84b76cf2ec869900e6f80bd45dc86ad4fd0f819f11&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "“이재명 주범, 이화영 종범...” 박상용 검사 통화 녹취록 공방 - 조선일보",
+        "en": "“이재명 주범, 이화영 종범...” 박상용 검사 통화 녹취록 공방 - 조선일보",
+        "zh": "“이재명 주범, 이화영 종범...” 박상용 검사 통화 녹취록 공방 - 조선일보"
+      }
+    },
+    {
+      "title": "경찰, 이근안 상훈 16개 취소 검토…이 대통령 “만시지탄” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1251604.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 29 Mar 2026 10:41:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/428/imgdb/original/2026/0329/20260329501597.webp",
+      "summaries": {
+        "ko": "경찰, 이근안 상훈 16개 취소 검토…이 대통령 “만시지탄” - 한겨레",
+        "en": "경찰, 이근안 상훈 16개 취소 검토…이 대통령 “만시지탄” - 한겨레",
+        "zh": "경찰, 이근안 상훈 16개 취소 검토…이 대통령 “만시지탄” - 한겨레"
+      }
+    },
+    {
+      "title": "서울 벚꽃 공식 개화…평년보다 10일 빨라 - yonhapnewstv.co.kr",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260329161216br4",
+      "source": "yonhapnewstv.co.kr",
+      "pubDate": "Sun, 29 Mar 2026 07:12:16 GMT",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260329/AKR20260329161216br4_01_i.jpg",
+      "summaries": {
+        "ko": "서울 벚꽃 공식 개화…평년보다 10일 빨라 - yonhapnewstv.co.kr",
+        "en": "서울 벚꽃 공식 개화…평년보다 10일 빨라 - yonhapnewstv.co.kr",
+        "zh": "서울 벚꽃 공식 개화…평년보다 10일 빨라 - yonhapnewstv.co.kr"
       }
     },
     {
@@ -95,30 +119,6 @@
         "ko": "영남권 분위기 달라져…국힘→민주 간판 바꿔 출마 ‘우르르’ - 한겨레",
         "en": "영남권 분위기 달라져…국힘→민주 간판 바꿔 출마 ‘우르르’ - 한겨레",
         "zh": "영남권 분위기 달라져…국힘→민주 간판 바꿔 출마 ‘우르르’ - 한겨레"
-      }
-    },
-    {
-      "title": "서울 벚꽃 공식 개화…평년보다 10일 빨라 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260329161216br4",
-      "source": "연합뉴스TV",
-      "pubDate": "Sun, 29 Mar 2026 07:12:16 GMT",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260329/AKR20260329161216br4_01_i.jpg",
-      "summaries": {
-        "ko": "서울 벚꽃 공식 개화…평년보다 10일 빨라 - 연합뉴스TV",
-        "en": "서울 벚꽃 공식 개화…평년보다 10일 빨라 - 연합뉴스TV",
-        "zh": "서울 벚꽃 공식 개화…평년보다 10일 빨라 - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "일요일 낮 최고 22도 봄 날씨…“야외 활동 미세먼지 조심” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1251544.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 28 Mar 2026 12:33:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/627/424/imgdb/original/2026/0328/20260328500572.webp",
-      "summaries": {
-        "ko": "일요일 낮 최고 22도 봄 날씨…“야외 활동 미세먼지 조심” - 한겨레",
-        "en": "일요일 낮 최고 22도 봄 날씨…“야외 활동 미세먼지 조심” - 한겨레",
-        "zh": "일요일 낮 최고 22도 봄 날씨…“야외 활동 미세먼지 조심” - 한겨레"
       }
     },
     {
