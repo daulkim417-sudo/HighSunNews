@@ -1,136 +1,124 @@
 {
-  "lastUpdate": "2026-03-30T12:06:18.332223",
+  "lastUpdate": "2026-03-30T13:58:00.003281",
   "items": [
     {
-      "title": "트럼프 “이란 석유, 가장 좋아하는 옵션…선택지는 많다” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1251738.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 30 Mar 2026 11:22:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0330/20260330502612.webp",
-      "summaries": {
-        "ko": "트럼프 대통령이 이란과의 협상 진전을 언급하면서도, 이란 석유 수출의 핵심 거점인 하르그섬 점령 가능성까지 거론하며 군사적 압박을 병행하고 있음을 밝혔다.",
-        "en": "President Trump stated that negotiations with Iran are progressing, while simultaneously escalating military pressure by explicitly mentioning the possibility of occupying Kharg Island, a key Iranian oil export hub, and \"taking Iranian oil.\"",
-        "zh": "特朗普总统表示与伊朗的谈判正在取得进展，同时通过明确提及可能占领伊朗石油出口核心枢纽哈尔格岛并“夺取伊朗石油”来加强军事施压。"
-      }
-    },
-    {
-      "title": "종량제값은 ‘쓰레기 처리비’, “나프타 대란만의 문제 아냐” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603302037005",
-      "source": "경향신문",
-      "pubDate": "Mon, 30 Mar 2026 11:37:00 GMT",
-      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
-      "summaries": {
-        "ko": "종량제값은 ‘쓰레기 처리비’, “나프타 대란만의 문제 아냐” - 경향신문",
-        "en": "종량제값은 ‘쓰레기 처리비’, “나프타 대란만의 문제 아냐” - 경향신문",
-        "zh": "종량제값은 ‘쓰레기 처리비’, “나프타 대란만의 문제 아냐” - 경향신문"
-      }
-    },
-    {
-      "title": "김부겸 대구시장 선거 출마 “대구가 국힘 버려야 진짜 보수 살아나” - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/03/30/JLXKKCJZWRBXDASARFJ24G462Q/",
+      "title": "“트럼프, 이란 고농축 우라늄 450㎏ 탈취 군사작전 검토” - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/03/30/SV4ROGAMDBAXJGXETTTHWMWCHQ/",
       "source": "조선일보",
-      "pubDate": "Mon, 30 Mar 2026 04:27:09 GMT",
-      "image": "https://www.chosun.com/resizer/v2/AXPEXGSY5RF5JA6CFCGA7MYC7M.JPG?auth=09835cbd23e6ab1e194068f74a4142ef463e719ecaf79a62e5b7af569c4f31a0&width=1200&height=630&smart=true",
+      "pubDate": "Mon, 30 Mar 2026 11:03:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GVRTAYZYGMZDKN3EGVQTOMBYMI.jpg?auth=36f1b186a80eed8d18ba2cd641df60d55e1779977807cb6787be89a42fc697ee&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "김부겸 대구시장 선거 출마 “대구가 국힘 버려야 진짜 보수 살아나” - 조선일보",
-        "en": "김부겸 대구시장 선거 출마 “대구가 국힘 버려야 진짜 보수 살아나” - 조선일보",
-        "zh": "김부겸 대구시장 선거 출마 “대구가 국힘 버려야 진짜 보수 살아나” - 조선일보"
+        "ko": "“트럼프, 이란 고농축 우라늄 450㎏ 탈취 군사작전 검토” - 조선일보",
+        "en": "“트럼프, 이란 고농축 우라늄 450㎏ 탈취 군사작전 검토” - 조선일보",
+        "zh": "“트럼프, 이란 고농축 우라늄 450㎏ 탈취 군사작전 검토” - 조선일보"
       }
     },
     {
-      "title": "美 ‘하늘의 눈’ 멀게 한 이란... 러시아가 도와줬나 - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/03/30/YC6RIXEB75DVXJYKQ2WBGXFOGM/",
-      "source": "조선일보",
-      "pubDate": "Mon, 30 Mar 2026 06:16:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/KCJ2B43DNZF5ZDUNFUMBR4X4MU.gif?auth=1f5a3f1d6b03f7efecda1aa80217ae08af7698ae5a0fbbec1e06766baa9a0112&width=1024&height=537&smart=true",
-      "summaries": {
-        "ko": "美 ‘하늘의 눈’ 멀게 한 이란... 러시아가 도와줬나 - 조선일보",
-        "en": "美 ‘하늘의 눈’ 멀게 한 이란... 러시아가 도와줬나 - 조선일보",
-        "zh": "美 ‘하늘의 눈’ 멀게 한 이란... 러시아가 도와줬나 - 조선일보"
-      }
-    },
-    {
-      "title": "민주당, ‘대북송금 사건 회유 의혹’ 공세 계속…“조작 의심이 점점 진실로” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603301626001",
-      "source": "경향신문",
-      "pubDate": "Mon, 30 Mar 2026 07:26:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/30/news-p.v1.20260330.b7c49aaf26ff41aeb1bf35eec7ee6eec_P1.jpeg",
-      "summaries": {
-        "ko": "더불어민주당은 이재명 대통령이 연루된 쌍방울 대북송금 사건이 정치 검찰에 의해 조작되었고 검사가 증인을 회유했다고 주장하며 국정조사를 요구했으나, 검찰 측은 변호인이 감형을 거래하려 했다고 반박했다.",
-        "en": "The Democratic Party continues to allege that the Ssangbangul illegal remittance to North Korea case, involving President Lee Jae-myung, was fabricated by political prosecutors who coerced a witness, demanding a parliamentary investigation, while the prosecution maintains the witness's lawyer sought a deal for leniency.",
-        "zh": "韩国民主党持续声称涉及李在明总统的双铃对朝汇款案是政治检察官捏造的，并指控检察官诱导证人作伪证，要求进行国政调查，而检方则反驳称是证人律师寻求了减刑交易。"
-      }
-    },
-    {
-      "title": "안전공업 64살 베테랑…생전 “불 잦아, 회사 돈 많은데 비품 안 사주네” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/chungcheong/1251731.html",
+      "title": "트럼프 “합의 안 하면 모든 발전소·유전·담수화시설 파괴” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1251821.html",
       "source": "한겨레",
-      "pubDate": "Mon, 30 Mar 2026 10:16:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/573/imgdb/child/2026/0330/17748601863224_20260330502517.webp",
+      "pubDate": "Mon, 30 Mar 2026 13:11:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0330/20260330503412.webp",
       "summaries": {
-        "ko": "안전공업 64살 베테랑…생전 “불 잦아, 회사 돈 많은데 비품 안 사주네” - 한겨레",
-        "en": "안전공업 64살 베테랑…생전 “불 잦아, 회사 돈 많은데 비품 안 사주네” - 한겨레",
-        "zh": "안전공업 64살 베테랑…생전 “불 잦아, 회사 돈 많은데 비품 안 사주네” - 한겨레"
+        "ko": "도널드 트럼프 전 미국 대통령이 이란과의 신속한 합의 불발 및 호르무즈 해협 미개방 시 모든 발전소, 유전, 하르그섬 등 이란의 핵심 시설을 파괴하겠다고 위협했으나, 이란은 미국과의 직접 협상을 부인하며 요구 사항을 비현실적이라고 일축했다.",
+        "en": "Donald Trump threatened to destroy all of Iran's power plants, oil fields, and Kharg Island if a swift agreement is not reached and the Strait of Hormuz remains closed, even as negotiations are reportedly underway, while Iran denies direct talks and dismisses U.S. demands as unrealistic.",
+        "zh": "唐纳德·特朗普威胁称，如果未能迅速与伊朗达成协议且霍尔木兹海峡不开放，他将摧毁伊朗的所有发电厂、油田和哈尔格岛等关键设施，但伊朗否认与美国进行直接谈判，并认为美方要求不切实际。"
       }
     },
     {
-      "title": "문 앞에 오물 뿌리고…돈 받고 ‘보복 대행’ 3명 구속영장 신청 - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260330/133635459/2",
-      "source": "동아일보",
-      "pubDate": "Mon, 30 Mar 2026 02:38:55 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/30/133635449.3.jpg",
+      "title": "민주 “박상용 검사 긴급체포하라”…‘쌍방울 수사 형량 거래 의혹’ 맹폭 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1251753.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 30 Mar 2026 13:10:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/777/466/imgdb/child/2026/0330/53_17748576631879_6017748576359979.webp",
       "summaries": {
-        "ko": "문 앞에 오물 뿌리고…돈 받고 ‘보복 대행’ 3명 구속영장 신청 - 동아일보",
-        "en": "문 앞에 오물 뿌리고…돈 받고 ‘보복 대행’ 3명 구속영장 신청 - 동아일보",
-        "zh": "문 앞에 오물 뿌리고…돈 받고 ‘보복 대행’ 3명 구속영장 신청 - 동아일보"
+        "ko": "민주 “박상용 검사 긴급체포하라”…‘쌍방울 수사 형량 거래 의혹’ 맹폭 - 한겨레",
+        "en": "민주 “박상용 검사 긴급체포하라”…‘쌍방울 수사 형량 거래 의혹’ 맹폭 - 한겨레",
+        "zh": "민주 “박상용 검사 긴급체포하라”…‘쌍방울 수사 형량 거래 의혹’ 맹폭 - 한겨레"
       }
     },
     {
-      "title": "“정말 좋아하는” 제주에 미래 먹거리 선물한 이재명 대통령 - 제주의소리",
-      "link": "https://www.jejusori.net/news/articleView.html?idxno=501059",
-      "source": "제주의소리",
-      "pubDate": "Mon, 30 Mar 2026 08:23:47 GMT",
-      "image": "https://cdn.jejusori.net/news/photo/202603/501059_501537_1438.jpg",
-      "summaries": {
-        "ko": "“정말 좋아하는” 제주에 미래 먹거리 선물한 이재명 대통령 - 제주의소리",
-        "en": "“정말 좋아하는” 제주에 미래 먹거리 선물한 이재명 대통령 - 제주의소리",
-        "zh": "“정말 좋아하는” 제주에 미래 먹거리 선물한 이재명 대통령 - 제주의소리"
-      }
-    },
-    {
-      "title": "여야 \"추경안 4월 10일까지 본회의서 합의 처리\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6811324_36911.html",
+      "title": "이란 \"3천만 원짜리 샤헤드 드론이 수천억 조기경보기 파괴\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6811321_36925.html",
       "source": "MBC 뉴스",
-      "pubDate": "Mon, 30 Mar 2026 10:08:03 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/03/30/hye_20260330_18.jpg",
+      "pubDate": "Mon, 30 Mar 2026 09:55:29 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/03/30/hye_20260330_15.jpg",
       "summaries": {
-        "ko": "여야는 중동사태에 대응하기 위한 25조 원 규모의 추가경정예산안을 오는 4월 10일까지 본회의에서 합의 처리하기로 합의했습니다.",
-        "en": "The ruling and opposition parties have agreed to process a 25 trillion won supplementary budget, aimed at responding to the Middle East situation, by April 10th in the plenary session.",
-        "zh": "执政党和在野党已同意在4月10日之前，在全体会议上共同处理一份价值25万亿韩元、旨在应对中东局势的追加预算案。"
+        "ko": "이란 매체는 3천만 원짜리 샤헤드 드론이 사우디 공군기지에서 미군 조기경보기를 파괴하여 고가의 첨단 시스템이 저렴한 공격에 취약하다는 전술적 메시지를 전달했다고 보도했습니다.",
+        "en": "Iran's state media reported that a 30 million won Shahed drone destroyed a US AWACS plane at a Saudi airbase, claiming it as a tactical message that expensive advanced systems are vulnerable to cheap but smart attacks.",
+        "zh": "伊朗媒体报道称，一架价值3千万韩元的沙赫德无人机在沙特空军基地摧毁了一架美国预警机，并声称这传递了一个战术信息，即昂贵的先进系统也容易受到廉价而巧妙的攻击。"
       }
     },
     {
-      "title": "대전시장 선거, 이장우 vs 허태정 ‘초박빙’… 민주당 52.3%, 국힘 27.0% [뉴스티앤티 여론조사] - 뉴스티앤티",
-      "link": "http://www.newstnt.com/news/articleView.html?idxno=601719",
-      "source": "뉴스티앤티",
-      "pubDate": "Mon, 30 Mar 2026 06:04:59 GMT",
-      "image": "https://cdn.newstnt.com/news/thumbnail/202603/601719_629633_5840_v150.jpg",
+      "title": "추경 25조 중 10조 ‘고유가 부담 완화’ 투입 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603302048005",
+      "source": "경향신문",
+      "pubDate": "Mon, 30 Mar 2026 11:48:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/30/l_2026033101000834500094171.jpg",
       "summaries": {
-        "ko": "대전시장 선거, 이장우 vs 허태정 ‘초박빙’… 민주당 52.3%, 국힘 27.0% [뉴스티앤티 여론조사] - 뉴스티앤티",
-        "en": "대전시장 선거, 이장우 vs 허태정 ‘초박빙’… 민주당 52.3%, 국힘 27.0% [뉴스티앤티 여론조사] - 뉴스티앤티",
-        "zh": "대전시장 선거, 이장우 vs 허태정 ‘초박빙’… 민주당 52.3%, 국힘 27.0% [뉴스티앤티 여론조사] - 뉴스티앤티"
+        "ko": "추경 25조 중 10조 ‘고유가 부담 완화’ 투입 - 경향신문",
+        "en": "추경 25조 중 10조 ‘고유가 부담 완화’ 투입 - 경향신문",
+        "zh": "추경 25조 중 10조 ‘고유가 부담 완화’ 투입 - 경향신문"
       }
     },
     {
-      "title": "[속보] 트럼프 \"이란과 곧 합의 안되면 하르그섬과 모든 발전소 폭파\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202603302035025LL",
-      "source": "Breaking News",
-      "pubDate": "Mon, 30 Mar 2026 20:35:02 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260330/AKR202603302035025LL_01_i.jpg",
+      "title": "[단독]광화문광장 ‘받들어총’ 조형물 결국 들어선다···서울시 “4월 내 공사 마무리” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603301943001",
+      "source": "경향신문",
+      "pubDate": "Mon, 30 Mar 2026 10:43:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/30/news-p.v1.20260330.04c4077e0a7c42d4a062afdc200ce154_P1.png",
       "summaries": {
-        "ko": "[속보] 트럼프 \"이란과 곧 합의 안되면 하르그섬과 모든 발전소 폭파\"",
-        "en": "[속보] 트럼프 \"이란과 곧 합의 안되면 하르그섬과 모든 발전소 폭파\"",
-        "zh": "[속보] 트럼프 \"이란과 곧 합의 안되면 하르그섬과 모든 발전소 폭파\""
+        "ko": "[단독]광화문광장 ‘받들어총’ 조형물 결국 들어선다···서울시 “4월 내 공사 마무리” - 경향신문",
+        "en": "[단독]광화문광장 ‘받들어총’ 조형물 결국 들어선다···서울시 “4월 내 공사 마무리” - 경향신문",
+        "zh": "[단독]광화문광장 ‘받들어총’ 조형물 결국 들어선다···서울시 “4월 내 공사 마무리” - 경향신문"
+      }
+    },
+    {
+      "title": "김부겸 등판에도 국민의힘은 공천 내홍 지속…‘보수의 심장’에서 ‘격전지’된 대구 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603301706001",
+      "source": "경향신문",
+      "pubDate": "Mon, 30 Mar 2026 08:06:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/30/news-p.v1.20260330.1c944ff27a4d4b1d98a8b07a0435ef37_P1.jpeg",
+      "summaries": {
+        "ko": "김부겸 등판에도 국민의힘은 공천 내홍 지속…‘보수의 심장’에서 ‘격전지’된 대구 - 경향신문",
+        "en": "김부겸 등판에도 국민의힘은 공천 내홍 지속…‘보수의 심장’에서 ‘격전지’된 대구 - 경향신문",
+        "zh": "김부겸 등판에도 국민의힘은 공천 내홍 지속…‘보수의 심장’에서 ‘격전지’된 대구 - 경향신문"
+      }
+    },
+    {
+      "title": "\"투자사기 신고하자 인분 투척\"‥인천서도 '보복대행' 추정 신고 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6811323_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Mon, 30 Mar 2026 10:04:15 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/03/30/hye_20260330_17.jpg",
+      "summaries": {
+        "ko": "\"투자사기 신고하자 인분 투척\"‥인천서도 '보복대행' 추정 신고 - MBC 뉴스",
+        "en": "\"투자사기 신고하자 인분 투척\"‥인천서도 '보복대행' 추정 신고 - MBC 뉴스",
+        "zh": "\"투자사기 신고하자 인분 투척\"‥인천서도 '보복대행' 추정 신고 - MBC 뉴스"
+      }
+    },
+    {
+      "title": "李, 제주 타운홀미팅 참석 “오늘 결혼기념일, 신혼여행 생각나” - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/03/30/S5KQFEB2SVANTIQ5XL3J4J65EE/",
+      "source": "조선일보",
+      "pubDate": "Mon, 30 Mar 2026 08:38:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/ZPIDCN3YLNK6RJY7ZOAVSRCJX4.jpg?auth=026f13cbbc48e0539185153a0a7d2749527108a3865355d9a6c3418ade4e22aa&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "李, 제주 타운홀미팅 참석 “오늘 결혼기념일, 신혼여행 생각나” - 조선일보",
+        "en": "李, 제주 타운홀미팅 참석 “오늘 결혼기념일, 신혼여행 생각나” - 조선일보",
+        "zh": "李, 제주 타운홀미팅 참석 “오늘 결혼기념일, 신혼여행 생각나” - 조선일보"
+      }
+    },
+    {
+      "title": "강훈식 “기업들, 출퇴근 시간 분산 검토해 달라” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1251740.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 30 Mar 2026 11:14:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/674/imgdb/original/2026/0330/20260330502655.webp",
+      "summaries": {
+        "ko": "강훈식 “기업들, 출퇴근 시간 분산 검토해 달라” - 한겨레",
+        "en": "강훈식 “기업들, 출퇴근 시간 분산 검토해 달라” - 한겨레",
+        "zh": "강훈식 “기업들, 출퇴근 시간 분산 검토해 달라” - 한겨레"
       }
     }
   ]
