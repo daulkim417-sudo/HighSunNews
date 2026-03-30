@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-03-30T23:24:32.668993",
+  "lastUpdate": "2026-03-30T23:56:01.741592",
   "items": [
-    {
-      "title": "김부겸 “대구가 국힘 버려야 보수 산다”…12년 만에 시장 재도전 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603302041005",
-      "source": "경향신문",
-      "pubDate": "Mon, 30 Mar 2026 11:41:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/30/l_2026033101000858300095102.jpg",
-      "summaries": {
-        "ko": "김부겸 “대구가 국힘 버려야 보수 산다”…12년 만에 시장 재도전 - 경향신문",
-        "en": "김부겸 “대구가 국힘 버려야 보수 산다”…12년 만에 시장 재도전 - 경향신문",
-        "zh": "김부겸 “대구가 국힘 버려야 보수 산다”…12년 만에 시장 재도전 - 경향신문"
-      }
-    },
     {
       "title": "트럼프 “이란과 곧 합의 못하면, 하르그섬과 모든 발전소 폭파” - 조선일보",
       "link": "https://www.chosun.com/international/international_general/2026/03/31/CLNDSEJPFVERPOOGF2VFCW2HEY/",
@@ -26,27 +14,39 @@
       }
     },
     {
+      "title": "김부겸 “대구가 국힘 버려야 보수 산다”…12년 만에 시장 재도전 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603302041005",
+      "source": "경향신문",
+      "pubDate": "Mon, 30 Mar 2026 11:41:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/30/l_2026033101000858300095102.jpg",
+      "summaries": {
+        "ko": "김부겸 전 국무총리가 대구시장 출마를 선언하며 보수 정당 독점에 대한 심판을 촉구하고, '힘 있는 여당 후보'로서 이재명 정부의 전폭적 지원을 통한 대구 현안 해결을 강조했다.",
+        "en": "Former Prime Minister Kim Boo-kyum announced his candidacy for Daegu Mayor, calling for judgment on the conservative party's monopoly and emphasizing the resolution of Daegu's local issues through the full support of the Lee Jae-myung administration as a 'powerful ruling party candidate'.",
+        "zh": "前国务总理金富谦宣布参选大邱市长，呼吁审判保守政党的垄断，并强调作为“有实力的执政党候选人”，将通过李在明政府的全力支持解决大邱的地区悬案。"
+      }
+    },
+    {
       "title": "백악관 “이란전 비용 아랍국 분담 검토…전쟁 4~6주 내 끝날 것” - 한겨레",
       "link": "https://www.hani.co.kr/arti/international/arabafrica/1251836.html",
       "source": "한겨레",
       "pubDate": "Mon, 30 Mar 2026 21:46:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0331/20260331500128.webp",
       "summaries": {
-        "ko": "백악관 “이란전 비용 아랍국 분담 검토…전쟁 4~6주 내 끝날 것” - 한겨레",
-        "en": "백악관 “이란전 비용 아랍국 분담 검토…전쟁 4~6주 내 끝날 것” - 한겨레",
-        "zh": "백악관 “이란전 비용 아랍국 분담 검토…전쟁 4~6주 내 끝날 것” - 한겨레"
+        "ko": "백악관은 아랍국들이 이란전 비용을 분담하는 방안을 검토 중이며, 이란이 일부 협상 조건에 동의했고 전쟁은 4~6주 내에 종료될 것으로 예상한다고 밝혔다.",
+        "en": "The White House announced it is considering having Arab nations share the cost of the \"Iran war,\" stating that Iran has agreed to some negotiation terms and the conflict is expected to end within 4 to 6 weeks.",
+        "zh": "白宫表示正在考虑让阿拉伯国家分担“伊朗战争”费用，并称伊朗已同意部分谈判条件，预计战争将在4至6周内结束。"
       }
     },
     {
-      "title": "“미군 지상군 투입은 곧 ‘보급 수렁’…베트남전서 경험” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1251774.html",
+      "title": "미 지상전 장소 “호르무즈 7개 섬 유력”…아치형 핵심 요충지 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1251665.html",
       "source": "한겨레",
-      "pubDate": "Mon, 30 Mar 2026 10:08:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0330/53_17748601762892_20260330503012.webp",
+      "pubDate": "Mon, 30 Mar 2026 09:34:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0330/6617748298281265.webp",
       "summaries": {
-        "ko": "“미군 지상군 투입은 곧 ‘보급 수렁’…베트남전서 경험” - 한겨레",
-        "en": "“미군 지상군 투입은 곧 ‘보급 수렁’…베트남전서 경험” - 한겨레",
-        "zh": "“미군 지상군 투입은 곧 ‘보급 수렁’…베트남전서 경험” - 한겨레"
+        "ko": "미 지상전 장소 “호르무즈 7개 섬 유력”…아치형 핵심 요충지 - 한겨레",
+        "en": "미 지상전 장소 “호르무즈 7개 섬 유력”…아치형 핵심 요충지 - 한겨레",
+        "zh": "미 지상전 장소 “호르무즈 7개 섬 유력”…아치형 핵심 요충지 - 한겨레"
       }
     },
     {
@@ -74,6 +74,30 @@
       }
     },
     {
+      "title": "이젠 대놓고…국힘 윤갑근 충북지사 예비후보 “저는 윤어게인 후보” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603310817001",
+      "source": "경향신문",
+      "pubDate": "Mon, 30 Mar 2026 23:17:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/31/news-p.v1.20260331.e81cb0ac20d645d785d56c8fdc095bdc_P1.jpg",
+      "summaries": {
+        "ko": "이젠 대놓고…국힘 윤갑근 충북지사 예비후보 “저는 윤어게인 후보” - 경향신문",
+        "en": "이젠 대놓고…국힘 윤갑근 충북지사 예비후보 “저는 윤어게인 후보” - 경향신문",
+        "zh": "이젠 대놓고…국힘 윤갑근 충북지사 예비후보 “저는 윤어게인 후보” - 경향신문"
+      }
+    },
+    {
+      "title": "사기꾼이 웃으며 한 말 “더 세게 나가세요”···은행원·경찰이 말려도 의심조차 못했다 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603310600031",
+      "source": "경향신문",
+      "pubDate": "Mon, 30 Mar 2026 21:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/31/news-p.v1.20260330.62c0c0ffd9974f2a8e45d181477cee75_P1.jpg",
+      "summaries": {
+        "ko": "사기꾼이 웃으며 한 말 “더 세게 나가세요”···은행원·경찰이 말려도 의심조차 못했다 - 경향신문",
+        "en": "사기꾼이 웃으며 한 말 “더 세게 나가세요”···은행원·경찰이 말려도 의심조차 못했다 - 경향신문",
+        "zh": "사기꾼이 웃으며 한 말 “더 세게 나가세요”···은행원·경찰이 말려도 의심조차 못했다 - 경향신문"
+      }
+    },
+    {
       "title": "종량제 봉투 사재기에 '구매제한'…플라스틱 포장재 값도 오른다 - 연합뉴스TV",
       "link": "https://www.yonhapnewstv.co.kr/news/AKR20260330113550oaa",
       "source": "연합뉴스TV",
@@ -86,51 +110,15 @@
       }
     },
     {
-      "title": "‘국힘 10명’ 확보 못하면 개헌 불발…우원식, 내일 장동혁 만난다 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260330/133638103/1",
-      "source": "동아일보",
-      "pubDate": "Mon, 30 Mar 2026 08:00:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/30/133638672.1.jpg",
-      "summaries": {
-        "ko": "‘국힘 10명’ 확보 못하면 개헌 불발…우원식, 내일 장동혁 만난다 - 동아일보",
-        "en": "‘국힘 10명’ 확보 못하면 개헌 불발…우원식, 내일 장동혁 만난다 - 동아일보",
-        "zh": "‘국힘 10명’ 확보 못하면 개헌 불발…우원식, 내일 장동혁 만난다 - 동아일보"
-      }
-    },
-    {
-      "title": "안전공업 64살 베테랑…생전 “불 잦아, 회사 돈 많은데 비품 안 사주네” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/chungcheong/1251731.html",
+      "title": "우원식, 내일 장동혁과 만난다…“국힘도 개헌 동참해달라” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1251793.html",
       "source": "한겨레",
-      "pubDate": "Mon, 30 Mar 2026 13:10:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/573/imgdb/child/2026/0330/17748601863224_20260330502517.webp",
+      "pubDate": "Mon, 30 Mar 2026 11:25:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/657/370/imgdb/original/2026/0330/20260330503154.webp",
       "summaries": {
-        "ko": "안전공업 64살 베테랑…생전 “불 잦아, 회사 돈 많은데 비품 안 사주네” - 한겨레",
-        "en": "안전공업 64살 베테랑…생전 “불 잦아, 회사 돈 많은데 비품 안 사주네” - 한겨레",
-        "zh": "안전공업 64살 베테랑…생전 “불 잦아, 회사 돈 많은데 비품 안 사주네” - 한겨레"
-      }
-    },
-    {
-      "title": "여야 \"추경안 4월 10일까지 본회의서 합의 처리\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6811324_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Mon, 30 Mar 2026 10:08:03 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/03/30/hye_20260330_18.jpg",
-      "summaries": {
-        "ko": "여야 \"추경안 4월 10일까지 본회의서 합의 처리\" - MBC 뉴스",
-        "en": "여야 \"추경안 4월 10일까지 본회의서 합의 처리\" - MBC 뉴스",
-        "zh": "여야 \"추경안 4월 10일까지 본회의서 합의 처리\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "[속보] 2월 산업생산 2.5% 증가…반도체 등 광공업↑",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260331080412Zb7",
-      "source": "Breaking News",
-      "pubDate": "Tue, 31 Mar 2026 08:04:36 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260330/MYH20260331080412Zb7.jpg",
-      "summaries": {
-        "ko": "[속보] 2월 산업생산 2.5% 증가…반도체 등 광공업↑",
-        "en": "[속보] 2월 산업생산 2.5% 증가…반도체 등 광공업↑",
-        "zh": "[속보] 2월 산업생산 2.5% 증가…반도체 등 광공업↑"
+        "ko": "우원식, 내일 장동혁과 만난다…“국힘도 개헌 동참해달라” - 한겨레",
+        "en": "우원식, 내일 장동혁과 만난다…“국힘도 개헌 동참해달라” - 한겨레",
+        "zh": "우원식, 내일 장동혁과 만난다…“국힘도 개헌 동참해달라” - 한겨레"
       }
     }
   ]
