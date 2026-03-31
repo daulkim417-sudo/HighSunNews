@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-31T21:24:04.151902",
+  "lastUpdate": "2026-03-31T22:00:25.878504",
   "items": [
     {
       "title": "미 언론 “트럼프, 호르무즈 안 풀고 전쟁 끝낼 용의 있다고 밝혀” - 한겨레",
@@ -8,45 +8,9 @@
       "pubDate": "Tue, 31 Mar 2026 16:38:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/641/imgdb/child/2026/0331/17749560094355_20260331500053.webp",
       "summaries": {
-        "ko": "미국 언론에 따르면 트럼프 대통령은 호르무즈 해협 봉쇄 상태에서 이란 전쟁을 종료하고 아랍 국가들에 전쟁 비용 분담을 요구하는 방안을 고려 중이나, 이란은 미국과의 협상을 전면 부인하고 있다.",
-        "en": "According to U.S. media, President Trump is considering ending the war with Iran even with the Strait of Hormuz blocked and demanding Arab nations share war costs, though Iran completely denies any negotiations with the U.S.",
-        "zh": "据美国媒体报道，特朗普总统正在考虑在霍尔木兹海峡被封锁的情况下结束与伊朗的战争，并要求阿拉伯国家分担战争费用，然而伊朗完全否认与美国进行任何谈判。"
-      }
-    },
-    {
-      "title": "[속보]대구 신천 ‘여성 시신 캐리어 유기’ 관련 딸·사위 긴급체포 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603312150001",
-      "source": "경향신문",
-      "pubDate": "Tue, 31 Mar 2026 12:50:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/31/rcv.YNA.20260331.PYH2026033116550005300_P1.jpg",
-      "summaries": {
-        "ko": "[속보]대구 신천 ‘여성 시신 캐리어 유기’ 관련 딸·사위 긴급체포 - 경향신문",
-        "en": "[속보]대구 신천 ‘여성 시신 캐리어 유기’ 관련 딸·사위 긴급체포 - 경향신문",
-        "zh": "[속보]대구 신천 ‘여성 시신 캐리어 유기’ 관련 딸·사위 긴급체포 - 경향신문"
-      }
-    },
-    {
-      "title": "노년층 무료승차 제한…전현희·박주민·정원오 제각각 해법 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1252056.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 31 Mar 2026 19:33:35 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/640/imgdb/original/2026/0331/20260331504206.webp",
-      "summaries": {
-        "ko": "노년층 무료승차 제한…전현희·박주민·정원오 제각각 해법 - 한겨레",
-        "en": "노년층 무료승차 제한…전현희·박주민·정원오 제각각 해법 - 한겨레",
-        "zh": "노년층 무료승차 제한…전현희·박주민·정원오 제각각 해법 - 한겨레"
-      }
-    },
-    {
-      "title": "이란 외교부 “호르무즈 봉쇄는 미국탓…적국 선박 통과 못해” [일문일답] - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1252034.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 31 Mar 2026 11:15:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/964/643/imgdb/original/2026/0331/20260331504009.webp",
-      "summaries": {
-        "ko": "이란 외교부 “호르무즈 봉쇄는 미국탓…적국 선박 통과 못해” [일문일답] - 한겨레",
-        "en": "이란 외교부 “호르무즈 봉쇄는 미국탓…적국 선박 통과 못해” [일문일답] - 한겨레",
-        "zh": "이란 외교부 “호르무즈 봉쇄는 미국탓…적국 선박 통과 못해” [일문일답] - 한겨레"
+        "ko": "미 언론은 트럼프 대통령이 호르무즈 해협이 봉쇄된 채로 이란과의 전쟁을 끝낼 용의가 있으며, 아랍 국가들에 전쟁 비용 분담을 요구하는 방안도 고려 중이라고 보도했다.",
+        "en": "U.S. media reported that President Trump is willing to end military operations against Iran even if the Strait of Hormuz remains closed, and is considering asking Arab nations to share war costs.",
+        "zh": "据美国媒体报道，特朗普总统表示即使霍尔木兹海峡保持关闭，也愿意结束与伊朗的军事行动，并正在考虑要求阿拉伯国家分担战争费用。"
       }
     },
     {
@@ -62,6 +26,30 @@
       }
     },
     {
+      "title": "[속보]대구 신천 ‘여성 시신 캐리어 유기’ 관련 딸·사위 긴급체포 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603312150001",
+      "source": "경향신문",
+      "pubDate": "Tue, 31 Mar 2026 12:50:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/31/rcv.YNA.20260331.PYH2026033116550005300_P1.jpg",
+      "summaries": {
+        "ko": "대구 신천에서 여행용 가방에 담긴 50대 여성 시신이 발견된 사건과 관련해, 경찰이 피해자의 딸과 사위를 살해 및 사체유기 혐의로 긴급체포했으며, 이들은 범행을 시인했다.",
+        "en": "Regarding the case where a 50-year-old woman's body was found in a travel carrier in Daegu's Sincheon river, police emergency arrested the victim's daughter and son-in-law on charges of murder and abandonment of a corpse, and they have admitted to the crime.",
+        "zh": "关于大邱新川发现装有50多岁女性尸体的旅行箱事件，警方紧急逮捕了受害者的女儿和女婿，他们涉嫌杀人及遗弃尸体，并已承认罪行。"
+      }
+    },
+    {
+      "title": "노년층 무료승차 제한…전현희·박주민·정원오 제각각 해법 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1252056.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 31 Mar 2026 16:35:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/640/imgdb/original/2026/0331/20260331504206.webp",
+      "summaries": {
+        "ko": "노년층 무료승차 제한…전현희·박주민·정원오 제각각 해법 - 한겨레",
+        "en": "노년층 무료승차 제한…전현희·박주민·정원오 제각각 해법 - 한겨레",
+        "zh": "노년층 무료승차 제한…전현희·박주민·정원오 제각각 해법 - 한겨레"
+      }
+    },
+    {
       "title": "공정위 ‘전속고발권’ 46년 만에 없앤다 - 경향신문",
       "link": "https://www.khan.co.kr/article/202603312103015",
       "source": "경향신문",
@@ -71,6 +59,18 @@
         "ko": "공정위 ‘전속고발권’ 46년 만에 없앤다 - 경향신문",
         "en": "공정위 ‘전속고발권’ 46년 만에 없앤다 - 경향신문",
         "zh": "공정위 ‘전속고발권’ 46년 만에 없앤다 - 경향신문"
+      }
+    },
+    {
+      "title": "전재수, 내달 2일 해수부 앞에서 부산시장 출마 선언 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260331149800051",
+      "source": "연합뉴스",
+      "pubDate": "Tue, 31 Mar 2026 06:44:35 GMT",
+      "image": "https://img7.yna.co.kr/photo/yna/YH/2026/03/17/PYH2026031700970001300_P4.jpg",
+      "summaries": {
+        "ko": "전재수, 내달 2일 해수부 앞에서 부산시장 출마 선언 - 연합뉴스",
+        "en": "전재수, 내달 2일 해수부 앞에서 부산시장 출마 선언 - 연합뉴스",
+        "zh": "전재수, 내달 2일 해수부 앞에서 부산시장 출마 선언 - 연합뉴스"
       }
     },
     {
@@ -98,27 +98,27 @@
       }
     },
     {
-      "title": "법원 “국힘 김영환 컷오프 효력정지”…정당 공천에 이례적 개입 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260331/133647996/2",
-      "source": "동아일보",
-      "pubDate": "Tue, 31 Mar 2026 09:11:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/31/133647997.2.jpg",
+      "title": "인공지능(AI) 의료기기 상용화 지원 ‘450억 투입’ - 데일리메디",
+      "link": "https://www.dailymedi.com/news/news_view.php?wr_id=935187",
+      "source": "데일리메디",
+      "pubDate": "Tue, 31 Mar 2026 20:55:00 GMT",
+      "image": "https://www.dailymedi.com/img/d_logo.jpg",
       "summaries": {
-        "ko": "법원 “국힘 김영환 컷오프 효력정지”…정당 공천에 이례적 개입 - 동아일보",
-        "en": "법원 “국힘 김영환 컷오프 효력정지”…정당 공천에 이례적 개입 - 동아일보",
-        "zh": "법원 “국힘 김영환 컷오프 효력정지”…정당 공천에 이례적 개입 - 동아일보"
+        "ko": "인공지능(AI) 의료기기 상용화 지원 ‘450억 투입’ - 데일리메디",
+        "en": "인공지능(AI) 의료기기 상용화 지원 ‘450억 투입’ - 데일리메디",
+        "zh": "인공지능(AI) 의료기기 상용화 지원 ‘450억 투입’ - 데일리메디"
       }
     },
     {
-      "title": "이 대통령 \"에너지 위기에 과감한 선제 대응‥긴급재정명령 활용할 수도\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6811492_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 31 Mar 2026 01:54:19 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/03/31/ggm_20260331_6.jpg",
+      "title": "전국 흐리고 오후부터 곳곳 봄비…미세먼지 '보통'∼'나쁨' - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260401007200034",
+      "source": "연합뉴스",
+      "pubDate": "Tue, 31 Mar 2026 20:24:17 GMT",
+      "image": "https://img4.yna.co.kr/photo/yna/YH/2026/03/31/PYH2026033110590005100_P4.jpg",
       "summaries": {
-        "ko": "이 대통령 \"에너지 위기에 과감한 선제 대응‥긴급재정명령 활용할 수도\" - MBC 뉴스",
-        "en": "이 대통령 \"에너지 위기에 과감한 선제 대응‥긴급재정명령 활용할 수도\" - MBC 뉴스",
-        "zh": "이 대통령 \"에너지 위기에 과감한 선제 대응‥긴급재정명령 활용할 수도\" - MBC 뉴스"
+        "ko": "전국 흐리고 오후부터 곳곳 봄비…미세먼지 '보통'∼'나쁨' - 연합뉴스",
+        "en": "전국 흐리고 오후부터 곳곳 봄비…미세먼지 '보통'∼'나쁨' - 연합뉴스",
+        "zh": "전국 흐리고 오후부터 곳곳 봄비…미세먼지 '보통'∼'나쁨' - 연합뉴스"
       }
     }
   ]
