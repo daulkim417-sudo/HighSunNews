@@ -1,64 +1,76 @@
 {
-  "lastUpdate": "2026-03-31T20:00:57.311092",
+  "lastUpdate": "2026-03-31T20:42:07.518223",
   "items": [
     {
-      "title": "미 언론 “트럼프, 호르무즈 안 풀고 전쟁 끝낼 용의 있다고 밝혀” - hani.co.kr",
+      "title": "미 언론 “트럼프, 호르무즈 안 풀고 전쟁 끝낼 용의 있다고 밝혀” - 한겨레",
       "link": "https://www.hani.co.kr/arti/international/america/1252035.html",
-      "source": "hani.co.kr",
+      "source": "한겨레",
       "pubDate": "Tue, 31 Mar 2026 16:38:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/641/imgdb/child/2026/0331/17749560094355_20260331500053.webp",
       "summaries": {
-        "ko": "트럼프 대통령은 작전 기한을 맞추기 위해 호르무즈 해협이 폐쇄된 상태에서도 이란과의 전쟁을 종료하고 아랍 국가들에 전쟁 비용 분담을 요구하는 방안을 고려 중이며, 이란은 협상을 부인하는 가운데 백악관은 협상 진전을 주장하고 있다.",
-        "en": "President Trump is reportedly considering ending the war with Iran even if the Strait of Hormuz remains closed to meet the operation timeline and asking Arab nations to share war costs, while the White House claims negotiation progress, which Iran denies.",
-        "zh": "据报道，特朗普总统正在考虑即使霍尔木兹海峡保持关闭，也要结束与伊朗的战争以符合行动时间表，并可能要求阿拉伯国家分担战争费用，而白宫声称谈判进展顺利，但伊朗否认了这一点。"
+        "ko": "미 언론은 트럼프 대통령이 호르무즈 해협이 폐쇄된 상태로도 이란과의 전쟁을 종료하고 아랍 국가들에 전쟁 비용 분담을 요구하는 방안을 고려하고 있다고 보도했다.",
+        "en": "US media reported that President Trump is considering ending the war with Iran even if the Strait of Hormuz remains closed, and is looking into demanding Arab nations share the war costs.",
+        "zh": "美国媒体报道称，特朗普总统正在考虑即使霍尔木兹海峡保持关闭也结束对伊朗的战争，并要求阿拉伯国家分担战争费用。"
       }
     },
     {
-      "title": "고유가 지원금 4조8천억 푼다…저소득·비수도권엔 차등 지급 - hani.co.kr",
+      "title": "[속보]대구 신천 ‘여성 시신 캐리어 유기’ 관련 딸·사위 긴급체포 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603312150001",
+      "source": "경향신문",
+      "pubDate": "Tue, 31 Mar 2026 12:50:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/31/rcv.YNA.20260331.PYH2026033116550005300_P1.jpg",
+      "summaries": {
+        "ko": "[속보]대구 신천 ‘여성 시신 캐리어 유기’ 관련 딸·사위 긴급체포 - 경향신문",
+        "en": "[속보]대구 신천 ‘여성 시신 캐리어 유기’ 관련 딸·사위 긴급체포 - 경향신문",
+        "zh": "[속보]대구 신천 ‘여성 시신 캐리어 유기’ 관련 딸·사위 긴급체포 - 경향신문"
+      }
+    },
+    {
+      "title": "이란 외교부 “호르무즈 봉쇄는 미국탓…적국 선박 통과 못해” [일문일답] - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1252034.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 31 Mar 2026 11:15:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/964/643/imgdb/original/2026/0331/20260331504009.webp",
+      "summaries": {
+        "ko": "이란 외교부 “호르무즈 봉쇄는 미국탓…적국 선박 통과 못해” [일문일답] - 한겨레",
+        "en": "이란 외교부 “호르무즈 봉쇄는 미국탓…적국 선박 통과 못해” [일문일답] - 한겨레",
+        "zh": "이란 외교부 “호르무즈 봉쇄는 미국탓…적국 선박 통과 못해” [일문일답] - 한겨레"
+      }
+    },
+    {
+      "title": "고유가 지원금 4조8천억 푼다…저소득·비수도권엔 차등 지급 - 한겨레",
       "link": "https://www.hani.co.kr/arti/economy/economy_general/1252000.html",
-      "source": "hani.co.kr",
+      "source": "한겨레",
       "pubDate": "Tue, 31 Mar 2026 13:18:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/636/imgdb/original/2026/0331/20260331503805.webp",
       "summaries": {
-        "ko": "고유가 지원금 4조8천억 푼다…저소득·비수도권엔 차등 지급 - hani.co.kr",
-        "en": "고유가 지원금 4조8천억 푼다…저소득·비수도권엔 차등 지급 - hani.co.kr",
-        "zh": "고유가 지원금 4조8천억 푼다…저소득·비수도권엔 차등 지급 - hani.co.kr"
+        "ko": "고유가 지원금 4조8천억 푼다…저소득·비수도권엔 차등 지급 - 한겨레",
+        "en": "고유가 지원금 4조8천억 푼다…저소득·비수도권엔 차등 지급 - 한겨레",
+        "zh": "고유가 지원금 4조8천억 푼다…저소득·비수도권엔 차등 지급 - 한겨레"
       }
     },
     {
-      "title": "이란 의회, 호르무즈 통행료 징수안 승인…트럼프 “연료 급한 국가, 해협 직접 가라” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202603312018005",
-      "source": "경향신문",
-      "pubDate": "Tue, 31 Mar 2026 11:18:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/03/31/l_2026040101000037100100431.jpg",
+      "title": "[속보] 李대통령 “수급불안에 과감히 대응…긴급재정명령 활용할 수도” - 매일경제",
+      "link": "https://www.mk.co.kr/news/politics/12003254",
+      "source": "매일경제",
+      "pubDate": "Tue, 31 Mar 2026 01:09:23 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202603/31/news-p.v1.20260331.7f19a4e7c17e422ab7bfb9d6ca3b7688_R.png",
       "summaries": {
-        "ko": "이란 의회, 호르무즈 통행료 징수안 승인…트럼프 “연료 급한 국가, 해협 직접 가라” - 경향신문",
-        "en": "이란 의회, 호르무즈 통행료 징수안 승인…트럼프 “연료 급한 국가, 해협 직접 가라” - 경향신문",
-        "zh": "이란 의회, 호르무즈 통행료 징수안 승인…트럼프 “연료 급한 국가, 해협 직접 가라” - 경향신문"
+        "ko": "[속보] 李대통령 “수급불안에 과감히 대응…긴급재정명령 활용할 수도” - 매일경제",
+        "en": "[속보] 李대통령 “수급불안에 과감히 대응…긴급재정명령 활용할 수도” - 매일경제",
+        "zh": "[속보] 李대통령 “수급불안에 과감히 대응…긴급재정명령 활용할 수도” - 매일경제"
       }
     },
     {
-      "title": "‘대구 신천 캐리어 시신’ 범인은 딸과 사위였다 - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260331/133649907/1",
-      "source": "동아일보",
-      "pubDate": "Tue, 31 Mar 2026 13:16:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/31/133649949.1.jpg",
+      "title": "‘이화영 진술회유 의혹’ 박상용 검사, 공수처에 고발됐다 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1251964.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 31 Mar 2026 08:10:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/793/573/imgdb/original/2026/0331/20260331503437.webp",
       "summaries": {
-        "ko": "‘대구 신천 캐리어 시신’ 범인은 딸과 사위였다 - 동아일보",
-        "en": "‘대구 신천 캐리어 시신’ 범인은 딸과 사위였다 - 동아일보",
-        "zh": "‘대구 신천 캐리어 시신’ 범인은 딸과 사위였다 - 동아일보"
-      }
-    },
-    {
-      "title": "노년층 무료승차 제한…전현희·박주민·정원오 제각각 해법 - hani.co.kr",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1252056.html",
-      "source": "hani.co.kr",
-      "pubDate": "Tue, 31 Mar 2026 16:35:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/640/imgdb/original/2026/0331/20260331504206.webp",
-      "summaries": {
-        "ko": "더불어민주당 서울시장 예비후보인 전현희, 박주민, 정원오가 이 대통령이 제안한 출퇴근 시간 노년층 무료 대중교통 이용 제한 구상에 대해 각각 일하는 어르신 별도 카드, 출근 시간 다변화, 자발적 자제 캠페인이라는 해법을 제시했다.",
-        "en": "Democratic Party Seoul mayoral candidates Jeon Hyun-hee, Park Ju-min, and Jung Won-oh each proposed different solutions—providing special cards for working seniors, diversifying commute times, or launching a voluntary self-restraint campaign—regarding President Lee's idea to restrict free public transport for seniors during rush hour.",
-        "zh": "针对李总统提出的上下班高峰期限制老年人免费搭乘公共交通的构想，共同民主党首尔市长候选人全贤姬、朴柱民、郑元午分别提出了为工作老年人提供专用交通卡、错峰出行以及呼吁老年人自愿避开高峰期出行的解决方案。"
+        "ko": "‘이화영 진술회유 의혹’ 박상용 검사, 공수처에 고발됐다 - 한겨레",
+        "en": "‘이화영 진술회유 의혹’ 박상용 검사, 공수처에 고발됐다 - 한겨레",
+        "zh": "‘이화영 진술회유 의혹’ 박상용 검사, 공수처에 고발됐다 - 한겨레"
       }
     },
     {
@@ -74,51 +86,39 @@
       }
     },
     {
-      "title": "충북 김영환 컷오프 효력정지… 국힘 공천 대혼란 - chosun.com",
-      "link": "https://www.chosun.com/politics/politics_general/2026/04/01/QHJP72NRRFHWNH3PIDMLOMPACY/",
-      "source": "chosun.com",
-      "pubDate": "Tue, 31 Mar 2026 15:49:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/G5TDENRZGYZDCNBWGJRDONDEHE.jpg?auth=549cee8f77e06d1aab2b2b22ca4c83cd49e4fc00e6292adee3e84ff8c0dc70d3&width=1200&height=630&focal=2683,1921",
-      "summaries": {
-        "ko": "충북 김영환 컷오프 효력정지… 국힘 공천 대혼란 - chosun.com",
-        "en": "충북 김영환 컷오프 효력정지… 국힘 공천 대혼란 - chosun.com",
-        "zh": "충북 김영환 컷오프 효력정지… 국힘 공천 대혼란 - chosun.com"
-      }
-    },
-    {
-      "title": "법원 “국힘 김영환 컷오프 효력정지”…정당 공천에 이례적 개입 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260331/133647996/2",
+      "title": "김수민 “김영환 가처분 인용으로 나는 후보자격 상실” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260331/133649252/2",
       "source": "동아일보",
-      "pubDate": "Tue, 31 Mar 2026 09:11:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/31/133647997.2.jpg",
+      "pubDate": "Tue, 31 Mar 2026 10:53:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/31/133649239.3.jpg",
       "summaries": {
-        "ko": "법원 “국힘 김영환 컷오프 효력정지”…정당 공천에 이례적 개입 - 동아일보",
-        "en": "법원 “국힘 김영환 컷오프 효력정지”…정당 공천에 이례적 개입 - 동아일보",
-        "zh": "법원 “국힘 김영환 컷오프 효력정지”…정당 공천에 이례적 개입 - 동아일보"
+        "ko": "김수민 “김영환 가처분 인용으로 나는 후보자격 상실” - 동아일보",
+        "en": "김수민 “김영환 가처분 인용으로 나는 후보자격 상실” - 동아일보",
+        "zh": "김수민 “김영환 가처분 인용으로 나는 후보자격 상실” - 동아일보"
       }
     },
     {
-      "title": "이 대통령 \"에너지 위기에 과감한 선제 대응‥긴급재정명령 활용할 수도\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6811492_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 31 Mar 2026 01:54:19 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/03/31/ggm_20260331_6.jpg",
+      "title": "울산 아파트서 학원차에서 내린 초등생, SUV에 치여 숨져 - 조선일보",
+      "link": "https://www.chosun.com/national/regional/2026/03/31/4CNCS7HUKNH75BDEBEJBBQOVUE/",
+      "source": "조선일보",
+      "pubDate": "Tue, 31 Mar 2026 04:21:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/PIV4KRDHVNGBPNEZAFNLG5MYMQ.jpg?auth=de1f9ae6a113f70a3690d7f86721cf634f0f715e7ea46918e95defd7dc11dd41&width=1086&height=570&smart=true",
       "summaries": {
-        "ko": "이재명 대통령은 중동 전쟁 장기화에 따른 에너지 수급 위기에 선제적이고 과감한 대응을 지시하며 긴급재정명령 활용 가능성까지 언급했고, 재생에너지 전환 가속화를 강조했습니다.",
-        "en": "President Lee Jaemyung instructed proactive and bold responses to the energy supply crisis caused by the prolonged Middle East war, even mentioning the possibility of utilizing an emergency financial order, and emphasized accelerating the transition to renewable energy.",
-        "zh": "韩国总统李在明就中东战争长期化导致的能源供需危机，指示要果断采取先发制人措施，并提及可能动用紧急财政命令，同时强调要加速向可再生能源转型。"
+        "ko": "울산 아파트서 학원차에서 내린 초등생, SUV에 치여 숨져 - 조선일보",
+        "en": "울산 아파트서 학원차에서 내린 초등생, SUV에 치여 숨져 - 조선일보",
+        "zh": "울산 아파트서 학원차에서 내린 초등생, SUV에 치여 숨져 - 조선일보"
       }
     },
     {
-      "title": "네타냐후 \"이란 정권 몰락 머지않아\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260401042610z9K",
+      "title": "내일부터 약물운전 처벌 강화…측정 불응해도 처벌",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260401054023YYo",
       "source": "Breaking News",
-      "pubDate": "Wed, 01 Apr 2026 04:26:12 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260331/AKR20260401042610z9K_01_i.jpg",
+      "pubDate": "Wed, 01 Apr 2026 05:40:39 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260331/MYH20260401054023YYo.jpg",
       "summaries": {
-        "ko": "네타냐후 \"이란 정권 몰락 머지않아\"",
-        "en": "네타냐후 \"이란 정권 몰락 머지않아\"",
-        "zh": "네타냐후 \"이란 정권 몰락 머지않아\""
+        "ko": "내일부터 약물운전 처벌 강화…측정 불응해도 처벌",
+        "en": "내일부터 약물운전 처벌 강화…측정 불응해도 처벌",
+        "zh": "내일부터 약물운전 처벌 강화…측정 불응해도 처벌"
       }
     }
   ]
