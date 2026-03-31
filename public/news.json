@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-31T11:31:54.854077",
+  "lastUpdate": "2026-03-31T12:11:20.305450",
   "items": [
     {
       "title": "[경제직필]전쟁추경, 속도가 곧 민생이다 - 경향신문",
@@ -8,21 +8,33 @@
       "pubDate": "Tue, 31 Mar 2026 11:00:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/03/31/l_2026040101000022400099171.jpg",
       "summaries": {
-        "ko": "중동발 전쟁으로 인한 고유가 및 물가 상승 충격에 대응하여 스태그플레이션을 막고 민생을 보호하기 위해, 정부는 신속하고 정교하게 설계된 26조원 규모의 방어적 추경을 지체 없이 집행해야 한다.",
-        "en": "To counter the impact of high oil prices and inflation caused by the Middle East war, prevent stagflation, and protect livelihoods, the government must swiftly implement the precisely designed 26 trillion won defensive supplementary budget without delay.",
-        "zh": "为应对中东战争引发的高油价和物价上涨冲击，防止滞胀并保护民生，政府应迅速执行一项经过精心设计的26万亿韩元防御性补充预算。"
+        "ko": "중동발 전쟁으로 인한 고유가 및 스태그플레이션 우려에 대응하고자 정부는 26조 원 규모의 '전쟁 추경'을 편성했으며, 신속한 집행과 정교한 지원을 통해 서민 경제를 보호하고 피해를 최소화하는 것이 중요하다고 강조한다.",
+        "en": "To counter high oil prices and stagflation fears triggered by the Middle East war, the government has prepared a 26 trillion won 'war supplementary budget,' emphasizing that swift execution and refined support are crucial to protect the public's livelihood and minimize economic damage.",
+        "zh": "为应对中东战争引发的高油价和滞胀担忧，韩国政府编制了26万亿韩元的“战时追加预算”，并强调迅速执行和精准支援对于保护民生经济和最大程度减少损害至关重要。"
       }
     },
     {
-      "title": "[속보] 법원, 김영환 충북지사 국힘 경선 컷오프 효력정지 가처분 인용 - chosun.com",
+      "title": "호르무즈 봉쇄 계속돼도... 트럼프, 전쟁서 발 빼나 - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/03/31/LR3RRBRGH5HMVC6DUITHTZVLJY/",
+      "source": "조선일보",
+      "pubDate": "Tue, 31 Mar 2026 06:12:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/3VCWE6P4JVJYNJXNIR3F2ZNPD4.jpg?auth=76b11ade83fb158f0a3417766d991f87e748a5d73495a4b8d49bcc66a1ea277f&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "호르무즈 봉쇄 계속돼도... 트럼프, 전쟁서 발 빼나 - 조선일보",
+        "en": "호르무즈 봉쇄 계속돼도... 트럼프, 전쟁서 발 빼나 - 조선일보",
+        "zh": "호르무즈 봉쇄 계속돼도... 트럼프, 전쟁서 발 빼나 - 조선일보"
+      }
+    },
+    {
+      "title": "[속보] 법원, 김영환 충북지사 국힘 경선 컷오프 효력정지 가처분 인용 - 조선일보",
       "link": "https://www.chosun.com/politics/politics_general/2026/03/31/MSNJV2W76VHNZC2NMMNA7P7PCY/",
-      "source": "chosun.com",
+      "source": "조선일보",
       "pubDate": "Tue, 31 Mar 2026 09:13:00 GMT",
       "image": "https://www.chosun.com/resizer/v2/GYZWEOLCMRQTMMDBGBTDIZJYGY.jpg?auth=51c8fe9df1bebcfff80d74ded6fcdcb512e18986cac51d792ff56a44108b12bc&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "[속보] 법원, 김영환 충북지사 국힘 경선 컷오프 효력정지 가처분 인용 - chosun.com",
-        "en": "[속보] 법원, 김영환 충북지사 국힘 경선 컷오프 효력정지 가처분 인용 - chosun.com",
-        "zh": "[속보] 법원, 김영환 충북지사 국힘 경선 컷오프 효력정지 가처분 인용 - chosun.com"
+        "ko": "[속보] 법원, 김영환 충북지사 국힘 경선 컷오프 효력정지 가처분 인용 - 조선일보",
+        "en": "[속보] 법원, 김영환 충북지사 국힘 경선 컷오프 효력정지 가처분 인용 - 조선일보",
+        "zh": "[속보] 법원, 김영환 충북지사 국힘 경선 컷오프 효력정지 가처분 인용 - 조선일보"
       }
     },
     {
@@ -32,21 +44,21 @@
       "pubDate": "Tue, 31 Mar 2026 07:53:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0331/53_17749153112788_20260331500128.webp",
       "summaries": {
-        "ko": "백악관은 이란과의 군사작전 비용을 아랍국에 분담 요청하는 방안을 검토 중이며, 작전에서 상당한 군사적 성과를 거두고 이란이 일부 협상 조건에 동의했다고 밝히며 4~6주 내 종료를 목표로 협상 우위를 강조했다.",
-        "en": "The White House announced it is considering asking Arab nations to share the costs of the military operation against Iran, while claiming significant military success and stating that Iran has agreed to some negotiation terms, with the operation expected to conclude within 4-6 weeks.",
-        "zh": "白宫宣布正考虑要求阿拉伯国家分担对伊朗军事行动的费用，并声称已取得重大军事成果，同时强调伊朗已同意部分谈判条件，预计行动将在4至6周内结束。"
+        "ko": "백악관 “이란전 비용 아랍국 분담 검토”…전쟁비용 떠넘기나 - 한겨레",
+        "en": "백악관 “이란전 비용 아랍국 분담 검토”…전쟁비용 떠넘기나 - 한겨레",
+        "zh": "백악관 “이란전 비용 아랍국 분담 검토”…전쟁비용 떠넘기나 - 한겨레"
       }
     },
     {
-      "title": "[속보] 올해부터 5월 1일도 쉰다…‘노동절 공휴일법’ 국회 본회의 통과 - chosun.com",
-      "link": "https://www.chosun.com/politics/assembly/2026/03/31/2ZPBDATZD5CAVCK6PUES2WI5VI/",
-      "source": "chosun.com",
-      "pubDate": "Tue, 31 Mar 2026 08:06:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/ME3DOOLEMM4WEY3FGIZTEMLBGA.jpg?auth=3b8a697cdefa343c275f0b55ed3d1e6612c59b1b41a81109f63fc1dc8ad08650&width=1200&height=630&smart=true",
+      "title": "‘호르무즈 통행료 부과법’ 초안, 이란 의회 통과…국제협약 위반 논란 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1251960.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 31 Mar 2026 10:50:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0331/6017749455992896.webp",
       "summaries": {
-        "ko": "[속보] 올해부터 5월 1일도 쉰다…‘노동절 공휴일법’ 국회 본회의 통과 - chosun.com",
-        "en": "[속보] 올해부터 5월 1일도 쉰다…‘노동절 공휴일법’ 국회 본회의 통과 - chosun.com",
-        "zh": "[속보] 올해부터 5월 1일도 쉰다…‘노동절 공휴일법’ 국회 본회의 통과 - chosun.com"
+        "ko": "‘호르무즈 통행료 부과법’ 초안, 이란 의회 통과…국제협약 위반 논란 - 한겨레",
+        "en": "‘호르무즈 통행료 부과법’ 초안, 이란 의회 통과…국제협약 위반 논란 - 한겨레",
+        "zh": "‘호르무즈 통행료 부과법’ 초안, 이란 의회 통과…국제협약 위반 논란 - 한겨레"
       }
     },
     {
@@ -62,15 +74,39 @@
       }
     },
     {
-      "title": "백은종 서울의소리 대표, ‘진술회유 의혹’ 박상용 검사 공수처 고발 - 한겨레",
+      "title": "‘이화영 진술회유 의혹’ 박상용 검사, 공수처에 고발됐다 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/society_general/1251964.html",
       "source": "한겨레",
       "pubDate": "Tue, 31 Mar 2026 08:10:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/793/573/imgdb/original/2026/0331/20260331503437.webp",
       "summaries": {
-        "ko": "백은종 서울의소리 대표, ‘진술회유 의혹’ 박상용 검사 공수처 고발 - 한겨레",
-        "en": "백은종 서울의소리 대표, ‘진술회유 의혹’ 박상용 검사 공수처 고발 - 한겨레",
-        "zh": "백은종 서울의소리 대표, ‘진술회유 의혹’ 박상용 검사 공수처 고발 - 한겨레"
+        "ko": "‘이화영 진술회유 의혹’ 박상용 검사, 공수처에 고발됐다 - 한겨레",
+        "en": "‘이화영 진술회유 의혹’ 박상용 검사, 공수처에 고발됐다 - 한겨레",
+        "zh": "‘이화영 진술회유 의혹’ 박상용 검사, 공수처에 고발됐다 - 한겨레"
+      }
+    },
+    {
+      "title": "김재섭 “정원오, 女직원과 둘이 칸쿤 출장... 서류엔 남성으로 기재” - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/03/31/SHP5Q52D6ZHULN25N7B3EPGW4E/",
+      "source": "조선일보",
+      "pubDate": "Tue, 31 Mar 2026 02:10:30 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MY3TAOBVMIZTEYZVMUYTKNRYGA.jpg?auth=b179cfdab5b1449313ea1722e3e2055273a00f85d9d766eef99642653f3822ba&width=1200&height=630&focal=1552,911",
+      "summaries": {
+        "ko": "김재섭 “정원오, 女직원과 둘이 칸쿤 출장... 서류엔 남성으로 기재” - 조선일보",
+        "en": "김재섭 “정원오, 女직원과 둘이 칸쿤 출장... 서류엔 남성으로 기재” - 조선일보",
+        "zh": "김재섭 “정원오, 女직원과 둘이 칸쿤 출장... 서류엔 남성으로 기재” - 조선일보"
+      }
+    },
+    {
+      "title": "윤석열 “고발됐다고 임명 못 하나”···‘이종섭 호주 대사 도피 의혹’ 첫 재판 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202603311649011",
+      "source": "경향신문",
+      "pubDate": "Tue, 31 Mar 2026 07:49:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/03/31/news-p.v1.20260331.9fcc53b4ec524dcf90dbdebd454acb37_P1.jpg",
+      "summaries": {
+        "ko": "윤석열 “고발됐다고 임명 못 하나”···‘이종섭 호주 대사 도피 의혹’ 첫 재판 - 경향신문",
+        "en": "윤석열 “고발됐다고 임명 못 하나”···‘이종섭 호주 대사 도피 의혹’ 첫 재판 - 경향신문",
+        "zh": "윤석열 “고발됐다고 임명 못 하나”···‘이종섭 호주 대사 도피 의혹’ 첫 재판 - 경향신문"
       }
     },
     {
@@ -83,42 +119,6 @@
         "ko": "인천 아파트서 60대 어머니 숨진 채 발견…40대 아들은 중상 - 한겨레",
         "en": "인천 아파트서 60대 어머니 숨진 채 발견…40대 아들은 중상 - 한겨레",
         "zh": "인천 아파트서 60대 어머니 숨진 채 발견…40대 아들은 중상 - 한겨레"
-      }
-    },
-    {
-      "title": "이혼소송 중 아내 살해한 뒤 시신 버리려 한 60대 검거 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6811455_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 31 Mar 2026 00:19:53 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/03/31/jh_20260331_1.jpg",
-      "summaries": {
-        "ko": "이혼 소송 중이던 60대 남성이 50대 아내를 살해하고 시신을 야산에 유기하려다 경찰에 붙잡혔습니다.",
-        "en": "A 60-year-old man, who was in the middle of a divorce lawsuit, murdered his 50-year-old wife and attempted to dispose of her body in a mountain before being apprehended by the police.",
-        "zh": "一名60多岁男子在离婚诉讼期间杀害了50多岁的妻子，并试图将尸体遗弃在荒山中，后被警方抓获。"
-      }
-    },
-    {
-      "title": "\"오랜만에 속이 다 시원하네\"…경찰 앞 난동 문신남의 최후 - 네이트",
-      "link": "https://news.nate.com/view/20260331n13887",
-      "source": "네이트",
-      "pubDate": "Tue, 31 Mar 2026 02:09:00 GMT",
-      "image": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/mt/2026/03/31/mt_1774923606731_884187_0.jpg",
-      "summaries": {
-        "ko": "\"오랜만에 속이 다 시원하네\"…경찰 앞 난동 문신남의 최후 - 네이트",
-        "en": "\"오랜만에 속이 다 시원하네\"…경찰 앞 난동 문신남의 최후 - 네이트",
-        "zh": "\"오랜만에 속이 다 시원하네\"…경찰 앞 난동 문신남의 최후 - 네이트"
-      }
-    },
-    {
-      "title": "[뉴스특보] 트럼프, '초토화' 으름장…\"호르무즈 봉쇄되도 종전\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260331201321hgC",
-      "source": "Breaking News",
-      "pubDate": "Tue, 31 Mar 2026 20:18:40 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260331/MYH20260331201321hgC.jpg",
-      "summaries": {
-        "ko": "[뉴스특보] 트럼프, '초토화' 으름장…\"호르무즈 봉쇄되도 종전\"",
-        "en": "[뉴스특보] 트럼프, '초토화' 으름장…\"호르무즈 봉쇄되도 종전\"",
-        "zh": "[뉴스특보] 트럼프, '초토화' 으름장…\"호르무즈 봉쇄되도 종전\""
       }
     }
   ]
