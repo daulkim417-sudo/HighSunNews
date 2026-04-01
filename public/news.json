@@ -1,16 +1,16 @@
 {
-  "lastUpdate": "2026-04-01T15:20:27.095491",
+  "lastUpdate": "2026-04-01T16:18:40.380014",
   "items": [
     {
-      "title": "트럼프 “이란 새 대통령, 방금 휴전 요청” 주장 - 조선일보",
-      "link": "https://www.chosun.com/international/us/2026/04/01/2TJBQBUO4FCBPFUTC6SKPQHGMA/",
-      "source": "조선일보",
-      "pubDate": "Wed, 01 Apr 2026 13:02:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/TCMPSAIBOROHTEMSL5O36ML2SY.jpg?auth=65deef106ce3ead7e7d9abf46ab029fe062a301a5077738fcb165cabd91cc9b9&width=1200&height=630&focal=1464,1315",
+      "title": "트럼프 “이란 새 대통령 미국에 휴전 요청”…이란 쪽은 ‘부인’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1252237.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 01 Apr 2026 15:01:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0331/20260331500128.webp",
       "summaries": {
-        "ko": "트럼프 “이란 새 대통령, 방금 휴전 요청” 주장 - 조선일보",
-        "en": "트럼프 “이란 새 대통령, 방금 휴전 요청” 주장 - 조선일보",
-        "zh": "트럼프 “이란 새 대통령, 방금 휴전 요청” 주장 - 조선일보"
+        "ko": "도널드 트럼프 미국 대통령이 이란의 새 대통령이 미국에 휴전을 요청했다고 주장했으나, 이란 측은 이 요청을 부인했다.",
+        "en": "Donald Trump claimed that Iran's new president requested a truce with the U.S., but Iranian officials denied making such a request.",
+        "zh": "唐纳德·特朗普声称伊朗新任总统已向美国请求休战，但伊朗方面否认了这一请求。"
       }
     },
     {
@@ -20,9 +20,9 @@
       "pubDate": "Wed, 01 Apr 2026 11:28:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/04/01/l_2026040201000084100003811.jpg",
       "summaries": {
-        "ko": "이재명 대통령과 프라보워 인도네시아 대통령은 정상회담을 통해 양국 관계를 '특별 포괄적 전략 동반자 관계'로 격상하고, KF-21 등 국방·방산, 핵심광물, AI 등 16건의 양해각서를 체결하며 경제 및 국제사회 안정 협력을 확대하기로 했다.",
-        "en": "South Korean President Lee Jae-myung and Indonesian President Prabowo Subianto held a summit, elevating their bilateral relationship to a \"Special Comprehensive Strategic Partnership\" and signing 16 MOUs to expand cooperation in defense (including KF-21), critical minerals, AI, and economic and international stability.",
-        "zh": "韩国总统李在明与印尼总统普拉博沃举行峰会，将两国关系提升至“特别全面战略伙伴关系”，并签署16项谅解备忘录，以扩大在国防（包括KF-21）、关键矿产、人工智能以及经济和国际稳定等领域的合作。"
+        "ko": "한·인니 ‘특별 포괄적 전략 동반자 관계’ 격상 - 경향신문",
+        "en": "한·인니 ‘특별 포괄적 전략 동반자 관계’ 격상 - 경향신문",
+        "zh": "한·인니 ‘특별 포괄적 전략 동반자 관계’ 격상 - 경향신문"
       }
     },
     {
@@ -38,18 +38,6 @@
       }
     },
     {
-      "title": "이란 대통령 ‘필수 조건’ 충족 전제로 “종전 의지 있다” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8523820",
-      "source": "KBS 뉴스",
-      "pubDate": "Tue, 31 Mar 2026 23:20:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/04/01/20260401_x9ncUo.jpg",
-      "summaries": {
-        "ko": "이란 대통령 ‘필수 조건’ 충족 전제로 “종전 의지 있다” - KBS 뉴스",
-        "en": "이란 대통령 ‘필수 조건’ 충족 전제로 “종전 의지 있다” - KBS 뉴스",
-        "zh": "이란 대통령 ‘필수 조건’ 충족 전제로 “종전 의지 있다” - KBS 뉴스"
-      }
-    },
-    {
       "title": "[속보] 정부, 원유 위기경보 3단계 ‘경계’로 격상…가스도 ‘주의’ 상향 - 매일경제",
       "link": "https://www.mk.co.kr/news/economy/12005327",
       "source": "매일경제",
@@ -62,15 +50,39 @@
       }
     },
     {
-      "title": "국힘 새 공관위원장 박덕흠 내정…장동혁 ‘컷오프 가처분’ 반발 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1252090.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 01 Apr 2026 07:45:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/814/imgdb/child/2026/0401/17750100956583_6817750097968231.webp",
+      "title": "국힘 새 공관위원장 박덕흠... 충북 공천파행에 충북 의원 선택 - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/04/01/FUE46SJ3HBHJVHE5IC6622U7XY/",
+      "source": "조선일보",
+      "pubDate": "Wed, 01 Apr 2026 04:23:23 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MI2TSZDFGUZTSNJZGA4DOMBSMU.jpg?auth=e77d65121e4c62cb715ee865af938c35ee0a59192d6dbd83a20529039a8f74dd&width=1200&height=630&focal=2429,1617",
       "summaries": {
-        "ko": "국힘 새 공관위원장 박덕흠 내정…장동혁 ‘컷오프 가처분’ 반발 - 한겨레",
-        "en": "국힘 새 공관위원장 박덕흠 내정…장동혁 ‘컷오프 가처분’ 반발 - 한겨레",
-        "zh": "국힘 새 공관위원장 박덕흠 내정…장동혁 ‘컷오프 가처분’ 반발 - 한겨레"
+        "ko": "국힘 새 공관위원장 박덕흠... 충북 공천파행에 충북 의원 선택 - 조선일보",
+        "en": "국힘 새 공관위원장 박덕흠... 충북 공천파행에 충북 의원 선택 - 조선일보",
+        "zh": "국힘 새 공관위원장 박덕흠... 충북 공천파행에 충북 의원 선택 - 조선일보"
+      }
+    },
+    {
+      "title": "이란 대통령 “침략 안 한다면 '종전' 의지 있다” - 전자신문",
+      "link": "https://www.etnews.com/20260401000105",
+      "source": "전자신문",
+      "pubDate": "Wed, 01 Apr 2026 01:13:40 GMT",
+      "image": "https://img.etnews.com/news/article/2026/01/11/rcv.YNA.20260111.PRU20260111424501009_P1.jpg",
+      "summaries": {
+        "ko": "이란 대통령 “침략 안 한다면 '종전' 의지 있다” - 전자신문",
+        "en": "이란 대통령 “침략 안 한다면 '종전' 의지 있다” - 전자신문",
+        "zh": "이란 대통령 “침략 안 한다면 '종전' 의지 있다” - 전자신문"
+      }
+    },
+    {
+      "title": "정원오, 김재섭 고발…“단둘이 출장 아닌 걸 알고도 흠집 내기” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1252159.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 01 Apr 2026 12:31:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/820/446/imgdb/original/2026/0401/20260401503084.webp",
+      "summaries": {
+        "ko": "정원오, 김재섭 고발…“단둘이 출장 아닌 걸 알고도 흠집 내기” - 한겨레",
+        "en": "정원오, 김재섭 고발…“단둘이 출장 아닌 걸 알고도 흠집 내기” - 한겨레",
+        "zh": "정원오, 김재섭 고발…“단둘이 출장 아닌 걸 알고도 흠집 내기” - 한겨레"
       }
     },
     {
@@ -107,18 +119,6 @@
         "ko": "‘이화영 진술회유 의혹’ 박상용 검사, 공수처에 고발됐다 - 한겨레",
         "en": "‘이화영 진술회유 의혹’ 박상용 검사, 공수처에 고발됐다 - 한겨레",
         "zh": "‘이화영 진술회유 의혹’ 박상용 검사, 공수처에 고발됐다 - 한겨레"
-      }
-    },
-    {
-      "title": "김재섭 “정원오, 여직원과 단둘이 출장 표현 안 썼다” - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/04/01/N6C7QXVJQZD35FKO2YOPYZXG7M/",
-      "source": "조선일보",
-      "pubDate": "Wed, 01 Apr 2026 06:43:32 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MIZGENTDHE3TONTDGA2WGMRWGY.jpg?auth=0cfe177ba503786c814ede47f036c18aa35d1533416ae16e2b6a4810d6f30af8&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "김재섭 “정원오, 여직원과 단둘이 출장 표현 안 썼다” - 조선일보",
-        "en": "김재섭 “정원오, 여직원과 단둘이 출장 표현 안 썼다” - 조선일보",
-        "zh": "김재섭 “정원오, 여직원과 단둘이 출장 표현 안 썼다” - 조선일보"
       }
     },
     {
