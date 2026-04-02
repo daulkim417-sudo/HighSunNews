@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-04-02T22:44:54.061320",
+  "lastUpdate": "2026-04-02T23:06:31.402990",
   "items": [
-    {
-      "title": "“이란, 세계 경제 안보에 타격”···40여개국 외교장관들 ‘호르무즈 개방’ 논의, 한국도 참석 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604022222001",
-      "source": "경향신문",
-      "pubDate": "Thu, 02 Apr 2026 13:22:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/02/rcv.YNA.20260402.PRU20260402274401009_P1.jpg",
-      "summaries": {
-        "ko": "이란이 세계 경제 안보에 타격을 입힌 호르무즈 해협 봉쇄 해제를 위해, 한국 등 40여개국 외교장관들이 화상 회의를 통해 외교적·경제적 수단을 동원한 국제 협력을 논의했다.",
-        "en": "Foreign ministers from over 40 countries, including South Korea, virtually convened to discuss international cooperation using diplomatic and economic means to lift the effective blockade of the Strait of Hormuz, which Iran's actions have impacted global economic security.",
-        "zh": "为解决伊朗因事实封锁霍尔木兹海峡而对全球经济安全造成的冲击，包括韩国在内的40多个国家的外交部长举行了视频会议，讨论通过外交和经济手段进行国际合作。"
-      }
-    },
     {
       "title": "트럼프, 알맹이 없는 ‘대국민 호소’…“모순된 메시지”만 남아 - 한겨레",
       "link": "https://www.hani.co.kr/arti/international/america/1252397.html",
@@ -20,16 +8,28 @@
       "pubDate": "Thu, 02 Apr 2026 13:11:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0402/2317751245042895.webp",
       "summaries": {
-        "ko": "트럼프, 알맹이 없는 ‘대국민 호소’…“모순된 메시지”만 남아 - 한겨레",
-        "en": "트럼프, 알맹이 없는 ‘대국민 호소’…“모순된 메시지”만 남아 - 한겨레",
-        "zh": "트럼프, 알맹이 없는 ‘대국민 호소’…“모순된 메시지”만 남아 - 한겨레"
+        "ko": "트럼프 대통령이 이란 전쟁 관련 대국민 연설에서 군사적 성과를 강조했지만, 구체적인 종전 계획이나 협상 실체, 경제 문제 해법 없이 모순된 메시지만 내놓아 하락하는 지지율을 되돌리려는 알맹이 없는 호소에 그쳤다는 평가를 받았다.",
+        "en": "President Trump's national address on the Iran war, while emphasizing military achievements, was criticized for offering no concrete exit strategy, negotiation details, or solutions for economic problems, instead delivering contradictory messages in an empty appeal to reverse his declining approval ratings.",
+        "zh": "特朗普总统就伊朗战争发表的全国讲话，在强调军事成就的同时，未能提出具体的停战计划、谈判细节或经济问题解决方案，反而传递了自相矛盾的信息，因此被批评为一次旨在挽回不断下降支持率、内容空洞的呼吁。"
+      }
+    },
+    {
+      "title": "“이란, 세계 경제 안보에 타격”···40여개국 외교장관들 ‘호르무즈 개방’ 논의, 한국도 참석 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604022222001",
+      "source": "경향신문",
+      "pubDate": "Thu, 02 Apr 2026 13:22:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/02/rcv.YNA.20260402.PRU20260402274401009_P1.jpg",
+      "summaries": {
+        "ko": "“이란, 세계 경제 안보에 타격”···40여개국 외교장관들 ‘호르무즈 개방’ 논의, 한국도 참석 - 경향신문",
+        "en": "“이란, 세계 경제 안보에 타격”···40여개국 외교장관들 ‘호르무즈 개방’ 논의, 한국도 참석 - 경향신문",
+        "zh": "“이란, 세계 경제 안보에 타격”···40여개국 외교장관들 ‘호르무즈 개방’ 논의, 한국도 참석 - 경향신문"
       }
     },
     {
       "title": "“비상계엄 왜 사법심사 못하나…대통령도 헌법 통제 받아야” - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/society_general/1252447.html",
       "source": "한겨레",
-      "pubDate": "Thu, 02 Apr 2026 20:00:00 GMT",
+      "pubDate": "Thu, 02 Apr 2026 21:45:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/600/375/imgdb/original/2026/0402/20260402503961.webp",
       "summaries": {
         "ko": "“비상계엄 왜 사법심사 못하나…대통령도 헌법 통제 받아야” - 한겨레",
@@ -50,39 +50,15 @@
       }
     },
     {
-      "title": "나프타 쇼크 \"약 포장지와 수액제 팩까지…비축과 선제적 대응 필요\" - 약사공론",
-      "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=532244",
-      "source": "약사공론",
-      "pubDate": "Thu, 02 Apr 2026 20:50:00 GMT",
-      "image": "https://cdn.kpanews.co.kr/news/photo/202604/532244_440945_1119.jpg",
+      "title": "‘음료 3잔 횡령 혐의’ 알바생 고소한 카페 점주, 결국 소 취하···수사는 절차대로 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604022318001",
+      "source": "경향신문",
+      "pubDate": "Thu, 02 Apr 2026 14:18:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/02/news-p.v1.20260402.eed9623ecd7b44d1b8ea7144332bfa1b_P2.jpeg",
       "summaries": {
-        "ko": "나프타 쇼크 \"약 포장지와 수액제 팩까지…비축과 선제적 대응 필요\" - 약사공론",
-        "en": "나프타 쇼크 \"약 포장지와 수액제 팩까지…비축과 선제적 대응 필요\" - 약사공론",
-        "zh": "나프타 쇼크 \"약 포장지와 수액제 팩까지…비축과 선제적 대응 필요\" - 약사공론"
-      }
-    },
-    {
-      "title": "국힘 충북지사 경선, ‘컷오프’ 김영환 포함 원점서 재실시 - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/04/02/UPVOASH3LBA5DLJE26VYRC4BC4/",
-      "source": "조선일보",
-      "pubDate": "Thu, 02 Apr 2026 11:54:09 GMT",
-      "image": "https://www.chosun.com/resizer/v2/YKBBCJSCIVG7NNDMFS4IOJ3QPA.jpg?auth=1d26d8821a681b661df356746ae3c7fd74693c11edf3838ff4cce0ee4236c2ea&width=1200&height=630&focal=1901,1147",
-      "summaries": {
-        "ko": "국힘 충북지사 경선, ‘컷오프’ 김영환 포함 원점서 재실시 - 조선일보",
-        "en": "국힘 충북지사 경선, ‘컷오프’ 김영환 포함 원점서 재실시 - 조선일보",
-        "zh": "국힘 충북지사 경선, ‘컷오프’ 김영환 포함 원점서 재실시 - 조선일보"
-      }
-    },
-    {
-      "title": "李대통령 맞은 국힘 의원들, 박수 안쳤지만 악수는 나눠 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260402/133663572/2",
-      "source": "동아일보",
-      "pubDate": "Thu, 02 Apr 2026 07:28:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/02/133665805.1.jpg",
-      "summaries": {
-        "ko": "李대통령 맞은 국힘 의원들, 박수 안쳤지만 악수는 나눠 - 동아일보",
-        "en": "李대통령 맞은 국힘 의원들, 박수 안쳤지만 악수는 나눠 - 동아일보",
-        "zh": "李대통령 맞은 국힘 의원들, 박수 안쳤지만 악수는 나눠 - 동아일보"
+        "ko": "‘음료 3잔 횡령 혐의’ 알바생 고소한 카페 점주, 결국 소 취하···수사는 절차대로 - 경향신문",
+        "en": "‘음료 3잔 횡령 혐의’ 알바생 고소한 카페 점주, 결국 소 취하···수사는 절차대로 - 경향신문",
+        "zh": "‘음료 3잔 횡령 혐의’ 알바생 고소한 카페 점주, 결국 소 취하···수사는 절차대로 - 경향신문"
       }
     },
     {
@@ -110,15 +86,39 @@
       }
     },
     {
-      "title": "호르무즈 개방 논의…이란, 교량 공습에 보복 예고",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260403073812IkZ",
-      "source": "Breaking News",
-      "pubDate": "Fri, 03 Apr 2026 07:38:51 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260402/MYH20260403073812IkZ.jpg",
+      "title": "1764, 좌익 무장대가 짓밟은 4·3 희생자 숫자입니다 - 조선일보",
+      "link": "https://www.chosun.com/culture-life/relion-academia/2026/04/03/BVWVG3HBZRC7JI352WISHDU5RY/",
+      "source": "조선일보",
+      "pubDate": "Thu, 02 Apr 2026 15:42:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/ZDLXNX3CRVEDJLMWSIANTI3EUQ.jpg?auth=54d5b39c2e6666bc157b02140b5d53e57e739ed0800982e916aa5337290aa901&width=1200&height=630&focal=2062,1768",
       "summaries": {
-        "ko": "호르무즈 개방 논의…이란, 교량 공습에 보복 예고",
-        "en": "호르무즈 개방 논의…이란, 교량 공습에 보복 예고",
-        "zh": "호르무즈 개방 논의…이란, 교량 공습에 보복 예고"
+        "ko": "1764, 좌익 무장대가 짓밟은 4·3 희생자 숫자입니다 - 조선일보",
+        "en": "1764, 좌익 무장대가 짓밟은 4·3 희생자 숫자입니다 - 조선일보",
+        "zh": "1764, 좌익 무장대가 짓밟은 4·3 희생자 숫자입니다 - 조선일보"
+      }
+    },
+    {
+      "title": "김관영은 의혹 당일 자르고… 4개월째 수사 전재수는 부산 출마 - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/04/03/ZFMH3E6ISVBMPBG5KU5AZV7424/",
+      "source": "조선일보",
+      "pubDate": "Thu, 02 Apr 2026 15:50:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/IOJ7ZGT5WBFBLGOOWNXUUZAZGE.jpg?auth=4bec948300c473c334f22a03fe9bae6eee9fa102727724e486db491ab1d9d2b1&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "김관영은 의혹 당일 자르고… 4개월째 수사 전재수는 부산 출마 - 조선일보",
+        "en": "김관영은 의혹 당일 자르고… 4개월째 수사 전재수는 부산 출마 - 조선일보",
+        "zh": "김관영은 의혹 당일 자르고… 4개월째 수사 전재수는 부산 출마 - 조선일보"
+      }
+    },
+    {
+      "title": "[날씨] 밤부터 전국 비…출근길 서해안 짙은 안개",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260403080515nuB",
+      "source": "Breaking News",
+      "pubDate": "Fri, 03 Apr 2026 08:05:41 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260402/MYH20260403080515nuB.jpg",
+      "summaries": {
+        "ko": "[날씨] 밤부터 전국 비…출근길 서해안 짙은 안개",
+        "en": "[날씨] 밤부터 전국 비…출근길 서해안 짙은 안개",
+        "zh": "[날씨] 밤부터 전국 비…출근길 서해안 짙은 안개"
       }
     }
   ]
