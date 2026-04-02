@@ -1,6 +1,30 @@
 {
-  "lastUpdate": "2026-04-02T08:43:09.049929",
+  "lastUpdate": "2026-04-02T09:45:47.775923",
   "items": [
+    {
+      "title": "李대통령, 국힘 의원들과 악수... 시정연설 모처럼 화기애애 - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/04/02/D3PAQPZAHRBJXCKGQI5HWDDBXA/",
+      "source": "조선일보",
+      "pubDate": "Thu, 02 Apr 2026 08:19:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/QHOTXIAVQRET3BHFPA3FH4GLJ4.JPG?auth=fbedc3a0b787eade062e4348edb781af3473aef9e973110ad8cab95eb0575afe&width=1200&height=630&focal=1403,670",
+      "summaries": {
+        "ko": "李대통령, 국힘 의원들과 악수... 시정연설 모처럼 화기애애 - 조선일보",
+        "en": "李대통령, 국힘 의원들과 악수... 시정연설 모처럼 화기애애 - 조선일보",
+        "zh": "李대통령, 국힘 의원들과 악수... 시정연설 모처럼 화기애애 - 조선일보"
+      }
+    },
+    {
+      "title": "종전 로드맵 없는 트럼프의 ‘오락가락 18분 호소’…“오직 전쟁, 전쟁, 전쟁뿐” 혹평 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604021700001",
+      "source": "경향신문",
+      "pubDate": "Thu, 02 Apr 2026 08:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/02/rcv.YNA.20260402.PRU20260402168101009_P1.jpg",
+      "summaries": {
+        "ko": "트럼프 대통령의 대이란 군사작전 대국민 연설은 압도적 승리와 신속한 종전을 강조했지만, 구체적인 출구 전략과 모순된 주장으로 혹평을 받았다.",
+        "en": "President Trump's national address on the Iran military operation, which emphasized overwhelming victory and a swift end, was criticized for lacking a concrete exit strategy and containing contradictory claims.",
+        "zh": "特朗普总统就对伊朗军事行动发表的全国讲话，尽管强调了压倒性胜利和迅速结束战争，但因缺乏具体的退出战略和前后矛盾的言论而受到批评。"
+      }
+    },
     {
       "title": "이 대통령 “5·18, 계엄 요건 엄격화 ‘개헌 합의’ 충분히 가능” - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/bluehouse/1252328.html",
@@ -8,57 +32,33 @@
       "pubDate": "Thu, 02 Apr 2026 07:02:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/577/imgdb/child/2026/0402/17751107718553_20260402502335.webp",
       "summaries": {
-        "ko": "이재명 대통령은 5·18 정신의 헌법 전문 반영과 계엄 요건 엄격화가 합의 가능한 개헌 과제라고 언급하며 초당적 협력을 요청했다.",
-        "en": "President Lee Jae-myung stated that incorporating the 5·18 spirit into the constitutional preamble and tightening martial law requirements are constitutional amendment tasks achievable through consensus, while also requesting bipartisan cooperation.",
-        "zh": "李在明总统表示，将5·18精神载入宪法序言并严格化戒严要求是可以通过共识实现的修宪议题，并呼吁各党派进行合作。"
+        "ko": "이재명 대통령은 국회 사전간담회에서 5·18 정신의 헌법 전문 반영과 계엄 요건 엄격화 문제에 대해 충분한 합의가 가능하다며 부분적인 개헌 추진을 제안했다.",
+        "en": "President Lee Jae-myung proposed pursuing a partial constitutional amendment, suggesting that there is sufficient consensus on reflecting the 5·18 spirit in the constitutional preamble and strictly defining martial law requirements.",
+        "zh": "李在明总统在国会事先座谈会上提议推行部分修宪，指出将5·18精神纳入宪法序言以及严格化戒严条件的问题可以达成充分共识。"
       }
     },
     {
-      "title": "김재섭, “민주당, ‘미스터 칸쿤’ 정원오 지키겠다고 체면 버리나” - news.kbs.co.kr",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8525296",
-      "source": "news.kbs.co.kr",
-      "pubDate": "Thu, 02 Apr 2026 08:11:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/04/02/20260402_xO5Nad.png",
-      "summaries": {
-        "ko": "국민의힘 김재섭 의원이 민주당 정원오 서울시장 예비후보의 '칸쿤 출장 의혹'을 재차 제기하며 출장 경위, 과도한 경비, 공문서 조작 및 인사 특혜 가능성을 주장했고, 이에 민주당은 김 의원을 윤리특위에 제소하겠다고 맞섰다.",
-        "en": "People Power Party lawmaker Kim Jae-seop reiterated suspicions about Democratic Party Seoul mayoral preliminary candidate Jeong Won-oh's \"Cancun business trip,\" alleging questionable circumstances, excessive expenses, official document forgery, and possible personnel favoritism, to which the Democratic Party responded by announcing an ethics committee complaint against Kim.",
-        "zh": "国民力量党议员金载燮再次提出对共同民主党首尔市长预备候选人郑元吾“坎昆出差”的质疑，指控其出差行程可疑、费用过高、公务文件涉嫌伪造及随行公务员获得人事特惠，共同民主党则回应称将向国会伦理特别委员会举报金议员。"
-      }
-    },
-    {
-      "title": "NYT “트럼프 연설, SNS 재탕에 갈팡질팡” - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/04/02/VKWS7INVBNGETGS7Z5HTP3FQWA/",
+      "title": "이란 “미국, 영원히 후회할 것” 후티는 ‘홍해 봉쇄’ 경고 - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/04/02/4335W5PXHJA7XOSRV3X5KZGXOA/",
       "source": "조선일보",
-      "pubDate": "Thu, 02 Apr 2026 06:14:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/TGJEFY3S5BGPXDGDGUOW5BXFHI.jpg?auth=7e05c15c07000010cff0f227aecb97839d99bdf910beea466fe7a1975a6947f5&width=1200&height=630&focal=2525,844",
+      "pubDate": "Thu, 02 Apr 2026 08:44:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/PUYQP5ZMGFGEBLXG3NQQYXKYXY.png?auth=1c051ec197d7b74aff23d8e8a5ea064a46ec49532fa6093c462e359ae70d1efd&width=800&height=420&smart=true",
       "summaries": {
-        "ko": "NYT “트럼프 연설, SNS 재탕에 갈팡질팡” - 조선일보",
-        "en": "NYT “트럼프 연설, SNS 재탕에 갈팡질팡” - 조선일보",
-        "zh": "NYT “트럼프 연설, SNS 재탕에 갈팡질팡” - 조선일보"
+        "ko": "이란 “미국, 영원히 후회할 것” 후티는 ‘홍해 봉쇄’ 경고 - 조선일보",
+        "en": "이란 “미국, 영원히 후회할 것” 후티는 ‘홍해 봉쇄’ 경고 - 조선일보",
+        "zh": "이란 “미국, 영원히 후회할 것” 후티는 ‘홍해 봉쇄’ 경고 - 조선일보"
       }
     },
     {
-      "title": "중동 AI 인프라는 왜 이란의 표적이 됐나 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604021620011",
-      "source": "경향신문",
-      "pubDate": "Thu, 02 Apr 2026 07:20:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/02/news-p.v1.20260402.fa1fb74b69384b2f9bc76565f8bf3965_P1.png",
+      "title": "與 \"저질 '성별 괴담' 김재섭 대가 치를 것‥즉각 사퇴해야\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6812208_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Thu, 02 Apr 2026 07:14:23 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/04/02/joo260402_20.jpg",
       "summaries": {
-        "ko": "이란이 바레인 아마존 AWS 시설 등을 포함한 중동 내 미국 빅테크의 AI 및 ICT 인프라에 보복 공격을 개시했으며, 이는 해당 시설들이 미국/이스라엘 군사 작전에 활용된 데 따른 것이자 현대 전쟁에서 이들이 전략적 표적이 되었음을 드러냈다.",
-        "en": "Iran has launched retaliatory attacks on US big tech's AI and ICT infrastructure in the Middle East, including an Amazon AWS facility in Bahrain, citing their use in US/Israeli military operations and exposing these data centers as strategic wartime targets.",
-        "zh": "伊朗对中东地区美国大型科技公司的AI和ICT基础设施（包括巴林亚马逊AWS设施）发起了报复性袭击，声称这些设施被用于美国/以色列的军事行动，并暴露出这些数据中心在现代战争中成为战略目标的脆弱性。"
-      }
-    },
-    {
-      "title": "전쟁추경…조선일보 “현금 살포 중독” 한겨레 “정유사 보전 재정부담 눈덩이” - mediatoday.co.kr",
-      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333466",
-      "source": "mediatoday.co.kr",
-      "pubDate": "Tue, 31 Mar 2026 22:35:25 GMT",
-      "image": "https://cdn.mediatoday.co.kr/news/thumbnail/202604/333466_476966_2611_v150.jpg",
-      "summaries": {
-        "ko": "한국 정부가 중동 위기 대응을 위해 26조 2천억 원 규모의 추가경정예산안을 의결했으나, 현금 살포와 유가 상한제 등 주요 내용에 대해 언론들은 '현금 살포 중독'과 재정 부담 증가 가능성을 들어 강하게 비판했다.",
-        "en": "South Korea's government approved a 26.2 trillion won supplementary budget to address the Middle East crisis, including cash handouts and oil price cap measures, but major media outlets strongly criticized it as potential 'cash-scattering addiction' and a growing financial burden.",
-        "zh": "韩国政府批准了26.2万亿韩元的追加预算案以应对中东危机，其中包括现金发放和油价上限措施，但遭到主要媒体的强烈批评，认为这可能导致‘现金散发成瘾’并增加财政负担。"
+        "ko": "더불어민주당은 여성 공무원의 해외 출장을 문제 삼으며 정원오 후보를 비판한 국민의힘 김재섭 의원의 발언을 \"저질 성별 괴담\"이자 \"공직 여성에 대한 인격 살인\"으로 규정하고 즉각 사퇴를 촉구했다.",
+        "en": "The Democratic Party condemned People Power Party's Kim Jae-seop for his remarks criticizing candidate Jeong Won-oh over a female public official's overseas trip, labeling it a \"low-quality 'gender ghost story'\" and \"character assassination against women in public service,\" demanding his immediate resignation.",
+        "zh": "共同民主党谴责国民力量党议员金宰燮就一名女公务员海外出差一事批评郑源午候选人的言论，称其为“低劣的‘性别怪谈’”和“对公职女性的人格谋杀”，并要求他立即辞职。"
       }
     },
     {
@@ -68,57 +68,57 @@
       "pubDate": "Thu, 02 Apr 2026 08:06:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0402/20260402501739.webp",
       "summaries": {
-        "ko": "미국 정보기관들은 이란이 자신들이 유리한 위치에 있고 미국의 외교를 신뢰하지 않아, 핵 프로그램과 탄도미사일 관련 핵심 사안에서 양보 없이 실질적인 종전 협상에 응할 의사가 없다고 판단한다.",
-        "en": "US intelligence agencies assess that Iran, believing itself to be in a favorable position and distrusting US diplomacy, is unwilling to engage in substantive peace negotiations without concessions on key issues related to its nuclear program and ballistic missiles.",
-        "zh": "美国情报机构评估认为，伊朗认为自己处于有利地位且不信任美国的外交，因此不愿在核计划和弹道导弹等关键问题上做出让步，不愿参与实质性的终战谈判。"
+        "ko": "미 정보기관들은 이란이 자신들이 유리한 위치에 있다고 판단하며 미국의 외교적 제안을 신뢰하지 않아 미·이스라엘과의 종전 협상에 실질적으로 응하지 않고, 핵심 요구를 주권 침해로 간주한다고 평가했다.",
+        "en": "US intelligence agencies assess that Iran, believing itself to be in a favorable position and distrusting US diplomatic overtures, is unwilling to engage in substantive peace talks with the US and Israel, viewing key demands as infringements on its sovereignty.",
+        "zh": "美国情报机构评估称，伊朗认为自己处于有利地位，不信任美国的外交提议，因此不愿与美国和以色列进行实质性和谈，并视美国的核心要求为对其主权的侵犯。"
       }
     },
     {
-      "title": "8일부터 공공기관 차량 2부제·공영주차장 5부제 시행 - 대한민국 정책브리핑",
+      "title": "[속보]대구 ‘캐리어 시신’ 사건 부부 구속···“신상 공개 여부 검토” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604021728001",
+      "source": "경향신문",
+      "pubDate": "Thu, 02 Apr 2026 08:28:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/02/news-p.v1.20260402.5ff218a3049a40f28c2ee571d369c1f4_P1.jpg",
+      "summaries": {
+        "ko": "대구에서 여행용 가방에 50대 장모 시신을 담아 하천에 유기한 혐의를 받는 20대 부부가 구속되었고, 경찰은 이들의 신상 공개 여부를 검토하고 있다.",
+        "en": "In Daegu, a couple in their 20s suspected of putting the body of their 50s mother-in-law into a travel bag and abandoning it in a stream has been arrested, and the police are reviewing whether to disclose their identities.",
+        "zh": "在大邱，涉嫌将50多岁岳母的尸体装入旅行箱并遗弃在河流中的一对20多岁夫妇已被拘捕，警方正在考虑是否公开他们的身份。"
+      }
+    },
+    {
+      "title": "8일부터 공공기관 차량 2부제·공영주차장 5부제 시행 - korea.kr",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148961891",
-      "source": "대한민국 정책브리핑",
+      "source": "korea.kr",
       "pubDate": "Thu, 02 Apr 2026 03:10:33 GMT",
       "image": "https://www.korea.kr/newsWeb/resources/attaches/2026.04/01/8e7978dcab1706485dc9fa2f57bb9f75.jpg",
       "summaries": {
-        "ko": "정부가 에너지 안보 위기 경계 단계 발령에 따라 4월 8일부터 공공기관 차량은 2부제로, 공영주차장은 5부제로 운행 및 이용을 제한하는 강화된 에너지 절감 조치를 시행한다.",
-        "en": "Responding to an energy security crisis alert, the South Korean government will implement enhanced energy-saving measures from April 8th, enforcing a 2-day alternate driving system for public institution vehicles and a 5-day restriction system for public parking lots.",
-        "zh": "为应对能源安全危机预警，韩国政府将从4月8日起实施更严格的节能措施，包括对公共机构车辆实行两日轮流限行以及对公共停车场实行五日限行。"
+        "ko": "정부가 자원안보위기 '경계' 단계 발령에 따라 4월 8일부터 공공기관 차량 2부제와 공영주차장 5부제를 시행한다.",
+        "en": "The government will implement a two-day vehicle restriction for public institution vehicles and a five-day restriction for public parking lots starting April 8th, in response to the \"resource security crisis alert.\"",
+        "zh": "韩国政府宣布进入资源安全危机“警戒”阶段，将从4月8日起对公共机构车辆实施车辆2部制，并对公共停车场实施车辆5部制。"
       }
     },
     {
-      "title": "현역 지사 또 탈락···김관영 빠진 전북지사 민주당 경선 ‘급변’ - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604021059001",
-      "source": "경향신문",
-      "pubDate": "Thu, 02 Apr 2026 01:59:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/02/news-p.v1.20260402.7aee070351aa4884b6b78dc5dcfb5874_P1.png",
+      "title": "홍준표 \"대구, 정치꾼 아닌 역량있는 행정가 뽑아야\"…김부겸 공개 지지 - yonhapnewstv.co.kr",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260402103843IXr",
+      "source": "yonhapnewstv.co.kr",
+      "pubDate": "Thu, 02 Apr 2026 02:56:22 GMT",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260402/AKR20260402103843IXr_01_i.jpg",
       "summaries": {
-        "ko": "현역 지사 또 탈락···김관영 빠진 전북지사 민주당 경선 ‘급변’ - 경향신문",
-        "en": "현역 지사 또 탈락···김관영 빠진 전북지사 민주당 경선 ‘급변’ - 경향신문",
-        "zh": "현역 지사 또 탈락···김관영 빠진 전북지사 민주당 경선 ‘급변’ - 경향신문"
+        "ko": "홍준표 \"대구, 정치꾼 아닌 역량있는 행정가 뽑아야\"…김부겸 공개 지지 - yonhapnewstv.co.kr",
+        "en": "홍준표 \"대구, 정치꾼 아닌 역량있는 행정가 뽑아야\"…김부겸 공개 지지 - yonhapnewstv.co.kr",
+        "zh": "홍준표 \"대구, 정치꾼 아닌 역량있는 행정가 뽑아야\"…김부겸 공개 지지 - yonhapnewstv.co.kr"
       }
     },
     {
-      "title": "주말 앞두고 전국에 ‘비’…봄바람에 남쪽은 ‘벚꽃 엔딩’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1252298.html",
+      "title": "“이재명 현행범” 이진숙 ‘선거법 위반’ 보완수사…경찰 “혐의 인정” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1252366.html",
       "source": "한겨레",
-      "pubDate": "Thu, 02 Apr 2026 06:10:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/715/imgdb/child/2026/0402/17750989567135_20260402501562.webp",
+      "pubDate": "Thu, 02 Apr 2026 08:55:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/691/imgdb/child/2026/0402/17751200395735_20260402503124.webp",
       "summaries": {
-        "ko": "주말 앞두고 전국에 ‘비’…봄바람에 남쪽은 ‘벚꽃 엔딩’ - 한겨레",
-        "en": "주말 앞두고 전국에 ‘비’…봄바람에 남쪽은 ‘벚꽃 엔딩’ - 한겨레",
-        "zh": "주말 앞두고 전국에 ‘비’…봄바람에 남쪽은 ‘벚꽃 엔딩’ - 한겨레"
-      }
-    },
-    {
-      "title": "감기약 먹고 ‘비틀비틀 운전’도 처벌한다…‘약물 운전’ 단속 강화 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1252353.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 02 Apr 2026 07:37:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/602/362/imgdb/original/2026/0402/20260402502864.webp",
-      "summaries": {
-        "ko": "감기약 먹고 ‘비틀비틀 운전’도 처벌한다…‘약물 운전’ 단속 강화 - 한겨레",
-        "en": "감기약 먹고 ‘비틀비틀 운전’도 처벌한다…‘약물 운전’ 단속 강화 - 한겨레",
-        "zh": "감기약 먹고 ‘비틀비틀 운전’도 처벌한다…‘약물 운전’ 단속 강화 - 한겨레"
+        "ko": "경찰이 이진숙 전 방송통신위원장이 과거 정무직 공무원 신분으로 유튜브 및 페이스북에서 \"이재명 대표도 현행범\" 등의 발언을 한 공직선거법 및 국가공무원법 위반 혐의가 인정된다는 보완수사 결과를 검찰에 재통보했다.",
+        "en": "Police have re-notified the prosecution of their supplementary investigation results, maintaining their conclusion that former Korea Communications Commissioner Lee Jin-sook violated the Public Official Election Act and National Public Service Act through remarks such as \"Lee Jae-myung is also an active criminal\" made on YouTube and Facebook while serving as a political appointee.",
+        "zh": "警方将对前广播通信委员李真淑在担任政务官员期间，于YouTube和Facebook上发表“李在明代表也是现行犯”等言论，涉嫌违反《公职选举法》和《国家公务员法》的补充调查结果再次通报检察机关，维持其指控成立的结论。"
       }
     }
   ]
