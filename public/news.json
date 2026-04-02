@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-04-02T21:35:19.398945",
+  "lastUpdate": "2026-04-02T22:04:54.187784",
   "items": [
-    {
-      "title": "트럼프, 알맹이 없는 ‘대국민 호소’…“모순된 메시지”만 남아 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1252397.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 02 Apr 2026 13:11:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0402/2317751245042895.webp",
-      "summaries": {
-        "ko": "트럼프 대통령이 이란 전쟁 관련 대국민 연설에서 군사적 성과를 강조했으나, 구체적인 종전 계획이나 핵심 쟁점에 대한 해법 없이 모순된 메시지만 남겨 하락하는 지지율을 반등시키는 데 실패했다는 비판을 받았다.",
-        "en": "President Trump's national address on the Iran war emphasized military achievements but failed to offer concrete end-of-war plans or solutions for key issues, instead delivering contradictory messages and drawing criticism for failing to reverse his declining approval ratings.",
-        "zh": "特朗普总统就伊朗战争发表全国讲话，强调了军事成就，但未能提供具体的结束战争计划或关键问题的解决方案，反而传递了矛盾信息，并因此未能扭转其下降的支持率而受到批评。"
-      }
-    },
     {
       "title": "“이란, 세계 경제 안보에 타격”···40여개국 외교장관들 ‘호르무즈 개방’ 논의, 한국도 참석 - 경향신문",
       "link": "https://www.khan.co.kr/article/202604022222001",
@@ -20,21 +8,33 @@
       "pubDate": "Thu, 02 Apr 2026 13:22:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/04/02/rcv.YNA.20260402.PRU20260402274401009_P1.jpg",
       "summaries": {
-        "ko": "“이란, 세계 경제 안보에 타격”···40여개국 외교장관들 ‘호르무즈 개방’ 논의, 한국도 참석 - 경향신문",
-        "en": "“이란, 세계 경제 안보에 타격”···40여개국 외교장관들 ‘호르무즈 개방’ 논의, 한국도 참석 - 경향신문",
-        "zh": "“이란, 세계 경제 안보에 타격”···40여개국 외교장관들 ‘호르무즈 개방’ 논의, 한국도 참석 - 경향신문"
+        "ko": "이란의 호르무즈 해협 봉쇄가 세계 경제 안보를 위협하자, 한국을 포함한 40여 개국 외교장관들이 해협 개방을 위한 외교적·경제적 방안을 논의했다.",
+        "en": "Foreign ministers from over 40 countries, including South Korea, discussed diplomatic and economic measures to reopen the Strait of Hormuz, which is effectively blockaded by Iran and threatening global economic security.",
+        "zh": "面对伊朗实际封锁霍尔木兹海峡对全球经济安全的威胁，包括韩国在内的40多个国家的外交部长举行会议，讨论了重新开放海峡的外交和经济措施。"
       }
     },
     {
-      "title": "‘음료 3잔’ 고소 논란... “550만원은 과도” vs “실제 피해는 100잔 넘어” - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/04/02/PIASF7POZBG6RF73WVPV7NZAXU/",
-      "source": "조선일보",
-      "pubDate": "Thu, 02 Apr 2026 06:46:14 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MQYTKOBUMZSTCOJYG42TSZTEMM.jpg?auth=908681f8b8e94e226790e509d0abec7996d1f62bfcd2afbaa5456c473b57f414&width=1200&height=630&smart=true",
+      "title": "트럼프, 알맹이 없는 ‘대국민 호소’…“모순된 메시지”만 남아 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/america/1252397.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 02 Apr 2026 13:11:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0402/2317751245042895.webp",
       "summaries": {
-        "ko": "‘음료 3잔’ 고소 논란... “550만원은 과도” vs “실제 피해는 100잔 넘어” - 조선일보",
-        "en": "‘음료 3잔’ 고소 논란... “550만원은 과도” vs “실제 피해는 100잔 넘어” - 조선일보",
-        "zh": "‘음료 3잔’ 고소 논란... “550만원은 과도” vs “실제 피해는 100잔 넘어” - 조선일보"
+        "ko": "트럼프, 알맹이 없는 ‘대국민 호소’…“모순된 메시지”만 남아 - 한겨레",
+        "en": "트럼프, 알맹이 없는 ‘대국민 호소’…“모순된 메시지”만 남아 - 한겨레",
+        "zh": "트럼프, 알맹이 없는 ‘대국민 호소’…“모순된 메시지”만 남아 - 한겨레"
+      }
+    },
+    {
+      "title": "“검사 한 명이 600건 맡아”… 공소시효 넘겨 범인 놓친 사건 급증 - 조선일보",
+      "link": "https://www.chosun.com/national/court_law/2026/04/03/5H3WSI5V7NF2XED46ZMINQMHKY/",
+      "source": "조선일보",
+      "pubDate": "Thu, 02 Apr 2026 15:48:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/5ZYTNFEBB5FUNBBAO4MMAW4L5U.png?auth=e9bdb2f2357b342f2769185eb085861f68e33f69bac2a22324ad66f551635cae&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "“검사 한 명이 600건 맡아”… 공소시효 넘겨 범인 놓친 사건 급증 - 조선일보",
+        "en": "“검사 한 명이 600건 맡아”… 공소시효 넘겨 범인 놓친 사건 급증 - 조선일보",
+        "zh": "“검사 한 명이 600건 맡아”… 공소시효 넘겨 범인 놓친 사건 급증 - 조선일보"
       }
     },
     {
@@ -50,6 +50,30 @@
       }
     },
     {
+      "title": "‘음료 3잔 횡령 혐의’ 알바생 고소한 카페 점주, 결국 소 취하···수사는 절차대로 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604022318001",
+      "source": "경향신문",
+      "pubDate": "Thu, 02 Apr 2026 14:18:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/02/news-p.v1.20260402.eed9623ecd7b44d1b8ea7144332bfa1b_P2.jpeg",
+      "summaries": {
+        "ko": "‘음료 3잔 횡령 혐의’ 알바생 고소한 카페 점주, 결국 소 취하···수사는 절차대로 - 경향신문",
+        "en": "‘음료 3잔 횡령 혐의’ 알바생 고소한 카페 점주, 결국 소 취하···수사는 절차대로 - 경향신문",
+        "zh": "‘음료 3잔 횡령 혐의’ 알바생 고소한 카페 점주, 결국 소 취하···수사는 절차대로 - 경향신문"
+      }
+    },
+    {
+      "title": "국힘 충북지사 경선, ‘컷오프’ 김영환 포함 원점서 재실시 - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/04/02/UPVOASH3LBA5DLJE26VYRC4BC4/",
+      "source": "조선일보",
+      "pubDate": "Thu, 02 Apr 2026 11:54:09 GMT",
+      "image": "https://www.chosun.com/resizer/v2/YKBBCJSCIVG7NNDMFS4IOJ3QPA.jpg?auth=1d26d8821a681b661df356746ae3c7fd74693c11edf3838ff4cce0ee4236c2ea&width=1200&height=630&focal=1901,1147",
+      "summaries": {
+        "ko": "국힘 충북지사 경선, ‘컷오프’ 김영환 포함 원점서 재실시 - 조선일보",
+        "en": "국힘 충북지사 경선, ‘컷오프’ 김영환 포함 원점서 재실시 - 조선일보",
+        "zh": "국힘 충북지사 경선, ‘컷오프’ 김영환 포함 원점서 재실시 - 조선일보"
+      }
+    },
+    {
       "title": "[단독] ‘형량 거래’ 거절했다는 박상용…미공개 녹취엔 “이익 못 받을 거 같아, 부탁드릴게요” - KBS 뉴스",
       "link": "https://news.kbs.co.kr/news/view.do?ncd=8525633",
       "source": "KBS 뉴스",
@@ -62,15 +86,15 @@
       }
     },
     {
-      "title": "트럼프 “한국, 호르무즈 문제 도움 안 줘”… 무역·안보 청구서 가능성 - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/04/03/IZC6YRYI2VBLDF7PK4ERTWTQ2E/",
+      "title": "1764, 좌익 무장대가 짓밟은 4·3 희생자 숫자입니다 - 조선일보",
+      "link": "https://www.chosun.com/culture-life/relion-academia/2026/04/03/BVWVG3HBZRC7JI352WISHDU5RY/",
       "source": "조선일보",
-      "pubDate": "Thu, 02 Apr 2026 15:53:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/5VOQWZDGMZKCRJRCOXWYWHXKVU.jpg?auth=b52cc75839b692ae4b6a83d3b0ecd25f0f4f04fb54bd3081a57311169817ef36&width=1200&height=630&smart=true",
+      "pubDate": "Thu, 02 Apr 2026 15:42:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/ZDLXNX3CRVEDJLMWSIANTI3EUQ.jpg?auth=54d5b39c2e6666bc157b02140b5d53e57e739ed0800982e916aa5337290aa901&width=1200&height=630&focal=2062,1768",
       "summaries": {
-        "ko": "트럼프 “한국, 호르무즈 문제 도움 안 줘”… 무역·안보 청구서 가능성 - 조선일보",
-        "en": "트럼프 “한국, 호르무즈 문제 도움 안 줘”… 무역·안보 청구서 가능성 - 조선일보",
-        "zh": "트럼프 “한국, 호르무즈 문제 도움 안 줘”… 무역·안보 청구서 가능성 - 조선일보"
+        "ko": "1764, 좌익 무장대가 짓밟은 4·3 희생자 숫자입니다 - 조선일보",
+        "en": "1764, 좌익 무장대가 짓밟은 4·3 희생자 숫자입니다 - 조선일보",
+        "zh": "1764, 좌익 무장대가 짓밟은 4·3 희생자 숫자입니다 - 조선일보"
       }
     },
     {
@@ -86,39 +110,15 @@
       }
     },
     {
-      "title": "대구 ‘여행용 가방 시신 사건’ 20대 사위·딸 모두 구속 영장 발부 - 매일경제",
-      "link": "https://www.mk.co.kr/news/society/12006398",
-      "source": "매일경제",
-      "pubDate": "Thu, 02 Apr 2026 08:34:11 GMT",
-      "image": "https://pimg.mk.co.kr/news/cms/202604/02/news-p.v1.20260402.2806c61f013d4d96bdbd51f0d600672a_R.jpg",
-      "summaries": {
-        "ko": "대구 ‘여행용 가방 시신 사건’ 20대 사위·딸 모두 구속 영장 발부 - 매일경제",
-        "en": "대구 ‘여행용 가방 시신 사건’ 20대 사위·딸 모두 구속 영장 발부 - 매일경제",
-        "zh": "대구 ‘여행용 가방 시신 사건’ 20대 사위·딸 모두 구속 영장 발부 - 매일경제"
-      }
-    },
-    {
-      "title": "국민의힘 새 공관위, 김영환 포함 충북지사 후보 경선 결정 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604022045005",
-      "source": "경향신문",
-      "pubDate": "Thu, 02 Apr 2026 11:45:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/02/l_2026040301000126400008591.jpg",
-      "summaries": {
-        "ko": "국민의힘 새 공관위, 김영환 포함 충북지사 후보 경선 결정 - 경향신문",
-        "en": "국민의힘 새 공관위, 김영환 포함 충북지사 후보 경선 결정 - 경향신문",
-        "zh": "국민의힘 새 공관위, 김영환 포함 충북지사 후보 경선 결정 - 경향신문"
-      }
-    },
-    {
-      "title": "[날씨클릭] 오늘 밤부터 전국 비…제주 최고 150㎜",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202604030630363u5",
+      "title": "[AM-PM] 이 대통령, 마크롱 프랑스 대통령과 정상회담 外",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260403070223un2",
       "source": "Breaking News",
-      "pubDate": "Fri, 03 Apr 2026 06:31:00 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260402/MYH202604030630363u5.jpg",
+      "pubDate": "Fri, 03 Apr 2026 07:02:56 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260402/MYH20260403070223un2.jpg",
       "summaries": {
-        "ko": "[날씨클릭] 오늘 밤부터 전국 비…제주 최고 150㎜",
-        "en": "[날씨클릭] 오늘 밤부터 전국 비…제주 최고 150㎜",
-        "zh": "[날씨클릭] 오늘 밤부터 전국 비…제주 최고 150㎜"
+        "ko": "[AM-PM] 이 대통령, 마크롱 프랑스 대통령과 정상회담 外",
+        "en": "[AM-PM] 이 대통령, 마크롱 프랑스 대통령과 정상회담 外",
+        "zh": "[AM-PM] 이 대통령, 마크롱 프랑스 대통령과 정상회담 外"
       }
     }
   ]
