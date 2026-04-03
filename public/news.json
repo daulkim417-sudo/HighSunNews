@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-03T21:29:34.998700",
+  "lastUpdate": "2026-04-03T21:57:07.086113",
   "items": [
     {
       "title": "트럼프 “조금 더 있으면 호르무즈 열고 석유 차지… 큰돈 벌 것” - 조선일보",
@@ -20,33 +20,21 @@
       "pubDate": "Fri, 03 Apr 2026 15:37:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0403/20260403502784.webp",
       "summaries": {
-        "ko": "미국 동맹국인 프랑스와 일본 선박들이 미국·이스라엘-이란 전쟁 이후 처음으로 호르무즈 해협을 잇따라 통과하며 이란의 해협 관리 방침에 변화 가능성이 주목된다.",
-        "en": "French and Japanese ships, allies of the US, have successfully navigated the Strait of Hormuz for the first time since the US/Israel-Iran conflict, signaling a potential shift in Iran's management of the key waterway.",
-        "zh": "美国盟友法国和日本的船只在美国-以色列-伊朗冲突后首次相继通过霍尔木兹海峡，这预示着伊朗对这一关键航道管理政策可能发生转变。"
+        "ko": "일본·프랑스 선박 잇따라 호르무즈 통과…이란 전쟁 후 처음 - 한겨레",
+        "en": "일본·프랑스 선박 잇따라 호르무즈 통과…이란 전쟁 후 처음 - 한겨레",
+        "zh": "일본·프랑스 선박 잇따라 호르무즈 통과…이란 전쟁 후 처음 - 한겨레"
       }
     },
     {
-      "title": "마크롱 “프랑스, 미국보다 예측 가능” 金총리 “불확실성 극복 위해 협력” - 조선일보",
-      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/04/03/M6OWHQUQEFFCFPE4DV6SJDHLHI/",
-      "source": "조선일보",
-      "pubDate": "Fri, 03 Apr 2026 11:38:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/RNCN2O5HIVLRDB2XC5WQRAIHGY.jpg?auth=a2991fa9d920ffe41d80961d9c79549c1db492556059defb2965459c7614bc94&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "마크롱 “프랑스, 미국보다 예측 가능” 金총리 “불확실성 극복 위해 협력” - 조선일보",
-        "en": "마크롱 “프랑스, 미국보다 예측 가능” 金총리 “불확실성 극복 위해 협력” - 조선일보",
-        "zh": "마크롱 “프랑스, 미국보다 예측 가능” 金총리 “불확실성 극복 위해 협력” - 조선일보"
-      }
-    },
-    {
-      "title": "테헤란 때린 트럼프 \"더 많은 일 벌어질것\"…이란 \"F-35 격추\" 주장 - mk.co.kr",
+      "title": "테헤란 때린 트럼프 \"더 많은 일 벌어질것\"…이란 \"F-35 격추\" 주장 - 매일경제",
       "link": "https://www.mk.co.kr/news/world/12007603",
-      "source": "mk.co.kr",
+      "source": "매일경제",
       "pubDate": "Fri, 03 Apr 2026 08:47:38 GMT",
       "image": "https://pimg.mk.co.kr/news/cms/202604/04/20260404_01160108000005_L00.jpg",
       "summaries": {
-        "ko": "테헤란 때린 트럼프 \"더 많은 일 벌어질것\"…이란 \"F-35 격추\" 주장 - mk.co.kr",
-        "en": "테헤란 때린 트럼프 \"더 많은 일 벌어질것\"…이란 \"F-35 격추\" 주장 - mk.co.kr",
-        "zh": "테헤란 때린 트럼프 \"더 많은 일 벌어질것\"…이란 \"F-35 격추\" 주장 - mk.co.kr"
+        "ko": "테헤란 때린 트럼프 \"더 많은 일 벌어질것\"…이란 \"F-35 격추\" 주장 - 매일경제",
+        "en": "테헤란 때린 트럼프 \"더 많은 일 벌어질것\"…이란 \"F-35 격추\" 주장 - 매일경제",
+        "zh": "테헤란 때린 트럼프 \"더 많은 일 벌어질것\"…이란 \"F-35 격추\" 주장 - 매일경제"
       }
     },
     {
@@ -59,6 +47,18 @@
         "ko": "민주 48%·국힘 18%... 李정부 출범 이후 최대 격차 - 조선일보",
         "en": "민주 48%·국힘 18%... 李정부 출범 이후 최대 격차 - 조선일보",
         "zh": "민주 48%·국힘 18%... 李정부 출범 이후 최대 격차 - 조선일보"
+      }
+    },
+    {
+      "title": "마크롱 “우린 미국처럼 관세 부과 안 해”···트럼프 비판하며 “한국 기업 더 왔으면” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604032033001",
+      "source": "경향신문",
+      "pubDate": "Fri, 03 Apr 2026 11:33:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/03/news-p.v1.20260403.d658c08b806a4be9893a9242c639fdae_P1.jpg",
+      "summaries": {
+        "ko": "마크롱 “우린 미국처럼 관세 부과 안 해”···트럼프 비판하며 “한국 기업 더 왔으면” - 경향신문",
+        "en": "마크롱 “우린 미국처럼 관세 부과 안 해”···트럼프 비판하며 “한국 기업 더 왔으면” - 경향신문",
+        "zh": "마크롱 “우린 미국처럼 관세 부과 안 해”···트럼프 비판하며 “한국 기업 더 왔으면” - 경향신문"
       }
     },
     {
@@ -86,15 +86,15 @@
       }
     },
     {
-      "title": "김 총리 \"제주4 ·3 끝까지 기억…더 큰 민주주의 꽃 피울 것\" - 대한민국 정책브리핑",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148962065",
-      "source": "대한민국 정책브리핑",
-      "pubDate": "Fri, 03 Apr 2026 09:57:34 GMT",
-      "image": "https://www.korea.kr/newsWeb/resources/attaches/2026.04/03/343babb3efca6f43e9b31dee19a095b6.jpg",
+      "title": "이 대통령 “제주 4·3 희생자 애도…국가폭력 공소시효 폐지할 것” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1252532.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 03 Apr 2026 12:36:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/485/imgdb/original/2026/0403/20260403501645.webp",
       "summaries": {
-        "ko": "김 총리 \"제주4 ·3 끝까지 기억…더 큰 민주주의 꽃 피울 것\" - 대한민국 정책브리핑",
-        "en": "김 총리 \"제주4 ·3 끝까지 기억…더 큰 민주주의 꽃 피울 것\" - 대한민국 정책브리핑",
-        "zh": "김 총리 \"제주4 ·3 끝까지 기억…더 큰 민주주의 꽃 피울 것\" - 대한민국 정책브리핑"
+        "ko": "이 대통령 “제주 4·3 희생자 애도…국가폭력 공소시효 폐지할 것” - 한겨레",
+        "en": "이 대통령 “제주 4·3 희생자 애도…국가폭력 공소시효 폐지할 것” - 한겨레",
+        "zh": "이 대통령 “제주 4·3 희생자 애도…국가폭력 공소시효 폐지할 것” - 한겨레"
       }
     },
     {
