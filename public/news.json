@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-03T22:22:34.457597",
+  "lastUpdate": "2026-04-03T22:58:03.856498",
   "items": [
     {
       "title": "트럼프 “조금 더 있으면 호르무즈 열고 석유 차지… 큰돈 벌 것” - 조선일보",
@@ -20,9 +20,9 @@
       "pubDate": "Fri, 03 Apr 2026 22:00:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/04/04/news-p.v1.20260403.a4f67f191433439982c93a07bc7edbbc_P1.jpg",
       "summaries": {
-        "ko": "트럼프 대통령의 이란 관련 강경 발언 이후 중동 전쟁이 확전 양상을 보이며 미국 내 대규모 반대 시위와 미군 전력 손실, 그리고 한국의 고유가 피해지원금 편성 등 전 세계에 정치·경제적 파장을 일으켰다.",
-        "en": "Following President Trump's strong remarks on Iran, the escalating Middle East conflict triggered large-scale anti-Trump protests in the US, significant damage to US military assets, and global political and economic repercussions, including South Korea's allocation of high oil price relief funds.",
-        "zh": "在总统特朗普对伊朗发表强硬言论后，中东冲突升级，在美国引发大规模反特朗普抗议、美军装备遭受重大损失，并在全球范围内引发政治和经济影响，包括韩国拨付高油价损害补贴。"
+        "ko": "“이란을 석기시대로 되돌리겠다”…트럼프 대국민 연설은 ‘종전’ 아닌 ‘확전’ 선언 [신문 1면 사진들] - 경향신문",
+        "en": "“이란을 석기시대로 되돌리겠다”…트럼프 대국민 연설은 ‘종전’ 아닌 ‘확전’ 선언 [신문 1면 사진들] - 경향신문",
+        "zh": "“이란을 석기시대로 되돌리겠다”…트럼프 대국민 연설은 ‘종전’ 아닌 ‘확전’ 선언 [신문 1면 사진들] - 경향신문"
       }
     },
     {
@@ -50,18 +50,6 @@
       }
     },
     {
-      "title": "마크롱 “프랑스, 미국보다 예측 가능” 金총리 “불확실성 극복 위해 협력” - 조선일보",
-      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/04/03/M6OWHQUQEFFCFPE4DV6SJDHLHI/",
-      "source": "조선일보",
-      "pubDate": "Fri, 03 Apr 2026 11:38:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/RNCN2O5HIVLRDB2XC5WQRAIHGY.jpg?auth=a2991fa9d920ffe41d80961d9c79549c1db492556059defb2965459c7614bc94&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "마크롱 “프랑스, 미국보다 예측 가능” 金총리 “불확실성 극복 위해 협력” - 조선일보",
-        "en": "마크롱 “프랑스, 미국보다 예측 가능” 金총리 “불확실성 극복 위해 협력” - 조선일보",
-        "zh": "마크롱 “프랑스, 미국보다 예측 가능” 金총리 “불확실성 극복 위해 협력” - 조선일보"
-      }
-    },
-    {
       "title": "민주 48%·국힘 18%... 李정부 출범 이후 최대 격차 - 조선일보",
       "link": "https://www.chosun.com/politics/politics_general/2026/04/03/J23QJKBBPZGPZFAEELLBBSCPOI/",
       "source": "조선일보",
@@ -71,6 +59,18 @@
         "ko": "민주 48%·국힘 18%... 李정부 출범 이후 최대 격차 - 조선일보",
         "en": "민주 48%·국힘 18%... 李정부 출범 이후 최대 격차 - 조선일보",
         "zh": "민주 48%·국힘 18%... 李정부 출범 이후 최대 격차 - 조선일보"
+      }
+    },
+    {
+      "title": "마크롱 “프랑스, 미국보다 예측 가능” 金총리 “불확실성 극복 위해 협력” - 조선일보",
+      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/04/03/M6OWHQUQEFFCFPE4DV6SJDHLHI/",
+      "source": "조선일보",
+      "pubDate": "Fri, 03 Apr 2026 11:38:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/RNCN2O5HIVLRDB2XC5WQRAIHGY.jpg?auth=a2991fa9d920ffe41d80961d9c79549c1db492556059defb2965459c7614bc94&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "마크롱 “프랑스, 미국보다 예측 가능” 金총리 “불확실성 극복 위해 협력” - 조선일보",
+        "en": "마크롱 “프랑스, 미국보다 예측 가능” 金총리 “불확실성 극복 위해 협력” - 조선일보",
+        "zh": "마크롱 “프랑스, 미국보다 예측 가능” 金총리 “불확실성 극복 위해 협력” - 조선일보"
       }
     },
     {
@@ -104,21 +104,21 @@
       "pubDate": "Fri, 03 Apr 2026 12:36:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/640/485/imgdb/original/2026/0403/20260403501645.webp",
       "summaries": {
-        "ko": "이재명 대통령은 제주 4·3 사건 78주년을 맞아 희생자들에게 애도를 표하고, 국가폭력에 대한 공소시효를 폐지하여 책임 회피가 불가능하게 하겠다고 밝혔다.",
-        "en": "President Lee Jae-myung expressed condolences for the victims of the Jeju 4·3 Incident on its 78th anniversary and pledged to abolish the statute of limitations for state violence to ensure perpetual accountability.",
-        "zh": "李在明总统在济州4·3事件78周年之际，对遇难者表示哀悼，并承诺废除国家暴力公诉时效，以确保相关责任方无法逃避。"
+        "ko": "이 대통령 “제주 4·3 희생자 애도…국가폭력 공소시효 폐지할 것” - 한겨레",
+        "en": "이 대통령 “제주 4·3 희생자 애도…국가폭력 공소시효 폐지할 것” - 한겨레",
+        "zh": "이 대통령 “제주 4·3 희생자 애도…국가폭력 공소시효 폐지할 것” - 한겨레"
       }
     },
     {
-      "title": "민주당 등 원내6당, 개헌안 발의…계엄 국회 통제권 강화 - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/04/03/3DV2M5NE7NC4VJXN6YGQP6JQRE/",
-      "source": "조선일보",
-      "pubDate": "Fri, 03 Apr 2026 10:04:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/SFSBV56L5ZML7G2GZ3QPCSLNWA.JPG?auth=bfdd969f8ed03121a75281ac70e33ebacce3485d3f6348adb4af8072aecebf84&width=1200&height=630&smart=true",
+      "title": "3시간 만에 ‘일반 봉투 쓰레기 배출’ 뒤집은 군포시···온라인 시스템 도입 철회, 왜? - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604031725001",
+      "source": "경향신문",
+      "pubDate": "Fri, 03 Apr 2026 08:25:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/03/news-p.v1.20260403.f57162717af44d629805670afd087344_P1.jpg",
       "summaries": {
-        "ko": "민주당 등 원내6당, 개헌안 발의…계엄 국회 통제권 강화 - 조선일보",
-        "en": "민주당 등 원내6당, 개헌안 발의…계엄 국회 통제권 강화 - 조선일보",
-        "zh": "민주당 등 원내6당, 개헌안 발의…계엄 국회 통제권 강화 - 조선일보"
+        "ko": "3시간 만에 ‘일반 봉투 쓰레기 배출’ 뒤집은 군포시···온라인 시스템 도입 철회, 왜? - 경향신문",
+        "en": "3시간 만에 ‘일반 봉투 쓰레기 배출’ 뒤집은 군포시···온라인 시스템 도입 철회, 왜? - 경향신문",
+        "zh": "3시간 만에 ‘일반 봉투 쓰레기 배출’ 뒤집은 군포시···온라인 시스템 도입 철회, 왜? - 경향신문"
       }
     }
   ]
