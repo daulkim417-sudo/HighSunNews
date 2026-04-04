@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-04T18:04:43.856821",
+  "lastUpdate": "2026-04-04T18:59:03.350095",
   "items": [
     {
       "title": "‘윤석열 파면’ 일군 광장에 다시 모인 시민들…“사회대개혁, 이제 출발” - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Sat, 04 Apr 2026 09:12:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/800/366/imgdb/original/2026/0404/20260404500452.webp",
       "summaries": {
-        "ko": "‘윤석열 파면’ 일군 광장에 다시 모인 시민들…“사회대개혁, 이제 출발” - 한겨레",
-        "en": "‘윤석열 파면’ 일군 광장에 다시 모인 시민들…“사회대개혁, 이제 출발” - 한겨레",
-        "zh": "‘윤석열 파면’ 일군 광장에 다시 모인 시민들…“사회대개혁, 이제 출발” - 한겨레"
+        "ko": "윤석열 전 대통령 탄핵 1주년을 맞아 시민들이 탄핵 선고가 내려졌던 안국역 앞에 다시 모여 그날의 승리를 기념하고 미완의 '내란 청산'과 '사회 대개혁' 완수를 촉구했다.",
+        "en": "On the first anniversary of former President Yoon Suk-yeol's impeachment, citizens gathered again in front of Anguk Station, where the impeachment verdict was announced, to commemorate that day's victory and call for the completion of the unfinished 'internal rebellion cleanup' and 'grand social reform'.",
+        "zh": "为纪念尹锡悦前总统弹劾一周年，市民们再次聚集在安国站前，即弹劾宣判之地，庆祝当日的胜利，并呼吁完成未竟的“内乱清算”和“社会大改革”。"
       }
     },
     {
@@ -23,18 +23,6 @@
         "ko": "“이란, 생필품 실은 이란행 배는 호르무즈 통과 허용” - 조선일보",
         "en": "“이란, 생필품 실은 이란행 배는 호르무즈 통과 허용” - 조선일보",
         "zh": "“이란, 생필품 실은 이란행 배는 호르무즈 통과 허용” - 조선일보"
-      }
-    },
-    {
-      "title": "민주 충북지사 후보에 국힘 출신 신용한…결선투표서 노영민 꺾어 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/administration/1252660.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 04 Apr 2026 12:36:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/1453/imgdb/original/2026/0404/20260404500532.webp",
-      "summaries": {
-        "ko": "민주 충북지사 후보에 국힘 출신 신용한…결선투표서 노영민 꺾어 - 한겨레",
-        "en": "민주 충북지사 후보에 국힘 출신 신용한…결선투표서 노영민 꺾어 - 한겨레",
-        "zh": "민주 충북지사 후보에 국힘 출신 신용한…결선투표서 노영민 꺾어 - 한겨레"
       }
     },
     {
@@ -62,15 +50,27 @@
       }
     },
     {
-      "title": "지지율 30%P 최대 격차… 질주하는 與, 길잃은 野 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260403/133673480/2",
-      "source": "동아일보",
-      "pubDate": "Fri, 03 Apr 2026 16:40:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/04/133673621.1.jpg",
+      "title": "美 정보당국 “이란, 당분간 호르무즈 해협 봉쇄 안 풀 듯” - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/04/04/5SGXVDL4QBEHNNZNRBCKZSAVVY/",
+      "source": "조선일보",
+      "pubDate": "Sat, 04 Apr 2026 09:02:41 GMT",
+      "image": "https://www.chosun.com/resizer/v2/TANGI4S6QZEHDMADUXN5DGBFYU.jpg?auth=060dccaeae1362dc4ac284ddbd3085f11a8f28d1e57982ba33da459b08f72b6c&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "지지율 30%P 최대 격차… 질주하는 與, 길잃은 野 - 동아일보",
-        "en": "지지율 30%P 최대 격차… 질주하는 與, 길잃은 野 - 동아일보",
-        "zh": "지지율 30%P 최대 격차… 질주하는 與, 길잃은 野 - 동아일보"
+        "ko": "美 정보당국 “이란, 당분간 호르무즈 해협 봉쇄 안 풀 듯” - 조선일보",
+        "en": "美 정보당국 “이란, 당분간 호르무즈 해협 봉쇄 안 풀 듯” - 조선일보",
+        "zh": "美 정보당국 “이란, 당분간 호르무즈 해협 봉쇄 안 풀 듯” - 조선일보"
+      }
+    },
+    {
+      "title": "이란, 미군 F-15·A-10 잇따라 격추…트럼프 “석유를 지켜라” 횡설수설 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1252640.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 04 Apr 2026 07:12:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/472/imgdb/original/2026/0404/20260404500158.webp",
+      "summaries": {
+        "ko": "이란, 미군 F-15·A-10 잇따라 격추…트럼프 “석유를 지켜라” 횡설수설 - 한겨레",
+        "en": "이란, 미군 F-15·A-10 잇따라 격추…트럼프 “석유를 지켜라” 횡설수설 - 한겨레",
+        "zh": "이란, 미군 F-15·A-10 잇따라 격추…트럼프 “석유를 지켜라” 횡설수설 - 한겨레"
       }
     },
     {
@@ -86,39 +86,39 @@
       }
     },
     {
-      "title": "박상용 검사, 국조특위서 선서 거부…서영교 “나가서 대기하라” - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/04/03/W45JGQ6KKNB2JIVXYAVMVVRISM/",
-      "source": "조선일보",
-      "pubDate": "Fri, 03 Apr 2026 09:09:05 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GI4TCNLCHE2DQYZRMRRDOOBWGA.jpg?auth=e1b8b44c3656bc268574c70ce84c7dfb255d6f136030aa115ff70830ef9dcd4a&width=1200&height=630&smart=true",
+      "title": "지지율 30%P 최대 격차… 질주하는 與, 길잃은 野 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260403/133673480/2",
+      "source": "동아일보",
+      "pubDate": "Fri, 03 Apr 2026 16:40:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/04/133673621.1.jpg",
       "summaries": {
-        "ko": "박상용 검사, 국조특위서 선서 거부…서영교 “나가서 대기하라” - 조선일보",
-        "en": "박상용 검사, 국조특위서 선서 거부…서영교 “나가서 대기하라” - 조선일보",
-        "zh": "박상용 검사, 국조특위서 선서 거부…서영교 “나가서 대기하라” - 조선일보"
+        "ko": "지지율 30%P 최대 격차… 질주하는 與, 길잃은 野 - 동아일보",
+        "en": "지지율 30%P 최대 격차… 질주하는 與, 길잃은 野 - 동아일보",
+        "zh": "지지율 30%P 최대 격차… 질주하는 與, 길잃은 野 - 동아일보"
       }
     },
     {
-      "title": "경기 수원 아파트 빈집서 불…110여명 대피",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260405014841eGY",
-      "source": "Breaking News",
-      "pubDate": "Sun, 05 Apr 2026 01:48:43 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260404/AKR20260405014841eGY_01_i.jpg",
+      "title": "‘이화영 진술 회유 의혹’ 박상용, 국조 증인선서 거부…“위헌·위법적 절차” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1252561.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 03 Apr 2026 12:49:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/850/568/imgdb/original/2026/0403/20260403502173.webp",
       "summaries": {
-        "ko": "경기 수원 아파트 빈집서 불…110여명 대피",
-        "en": "경기 수원 아파트 빈집서 불…110여명 대피",
-        "zh": "경기 수원 아파트 빈집서 불…110여명 대피"
+        "ko": "‘이화영 진술 회유 의혹’ 박상용, 국조 증인선서 거부…“위헌·위법적 절차” - 한겨레",
+        "en": "‘이화영 진술 회유 의혹’ 박상용, 국조 증인선서 거부…“위헌·위법적 절차” - 한겨레",
+        "zh": "‘이화영 진술 회유 의혹’ 박상용, 국조 증인선서 거부…“위헌·위법적 절차” - 한겨레"
       }
     },
     {
-      "title": "미, 이란 혁명수비대 전 사령관 조카딸 등 영주권 취소·구금",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202604050117513Z8",
+      "title": "이란 의회 의장, 바브엘만데브 해협 봉쇄 ‘우회 경고’",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260405031842uVm",
       "source": "Breaking News",
-      "pubDate": "Sun, 05 Apr 2026 01:17:54 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260404/AKR202604050117513Z8_01_i.jpg",
+      "pubDate": "Sun, 05 Apr 2026 03:18:44 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260404/AKR20260405031842uVm_01_i.jpg",
       "summaries": {
-        "ko": "미, 이란 혁명수비대 전 사령관 조카딸 등 영주권 취소·구금",
-        "en": "미, 이란 혁명수비대 전 사령관 조카딸 등 영주권 취소·구금",
-        "zh": "미, 이란 혁명수비대 전 사령관 조카딸 등 영주권 취소·구금"
+        "ko": "이란 의회 의장, 바브엘만데브 해협 봉쇄 ‘우회 경고’",
+        "en": "이란 의회 의장, 바브엘만데브 해협 봉쇄 ‘우회 경고’",
+        "zh": "이란 의회 의장, 바브엘만데브 해협 봉쇄 ‘우회 경고’"
       }
     }
   ]
