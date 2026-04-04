@@ -1,52 +1,64 @@
 {
-  "lastUpdate": "2026-04-04T07:57:57.070557",
+  "lastUpdate": "2026-04-04T08:32:23.940996",
   "items": [
     {
-      "title": "이란, 미군 F-15·A-10 잇따라 격추…트럼프 “석유를 지켜라” 횡설수설 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1252640.html",
+      "title": "‘윤석열 파면’ 일군 광장에 다시 모인 시민들…“사회대개혁, 이제 출발” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1252654.html",
       "source": "한겨레",
-      "pubDate": "Sat, 04 Apr 2026 02:33:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/472/imgdb/original/2026/0404/20260404500158.webp",
+      "pubDate": "Sat, 04 Apr 2026 07:54:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0404/20260404500363.webp",
       "summaries": {
-        "ko": "이란이 미군 F-15 전투기와 A-10 공격기를 잇따라 격추하며 미국의 이란 방공망 무력화 주장을 반박했고, 이에 트럼프 대통령은 \"이건 전쟁이다\", \"석유를 지켜라\" 등 횡설수설하는 반응을 보였다.",
-        "en": "Iran successively shot down US F-15 fighter jets and A-10 attack aircraft, refuting American claims of neutralized Iranian air defenses, while President Trump responded with incoherent remarks such as \"This is war\" and \"Protect the oil.\"",
-        "zh": "伊朗接连击落美军F-15战斗机和A-10攻击机，驳斥了美国关于伊朗防空系统已被解除的说法，而特朗普总统则语无伦次地回应称“这是战争”、“保护石油”等。"
+        "ko": "윤석열 전 대통령 탄핵 선고 1주년을 맞아 시민들이 과거 탄핵 광장에 다시 모여 '내란 청산'과 '사회 대개혁'을 촉구하며 민주주의 회복 의지를 다졌다.",
+        "en": "On the first anniversary of former President Yoon Suk-yeol's impeachment, citizens gathered again at the impeachment square to call for the eradication of 'internal rebellion' and 'major social reforms,' reaffirming their commitment to democratic recovery.",
+        "zh": "在尹锡悦前总统弹劾宣判一周年之际，市民们再次聚集在当年的弹劾广场，呼吁“清算内乱”和“社会大改革”，并重申了恢复民主的决心。"
       }
     },
     {
-      "title": "尹 탄핵 1년... 국힘 “잘못된 계엄으로 국민께 실망·혼란 사과” - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/04/04/N5M7LJQJD5CD5KCK6SIVAWBJ7I/",
+      "title": "“미워도 다시 한번” 보수 재결집?···“김부겸 줘뿌리란다” 국힘 심판? - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604041000001",
+      "source": "경향신문",
+      "pubDate": "Sat, 04 Apr 2026 01:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/04/news-p.v1.20260402.62b0b187d91c435ca344beb8355b0e5a_P1.jpeg",
+      "summaries": {
+        "ko": "김부겸 전 국무총리가 대구시장 출마 후 압도적인 여론조사 지지율을 기록하며, 국민의힘 공천 난맥상에 대한 심판론 속에서 대구 민심의 변화를 예고하고 있다.",
+        "en": "Following his declaration to run for Daegu Mayor, former Prime Minister Kim Boo-kyum is showing overwhelming support in opinion polls, signaling a shift in Daegu's public sentiment amidst calls for judgment against the People Power Party's problematic nomination process.",
+        "zh": "前国务总理金富谦宣布竞选大邱市长后，在民意调查中获得压倒性支持，预示着在大邱民众对国民力量党提名混乱提出审判论的背景下，大邱民心正在发生变化。"
+      }
+    },
+    {
+      "title": "“이란을 석기시대로 되돌리겠다”…트럼프 대국민 연설은 ‘종전’ 아닌 ‘확전’ 선언 [신문 1면 사진들] - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604040700011",
+      "source": "경향신문",
+      "pubDate": "Fri, 03 Apr 2026 22:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/04/news-p.v1.20260403.a4f67f191433439982c93a07bc7edbbc_P1.jpg",
+      "summaries": {
+        "ko": "미국과 이란 간의 갈등 격화, 미국 내 트럼프 행정부 규탄 시위, 그리고 중동 전쟁 발 경제 위기에 대응한 한국의 추경 예산 편성 등 한 주간의 주요 사건들이 신문 1면 사진들을 통해 조명되었다.",
+        "en": "A week's front-page photos highlighted escalating US-Iran tensions, large-scale anti-Trump protests across the US, and South Korea's supplementary budget response to the economic crisis stemming from the Middle East conflict.",
+        "zh": "本周报纸头版照片聚焦美伊冲突升级、美国各地爆发大规模反特朗普抗议，以及韩国为应对中东冲突引发的经济危机而编制的补充预算案。"
+      }
+    },
+    {
+      "title": "이란 공격에 실종된 태국 선원 3명…선내서 유해 발견 - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/04/04/V3OQQS6FYFA6RFHRWYMNLILI64/",
       "source": "조선일보",
-      "pubDate": "Sat, 04 Apr 2026 04:54:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MZQWCYJQME2DAM3CMIZTENTCMY.jpg?auth=ad498d488334449f0f61434327ad42005991876475a302f0159ec53c4576b9e2&width=1200&height=630&smart=true",
+      "pubDate": "Sat, 04 Apr 2026 05:58:14 GMT",
+      "image": "https://www.chosun.com/resizer/v2/V33YEWQJL5JIFGJB7RGXEFGAB4.jpg?auth=c377d317262adea6f4d0838df376f213fcdd506948965bafb428cb4ac0df1eee&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "尹 탄핵 1년... 국힘 “잘못된 계엄으로 국민께 실망·혼란 사과” - 조선일보",
-        "en": "尹 탄핵 1년... 국힘 “잘못된 계엄으로 국민께 실망·혼란 사과” - 조선일보",
-        "zh": "尹 탄핵 1년... 국힘 “잘못된 계엄으로 국민께 실망·혼란 사과” - 조선일보"
+        "ko": "이란 공격에 실종된 태국 선원 3명…선내서 유해 발견 - 조선일보",
+        "en": "이란 공격에 실종된 태국 선원 3명…선내서 유해 발견 - 조선일보",
+        "zh": "이란 공격에 실종된 태국 선원 3명…선내서 유해 발견 - 조선일보"
       }
     },
     {
-      "title": "'호르무즈 좌초' 태국 선박…실종자 시신 일부 발견 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260404135641K5M",
-      "source": "연합뉴스TV",
-      "pubDate": "Sat, 04 Apr 2026 04:58:06 GMT",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260404/AKR20260404135641K5M_01_i.jpg",
-      "summaries": {
-        "ko": "이란의 공격으로 호르무즈 해협에서 좌초된 태국 선박 '마유리나리호'에서 실종됐던 선원 3명 중 일부의 시신이 선내에서 발견되었다.",
-        "en": "Partial remains of some of the three missing crew members from the Thai vessel 'Mayurinari', which was stranded in the Strait of Hormuz after an Iranian attack, have been found inside the ship.",
-        "zh": "在霍尔木兹海峡，一艘因伊朗袭击而搁浅的泰国船只“Mayurinari”号上，三名失踪船员的部分遗体在船内被发现。"
-      }
-    },
-    {
-      "title": "[전문공개] ‘이재명 자백’ 거래? 거절?…박상용 녹취가 가리키는 것은 - KBS 뉴스",
+      "title": "[전문공개] ‘이재명 자백’ 거래? 거절?…박상용 녹취가 가리키는 것은 - news.kbs.co.kr",
       "link": "https://news.kbs.co.kr/news/view.do?ncd=8526864",
-      "source": "KBS 뉴스",
+      "source": "news.kbs.co.kr",
       "pubDate": "Fri, 03 Apr 2026 21:00:00 GMT",
       "image": "http://news.kbs.co.kr/data/fckeditor/new/image/2026/04/04/336111775206420538.jpg",
       "summaries": {
-        "ko": "쌍방울 대북 송금 사건 수사 검사인 박상용이 국회 국정조사에서 증인 선서를 거부하며 이재명 대표 관련 진술 내용과 회유 및 거래 의혹을 소명했고, KBS는 해당 통화 녹취록 전문과 박 검사의 모두발언을 공개했다.",
-        "en": "Prosecutor Park Sang-yong, who investigated the Ssangbangwool North Korea remittance case, refused to take the witness oath at a parliamentary inquiry, explaining issues related to Lee Jae-myung's statements and suspicions of persuasion and deals, with KBS releasing the full transcript of the relevant call and Park's opening remarks.",
-        "zh": "调查双铃集团对朝汇款案的检察官朴相龙在国会国政调查中拒绝宣誓作证，并解释了与李在明代表相关的证词内容以及劝诱和交易嫌疑，KBS公开了相关通话录音全文和朴检察官的开场白。"
+        "ko": "박상용 검사가 국정조사 증인 선서를 거부한 가운데, KBS가 '쌍방울 대북 송금' 사건 관련 이재명 대표 진술 및 회유·거래 의혹을 다룬 통화 녹취록과 박 검사의 관련 발언을 공개하며 논란이 확산되고 있다.",
+        "en": "Amidst prosecutor Park Sang-yong's refusal to take an oath at a parliamentary special committee, KBS has released a phone call transcript discussing Lee Jae-myung's statements and alleged coercion/deal-making regarding the 'Ssangbangul North Korea remittance' case, along with Park's related remarks, fueling controversy.",
+        "zh": "在检察官朴相龙拒绝在国会调查委员会宣誓作证之际，KBS公开了讨论李在明在“双铃对朝汇款”案中证词内容和涉嫌诱导交易的通话录音，以及朴相龙的相关发言，引发了争议。"
       }
     },
     {
@@ -56,9 +68,9 @@
       "pubDate": "Sat, 04 Apr 2026 02:30:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/04/04/news-p.v1.20260404.4f5dec6eceac4509bdda18e9a77b4a39_P1.jpeg",
       "summaries": {
-        "ko": "유엔 안보리가 이란의 호르무즈 해협 봉쇄에 대응해 '필요한 모든 방어 수단' 사용을 허용하는 결의안 표결을 연기했으며, 중국과 러시아의 반대로 채택 여부가 불투명하다.",
-        "en": "The UN Security Council has postponed voting on a resolution that would allow 'all necessary defensive means' to counter Iran's blockade of the Hormuz Strait, with its adoption uncertain due to opposition from China and Russia.",
-        "zh": "联合国安理会推迟了对一项允许采取“一切必要防御手段”以应对伊朗封锁霍尔木兹海峡的决议草案进行表决，该决议因中俄反对而前景不明。"
+        "ko": "유엔 안보리가 이란에 의해 봉쇄된 호르무즈 해협의 무력 개방을 허용하는 결의안 표결을 중국과 러시아의 반대 등으로 다음 주로 연기했으며, 이란은 러시아에 결의안 저지를 요청했다.",
+        "en": "The UN Security Council has postponed the vote on a resolution allowing military force to open the Strait of Hormuz, currently blocked by Iran, until next week due to opposition from China and Russia, while Iran has requested Russia to block the resolution.",
+        "zh": "联合国安理会因中俄反对，将允许对伊朗封锁的霍尔木兹海峡采取武力开放的决议案投票推迟至下周，伊朗已请求俄罗斯阻止该决议案通过。"
       }
     },
     {
@@ -68,16 +80,28 @@
       "pubDate": "Fri, 03 Apr 2026 23:43:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0404/53_17752593970928_6117752593865822.webp",
       "summaries": {
-        "ko": "4월 4일, 진해군항제가 막바지에 접어들며 벚꽃이 흩날리는 가운데 전국 대부분 지역에 봄비와 강풍이 예보되었고, 특히 남부 지역에는 강한 비가 예상되어 산사태 및 항공기 지연 등에 유의가 당부된다.",
-        "en": "On April 4th, as the Jinhae cherry blossom festival concludes with petals scattering, widespread spring rain and strong winds are forecast across most of Korea, particularly heavy in southern regions, with warnings for landslides and potential flight delays.",
-        "zh": "4月4日，随着镇海军港节进入尾声、樱花飘落，韩国大部分地区预计将迎来春雨和强风，南部地区尤其将有强降雨，提醒人们注意山体滑坡和航班延误等情况。"
+        "ko": "4월 첫 토요일인 4일, 전국 대부분 지역에 비가 내리겠고 특히 전남권과 경상권은 오전까지 강한 비, 제주도와 전남해안은 강풍이 예상되어 시설물 관리 및 안전에 유의해야 한다.",
+        "en": "On April 4th, the first Saturday, most of South Korea will experience rain, with strong rain expected in Jeonnam and Gyeongsang regions until morning and strong winds on Jeju Island and the Jeonnam coast, advising caution for facility management and safety.",
+        "zh": "4月第一个周六，即4日，韩国大部分地区将有降雨，其中全南和庆尚地区上午将有强降雨，济州岛和全南海岸还将伴有强风，提醒民众注意设施管理和安全。"
+      }
+    },
+    {
+      "title": "인천 옥련동 모텔에 불…51명 부상·26명 병원 이송 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260404123147SJA",
+      "source": "연합뉴스TV",
+      "pubDate": "Sat, 04 Apr 2026 03:31:49 GMT",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260404/AKR20260404123147SJA_01_i.jpg",
+      "summaries": {
+        "ko": "인천 옥련동 모텔에 불…51명 부상·26명 병원 이송 - 연합뉴스TV",
+        "en": "인천 옥련동 모텔에 불…51명 부상·26명 병원 이송 - 연합뉴스TV",
+        "zh": "인천 옥련동 모텔에 불…51명 부상·26명 병원 이송 - 연합뉴스TV"
       }
     },
     {
       "title": "‘뇌물 1억원 수수 의혹’ 강호동 농협회장, 경찰 출석 - 조선일보",
       "link": "https://www.chosun.com/national/national_general/2026/04/04/V2UJBSN5DFAIPCZWGOMNAX3RQE/",
       "source": "조선일보",
-      "pubDate": "Sat, 04 Apr 2026 00:46:00 GMT",
+      "pubDate": "Sat, 04 Apr 2026 00:52:59 GMT",
       "image": "https://www.chosun.com/resizer/v2/I7SJVNQX5VJ4LEVVPYLFKHEVJM.jpg?auth=a2091fb1aaa3a1e0f9fc25dc4c0e3f0aa27968eeee74c1539921885cbba97390&width=1200&height=630&smart=true",
       "summaries": {
         "ko": "‘뇌물 1억원 수수 의혹’ 강호동 농협회장, 경찰 출석 - 조선일보",
@@ -92,21 +116,9 @@
       "pubDate": "Fri, 03 Apr 2026 12:22:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/701/526/imgdb/original/2026/0403/20260403501538.webp",
       "summaries": {
-        "ko": "제78주년 제주4·3 추념식에서는 고령의 유족들이 잃어버린 가족에 대한 깊은 그리움과 슬픔을 드러냈고, 일부는 최근 정정된 가족관계 기록을 통해 78년이 지난 비극의 아픔이 여전히 지속됨을 보여주었다.",
-        "en": "At the 78th Jeju 4.3 Commemoration Ceremony, elderly victims and their families expressed profound grief and longing for lost loved ones, with some sharing stories of recently corrected family records, highlighting the enduring pain of the tragedy.",
-        "zh": "在第78届济州4·3纪念仪式上，年迈的遇难者及其家属表达了对逝去亲人的深切悲痛和思念，其中一些人分享了最近家庭关系得以纠正的故事，凸显了这场悲剧持续的痛苦。"
-      }
-    },
-    {
-      "title": "[뉴스특보] 이란, 미 전투기·공격기 첫 격추…회담 무산 수순",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260404164655hAo",
-      "source": "Breaking News",
-      "pubDate": "Sat, 04 Apr 2026 16:51:09 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260404/MYH20260404164655hAo.jpg",
-      "summaries": {
-        "ko": "[뉴스특보] 이란, 미 전투기·공격기 첫 격추…회담 무산 수순",
-        "en": "[뉴스특보] 이란, 미 전투기·공격기 첫 격추…회담 무산 수순",
-        "zh": "[뉴스특보] 이란, 미 전투기·공격기 첫 격추…회담 무산 수순"
+        "ko": "“부모·언니까지 가족 7명 잃은 아내, 평생 그리움에…” 4·3 추념식 - 한겨레",
+        "en": "“부모·언니까지 가족 7명 잃은 아내, 평생 그리움에…” 4·3 추념식 - 한겨레",
+        "zh": "“부모·언니까지 가족 7명 잃은 아내, 평생 그리움에…” 4·3 추념식 - 한겨레"
       }
     },
     {
