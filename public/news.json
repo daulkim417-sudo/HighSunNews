@@ -1,16 +1,28 @@
 {
-  "lastUpdate": "2026-04-06T19:42:21.674497",
+  "lastUpdate": "2026-04-06T20:24:01.073377",
   "items": [
     {
-      "title": "‘45일 휴전 후 종전’ 협상 중…트럼프, 최후통첩 또 미뤘다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1252943.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 06 Apr 2026 16:13:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0406/53_17754767739918_9817754527410133.webp",
+      "title": "트럼프 “이란, 하루에 없앨 수 있어… 내일 밤일 수도” - 조선일보",
+      "link": "https://www.chosun.com/international/us/2026/04/07/W5FK6WCADNHCNHDLGO4DJYUA5E/",
+      "source": "조선일보",
+      "pubDate": "Mon, 06 Apr 2026 18:38:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/I3GNYCXUJVC4FFQZWYPKFO2EIA.jpg?auth=fb0e04a86ddd71a594acca78ea4c85bc4cb13975d0fc5fb3fac9ecfc7ec42d88&width=1200&height=630&focal=2193,1049",
       "summaries": {
-        "ko": "트럼프 대통령은 이란의 호르무즈 해협 개방 최후통첩 시한을 하루 연장했으며, 이는 45일 휴전 후 종전을 목표로 하는 '2단계 종전안' 간접 협상이 진행 중이기 때문이지만, 협상 전망은 불투명하다.",
-        "en": "President Trump extended the ultimatum for Iran to open the Strait of Hormuz by 24 hours amidst ongoing indirect negotiations for a 'two-stage peace plan' involving a 45-day ceasefire followed by a permanent resolution, though the outlook for an agreement remains uncertain.",
-        "zh": "特朗普总统将伊朗开放霍尔木兹海峡的最后通牒期限延长了24小时，目前美伊两国正通过间接谈判讨论以45天停火为起点的“两阶段和平方案”，但协议前景仍不明朗。"
+        "ko": "트럼프 “이란, 하루에 없앨 수 있어… 내일 밤일 수도” - 조선일보",
+        "en": "트럼프 “이란, 하루에 없앨 수 있어… 내일 밤일 수도” - 조선일보",
+        "zh": "트럼프 “이란, 하루에 없앨 수 있어… 내일 밤일 수도” - 조선일보"
+      }
+    },
+    {
+      "title": "[속보] 이란, 휴전 거부…‘재공격 없는 영구 종전만 수용’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1252960.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 06 Apr 2026 16:09:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/730/imgdb/child/2026/0407/17754907267026_20260405502056.webp",
+      "summaries": {
+        "ko": "이란은 미국·이스라엘과의 임시 휴전안을 거부하고, 재공격 없는 영구적인 전쟁 종식과 제재 해제, 전후 재건 등을 요구하며 기존 입장을 고수했다.",
+        "en": "Iran rejected a proposed temporary ceasefire with the U.S. and Israel, insisting instead on a permanent end to the war with guarantees against renewed attacks, sanctions relief, and post-war reconstruction.",
+        "zh": "伊朗拒绝了与美国和以色列的临时停火提议，坚持要求永久结束战争，并保证不再遭受袭击，同时提出解除制裁和战后重建等要求。"
       }
     },
     {
@@ -50,18 +62,6 @@
       }
     },
     {
-      "title": "[속보] 이란, 휴전 거부…‘재공격 없는 영구 종전만 수용’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1252960.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 06 Apr 2026 16:09:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/730/imgdb/child/2026/0407/17754907267026_20260405502056.webp",
-      "summaries": {
-        "ko": "[속보] 이란, 휴전 거부…‘재공격 없는 영구 종전만 수용’ - 한겨레",
-        "en": "[속보] 이란, 휴전 거부…‘재공격 없는 영구 종전만 수용’ - 한겨레",
-        "zh": "[속보] 이란, 휴전 거부…‘재공격 없는 영구 종전만 수용’ - 한겨레"
-      }
-    },
-    {
       "title": "이스라엘 \"이란 최대 석유화학단지 공습‥수출 85% 마비\" - MBC 뉴스",
       "link": "https://imnews.imbc.com/news/2026/world/article/6813114_36925.html",
       "source": "MBC 뉴스",
@@ -98,6 +98,18 @@
       }
     },
     {
+      "title": "'위기를 기회로'…전 국민 70%에 '고유가 피해지원금' 최대 60만 원 - 대한민국 정책브리핑",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148962107",
+      "source": "대한민국 정책브리핑",
+      "pubDate": "Mon, 06 Apr 2026 08:15:15 GMT",
+      "image": "https://www.korea.kr/newsWeb/resources/attaches/2026.04/06/bf112f3d5ab96d908ecb2c66519c82e0.jpg",
+      "summaries": {
+        "ko": "'위기를 기회로'…전 국민 70%에 '고유가 피해지원금' 최대 60만 원 - 대한민국 정책브리핑",
+        "en": "'위기를 기회로'…전 국민 70%에 '고유가 피해지원금' 최대 60만 원 - 대한민국 정책브리핑",
+        "zh": "'위기를 기회로'…전 국민 70%에 '고유가 피해지원금' 최대 60만 원 - 대한민국 정책브리핑"
+      }
+    },
+    {
       "title": "[속보] 내란전담재판부, 29일 오후 3시 윤석열 '체포 방해' 2심 선고 - MBC 뉴스",
       "link": "https://imnews.imbc.com/news/2026/society/article/6813055_36918.html",
       "source": "MBC 뉴스",
@@ -107,42 +119,6 @@
         "ko": "[속보] 내란전담재판부, 29일 오후 3시 윤석열 '체포 방해' 2심 선고 - MBC 뉴스",
         "en": "[속보] 내란전담재판부, 29일 오후 3시 윤석열 '체포 방해' 2심 선고 - MBC 뉴스",
         "zh": "[속보] 내란전담재판부, 29일 오후 3시 윤석열 '체포 방해' 2심 선고 - MBC 뉴스"
-      }
-    },
-    {
-      "title": "헌법 개정안 공고안, 국무회의 의결…국민의힘 찬성 최소 10표 필요 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604061310001",
-      "source": "경향신문",
-      "pubDate": "Mon, 06 Apr 2026 04:10:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/06/news-p.v1.20260406.8ffeb120405443a981c807dc74f68d7e_P1.jpg",
-      "summaries": {
-        "ko": "헌법 개정안 공고안, 국무회의 의결…국민의힘 찬성 최소 10표 필요 - 경향신문",
-        "en": "헌법 개정안 공고안, 국무회의 의결…국민의힘 찬성 최소 10표 필요 - 경향신문",
-        "zh": "헌법 개정안 공고안, 국무회의 의결…국민의힘 찬성 최소 10표 필요 - 경향신문"
-      }
-    },
-    {
-      "title": "[속보] 트럼프, 이란 합의 불발시 \"7일 밤 12시까지 교량·발전소 파괴\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260407033554NyR",
-      "source": "Breaking News",
-      "pubDate": "Tue, 07 Apr 2026 03:35:55 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260406/AKR20260407033554NyR_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 트럼프, 이란 합의 불발시 \"7일 밤 12시까지 교량·발전소 파괴\"",
-        "en": "[속보] 트럼프, 이란 합의 불발시 \"7일 밤 12시까지 교량·발전소 파괴\"",
-        "zh": "[속보] 트럼프, 이란 합의 불발시 \"7일 밤 12시까지 교량·발전소 파괴\""
-      }
-    },
-    {
-      "title": "[속보] 트럼프 \"나토뿐 아니라 한국·호주·일본 우리 안 도왔다\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260407033508zl5",
-      "source": "Breaking News",
-      "pubDate": "Tue, 07 Apr 2026 03:35:10 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260406/AKR20260407033508zl5_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 트럼프 \"나토뿐 아니라 한국·호주·일본 우리 안 도왔다\"",
-        "en": "[속보] 트럼프 \"나토뿐 아니라 한국·호주·일본 우리 안 도왔다\"",
-        "zh": "[속보] 트럼프 \"나토뿐 아니라 한국·호주·일본 우리 안 도왔다\""
       }
     }
   ]
