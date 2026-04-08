@@ -1,64 +1,100 @@
 {
-  "lastUpdate": "2026-04-08T05:54:17.310235",
+  "lastUpdate": "2026-04-08T07:03:58.462533",
   "items": [
     {
-      "title": "미국·이란 ‘2주 휴전·호르무즈 개방’ 극적 합의 - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/04/08/V3UZORZE5BCB5EIYYZOE3DK65M/",
+      "title": "미·이란 운명의 2주, ‘비밀 외교 성지’ 파키스탄 이슬라마바드서 담판 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604081458001",
+      "source": "경향신문",
+      "pubDate": "Wed, 08 Apr 2026 05:58:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/08/rcv.YNA.20260328.PRU20260328401401009_P1.jpg",
+      "summaries": {
+        "ko": "파키스탄이 미국-이란 갈등의 핵심 중재국으로 부상하여 2주 휴전 합의를 이끌어내고 이슬라마바드에서 대면 회담을 추진하며 외교적 입지를 강화하고 있다.",
+        "en": "Pakistan is strengthening its diplomatic standing as a key mediator in the US-Iran conflict, having facilitated a two-week ceasefire agreement and pushing for face-to-face talks in Islamabad.",
+        "zh": "巴基斯坦在美伊冲突中扮演关键调解国角色，促成了为期两周的停火协议，并正在推动在伊斯兰堡举行面对面会谈，从而巩固其外交地位。"
+      }
+    },
+    {
+      "title": "여·야·정 민생경제협의체 회담 및 오찬 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+      "link": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=70505",
+      "source": "대한민국 정책브리핑",
+      "pubDate": "Wed, 08 Apr 2026 01:35:15 GMT",
+      "image": "https://www.korea.kr/admin2011/upload/photo/2026/04/07/dc7e381fcece0934746bf1d9d11a5afc_THUMB_1.jpg",
+      "summaries": {
+        "ko": "이재명 대통령은 4월 7일 청와대에서 더불어민주당 정청래 대표, 국민의힘 장동혁 대표 등과 여·야·정 민생경제 협의체 회담을 가졌다.",
+        "en": "President Lee Jae-myung held a ruling party, opposition party, and government livelihood economy consultative body meeting with Democratic Party Representative Jeong Cheong-rae and People Power Party Representative Jang Dong-hyuk, among others, at Cheongwadae on April 7th.",
+        "zh": "李在明总统于4月7日在青瓦台与共同民主党郑清来代表、国民力量党张东赫代表等共同召开了执政党、在野党、政府民生经济协商机制会议。"
+      }
+    },
+    {
+      "title": "항공업계 “휴전, 2주라는 기간이라도 긍정적” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604081536001",
+      "source": "경향신문",
+      "pubDate": "Wed, 08 Apr 2026 06:36:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/08/ams.V01.photo.KHN.P.20260330.P12026033021093234422581449_P1.jpg",
+      "summaries": {
+        "ko": "항공업계는 미국-이란 휴전을 석유 공급 회복의 긍정적 신호로 보면서도 항공유 및 항공권 가격은 당분간 높은 수준을 유지하고 공급 불안정으로 운항 축소 등이 이어질 것으로 전망했다.",
+        "en": "The aviation industry views the US-Iran truce as a positive sign for oil supply recovery but anticipates that jet fuel and air ticket prices will remain high for some time, with flight reductions continuing due to supply instability.",
+        "zh": "航空业界将美伊休战视为石油供应恢复的积极信号，但预计航空燃料和机票价格短期内仍将维持高位，且由于供应不稳定，航班削减等情况将持续。"
+      }
+    },
+    {
+      "title": "경찰, 김병기 엿새 만에 재소환…6차 피의자 조사 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8529976",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 08 Apr 2026 01:16:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/04/08/20260408_JwwxQO.jpg",
+      "summaries": {
+        "ko": "경찰, 김병기 엿새 만에 재소환…6차 피의자 조사 - KBS 뉴스",
+        "en": "경찰, 김병기 엿새 만에 재소환…6차 피의자 조사 - KBS 뉴스",
+        "zh": "경찰, 김병기 엿새 만에 재소환…6차 피의자 조사 - KBS 뉴스"
+      }
+    },
+    {
+      "title": "네타냐후, 트럼프 ‘이란 공격 중단’ 지지하지만···“헤즈볼라 전투는 제외” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604081435001",
+      "source": "경향신문",
+      "pubDate": "Wed, 08 Apr 2026 05:35:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/08/news-p.v1.20260309.5d61c444d1c34606916ffcb6be8146b9_P1.png",
+      "summaries": {
+        "ko": "네타냐후, 트럼프 ‘이란 공격 중단’ 지지하지만···“헤즈볼라 전투는 제외” - 경향신문",
+        "en": "네타냐후, 트럼프 ‘이란 공격 중단’ 지지하지만···“헤즈볼라 전투는 제외” - 경향신문",
+        "zh": "네타냐후, 트럼프 ‘이란 공격 중단’ 지지하지만···“헤즈볼라 전투는 제외” - 경향신문"
+      }
+    },
+    {
+      "title": "北 단거리 탄도 발사, 이틀 연속 도발 - 조선일보",
+      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/04/08/3WXJQP7BRFGJDIVUBAC2LD2R4U/",
       "source": "조선일보",
-      "pubDate": "Tue, 07 Apr 2026 23:36:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/6UPII7K57ZLF3MYMZSJRQW2TPY.jpg?auth=51f7f2850a93928867d1128717e072e96c8f7579b2356f00fc1ed515e397eed0&width=1200&height=630&focal=3078,416",
+      "pubDate": "Wed, 08 Apr 2026 00:13:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/5XRENCKIHFMYJBKH4FOICYMBPU.jpg?auth=c8b104c578a2682e437c2761a59130dc4c12b1ae0f14fad201a48cb22dc476c3&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "미국·이란 ‘2주 휴전·호르무즈 개방’ 극적 합의 - 조선일보",
-        "en": "미국·이란 ‘2주 휴전·호르무즈 개방’ 극적 합의 - 조선일보",
-        "zh": "미국·이란 ‘2주 휴전·호르무즈 개방’ 극적 합의 - 조선일보"
+        "ko": "北 단거리 탄도 발사, 이틀 연속 도발 - 조선일보",
+        "en": "北 단거리 탄도 발사, 이틀 연속 도발 - 조선일보",
+        "zh": "北 단거리 탄도 발사, 이틀 연속 도발 - 조선일보"
       }
     },
     {
-      "title": "장동혁 “대통령 한 번만 하겠다, 이 한마디를 왜 못하나” - 매일경제",
-      "link": "https://www.mk.co.kr/news/politics/12011270",
-      "source": "매일경제",
-      "pubDate": "Wed, 08 Apr 2026 03:01:47 GMT",
-      "image": "https://pimg.mk.co.kr/news/cms/202604/08/news-p.v1.20260408.980840aa0b9a4593aa1b542213ece8d1_R.jpg",
+      "title": "[QnA] ‘공영주차장 5부제’ 택배·배달차도 적용되나요? - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604071739001",
+      "source": "경향신문",
+      "pubDate": "Tue, 07 Apr 2026 08:39:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/07/news-p.v1.20260407.b2e60f46861245099dd8020845081359_P1.jpeg",
       "summaries": {
-        "ko": "장동혁 국민의힘 대표는 이재명 대통령에게 \"대통령 한 번만 하겠다\"며 연임 포기를 명확히 할 것을 거듭 요구했고, 이에 청와대는 이 대통령이 야당의 개헌저지선 때문에 연임 개헌이 불가능하다고 답했다고 반박하며 논란이 계속되고 있다.",
-        "en": "People Power Party representative Jang Dong-hyuk repeatedly demanded President Lee Jae-myung clearly state he would \"only serve once\" and explicitly abandon re-election, to which the Blue House retorted that President Lee responded by saying re-election through constitutional amendment is impossible due to the opposition's blocking power, leading to an ongoing dispute.",
-        "zh": "国民力量党代表张东赫再次要求李在明总统明确宣布“只担任一届总统”放弃连任，而青瓦台则反驳称李总统表示由于在野党的阻挠，通过修宪实现连任是不可能的，双方争论持续。"
+        "ko": "[QnA] ‘공영주차장 5부제’ 택배·배달차도 적용되나요? - 경향신문",
+        "en": "[QnA] ‘공영주차장 5부제’ 택배·배달차도 적용되나요? - 경향신문",
+        "zh": "[QnA] ‘공영주차장 5부제’ 택배·배달차도 적용되나요? - 경향신문"
       }
     },
     {
-      "title": "6차 소환 김병기 “너무 많이 불러… 구속영장 신청될 리 있겠나” - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/04/08/EUA3SWK5OFDG3O2CHK2AN3UQAE/",
-      "source": "조선일보",
-      "pubDate": "Wed, 08 Apr 2026 00:08:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/CDESUWHERBPPXNI2ZWEG3GTUUY.jpg?auth=20dc03c399d9887df791a874a6e70bd3465abc3a2991bd5cba2ad461b8fea838&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "6차 소환 김병기 “너무 많이 불러… 구속영장 신청될 리 있겠나” - 조선일보",
-        "en": "6차 소환 김병기 “너무 많이 불러… 구속영장 신청될 리 있겠나” - 조선일보",
-        "zh": "6차 소환 김병기 “너무 많이 불러… 구속영장 신청될 리 있겠나” - 조선일보"
-      }
-    },
-    {
-      "title": "대구 컷오프 주호영 “항고 결과 보고 거취 최종 판단... 선거 최대 장애물은 장동혁” - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/04/08/EB6T3I2HSREU7DUKAPUGFTXPKU/",
-      "source": "조선일보",
-      "pubDate": "Wed, 08 Apr 2026 01:58:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/J55C3P37EROO5NJWDS6ITB2YXU.jpg?auth=ec49e120f1eb07d082c1e3f413440292d31610e28c4fd3ff33540fc79c13e8af&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "대구 컷오프 주호영 “항고 결과 보고 거취 최종 판단... 선거 최대 장애물은 장동혁” - 조선일보",
-        "en": "대구 컷오프 주호영 “항고 결과 보고 거취 최종 판단... 선거 최대 장애물은 장동혁” - 조선일보",
-        "zh": "대구 컷오프 주호영 “항고 결과 보고 거취 최종 판단... 선거 최대 장애물은 장동혁” - 조선일보"
-      }
-    },
-    {
-      "title": "국가안보실 “북 탄도미사일 발사, 안보리 결의 위반…즉각 중단 촉구” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1253187.html",
+      "title": "주호영 “무소속 출마, 항고심 보고 판단…장동혁 당 인정 못해” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1253179.html",
       "source": "한겨레",
-      "pubDate": "Wed, 08 Apr 2026 02:19:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/577/imgdb/original/2026/0408/20260408501449.webp",
+      "pubDate": "Wed, 08 Apr 2026 05:02:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/597/imgdb/original/2026/0408/20260408501329.webp",
       "summaries": {
-        "ko": "국가안보실은 북한의 탄도미사일 발사를 유엔 안보리 결의 위반으로 규탄하며 즉각적인 중단을 촉구하고 대비태세 유지를 지시했다.",
-        "en": "South Korea's National Security Office condemned North Korea's ballistic missile launch as a violation of UN Security Council resolutions, urged its immediate cessation, and instructed to maintain a heightened state of readiness.",
-        "zh": "韩国国家安保室谴责朝鲜发射弹道导弹违反联合国安理会决议，敦促其立即停止，并指示保持高度戒备态势。"
+        "ko": "주호영 “무소속 출마, 항고심 보고 판단…장동혁 당 인정 못해” - 한겨레",
+        "en": "주호영 “무소속 출마, 항고심 보고 판단…장동혁 당 인정 못해” - 한겨레",
+        "zh": "주호영 “무소속 출마, 항고심 보고 판단…장동혁 당 인정 못해” - 한겨레"
       }
     },
     {
@@ -68,81 +104,33 @@
       "pubDate": "Wed, 08 Apr 2026 02:27:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/04/08/news-p.v1.20260407.047d2ccf5b9743b18ae18405893108fc_P1.jpeg",
       "summaries": {
-        "ko": "정성호 법무부 장관이 국민의힘 단독 청문회에 참석해 진술회유 의혹을 반박한 박상용 검사가 정치적 중립 의무를 위반했다며 추가 감찰을 지시하고 직무를 정지시켰다.",
-        "en": "Justice Minister Jung Sung-ho ordered an additional inspection and suspended Prosecutor Park Sang-yong, citing a violation of political neutrality after Park participated in a People Power Party-only hearing to refute allegations of coerced testimony.",
-        "zh": "韩国法务部长官郑成昊指示对检察官朴相龙进行追加监察并暂停其职务，理由是朴相龙参加国民力量党单独举办的听证会并反驳诱导供述嫌疑，违反了政治中立义务。"
+        "ko": "정성호 장관, ‘국힘 청문회 참석’ 박상용 검사 추가 감찰 지시 - 경향신문",
+        "en": "정성호 장관, ‘국힘 청문회 참석’ 박상용 검사 추가 감찰 지시 - 경향신문",
+        "zh": "정성호 장관, ‘국힘 청문회 참석’ 박상용 검사 추가 감찰 지시 - 경향신문"
       }
     },
     {
-      "title": "'서부지법 폭동 배후' 유튜버 신혜식 등 전광훈 측근 6명 송치 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6813547_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Wed, 08 Apr 2026 00:54:35 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/04/08/ggm_20260408_7.jpg",
+      "title": "대구 조산 임신부가 성남까지…병원 이송 거부에 쌍둥이 사망·뇌손상 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260407134649REd",
+      "source": "연합뉴스TV",
+      "pubDate": "Tue, 07 Apr 2026 04:46:50 GMT",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260407/AKR20260407134649REd_01_i.jpg",
       "summaries": {
-        "ko": "'서부지법 폭동 배후' 유튜버 신혜식 등 전광훈 측근 6명 송치 - MBC 뉴스",
-        "en": "'서부지법 폭동 배후' 유튜버 신혜식 등 전광훈 측근 6명 송치 - MBC 뉴스",
-        "zh": "'서부지법 폭동 배후' 유튜버 신혜식 등 전광훈 측근 6명 송치 - MBC 뉴스"
+        "ko": "대구 조산 임신부가 성남까지…병원 이송 거부에 쌍둥이 사망·뇌손상 - 연합뉴스TV",
+        "en": "대구 조산 임신부가 성남까지…병원 이송 거부에 쌍둥이 사망·뇌손상 - 연합뉴스TV",
+        "zh": "대구 조산 임신부가 성남까지…병원 이송 거부에 쌍둥이 사망·뇌손상 - 연합뉴스TV"
       }
     },
     {
-      "title": "[단독] 국방부 영내서 부사관 숨진 채 발견…“사망 경위 파악 중” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8529935",
-      "source": "KBS 뉴스",
-      "pubDate": "Wed, 08 Apr 2026 00:40:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/04/08/20260408_GaZ3kL.jpg",
-      "summaries": {
-        "ko": "[단독] 국방부 영내서 부사관 숨진 채 발견…“사망 경위 파악 중” - KBS 뉴스",
-        "en": "[단독] 국방부 영내서 부사관 숨진 채 발견…“사망 경위 파악 중” - KBS 뉴스",
-        "zh": "[단독] 국방부 영내서 부사관 숨진 채 발견…“사망 경위 파악 중” - KBS 뉴스"
-      }
-    },
-    {
-      "title": "[단독]현직 검사 \"대북송금 사건, 종합특검 수사권 범위 초과\" - nocutnews.co.kr",
-      "link": "https://www.nocutnews.co.kr/news/6498283",
-      "source": "nocutnews.co.kr",
-      "pubDate": "Tue, 07 Apr 2026 08:42:00 GMT",
-      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/04/07/202604071739537645_0.jpg",
-      "summaries": {
-        "ko": "[단독]현직 검사 \"대북송금 사건, 종합특검 수사권 범위 초과\" - nocutnews.co.kr",
-        "en": "[단독]현직 검사 \"대북송금 사건, 종합특검 수사권 범위 초과\" - nocutnews.co.kr",
-        "zh": "[단독]현직 검사 \"대북송금 사건, 종합특검 수사권 범위 초과\" - nocutnews.co.kr"
-      }
-    },
-    {
-      "title": "정원오, 박원순·오세훈 동일시 발언에 사과…“박원순과 누구보다 가까이 지냈다” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604081132001",
-      "source": "경향신문",
-      "pubDate": "Wed, 08 Apr 2026 02:32:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/08/news-p.v1.20260311.61edb5e65f2a4f08a98136fbed250c5a_P1.jpeg",
-      "summaries": {
-        "ko": "정원오, 박원순·오세훈 동일시 발언에 사과…“박원순과 누구보다 가까이 지냈다” - 경향신문",
-        "en": "정원오, 박원순·오세훈 동일시 발언에 사과…“박원순과 누구보다 가까이 지냈다” - 경향신문",
-        "zh": "정원오, 박원순·오세훈 동일시 발언에 사과…“박원순과 누구보다 가까이 지냈다” - 경향신문"
-      }
-    },
-    {
-      "title": "[속보] 특검, '주가조작·금품수수' 김건희 2심서 징역 15년 구형",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260408144437A3j",
+      "title": "[속보] 합참 \"북, 오후 2시 20분쯤 탄도미사일 추가 발사\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260408154348c6F",
       "source": "Breaking News",
-      "pubDate": "Wed, 08 Apr 2026 14:44:37 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260408/AKR20260408144437A3j_01_i.jpg",
+      "pubDate": "Wed, 08 Apr 2026 15:43:49 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260408/AKR20260408154348c6F_01_i.jpg",
       "summaries": {
-        "ko": "[속보] 특검, '주가조작·금품수수' 김건희 2심서 징역 15년 구형",
-        "en": "[속보] 특검, '주가조작·금품수수' 김건희 2심서 징역 15년 구형",
-        "zh": "[속보] 특검, '주가조작·금품수수' 김건희 2심서 징역 15년 구형"
-      }
-    },
-    {
-      "title": "[속보] 일 방위성 \"북 탄도미사일 가능성 물체 낙하한 듯\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260408144316HA1",
-      "source": "Breaking News",
-      "pubDate": "Wed, 08 Apr 2026 14:43:16 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260408/AKR20260408144316HA1_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 일 방위성 \"북 탄도미사일 가능성 물체 낙하한 듯\"",
-        "en": "[속보] 일 방위성 \"북 탄도미사일 가능성 물체 낙하한 듯\"",
-        "zh": "[속보] 일 방위성 \"북 탄도미사일 가능성 물체 낙하한 듯\""
+        "ko": "[속보] 합참 \"북, 오후 2시 20분쯤 탄도미사일 추가 발사\"",
+        "en": "[속보] 합참 \"북, 오후 2시 20분쯤 탄도미사일 추가 발사\"",
+        "zh": "[속보] 합참 \"북, 오후 2시 20분쯤 탄도미사일 추가 발사\""
       }
     }
   ]
