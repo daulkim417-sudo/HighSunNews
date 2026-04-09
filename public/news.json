@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-09T10:47:18.752830",
+  "lastUpdate": "2026-04-09T11:39:15.420909",
   "items": [
     {
       "title": "[속보] 정원오, 민주당 서울시장 후보 확정…과반 득표로 본선 직행 - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Thu, 09 Apr 2026 09:42:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/583/imgdb/child/2026/0409/53_17757269577948_20260311501630.webp",
       "summaries": {
-        "ko": "정원오 전 성동구청장이 과반 득표로 더불어민주당 서울시장 후보로 확정되어 오세훈 시장의 10년 무능을 심판하고 이재명 정부의 성공을 서울에서 완성하겠다는 포부를 밝혔다.",
-        "en": "Jung Won-oh, former Seongdong-gu mayor, has been confirmed as the Democratic Party's candidate for Seoul Mayor after securing a majority vote, declaring his ambition to judge Mayor Oh Se-hoon's 10 years of incompetence and complete the success of the Lee Jae-myung government in Seoul.",
-        "zh": "前城东区区长郑元吾以过半数得票被确认为共同民主党首尔市长候选人，他表示将审判吴世勋市长10年的无能，并在首尔完成李在明政府的成功。"
+        "ko": "정원오 전 성동구청장이 더불어민주당 서울시장 후보 경선에서 과반 득표로 최종 후보로 확정되어 6·3 지방선거 본선에 직행하게 되었다.",
+        "en": "Jung Won-oh, former Seongdong District Mayor, has been confirmed as the Democratic Party's final candidate for Seoul Mayor, securing over 50% of the votes in the primary and advancing directly to the June 3 local election.",
+        "zh": "前城东区区长郑元午在共同民主党首尔市长候选人党内初选中获得过半数选票，被确定为最终候选人，直接进入6·3地方选举的正式竞选。"
       }
     },
     {
@@ -26,27 +26,39 @@
       }
     },
     {
+      "title": "트럼프 “이란과 ‘호르무즈 벤처’ 검토”…함께 통행료 걷나 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1253337.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 09 Apr 2026 07:08:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0409/53_17756640566236_20260409500040.webp",
+      "summaries": {
+        "ko": "트럼프 대통령이 호르무즈 해협 관리와 이란의 통행료 징수에 미국이 참여하는 '합작 투자'를 검토한다고 밝힌 가운데, 이란은 이미 암호화폐로 통행료를 걷으며 심각한 선박 정체를 유발하고 있다.",
+        "en": "Amid severe shipping congestion caused by Iran's cryptocurrency toll collection in the Strait of Hormuz, President Trump announced he is considering a \"Joint Venture\" with Iran for strait management and potential involvement in toll collection.",
+        "zh": "在伊朗通过加密货币收取霍尔木兹海峡通行费并导致严重航运堵塞之际，美国总统特朗普宣布正在考虑与伊朗建立“合资企业”，共同管理海峡并可能参与收费。"
+      }
+    },
+    {
       "title": "종합특검, ‘대북송금 수사’ 박상용 검사 피의자 입건·출국금지 - 경향신문",
       "link": "https://www.khan.co.kr/article/202604091215011",
       "source": "경향신문",
       "pubDate": "Thu, 09 Apr 2026 03:15:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/04/09/news-p.v1.20260407.6d28fbfe83a645ccb57e1f1d18409483_P1.jpeg",
       "summaries": {
-        "ko": "쌍방울 대북송금 수사 당시 대통령실 개입 의혹을 수사하는 종합특검이 주임 검사였던 박상용 검사를 피의자로 입건하고 출국금지 조치했다.",
-        "en": "The special prosecutor investigating alleged presidential office intervention in the Ssangbangul North Korea remittance investigation has indicted Park Sang-yong, who was the lead prosecutor at the time, and banned him from leaving the country.",
-        "zh": "调查双铃对朝汇款案期间总统室涉嫌干预的特别检察官，已将当时的主任检察官朴相容列为嫌疑人并禁止其出境。"
+        "ko": "종합특검, ‘대북송금 수사’ 박상용 검사 피의자 입건·출국금지 - 경향신문",
+        "en": "종합특검, ‘대북송금 수사’ 박상용 검사 피의자 입건·출국금지 - 경향신문",
+        "zh": "종합특검, ‘대북송금 수사’ 박상용 검사 피의자 입건·출국금지 - 경향신문"
       }
     },
     {
-      "title": "이란, 호르무즈 해협 대체 항로 공지… 기존 항로엔 ‘위험 구역’ 표시 - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/04/09/TTQ2YN56PZATRGYJYCCZPXUBBI/",
-      "source": "조선일보",
-      "pubDate": "Thu, 09 Apr 2026 08:18:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/NYC7EDLEVNEFLCICAGNBWRUXUE.jpg?auth=fd019e4d4b2dc658e01cbf4b169a6d92fa59d27062b2d88c522b96854bbfc292&width=574&height=301&smart=true",
+      "title": "정부 “호르무즈 통행료 내면 휘발유값 0.5% 정도 오를 것” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/economy/economy_general/1253452.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 09 Apr 2026 08:26:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0409/20260409502934.webp",
       "summaries": {
-        "ko": "이란, 호르무즈 해협 대체 항로 공지… 기존 항로엔 ‘위험 구역’ 표시 - 조선일보",
-        "en": "이란, 호르무즈 해협 대체 항로 공지… 기존 항로엔 ‘위험 구역’ 표시 - 조선일보",
-        "zh": "이란, 호르무즈 해협 대체 항로 공지… 기존 항로엔 ‘위험 구역’ 표시 - 조선일보"
+        "ko": "정부 “호르무즈 통행료 내면 휘발유값 0.5% 정도 오를 것” - 한겨레",
+        "en": "정부 “호르무즈 통행료 내면 휘발유값 0.5% 정도 오를 것” - 한겨레",
+        "zh": "정부 “호르무즈 통행료 내면 휘발유값 0.5% 정도 오를 것” - 한겨레"
       }
     },
     {
@@ -56,57 +68,57 @@
       "pubDate": "Thu, 09 Apr 2026 09:52:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/04/09/rcv.YNA.20260403.PYH2026040314020005100_P1.jpg",
       "summaries": {
-        "ko": "전재수 의원의 부산시장 출마로 공석이 된 부산 북갑 보궐선거에 한동훈 전 대표가 거주지를 둘러보는 등 출마를 준비하는 가운데 박민식 전 장관이 출마를 시사하고 하정우 수석의 거취도 주목받고 있다.",
-        "en": "As the Busan Buk-gap by-election seat becomes vacant due to Representative Jeon Jae-soo's Busan mayoral candidacy, former leader Han Dong-hoon is preparing for a run by looking at residences, while former minister Park Min-sik has hinted at his candidacy and the position of Chief Ha Jeong-woo is also drawing attention.",
-        "zh": "随着全宰秀议员参选釜山市长导致釜山北甲选区空缺，前代表韩东勋通过考察住所等方式准备参选，前部长朴敏植也暗示参选，而夏正宇首席的去向也备受关注。"
+        "ko": "한동훈 부산 북갑 입성 준비? 거주할 만한 집 둘러봤다 - 경향신문",
+        "en": "한동훈 부산 북갑 입성 준비? 거주할 만한 집 둘러봤다 - 경향신문",
+        "zh": "한동훈 부산 북갑 입성 준비? 거주할 만한 집 둘러봤다 - 경향신문"
       }
     },
     {
-      "title": "이 대통령이 과세 강화 겨눈 ‘기업 비업무용 땅’, 장부상으론 ‘깜깜’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/economy/marketing/1253481.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 09 Apr 2026 08:55:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/593/imgdb/original/2026/0409/20260409503315.webp",
+      "title": "대구 '장모 살해·캐리어 시신 유기' 조재복 부부 구속 송치 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6813855_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Thu, 09 Apr 2026 01:40:30 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/04/09/joo260409_6.jpg",
       "summaries": {
-        "ko": "이재명 대통령의 기업 비업무용 부동산 보유세 강화 지시에도 불구하고, 현행 회계 공시 제도의 미흡으로 해당 자산의 규모와 가치를 파악하기 어려워 투명성 강화 요구가 커지고 있다.",
-        "en": "Despite President Lee Jae-myung's directive to strengthen property taxes on corporate non-business real estate, current accounting disclosure systems make it difficult to ascertain the scale and value of such assets, leading to increased calls for transparency.",
-        "zh": "尽管李在明总统指示加强对企业非业务用房地产的保有税，但由于现有会计披露制度的不足，难以查明此类资产的规模和价值，因此要求提高透明度的呼声日益高涨。"
+        "ko": "대구 '장모 살해·캐리어 시신 유기' 조재복 부부 구속 송치 - MBC 뉴스",
+        "en": "대구 '장모 살해·캐리어 시신 유기' 조재복 부부 구속 송치 - MBC 뉴스",
+        "zh": "대구 '장모 살해·캐리어 시신 유기' 조재복 부부 구속 송치 - MBC 뉴스"
       }
     },
     {
-      "title": "[속보] \"트럼프, 이란 조건 미충족 시 공습 재개 경고\" - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260409131857GeM",
-      "source": "연합뉴스TV",
-      "pubDate": "Thu, 09 Apr 2026 04:18:59 GMT",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260409/AKR20260409131857GeM_01_i.jpg",
+      "title": "\"어디갔니 늑대야\"…오월드 탈출 후 '오리무중' 속 비 예보까지 - nocutnews.co.kr",
+      "link": "https://www.nocutnews.co.kr/news/6499280",
+      "source": "nocutnews.co.kr",
+      "pubDate": "Thu, 09 Apr 2026 01:01:00 GMT",
+      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/04/09/202604091000571858_0.jpg",
       "summaries": {
-        "ko": "[속보] \"트럼프, 이란 조건 미충족 시 공습 재개 경고\" - 연합뉴스TV",
-        "en": "[속보] \"트럼프, 이란 조건 미충족 시 공습 재개 경고\" - 연합뉴스TV",
-        "zh": "[속보] \"트럼프, 이란 조건 미충족 시 공습 재개 경고\" - 연합뉴스TV"
+        "ko": "\"어디갔니 늑대야\"…오월드 탈출 후 '오리무중' 속 비 예보까지 - nocutnews.co.kr",
+        "en": "\"어디갔니 늑대야\"…오월드 탈출 후 '오리무중' 속 비 예보까지 - nocutnews.co.kr",
+        "zh": "\"어디갔니 늑대야\"…오월드 탈출 후 '오리무중' 속 비 예보까지 - nocutnews.co.kr"
       }
     },
     {
-      "title": "李대통령 \"자발적 실업에 실업급여 안 주는 건 전근대적\" - 연합인포맥스",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4408623",
-      "source": "연합인포맥스",
-      "pubDate": "Thu, 09 Apr 2026 03:46:41 GMT",
-      "image": "https://cdn.news.einfomax.co.kr/news/thumbnail/202604/4408623_306836_282_v150.jpg",
+      "title": "봄비 시샘에 ‘벚꽃 엔딩’... 수도권 최고 50㎜ - 조선일보",
+      "link": "https://www.chosun.com/national/transport-environment/2026/04/08/KCEXNAON2BFCXIZTJQDDIDKTEI/",
+      "source": "조선일보",
+      "pubDate": "Wed, 08 Apr 2026 08:22:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GRTDGY3DMM4GMNBWGM4WGMRYGI.jpg?auth=1eeb9e08293aa5c5e5f75b7089484470209a5822a5bdafcc46645171fa4a6ba9&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "이재명 대통령은 자발적 실업에 실업급여를 주지 않는 현행 제도를 \"전근대적\"이라고 비판하며, 편법을 양산하고 노동시장의 불안정성을 외면하는 노동 규제 및 보상 체계를 실용적으로 재검토할 것을 촉구했다.",
-        "en": "President Lee Jae-myung criticized the current system that denies unemployment benefits for voluntary unemployment as \"pre-modern,\" arguing it fosters informal practices and urging a pragmatic reevaluation of labor regulations and compensation structures that neglect labor market instability.",
-        "zh": "李在明总统批评现行对自愿失业不发放失业金的制度是“前现代的”，认为其助长了不正当行为，并敦促从实用角度重新审视忽视劳动力市场不稳定性的劳动法规及薪酬体系。"
+        "ko": "봄비 시샘에 ‘벚꽃 엔딩’... 수도권 최고 50㎜ - 조선일보",
+        "en": "봄비 시샘에 ‘벚꽃 엔딩’... 수도권 최고 50㎜ - 조선일보",
+        "zh": "봄비 시샘에 ‘벚꽃 엔딩’... 수도권 최고 50㎜ - 조선일보"
       }
     },
     {
-      "title": "개그맨 이진호, 급성 뇌출혈로 중환자실 입원 치료 중…“생명엔 지장 없어” - 매일경제",
-      "link": "https://www.mk.co.kr/news/society/12012404",
-      "source": "매일경제",
-      "pubDate": "Thu, 09 Apr 2026 02:43:03 GMT",
-      "image": "https://pimg.mk.co.kr/news/cms/202604/09/news-p.v1.20260409.182344f1197d44fa966698bbf25c9dd3_R.jpg",
+      "title": "종전 10개항 신경전…트럼프 \"합의 깨지면 공격\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260409203533nC0",
+      "source": "Breaking News",
+      "pubDate": "Thu, 09 Apr 2026 20:36:11 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260409/MYH20260409203533nC0.jpg",
       "summaries": {
-        "ko": "개그맨 이진호, 급성 뇌출혈로 중환자실 입원 치료 중…“생명엔 지장 없어” - 매일경제",
-        "en": "개그맨 이진호, 급성 뇌출혈로 중환자실 입원 치료 중…“생명엔 지장 없어” - 매일경제",
-        "zh": "개그맨 이진호, 급성 뇌출혈로 중환자실 입원 치료 중…“생명엔 지장 없어” - 매일경제"
+        "ko": "종전 10개항 신경전…트럼프 \"합의 깨지면 공격\"",
+        "en": "종전 10개항 신경전…트럼프 \"합의 깨지면 공격\"",
+        "zh": "종전 10개항 신경전…트럼프 \"합의 깨지면 공격\""
       }
     },
     {
@@ -119,30 +131,6 @@
         "ko": "[속보] 조현, 이란 외교장관과 통화…\"특사 파견\"",
         "en": "[속보] 조현, 이란 외교장관과 통화…\"특사 파견\"",
         "zh": "[속보] 조현, 이란 외교장관과 통화…\"특사 파견\""
-      }
-    },
-    {
-      "title": "[속보] 조현 \"이란에 특사 파견\"…이란 외교장관과 통화",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR2026040919391306h",
-      "source": "Breaking News",
-      "pubDate": "Thu, 09 Apr 2026 19:39:15 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260409/AKR2026040919391306h_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 조현 \"이란에 특사 파견\"…이란 외교장관과 통화",
-        "en": "[속보] 조현 \"이란에 특사 파견\"…이란 외교장관과 통화",
-        "zh": "[속보] 조현 \"이란에 특사 파견\"…이란 외교장관과 통화"
-      }
-    },
-    {
-      "title": "[속보] 석유 3차 최고가 동결…\"민생·국제유가 고려\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260409191027r9n",
-      "source": "Breaking News",
-      "pubDate": "Thu, 09 Apr 2026 19:10:45 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260409/MYH20260409191027r9n.jpg",
-      "summaries": {
-        "ko": "[속보] 석유 3차 최고가 동결…\"민생·국제유가 고려\"",
-        "en": "[속보] 석유 3차 최고가 동결…\"민생·국제유가 고려\"",
-        "zh": "[속보] 석유 3차 최고가 동결…\"민생·국제유가 고려\""
       }
     }
   ]
