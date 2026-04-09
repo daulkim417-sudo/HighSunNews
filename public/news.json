@@ -1,16 +1,16 @@
 {
-  "lastUpdate": "2026-04-09T09:45:28.790270",
+  "lastUpdate": "2026-04-09T10:47:18.752830",
   "items": [
     {
-      "title": "[속보]정원오, 6·3 지방선거 민주당 서울시장 후보 선출…본경선 과반 득표 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604091822001",
-      "source": "경향신문",
-      "pubDate": "Thu, 09 Apr 2026 09:22:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/09/rcv.YNA.20260403.PYH2026040316030001300_P1.jpg",
+      "title": "[속보] 정원오, 민주당 서울시장 후보 확정…과반 득표로 본선 직행 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1253510.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 09 Apr 2026 09:42:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/583/imgdb/child/2026/0409/53_17757269577948_20260311501630.webp",
       "summaries": {
-        "ko": "정원오 전 성동구청장이 6·3 지방선거 더불어민주당 서울시장 후보로 선출되었다.",
-        "en": "Jeong Won-oh, former Seongdong District Mayor, has been selected as the Democratic Party's candidate for Seoul Mayor in the 6·3 local election.",
-        "zh": "前城东区区长郑元午被选为民主党6·3地方选举的首尔市长候选人。"
+        "ko": "정원오 전 성동구청장이 과반 득표로 더불어민주당 서울시장 후보로 확정되어 오세훈 시장의 10년 무능을 심판하고 이재명 정부의 성공을 서울에서 완성하겠다는 포부를 밝혔다.",
+        "en": "Jung Won-oh, former Seongdong-gu mayor, has been confirmed as the Democratic Party's candidate for Seoul Mayor after securing a majority vote, declaring his ambition to judge Mayor Oh Se-hoon's 10 years of incompetence and complete the success of the Lee Jae-myung government in Seoul.",
+        "zh": "前城东区区长郑元吾以过半数得票被确认为共同民主党首尔市长候选人，他表示将审判吴世勋市长10年的无能，并在首尔完成李在明政府的成功。"
       }
     },
     {
@@ -26,6 +26,18 @@
       }
     },
     {
+      "title": "종합특검, ‘대북송금 수사’ 박상용 검사 피의자 입건·출국금지 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604091215011",
+      "source": "경향신문",
+      "pubDate": "Thu, 09 Apr 2026 03:15:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/09/news-p.v1.20260407.6d28fbfe83a645ccb57e1f1d18409483_P1.jpeg",
+      "summaries": {
+        "ko": "쌍방울 대북송금 수사 당시 대통령실 개입 의혹을 수사하는 종합특검이 주임 검사였던 박상용 검사를 피의자로 입건하고 출국금지 조치했다.",
+        "en": "The special prosecutor investigating alleged presidential office intervention in the Ssangbangul North Korea remittance investigation has indicted Park Sang-yong, who was the lead prosecutor at the time, and banned him from leaving the country.",
+        "zh": "调查双铃对朝汇款案期间总统室涉嫌干预的特别检察官，已将当时的主任检察官朴相容列为嫌疑人并禁止其出境。"
+      }
+    },
+    {
       "title": "이란, 호르무즈 해협 대체 항로 공지… 기존 항로엔 ‘위험 구역’ 표시 - 조선일보",
       "link": "https://www.chosun.com/international/international_general/2026/04/09/TTQ2YN56PZATRGYJYCCZPXUBBI/",
       "source": "조선일보",
@@ -38,75 +50,39 @@
       }
     },
     {
-      "title": "종합특검, ’이화영 진술 회유’ 의혹 박상용 검사 피의자 입건·출국금지 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1253401.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 09 Apr 2026 04:40:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/850/535/imgdb/original/2026/0409/20260409501666.webp",
-      "summaries": {
-        "ko": "종합특검, ’이화영 진술 회유’ 의혹 박상용 검사 피의자 입건·출국금지 - 한겨레",
-        "en": "종합특검, ’이화영 진술 회유’ 의혹 박상용 검사 피의자 입건·출국금지 - 한겨레",
-        "zh": "종합특검, ’이화영 진술 회유’ 의혹 박상용 검사 피의자 입건·출국금지 - 한겨레"
-      }
-    },
-    {
-      "title": "[속보]현대重 울산조선소서 잠수함 수리 중 화재... 실종 1명 - 조선일보",
-      "link": "https://www.chosun.com/national/regional/2026/04/09/ONKL2J24GRBOLBJ7OZ3XOXUGSI/",
-      "source": "조선일보",
-      "pubDate": "Thu, 09 Apr 2026 06:31:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/H6OWKDNMVVP63F7PCDUVMQXUDA.jpg?auth=dfb16166657f727a45d4c6bc3509d9196114865ca08a11fbaa6b4eb526d7f45e&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "[속보]현대重 울산조선소서 잠수함 수리 중 화재... 실종 1명 - 조선일보",
-        "en": "[속보]현대重 울산조선소서 잠수함 수리 중 화재... 실종 1명 - 조선일보",
-        "zh": "[속보]현대重 울산조선소서 잠수함 수리 중 화재... 실종 1명 - 조선일보"
-      }
-    },
-    {
-      "title": "휴전은 완전한 종전으로 이어질 수 있나? - BBC",
-      "link": "https://www.bbc.com/korean/articles/cdj78ejgj4lo",
-      "source": "BBC",
-      "pubDate": "Thu, 09 Apr 2026 08:47:18 GMT",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_korean/e324/live/ed748700-333b-11f1-9d5c-8ba507d7dbde.jpg",
-      "summaries": {
-        "ko": "휴전은 완전한 종전으로 이어질 수 있나? - BBC",
-        "en": "휴전은 완전한 종전으로 이어질 수 있나? - BBC",
-        "zh": "휴전은 완전한 종전으로 이어질 수 있나? - BBC"
-      }
-    },
-    {
-      "title": "대구 '장모 살해·캐리어 시신 유기' 조재복 부부 구속 송치 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6813855_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Thu, 09 Apr 2026 01:40:30 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/04/09/joo260409_6.jpg",
-      "summaries": {
-        "ko": "대구 '장모 살해·캐리어 시신 유기' 조재복 부부 구속 송치 - MBC 뉴스",
-        "en": "대구 '장모 살해·캐리어 시신 유기' 조재복 부부 구속 송치 - MBC 뉴스",
-        "zh": "대구 '장모 살해·캐리어 시신 유기' 조재복 부부 구속 송치 - MBC 뉴스"
-      }
-    },
-    {
-      "title": "김재원 “이철우 안 돼” 양향자 “내가 이상한가”…지도부 ‘팀킬’ 난무한 국힘 최고위 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604091057001",
+      "title": "한동훈 부산 북갑 입성 준비? 거주할 만한 집 둘러봤다 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604091852001",
       "source": "경향신문",
-      "pubDate": "Thu, 09 Apr 2026 01:57:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/09/news-p.v1.20260409.e45ffd4ba7f344c48e149ffa8c7bdd62_P1.jpeg",
+      "pubDate": "Thu, 09 Apr 2026 09:52:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/09/rcv.YNA.20260403.PYH2026040314020005100_P1.jpg",
       "summaries": {
-        "ko": "김재원 “이철우 안 돼” 양향자 “내가 이상한가”…지도부 ‘팀킬’ 난무한 국힘 최고위 - 경향신문",
-        "en": "김재원 “이철우 안 돼” 양향자 “내가 이상한가”…지도부 ‘팀킬’ 난무한 국힘 최고위 - 경향신문",
-        "zh": "김재원 “이철우 안 돼” 양향자 “내가 이상한가”…지도부 ‘팀킬’ 난무한 국힘 최고위 - 경향신문"
+        "ko": "전재수 의원의 부산시장 출마로 공석이 된 부산 북갑 보궐선거에 한동훈 전 대표가 거주지를 둘러보는 등 출마를 준비하는 가운데 박민식 전 장관이 출마를 시사하고 하정우 수석의 거취도 주목받고 있다.",
+        "en": "As the Busan Buk-gap by-election seat becomes vacant due to Representative Jeon Jae-soo's Busan mayoral candidacy, former leader Han Dong-hoon is preparing for a run by looking at residences, while former minister Park Min-sik has hinted at his candidacy and the position of Chief Ha Jeong-woo is also drawing attention.",
+        "zh": "随着全宰秀议员参选釜山市长导致釜山北甲选区空缺，前代表韩东勋通过考察住所等方式准备参选，前部长朴敏植也暗示参选，而夏正宇首席的去向也备受关注。"
       }
     },
     {
-      "title": "\"어디갔니 늑대야\"…오월드 탈출 후 '오리무중' 속 비 예보까지 - nocutnews.co.kr",
-      "link": "https://www.nocutnews.co.kr/news/6499280",
-      "source": "nocutnews.co.kr",
-      "pubDate": "Thu, 09 Apr 2026 01:01:00 GMT",
-      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/04/09/202604091000571858_0.jpg",
+      "title": "이 대통령이 과세 강화 겨눈 ‘기업 비업무용 땅’, 장부상으론 ‘깜깜’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/economy/marketing/1253481.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 09 Apr 2026 08:55:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/593/imgdb/original/2026/0409/20260409503315.webp",
       "summaries": {
-        "ko": "\"어디갔니 늑대야\"…오월드 탈출 후 '오리무중' 속 비 예보까지 - nocutnews.co.kr",
-        "en": "\"어디갔니 늑대야\"…오월드 탈출 후 '오리무중' 속 비 예보까지 - nocutnews.co.kr",
-        "zh": "\"어디갔니 늑대야\"…오월드 탈출 후 '오리무중' 속 비 예보까지 - nocutnews.co.kr"
+        "ko": "이재명 대통령의 기업 비업무용 부동산 보유세 강화 지시에도 불구하고, 현행 회계 공시 제도의 미흡으로 해당 자산의 규모와 가치를 파악하기 어려워 투명성 강화 요구가 커지고 있다.",
+        "en": "Despite President Lee Jae-myung's directive to strengthen property taxes on corporate non-business real estate, current accounting disclosure systems make it difficult to ascertain the scale and value of such assets, leading to increased calls for transparency.",
+        "zh": "尽管李在明总统指示加强对企业非业务用房地产的保有税，但由于现有会计披露制度的不足，难以查明此类资产的规模和价值，因此要求提高透明度的呼声日益高涨。"
+      }
+    },
+    {
+      "title": "[속보] \"트럼프, 이란 조건 미충족 시 공습 재개 경고\" - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260409131857GeM",
+      "source": "연합뉴스TV",
+      "pubDate": "Thu, 09 Apr 2026 04:18:59 GMT",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260409/AKR20260409131857GeM_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] \"트럼프, 이란 조건 미충족 시 공습 재개 경고\" - 연합뉴스TV",
+        "en": "[속보] \"트럼프, 이란 조건 미충족 시 공습 재개 경고\" - 연합뉴스TV",
+        "zh": "[속보] \"트럼프, 이란 조건 미충족 시 공습 재개 경고\" - 연합뉴스TV"
       }
     },
     {
@@ -116,33 +92,57 @@
       "pubDate": "Thu, 09 Apr 2026 03:46:41 GMT",
       "image": "https://cdn.news.einfomax.co.kr/news/thumbnail/202604/4408623_306836_282_v150.jpg",
       "summaries": {
-        "ko": "李대통령 \"자발적 실업에 실업급여 안 주는 건 전근대적\" - 연합인포맥스",
-        "en": "李대통령 \"자발적 실업에 실업급여 안 주는 건 전근대적\" - 연합인포맥스",
-        "zh": "李대통령 \"자발적 실업에 실업급여 안 주는 건 전근대적\" - 연합인포맥스"
+        "ko": "이재명 대통령은 자발적 실업에 실업급여를 주지 않는 현행 제도를 \"전근대적\"이라고 비판하며, 편법을 양산하고 노동시장의 불안정성을 외면하는 노동 규제 및 보상 체계를 실용적으로 재검토할 것을 촉구했다.",
+        "en": "President Lee Jae-myung criticized the current system that denies unemployment benefits for voluntary unemployment as \"pre-modern,\" arguing it fosters informal practices and urging a pragmatic reevaluation of labor regulations and compensation structures that neglect labor market instability.",
+        "zh": "李在明总统批评现行对自愿失业不发放失业金的制度是“前现代的”，认为其助长了不正当行为，并敦促从实用角度重新审视忽视劳动力市场不稳定性的劳动法规及薪酬体系。"
       }
     },
     {
-      "title": "[속보] 민주 서울시장 후보에 정원오…과반 득표",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260409182937bGo",
-      "source": "Breaking News",
-      "pubDate": "Thu, 09 Apr 2026 18:29:51 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260409/MYH20260409182937bGo.jpg",
+      "title": "개그맨 이진호, 급성 뇌출혈로 중환자실 입원 치료 중…“생명엔 지장 없어” - 매일경제",
+      "link": "https://www.mk.co.kr/news/society/12012404",
+      "source": "매일경제",
+      "pubDate": "Thu, 09 Apr 2026 02:43:03 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202604/09/news-p.v1.20260409.182344f1197d44fa966698bbf25c9dd3_R.jpg",
       "summaries": {
-        "ko": "[속보] 민주 서울시장 후보에 정원오…과반 득표",
-        "en": "[속보] 민주 서울시장 후보에 정원오…과반 득표",
-        "zh": "[속보] 민주 서울시장 후보에 정원오…과반 득표"
+        "ko": "개그맨 이진호, 급성 뇌출혈로 중환자실 입원 치료 중…“생명엔 지장 없어” - 매일경제",
+        "en": "개그맨 이진호, 급성 뇌출혈로 중환자실 입원 치료 중…“생명엔 지장 없어” - 매일경제",
+        "zh": "개그맨 이진호, 급성 뇌출혈로 중환자실 입원 치료 중…“생명엔 지장 없어” - 매일경제"
       }
     },
     {
-      "title": "[속보] 민주 서울시장 후보 정원오 확정…본경선서 과반득표",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260409182214xDF",
+      "title": "[속보] 조현, 이란 외교장관과 통화…\"특사 파견\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260409194304CUU",
       "source": "Breaking News",
-      "pubDate": "Thu, 09 Apr 2026 18:22:17 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260409/AKR20260409182214xDF_01_i.jpg",
+      "pubDate": "Thu, 09 Apr 2026 19:43:19 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260409/MYH20260409194304CUU.jpg",
       "summaries": {
-        "ko": "[속보] 민주 서울시장 후보 정원오 확정…본경선서 과반득표",
-        "en": "[속보] 민주 서울시장 후보 정원오 확정…본경선서 과반득표",
-        "zh": "[속보] 민주 서울시장 후보 정원오 확정…본경선서 과반득표"
+        "ko": "[속보] 조현, 이란 외교장관과 통화…\"특사 파견\"",
+        "en": "[속보] 조현, 이란 외교장관과 통화…\"특사 파견\"",
+        "zh": "[속보] 조현, 이란 외교장관과 통화…\"특사 파견\""
+      }
+    },
+    {
+      "title": "[속보] 조현 \"이란에 특사 파견\"…이란 외교장관과 통화",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR2026040919391306h",
+      "source": "Breaking News",
+      "pubDate": "Thu, 09 Apr 2026 19:39:15 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260409/AKR2026040919391306h_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] 조현 \"이란에 특사 파견\"…이란 외교장관과 통화",
+        "en": "[속보] 조현 \"이란에 특사 파견\"…이란 외교장관과 통화",
+        "zh": "[속보] 조현 \"이란에 특사 파견\"…이란 외교장관과 통화"
+      }
+    },
+    {
+      "title": "[속보] 석유 3차 최고가 동결…\"민생·국제유가 고려\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260409191027r9n",
+      "source": "Breaking News",
+      "pubDate": "Thu, 09 Apr 2026 19:10:45 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260409/MYH20260409191027r9n.jpg",
+      "summaries": {
+        "ko": "[속보] 석유 3차 최고가 동결…\"민생·국제유가 고려\"",
+        "en": "[속보] 석유 3차 최고가 동결…\"민생·국제유가 고려\"",
+        "zh": "[속보] 석유 3차 최고가 동결…\"민생·국제유가 고려\""
       }
     }
   ]
