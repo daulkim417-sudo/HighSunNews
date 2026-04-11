@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-04-11T10:01:43.832693",
+  "lastUpdate": "2026-04-11T10:50:25.367803",
   "items": [
-    {
-      "title": "미·이란 종전 협상, “오후 늦게 시작될 듯”…세레나 호텔 주변 경비 삼엄 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604111815001",
-      "source": "경향신문",
-      "pubDate": "Sat, 11 Apr 2026 09:15:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/11/rcv.YNA.20260411.PAF20260411154301009_P1.jpg",
-      "summaries": {
-        "ko": "미국과 이란 대표단이 종전 협상을 위해 파키스탄 이슬라마바드에 도착했으며, 오늘 오후 늦게 회담이 시작될 예정이지만, 협상 방식과 기간에 대한 불확실성 속에서 경비가 삼엄하다.",
-        "en": "US and Iranian delegations have arrived in Islamabad, Pakistan, for peace negotiations expected to begin late today, amidst tight security and uncertainty over the format and duration of the talks.",
-        "zh": "美国和伊朗代表团已抵达巴基斯坦伊斯兰堡，预计将于今天晚些时候开始和平谈判，会谈形式和持续时间尚不确定，但安保措施已全面加强。"
-      }
-    },
     {
       "title": "고유가 지원금 27일부터 준다... 소득하위 70%에 최대 60만원 - 조선일보",
       "link": "https://www.chosun.com/national/national_general/2026/04/11/V5BPGDZ3YBFLBIDNIWWJ6V3MUY/",
@@ -26,27 +14,27 @@
       }
     },
     {
+      "title": "‘미·이란 협상 장소’ 세레나 호텔 주변은 진공 상태···한국시간 오후 9시 이후 시작 전망 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604111815001",
+      "source": "경향신문",
+      "pubDate": "Sat, 11 Apr 2026 09:15:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/11/rcv.YNA.20260411.PAF20260411154301009_P1.jpg",
+      "summaries": {
+        "ko": "미국과 이란 대표단이 파키스탄 이슬라마바드의 삼엄하게 경비되는 세레나 호텔에서 오늘 늦게(한국시간 오후 9시 이후) 종전 협상을 시작할 예정이나, 협상 기간과 대면 여부는 아직 불분명하다.",
+        "en": "US and Iranian delegations are expected to begin armistice talks later today (after 9 PM KST) at the heavily secured Serena Hotel in Islamabad, Pakistan, though the duration and directness of the negotiations remain uncertain.",
+        "zh": "美国和伊朗代表团预计将于今天晚些时候（韩国时间晚上9点后）在巴基斯坦伊斯兰堡戒备森严的塞雷纳酒店开始停战谈判，但谈判持续时间和直接会谈的可能性仍不确定。"
+      }
+    },
+    {
       "title": "정부 “이스라엘에 유감…이 대통령 인권 신념 잘못 이해해” - 한겨레",
       "link": "https://www.hani.co.kr/arti/international/international_general/1253743.html",
       "source": "한겨레",
       "pubDate": "Sat, 11 Apr 2026 06:06:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0411/53_17758869344793_7917758013568142.webp",
       "summaries": {
-        "ko": "정부 “이스라엘에 유감…이 대통령 인권 신념 잘못 이해해” - 한겨레",
-        "en": "정부 “이스라엘에 유감…이 대통령 인권 신념 잘못 이해해” - 한겨레",
-        "zh": "정부 “이스라엘에 유감…이 대통령 인권 신념 잘못 이해해” - 한겨레"
-      }
-    },
-    {
-      "title": "노랗게 물든 도심···세월호 참사 12주기 앞두고 시민들 “생명안전기본법 제정 촉구” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604111751001",
-      "source": "경향신문",
-      "pubDate": "Sat, 11 Apr 2026 08:51:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/11/rcv.YNA.20260411.PYH2026041104330001300_P1.jpg",
-      "summaries": {
-        "ko": "노랗게 물든 도심···세월호 참사 12주기 앞두고 시민들 “생명안전기본법 제정 촉구” - 경향신문",
-        "en": "노랗게 물든 도심···세월호 참사 12주기 앞두고 시민들 “생명안전기본법 제정 촉구” - 경향신문",
-        "zh": "노랗게 물든 도심···세월호 참사 12주기 앞두고 시민들 “생명안전기본법 제정 촉구” - 경향신문"
+        "ko": "정부는 이스라엘이 자국 행동 비판에 대해 규탄한 이재명 대통령의 엑스 게시물이 보편적 인권 신념을 표명한 것이었다고 해명하며 유감을 표명했다.",
+        "en": "The South Korean government expressed regret to Israel, clarifying that President Lee Jae-myung's X post, condemned by Israel for criticizing its actions, was intended to express universal human rights beliefs.",
+        "zh": "韩国政府对以色列表示遗憾，澄清其谴责李在明总统在X上批评以色列行为的帖子旨在表达普遍人权信念。"
       }
     },
     {
@@ -59,6 +47,30 @@
         "ko": "경찰, ‘정원오 여론조사 왜곡 의혹’ 제기한 野 김재섭 측 고발인 조사 - 조선일보",
         "en": "경찰, ‘정원오 여론조사 왜곡 의혹’ 제기한 野 김재섭 측 고발인 조사 - 조선일보",
         "zh": "경찰, ‘정원오 여론조사 왜곡 의혹’ 제기한 野 김재섭 측 고발인 조사 - 조선일보"
+      }
+    },
+    {
+      "title": "이란 협상단, 미 오폭에 숨진 ‘초등생들 사진’ 항공기에 싣고 와 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1253752.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 11 Apr 2026 08:51:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0411/20260411500523.webp",
+      "summaries": {
+        "ko": "이란 협상단, 미 오폭에 숨진 ‘초등생들 사진’ 항공기에 싣고 와 - 한겨레",
+        "en": "이란 협상단, 미 오폭에 숨진 ‘초등생들 사진’ 항공기에 싣고 와 - 한겨레",
+        "zh": "이란 협상단, 미 오폭에 숨진 ‘초등생들 사진’ 항공기에 싣고 와 - 한겨레"
+      }
+    },
+    {
+      "title": "\"미, 해외 은행에 동결된 이란 자산 해제에 합의\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6814444_36925.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sat, 11 Apr 2026 09:44:21 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/04/11/sa_20260411_17.jpg",
+      "summaries": {
+        "ko": "\"미, 해외 은행에 동결된 이란 자산 해제에 합의\" - MBC 뉴스",
+        "en": "\"미, 해외 은행에 동결된 이란 자산 해제에 합의\" - MBC 뉴스",
+        "zh": "\"미, 해외 은행에 동결된 이란 자산 해제에 합의\" - MBC 뉴스"
       }
     },
     {
@@ -80,21 +92,9 @@
       "pubDate": "Sat, 11 Apr 2026 06:09:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/04/11/news-p.v1.20260410.d0cefe472dbd42d4b19b91dbb52fec0b_P1.jpg",
       "summaries": {
-        "ko": "대전 오월드를 탈출한 늑대 '늑구'에 대한 수색이 탈출 나흘째 이어지는 가운데, 비 그치고 갠 날씨가 수색에 도움이 될 것으로 기대된다.",
-        "en": "Search efforts for 'Neokgu,' a wolf that escaped from Daejeon O-World, continue on their fourth day, with improved weather conditions expected to aid the search.",
-        "zh": "韩国大田O-World动物园逃脱的狼“Neokgu”的搜寻工作已进入第四天，天气转好预计将有助于搜捕。"
-      }
-    },
-    {
-      "title": "국민의힘, 전재수 불기소에 \"맞춤형 면죄부‥정권 붕괴 '트리거' 될 것\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6814396_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sat, 11 Apr 2026 01:42:29 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/04/11/chhh_20260411_13.jpg",
-      "summaries": {
-        "ko": "국민의힘, 전재수 불기소에 \"맞춤형 면죄부‥정권 붕괴 '트리거' 될 것\" - MBC 뉴스",
-        "en": "국민의힘, 전재수 불기소에 \"맞춤형 면죄부‥정권 붕괴 '트리거' 될 것\" - MBC 뉴스",
-        "zh": "국민의힘, 전재수 불기소에 \"맞춤형 면죄부‥정권 붕괴 '트리거' 될 것\" - MBC 뉴스"
+        "ko": "대전 오월드 ‘늑구’ 탈출 나흘째···비 그치고 갠 날씨, 수색에 도움 될까 - 경향신문",
+        "en": "대전 오월드 ‘늑구’ 탈출 나흘째···비 그치고 갠 날씨, 수색에 도움 될까 - 경향신문",
+        "zh": "대전 오월드 ‘늑구’ 탈출 나흘째···비 그치고 갠 날씨, 수색에 도움 될까 - 경향신문"
       }
     },
     {
@@ -110,27 +110,39 @@
       }
     },
     {
-      "title": "낮부터 황사 유입...내일까지 수도권·충청 미세먼지 ‘나쁨’ - 조선일보",
-      "link": "https://www.chosun.com/national/transport-environment/2026/04/11/3HJJWVQWTBFNHB7URGGLMXEBOA/",
+      "title": "암행순찰차 타보니… 버스전용차로 위반 2시간 만에 ‘119건’ - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/04/11/CDP745IKEJFLREC3LJFAOEFGLE/",
       "source": "조선일보",
-      "pubDate": "Sat, 11 Apr 2026 00:07:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/YHDHV2WIQJLXNPKFT6JIPWAQCQ.jpg?auth=101d3e89f6a054ebdde3a2f7a427f09370c86ea8edb781d045dbd284810e7dea&width=1200&height=630&smart=true",
+      "pubDate": "Sat, 11 Apr 2026 05:46:03 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GBRRHOPMZJGVTO27VIXUUPZ24Y.jpg?auth=5d16638395769892c283c0853fb02fa220de7425e03a2e3f62d99f24af6565ec&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "낮부터 황사 유입...내일까지 수도권·충청 미세먼지 ‘나쁨’ - 조선일보",
-        "en": "낮부터 황사 유입...내일까지 수도권·충청 미세먼지 ‘나쁨’ - 조선일보",
-        "zh": "낮부터 황사 유입...내일까지 수도권·충청 미세먼지 ‘나쁨’ - 조선일보"
+        "ko": "암행순찰차 타보니… 버스전용차로 위반 2시간 만에 ‘119건’ - 조선일보",
+        "en": "암행순찰차 타보니… 버스전용차로 위반 2시간 만에 ‘119건’ - 조선일보",
+        "zh": "암행순찰차 타보니… 버스전용차로 위반 2시간 만에 ‘119건’ - 조선일보"
       }
     },
     {
-      "title": "[속보] 이란 \"미, 이란 동결 자산 해제 합의\"<로이터>",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260411184226RqD",
+      "title": "[속보] 백악관, 이란 자산 동결 해제 합의 보도 부인",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260411192828rcc",
       "source": "Breaking News",
-      "pubDate": "Sat, 11 Apr 2026 18:42:47 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260411/MYH20260411184226RqD.jpg",
+      "pubDate": "Sat, 11 Apr 2026 19:28:28 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260411/AKR20260411192828rcc_01_i.jpg",
       "summaries": {
-        "ko": "[속보] 이란 \"미, 이란 동결 자산 해제 합의\"<로이터>",
-        "en": "[속보] 이란 \"미, 이란 동결 자산 해제 합의\"<로이터>",
-        "zh": "[속보] 이란 \"미, 이란 동결 자산 해제 합의\"<로이터>"
+        "ko": "[속보] 백악관, 이란 자산 동결 해제 합의 보도 부인",
+        "en": "[속보] 백악관, 이란 자산 동결 해제 합의 보도 부인",
+        "zh": "[속보] 백악관, 이란 자산 동결 해제 합의 보도 부인"
+      }
+    },
+    {
+      "title": "[속보] 파키스탄 총리실 \"이슬라마바드 평화 협상 개시\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR2026041119174987k",
+      "source": "Breaking News",
+      "pubDate": "Sat, 11 Apr 2026 19:17:50 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260411/AKR2026041119174987k_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] 파키스탄 총리실 \"이슬라마바드 평화 협상 개시\"",
+        "en": "[속보] 파키스탄 총리실 \"이슬라마바드 평화 협상 개시\"",
+        "zh": "[속보] 파키스탄 총리실 \"이슬라마바드 평화 협상 개시\""
       }
     }
   ]
