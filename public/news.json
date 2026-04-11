@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-04-11T09:24:36.204576",
+  "lastUpdate": "2026-04-11T10:01:43.832693",
   "items": [
+    {
+      "title": "미·이란 종전 협상, “오후 늦게 시작될 듯”…세레나 호텔 주변 경비 삼엄 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604111815001",
+      "source": "경향신문",
+      "pubDate": "Sat, 11 Apr 2026 09:15:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/11/rcv.YNA.20260411.PAF20260411154301009_P1.jpg",
+      "summaries": {
+        "ko": "미국과 이란 대표단이 종전 협상을 위해 파키스탄 이슬라마바드에 도착했으며, 오늘 오후 늦게 회담이 시작될 예정이지만, 협상 방식과 기간에 대한 불확실성 속에서 경비가 삼엄하다.",
+        "en": "US and Iranian delegations have arrived in Islamabad, Pakistan, for peace negotiations expected to begin late today, amidst tight security and uncertainty over the format and duration of the talks.",
+        "zh": "美国和伊朗代表团已抵达巴基斯坦伊斯兰堡，预计将于今天晚些时候开始和平谈判，会谈形式和持续时间尚不确定，但安保措施已全面加强。"
+      }
+    },
     {
       "title": "고유가 지원금 27일부터 준다... 소득하위 70%에 최대 60만원 - 조선일보",
       "link": "https://www.chosun.com/national/national_general/2026/04/11/V5BPGDZ3YBFLBIDNIWWJ6V3MUY/",
@@ -14,39 +26,15 @@
       }
     },
     {
-      "title": "이란 협상단, 파키스탄 집결…‘레바논 휴전·동결 자산 해제’ 선결 조건 제시 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1253730.html",
+      "title": "정부 “이스라엘에 유감…이 대통령 인권 신념 잘못 이해해” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1253743.html",
       "source": "한겨레",
-      "pubDate": "Sat, 11 Apr 2026 00:55:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/537/322/imgdb/child/2026/0411/53_17758686099308_20260411500228.webp",
+      "pubDate": "Sat, 11 Apr 2026 06:06:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0411/53_17758869344793_7917758013568142.webp",
       "summaries": {
-        "ko": "미국과 이란의 고위급 대표단이 11일 파키스탄에서 종전 협상을 시작하며, 이란은 레바논 휴전과 동결 자산 해제를 선결 조건으로 제시했지만 상호 불신과 군사적 긴장으로 합의 전망은 불투명하다.",
-        "en": "High-level delegations from the US and Iran are convening in Pakistan on November 11 for peace talks, with Iran demanding a Lebanon ceasefire and the unfreezing of assets as preconditions, amidst lingering mutual distrust and military tensions making an agreement uncertain.",
-        "zh": "美国和伊朗高级代表团于11月11日在巴基斯坦会晤，开始和平谈判，伊朗提出了黎巴嫩停火和解冻资产等先决条件，但由于双方互不信任和军事紧张局势持续，达成协议的前景仍不明朗。"
-      }
-    },
-    {
-      "title": "국힘 “이스라엘과 외교 충돌 도움 안 돼···이 대통령, SNS 중단하라” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604111621001",
-      "source": "경향신문",
-      "pubDate": "Sat, 11 Apr 2026 07:21:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/11/news-p.v1.20260410.5123f30b98a644a9945221c133ce6194_P1.jpeg",
-      "summaries": {
-        "ko": "이재명 대통령의 이스라엘 비판 SNS 게시글에 이스라엘이 규탄 성명을 내자, 국민의힘과 개혁신당은 불필요한 외교 갈등 중단을 촉구한 반면 조국혁신당은 대통령을 옹호하며 이스라엘의 항의를 적반하장이라 비판했다.",
-        "en": "Following President Lee Jae-myung's SNS post criticizing Israel, which prompted a condemnation from Israel, the People Power Party and New Reform Party urged him to cease unnecessary diplomatic conflict, while the Cho Kuk Innovation Party defended the president and criticized Israel's protest as a shameless act.",
-        "zh": "针对李在明总统在社交媒体上批评以色列的帖子引发以色列的谴责声明，国民力量党和改革新党敦促其停止不必要的外交冲突，而祖国革新党则为总统辩护并批评以色列的抗议是倒打一耙。"
-      }
-    },
-    {
-      "title": "박형준, 주진우 꺾고 국힘 부산시장 후보…전재수와 대결 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1253751.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 11 Apr 2026 08:04:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/436/imgdb/original/2026/0411/20260411500503.webp",
-      "summaries": {
-        "ko": "국민의힘 부산시장 후보 경선에서 박형준 현 시장이 주진우 의원을 꺾고 최종 후보로 확정되어 더불어민주당 전재수 후보와 본선에서 대결하게 됐다.",
-        "en": "Incumbent Mayor Park Hyung-joon defeated Assemblyman Joo Jin-woo in the People Power Party's Busan mayoral primary and has been confirmed as the final candidate, setting him up to face Democratic Party candidate Jeon Jae-soo in the main election.",
-        "zh": "在国民力量党釜山市长候选人党内初选中，现任市长朴亨埈击败了议员朱振宇，被确认为最终候选人，将在本选中与共同民主党候选人全载秀对决。"
+        "ko": "정부 “이스라엘에 유감…이 대통령 인권 신념 잘못 이해해” - 한겨레",
+        "en": "정부 “이스라엘에 유감…이 대통령 인권 신념 잘못 이해해” - 한겨레",
+        "zh": "정부 “이스라엘에 유감…이 대통령 인권 신념 잘못 이해해” - 한겨레"
       }
     },
     {
@@ -62,39 +50,39 @@
       }
     },
     {
-      "title": "한동훈, 장동혁 방미에 “지선 표가 미국에 있나···리더가 선거 포기한 느낌 주면 안 돼” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604111529001",
-      "source": "경향신문",
-      "pubDate": "Sat, 11 Apr 2026 06:29:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/11/rcv.YNA.20260322.PYH2026032204630001300_P1.jpg",
-      "summaries": {
-        "ko": "한동훈, 장동혁 방미에 “지선 표가 미국에 있나···리더가 선거 포기한 느낌 주면 안 돼” - 경향신문",
-        "en": "한동훈, 장동혁 방미에 “지선 표가 미국에 있나···리더가 선거 포기한 느낌 주면 안 돼” - 경향신문",
-        "zh": "한동훈, 장동혁 방미에 “지선 표가 미국에 있나···리더가 선거 포기한 느낌 주면 안 돼” - 경향신문"
-      }
-    },
-    {
-      "title": "'한방'에 확정된 추미애·정원오…비슷한 듯 다른 이유는 - nocutnews.co.kr",
-      "link": "https://www.nocutnews.co.kr/news/6500612",
-      "source": "nocutnews.co.kr",
-      "pubDate": "Fri, 10 Apr 2026 20:00:00 GMT",
-      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/04/10/202604102234103913_0.jpg",
-      "summaries": {
-        "ko": "'한방'에 확정된 추미애·정원오…비슷한 듯 다른 이유는 - nocutnews.co.kr",
-        "en": "'한방'에 확정된 추미애·정원오…비슷한 듯 다른 이유는 - nocutnews.co.kr",
-        "zh": "'한방'에 확정된 추미애·정원오…비슷한 듯 다른 이유는 - nocutnews.co.kr"
-      }
-    },
-    {
-      "title": "고양 BTS 공연장서 팔찌 티켓 500장 도난 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/04/11/G4USK5CACBC7PECOVQEXWXATXQ/",
+      "title": "경찰, ‘정원오 여론조사 왜곡 의혹’ 제기한 野 김재섭 측 고발인 조사 - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/04/11/2TCC62YNVVEQJGZJMIFPQGXOSA/",
       "source": "조선일보",
-      "pubDate": "Sat, 11 Apr 2026 07:36:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/IOAMSEWRMVNHNIAKL4NWUYPNW4.jpg?auth=10401c3af11c7cd3141cc0186d948846e6fc0ae72f7a160b60eb826b09a2ac74&width=1200&height=630&smart=true",
+      "pubDate": "Sat, 11 Apr 2026 08:12:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MFSTMNJVMVTDKNBQGYYDSN3BGQ.png?auth=46826c5c467deb48b51cc25599d5fce2137dea56f6a5abee4840d5b0c8e8fe5b&width=600&height=315&smart=true",
       "summaries": {
-        "ko": "고양 BTS 공연장서 팔찌 티켓 500장 도난 - 조선일보",
-        "en": "고양 BTS 공연장서 팔찌 티켓 500장 도난 - 조선일보",
-        "zh": "고양 BTS 공연장서 팔찌 티켓 500장 도난 - 조선일보"
+        "ko": "경찰, ‘정원오 여론조사 왜곡 의혹’ 제기한 野 김재섭 측 고발인 조사 - 조선일보",
+        "en": "경찰, ‘정원오 여론조사 왜곡 의혹’ 제기한 野 김재섭 측 고발인 조사 - 조선일보",
+        "zh": "경찰, ‘정원오 여론조사 왜곡 의혹’ 제기한 野 김재섭 측 고발인 조사 - 조선일보"
+      }
+    },
+    {
+      "title": "박형준, 주진우 꺾고 국힘 부산시장 후보…전재수와 대결 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1253751.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 11 Apr 2026 08:04:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/436/imgdb/original/2026/0411/20260411500503.webp",
+      "summaries": {
+        "ko": "박형준, 주진우 꺾고 국힘 부산시장 후보…전재수와 대결 - 한겨레",
+        "en": "박형준, 주진우 꺾고 국힘 부산시장 후보…전재수와 대결 - 한겨레",
+        "zh": "박형준, 주진우 꺾고 국힘 부산시장 후보…전재수와 대결 - 한겨레"
+      }
+    },
+    {
+      "title": "대전 오월드 ‘늑구’ 탈출 나흘째···비 그치고 갠 날씨, 수색에 도움 될까 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604111509001",
+      "source": "경향신문",
+      "pubDate": "Sat, 11 Apr 2026 06:09:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/11/news-p.v1.20260410.d0cefe472dbd42d4b19b91dbb52fec0b_P1.jpg",
+      "summaries": {
+        "ko": "대전 오월드를 탈출한 늑대 '늑구'에 대한 수색이 탈출 나흘째 이어지는 가운데, 비 그치고 갠 날씨가 수색에 도움이 될 것으로 기대된다.",
+        "en": "Search efforts for 'Neokgu,' a wolf that escaped from Daejeon O-World, continue on their fourth day, with improved weather conditions expected to aid the search.",
+        "zh": "韩国大田O-World动物园逃脱的狼“Neokgu”的搜寻工作已进入第四天，天气转好预计将有助于搜捕。"
       }
     },
     {
@@ -110,6 +98,18 @@
       }
     },
     {
+      "title": "고양 BTS 공연장서 팔찌 티켓 500장 도난 - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/04/11/G4USK5CACBC7PECOVQEXWXATXQ/",
+      "source": "조선일보",
+      "pubDate": "Sat, 11 Apr 2026 07:36:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/IOAMSEWRMVNHNIAKL4NWUYPNW4.jpg?auth=10401c3af11c7cd3141cc0186d948846e6fc0ae72f7a160b60eb826b09a2ac74&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "고양 BTS 공연장서 팔찌 티켓 500장 도난 - 조선일보",
+        "en": "고양 BTS 공연장서 팔찌 티켓 500장 도난 - 조선일보",
+        "zh": "고양 BTS 공연장서 팔찌 티켓 500장 도난 - 조선일보"
+      }
+    },
+    {
       "title": "낮부터 황사 유입...내일까지 수도권·충청 미세먼지 ‘나쁨’ - 조선일보",
       "link": "https://www.chosun.com/national/transport-environment/2026/04/11/3HJJWVQWTBFNHB7URGGLMXEBOA/",
       "source": "조선일보",
@@ -122,27 +122,15 @@
       }
     },
     {
-      "title": "[속보] \"미국, 카타르 등 해외 은행에 동결된 이란 자산 해제 합의\"<로이터 통신>",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260411181211W1L",
+      "title": "[속보] 이란 \"미, 이란 동결 자산 해제 합의\"<로이터>",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260411184226RqD",
       "source": "Breaking News",
-      "pubDate": "Sat, 11 Apr 2026 18:12:11 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260411/AKR20260411181211W1L_01_i.jpg",
+      "pubDate": "Sat, 11 Apr 2026 18:42:47 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260411/MYH20260411184226RqD.jpg",
       "summaries": {
-        "ko": "[속보] \"미국, 카타르 등 해외 은행에 동결된 이란 자산 해제 합의\"<로이터 통신>",
-        "en": "[속보] \"미국, 카타르 등 해외 은행에 동결된 이란 자산 해제 합의\"<로이터 통신>",
-        "zh": "[속보] \"미국, 카타르 등 해외 은행에 동결된 이란 자산 해제 합의\"<로이터 통신>"
-      }
-    },
-    {
-      "title": "[속보] \"미·이란 종전협상 한국시간 밤 9시 이후 시작\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260411180154zjh",
-      "source": "Breaking News",
-      "pubDate": "Sat, 11 Apr 2026 18:02:06 +0900",
-      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/MYH/20260411/MYH20260411180154zjh.jpg",
-      "summaries": {
-        "ko": "[속보] \"미·이란 종전협상 한국시간 밤 9시 이후 시작\"",
-        "en": "[속보] \"미·이란 종전협상 한국시간 밤 9시 이후 시작\"",
-        "zh": "[속보] \"미·이란 종전협상 한국시간 밤 9시 이후 시작\""
+        "ko": "[속보] 이란 \"미, 이란 동결 자산 해제 합의\"<로이터>",
+        "en": "[속보] 이란 \"미, 이란 동결 자산 해제 합의\"<로이터>",
+        "zh": "[속보] 이란 \"미, 이란 동결 자산 해제 합의\"<로이터>"
       }
     }
   ]
