@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-12T19:53:38.908852",
+  "lastUpdate": "2026-04-12T20:21:10.818996",
   "items": [
     {
       "title": "트럼프 “핵 문제 빼고 거의 됐다... 이란, 협상 테이블 돌아올 것” - 조선일보",
@@ -17,12 +17,12 @@
       "title": "이스라엘군, 최고 수준 경계 태세…이란 공격 대비 - 한겨레",
       "link": "https://www.hani.co.kr/arti/international/arabafrica/1253867.html",
       "source": "한겨레",
-      "pubDate": "Sun, 12 Apr 2026 14:40:00 GMT",
+      "pubDate": "Sun, 12 Apr 2026 16:16:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/692/imgdb/original/2026/0412/20260412502222.webp",
       "summaries": {
-        "ko": "이스라엘군이 미국-이란 정전 협상 결렬 후 이란과의 적대 행위 재개에 대비해 최고 수준 경계 태세로 전환하고 공격 준비에 돌입했다.",
-        "en": "The Israeli military has transitioned to the highest level of alert and begun preparations for an attack, anticipating renewed hostilities with Iran following the breakdown of ceasefire talks between the U.S. and Iran.",
-        "zh": "在美国与伊朗停火谈判破裂后，以色列军队已转入最高戒备状态，并开始为应对与伊朗重启敌对行动的攻击做准备。"
+        "ko": "이스라엘군이 미국-이란 휴전 협상 결렬 후 이란과의 적대 행위 재개에 대비해 최고 수준의 경계 태세에 돌입하며, 이란 본토 타격 목표 재정비 등 전투 준비 태세를 갖추고 있다.",
+        "en": "Following the breakdown of US-Iran ceasefire talks, the Israeli military has entered its highest level of alert, preparing for renewed hostilities with Iran, including re-prioritizing strike targets within Iran.",
+        "zh": "在美国与伊朗停火谈判破裂后，以色列军队进入最高戒备状态，准备应对与伊朗再次爆发的敌对行动，并正在重新调整针对伊朗本土的打击目标。"
       }
     },
     {
@@ -98,18 +98,6 @@
       }
     },
     {
-      "title": "월요일 최고 26도, 완연한 봄…큰 일교차 주의 - 조선일보",
-      "link": "https://www.chosun.com/national/transport-environment/2026/04/12/OKQMJQW2DZGJXODGIH7RAHC67U/",
-      "source": "조선일보",
-      "pubDate": "Sun, 12 Apr 2026 04:32:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MNSWGZBRME2WKZBRMZTGGMTGGQ.jpg?auth=397456ef57f679e543a4ec8af429748c8341213ea1e399d2912130823f935787&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "월요일 최고 26도, 완연한 봄…큰 일교차 주의 - 조선일보",
-        "en": "월요일 최고 26도, 완연한 봄…큰 일교차 주의 - 조선일보",
-        "zh": "월요일 최고 26도, 완연한 봄…큰 일교차 주의 - 조선일보"
-      }
-    },
-    {
       "title": "경찰, '정원오 여론조사 왜곡 의혹' 수사 본격화…고발인 조사 - 노컷뉴스",
       "link": "https://www.nocutnews.co.kr/news/6500699",
       "source": "노컷뉴스",
@@ -119,6 +107,18 @@
         "ko": "경찰, '정원오 여론조사 왜곡 의혹' 수사 본격화…고발인 조사 - 노컷뉴스",
         "en": "경찰, '정원오 여론조사 왜곡 의혹' 수사 본격화…고발인 조사 - 노컷뉴스",
         "zh": "경찰, '정원오 여론조사 왜곡 의혹' 수사 본격화…고발인 조사 - 노컷뉴스"
+      }
+    },
+    {
+      "title": "월요일 최고 26도, 완연한 봄…큰 일교차 주의 - 조선일보",
+      "link": "https://www.chosun.com/national/transport-environment/2026/04/12/OKQMJQW2DZGJXODGIH7RAHC67U/",
+      "source": "조선일보",
+      "pubDate": "Sun, 12 Apr 2026 04:32:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MNSWGZBRME2WKZBRMZTGGMTGGQ.jpg?auth=397456ef57f679e543a4ec8af429748c8341213ea1e399d2912130823f935787&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "월요일 최고 26도, 완연한 봄…큰 일교차 주의 - 조선일보",
+        "en": "월요일 최고 26도, 완연한 봄…큰 일교차 주의 - 조선일보",
+        "zh": "월요일 최고 26도, 완연한 봄…큰 일교차 주의 - 조선일보"
       }
     }
   ]
