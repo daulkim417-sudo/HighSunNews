@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-04-12T07:41:34.332696",
+  "lastUpdate": "2026-04-12T08:28:54.102513",
   "items": [
-    {
-      "title": "美·이란, 협상 결렬… 밴스 “합의 못한 채 복귀” - 조선일보",
-      "link": "https://www.chosun.com/international/us/2026/04/12/YSKKE5IFCVALVLDSZNDP7SPKZM/",
-      "source": "조선일보",
-      "pubDate": "Sun, 12 Apr 2026 01:40:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/4VIFH7SIY5HBBMKCMZ57WUHRUU.jpg?auth=11dee20c39ec9743f78a4eba0b65bb14cf7b190d2759fcbcb454d3380bedcd6d&width=1200&height=630&focal=961,233",
-      "summaries": {
-        "ko": "美·이란, 협상 결렬… 밴스 “합의 못한 채 복귀” - 조선일보",
-        "en": "美·이란, 협상 결렬… 밴스 “합의 못한 채 복귀” - 조선일보",
-        "zh": "美·이란, 협상 결렬… 밴스 “합의 못한 채 복귀” - 조선일보"
-      }
-    },
     {
       "title": "‘세 남매 아빠·예비 신랑’···두 소방관은 끝내 나오지 못했다 - 경향신문",
       "link": "https://www.khan.co.kr/article/202604121508001",
@@ -20,16 +8,28 @@
       "pubDate": "Sun, 12 Apr 2026 06:08:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/04/12/news-p.v1.20260412.7aae955560df4d8d8c40795b7c2eea6d_P1.jpg",
       "summaries": {
-        "ko": "전남 완도군 냉동창고 화재 현장에서 잔불 확인을 위해 재진입한 소방관 두 명이 유증기 폭발로 고립되어 끝내 순직했다.",
-        "en": "Two firefighters died in a cold storage fire in Wando, Jeollanam-do, after re-entering the building to confirm residual flames and being trapped by a vapor explosion.",
-        "zh": "韩国全罗南道莞岛郡一冷冻仓库发生火灾，两名消防员在进入确认残火时因蒸汽爆炸被困，不幸殉职。"
+        "ko": "전남 완도 냉동창고 화재 현장에서 잔불 확인을 위해 2차 진입했던 세 남매 아빠와 예비 신랑 소방관 두 명이 유증기 폭발로 고립되어 순직했다.",
+        "en": "Two firefighters, a father of three and a groom-to-be, tragically died after being trapped by an oil vapor explosion inside a Wando cold storage facility during their second entry to confirm residual flames.",
+        "zh": "在全罗南道莞岛的冷冻仓库火灾现场，两名消防员（一位是三个孩子的父亲，另一位是即将结婚的准新郎）在第二次进入确认余火时，因油气爆炸被困，不幸殉职。"
+      }
+    },
+    {
+      "title": "이 대통령, ‘이스라엘 전쟁범죄’ 지적에 팔레스타인 연대단체 “신선한 충격” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1253823.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 12 Apr 2026 07:19:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/859/540/imgdb/original/2026/0412/20260412501694.webp",
+      "summaries": {
+        "ko": "이재명 대통령이 이스라엘의 '전쟁범죄'를 직접 지적하자 팔레스타인 연대단체들이 이를 \"신선한 충격\"이라며 환영했고, 구체적인 행동으로 이어지기를 촉구했다.",
+        "en": "Palestinian solidarity groups expressed \"fresh shock\" and welcome for South Korean President Lee Jae-myung's direct condemnation of Israel's \"war crimes,\" urging for the criticism to lead to concrete actions.",
+        "zh": "韩国总统李在明直接指责以色列的“战争罪行”后，巴勒斯坦声援团体对此表示“新鲜的冲击”并表示欢迎，同时敦促其采取具体行动。"
       }
     },
     {
       "title": "손잡은 정원오·추미애·박찬대 “李정부 뒷받침...공통 공약 추진” - 조선일보",
       "link": "https://www.chosun.com/politics/politics_general/2026/04/12/W74XH24F35ENZBJ7YLILVSHUFU/",
       "source": "조선일보",
-      "pubDate": "Sun, 12 Apr 2026 03:51:00 GMT",
+      "pubDate": "Sun, 12 Apr 2026 03:56:03 GMT",
       "image": "https://www.chosun.com/resizer/v2/CV4CHJUQ4VHJHI3S7CBFR6SXKU.jpg?auth=7514763d2cd18c49ab17aeaf6b5fe5b45e0a38bc515ee938ecf95f7a6608479d&width=1200&height=630&focal=2883,2033",
       "summaries": {
         "ko": "손잡은 정원오·추미애·박찬대 “李정부 뒷받침...공통 공약 추진” - 조선일보",
@@ -38,63 +38,15 @@
       }
     },
     {
-      "title": "장동혁 ‘방미’에 한동훈 “지선 포기 느낌…미국에 유권자 있냐” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1253784.html",
+      "title": "배현진 “장동혁 미국 왜 갔나…애먼 데서 후보들 발목 잡아” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1253818.html",
       "source": "한겨레",
-      "pubDate": "Sun, 12 Apr 2026 05:20:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/482/imgdb/original/2026/0412/20260412500821.webp",
+      "pubDate": "Sun, 12 Apr 2026 07:34:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0412/20260412501570.webp",
       "summaries": {
-        "ko": "국민의힘 장동혁 대표가 지방선거를 50여 일 앞두고 미국 측 요청을 이유로 방미 일정을 앞당겨 늘리자, 한동훈 전 대표는 \"지선 포기 느낌\"이라며 비판했다.",
-        "en": "People Power Party leader Jang Dong-hyuk's early and extended visit to the U.S., citing \"U.S. requests\" just 50 days before local elections, drew criticism from former leader Han Dong-hoon, who felt it gave the impression of \"giving up on the local elections.\"",
-        "zh": "韩国执政党国民力量党代表张东赫在地方选举前50余天，以“美方请求”为由提前并延长访美行程，引发前代表韩东勋的批评，称其“给人放弃地方选举的感觉”。"
-      }
-    },
-    {
-      "title": "이 대통령 “역지사지는 국가관계에도 적용”…이스라엘에 재반박 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1253772.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 12 Apr 2026 01:43:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0412/20260412500637.webp",
-      "summaries": {
-        "ko": "이재명 대통령은 전시 민간인 살해를 유대인 학살에 비유한 발언에 이스라엘이 강하게 반발하자, 보편적 인권 존중과 국가관계에서의 역지사지 원칙을 강조하며 재반박했고, 이는 국내 비판과 외교 갈등으로 번지고 있다.",
-        "en": "After Israel strongly protested his comparison of wartime civilian killings to the Holocaust, President Lee Jae-myung re-emphasized universal human rights and the principle of reciprocity in international relations, a rebuttal that has also fueled domestic criticism and a diplomatic spat.",
-        "zh": "针对其将战时平民屠杀比作犹太人大屠杀的言论引发以色列强烈抗议，李在明总统再次强调普遍人权和国家间关系的换位思考原则，此番回应也加剧了国内批评和外交纠纷。"
-      }
-    },
-    {
-      "title": "美 이지스 구축함, 호르무즈 안쪽에서 포착… “기뢰 제거” - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/04/12/IB4I4X6V7VC2ZEDFB6FA2KQ66A/",
-      "source": "조선일보",
-      "pubDate": "Sat, 11 Apr 2026 23:32:33 GMT",
-      "image": "https://www.chosun.com/resizer/v2/Q3YEVHDG3RG6XNDHKWMMY4PYGE.jpg?auth=06d4cd9e7411dbdab34cd8ecd16b231256bf89d551ae1253fcb1bc85946bf58f&width=1015&height=532&smart=true",
-      "summaries": {
-        "ko": "미국 이지스 구축함 두 척이 호르무즈 해협 안에서 기뢰 제거 작전을 수행하는 모습이 포착되었으나, 이란은 미 함정이 경고를 받고 돌아갔다고 주장했다.",
-        "en": "Two U.S. Aegis destroyers were spotted inside the Strait of Hormuz conducting mine removal operations, while Iran claimed the U.S. vessels were warned and turned back.",
-        "zh": "两艘美国宙斯盾驱逐舰在霍尔木兹海峡内被发现执行扫雷任务，而伊朗则声称美国舰艇收到警告后已返航。"
-      }
-    },
-    {
-      "title": "[단독] 국방부, ‘총살형 뒤 암매장’ 실미도 공작원 유해 재발굴…3곳 파본다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1253796.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 12 Apr 2026 06:06:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/779/584/imgdb/original/2026/0412/20260412501190.webp",
-      "summaries": {
-        "ko": "국방부가 유족의 간절한 요청을 반영하여 1972년 총살형 집행 후 암매장된 실미도 공작원 4명의 유해를 다음 달부터 3곳의 추정 매장지에서 재발굴하며, 이는 다섯 번째 시도이다.",
-        "en": "The Ministry of National Defense is resuming the excavation of the remains of four Silmido agents, who were executed by firing squad and secretly buried in 1972, across three suspected locations starting next month, marking the fifth attempt to fulfill their families' earnest request.",
-        "zh": "应家属的强烈要求，韩国国防部将于下月起在三处疑似埋葬地点重新挖掘1972年被枪决并秘密掩埋的四名实尾岛特工的遗骸，这是第五次尝试。"
-      }
-    },
-    {
-      "title": "'민생지원금 3차 지급일 확정' 미성년자도 가능? 사용처와 신청방법 - gukjenews.com",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3554716",
-      "source": "gukjenews.com",
-      "pubDate": "Sat, 11 Apr 2026 15:00:00 GMT",
-      "image": "https://cdn.gukjenews.com/news/thumbnail/202604/3554716_3706537_2356_v150.jpg",
-      "summaries": {
-        "ko": "오는 27일부터 지급되는 고유가 피해지원금은 국민 70%에게 지역 및 취약계층에 따라 차등 지급되며, 주소지 관할 지자체 내 소상공인 매장에서 주로 사용 가능하나 특정 업종 및 PG 결제는 제한되고, 미성년자는 세대주가 없는 경우 직접 신청할 수 있다.",
-        "en": "Starting on the 27th, the high oil price damage support fund will be disbursed to 70% of the population with varying amounts based on region and vulnerability; it is primarily usable at local small businesses within the resident's jurisdiction, with restrictions on certain industries and PG payments, and minors can apply directly if they are not part of an adult-led household.",
-        "zh": "自27日起，高油价损害支援金将面向70%的国民发放，根据地区和弱势群体情况差异化支付，主要可在居住地管辖的地区内小型商家使用，但部分行业和PG支付受限，未成年人在没有成年户主的情况下可直接申请。"
+        "ko": "배현진 의원은 지방선거 공천 시기에 미국으로 출국한 장동혁 대표가 공천 심사를 지연시켜 후보들의 발목을 잡는다고 비판했으나, 장 대표 측은 미국 측 요청으로 일정을 앞당긴 것이며 최고위는 정상적으로 진행된다고 반박했다.",
+        "en": "Rep. Bae Hyun-jin criticized party leader Jang Dong-hyuk for departing for the U.S. during local election nominations, arguing it delays candidate approvals, but Jang's side countered that his trip was moved up due to U.S. requests and that the supreme council would proceed as scheduled.",
+        "zh": "韩国议员裴贤镇批评国民力量党代表张东赫在地方选举提名期间前往美国，称此举拖延了候选人审批，但张东赫方面反驳说，是应美方要求提前了行程，且最高委员会将照常进行。"
       }
     },
     {
@@ -104,9 +56,33 @@
       "pubDate": "Sun, 12 Apr 2026 06:12:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/04/12/news-p.v1.20260412.9c964387a470419992c21ca9c73dd61a_P1.jpeg",
       "summaries": {
-        "ko": "민주당은 하정우 청와대 AI 미래기획수석 영입이 \"8부 능선을 넘었다\"고 기대하며 정청래 대표가 직접 출마를 요청할 예정이고, 모든 재보궐선거에 후보를 내겠다고 밝혔다.",
-        "en": "The Democratic Party announced it expects the recruitment of Ha Jung-woo, Cheong Wa Dae AI Future Planning Chief, to be \"80% complete\" as leader Jeong Cheong-rae prepares to directly request his candidacy, while also stating its intention to field candidates in all parliamentary by-elections.",
-        "zh": "民主党表示，预计青瓦台人工智能未来企划首席河正宇的招募工作“已完成八成”，党首丁清来将亲自请求他参选，并计划在所有国会议员补选中推出候选人。"
+        "ko": "민주당은 이번 주 정청래 대표가 하정우 청와대 AI 미래기획수석에게 직접 보궐선거 출마를 요청할 예정이며, 영입이 \"8부 능선을 넘었다\"며 그의 긍정적인 결단을 강하게 기대한다고 밝혔다.",
+        "en": "The Democratic Party announced its leader Jung Chung-rae will personally request presidential AI secretary Ha Jung-woo to run in a by-election this week, expressing strong optimism that the recruitment is \"80% complete\" and anticipating his positive decision.",
+        "zh": "民主党宣布，本周党首郑清来将亲自邀请青瓦台AI未来企划首席河正宇参选补选，并强烈乐观地表示招募工作已“完成八成”，期待他做出积极决定。"
+      }
+    },
+    {
+      "title": "[단독] ‘총살형 뒤 암매장’ 실미도 공작원 유해 재발굴…국방부, 3곳 파본다 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1253796.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 12 Apr 2026 07:31:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/779/584/imgdb/original/2026/0412/20260412501190.webp",
+      "summaries": {
+        "ko": "국방부가 사형 집행 후 암매장된 실미도 공작원 4명의 유해를 찾기 위해 2년 만에 다시 3곳에서 발굴 작업을 재개하며 다섯 번째 시도에 나선다.",
+        "en": "The Ministry of National Defense is resuming its fifth attempt to excavate the remains of four executed Silmido agents, who were secretly buried, by searching three locations starting next month, after a two-year hiatus.",
+        "zh": "韩国国防部时隔两年再次启动对四名被处决并秘密埋葬的实尾岛特工遗骸的挖掘工作，这是第五次尝试，将在三处地点进行。"
+      }
+    },
+    {
+      "title": "청와대, 오늘 오후 '비상 경제 현안점검회의'‥중동전쟁발 경제 영향 점검 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6814532_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 12 Apr 2026 01:02:40 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/04/12/jh_20260412_15.jpg",
+      "summaries": {
+        "ko": "청와대는 오늘 오후 긴급 경제 현안점검회의를 열어 중동전쟁발 경제 영향을 점검하고, 휴전 이후 호르무즈 해협에 묶인 우리 선박 26척의 통항 문제 등을 논의할 예정이다.",
+        "en": "Cheong Wa Dae will hold an emergency economic issues review meeting this afternoon to assess the economic impact of the Middle East war and discuss issues such as the passage of 26 South Korean vessels currently stalled in the Strait of Hormuz after a ceasefire.",
+        "zh": "青瓦台今日下午将召开紧急经济现状检查会议，以评估中东战争对经济的影响，并讨论停战后滞留在霍尔木兹海峡的26艘韩国船只的通行问题。"
       }
     },
     {
@@ -119,6 +95,30 @@
         "ko": "탈출 늑대 '늑구' 어디 있나…당국 \"야간 드론 수색 총력\" - nocutnews.co.kr",
         "en": "탈출 늑대 '늑구' 어디 있나…당국 \"야간 드론 수색 총력\" - nocutnews.co.kr",
         "zh": "탈출 늑대 '늑구' 어디 있나…당국 \"야간 드론 수색 총력\" - nocutnews.co.kr"
+      }
+    },
+    {
+      "title": "이진숙 대구서 김부겸 깜짝 조우…“언젠가 만날 사람 만났다” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1253768.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 12 Apr 2026 07:31:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/584/imgdb/original/2026/0412/20260412500497.webp",
+      "summaries": {
+        "ko": "이진숙 대구서 김부겸 깜짝 조우…“언젠가 만날 사람 만났다” - 한겨레",
+        "en": "이진숙 대구서 김부겸 깜짝 조우…“언젠가 만날 사람 만났다” - 한겨레",
+        "zh": "이진숙 대구서 김부겸 깜짝 조우…“언젠가 만날 사람 만났다” - 한겨레"
+      }
+    },
+    {
+      "title": "정청래, 속초·인제서 민심행보…\"강원에 '파란 바람' 분다\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260412171133Oa9",
+      "source": "Breaking News",
+      "pubDate": "Sun, 12 Apr 2026 17:11:33 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260412/AKR20260412171133Oa9_01_i.jpg",
+      "summaries": {
+        "ko": "정청래, 속초·인제서 민심행보…\"강원에 '파란 바람' 분다\"",
+        "en": "정청래, 속초·인제서 민심행보…\"강원에 '파란 바람' 분다\"",
+        "zh": "정청래, 속초·인제서 민심행보…\"강원에 '파란 바람' 분다\""
       }
     }
   ]
