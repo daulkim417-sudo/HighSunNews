@@ -1,52 +1,76 @@
 {
-  "lastUpdate": "2026-04-12T23:58:14.474554",
+  "lastUpdate": "2026-04-13T01:58:07.187007",
   "items": [
     {
-      "title": "트럼프 “핵 문제 빼고 거의 됐다... 이란, 협상 테이블 돌아올 것” - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/04/13/3NYEN7J6XJDHDOH6LWFPRFEHHQ/",
-      "source": "조선일보",
-      "pubDate": "Sun, 12 Apr 2026 16:01:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/VWGEE6ZWE5INLO4GY77SSKT7TA.jpg?auth=61a3799b3eb2389eda4565a60d8d16b693fa1016a7631c3490381490580ff076&width=1200&height=630&focal=1308,448",
-      "summaries": {
-        "ko": "트럼프 “핵 문제 빼고 거의 됐다... 이란, 협상 테이블 돌아올 것” - 조선일보",
-        "en": "트럼프 “핵 문제 빼고 거의 됐다... 이란, 협상 테이블 돌아올 것” - 조선일보",
-        "zh": "트럼프 “핵 문제 빼고 거의 됐다... 이란, 협상 테이블 돌아올 것” - 조선일보"
-      }
-    },
-    {
-      "title": "이스라엘군, 최고 수준 경계 태세…이란 공격 대비 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1253867.html",
+      "title": "‘역봉쇄’ 꺼낸 트럼프…이란 돈줄 차단 겨눴지만 유가 폭등 우려 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1253883.html",
       "source": "한겨레",
-      "pubDate": "Sun, 12 Apr 2026 16:16:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/692/imgdb/original/2026/0412/20260412502222.webp",
+      "pubDate": "Sun, 12 Apr 2026 23:32:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0413/20260413500237.webp",
       "summaries": {
-        "ko": "이스라엘군이 미국과 이란 간 정전 협상 결렬 후 이란과의 적대 행위 재개에 대비해 최고 수준 경계 태세로 전환하고, 이란 본토 내 타격 목표 재정비 및 전면전 준비에 돌입했다.",
-        "en": "The Israeli military has transitioned to the highest level of alert and begun preparing for renewed hostilities with Iran, including re-evaluating targets within Iran and readying for full-scale combat, following the collapse of ceasefire talks between the U.S. and Iran.",
-        "zh": "以色列军方在美国与伊朗停火谈判破裂后，已转入最高警戒级别，并开始为与伊朗重新爆发敌对行动做准备，包括重新评估伊朗境内的打击目标以及备战全面战争。"
+        "ko": "미국이 이란의 전쟁 자금원 차단을 위해 호르무즈 해협 내 이란 항구를 '역봉쇄'하는 조치를 시작했으나, 봉쇄 지속 가능성 및 유가 폭등 우려로 인해 그 성공 여부가 불확실하다.",
+        "en": "The US has initiated a 'reverse blockade' of Iranian ports in the Strait of Hormuz to cut off Iran's war funding, but its success is uncertain due to concerns about the blockade's sustainability and potential oil price surges.",
+        "zh": "美国已对霍尔木兹海峡内的伊朗港口实施“反向封锁”，旨在切断伊朗的战争资金来源，但由于封锁的持续性和油价飙升的担忧，其成效尚不确定。"
       }
     },
     {
-      "title": "이란 혁명수비대 “호르무즈 해협 완전 통제···‘죽음의 소용돌이’ 될 것” - 경향신문",
+      "title": "김부겸 54% 대 이진숙 37%, 정원오 52% 대 오세훈 37%[한국갤럽] - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604131010001",
+      "source": "경향신문",
+      "pubDate": "Mon, 13 Apr 2026 01:10:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/13/news-p.v1.20260403.9c133f48f2b941ebb7aab26a335f69a9_P1.jpeg",
+      "summaries": {
+        "ko": "김부겸 54% 대 이진숙 37%, 정원오 52% 대 오세훈 37%[한국갤럽] - 경향신문",
+        "en": "김부겸 54% 대 이진숙 37%, 정원오 52% 대 오세훈 37%[한국갤럽] - 경향신문",
+        "zh": "김부겸 54% 대 이진숙 37%, 정원오 52% 대 오세훈 37%[한국갤럽] - 경향신문"
+      }
+    },
+    {
+      "title": "'소방관 참변' 완도 냉동창고 화재 경위 수사 본격화 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260413047900054",
+      "source": "연합뉴스",
+      "pubDate": "Mon, 13 Apr 2026 00:52:35 GMT",
+      "image": "https://img2.yna.co.kr/photo/yna/YH/2026/04/12/PYH2026041203340005400_P4.jpg",
+      "summaries": {
+        "ko": "'소방관 참변' 완도 냉동창고 화재 경위 수사 본격화 - 연합뉴스",
+        "en": "'소방관 참변' 완도 냉동창고 화재 경위 수사 본격화 - 연합뉴스",
+        "zh": "'소방관 참변' 완도 냉동창고 화재 경위 수사 본격화 - 연합뉴스"
+      }
+    },
+    {
+      "title": "이란 혁명수비대 “호르무즈, 적 삼키는 죽음의 소용돌이 될 것”···미 봉쇄에 강력 보복 시사 - 경향신문",
       "link": "https://www.khan.co.kr/article/202604130822001",
       "source": "경향신문",
       "pubDate": "Sun, 12 Apr 2026 23:22:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/04/13/news-p.v1.20260413.9063c917546c48b3a26150f5e3251602_P1.jpg",
       "summaries": {
-        "ko": "이란 혁명수비대 “호르무즈 해협 완전 통제···‘죽음의 소용돌이’ 될 것” - 경향신문",
-        "en": "이란 혁명수비대 “호르무즈 해협 완전 통제···‘죽음의 소용돌이’ 될 것” - 경향신문",
-        "zh": "이란 혁명수비대 “호르무즈 해협 완전 통제···‘죽음의 소용돌이’ 될 것” - 경향신문"
+        "ko": "이란 혁명수비대 “호르무즈, 적 삼키는 죽음의 소용돌이 될 것”···미 봉쇄에 강력 보복 시사 - 경향신문",
+        "en": "이란 혁명수비대 “호르무즈, 적 삼키는 죽음의 소용돌이 될 것”···미 봉쇄에 강력 보복 시사 - 경향신문",
+        "zh": "이란 혁명수비대 “호르무즈, 적 삼키는 죽음의 소용돌이 될 것”···미 봉쇄에 강력 보복 시사 - 경향신문"
       }
     },
     {
-      "title": "재진입 3분 뒤 폭발…1남2녀 아빠·예비신랑 소방관 순직 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/honam/1253838.html",
+      "title": "오늘 낮 최고 26도 ‘초여름 날씨’…일교차 커 ‘건강 주의’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1253884.html",
       "source": "한겨레",
-      "pubDate": "Sun, 12 Apr 2026 16:18:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/360/imgdb/original/2026/0412/20260412501941.webp",
+      "pubDate": "Sun, 12 Apr 2026 23:27:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/573/imgdb/original/2026/0413/20260413500244.webp",
       "summaries": {
-        "ko": "재진입 3분 뒤 폭발…1남2녀 아빠·예비신랑 소방관 순직 - 한겨레",
-        "en": "재진입 3분 뒤 폭발…1남2녀 아빠·예비신랑 소방관 순직 - 한겨레",
-        "zh": "재진입 3분 뒤 폭발…1남2녀 아빠·예비신랑 소방관 순직 - 한겨레"
+        "ko": "오늘 낮 최고 26도 ‘초여름 날씨’…일교차 커 ‘건강 주의’ - 한겨레",
+        "en": "오늘 낮 최고 26도 ‘초여름 날씨’…일교차 커 ‘건강 주의’ - 한겨레",
+        "zh": "오늘 낮 최고 26도 ‘초여름 날씨’…일교차 커 ‘건강 주의’ - 한겨레"
+      }
+    },
+    {
+      "title": "[현장] \"모두 잘 살게 하는 게 내 정치 목표\"…한동훈, 수원서 '해피마켓' 피날레 - 데일리안",
+      "link": "https://www.dailian.co.kr/news/view/1632391/%ED%98%84%EC%9E%A5-%EB%AA%A8%EB%91%90-%EC%9E%98-%EC%82%B4%EA%B2%8C-%ED%95%98%EB%8A%94-%EA%B2%8C-%EB%82%B4-%EC%A0%95%EC%B9%98-2026",
+      "source": "데일리안",
+      "pubDate": "Sat, 11 Apr 2026 15:00:00 GMT",
+      "image": "https://cdnimage.dailian.co.kr/news/202604/news_1775911242_1632391_m_1.png",
+      "summaries": {
+        "ko": "한동훈 전 국민의힘 대표가 11일 수원 팔달문 인근 시장에서 '해피마켓' 전통시장 상생 행보를 마무리하며 민생을 살피고 \"모두가 잘 살게 하는 것이 정치 목표\"임을 강조했다.",
+        "en": "Former People Power Party leader Han Dong-hoon concluded his 'Happy Market' tour aimed at supporting traditional markets at Suwon's Paldalmun market on May 11th, where he examined livelihoods and emphasized that his political goal is to ensure everyone lives well.",
+        "zh": "前国民力量党党首韩东勋于11日在水原八达门附近市场结束了旨在支持传统市场的“幸福市场”活动，期间他考察了民生状况并强调其政治目标是让所有人过上好日子。"
       }
     },
     {
@@ -62,63 +86,39 @@
       }
     },
     {
-      "title": "국제 극우운동에 큰 충격…헝가리의 오르반 16년 집권 종식 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1253882.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 12 Apr 2026 22:42:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/853/512/imgdb/child/2026/0413/53_17760348648339_20260413500169.webp",
-      "summaries": {
-        "ko": "국제 극우운동에 큰 충격…헝가리의 오르반 16년 집권 종식 - 한겨레",
-        "en": "국제 극우운동에 큰 충격…헝가리의 오르반 16년 집권 종식 - 한겨레",
-        "zh": "국제 극우운동에 큰 충격…헝가리의 오르반 16년 집권 종식 - 한겨레"
-      }
-    },
-    {
-      "title": "[6·3 광역단체장 후보 인터뷰①] 정원오 “토허제는 한시적인 것…오세훈처럼 감 아닌 데이터 갖고 판단해야” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604130600141",
-      "source": "경향신문",
-      "pubDate": "Sun, 12 Apr 2026 21:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/13/news-p.v1.20260412.7cfd945be46c49eda01905fd36bd90d6_P1.jpeg",
-      "summaries": {
-        "ko": "[6·3 광역단체장 후보 인터뷰①] 정원오 “토허제는 한시적인 것…오세훈처럼 감 아닌 데이터 갖고 판단해야” - 경향신문",
-        "en": "[6·3 광역단체장 후보 인터뷰①] 정원오 “토허제는 한시적인 것…오세훈처럼 감 아닌 데이터 갖고 판단해야” - 경향신문",
-        "zh": "[6·3 광역단체장 후보 인터뷰①] 정원오 “토허제는 한시적인 것…오세훈처럼 감 아닌 데이터 갖고 판단해야” - 경향신문"
-      }
-    },
-    {
-      "title": "[단독] 캄보디아 교도소서 국내로 마약 유통한 60대…80대 노모·딸 활용해 자금세탁 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604130600101",
-      "source": "경향신문",
-      "pubDate": "Sun, 12 Apr 2026 21:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/13/news-p.v1.20260325.064a27fabf9f47cd95a48189cdaeeba5_P1.jpeg",
-      "summaries": {
-        "ko": "[단독] 캄보디아 교도소서 국내로 마약 유통한 60대…80대 노모·딸 활용해 자금세탁 - 경향신문",
-        "en": "[단독] 캄보디아 교도소서 국내로 마약 유통한 60대…80대 노모·딸 활용해 자금세탁 - 경향신문",
-        "zh": "[단독] 캄보디아 교도소서 국내로 마약 유통한 60대…80대 노모·딸 활용해 자금세탁 - 경향신문"
-      }
-    },
-    {
-      "title": "'양주 3살 아이 학대' 친부, 이르면 오늘 구속 여부 결정 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6814583_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sun, 12 Apr 2026 06:00:15 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/04/12/sa_20260412_7.jpg",
-      "summaries": {
-        "ko": "'양주 3살 아이 학대' 친부, 이르면 오늘 구속 여부 결정 - MBC 뉴스",
-        "en": "'양주 3살 아이 학대' 친부, 이르면 오늘 구속 여부 결정 - MBC 뉴스",
-        "zh": "'양주 3살 아이 학대' 친부, 이르면 오늘 구속 여부 결정 - MBC 뉴스"
-      }
-    },
-    {
-      "title": "윤준병 민주당 전북도당위원장, 도지사 경선 결과 공개 논란 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260412022000055",
+      "title": "청주서 가스누출 추정 폭발 사고…6∼7명 경상 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260413004800064",
       "source": "연합뉴스",
-      "pubDate": "Sun, 12 Apr 2026 01:58:02 GMT",
-      "image": "https://img8.yna.co.kr/etc/inner/KR/2026/04/12/AKR20260412022000055_01_i_P4.jpg",
+      "pubDate": "Sun, 12 Apr 2026 20:19:02 GMT",
+      "image": "https://img0.yna.co.kr/photo/yna/YH/2026/04/13/PYH2026041300230006400_P4.jpg",
       "summaries": {
-        "ko": "윤준병 민주당 전북도당위원장, 도지사 경선 결과 공개 논란 - 연합뉴스",
-        "en": "윤준병 민주당 전북도당위원장, 도지사 경선 결과 공개 논란 - 연합뉴스",
-        "zh": "윤준병 민주당 전북도당위원장, 도지사 경선 결과 공개 논란 - 연합뉴스"
+        "ko": "청주서 가스누출 추정 폭발 사고…6∼7명 경상 - 연합뉴스",
+        "en": "청주서 가스누출 추정 폭발 사고…6∼7명 경상 - 연합뉴스",
+        "zh": "청주서 가스누출 추정 폭발 사고…6∼7명 경상 - 연합뉴스"
+      }
+    },
+    {
+      "title": "한국서 건조한 군함, 에콰도르 ‘마약과의 전쟁’ 투입된다 - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/04/13/6JJXA3FXHFAFZGT3QU2QK7HBDE/",
+      "source": "조선일보",
+      "pubDate": "Mon, 13 Apr 2026 00:13:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/TLHBIAPJZJCKDMVA7BVK3SKI3Y.png?auth=49f96b150bee13f35699890215bc3ac37b17384a6bb68bd1ab4d67e3733170cf&width=712&height=373&smart=true",
+      "summaries": {
+        "ko": "한국서 건조한 군함, 에콰도르 ‘마약과의 전쟁’ 투입된다 - 조선일보",
+        "en": "한국서 건조한 군함, 에콰도르 ‘마약과의 전쟁’ 투입된다 - 조선일보",
+        "zh": "한국서 건조한 군함, 에콰도르 ‘마약과의 전쟁’ 투입된다 - 조선일보"
+      }
+    },
+    {
+      "title": "구윤철 \"FTA, 신남방·중남미·아프리카 확대...공급망 다변화\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202604131056438mN",
+      "source": "Breaking News",
+      "pubDate": "Mon, 13 Apr 2026 10:56:44 +0900",
+      "image": "https://d2k5miyk6y5zf0.cloudfront.net/article/AKR/20260413/AKR202604131056438mN_01_i.jpg",
+      "summaries": {
+        "ko": "구윤철 \"FTA, 신남방·중남미·아프리카 확대...공급망 다변화\"",
+        "en": "구윤철 \"FTA, 신남방·중남미·아프리카 확대...공급망 다변화\"",
+        "zh": "구윤철 \"FTA, 신남방·중남미·아프리카 확대...공급망 다변화\""
       }
     }
   ]
