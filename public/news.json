@@ -1,40 +1,16 @@
 {
-  "lastUpdate": "2026-04-17T07:14:10.756056",
+  "lastUpdate": "2026-04-17T08:55:23.611782",
   "items": [
     {
-      "title": "트럼프 “이르면 주말 2차 종전협상…합의 시 직접 파키스탄 갈 수도” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1254649.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 17 Apr 2026 03:04:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0417/20260417500153.webp",
-      "summaries": {
-        "ko": "트럼프 대통령은 이란과의 종전 협상이 잘 진행되고 있으며 이르면 주말 2차 대면 협상이 열릴 수 있고, 합의 시 이란의 핵무기 포기와 함께 중재국 파키스탄을 직접 방문할 의사까지 내비쳤다고 밝혔다.",
-        "en": "President Trump announced significant progress in peace talks with Iran, stating that a second face-to-face negotiation could occur as early as this weekend, and expressed his willingness to visit mediator Pakistan if an agreement is reached, emphasizing Iran's commitment to forego nuclear weapons.",
-        "zh": "特朗普总统宣布与伊朗的和平谈判进展顺利，第二次面对面谈判最早可能于本周末举行，并表示若达成协议，他可能亲自访问调解国巴基斯坦，同时强调伊朗同意放弃核武器。"
-      }
-    },
-    {
-      "title": "이스라엘-레바논 10일간 휴전 돌입…환호 속에도 간헐적 포격 논란 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1254690.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 17 Apr 2026 04:36:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/700/466/imgdb/original/2026/0417/20260417501189.webp",
-      "summaries": {
-        "ko": "이스라엘과 레바논이 미국의 중재로 10일간 휴전에 돌입하며 평화 협상을 모색하지만, 이스라엘의 레바논 영토 철수 거부와 헤즈볼라의 저항권 주장 등 이견으로 불확실성이 크고 간헐적 포격 가능성도 제기되고 있다.",
-        "en": "Israel and Lebanon have entered a 10-day ceasefire, mediated by the US, to pursue peace negotiations, but significant uncertainties remain due to Israel's refusal to withdraw from Lebanese territory and Hezbollah's assertion of its right to resist, raising concerns about potential intermittent shelling.",
-        "zh": "在美国斡旋下，以色列和黎巴嫩进入为期10天的停火期，寻求和平谈判，但由于以色列拒绝撤出黎巴嫩领土以及真主党主张抵抗权等分歧，不确定性依然很大，并引发了对间歇性炮击可能性的担忧。"
-      }
-    },
-    {
-      "title": "호르무즈 봉쇄 이후…한국 유조선 ‘우회로’ 홍해 첫 통과 - 조선일보",
+      "title": "호르무즈 안되면 홍해로... 한국 유조선 우회로 뚫었다 - 조선일보",
       "link": "https://www.chosun.com/national/national_general/2026/04/17/FU7RP6GLQNBHFFZXSLZHHQTRHM/",
       "source": "조선일보",
-      "pubDate": "Fri, 17 Apr 2026 04:55:00 GMT",
+      "pubDate": "Fri, 17 Apr 2026 05:04:16 GMT",
       "image": "https://www.chosun.com/resizer/v2/EMO6K2KOTNDFXDGMT4R4GRQHWA.png?auth=66bc5af6211a53b3f5d3e0018cdae9c34a82f0f24cf9df31c700074d97c87d33&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "호르무즈 봉쇄 이후…한국 유조선 ‘우회로’ 홍해 첫 통과 - 조선일보",
-        "en": "호르무즈 봉쇄 이후…한국 유조선 ‘우회로’ 홍해 첫 통과 - 조선일보",
-        "zh": "호르무즈 봉쇄 이후…한국 유조선 ‘우회로’ 홍해 첫 통과 - 조선일보"
+        "ko": "호르무즈 안되면 홍해로... 한국 유조선 우회로 뚫었다 - 조선일보",
+        "en": "호르무즈 안되면 홍해로... 한국 유조선 우회로 뚫었다 - 조선일보",
+        "zh": "호르무즈 안되면 홍해로... 한국 유조선 우회로 뚫었다 - 조선일보"
       }
     },
     {
@@ -44,45 +20,69 @@
       "pubDate": "Fri, 17 Apr 2026 06:08:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/04/17/news-p.v1.20260417.c6574d06229b410fb5d64ee9b092503a_P1.png",
       "summaries": {
-        "ko": "이재명 대통령과 홍준표 전 대구시장이 17일 비공개 오찬에서 막걸리를 마시며 환담했으며, 이는 이 대통령의 통합 행보의 일환으로 1년 만에 약속이 성사된 것이다.",
-        "en": "President Lee Jae-myung and former Daegu Mayor Hong Joon-pyo had a private luncheon on the 17th, sharing makgeolli and a friendly chat, fulfilling a year-old promise as part of President Lee's integration efforts.",
-        "zh": "17日，李在明总统与前大邱市长洪准杓举行了非公开午餐会，共饮米酒并亲切交谈，这是李总统推行融合举措的一部分，也是两人时隔一年兑现的承诺。"
+        "ko": "이재명 대통령이 홍준표 전 대구시장과 1년 전 약속대로 청와대에서 비공개 오찬을 하며 막걸리를 나누고 환담했으며, 이는 이 대통령의 통합 행보의 일환으로 평가된다.",
+        "en": "President Lee Jae-myung and former Daegu Mayor Hong Joon-pyo held a private luncheon at Cheong Wa Dae, sharing makgeolli and having a cordial conversation, fulfilling a year-old promise, an event seen as part of President Lee's efforts toward national integration.",
+        "zh": "李在明总统与前大邱市长洪准杓时隔一年在青瓦台举行非公开午餐会，两人在品尝米酒的同时亲切交谈，此举被视为李总统促进国家整合的举措之一。"
+      }
+    },
+    {
+      "title": "미국인 교황 \"소수의 폭군이 세상 파괴\"… 트럼프 또 저격했나 - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/04/17/YSL2CRC2HJCXDI5BX5BODSEAUU/",
+      "source": "조선일보",
+      "pubDate": "Fri, 17 Apr 2026 02:18:50 GMT",
+      "image": "https://www.chosun.com/resizer/v2/T7L4TWP73JECPP53N6F3AJB2B4.jpg?auth=77299c2038ab0292e0d4eddcfe3634b79fb2cc877d3a5ebae97182d96b709516&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "미국인 교황 \"소수의 폭군이 세상 파괴\"… 트럼프 또 저격했나 - 조선일보",
+        "en": "미국인 교황 \"소수의 폭군이 세상 파괴\"… 트럼프 또 저격했나 - 조선일보",
+        "zh": "미국인 교황 \"소수의 폭군이 세상 파괴\"… 트럼프 또 저격했나 - 조선일보"
       }
     },
     {
       "title": "늑구 뱃속에 생선 가시, 2.6㎝ 낚싯바늘…제거술 받고 회복 중 - 한겨레",
       "link": "https://www.hani.co.kr/arti/area/chungcheong/1254700.html",
       "source": "한겨레",
-      "pubDate": "Fri, 17 Apr 2026 06:28:00 GMT",
+      "pubDate": "Fri, 17 Apr 2026 05:10:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/1145/imgdb/child/2026/0417/17764073148986_3017764025444106.webp",
       "summaries": {
-        "ko": "대전 오월드를 탈출했던 늑대 '늑구'가 열흘 만에 생포되었으나 위에서 2.6cm 낚싯바늘이 발견되어 제거 수술 후 회복 중이며, 이를 계기로 동물원 운영 방식 개선 요구가 나오고 있다.",
-        "en": "After 10 days, 'Neukgu,' a wolf that escaped from Daejeon O-World, was captured, but a 2.6cm fishing hook was found and removed from its stomach during examination, leading to calls for improved zoo management.",
-        "zh": "从大田O-World逃脱的狼“Neukgu”在10天后被成功捕获，但检查发现其胃里有2.6厘米的鱼钩并已摘除，目前正在恢复中，这引发了对动物园管理方式改进的呼吁。"
+        "ko": "대전 오월드를 탈출했던 늑대 '늑구'가 열흘 만에 생포된 뒤 위장에서 2.6cm 낚싯바늘이 발견돼 제거술을 받고 회복 중이며, 이번 사건을 계기로 동물원 관리 개선 요구가 커지고 있다.",
+        "en": "The wolf 'Neukgu', which escaped from Daejeon O-World, was recaptured after ten days, but a 2.6cm fishing hook was found in its stomach and removed, with Neukgu now recovering, and this incident has led to increased calls for improved zoo management.",
+        "zh": "从大田O-World逃脱的狼“Neukgu”在十天后被捕获，但在其胃中发现了一根2.6厘米的鱼钩并已通过手术取出，目前正在恢复中，此次事件也引发了加强动物园管理体系的呼声。"
       }
     },
     {
-      "title": "국민의힘 추경호·유영하 대구시장 본경선 진출 - 조선일보",
+      "title": "“레바논과 휴전, 나쁜 선택” 이스라엘 여론…네타냐후 지지도 흔들 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1254715.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 17 Apr 2026 08:03:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0417/20260417501650.webp",
+      "summaries": {
+        "ko": "“레바논과 휴전, 나쁜 선택” 이스라엘 여론…네타냐후 지지도 흔들 - 한겨레",
+        "en": "“레바논과 휴전, 나쁜 선택” 이스라엘 여론…네타냐후 지지도 흔들 - 한겨레",
+        "zh": "“레바논과 휴전, 나쁜 선택” 이스라엘 여론…네타냐후 지지도 흔들 - 한겨레"
+      }
+    },
+    {
+      "title": "트럼프 “이르면 주말 2차 종전협상…합의 시 직접 파키스탄 갈 수도” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/america/1254649.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 17 Apr 2026 03:04:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0417/20260417500153.webp",
+      "summaries": {
+        "ko": "트럼프 “이르면 주말 2차 종전협상…합의 시 직접 파키스탄 갈 수도” - 한겨레",
+        "en": "트럼프 “이르면 주말 2차 종전협상…합의 시 직접 파키스탄 갈 수도” - 한겨레",
+        "zh": "트럼프 “이르면 주말 2차 종전협상…합의 시 직접 파키스탄 갈 수도” - 한겨레"
+      }
+    },
+    {
+      "title": "추경호·유영하, 국민의힘 대구시장 본경선 진출 - 조선일보",
       "link": "https://www.chosun.com/politics/assembly/2026/04/17/3UUVEILIFBCM3H76YOURAEFWJU/",
       "source": "조선일보",
-      "pubDate": "Fri, 17 Apr 2026 05:39:00 GMT",
+      "pubDate": "Fri, 17 Apr 2026 06:29:34 GMT",
       "image": "https://www.chosun.com/resizer/v2/CV3PXER4IVELJIIBRENK5GPOK4.jpg?auth=0224a7ed884c48ee2c437dc97b4426c7ee032a68aa9a9e530b57427e386b8550&width=1000&height=525&focal=490,171",
       "summaries": {
-        "ko": "국민의힘 추경호·유영하 대구시장 본경선 진출 - 조선일보",
-        "en": "국민의힘 추경호·유영하 대구시장 본경선 진출 - 조선일보",
-        "zh": "국민의힘 추경호·유영하 대구시장 본경선 진출 - 조선일보"
-      }
-    },
-    {
-      "title": "전쟁 불똥 맞은 美소고기 값, 한우와 차이 4062원→2719원 - 동아일보",
-      "link": "https://www.donga.com/news/Economy/article/all/20260417/133757199/2",
-      "source": "동아일보",
-      "pubDate": "Thu, 16 Apr 2026 19:30:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/17/133757474.1.jpg",
-      "summaries": {
-        "ko": "전쟁 불똥 맞은 美소고기 값, 한우와 차이 4062원→2719원 - 동아일보",
-        "en": "전쟁 불똥 맞은 美소고기 값, 한우와 차이 4062원→2719원 - 동아일보",
-        "zh": "전쟁 불똥 맞은 美소고기 값, 한우와 차이 4062원→2719원 - 동아일보"
+        "ko": "추경호·유영하, 국민의힘 대구시장 본경선 진출 - 조선일보",
+        "en": "추경호·유영하, 국민의힘 대구시장 본경선 진출 - 조선일보",
+        "zh": "추경호·유영하, 국민의힘 대구시장 본경선 진출 - 조선일보"
       }
     },
     {
@@ -110,27 +110,27 @@
       }
     },
     {
-      "title": "당내선 “전쟁 중 총사령관 탈영” 끓는데···장동혁 “미 국무부 찾아 안보·경제협력 대화” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604161526001",
-      "source": "경향신문",
-      "pubDate": "Thu, 16 Apr 2026 06:26:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/16/news-p.v1.20260416.d6ecacc23d444cd48fc90b0501a352c6_P1.jpg",
+      "title": "장동혁, 귀국 사흘 연기…“美국무부 인사 요청” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260417/133758431/2",
+      "source": "동아일보",
+      "pubDate": "Fri, 17 Apr 2026 01:18:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/17/133758458.3.jpg",
       "summaries": {
-        "ko": "당내선 “전쟁 중 총사령관 탈영” 끓는데···장동혁 “미 국무부 찾아 안보·경제협력 대화” - 경향신문",
-        "en": "당내선 “전쟁 중 총사령관 탈영” 끓는데···장동혁 “미 국무부 찾아 안보·경제협력 대화” - 경향신문",
-        "zh": "당내선 “전쟁 중 총사령관 탈영” 끓는데···장동혁 “미 국무부 찾아 안보·경제협력 대화” - 경향신문"
+        "ko": "장동혁, 귀국 사흘 연기…“美국무부 인사 요청” - 동아일보",
+        "en": "장동혁, 귀국 사흘 연기…“美국무부 인사 요청” - 동아일보",
+        "zh": "장동혁, 귀국 사흘 연기…“美국무부 인사 요청” - 동아일보"
       }
     },
     {
-      "title": "대전TP·나노종합기술원 '반도체 소부장 육성' 맞손",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260417153952gL2",
+      "title": "[속보] 광역의원 비례비율 14%로 상향…의원 늘어날 듯",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260417173303wI8",
       "source": "Breaking News",
-      "pubDate": "Fri, 17 Apr 2026 15:39:54 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260417/AKR20260417153952gL2_01_i.jpg",
+      "pubDate": "Fri, 17 Apr 2026 17:33:20 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260417/MYH20260417173303wI8.jpg",
       "summaries": {
-        "ko": "대전TP·나노종합기술원 '반도체 소부장 육성' 맞손",
-        "en": "대전TP·나노종합기술원 '반도체 소부장 육성' 맞손",
-        "zh": "대전TP·나노종합기술원 '반도체 소부장 육성' 맞손"
+        "ko": "[속보] 광역의원 비례비율 14%로 상향…의원 늘어날 듯",
+        "en": "[속보] 광역의원 비례비율 14%로 상향…의원 늘어날 듯",
+        "zh": "[속보] 광역의원 비례비율 14%로 상향…의원 늘어날 듯"
       }
     }
   ]
