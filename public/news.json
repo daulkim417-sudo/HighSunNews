@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-04-19T15:50:22.669650",
+  "lastUpdate": "2026-04-19T16:22:52.813452",
   "items": [
-    {
-      "title": "20일 2차 종전협상 열리나…이란 “미국 계속 봉쇄하면 협상 없어” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1254932.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 19 Apr 2026 14:45:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/801/534/imgdb/original/2026/0419/20260419502160.webp",
-      "summaries": {
-        "ko": "2차 종전협상을 앞두고 이란은 미국의 봉쇄 유지와 이스라엘의 레바논 공격을 비난하며 호르무즈해협 봉쇄를 재개했고, 미국이 봉쇄를 해제하지 않으면 협상은 없을 것이라고 밝혔다.",
-        "en": "Ahead of the second round of truce talks, Iran has re-imposed the Strait of Hormuz blockade, blaming the U.S. for maintaining sanctions and Israel for continued attacks in Lebanon, stating that negotiations will not proceed unless the blockade is lifted.",
-        "zh": "在第二轮停战谈判临近之际，伊朗指责美国持续封锁并提及以色列对黎巴嫩的持续袭击，重新封锁霍尔木兹海峡，并表示除非美国解除封锁，否则不会进行谈判。"
-      }
-    },
     {
       "title": "트럼프 허세 뒤엔 두려움? \"장교 실종때 몇시간 고함\" - 조선일보",
       "link": "https://www.chosun.com/international/international_general/2026/04/19/3S3JFERVDZFXRHKP2RXCQ6B5AU/",
@@ -32,9 +20,9 @@
       "pubDate": "Sun, 19 Apr 2026 15:08:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/04/20/news-p.v1.20260420.20937c0bff1b464589102bc8d6a14fa7_P1.jpeg",
       "summaries": {
-        "ko": "이 대통령 “한·인도, 정상회담 계기로 완전히 다른 차원 발전 가능성” - 경향신문",
-        "en": "이 대통령 “한·인도, 정상회담 계기로 완전히 다른 차원 발전 가능성” - 경향신문",
-        "zh": "이 대통령 “한·인도, 정상회담 계기로 완전히 다른 차원 발전 가능성” - 경향신문"
+        "ko": "이재명 대통령은 인도 방문 중 모디 총리와의 정상회담을 계기로 한국과 인도의 관계가 완전히 새로운 차원으로 발전할 가능성이 매우 높다고 밝혔다.",
+        "en": "During his visit to India, President Lee stated that the upcoming summit with Prime Minister Modi is highly likely to elevate South Korea-India relations to a completely new dimension.",
+        "zh": "李在明总统在访问印度期间表示，与莫迪总理即将举行的峰会极有可能将韩印关系提升到一个全新的层面。"
       }
     },
     {
@@ -59,6 +47,18 @@
         "ko": "늑구야, 보고 싶지만 참을게…“오월드 변할 때까지” - 한겨레",
         "en": "늑구야, 보고 싶지만 참을게…“오월드 변할 때까지” - 한겨레",
         "zh": "늑구야, 보고 싶지만 참을게…“오월드 변할 때까지” - 한겨레"
+      }
+    },
+    {
+      "title": "'방미' 장동혁, 내일 새벽 귀국‥미 국무부 인사 면담 사진 공개 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6816394_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 19 Apr 2026 10:19:39 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/04/19/sa_20260419_21.jpg",
+      "summaries": {
+        "ko": "'방미' 장동혁, 내일 새벽 귀국‥미 국무부 인사 면담 사진 공개 - MBC 뉴스",
+        "en": "'방미' 장동혁, 내일 새벽 귀국‥미 국무부 인사 면담 사진 공개 - MBC 뉴스",
+        "zh": "'방미' 장동혁, 내일 새벽 귀국‥미 국무부 인사 면담 사진 공개 - MBC 뉴스"
       }
     },
     {
@@ -89,7 +89,7 @@
       "title": "서울 4월 역대 세번째로 더웠다...내일 봄비 내리며 ‘초여름 더위’ 해소 - 조선일보",
       "link": "https://www.chosun.com/national/transport-environment/2026/04/19/RS5BEC3DZNB25LTZZCVB6V7PB4/",
       "source": "조선일보",
-      "pubDate": "Sun, 19 Apr 2026 09:45:00 GMT",
+      "pubDate": "Sun, 19 Apr 2026 10:08:27 GMT",
       "image": "https://www.chosun.com/resizer/v2/HBSWIYZYGBQTMMBRMYYWGNZVHE.jpg?auth=5ef9152bcb18538e490b650d753f9f3757ebbf41579673eb8fc09dbe1b27a2d2&width=1200&height=630&smart=true",
       "summaries": {
         "ko": "서울 4월 역대 세번째로 더웠다...내일 봄비 내리며 ‘초여름 더위’ 해소 - 조선일보",
@@ -98,15 +98,15 @@
       }
     },
     {
-      "title": "前중앙지검장 \"'조작기소' 국정조사, 수사팀 사지로 내몰아\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6816399_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sun, 19 Apr 2026 11:14:07 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/04/19/sa_20260419_23.jpg",
+      "title": "유럽 크루즈 5척 호르무즈 해협 통과",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260420004908T66",
+      "source": "Breaking News",
+      "pubDate": "Mon, 20 Apr 2026 00:49:11 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260419/AKR20260420004908T66_01_i.jpg",
       "summaries": {
-        "ko": "前중앙지검장 \"'조작기소' 국정조사, 수사팀 사지로 내몰아\" - MBC 뉴스",
-        "en": "前중앙지검장 \"'조작기소' 국정조사, 수사팀 사지로 내몰아\" - MBC 뉴스",
-        "zh": "前중앙지검장 \"'조작기소' 국정조사, 수사팀 사지로 내몰아\" - MBC 뉴스"
+        "ko": "유럽 크루즈 5척 호르무즈 해협 통과",
+        "en": "유럽 크루즈 5척 호르무즈 해협 통과",
+        "zh": "유럽 크루즈 5척 호르무즈 해협 통과"
       }
     },
     {
@@ -131,18 +131,6 @@
         "ko": "[속보] \"이란, 美 해상봉쇄하는 한 협상없어\"",
         "en": "[속보] \"이란, 美 해상봉쇄하는 한 협상없어\"",
         "zh": "[속보] \"이란, 美 해상봉쇄하는 한 협상없어\""
-      }
-    },
-    {
-      "title": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202604192131181Gx",
-      "source": "Breaking News",
-      "pubDate": "Sun, 19 Apr 2026 21:31:19 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260419/AKR202604192131181Gx_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
-        "en": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
-        "zh": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\""
       }
     }
   ]
