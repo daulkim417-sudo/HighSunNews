@@ -1,28 +1,16 @@
 {
-  "lastUpdate": "2026-04-19T07:47:42.232659",
+  "lastUpdate": "2026-04-19T08:37:22.173425",
   "items": [
     {
-      "title": "이란 협상 대표 \"미국과 협상 일부 진전…최종 합의는 아직 멀어\" - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/04/19/PXATIMVQHRFH7EQPMRBHCOOIFA/",
-      "source": "조선일보",
-      "pubDate": "Sun, 19 Apr 2026 01:59:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GBTGGMZZGZRWEYJTMEZDQNTGME.jpg?auth=c2bca9992829c7cef510129f65e5c790c4628c1e7872adb7230b706cf9cbbf7d&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "이란 협상 대표 \"미국과 협상 일부 진전…최종 합의는 아직 멀어\" - 조선일보",
-        "en": "이란 협상 대표 \"미국과 협상 일부 진전…최종 합의는 아직 멀어\" - 조선일보",
-        "zh": "이란 협상 대표 \"미국과 협상 일부 진전…최종 합의는 아직 멀어\" - 조선일보"
-      }
-    },
-    {
-      "title": "미-이란 휴전 D-3…이란 ‘해협 재봉쇄’, 미국 ‘나포 엄포’ 긴장 고조 - 한겨레",
+      "title": "휴전 만료 3일 앞, 다시 전운…이란 “해협 재봉쇄”에 미 “나포” 엄포 - 한겨레",
       "link": "https://www.hani.co.kr/arti/international/america/1254865.html",
       "source": "한겨레",
       "pubDate": "Sun, 19 Apr 2026 05:54:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0419/20260419501290.webp",
       "summaries": {
-        "ko": "미국-이란 임시휴전 만료가 임박한 가운데 이란이 호르무즈 해협을 재봉쇄하고 상선에 무력 대응하자, 미국은 이란 선박 나포를 엄포하며 긴장이 고조되고 있으나 외교적 대화는 계속되고 있다.",
-        "en": "As the US-Iran temporary ceasefire nears its end, tensions are escalating after Iran re-closed the Strait of Hormuz and engaged in military action against merchant ships, leading the US to threaten the seizure of Iran-linked vessels globally, while diplomatic talks continue.",
-        "zh": "美伊临时停火协议即将到期，伊朗重新封锁霍尔木兹海峡并对商船采取军事行动，导致美国威胁在全球范围内扣押伊朗相关船只，紧张局势升级，但外交对话仍在继续。"
+        "ko": "미국-이란 임시휴전 만료를 사흘 앞두고 이란이 호르무즈 해협을 재봉쇄하고 상선을 공격하며 긴장이 고조되자 미국은 전 세계 이란 관련 선박 나포를 엄포했지만, 외교 채널은 여전히 열려 있다.",
+        "en": "Tensions escalate between the US and Iran with the Strait of Hormuz re-closed by Iran and merchant ships attacked, leading to US threats of global ship seizures, just three days before their temporary truce expires, though diplomatic channels remain open.",
+        "zh": "在美国与伊朗临时停战协议到期前三天，伊朗重新封锁霍尔木兹海峡并袭击商船，导致紧张局势升级，美国威胁在全球范围内扣押与伊朗相关的船只，但外交渠道仍保持开放。"
       }
     },
     {
@@ -38,15 +26,27 @@
       }
     },
     {
+      "title": "'오세훈 선대위'에 박수민·윤희숙 합류‥\"중도확장 선대위 꾸릴 것\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6816360_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 19 Apr 2026 05:30:40 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/04/19/sa_20260419_3.jpg",
+      "summaries": {
+        "ko": "오세훈 서울시장이 국민의힘 서울시장 후보 경선에서 경쟁했던 박수민·윤희숙 전 의원을 공동 선대위원장으로 영입하며 중도 확장을 목표로 하는 선거대책위원회를 구성한다고 밝혔다.",
+        "en": "Seoul Mayor Oh Se-hoon announced the formation of an election campaign committee aimed at expanding centrist support, recruiting former Reps. Park Soo-min and Yoon Hee-sook, who competed against him in the People Power Party's Seoul mayoral primary, as co-chairpersons.",
+        "zh": "首尔市长吴世勋宣布，将组建一个旨在扩大中间支持的选举对策委员会，并邀请在国民力量党首尔市长竞选中曾与他竞争的前议员朴秀敏和尹喜淑担任共同竞选委员会主席。"
+      }
+    },
+    {
       "title": "국민의힘 \"李 대통령 '장특공 폐지' 시사? 조세 원리에 대한 무지에서 비롯\" - MBC 뉴스",
       "link": "https://imnews.imbc.com/news/2026/politics/article/6816353_36911.html",
       "source": "MBC 뉴스",
       "pubDate": "Sun, 19 Apr 2026 04:56:48 GMT",
       "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/04/19/jh_20260419_27.jpg",
       "summaries": {
-        "ko": "국민의힘은 이재명 대통령의 부동산 양도세 장기보유특별공제 폐지 주장을 조세 원리에 대한 무지에서 비롯된 것이며 1주택 실거주자에게도 피해를 주는 정책이라고 강하게 비판했다.",
-        "en": "The People Power Party strongly criticized President Lee Jae-myung's assertion to abolish the long-term special deduction for capital gains tax on real estate, calling it a result of ignorance of tax principles and a policy that would harm even single-home owners.",
-        "zh": "国民力量党强烈批评李在明总统关于废除房地产转让税长期持有特别扣除的主张，称其源于对税收原理的无知，并且是一项会损害单套房产实际居住者的政策。"
+        "ko": "국민의힘은 이재명 대통령의 부동산 양도세 장기보유특별공제 폐지 시사 발언에 대해 조세 원리에 대한 무지에서 비롯된 것이라며 강하게 비판했습니다.",
+        "en": "The People Power Party strongly criticized President Lee Jae-myung's suggestion to abolish the long-term special deduction for capital gains tax on real estate, asserting it stems from ignorance of tax principles.",
+        "zh": "国民力量党强烈批评李在明总统暗示废除房地产资本利得税的长期持有特别扣除政策，指出此举源于对税收原则的无知。"
       }
     },
     {
@@ -56,9 +56,9 @@
       "pubDate": "Sun, 19 Apr 2026 06:59:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/04/19/news-p.v1.20260419.35c3421f1e6f46eab1305c6b54bf649d_P1.jpeg",
       "summaries": {
-        "ko": "미국이 정동영 통일부 장관이 북한 핵 시설 위치로 구성시를 언급하자 자국 정보 유출로 보고 항의하며 대북 정보 공유를 일부 중단했으며, 통일부는 미국 측 정보와 무관하다고 밝혔다.",
-        "en": "The U.S. reportedly partially suspended intelligence sharing with South Korea after Unification Minister Jeong Dong-young mentioned Kusong as a North Korean nuclear facility site, believing it was based on U.S. intelligence, a claim the Unification Ministry denies.",
-        "zh": "据报道，在美国认为韩国统一部长官郑东泳提及龟城市为朝鲜核设施所在地泄露了美方情报后提出抗议，并部分暂停了对韩共享对朝情报，但统一部否认其言论与美方情报有关。"
+        "ko": "정동영 통일부 장관이 북한 핵시설 위치로 '구성시'를 언급하자 미국이 자국 정보망 노출을 우려하며 한국에 대한 대북정보 공유를 일부 중단한 것으로 전해졌으나, 통일부는 미국 측 정보와 무관하다고 밝혔다.",
+        "en": "The U.S. reportedly partially suspended intelligence sharing with South Korea after Minister Jeong Dong-young mentioned Kusong as a North Korean nuclear facility site, fearing exposure of its intelligence network, though the Ministry of Unification denies the information came from the U.S.",
+        "zh": "据报道，韩国统一部长官郑东泳提及朝鲜宁边、江善之外还有龟城市有铀浓缩设施后，美方担心其情报网络暴露，因此暂停对韩部分对朝情报共享，但韩国统一部否认该信息来自美方。"
       }
     },
     {
@@ -68,57 +68,57 @@
       "pubDate": "Sun, 19 Apr 2026 00:51:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/04/19/news-p.v1.20260419.17c0be078c15487fb4d37b18d6be68a6_P1.png",
       "summaries": {
-        "ko": "오월드에서 탈출했다가 포획된 늑대 '늑구'가 온라인에서 화제를 모으며 재개장할 오월드에 대한 관심과 '늑구빵' 출시 요구가 높아지는 가운데, 환경단체는 동물원 운영 전반에 대한 점검을 촉구하고 있다.",
-        "en": "The wolf 'Neokgu,' which escaped from O-World and was later recaptured, has become an online sensation, boosting interest in the zoo's reopening and even sparking calls for 'Neokgu bread,' while environmental groups are urging a comprehensive review of the animal park's operations.",
-        "zh": "从O-World逃脱后又被捕获的狼“Neokgu”在网上引发热议，提升了人们对该动物园重新开放的关注，甚至引发了对“Neokgu面包”的呼声，与此同时，环保团体呼吁对动物园的整体运营进行全面审查。"
+        "ko": "탈출 후 재포획된 늑대 늑구가 온라인에서 화제가 되며 오월드 재개장 및 관광에 대한 대중의 관심을 높였으나, 환경단체는 과거 사고 반복을 지적하며 동물원 운영 전반에 대한 점검을 요구하고 있다.",
+        "en": "After its recapture, the wolf Neukgu became an online sensation, significantly boosting public interest in O-World's reopening and tourism, while also prompting environmental groups to call for a comprehensive inspection of zoo operations due to repeated safety incidents.",
+        "zh": "被捕获的狼“늑구”在网上引发热议，大大提高了公众对O-World重新开放和旅游的兴趣，但也促使环保团体因过去事故频发，呼吁对动物园运营进行全面检查。"
       }
     },
     {
-      "title": "송언석 \"李 대통령, 대장동 몸통이자 심장‥재판 재개로 진실 밝혀야\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6816361_36911.html",
+      "title": "이 대통령, 내일부터 5박 6일간 인도·베트남 국빈 방문‥\"외교 지평 확대\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6816247_36911.html",
       "source": "MBC 뉴스",
-      "pubDate": "Sun, 19 Apr 2026 05:32:02 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/04/19/ljm_20260419_4.jpg",
+      "pubDate": "Sat, 18 Apr 2026 08:43:59 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/04/18/sa_20260418_10.jpg",
       "summaries": {
-        "ko": "국민의힘 송언석 원내대표가 대장동 사건 재판 재개를 촉구하며 이재명 당시 성남시장을 '몸통이자 심장'이라고 직격하고, 민주당 후보들의 의혹과 청와대 인사의 거취를 비판했다.",
-        "en": "People Power Party floor leader Song Eon-seok urged the resumption of the Daejang-dong trial, directly calling then Seongnam Mayor Lee Jae-myung the 'body and heart' of the scandal, while also criticizing allegations against Democratic Party candidates and a Cheong Wa Dae official's political future.",
-        "zh": "国民力量党院内代表宋彦锡敦促重新审理大庄洞案件，直接指出时任城南市长李在明是该事件的“主谋和核心”，并批评了民主党候选人的争议和青瓦台官员的去向。"
+        "ko": "이재명 대통령이 내일부터 5박 6일간 인도와 베트남을 국빈 방문하여 정상회담을 통해 경제 협력을 강화하고 외교 지평을 확대할 예정이다.",
+        "en": "President Lee Jae-myung will embark on a five-night, six-day state visit to India and Vietnam starting tomorrow to hold summits aimed at strengthening economic cooperation and expanding diplomatic horizons.",
+        "zh": "李在明总统将从明天起对印度和越南进行为期5晚6天的国事访问，通过举行首脑会谈，旨在加强经济合作并扩大外交领域。"
       }
     },
     {
-      "title": "‘총리설’ 홍준표 “청와대에 자리 흥정하러 간 거 아냐” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1254838.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 19 Apr 2026 06:54:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/593/imgdb/original/2026/0419/20260419500614.webp",
+      "title": "63세 국내 최고령 안양교도소 가보니... 시설 노후화·과밀수용으로 이중고 - 조선일보",
+      "link": "https://www.chosun.com/national/court_law/2026/04/19/4KQ6SNFXWVCHXITMNDP3HCXPQQ/",
+      "source": "조선일보",
+      "pubDate": "Sun, 19 Apr 2026 03:06:10 GMT",
+      "image": "https://www.chosun.com/resizer/v2/L6DZR7CE35H7DN4GXOBNKWF4AQ.JPG?auth=f561d287bbc697027dcd77f67f7cffd6f916a827c829322bda757c79d3e5fd49&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "홍준표 전 대구시장은 이재명 대통령과의 오찬 회동이 총리직 흥정을 위한 것이 아니었다며, 국가의 안정과 번영을 논의하고 TK 신공항 지원 및 이명박 전 대통령의 법적 제한 해제 등을 부탁했다고 밝혔다.",
-        "en": "Former Daegu Mayor Hong Joon-pyo denied that his recent lunch meeting with President Lee Jae-myung was to negotiate for a prime minister position, stating instead that they discussed national stability and prosperity, and he made requests such as support for the TK new airport and lifting legal restrictions on former President Lee Myung-bak.",
-        "zh": "前大邱市长洪准杓否认了他与李在明总统的午餐会是为了协商总理职位，澄清说他们讨论了国家稳定和繁荣，并提出了支持TK新机场和解除对前总统李明博的法律限制等请求。"
+        "ko": "63세 국내 최고령 안양교도소 가보니... 시설 노후화·과밀수용으로 이중고 - 조선일보",
+        "en": "63세 국내 최고령 안양교도소 가보니... 시설 노후화·과밀수용으로 이중고 - 조선일보",
+        "zh": "63세 국내 최고령 안양교도소 가보니... 시설 노후화·과밀수용으로 이중고 - 조선일보"
       }
     },
     {
-      "title": "치열한 경합 벌인 위성곤·문대림 '더민주 원팀' 선언 - 노컷뉴스",
-      "link": "https://www.nocutnews.co.kr/news/6504571",
-      "source": "노컷뉴스",
-      "pubDate": "Sun, 19 Apr 2026 03:56:00 GMT",
-      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/04/19/202604191205227022_0.jpg",
+      "title": "월요일 전국에 봄비 내리며 ‘초여름 더위’ 해소 - 조선일보",
+      "link": "https://www.chosun.com/national/transport-environment/2026/04/19/RS5BEC3DZNB25LTZZCVB6V7PB4/",
+      "source": "조선일보",
+      "pubDate": "Sun, 19 Apr 2026 04:13:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/HBSWIYZYGBQTMMBRMYYWGNZVHE.jpg?auth=5ef9152bcb18538e490b650d753f9f3757ebbf41579673eb8fc09dbe1b27a2d2&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "더불어민주당 제주지사 후보 경선에서 치열하게 맞붙었던 위성곤·문대림 두 후보가 '원팀'을 선언하며 제주지사 선거 승리를 위해 협력하기로 했다.",
-        "en": "Wi Seong-gon and Moon Dae-rim, who fiercely competed in the Democratic Party of Korea's Jeju governor primary, declared themselves a 'one team' and agreed to cooperate for victory in the Jeju gubernatorial election.",
-        "zh": "在共同民主党济州道知事候选人初选中激烈竞争的魏圣坤和文大林两位候选人宣布组成“一个团队”，并同意合作以赢得济州道知事选举。"
+        "ko": "월요일 전국에 봄비 내리며 ‘초여름 더위’ 해소 - 조선일보",
+        "en": "월요일 전국에 봄비 내리며 ‘초여름 더위’ 해소 - 조선일보",
+        "zh": "월요일 전국에 봄비 내리며 ‘초여름 더위’ 해소 - 조선일보"
       }
     },
     {
-      "title": "일본 지방의원들 \"금배지 뗍니다\"…가격 급등에 싼 소재로",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202604191643026i5",
+      "title": "손님 음식 '꿀꺽'해온 배달기사…경찰 주문에 손댔다 '덜미'",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260419173406QvQ",
       "source": "Breaking News",
-      "pubDate": "Sun, 19 Apr 2026 16:43:04 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260419/AKR202604191643026i5_01_i.jpg",
+      "pubDate": "Sun, 19 Apr 2026 17:34:07 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260419/AKR20260419173406QvQ_01_i.jpg",
       "summaries": {
-        "ko": "일본 지방의원들 \"금배지 뗍니다\"…가격 급등에 싼 소재로",
-        "en": "일본 지방의원들 \"금배지 뗍니다\"…가격 급등에 싼 소재로",
-        "zh": "일본 지방의원들 \"금배지 뗍니다\"…가격 급등에 싼 소재로"
+        "ko": "손님 음식 '꿀꺽'해온 배달기사…경찰 주문에 손댔다 '덜미'",
+        "en": "손님 음식 '꿀꺽'해온 배달기사…경찰 주문에 손댔다 '덜미'",
+        "zh": "손님 음식 '꿀꺽'해온 배달기사…경찰 주문에 손댔다 '덜미'"
       }
     }
   ]
