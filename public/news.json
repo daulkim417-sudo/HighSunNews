@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-19T10:06:10.505626",
+  "lastUpdate": "2026-04-19T10:54:45.016676",
   "items": [
     {
       "title": "호르무즈 재봉쇄 하루 새 10척 회항…“개방돼도 정상화 수개월” - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Sun, 19 Apr 2026 09:13:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0419/20260419501711.webp",
       "summaries": {
-        "ko": "이란군이 호르무즈 해협 재봉쇄를 선언하자 출항하려던 선박 10여 척이 회항하고 일부 선박이 공격받았으며, 해협이 개방되더라도 정상화에는 수개월이 걸릴 것으로 전망된다.",
-        "en": "After the Iranian military declared a re-blockade of the Strait of Hormuz, about 10 ships attempting to depart returned and some were attacked, with expectations that normalization could take several months even if the strait reopens.",
-        "zh": "随着伊朗军队宣布再次封锁霍尔木兹海峡，约10艘试图离开的船只被迫返航，一些船只遭到袭击，预计即便海峡重新开放，恢复正常也需数月时间。"
+        "ko": "이란군이 호르무즈 해협을 재봉쇄하여 10척 이상의 선박이 회항하고 일부 공격을 받아 인도 정부가 항의했으며, 국제해사기구는 해협 정상화에 수개월이 걸릴 것으로 내다봤다.",
+        "en": "Iran's military re-sealed the Strait of Hormuz, causing over 10 ships to turn back and some to be attacked, prompting a protest from the Indian government, while the IMO predicted that it would take several months for the strait to normalize.",
+        "zh": "鉴于伊朗军方重新封锁霍尔木兹海峡，导致十余艘船只返航并遭到袭击，印度政府对此提出抗议，国际海事组织也预测海峡恢复正常需数月时间。"
       }
     },
     {
@@ -20,9 +20,33 @@
       "pubDate": "Sun, 19 Apr 2026 09:05:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/04/19/rcv.YNA.20260419.PYH2026041907200001300_P1.jpg",
       "summaries": {
-        "ko": "이재명 대통령은 취임 1년을 앞두고 친인척 및 고위 공무원 비위 감찰을 위한 특별감찰관 임명 절차를 국회에 재차 요청하며 국정 운영의 투명성 제고와 공약 이행 의지를 강조했다.",
-        "en": "President Lee Jae-myung reiterated his request to the National Assembly to initiate the appointment process for a special inspector general, tasked with monitoring corruption involving his relatives and high-ranking officials, ahead of his first year in office, emphasizing his commitment to transparency and fulfilling a campaign promise.",
-        "zh": "总统李在明在就任一周年之际，再次要求国会启动特别监察官的任命程序，以监督其亲属和高级官员的腐败行为，强调提高国政透明度和履行竞选承诺的决心。"
+        "ko": "이 대통령, 특별감찰관 임명 다시 거론한 이유는 - 경향신문",
+        "en": "이 대통령, 특별감찰관 임명 다시 거론한 이유는 - 경향신문",
+        "zh": "이 대통령, 특별감찰관 임명 다시 거론한 이유는 - 경향신문"
+      }
+    },
+    {
+      "title": "박완수 경남도지사 “4·19 정신은 경남 자부심” - 경남일보",
+      "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=635196",
+      "source": "경남일보",
+      "pubDate": "Sun, 19 Apr 2026 10:10:35 GMT",
+      "image": "https://cdn.gnnews.co.kr/news/photo/202604/635196_435623_5222.jpg",
+      "summaries": {
+        "ko": "박완수 경남도지사 “4·19 정신은 경남 자부심” - 경남일보",
+        "en": "박완수 경남도지사 “4·19 정신은 경남 자부심” - 경남일보",
+        "zh": "박완수 경남도지사 “4·19 정신은 경남 자부심” - 경남일보"
+      }
+    },
+    {
+      "title": "이재용·정의선·구광모 등 경제사절단 인도行…'세일즈 외교' 박차 - 전자신문",
+      "link": "https://www.etnews.com/20260419000075",
+      "source": "전자신문",
+      "pubDate": "Sun, 19 Apr 2026 07:05:04 GMT",
+      "image": "https://img.etnews.com/news/article/2026/04/19/news-p.v1.20260419.37b2ae4a285a4785b031f5a2c42bcfd5_P1.png",
+      "summaries": {
+        "ko": "이재용·정의선·구광모 등 경제사절단 인도行…'세일즈 외교' 박차 - 전자신문",
+        "en": "이재용·정의선·구광모 등 경제사절단 인도行…'세일즈 외교' 박차 - 전자신문",
+        "zh": "이재용·정의선·구광모 등 경제사절단 인도行…'세일즈 외교' 박차 - 전자신문"
       }
     },
     {
@@ -38,87 +62,63 @@
       }
     },
     {
-      "title": "국민의힘 \"李 대통령 '장특공 폐지' 시사? 조세 원리에 대한 무지에서 비롯\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6816353_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sun, 19 Apr 2026 04:56:48 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/04/19/jh_20260419_27.jpg",
-      "summaries": {
-        "ko": "국민의힘 \"李 대통령 '장특공 폐지' 시사? 조세 원리에 대한 무지에서 비롯\" - MBC 뉴스",
-        "en": "국민의힘 \"李 대통령 '장특공 폐지' 시사? 조세 원리에 대한 무지에서 비롯\" - MBC 뉴스",
-        "zh": "국민의힘 \"李 대통령 '장특공 폐지' 시사? 조세 원리에 대한 무지에서 비롯\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "늑구야, 보고 싶지만 참을게…“오월드 변할 때까지” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/animalpeople/human_animal/1254860.html",
+      "title": "[단독] “구성” 말했다고…“미국이 제공하는 하루 50~100쪽 대북정보 끊겨” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1254848.html",
       "source": "한겨레",
-      "pubDate": "Sun, 19 Apr 2026 09:15:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/482/imgdb/original/2026/0419/20260419501195.webp",
+      "pubDate": "Sun, 19 Apr 2026 09:14:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/624/imgdb/original/2026/0218/8417713971629681.webp",
       "summaries": {
-        "ko": "늑구야, 보고 싶지만 참을게…“오월드 변할 때까지” - 한겨레",
-        "en": "늑구야, 보고 싶지만 참을게…“오월드 변할 때까지” - 한겨레",
-        "zh": "늑구야, 보고 싶지만 참을게…“오월드 변할 때까지” - 한겨레"
+        "ko": "[단독] “구성” 말했다고…“미국이 제공하는 하루 50~100쪽 대북정보 끊겨” - 한겨레",
+        "en": "[단독] “구성” 말했다고…“미국이 제공하는 하루 50~100쪽 대북정보 끊겨” - 한겨레",
+        "zh": "[단독] “구성” 말했다고…“미국이 제공하는 하루 50~100쪽 대북정보 끊겨” - 한겨레"
       }
     },
     {
-      "title": "미, '정동영 핵시설' 발언에 대북 위성정보 공유 일부 제한한 듯 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260419030700504",
+      "title": "이준석 \"콩·팥 말고 오렌지를 대안으로…지선서 변화 만들 것\" - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260419038300001",
       "source": "연합뉴스",
-      "pubDate": "Sun, 19 Apr 2026 04:36:09 GMT",
-      "image": "https://img3.yna.co.kr/photo/yna/YH/2026/04/15/PYH2026041507980001300_P4.jpg",
+      "pubDate": "Sun, 19 Apr 2026 06:51:40 GMT",
+      "image": "https://img0.yna.co.kr/photo/yna/YH/2026/04/19/PYH2026041907590001300_P4.jpg",
       "summaries": {
-        "ko": "미, '정동영 핵시설' 발언에 대북 위성정보 공유 일부 제한한 듯 - 연합뉴스",
-        "en": "미, '정동영 핵시설' 발언에 대북 위성정보 공유 일부 제한한 듯 - 연합뉴스",
-        "zh": "미, '정동영 핵시설' 발언에 대북 위성정보 공유 일부 제한한 듯 - 연합뉴스"
+        "ko": "이준석 \"콩·팥 말고 오렌지를 대안으로…지선서 변화 만들 것\" - 연합뉴스",
+        "en": "이준석 \"콩·팥 말고 오렌지를 대안으로…지선서 변화 만들 것\" - 연합뉴스",
+        "zh": "이준석 \"콩·팥 말고 오렌지를 대안으로…지선서 변화 만들 것\" - 연합뉴스"
       }
     },
     {
-      "title": "송언석 \"李 대통령, 대장동 몸통이자 심장‥재판 재개로 진실 밝혀야\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6816361_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sun, 19 Apr 2026 05:32:02 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/04/19/ljm_20260419_4.jpg",
-      "summaries": {
-        "ko": "송언석 \"李 대통령, 대장동 몸통이자 심장‥재판 재개로 진실 밝혀야\" - MBC 뉴스",
-        "en": "송언석 \"李 대통령, 대장동 몸통이자 심장‥재판 재개로 진실 밝혀야\" - MBC 뉴스",
-        "zh": "송언석 \"李 대통령, 대장동 몸통이자 심장‥재판 재개로 진실 밝혀야\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "“여성들 화장실 장시간 줄서는 건 사회·경제적 손실”···일본 화장실 가이드라인 내달 확정 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604191702001",
+      "title": "“늑구 보러 갈 파티원 모집” 오월드 재개장에 쏠린 눈···환경단체 “사고 반복, 점검 필요” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604190951001",
       "source": "경향신문",
-      "pubDate": "Sun, 19 Apr 2026 08:02:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/19/news-p.v1.20260419.9611779e0d894beb859571a9e9346bcf_P1.png",
+      "pubDate": "Sun, 19 Apr 2026 00:51:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/19/news-p.v1.20260419.17c0be078c15487fb4d37b18d6be68a6_P1.png",
       "summaries": {
-        "ko": "“여성들 화장실 장시간 줄서는 건 사회·경제적 손실”···일본 화장실 가이드라인 내달 확정 - 경향신문",
-        "en": "“여성들 화장실 장시간 줄서는 건 사회·경제적 손실”···일본 화장실 가이드라인 내달 확정 - 경향신문",
-        "zh": "“여성들 화장실 장시간 줄서는 건 사회·경제적 손실”···일본 화장실 가이드라인 내달 확정 - 경향신문"
+        "ko": "“늑구 보러 갈 파티원 모집” 오월드 재개장에 쏠린 눈···환경단체 “사고 반복, 점검 필요” - 경향신문",
+        "en": "“늑구 보러 갈 파티원 모집” 오월드 재개장에 쏠린 눈···환경단체 “사고 반복, 점검 필요” - 경향신문",
+        "zh": "“늑구 보러 갈 파티원 모집” 오월드 재개장에 쏠린 눈···환경단체 “사고 반복, 점검 필요” - 경향신문"
       }
     },
     {
-      "title": "이 대통령, 인도·베트남 국빈방문 출국…에너지 공급망 협력 논의 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1254858.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 19 Apr 2026 03:47:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/696/imgdb/original/2026/0419/1917765684084839.webp",
+      "title": "송언석 “대장동 재판 재개해야…민주당, 손바닥으로 하늘 가려” - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8539714",
+      "source": "KBS 뉴스",
+      "pubDate": "Sun, 19 Apr 2026 03:24:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/04/19/20260419_pAicns.jpg",
       "summaries": {
-        "ko": "이 대통령, 인도·베트남 국빈방문 출국…에너지 공급망 협력 논의 - 한겨레",
-        "en": "이 대통령, 인도·베트남 국빈방문 출국…에너지 공급망 협력 논의 - 한겨레",
-        "zh": "이 대통령, 인도·베트남 국빈방문 출국…에너지 공급망 협력 논의 - 한겨레"
+        "ko": "송언석 “대장동 재판 재개해야…민주당, 손바닥으로 하늘 가려” - KBS 뉴스",
+        "en": "송언석 “대장동 재판 재개해야…민주당, 손바닥으로 하늘 가려” - KBS 뉴스",
+        "zh": "송언석 “대장동 재판 재개해야…민주당, 손바닥으로 하늘 가려” - KBS 뉴스"
       }
     },
     {
-      "title": "울진 '워케이션' 거점 확대.. 동해선 '체류형 관광' 시동",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260419183543Rkl",
-      "source": "Breaking News",
-      "pubDate": "Sun, 19 Apr 2026 18:36:20 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260419/MYH20260419183543Rkl.jpg",
+      "title": "서울 4월 역대 세번째로 더웠다...내일 봄비 내리며 ‘초여름 더위’ 해소 - 조선일보",
+      "link": "https://www.chosun.com/national/transport-environment/2026/04/19/RS5BEC3DZNB25LTZZCVB6V7PB4/",
+      "source": "조선일보",
+      "pubDate": "Sun, 19 Apr 2026 09:45:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/HBSWIYZYGBQTMMBRMYYWGNZVHE.jpg?auth=5ef9152bcb18538e490b650d753f9f3757ebbf41579673eb8fc09dbe1b27a2d2&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "울진 '워케이션' 거점 확대.. 동해선 '체류형 관광' 시동",
-        "en": "울진 '워케이션' 거점 확대.. 동해선 '체류형 관광' 시동",
-        "zh": "울진 '워케이션' 거점 확대.. 동해선 '체류형 관광' 시동"
+        "ko": "서울 4월 역대 세번째로 더웠다...내일 봄비 내리며 ‘초여름 더위’ 해소 - 조선일보",
+        "en": "서울 4월 역대 세번째로 더웠다...내일 봄비 내리며 ‘초여름 더위’ 해소 - 조선일보",
+        "zh": "서울 4월 역대 세번째로 더웠다...내일 봄비 내리며 ‘초여름 더위’ 해소 - 조선일보"
       }
     }
   ]
