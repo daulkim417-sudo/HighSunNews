@@ -1,112 +1,64 @@
 {
-  "lastUpdate": "2026-04-21T10:27:04.033064",
+  "lastUpdate": "2026-04-21T11:37:03.815122",
   "items": [
     {
-      "title": "“앞에 서있는 사람들을 보고도 트럭이 그냥 달렸다” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/yeongnam/1255213.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 21 Apr 2026 09:11:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0421/20260421503859.webp",
-      "summaries": {
-        "ko": "경남 진주에서 CU 편의점 화물노동자들이 원청과의 교섭을 요구하며 시위하던 중 BGF로지스 소속 트럭이 시위대를 덮쳐 1명이 숨지고 2명이 다쳤으며, 경찰은 운전기사에 대해 살인죄 적용 여부까지 검토하며 수사하고 있다.",
-        "en": "A CU convenience store cargo worker was killed and two others injured when a truck, reportedly mobilized by BGF Logistics, drove into striking workers during a protest demanding negotiations with the original contractor in Jinju, South Gyeongsang Province, leading police to investigate the driver for potential charges including murder.",
-        "zh": "在韩国庆尚南道晋州，CU便利店货运工人举行抗议活动，要求与总包方进行谈判时，一辆据称由BGF物流公司调动的卡车冲入示威人群，造成一人死亡、两人受伤，警方正在调查司机，考虑包括谋杀罪在内的指控。"
-      }
-    },
-    {
-      "title": "청와대, 미 대북 정보 공유 중단 논란 지속 “사태 파악 중” - 경향신문",
+      "title": "“한·미 정보 공유 문제없다”는데 ‘미국과 헤어질 결심’ 몰아가는 야당···청 “사태 파악 중” - 경향신문",
       "link": "https://www.khan.co.kr/article/202604211702001",
       "source": "경향신문",
       "pubDate": "Tue, 21 Apr 2026 08:02:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/04/21/news-p.v1.20260421.31207375ce1447e2a3aea243a2a7294e_P1.jpg",
       "summaries": {
-        "ko": "남한 통일부 장관이 미국 대북 핵시설 정보를 공개하여 미국이 정보 공유를 일부 중단했다는 논란이 계속되자 청와대가 사태 파악에 나섰으며, 이로 인해 정치적 공방이 심화되고 있다.",
-        "en": "The presidential office is investigating an ongoing controversy where South Korea's Unification Minister disclosed U.S. intelligence on North Korean nuclear facilities, reportedly leading to a partial suspension of U.S. information sharing and intensifying political debate.",
-        "zh": "韩国统一部长官公开美国对朝核设施情报，导致美国部分中断情报共享的争议持续发酵，青瓦台已着手调查，并引发了激烈的政治攻防。"
+        "ko": "한·미 정보 공유에는 문제가 없다는 정부와 여당의 입장에도 불구하고, 전 통일부 장관의 북한 핵시설 언급을 둘러싸고 야당이 미국 정보 유출과 동맹 위기를 주장하며 강하게 공세를 펼치는 정치적 공방이 격화되고 있다.",
+        "en": "A political dispute is intensifying in South Korea over a former minister's mention of North Korean nuclear sites, with the opposition accusing him of leaking US intelligence and jeopardizing the alliance, while the government and ruling party deny any leaks or issues with US intelligence sharing and dismiss the claims as political attacks.",
+        "zh": "韩国就一名前部长提及朝鲜核设施引发的政治争议正在加剧，反对党指责其泄露美国情报并危及韩美同盟，而政府和执政党则否认存在任何泄密或美韩情报共享问题，并驳斥这些说法是政治攻击。"
       }
     },
     {
-      "title": "“미국 하루 더 있자”는 장동혁…국힘 방미단, 말리다가 떠났다 - 한겨레",
+      "title": "‘CU 집회’ 참석자 “트럭, 사람들 보고도 10여m 그냥 달려” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/yeongnam/1255213.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 21 Apr 2026 11:12:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0421/20260421503859.webp",
+      "summaries": {
+        "ko": "지난 20일 진주 CU 물류 자회사인 BGF로지스와의 교섭을 요구하며 시위하던 CU 화물연대 조합원 1명이 2.5톤 트럭에 치여 사망하고 2명이 다쳤으며, 목격자는 트럭 기사가 고의로 집회 참가자들을 밀쳤다고 주장했다.",
+        "en": "A CU cargo union member was killed and two others injured on October 20th when hit by a 2.5-ton truck, which a witness claims intentionally ran into protesters demanding negotiations with CU's logistics subsidiary, BGF Logis, in Jinju.",
+        "zh": "10月20日，在晋州，一名CU货运工会成员在要求与CU物流子公司BGF Logis谈判的抗议活动中被一辆2.5吨卡车撞倒，造成一人死亡，两人受伤，目击者称卡车司机故意冲撞示威者。"
+      }
+    },
+    {
+      "title": "“미국에 더 있자” 장동혁 말에…국힘 방미단 내 갈등 있었다 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1255227.html",
       "source": "한겨레",
       "pubDate": "Tue, 21 Apr 2026 09:02:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/600/801/imgdb/original/2026/0421/20260421503968.webp",
       "summaries": {
-        "ko": "국민의힘 장동혁 대표의 방미 일정을 두고 내부 갈등이 불거졌는데, 장 대표가 추가 연장을 제안해 다른 의원들의 반대에도 불구하고 김민수 최고위원과 함께 일정을 연장하면서 불통 논란과 사진 유출 공방이 벌어졌다.",
-        "en": "Internal conflict arose within the People Power Party's US delegation over Representative Jang Dong-hyuk's proposed extension of their visit, as he and Supreme Council member Kim Min-soo ultimately extended their stay despite other members' objections, leading to communication issues and a photo leak dispute.",
-        "zh": "围绕国民力量党代表张东赫的访美行程，内部出现矛盾，张代表提议进一步延长访问，尽管遭到其他议员反对，最终他与金民秀最高委员延长了行程，引发了沟通不畅和照片泄露的争议。"
+        "ko": "“미국에 더 있자” 장동혁 말에…국힘 방미단 내 갈등 있었다 - 한겨레",
+        "en": "“미국에 더 있자” 장동혁 말에…국힘 방미단 내 갈등 있었다 - 한겨레",
+        "zh": "“미국에 더 있자” 장동혁 말에…국힘 방미단 내 갈등 있었다 - 한겨레"
       }
     },
     {
-      "title": "경찰, 방시혁 하이브 의장 구속영장 신청... \"기업상장 관련 투자자 속여\" - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/04/21/ZT4ADAWEDFFQBC5HGKE3IZTDO4/",
+      "title": "오세훈 \"장특공, 시민 재산 날아가는데...정원오는 묵묵부답\" - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/04/21/VZFGP4E535BMLHWG5GL6UWKMH4/",
       "source": "조선일보",
-      "pubDate": "Tue, 21 Apr 2026 06:59:31 GMT",
-      "image": "https://www.chosun.com/resizer/v2/G44WEZBQMRSTINJRMZQWKMDGME.jpg?auth=79bbcf97d02f231a96618e7017d87b16245ad6f810d8ba6cbf282ea0afb4ea2d&width=600&height=315&focal=348,33",
+      "pubDate": "Tue, 21 Apr 2026 07:30:49 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MNQTMY3FG5RDEYLEHA3DOZDEGA.jpg?auth=6f00ab8182f1fb3be447f21456ea14702fef5f68202fb7f4ccc204e96a211f62&width=560&height=294&smart=true",
       "summaries": {
-        "ko": "경찰, 방시혁 하이브 의장 구속영장 신청... \"기업상장 관련 투자자 속여\" - 조선일보",
-        "en": "경찰, 방시혁 하이브 의장 구속영장 신청... \"기업상장 관련 투자자 속여\" - 조선일보",
-        "zh": "경찰, 방시혁 하이브 의장 구속영장 신청... \"기업상장 관련 투자자 속여\" - 조선일보"
-      }
-    },
-    {
-      "title": "장특공 논란에…오세훈 “침묵말라” vs 정원오 “실거주 1주택 보호” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260421/133784509/2",
-      "source": "동아일보",
-      "pubDate": "Tue, 21 Apr 2026 09:06:52 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/21/133784510.2.jpg",
-      "summaries": {
-        "ko": "장특공 논란에…오세훈 “침묵말라” vs 정원오 “실거주 1주택 보호” - 동아일보",
-        "en": "장특공 논란에…오세훈 “침묵말라” vs 정원오 “실거주 1주택 보호” - 동아일보",
-        "zh": "장특공 논란에…오세훈 “침묵말라” vs 정원오 “실거주 1주택 보호” - 동아일보"
-      }
-    },
-    {
-      "title": "“1년간 8명 죽었다···‘최악의 살인기업’으로 선정되었기에 이 증서를 수여합니다” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604211453001",
-      "source": "경향신문",
-      "pubDate": "Tue, 21 Apr 2026 05:53:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/21/news-p.v1.20251107.fcba102596be4d37900677a844250543_P1.jpeg",
-      "summaries": {
-        "ko": "노동계는 8명의 하청 노동자 산재 사망자를 낸 HJ중공업을 ‘최악의 살인기업’으로 선정하며 다단계 하청 구조와 기업의 이윤 추구를 비판했고, 시민들은 SPC와 쿠팡을 최악의 기업으로 꼽았다.",
-        "en": "Labor groups named HJ Heavy Industries the 'Worst Killer Corporation' for 8 industrial accident deaths, all among subcontractors, criticizing the deadly multi-layered subcontracting structure and corporate pursuit of profit, while citizens selected SPC and Coupang as the worst companies.",
-        "zh": "劳工团体将造成8名分包商工人工业事故死亡的HJ重工评选为‘最恶劣杀人企业’，批判其多层分包结构和企业利润追求，而市民则票选SPC和酷澎为最差企业。"
+        "ko": "오세훈 \"장특공, 시민 재산 날아가는데...정원오는 묵묵부답\" - 조선일보",
+        "en": "오세훈 \"장특공, 시민 재산 날아가는데...정원오는 묵묵부답\" - 조선일보",
+        "zh": "오세훈 \"장특공, 시민 재산 날아가는데...정원오는 묵묵부답\" - 조선일보"
       }
     },
     {
       "title": "민주당 또 ‘돈봉투’ 의혹...“임실군수 결선 중 의혹 철저히 조사\" - 조선일보",
       "link": "https://www.chosun.com/politics/assembly/2026/04/21/26HDZLHXY5CZLCSGIZ6GQTFQDY/",
       "source": "조선일보",
-      "pubDate": "Tue, 21 Apr 2026 08:04:00 GMT",
+      "pubDate": "Tue, 21 Apr 2026 08:08:13 GMT",
       "image": "https://www.chosun.com/resizer/v2/2D5EZUGB7JK6LFZFLZQKIU64W4.jpg?auth=c90bb74d638ce5d1a39fbb6f86f39b2af1b797cb2e589eb09b2ed784993d05fa&width=1200&height=630&smart=true",
       "summaries": {
         "ko": "민주당 또 ‘돈봉투’ 의혹...“임실군수 결선 중 의혹 철저히 조사\" - 조선일보",
         "en": "민주당 또 ‘돈봉투’ 의혹...“임실군수 결선 중 의혹 철저히 조사\" - 조선일보",
         "zh": "민주당 또 ‘돈봉투’ 의혹...“임실군수 결선 중 의혹 철저히 조사\" - 조선일보"
-      }
-    },
-    {
-      "title": "[속보] 특검, '통일교 1억 수수' 권성동 항소심도 징역 4년 구형 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6816928_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 21 Apr 2026 07:26:20 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/04/21/lyj_260421_16.jpg",
-      "summaries": {
-        "ko": "특검팀이 통일교로부터 1억 원의 불법 정치자금을 받은 혐의로 1심에서 실형을 선고받은 권성동 의원의 항소심에서도 징역 4년과 추징금 1억 원을 구형하며, 반성 없는 태도와 증거인멸 시도 등을 비판했습니다.",
-        "en": "In the appellate trial for Rep. Kwon Seong-dong, who was sentenced to prison in the first trial for receiving 100 million won in illegal political funds from the Unification Church, the special prosecution again requested a four-year prison sentence and a 100 million won fine, criticizing his lack of remorse and attempts to destroy evidence.",
-        "zh": "特检组在国民力量党议员权性东因涉嫌从统一教收受1亿韩元非法政治献金并在一审中被判实刑的上诉审中，再次求刑4年有期徒刑并追缴1亿韩元，指责其不反省的态度和试图销毁证据的行为。"
-      }
-    },
-    {
-      "title": "이재용이 플립7 ‘번쩍’, 이 대통령·모디와 찰칵…“인도서 만든 폰” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1255099.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 20 Apr 2026 23:32:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0420/20260420503499.webp",
-      "summaries": {
-        "ko": "이재용 삼성전자 회장이 이재명 대통령, 나렌드라 모디 인도 총리와 인도 노이다 공장에서 생산된 '플립7'으로 기념 셀카를 찍었다.",
-        "en": "Samsung Electronics Chairman Lee Jae-yong took a commemorative selfie with South Korean President Lee Jae-myung and Indian Prime Minister Narendra Modi using a 'Flip7' smartphone produced at Samsung's Noida factory in India.",
-        "zh": "三星电子会长李在镕在印度诺伊达工厂用当地生产的“Flip7”手机与韩国总统李在明和印度总理纳伦德拉·莫迪合影留念。"
       }
     },
     {
@@ -119,6 +71,54 @@
         "ko": "국힘 경기, 장동혁과 거리두기... \"자체 선대위로 엔진 돌리겠다\" - 조선일보",
         "en": "국힘 경기, 장동혁과 거리두기... \"자체 선대위로 엔진 돌리겠다\" - 조선일보",
         "zh": "국힘 경기, 장동혁과 거리두기... \"자체 선대위로 엔진 돌리겠다\" - 조선일보"
+      }
+    },
+    {
+      "title": "두리번거리다 조심스럽게 ‘냠냠’…늑구 생포 뒤 첫 식사 영상 공개 - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/04/21/HUNUIDA2ZJE5NNPJY3WUUXEUAA/",
+      "source": "조선일보",
+      "pubDate": "Tue, 21 Apr 2026 05:45:31 GMT",
+      "image": "https://www.chosun.com/resizer/v2/HNBMIRMQMZAHFLTX2BI2WOHLAU.gif?auth=7de8ed4b4d4e9ccbed9aae13e8d72cfeb1e2c0e6b0ba3e04a40c90e6a4a4dfb9&width=500&height=262&focal=328,104",
+      "summaries": {
+        "ko": "두리번거리다 조심스럽게 ‘냠냠’…늑구 생포 뒤 첫 식사 영상 공개 - 조선일보",
+        "en": "두리번거리다 조심스럽게 ‘냠냠’…늑구 생포 뒤 첫 식사 영상 공개 - 조선일보",
+        "zh": "두리번거리다 조심스럽게 ‘냠냠’…늑구 생포 뒤 첫 식사 영상 공개 - 조선일보"
+      }
+    },
+    {
+      "title": "하루 새 아침 기온 ‘뚝’…전국 황사에 일교차 20도 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1255127.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 20 Apr 2026 23:46:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/528/imgdb/original/2026/0421/20260421500300.webp",
+      "summaries": {
+        "ko": "하루 새 아침 기온 ‘뚝’…전국 황사에 일교차 20도 - 한겨레",
+        "en": "하루 새 아침 기온 ‘뚝’…전국 황사에 일교차 20도 - 한겨레",
+        "zh": "하루 새 아침 기온 ‘뚝’…전국 황사에 일교차 20도 - 한겨레"
+      }
+    },
+    {
+      "title": "이란 협상 다시 출격하는 밴스···시험대 오른 ‘해결사’ 능력 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604211609001",
+      "source": "경향신문",
+      "pubDate": "Tue, 21 Apr 2026 07:09:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/21/rcv.YNA.20260413.PAF20260413141501009_P1.jpg",
+      "summaries": {
+        "ko": "이란 협상 다시 출격하는 밴스···시험대 오른 ‘해결사’ 능력 - 경향신문",
+        "en": "이란 협상 다시 출격하는 밴스···시험대 오른 ‘해결사’ 능력 - 경향신문",
+        "zh": "이란 협상 다시 출격하는 밴스···시험대 오른 ‘해결사’ 능력 - 경향신문"
+      }
+    },
+    {
+      "title": "[이시각헤드라인] 4월 21일 뉴스리뷰",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260421203122ogb",
+      "source": "Breaking News",
+      "pubDate": "Tue, 21 Apr 2026 20:31:48 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260421/MYH20260421203122ogb.jpg",
+      "summaries": {
+        "ko": "[이시각헤드라인] 4월 21일 뉴스리뷰",
+        "en": "[이시각헤드라인] 4월 21일 뉴스리뷰",
+        "zh": "[이시각헤드라인] 4월 21일 뉴스리뷰"
       }
     }
   ]
