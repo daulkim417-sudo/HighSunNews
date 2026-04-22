@@ -1,16 +1,40 @@
 {
-  "lastUpdate": "2026-04-22T22:26:22.068142",
+  "lastUpdate": "2026-04-22T23:10:36.501060",
   "items": [
     {
-      "title": "이란 혁명수비대 “선박 2척 나포”…미·이란 호르무즈 갈등 격화 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1255444.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 22 Apr 2026 17:38:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/924/619/imgdb/original/2026/0422/20260422503337.webp",
+      "title": "백악관 “제안 기한 확정 안 해”…‘3~5일 시한부 휴전’ 보도 부인 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8543388",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 22 Apr 2026 21:09:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza_p1/2026/04/23/20_8543388.jpg",
       "summaries": {
-        "ko": "평화 협상 결렬과 호르무즈 해협 봉쇄를 둘러싼 긴장 고조 속에 이란 혁명수비대가 선박 두 척을 공격하며 미국과의 갈등이 더욱 격화되고 있습니다.",
-        "en": "Following the failure of peace talks and rising tensions over the Strait of Hormuz blockade, Iran's Revolutionary Guard attacked two ships, further escalating the conflict with the US.",
-        "zh": "在和平谈判破裂以及霍尔木兹海峡封锁的紧张局势加剧之际，伊朗革命卫队袭击了两艘船只，进一步加剧了与美国的冲突。"
+        "ko": "백악관은 미국과 이란의 2차 협상 무산에도 불구하고 이란의 통일된 제안에 대한 기한을 설정하지 않았으며, '3~5일 시한부 휴전' 보도를 부인하며 대화에 서두르지 않겠다고 밝혔다.",
+        "en": "The White House denied reports of a \"3-5 day temporary truce\" and stated that President Trump has not set a deadline for Iran's unified proposal, emphasizing that the U.S. will not rush dialogue despite the failed second round of talks.",
+        "zh": "白宫否认了“3-5日临时休战”的报道，并表示美国总统特朗普并未设定伊朗提交统一提议的截止日期，强调尽管第二次谈判失败，美国也不会急于进行对话。"
+      }
+    },
+    {
+      "title": "주한미군사령관 “전작권 전환 조건 29년 1분기까지 달성” - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8543397",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 22 Apr 2026 21:24:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza_p1/2026/04/23/110_8543397.jpg",
+      "summaries": {
+        "ko": "주한미군사령관 “전작권 전환 조건 29년 1분기까지 달성” - KBS 뉴스",
+        "en": "주한미군사령관 “전작권 전환 조건 29년 1분기까지 달성” - KBS 뉴스",
+        "zh": "주한미군사령관 “전작권 전환 조건 29년 1분기까지 달성” - KBS 뉴스"
+      }
+    },
+    {
+      "title": "이란, 호르무즈 해협에서 선박 첫 나포…미국도 이란 선박 나포 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604230720001",
+      "source": "경향신문",
+      "pubDate": "Wed, 22 Apr 2026 22:20:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/23/news-p.v1.20260423.83a3ff9ef96f4d96a38f893851673489_P1.jpg",
+      "summaries": {
+        "ko": "이란, 호르무즈 해협에서 선박 첫 나포…미국도 이란 선박 나포 - 경향신문",
+        "en": "이란, 호르무즈 해협에서 선박 첫 나포…미국도 이란 선박 나포 - 경향신문",
+        "zh": "이란, 호르무즈 해협에서 선박 첫 나포…미국도 이란 선박 나포 - 경향신문"
       }
     },
     {
@@ -23,18 +47,6 @@
         "ko": "鄭, 격전지 영남 5곳 모두 훑어… ‘열흘 방미’ 張, 서울외 3곳만 찾아 - 동아일보",
         "en": "鄭, 격전지 영남 5곳 모두 훑어… ‘열흘 방미’ 張, 서울외 3곳만 찾아 - 동아일보",
         "zh": "鄭, 격전지 영남 5곳 모두 훑어… ‘열흘 방미’ 張, 서울외 3곳만 찾아 - 동아일보"
-      }
-    },
-    {
-      "title": "이란 “협상 중 공격, 관례 된다면” 반발…‘항만 봉쇄 해제’ 원해 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1255297.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 22 Apr 2026 05:30:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0419/20260419500256.webp",
-      "summaries": {
-        "ko": "이란 “협상 중 공격, 관례 된다면” 반발…‘항만 봉쇄 해제’ 원해 - 한겨레",
-        "en": "이란 “협상 중 공격, 관례 된다면” 반발…‘항만 봉쇄 해제’ 원해 - 한겨레",
-        "zh": "이란 “협상 중 공격, 관례 된다면” 반발…‘항만 봉쇄 해제’ 원해 - 한겨레"
       }
     },
     {
@@ -62,18 +74,6 @@
       }
     },
     {
-      "title": "중부 내륙 일교차 15도 안팎···남해안·제주 등 흐리고 비 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604230713001",
-      "source": "경향신문",
-      "pubDate": "Wed, 22 Apr 2026 22:13:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/23/rcv.YNA.20260422.PYH2026042213120006100_P1.jpg",
-      "summaries": {
-        "ko": "중부 내륙 일교차 15도 안팎···남해안·제주 등 흐리고 비 - 경향신문",
-        "en": "중부 내륙 일교차 15도 안팎···남해안·제주 등 흐리고 비 - 경향신문",
-        "zh": "중부 내륙 일교차 15도 안팎···남해안·제주 등 흐리고 비 - 경향신문"
-      }
-    },
-    {
       "title": "[데스크에서] 정동영 장관의 적반하장 - 조선일보",
       "link": "https://www.chosun.com/opinion/2026/04/22/I3IRIYIW6FG3LOYPXCKLCZ6WNY/",
       "source": "조선일보",
@@ -83,6 +83,18 @@
         "ko": "[데스크에서] 정동영 장관의 적반하장 - 조선일보",
         "en": "[데스크에서] 정동영 장관의 적반하장 - 조선일보",
         "zh": "[데스크에서] 정동영 장관의 적반하장 - 조선일보"
+      }
+    },
+    {
+      "title": "중부 내륙 일교차 15도 안팎···남해안·제주 등 흐리고 비 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604230713001",
+      "source": "경향신문",
+      "pubDate": "Wed, 22 Apr 2026 22:13:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/23/rcv.YNA.20260422.PYH2026042213120006100_P1.jpg",
+      "summaries": {
+        "ko": "중부 내륙 일교차 15도 안팎···남해안·제주 등 흐리고 비 - 경향신문",
+        "en": "중부 내륙 일교차 15도 안팎···남해안·제주 등 흐리고 비 - 경향신문",
+        "zh": "중부 내륙 일교차 15도 안팎···남해안·제주 등 흐리고 비 - 경향신문"
       }
     },
     {
@@ -110,15 +122,27 @@
       }
     },
     {
-      "title": "‘아리셀 참사’ 항소심서 징역 15→4년…“23명 죽었는데 말이 되냐” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/capital/1255382.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 22 Apr 2026 12:20:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/658/432/imgdb/original/2026/0422/20260422502793.webp",
+      "title": "[속보] 1분기 GDP 1.7% 성장…시장 전망치 상회",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260423080449cB3",
+      "source": "Breaking News",
+      "pubDate": "Thu, 23 Apr 2026 08:05:07 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260422/MYH20260423080449cB3.jpg",
       "summaries": {
-        "ko": "‘아리셀 참사’ 항소심서 징역 15→4년…“23명 죽었는데 말이 되냐” - 한겨레",
-        "en": "‘아리셀 참사’ 항소심서 징역 15→4년…“23명 죽었는데 말이 되냐” - 한겨레",
-        "zh": "‘아리셀 참사’ 항소심서 징역 15→4년…“23명 죽었는데 말이 되냐” - 한겨레"
+        "ko": "[속보] 1분기 GDP 1.7% 성장…시장 전망치 상회",
+        "en": "[속보] 1분기 GDP 1.7% 성장…시장 전망치 상회",
+        "zh": "[속보] 1분기 GDP 1.7% 성장…시장 전망치 상회"
+      }
+    },
+    {
+      "title": "[속보] SK하이닉스 1분기 영업익 37.6조…사상 최대",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260423074857y92",
+      "source": "Breaking News",
+      "pubDate": "Thu, 23 Apr 2026 07:49:12 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260422/MYH20260423074857y92.jpg",
+      "summaries": {
+        "ko": "[속보] SK하이닉스 1분기 영업익 37.6조…사상 최대",
+        "en": "[속보] SK하이닉스 1분기 영업익 37.6조…사상 최대",
+        "zh": "[속보] SK하이닉스 1분기 영업익 37.6조…사상 최대"
       }
     }
   ]
