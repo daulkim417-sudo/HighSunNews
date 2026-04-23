@@ -1,16 +1,16 @@
 {
-  "lastUpdate": "2026-04-23T06:27:53.187324",
+  "lastUpdate": "2026-04-23T08:17:15.038122",
   "items": [
     {
-      "title": "이란, 유조선 이어 ‘인터넷 동맥’도 공격? 호르무즈 해저 케이블 경고 - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/04/23/RBWBAB67BFGLHLVFORD7GAJCL4/",
+      "title": "복면쓴 이란군, 총기 들고 사다리 올라… 호르무즈 선박 나포 영상 공개 - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/04/23/KIKAO4X27FGBXOH5ILWQMMW2WA/",
       "source": "조선일보",
-      "pubDate": "Thu, 23 Apr 2026 03:54:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/KXDCHIYBOVE6DFPR3LOK3INFNM.jpg?auth=6f83e656d7354ec2a1619e8f6cd7fc9a88f6488978c4d77e966c1cf4bd367193&width=800&height=420&focal=406,245",
+      "pubDate": "Thu, 23 Apr 2026 04:54:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/H6YJGSYDVZELJIWYCT2RPO2I2E.gif?auth=aa07e7562026586b26194b8641febadad6a0c7971883b451c676db0557362d06&width=480&height=252&smart=true",
       "summaries": {
-        "ko": "이란, 유조선 이어 ‘인터넷 동맥’도 공격? 호르무즈 해저 케이블 경고 - 조선일보",
-        "en": "이란, 유조선 이어 ‘인터넷 동맥’도 공격? 호르무즈 해저 케이블 경고 - 조선일보",
-        "zh": "이란, 유조선 이어 ‘인터넷 동맥’도 공격? 호르무즈 해저 케이블 경고 - 조선일보"
+        "ko": "복면쓴 이란군, 총기 들고 사다리 올라… 호르무즈 선박 나포 영상 공개 - 조선일보",
+        "en": "복면쓴 이란군, 총기 들고 사다리 올라… 호르무즈 선박 나포 영상 공개 - 조선일보",
+        "zh": "복면쓴 이란군, 총기 들고 사다리 올라… 호르무즈 선박 나포 영상 공개 - 조선일보"
       }
     },
     {
@@ -20,9 +20,21 @@
       "pubDate": "Thu, 23 Apr 2026 01:04:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/906/604/imgdb/original/2026/0422/20260422503572.webp",
       "summaries": {
-        "ko": "미국과 이란은 일시적 휴전 연장에도 불구하고, 이란의 내부 분열과 미국 제안에 대한 응답 부재, 그리고 미국의 해상 봉쇄 해제 거부 및 최근 선박 나포 사건으로 인해 협상 진전이 어렵게 되었다.",
-        "en": "Despite a temporary truce extension, US-Iran negotiations remain stalled due to Iran's internal divisions, its failure to respond to US proposals, and the US's refusal to lift the naval blockade, further complicated by a recent US seizure of an Iranian-linked tanker.",
-        "zh": "尽管临时停火得以延长，但由于伊朗内部存在分歧、未能回应美国提议，加上美国拒绝解除海上封锁并近期扣押了一艘与伊朗相关的油轮，美伊谈判仍陷入僵局。"
+        "ko": "트럼프 미국 대통령이 이란과의 충돌을 피하고자 휴전을 연장했지만, 이란의 내부 분열과 미국의 해상 봉쇄 해제 거부로 2차 종전 협상 재개가 불확실하며, 미국은 이란이 입장을 정리할 시간을 주면서 압박을 유지할 방침이다.",
+        "en": "Though US President Trump extended the truce to avert immediate conflict with Iran, second-round peace talks are uncertain due to Iran's internal divisions and the US's refusal to lift its maritime blockade, as the US intends to maintain pressure while giving Iran time to consolidate its position.",
+        "zh": "美国总统特朗普为避免与伊朗立即冲突宣布延长停火，但由于伊朗内部存在分歧以及美国拒绝解除海上封锁，第二轮和谈的重启前景不明朗，美国计划在给予伊朗时间整理立场的同时继续施压。"
+      }
+    },
+    {
+      "title": "[점선면]이익 813% 늘었는데 운임 고작 0.6% 인상···화물기사 죽음, 누구 책임인가 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604230700001",
+      "source": "경향신문",
+      "pubDate": "Wed, 22 Apr 2026 22:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/23/news-p.v1.20260422.18de3ed34b34467babc6ec41918ea481_P1.jpeg",
+      "summaries": {
+        "ko": "편의점 CU 화물기사가 대체차량을 막아서다 사망했는데, 이는 물류 자회사 이익이 813% 급증하는 동안 운임은 고작 0.6%만 인상된 열악한 처우에 항의하던 중 발생했다.",
+        "en": "A CU convenience store cargo driver died while blocking a replacement vehicle during a protest, a tragedy stemming from dire working conditions where logistics subsidiary profits surged 813% while driver fees increased by only 0.6%.",
+        "zh": "一名CU便利店货运司机在抗议中阻拦替代车辆时身亡，这场悲剧源于物流子公司利润激增813%而司机运费仅上涨0.6%的恶劣工作条件。"
       }
     },
     {
@@ -32,57 +44,45 @@
       "pubDate": "Thu, 23 Apr 2026 03:27:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0423/53_17769125612916_8617769125359203.webp",
       "summaries": {
-        "ko": "배현진 “장동혁, 차라리 미국 가라…대표 오지 말란 게 해당 행위냐” - 한겨레",
-        "en": "배현진 “장동혁, 차라리 미국 가라…대표 오지 말란 게 해당 행위냐” - 한겨레",
-        "zh": "배현진 “장동혁, 차라리 미국 가라…대표 오지 말란 게 해당 행위냐” - 한겨레"
+        "ko": "국민의힘 배현진 의원이 장동혁 대표가 '해당 행위를 한 후보자는 즉시 교체하겠다'고 발언한 것을 비판하며, 장 대표의 낮은 인기로 인해 '오지 말라'는 것은 오히려 애당 행위이며 차라리 미국에 가라고 촉구했다.",
+        "en": "People Power Party lawmaker Bae Hyun-jin criticized Representative Jang Dong-hyuk's statement about \"immediately replacing candidates for anti-party activities,\" arguing that telling Jang not to visit due to his low popularity is actually a pro-party act and even urged him to \"go to the U.S.\"",
+        "zh": "国民力量党议员裴贤镇批评党代表张东赫关于“立即撤换从事不当行为的候选人”的言论，称由于张代表支持率低而告诉他不要来，反而是一种爱党行为，并建议他“干脆去美国”。"
       }
     },
     {
-      "title": "[속보]‘충격의 15%’ 국민의힘 지지율 창당 이래 최저치···이 대통령은 69% 직전과 동일[NBS] - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604231116001",
-      "source": "경향신문",
-      "pubDate": "Thu, 23 Apr 2026 02:16:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/23/rcv.YNA.20260423.PYH2026042219790001300_P1.jpg",
+      "title": "이 대통령 지지율, 69%로 3회 연속 최고치‥국민의힘 15%로 역대 최저 [NBS] - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6817446_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Thu, 23 Apr 2026 04:32:32 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/04/23/ggm_20260423_24.jpg",
       "summaries": {
-        "ko": "[속보]‘충격의 15%’ 국민의힘 지지율 창당 이래 최저치···이 대통령은 69% 직전과 동일[NBS] - 경향신문",
-        "en": "[속보]‘충격의 15%’ 국민의힘 지지율 창당 이래 최저치···이 대통령은 69% 직전과 동일[NBS] - 경향신문",
-        "zh": "[속보]‘충격의 15%’ 국민의힘 지지율 창당 이래 최저치···이 대통령은 69% 직전과 동일[NBS] - 경향신문"
+        "ko": "이재명 대통령의 국정운영 긍정 평가가 69%로 3회 연속 최고치를 기록한 반면, 국민의힘 지지율은 15%로 역대 최저치를 경신했습니다.",
+        "en": "President Lee Jae-myung's approval rating for state affairs reached a consecutive high of 69%, while the People Power Party's support plunged to an all-time low of 15%.",
+        "zh": "李在明总统的国政运营积极评价率连续三次创下69%的最高纪录，而国民力量党的支持率则跌至15%，刷新了历史最低点。"
       }
     },
     {
-      "title": "김용, 민주 지도부도 ‘공천’ 부정적인데 “김영진·조승래 둘만 반대” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1255496.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 23 Apr 2026 02:02:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/600/410/imgdb/child/2026/0423/17769061624129_20260408503112.webp",
+      "title": "탐나는전 새 카드로 고유가지원금 신청하면 ‘총 3500만원’ 혜택 - 제주의소리",
+      "link": "https://www.jejusori.net/news/articleView.html?idxno=502038",
+      "source": "제주의소리",
+      "pubDate": "Thu, 23 Apr 2026 01:57:05 GMT",
+      "image": "https://cdn.jejusori.net/news/photo/202604/502038_503135_5327.jpg",
       "summaries": {
-        "ko": "김용, 민주 지도부도 ‘공천’ 부정적인데 “김영진·조승래 둘만 반대” - 한겨레",
-        "en": "김용, 민주 지도부도 ‘공천’ 부정적인데 “김영진·조승래 둘만 반대” - 한겨레",
-        "zh": "김용, 민주 지도부도 ‘공천’ 부정적인데 “김영진·조승래 둘만 반대” - 한겨레"
+        "ko": "탐나는전 새 카드로 고유가지원금 신청하면 ‘총 3500만원’ 혜택 - 제주의소리",
+        "en": "탐나는전 새 카드로 고유가지원금 신청하면 ‘총 3500만원’ 혜택 - 제주의소리",
+        "zh": "탐나는전 새 카드로 고유가지원금 신청하면 ‘총 3500만원’ 혜택 - 제주의소리"
       }
     },
     {
-      "title": "국힘 지도부, 서울시당이 추천한 중구청장 후보 ‘반려’ - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260423/133796906/1",
-      "source": "동아일보",
-      "pubDate": "Thu, 23 Apr 2026 01:27:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/23/133797010.1.jpg",
+      "title": "李대통령, 베트남 축구전설 박항서·김상식 감독과 ‘찰칵’ - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/04/23/VKYYAAHZLVFTXDB45O4BUAB3BU/",
+      "source": "조선일보",
+      "pubDate": "Wed, 22 Apr 2026 16:42:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/T4DVBX7MAZCPJKGRTFAAS7J5S4.jpg?auth=5fc7aa6fb796fbaaab63fa7068ca2f00f3ef2cc86ee1076389bbdccf45a7e173&width=1089&height=571&smart=true",
       "summaries": {
-        "ko": "국힘 지도부, 서울시당이 추천한 중구청장 후보 ‘반려’ - 동아일보",
-        "en": "국힘 지도부, 서울시당이 추천한 중구청장 후보 ‘반려’ - 동아일보",
-        "zh": "국힘 지도부, 서울시당이 추천한 중구청장 후보 ‘반려’ - 동아일보"
-      }
-    },
-    {
-      "title": "정동영 “‘구성 발언’ 문제 일으킨 쪽 의도 있어…미국 또는 내부일 수도” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1255516.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 23 Apr 2026 05:04:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0423/20260423501557.webp",
-      "summaries": {
-        "ko": "정동영 “‘구성 발언’ 문제 일으킨 쪽 의도 있어…미국 또는 내부일 수도” - 한겨레",
-        "en": "정동영 “‘구성 발언’ 문제 일으킨 쪽 의도 있어…미국 또는 내부일 수도” - 한겨레",
-        "zh": "정동영 “‘구성 발언’ 문제 일으킨 쪽 의도 있어…미국 또는 내부일 수도” - 한겨레"
+        "ko": "李대통령, 베트남 축구전설 박항서·김상식 감독과 ‘찰칵’ - 조선일보",
+        "en": "李대통령, 베트남 축구전설 박항서·김상식 감독과 ‘찰칵’ - 조선일보",
+        "zh": "李대통령, 베트남 축구전설 박항서·김상식 감독과 ‘찰칵’ - 조선일보"
       }
     },
     {
@@ -98,27 +98,27 @@
       }
     },
     {
-      "title": "'케데헌' 매기 강 감독, 안효섭과 한솥밥…한국 활동 본격화",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260423150540Dbk",
-      "source": "Breaking News",
-      "pubDate": "Thu, 23 Apr 2026 15:05:41 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260423/AKR20260423150540Dbk_01_i.jpg",
+      "title": "[속보] 생후 4개월 영아 학대 살해한 친모에 1심 '무기징역' - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6817474_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Thu, 23 Apr 2026 05:37:56 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/04/23/joo260423_6_1.jpg",
       "summaries": {
-        "ko": "'케데헌' 매기 강 감독, 안효섭과 한솥밥…한국 활동 본격화",
-        "en": "'케데헌' 매기 강 감독, 안효섭과 한솥밥…한국 활동 본격화",
-        "zh": "'케데헌' 매기 강 감독, 안효섭과 한솥밥…한국 활동 본격화"
+        "ko": "[속보] 생후 4개월 영아 학대 살해한 친모에 1심 '무기징역' - MBC 뉴스",
+        "en": "[속보] 생후 4개월 영아 학대 살해한 친모에 1심 '무기징역' - MBC 뉴스",
+        "zh": "[속보] 생후 4개월 영아 학대 살해한 친모에 1심 '무기징역' - MBC 뉴스"
       }
     },
     {
-      "title": "송언석 \"정동영 해임 건의안 당론 추진…즉각 경질해야\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260423150441g4q",
+      "title": "“왜 바닥에 먹이를 줘? 흙 묻게\", \"축사보다 더 비참함\"…극성 늑구팬들 때문에 이제 늑구 못 봅니다 [씬속뉴스]",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH2026042317140630j",
       "source": "Breaking News",
-      "pubDate": "Thu, 23 Apr 2026 15:04:44 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260423/AKR20260423150441g4q_01_i.jpg",
+      "pubDate": "Thu, 23 Apr 2026 17:14:35 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260423/MYH2026042317140630j.jpg",
       "summaries": {
-        "ko": "송언석 \"정동영 해임 건의안 당론 추진…즉각 경질해야\"",
-        "en": "송언석 \"정동영 해임 건의안 당론 추진…즉각 경질해야\"",
-        "zh": "송언석 \"정동영 해임 건의안 당론 추진…즉각 경질해야\""
+        "ko": "“왜 바닥에 먹이를 줘? 흙 묻게\", \"축사보다 더 비참함\"…극성 늑구팬들 때문에 이제 늑구 못 봅니다 [씬속뉴스]",
+        "en": "“왜 바닥에 먹이를 줘? 흙 묻게\", \"축사보다 더 비참함\"…극성 늑구팬들 때문에 이제 늑구 못 봅니다 [씬속뉴스]",
+        "zh": "“왜 바닥에 먹이를 줘? 흙 묻게\", \"축사보다 더 비참함\"…극성 늑구팬들 때문에 이제 늑구 못 봅니다 [씬속뉴스]"
       }
     }
   ]
