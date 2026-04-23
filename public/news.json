@@ -1,30 +1,6 @@
 {
-  "lastUpdate": "2026-04-23T21:31:44.321170",
+  "lastUpdate": "2026-04-23T22:23:38.691885",
   "items": [
-    {
-      "title": "주한미군사령관 ‘전작권 로드맵’, 한국 국방예산 확대 압박 키울 듯 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/defense/1255641.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 23 Apr 2026 12:04:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/604/imgdb/original/2026/0423/20260423503653.webp",
-      "summaries": {
-        "ko": "주한미군사령관이 2029년 1분기 이전까지 전시작전통제권 전환 조건 달성 로드맵을 제출했다고 밝히며, 이는 시기보다 조건 충족을 강조하여 한국의 국방 예산 확대를 압박하는 것으로 해석된다.",
-        "en": "The USFK commander announced the submission of a roadmap for achieving the conditions for the transfer of wartime operational control by Q1 2029, which is interpreted as emphasizing condition fulfillment over timing, thereby pressuring South Korea to increase its defense budget.",
-        "zh": "驻韩美军司令官表示已提交了在2029年第一季度前实现战时作战指挥权移交条件的路线图，这被解读为强调满足条件而非具体时间，从而向韩国施压以增加国防预算。"
-      }
-    },
-    {
-      "title": "‘왕사남’ 김남준, 이 대통령 지역구 ‘계양을’…송영길은 ‘연수갑’ - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604232056005",
-      "source": "경향신문",
-      "pubDate": "Thu, 23 Apr 2026 11:56:00 GMT",
-      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
-      "summaries": {
-        "ko": "더불어민주당이 이재명 대통령의 옛 지역구인 계양을에 김남준 전 청와대 대변인을 전략공천하고, 송영길 전 대표를 연수갑에 배치했다.",
-        "en": "The Democratic Party strategically nominated Kim Nam-jun, former Blue House spokesperson, for Gyeyang-eul, President Lee Jae-myung's former constituency, and assigned former party leader Song Young-gil to Yeonsu-gap.",
-        "zh": "民主党战略性地提名金南俊（前青瓦台发言人）参选李在明总统的原选区桂阳乙，并将前党代表宋永吉安排到延寿甲。"
-      }
-    },
     {
       "title": "트럼프 “호르무즈에 기뢰 설치하는 모든 선박 쏴 죽이라고 명령” - 한겨레",
       "link": "https://www.hani.co.kr/arti/international/america/1255663.html",
@@ -38,15 +14,39 @@
       }
     },
     {
-      "title": "국힘 지지율 15%…2020년 창당 이래 역대 최저치 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260423/133797516/2",
-      "source": "동아일보",
-      "pubDate": "Thu, 23 Apr 2026 02:32:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/23/133797517.2.jpg",
+      "title": "브런슨 주한미군사령관 “2029년 1분기까지 전작권 전환 목표” 하원 보고 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604232040005",
+      "source": "경향신문",
+      "pubDate": "Thu, 23 Apr 2026 11:40:00 GMT",
+      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
       "summaries": {
-        "ko": "국힘 지지율 15%…2020년 창당 이래 역대 최저치 - 동아일보",
-        "en": "국힘 지지율 15%…2020년 창당 이래 역대 최저치 - 동아일보",
-        "zh": "국힘 지지율 15%…2020년 창당 이래 역대 최저치 - 동아일보"
+        "ko": "브런슨 주한미군사령관 “2029년 1분기까지 전작권 전환 목표” 하원 보고 - 경향신문",
+        "en": "브런슨 주한미군사령관 “2029년 1분기까지 전작권 전환 목표” 하원 보고 - 경향신문",
+        "zh": "브런슨 주한미군사령관 “2029년 1분기까지 전작권 전환 목표” 하원 보고 - 경향신문"
+      }
+    },
+    {
+      "title": "쿠팡, 유출사태 후 로비 규모 두 배 늘려…백악관·부통령까지 확대 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604240614001",
+      "source": "경향신문",
+      "pubDate": "Thu, 23 Apr 2026 21:14:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/24/news-p.v1.20260424.63fc626ddece4cb2a41419d78d7c9982_P1.png",
+      "summaries": {
+        "ko": "쿠팡, 유출사태 후 로비 규모 두 배 늘려…백악관·부통령까지 확대 - 경향신문",
+        "en": "쿠팡, 유출사태 후 로비 규모 두 배 늘려…백악관·부통령까지 확대 - 경향신문",
+        "zh": "쿠팡, 유출사태 후 로비 규모 두 배 늘려…백악관·부통령까지 확대 - 경향신문"
+      }
+    },
+    {
+      "title": "계양을 ‘李 측근’ 김남준... 연수갑 송영길 전략공천 - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/04/23/QKX7YL6LQRHUNFH4XBJHRDGPEA/",
+      "source": "조선일보",
+      "pubDate": "Thu, 23 Apr 2026 10:40:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/CHCRCWZM7VDO7LARQLOUAU5DKE.png?auth=200e4a21c9f86920b9a9a644ed2703aec3e4044fcaf4230d110d35275ce8f162&width=1000&height=525&focal=497,236",
+      "summaries": {
+        "ko": "계양을 ‘李 측근’ 김남준... 연수갑 송영길 전략공천 - 조선일보",
+        "en": "계양을 ‘李 측근’ 김남준... 연수갑 송영길 전략공천 - 조선일보",
+        "zh": "계양을 ‘李 측근’ 김남준... 연수갑 송영길 전략공천 - 조선일보"
       }
     },
     {
@@ -74,15 +74,15 @@
       }
     },
     {
-      "title": "‘고유가 피해지원금’ 27일부터 1차 신청 - 조선일보",
-      "link": "https://www.chosun.com/economy/economy_general/2026/04/24/WOKEI5CAJZECPNZ2JODBB6TW3I/",
-      "source": "조선일보",
-      "pubDate": "Thu, 23 Apr 2026 15:34:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/XJ7KOG23AJALFMSCPP2HN27WG4.jpg?auth=d0e926c944e76c0cb7c48a8e5d8126ae2a99f7aa2c71d329b7741bea95f61382&width=1200&height=630&smart=true",
+      "title": "국힘 지지율 15%…2020년 창당 이래 역대 최저치 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260423/133797516/2",
+      "source": "동아일보",
+      "pubDate": "Thu, 23 Apr 2026 02:32:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/23/133797517.2.jpg",
       "summaries": {
-        "ko": "‘고유가 피해지원금’ 27일부터 1차 신청 - 조선일보",
-        "en": "‘고유가 피해지원금’ 27일부터 1차 신청 - 조선일보",
-        "zh": "‘고유가 피해지원금’ 27일부터 1차 신청 - 조선일보"
+        "ko": "국힘 지지율 15%…2020년 창당 이래 역대 최저치 - 동아일보",
+        "en": "국힘 지지율 15%…2020년 창당 이래 역대 최저치 - 동아일보",
+        "zh": "국힘 지지율 15%…2020년 창당 이래 역대 최저치 - 동아일보"
       }
     },
     {
@@ -98,39 +98,51 @@
       }
     },
     {
-      "title": "이 대통령 “베트남 ‘홍강의 기적’ 함께”…원전 등 73건 MOU - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1255661.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 23 Apr 2026 13:27:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0423/20260423503958.webp",
+      "title": "'내 신청일 언제?' 고유가 피해지원금 27일 시작…첫주 요일제 - 서울특별시",
+      "link": "https://mediahub.seoul.go.kr/archives/2017900",
+      "source": "서울특별시",
+      "pubDate": "Thu, 23 Apr 2026 05:20:00 GMT",
+      "image": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/04/qZTccxQOzcOOdGfjqUIViYsqIgYhKUDr.jpg?ver=1.0",
       "summaries": {
-        "ko": "이 대통령 “베트남 ‘홍강의 기적’ 함께”…원전 등 73건 MOU - 한겨레",
-        "en": "이 대통령 “베트남 ‘홍강의 기적’ 함께”…원전 등 73건 MOU - 한겨레",
-        "zh": "이 대통령 “베트남 ‘홍강의 기적’ 함께”…원전 등 73건 MOU - 한겨레"
+        "ko": "'내 신청일 언제?' 고유가 피해지원금 27일 시작…첫주 요일제 - 서울특별시",
+        "en": "'내 신청일 언제?' 고유가 피해지원금 27일 시작…첫주 요일제 - 서울특별시",
+        "zh": "'내 신청일 언제?' 고유가 피해지원금 27일 시작…첫주 요일제 - 서울특별시"
       }
     },
     {
-      "title": "노동부 장관 “CU사태, 노란봉투법 실현되지 않아 발생한 참사” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604231722001",
-      "source": "경향신문",
-      "pubDate": "Thu, 23 Apr 2026 08:22:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/23/rcv.YNA.20260420.PYH2026042022820005200_P1.jpg",
-      "summaries": {
-        "ko": "노동부 장관 “CU사태, 노란봉투법 실현되지 않아 발생한 참사” - 경향신문",
-        "en": "노동부 장관 “CU사태, 노란봉투법 실현되지 않아 발생한 참사” - 경향신문",
-        "zh": "노동부 장관 “CU사태, 노란봉투법 실현되지 않아 발생한 참사” - 경향신문"
-      }
-    },
-    {
-      "title": "[속보] 트럼프 \"이스라엘·레바논 휴전 3주 연장될 것\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202604240627375GX",
+      "title": "[날씨] 오늘 맑고 일교차 커…서울 26도까지 올라",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260424072236zKk",
       "source": "Breaking News",
-      "pubDate": "Fri, 24 Apr 2026 06:27:37 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260423/AKR202604240627375GX_01_i.jpg",
+      "pubDate": "Fri, 24 Apr 2026 07:22:55 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260423/MYH20260424072236zKk.jpg",
       "summaries": {
-        "ko": "[속보] 트럼프 \"이스라엘·레바논 휴전 3주 연장될 것\"",
-        "en": "[속보] 트럼프 \"이스라엘·레바논 휴전 3주 연장될 것\"",
-        "zh": "[속보] 트럼프 \"이스라엘·레바논 휴전 3주 연장될 것\""
+        "ko": "[날씨] 오늘 맑고 일교차 커…서울 26도까지 올라",
+        "en": "[날씨] 오늘 맑고 일교차 커…서울 26도까지 올라",
+        "zh": "[날씨] 오늘 맑고 일교차 커…서울 26도까지 올라"
+      }
+    },
+    {
+      "title": "[속보] 트럼프 \"이스라엘-레바논 휴전 3주 연장될 것\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260424063918oZ5",
+      "source": "Breaking News",
+      "pubDate": "Fri, 24 Apr 2026 06:39:37 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260423/MYH20260424063918oZ5.jpg",
+      "summaries": {
+        "ko": "[속보] 트럼프 \"이스라엘-레바논 휴전 3주 연장될 것\"",
+        "en": "[속보] 트럼프 \"이스라엘-레바논 휴전 3주 연장될 것\"",
+        "zh": "[속보] 트럼프 \"이스라엘-레바논 휴전 3주 연장될 것\""
+      }
+    },
+    {
+      "title": "[속보] 트럼프 \"이란, 헤즈볼라 자금 지원 차단할 것\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260424063855GL7",
+      "source": "Breaking News",
+      "pubDate": "Fri, 24 Apr 2026 06:38:57 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260423/AKR20260424063855GL7_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] 트럼프 \"이란, 헤즈볼라 자금 지원 차단할 것\"",
+        "en": "[속보] 트럼프 \"이란, 헤즈볼라 자금 지원 차단할 것\"",
+        "zh": "[속보] 트럼프 \"이란, 헤즈볼라 자금 지원 차단할 것\""
       }
     }
   ]
