@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-04-23T20:41:56.565532",
+  "lastUpdate": "2026-04-23T21:31:44.321170",
   "items": [
-    {
-      "title": "[속보]트럼프 “기뢰 설치하는 모든 선박 격침 명령···이란 2차 협상 응할 때까지 호르무즈 철통 봉쇄할 것” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604232159001",
-      "source": "경향신문",
-      "pubDate": "Thu, 23 Apr 2026 12:59:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/23/rcv.YNA.20260423.PAP20260423211101009_P1.jpg",
-      "summaries": {
-        "ko": "[속보]트럼프 “기뢰 설치하는 모든 선박 격침 명령···이란 2차 협상 응할 때까지 호르무즈 철통 봉쇄할 것” - 경향신문",
-        "en": "[속보]트럼프 “기뢰 설치하는 모든 선박 격침 명령···이란 2차 협상 응할 때까지 호르무즈 철통 봉쇄할 것” - 경향신문",
-        "zh": "[속보]트럼프 “기뢰 설치하는 모든 선박 격침 명령···이란 2차 협상 응할 때까지 호르무즈 철통 봉쇄할 것” - 경향신문"
-      }
-    },
     {
       "title": "주한미군사령관 ‘전작권 로드맵’, 한국 국방예산 확대 압박 키울 듯 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/defense/1255641.html",
@@ -20,33 +8,33 @@
       "pubDate": "Thu, 23 Apr 2026 12:04:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/604/imgdb/original/2026/0423/20260423503653.webp",
       "summaries": {
-        "ko": "주한미군사령관 ‘전작권 로드맵’, 한국 국방예산 확대 압박 키울 듯 - 한겨레",
-        "en": "주한미군사령관 ‘전작권 로드맵’, 한국 국방예산 확대 압박 키울 듯 - 한겨레",
-        "zh": "주한미군사령관 ‘전작권 로드맵’, 한국 국방예산 확대 압박 키울 듯 - 한겨레"
+        "ko": "주한미군사령관이 2029년 1분기 이전까지 전시작전통제권 전환 조건 달성 로드맵을 제출했다고 밝히며, 이는 시기보다 조건 충족을 강조하여 한국의 국방 예산 확대를 압박하는 것으로 해석된다.",
+        "en": "The USFK commander announced the submission of a roadmap for achieving the conditions for the transfer of wartime operational control by Q1 2029, which is interpreted as emphasizing condition fulfillment over timing, thereby pressuring South Korea to increase its defense budget.",
+        "zh": "驻韩美军司令官表示已提交了在2029年第一季度前实现战时作战指挥权移交条件的路线图，这被解读为强调满足条件而非具体时间，从而向韩国施压以增加国防预算。"
       }
     },
     {
-      "title": "계양을 ‘李 측근’ 김남준... 연수갑 송영길 전략공천 - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/04/23/QKX7YL6LQRHUNFH4XBJHRDGPEA/",
-      "source": "조선일보",
-      "pubDate": "Thu, 23 Apr 2026 10:40:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/CHCRCWZM7VDO7LARQLOUAU5DKE.png?auth=200e4a21c9f86920b9a9a644ed2703aec3e4044fcaf4230d110d35275ce8f162&width=1000&height=525&focal=497,236",
+      "title": "‘왕사남’ 김남준, 이 대통령 지역구 ‘계양을’…송영길은 ‘연수갑’ - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604232056005",
+      "source": "경향신문",
+      "pubDate": "Thu, 23 Apr 2026 11:56:00 GMT",
+      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
       "summaries": {
-        "ko": "계양을 ‘李 측근’ 김남준... 연수갑 송영길 전략공천 - 조선일보",
-        "en": "계양을 ‘李 측근’ 김남준... 연수갑 송영길 전략공천 - 조선일보",
-        "zh": "계양을 ‘李 측근’ 김남준... 연수갑 송영길 전략공천 - 조선일보"
+        "ko": "더불어민주당이 이재명 대통령의 옛 지역구인 계양을에 김남준 전 청와대 대변인을 전략공천하고, 송영길 전 대표를 연수갑에 배치했다.",
+        "en": "The Democratic Party strategically nominated Kim Nam-jun, former Blue House spokesperson, for Gyeyang-eul, President Lee Jae-myung's former constituency, and assigned former party leader Song Young-gil to Yeonsu-gap.",
+        "zh": "民主党战略性地提名金南俊（前青瓦台发言人）参选李在明总统的原选区桂阳乙，并将前党代表宋永吉安排到延寿甲。"
       }
     },
     {
-      "title": "정동영 “구성 지명 뉴스에도 나와…문제 키운 사람들 의도 있을 것” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1255659.html",
+      "title": "트럼프 “호르무즈에 기뢰 설치하는 모든 선박 쏴 죽이라고 명령” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/america/1255663.html",
       "source": "한겨레",
-      "pubDate": "Thu, 23 Apr 2026 13:33:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/426/imgdb/original/2026/0423/20260423503944.webp",
+      "pubDate": "Thu, 23 Apr 2026 15:10:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0423/20260423503995.webp",
       "summaries": {
-        "ko": "정동영 “구성 지명 뉴스에도 나와…문제 키운 사람들 의도 있을 것” - 한겨레",
-        "en": "정동영 “구성 지명 뉴스에도 나와…문제 키운 사람들 의도 있을 것” - 한겨레",
-        "zh": "정동영 “구성 지명 뉴스에도 나와…문제 키운 사람들 의도 있을 것” - 한겨레"
+        "ko": "트럼프 “호르무즈에 기뢰 설치하는 모든 선박 쏴 죽이라고 명령” - 한겨레",
+        "en": "트럼프 “호르무즈에 기뢰 설치하는 모든 선박 쏴 죽이라고 명령” - 한겨레",
+        "zh": "트럼프 “호르무즈에 기뢰 설치하는 모든 선박 쏴 죽이라고 명령” - 한겨레"
       }
     },
     {
@@ -62,6 +50,18 @@
       }
     },
     {
+      "title": "정동영 “구성 지명 뉴스에도 나와…문제 키운 사람들 의도 있을 것” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1255659.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 23 Apr 2026 13:33:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/426/imgdb/original/2026/0423/20260423503944.webp",
+      "summaries": {
+        "ko": "정동영 “구성 지명 뉴스에도 나와…문제 키운 사람들 의도 있을 것” - 한겨레",
+        "en": "정동영 “구성 지명 뉴스에도 나와…문제 키운 사람들 의도 있을 것” - 한겨레",
+        "zh": "정동영 “구성 지명 뉴스에도 나와…문제 키운 사람들 의도 있을 것” - 한겨레"
+      }
+    },
+    {
       "title": "美 상원, '트럼프 전쟁 권한 제한' 시도 또 부결 - MBC 뉴스",
       "link": "https://imnews.imbc.com/news/2026/world/article/6817415_36925.html",
       "source": "MBC 뉴스",
@@ -74,63 +74,63 @@
       }
     },
     {
-      "title": "장동혁 만난 미 의원, 주미대사에 보낸 “쿠팡 공격” 서한 주도했다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1255509.html",
+      "title": "‘고유가 피해지원금’ 27일부터 1차 신청 - 조선일보",
+      "link": "https://www.chosun.com/economy/economy_general/2026/04/24/WOKEI5CAJZECPNZ2JODBB6TW3I/",
+      "source": "조선일보",
+      "pubDate": "Thu, 23 Apr 2026 15:34:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/XJ7KOG23AJALFMSCPP2HN27WG4.jpg?auth=d0e926c944e76c0cb7c48a8e5d8126ae2a99f7aa2c71d329b7741bea95f61382&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "‘고유가 피해지원금’ 27일부터 1차 신청 - 조선일보",
+        "en": "‘고유가 피해지원금’ 27일부터 1차 신청 - 조선일보",
+        "zh": "‘고유가 피해지원금’ 27일부터 1차 신청 - 조선일보"
+      }
+    },
+    {
+      "title": "주호영, 대구시장 불출마 선언 - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/04/24/V3REFYA6OVGG7OE7C727M5P3JU/",
+      "source": "조선일보",
+      "pubDate": "Thu, 23 Apr 2026 15:52:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/HFSDOYZRGZTDGY3CGIYTINZYHA.jpg?auth=df840189107b9fd2b8cd4ae60015565debf85fcbab0d17dfdecbf3440d40c658&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "주호영, 대구시장 불출마 선언 - 조선일보",
+        "en": "주호영, 대구시장 불출마 선언 - 조선일보",
+        "zh": "주호영, 대구시장 불출마 선언 - 조선일보"
+      }
+    },
+    {
+      "title": "이 대통령 “베트남 ‘홍강의 기적’ 함께”…원전 등 73건 MOU - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1255661.html",
       "source": "한겨레",
-      "pubDate": "Thu, 23 Apr 2026 04:59:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0423/20260423501376.webp",
+      "pubDate": "Thu, 23 Apr 2026 13:27:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0423/20260423503958.webp",
       "summaries": {
-        "ko": "장동혁 만난 미 의원, 주미대사에 보낸 “쿠팡 공격” 서한 주도했다 - 한겨레",
-        "en": "장동혁 만난 미 의원, 주미대사에 보낸 “쿠팡 공격” 서한 주도했다 - 한겨레",
-        "zh": "장동혁 만난 미 의원, 주미대사에 보낸 “쿠팡 공격” 서한 주도했다 - 한겨레"
+        "ko": "이 대통령 “베트남 ‘홍강의 기적’ 함께”…원전 등 73건 MOU - 한겨레",
+        "en": "이 대통령 “베트남 ‘홍강의 기적’ 함께”…원전 등 73건 MOU - 한겨레",
+        "zh": "이 대통령 “베트남 ‘홍강의 기적’ 함께”…원전 등 73건 MOU - 한겨레"
       }
     },
     {
-      "title": "‘화물연대 시위 충돌 사망’ CU탑차 운전자 구속영장 - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260423/133794751/2",
-      "source": "동아일보",
-      "pubDate": "Wed, 22 Apr 2026 19:30:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/23/133792198.4.jpg",
+      "title": "노동부 장관 “CU사태, 노란봉투법 실현되지 않아 발생한 참사” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604231722001",
+      "source": "경향신문",
+      "pubDate": "Thu, 23 Apr 2026 08:22:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/23/rcv.YNA.20260420.PYH2026042022820005200_P1.jpg",
       "summaries": {
-        "ko": "‘화물연대 시위 충돌 사망’ CU탑차 운전자 구속영장 - 동아일보",
-        "en": "‘화물연대 시위 충돌 사망’ CU탑차 운전자 구속영장 - 동아일보",
-        "zh": "‘화물연대 시위 충돌 사망’ CU탑차 운전자 구속영장 - 동아일보"
+        "ko": "노동부 장관 “CU사태, 노란봉투법 실현되지 않아 발생한 참사” - 경향신문",
+        "en": "노동부 장관 “CU사태, 노란봉투법 실현되지 않아 발생한 참사” - 경향신문",
+        "zh": "노동부 장관 “CU사태, 노란봉투법 실현되지 않아 발생한 참사” - 경향신문"
       }
     },
     {
-      "title": "'내 신청일 언제?' 고유가 피해지원금 27일 시작…첫주 요일제 - 서울특별시",
-      "link": "https://mediahub.seoul.go.kr/archives/2017900",
-      "source": "서울특별시",
-      "pubDate": "Thu, 23 Apr 2026 05:20:00 GMT",
-      "image": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/04/qZTccxQOzcOOdGfjqUIViYsqIgYhKUDr.jpg?ver=1.0",
-      "summaries": {
-        "ko": "'내 신청일 언제?' 고유가 피해지원금 27일 시작…첫주 요일제 - 서울특별시",
-        "en": "'내 신청일 언제?' 고유가 피해지원금 27일 시작…첫주 요일제 - 서울특별시",
-        "zh": "'내 신청일 언제?' 고유가 피해지원금 27일 시작…첫주 요일제 - 서울특별시"
-      }
-    },
-    {
-      "title": "현대차 1분기 영업이익 2.5조…30.8% 감소",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260424053941MLd",
+      "title": "[속보] 트럼프 \"이스라엘·레바논 휴전 3주 연장될 것\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202604240627375GX",
       "source": "Breaking News",
-      "pubDate": "Fri, 24 Apr 2026 05:39:56 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260423/MYH20260424053941MLd.jpg",
+      "pubDate": "Fri, 24 Apr 2026 06:27:37 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260423/AKR202604240627375GX_01_i.jpg",
       "summaries": {
-        "ko": "현대차 1분기 영업이익 2.5조…30.8% 감소",
-        "en": "현대차 1분기 영업이익 2.5조…30.8% 감소",
-        "zh": "현대차 1분기 영업이익 2.5조…30.8% 감소"
-      }
-    },
-    {
-      "title": "[속보] 트럼프 \"이란에 핵무기 사용 안 할 것…누구에게도 사용 안 돼\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260424052101pK3",
-      "source": "Breaking News",
-      "pubDate": "Fri, 24 Apr 2026 05:21:02 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260423/AKR20260424052101pK3_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 트럼프 \"이란에 핵무기 사용 안 할 것…누구에게도 사용 안 돼\"",
-        "en": "[속보] 트럼프 \"이란에 핵무기 사용 안 할 것…누구에게도 사용 안 돼\"",
-        "zh": "[속보] 트럼프 \"이란에 핵무기 사용 안 할 것…누구에게도 사용 안 돼\""
+        "ko": "[속보] 트럼프 \"이스라엘·레바논 휴전 3주 연장될 것\"",
+        "en": "[속보] 트럼프 \"이스라엘·레바논 휴전 3주 연장될 것\"",
+        "zh": "[속보] 트럼프 \"이스라엘·레바논 휴전 3주 연장될 것\""
       }
     }
   ]
