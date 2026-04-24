@@ -1,64 +1,88 @@
 {
-  "lastUpdate": "2026-04-24T07:15:19.994745",
+  "lastUpdate": "2026-04-24T09:12:10.239667",
   "items": [
     {
-      "title": "장동혁, ‘미 차관보 만남 거짓말 논란’에 “실무상 착오”···박준태 “한 명 더 만났는데 비공개” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604241122001",
+      "title": "박지원 “최고 해당행위자 장동혁, 미국서 4급 공무원 정도 만나” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1255736.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 24 Apr 2026 07:22:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0424/20260424501221.webp",
+      "summaries": {
+        "ko": "국민의힘 장동혁 대표가 미국에서 만난 인사가 당초 알려진 국무부 차관보가 아닌 하위직인 차관 비서실장으로 밝혀지면서, 여야로부터 격에 맞지 않는 만남과 허위 보고에 대한 강한 비판을 받고 있다.",
+        "en": "People Power Party leader Jang Dong-hyuk is facing strong criticism from both his own party and the opposition after it was revealed that a U.S. official he met was a lower-ranking 'Chief of Staff to an Under Secretary' instead of the initially announced 'Deputy Assistant Secretary of State,' sparking accusations of misrepresentation.",
+        "zh": "国民力量党代表张东赫在美国会见的官员被披露并非最初宣布的助理国务卿，而是一名级别较低的副国务卿幕僚长，这引发了执政党和反对党对其会面级别不符和虚报的强烈批评。"
+      }
+    },
+    {
+      "title": "장동혁 버티기에 “거짓말만 있던 방미”…국힘 내홍 확산 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1255782.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 24 Apr 2026 08:01:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/627/imgdb/original/2026/0424/20260424502128.webp",
+      "summaries": {
+        "ko": "국민의힘 장동혁 대표가 방미 논란 속 사퇴 요구를 일축하고 지방선거까지 완주하겠다고 밝히면서 당내 내홍이 확산하고 있다.",
+        "en": "People Power Party leader Jang Dong-hyuk is refusing calls for his resignation amid controversy over his US visit, stating he will see through the local elections, leading to growing internal conflict within the party.",
+        "zh": "国民力量党代表张东赫因访美争议拒绝辞职，并表示将完成地方选举，导致党内矛盾持续扩大。"
+      }
+    },
+    {
+      "title": "李, 베트남서도 장특공 비판 \"비거주 稅감면은 투기 권장\" - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/04/24/F5GU6T4XLZDG7LGMP5LEKILXIU/",
+      "source": "조선일보",
+      "pubDate": "Fri, 24 Apr 2026 01:06:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/BMBYGSAMURFUZGCT2E5R7UTFBU.jpg?auth=3174591aa83403cee6bc1f458cfb57cd72c977666cd0d5d663cefc9d72576b6c&width=540&height=283&smart=true",
+      "summaries": {
+        "ko": "李, 베트남서도 장특공 비판 \"비거주 稅감면은 투기 권장\" - 조선일보",
+        "en": "李, 베트남서도 장특공 비판 \"비거주 稅감면은 투기 권장\" - 조선일보",
+        "zh": "李, 베트남서도 장특공 비판 \"비거주 稅감면은 투기 권장\" - 조선일보"
+      }
+    },
+    {
+      "title": "특검, ‘북한 무인기’ 윤석열 징역 30년·김용현 25년 구형 “반국가 범죄” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604241515001",
       "source": "경향신문",
-      "pubDate": "Fri, 24 Apr 2026 02:22:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/24/news-p.v1.20260424.f5ee04cf72ce48c18db8b4e24aa1ee35_P1.jpeg",
+      "pubDate": "Fri, 24 Apr 2026 06:15:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/24/news-p.v1.20260110.204eb647fa3d4261aea5840036533d5c_P1.png",
       "summaries": {
-        "ko": "장동혁 국민의힘 대표가 방미 중 만난 미 국무부 인사의 직급 오표기 논란에 대해 '실무상 착오'라고 해명했으며, 비서실장은 차관보급 인사 한 명을 비공개로 만났다고 밝혔다.",
-        "en": "People Power Party leader Jang Dong-hyuk attributed the controversy over misrepresenting the rank of a US State Department official he met during his US visit to a 'working-level error,' with his chief of staff clarifying they had also confidentially met another assistant secretary-level official.",
-        "zh": "韩国国民力量党代表张东赫就其访美期间会见的美国国务院官员职务被错误标示一事解释为“实务性失误”，其秘书室长则透露他们还秘密会见了另一位助理国务卿级别官员。"
+        "ko": "특검, ‘북한 무인기’ 윤석열 징역 30년·김용현 25년 구형 “반국가 범죄” - 경향신문",
+        "en": "특검, ‘북한 무인기’ 윤석열 징역 30년·김용현 25년 구형 “반국가 범죄” - 경향신문",
+        "zh": "특검, ‘북한 무인기’ 윤석열 징역 30년·김용현 25년 구형 “반국가 범죄” - 경향신문"
       }
     },
     {
-      "title": "이 대통령 “살지도 않는 집, 오래 ‘투기’했다고 세금 감면은 비정상” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1255724.html",
+      "title": "강훈식 “5월 원유 7462만배럴 확보, 작년 월평균 87% 수준” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1255768.html",
       "source": "한겨레",
-      "pubDate": "Fri, 24 Apr 2026 04:52:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/734/imgdb/original/2026/0424/20260424501021.webp",
+      "pubDate": "Fri, 24 Apr 2026 07:22:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/616/imgdb/original/2026/0424/20260424501911.webp",
       "summaries": {
-        "ko": "이재명 대통령은 살지도 않는 고가 주택에 대한 장기 투기 목적의 양도세 감면(장특공제)은 주택 투기 조장 정책이라며, 실거주 보호를 위해 비거주 기간 감면을 축소하고 거주 기간 감면을 늘려야 한다고 주장했다.",
-        "en": "President Lee Jae-myung asserted that capital gains tax exemptions (long-term special deductions) for long-term speculative investments in non-owner-occupied high-value homes constitute a policy encouraging housing speculation, advocating for reduced deductions for non-residency periods and increased deductions for actual residency periods to protect real homeowners.",
-        "zh": "李在明总统主张，对非自住高价住宅的长期投机性转让所得税减免（长期持有特别扣除）是鼓励住房投机的政策，为保护实际居住权，应减少非居住期间的减免并增加居住期间的减免。"
+        "ko": "강훈식 “5월 원유 7462만배럴 확보, 작년 월평균 87% 수준” - 한겨레",
+        "en": "강훈식 “5월 원유 7462만배럴 확보, 작년 월평균 87% 수준” - 한겨레",
+        "zh": "강훈식 “5월 원유 7462만배럴 확보, 작년 월평균 87% 수준” - 한겨레"
       }
     },
     {
-      "title": "장동혁 “물러나면 책임 정치 아냐”…사퇴 고민 반나절만 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1255748.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 24 Apr 2026 05:45:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0424/20260424501410.webp",
+      "title": "[단독]호주 왕복 1인 항공료가 ‘1100만원’?…김대중 전남교육감 ‘요금 부풀리기’ - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604241538011",
+      "source": "경향신문",
+      "pubDate": "Fri, 24 Apr 2026 06:38:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/24/news-p.v1.20260424.32631e6399654325a1b28d2ee28cd717_P1.jpg",
       "summaries": {
-        "ko": "장동혁 국민의힘 대표는 당 안팎의 사퇴 요구에도 불구하고 상황이 좋지 않다고 물러나는 것은 책임 정치인의 모습이 아니라며 사퇴 요구를 일축하고 지방선거 승리와 방미 성과로 평가받겠다고 밝혔다.",
-        "en": "Despite calls for his resignation, People Power Party leader Jang Dong-hyuk rejected the demands, stating that stepping down due to a difficult situation is not the mark of a responsible politician, and affirmed he would be evaluated by the victory in local elections and the outcomes of his visit to the US.",
-        "zh": "尽管党内外要求其辞职，国民力量党代表张东赫仍拒绝辞职要求，称在情况不佳时辞职并非负责任政治家的表现，并表示将以地方选举胜利和访美成果接受评价。"
+        "ko": "[단독]호주 왕복 1인 항공료가 ‘1100만원’?…김대중 전남교육감 ‘요금 부풀리기’ - 경향신문",
+        "en": "[단독]호주 왕복 1인 항공료가 ‘1100만원’?…김대중 전남교육감 ‘요금 부풀리기’ - 경향신문",
+        "zh": "[단독]호주 왕복 1인 항공료가 ‘1100만원’?…김대중 전남교육감 ‘요금 부풀리기’ - 경향신문"
       }
     },
     {
-      "title": "특검, ‘평양 무인기’ 윤석열 1심서 징역 30년 구형 - 조선일보",
-      "link": "https://www.chosun.com/national/court_law/2026/04/24/DGUWG4FQX5GCHNHNG7M7NFIMHU/",
-      "source": "조선일보",
-      "pubDate": "Fri, 24 Apr 2026 02:49:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/6L4DP5QUBZCSRCUNNZ4HPIFJ6Y.jpg?auth=7d7d20210b217171d0bee766370122395b535bb9eec29cb402f5e685b64a053d&width=720&height=378&focal=282,202",
+      "title": "경찰이 신청한 ‘방시혁 구속영장’…검찰, 받아들일까 돌려보낼까 - 조선비즈 - Chosunbiz",
+      "link": "https://biz.chosun.com/industry/business-venture/2026/04/24/AJPGAU5XBZACJL4WKG2YV7QHUI/",
+      "source": "Chosunbiz",
+      "pubDate": "Thu, 23 Apr 2026 21:03:03 GMT",
+      "image": "https://biz.chosun.com/resizer/v2/MJQTKNJXGUZTMYLCHEZTGMTBMU.jpg?auth=5f2f1c96b19a0b4c53b603ebc5f13855d928e80f6b9cd4fd24c45476b65e6ad0&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "특검, ‘평양 무인기’ 윤석열 1심서 징역 30년 구형 - 조선일보",
-        "en": "특검, ‘평양 무인기’ 윤석열 1심서 징역 30년 구형 - 조선일보",
-        "zh": "특검, ‘평양 무인기’ 윤석열 1심서 징역 30년 구형 - 조선일보"
-      }
-    },
-    {
-      "title": "[속보] 靑 \"5월중 원유 7400만배럴 확보…작년 평균의 87% 수준\" - 조선일보",
-      "link": "https://www.chosun.com/politics/blue_house/2026/04/24/7VFD2GXLK5EGPECEQ3S53APFSA/",
-      "source": "조선일보",
-      "pubDate": "Fri, 24 Apr 2026 05:50:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/G44WKOJYG43WCNLBGY4DMZLCG4.jpg?auth=23d93361709b12f8235344c99538f91ffa8fd81b34782e1a255f451b0331a486&width=1200&height=630&focal=2103,1128",
-      "summaries": {
-        "ko": "[속보] 靑 \"5월중 원유 7400만배럴 확보…작년 평균의 87% 수준\" - 조선일보",
-        "en": "[속보] 靑 \"5월중 원유 7400만배럴 확보…작년 평균의 87% 수준\" - 조선일보",
-        "zh": "[속보] 靑 \"5월중 원유 7400만배럴 확보…작년 평균의 87% 수준\" - 조선일보"
+        "ko": "경찰이 신청한 ‘방시혁 구속영장’…검찰, 받아들일까 돌려보낼까 - 조선비즈 - Chosunbiz",
+        "en": "경찰이 신청한 ‘방시혁 구속영장’…검찰, 받아들일까 돌려보낼까 - 조선비즈 - Chosunbiz",
+        "zh": "경찰이 신청한 ‘방시혁 구속영장’…검찰, 받아들일까 돌려보낼까 - 조선비즈 - Chosunbiz"
       }
     },
     {
@@ -68,57 +92,33 @@
       "pubDate": "Fri, 24 Apr 2026 05:52:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/640/365/imgdb/original/2026/0423/20260423504098.webp",
       "summaries": {
-        "ko": "위성락 국가안보실장이 정동영 전 통일부 장관의 북한 구성 핵시설 발언을 둘러싼 한미 간 인식차로 미국이 대북 정보 공유를 제한한 상황을 조속히 수습하고 정상적 협력으로 복귀시키기 위해 협의 중이라고 밝혔다.",
-        "en": "National Security Advisor Wi Sung-rak announced that South Korea is negotiating with the US to promptly resolve the \"perception gap\" over former Unification Minister Jeong Dong-young's remarks on a North Korean nuclear facility in Gusung, which led to US restrictions on intelligence sharing, aiming to restore normal cooperation.",
-        "zh": "韩国国家安保室长魏晟洛表示，正在与美国协商，以尽快解决前统一部长官郑东泳关于朝鲜龟城核设施的言论所引发的美韩认知差异，该事件导致美国限制对朝情报共享，目标是恢复正常的合作关系。"
+        "ko": "위성락 “정동영 ‘구성 발언’ 한·미 인식차…조속히 수습할 것” - 한겨레",
+        "en": "위성락 “정동영 ‘구성 발언’ 한·미 인식차…조속히 수습할 것” - 한겨레",
+        "zh": "위성락 “정동영 ‘구성 발언’ 한·미 인식차…조속히 수습할 것” - 한겨레"
       }
     },
     {
-      "title": "대구시장 선거 불출마 주호영 “장동혁, 제발 물러날 때를 알기를” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604232055005",
-      "source": "경향신문",
-      "pubDate": "Thu, 23 Apr 2026 11:55:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/23/l_2026042401000727200075682.jpg",
+      "title": "李대통령, ‘대장동 보도’ 취재상 거론하며 “수상취소·반납마땅” - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/04/24/H5JMQMEUZZGCJNKTBUWAIXI6UI/",
+      "source": "조선일보",
+      "pubDate": "Fri, 24 Apr 2026 03:57:14 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GMYTAZDGHAYGEOBYGU2TOYRWMM.jpg?auth=7ffbf7537e532a17d0826f61790ef362894843a000cf17a4f7883a145d98b729&width=720&height=378&smart=true",
       "summaries": {
-        "ko": "국민의힘 주호영 의원이 대구시장 선거 불출마를 선언하며 당 공천 과정을 비판했지만, 함께 컷오프된 이진숙 전 위원장은 무소속 출마 의지를 밝혀 보수 표심 분산이 우려되고 있다.",
-        "en": "People Power Party lawmaker Joo Ho-young announced his withdrawal from the Daegu mayoral race, criticizing the party's nomination process, while former committee member Lee Jin-sook, also cut off, expressed her intent to run as an independent, raising concerns about a split in conservative votes.",
-        "zh": "韩国执政党国民力量议员朱豪英宣布退出大邱市长选举，并批评了党内的公推过程，而同样被排除的李真淑前委员则表示将以无党派身份参选，引发了保守派选票分散的担忧。"
+        "ko": "李대통령, ‘대장동 보도’ 취재상 거론하며 “수상취소·반납마땅” - 조선일보",
+        "en": "李대통령, ‘대장동 보도’ 취재상 거론하며 “수상취소·반납마땅” - 조선일보",
+        "zh": "李대통령, ‘대장동 보도’ 취재상 거론하며 “수상취소·반납마땅” - 조선일보"
       }
     },
     {
-      "title": "쿠팡, 정보 유출 사태 후 미 정관계 로비‥부통령도 포함 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/world/article/6817613_36925.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Thu, 23 Apr 2026 15:35:48 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/04/24/joo260424_5.jpg",
+      "title": "트럼프 \"이란에 핵무기 사용 안 해…재래식으로도 섬멸\" - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/04/24/GOJK3S5HNRBW7MEXFRUBWP5HFA/",
+      "source": "조선일보",
+      "pubDate": "Thu, 23 Apr 2026 22:11:08 GMT",
+      "image": "https://www.chosun.com/resizer/v2/KE423MBXMRJPTCKYARJN2VE5C4.jpg?auth=6a356901a25d08e93b555ab6fe953f03bc39b55f6f993cad1ad30b02126dc3de&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "쿠팡, 정보 유출 사태 후 미 정관계 로비‥부통령도 포함 - MBC 뉴스",
-        "en": "쿠팡, 정보 유출 사태 후 미 정관계 로비‥부통령도 포함 - MBC 뉴스",
-        "zh": "쿠팡, 정보 유출 사태 후 미 정관계 로비‥부통령도 포함 - MBC 뉴스"
-      }
-    },
-    {
-      "title": "‘전투기 실은 부시호’ 중동 해역 도착…“미 항공모함 3척 작전 중” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1255708.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 24 Apr 2026 04:54:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/680/453/imgdb/original/2026/0424/20260424500780.webp",
-      "summaries": {
-        "ko": "‘전투기 실은 부시호’ 중동 해역 도착…“미 항공모함 3척 작전 중” - 한겨레",
-        "en": "‘전투기 실은 부시호’ 중동 해역 도착…“미 항공모함 3척 작전 중” - 한겨레",
-        "zh": "‘전투기 실은 부시호’ 중동 해역 도착…“미 항공모함 3척 작전 중” - 한겨레"
-      }
-    },
-    {
-      "title": "트럼프, 스페인 '나토 방출' 검토…'이란전 비협조' 뒤끝",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260424160847edf",
-      "source": "Breaking News",
-      "pubDate": "Fri, 24 Apr 2026 16:08:47 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260424/AKR20260424160847edf_01_i.jpg",
-      "summaries": {
-        "ko": "트럼프, 스페인 '나토 방출' 검토…'이란전 비협조' 뒤끝",
-        "en": "트럼프, 스페인 '나토 방출' 검토…'이란전 비협조' 뒤끝",
-        "zh": "트럼프, 스페인 '나토 방출' 검토…'이란전 비협조' 뒤끝"
+        "ko": "트럼프 \"이란에 핵무기 사용 안 해…재래식으로도 섬멸\" - 조선일보",
+        "en": "트럼프 \"이란에 핵무기 사용 안 해…재래식으로도 섬멸\" - 조선일보",
+        "zh": "트럼프 \"이란에 핵무기 사용 안 해…재래식으로도 섬멸\" - 조선일보"
       }
     }
   ]
