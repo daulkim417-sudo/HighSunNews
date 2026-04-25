@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-25T15:23:41.443877",
+  "lastUpdate": "2026-04-25T16:00:10.387417",
   "items": [
     {
       "title": "이란 외무장관, 파키스탄군 총사령관에 ‘종전 고려사항’ 전달 - 조선일보",
@@ -20,9 +20,9 @@
       "pubDate": "Sat, 25 Apr 2026 12:41:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0425/53_17771020719253_3017771020477771.webp",
       "summaries": {
-        "ko": "이재명 대통령은 중동전쟁으로 인한 의료제품 수급 불안 속 주사기 매점매석 행위가 다수 적발되자 \"엄중 단죄\"를 지시하며 공동체의 위기를 이용한 돈벌이를 강력히 비판했다.",
-        "en": "President Lee Jae-myung strongly condemned profiteering by exploiting the community's crisis, such as the recent discovery of numerous syringe hoarding activities amid medical product supply instability due to the Middle East war, and instructed \"severe punishment.\"",
-        "zh": "李在明总统强烈谴责利用社区危机牟利的行为，例如近期在中东战争导致医疗产品供应不稳的情况下，大量囤积注射器被查处，并指示“严厉惩处”。"
+        "ko": "이재명 대통령은 공동체의 위기를 이용한 주사기 매점매석 행위를 '반사회적'으로 규정하며 \"엄중하게 단죄할 것\"이라 밝히고 내각에 신속한 수사와 엄벌 등 최대치의 사후 조치를 지시했다.",
+        "en": "President Lee Jae-myung condemned the hoarding of syringes, calling it \"anti-social behavior\" that exploits a community crisis, and announced \"strict punishment,\" while instructing the cabinet to take maximum post-incident measures including swift investigation and severe penalties.",
+        "zh": "李在明总统谴责利用社会危机囤积注射器的行为是“反社会行为”，表示将“严厉惩罚”，并指示内阁采取迅速调查、严厉处罚等最大程度的后续措施。"
       }
     },
     {
@@ -62,27 +62,15 @@
       }
     },
     {
-      "title": "국힘 “정동영 장관 즉각 경질”에 민주당 “발언 진의 왜곡” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604251523001",
-      "source": "경향신문",
-      "pubDate": "Sat, 25 Apr 2026 06:23:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/25/news-p.v1.20260425.8b4b41a73e7b4a87a263a76969079670_P1.jpeg",
-      "summaries": {
-        "ko": "국힘 “정동영 장관 즉각 경질”에 민주당 “발언 진의 왜곡” - 경향신문",
-        "en": "국힘 “정동영 장관 즉각 경질”에 민주당 “발언 진의 왜곡” - 경향신문",
-        "zh": "국힘 “정동영 장관 즉각 경질”에 민주당 “발언 진의 왜곡” - 경향신문"
-      }
-    },
-    {
-      "title": "조갑제 \"장동혁 계속 국민 속여\"... 張 \"방미 면담 인사 분명 차관보\" - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/04/25/HATA7XBKTFEOHA2ZMSYZHFK4HQ/",
+      "title": "野 \"한미동맹 총체적 난국\"… 與 \"외교안보 정쟁화는 매국 행위\" - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/04/25/I2S3A6QHLJGXRCB46GNI2VZCA4/",
       "source": "조선일보",
-      "pubDate": "Sat, 25 Apr 2026 07:51:16 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GEYTEMTBGI3TAZDGGRSTCYTGG4.jpg?auth=cdd49e25e0a6a86af568caa7ba3b8b9e7adb8b89955624aef16a6ab4254e000b&width=1200&height=630&focal=2044,1398",
+      "pubDate": "Sat, 25 Apr 2026 08:11:20 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GVQTIMRWGFQWGOLFMU4DMMJZGE.jpg?auth=b6ce4f58e7aeb629c861bddacce47ddb7b28c29a6c7a7b9dfd9445e860e3288b&width=1200&height=630&focal=1728,846",
       "summaries": {
-        "ko": "조갑제 \"장동혁 계속 국민 속여\"... 張 \"방미 면담 인사 분명 차관보\" - 조선일보",
-        "en": "조갑제 \"장동혁 계속 국민 속여\"... 張 \"방미 면담 인사 분명 차관보\" - 조선일보",
-        "zh": "조갑제 \"장동혁 계속 국민 속여\"... 張 \"방미 면담 인사 분명 차관보\" - 조선일보"
+        "ko": "野 \"한미동맹 총체적 난국\"… 與 \"외교안보 정쟁화는 매국 행위\" - 조선일보",
+        "en": "野 \"한미동맹 총체적 난국\"… 與 \"외교안보 정쟁화는 매국 행위\" - 조선일보",
+        "zh": "野 \"한미동맹 총체적 난국\"… 與 \"외교안보 정쟁화는 매국 행위\" - 조선일보"
       }
     },
     {
@@ -98,6 +86,18 @@
       }
     },
     {
+      "title": "조갑제 \"장동혁 계속 국민 속여\"... 張 \"방미 면담 인사 분명 차관보\" - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/04/25/HATA7XBKTFEOHA2ZMSYZHFK4HQ/",
+      "source": "조선일보",
+      "pubDate": "Sat, 25 Apr 2026 07:51:16 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GEYTEMTBGI3TAZDGGRSTCYTGG4.jpg?auth=cdd49e25e0a6a86af568caa7ba3b8b9e7adb8b89955624aef16a6ab4254e000b&width=1200&height=630&focal=2044,1398",
+      "summaries": {
+        "ko": "조갑제 \"장동혁 계속 국민 속여\"... 張 \"방미 면담 인사 분명 차관보\" - 조선일보",
+        "en": "조갑제 \"장동혁 계속 국민 속여\"... 張 \"방미 면담 인사 분명 차관보\" - 조선일보",
+        "zh": "조갑제 \"장동혁 계속 국민 속여\"... 張 \"방미 면담 인사 분명 차관보\" - 조선일보"
+      }
+    },
+    {
       "title": "오세훈 연일 ‘장특공’ 입장 요구에…정원오 “정책 승부하라” - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/election/1255854.html",
       "source": "한겨레",
@@ -110,15 +110,15 @@
       }
     },
     {
-      "title": "[뉴스특보] 미·이란 2차 협상 '신경전'…재개 여부 촉각",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260426001434BoJ",
+      "title": "이란 외무, 이슬라마바드 떠나…파키스탄 측에 종전 요구사항 전달",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260426003159d8P",
       "source": "Breaking News",
-      "pubDate": "Sun, 26 Apr 2026 00:18:14 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260425/MYH20260426001434BoJ.jpg",
+      "pubDate": "Sun, 26 Apr 2026 00:32:01 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260425/AKR20260426003159d8P_01_i.jpg",
       "summaries": {
-        "ko": "[뉴스특보] 미·이란 2차 협상 '신경전'…재개 여부 촉각",
-        "en": "[뉴스특보] 미·이란 2차 협상 '신경전'…재개 여부 촉각",
-        "zh": "[뉴스특보] 미·이란 2차 협상 '신경전'…재개 여부 촉각"
+        "ko": "이란 외무, 이슬라마바드 떠나…파키스탄 측에 종전 요구사항 전달",
+        "en": "이란 외무, 이슬라마바드 떠나…파키스탄 측에 종전 요구사항 전달",
+        "zh": "이란 외무, 이슬라마바드 떠나…파키스탄 측에 종전 요구사항 전달"
       }
     }
   ]
