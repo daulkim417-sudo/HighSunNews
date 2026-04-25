@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-25T21:57:08.109622",
+  "lastUpdate": "2026-04-25T22:25:25.105911",
   "items": [
     {
       "title": "美·이란, 주말 협상 사실상 무산… 트럼프 \"이란이 더 나은 제안해 와\" - 조선일보",
@@ -20,9 +20,9 @@
       "pubDate": "Sat, 25 Apr 2026 12:45:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0424/53_17770310594325_20260424502409.webp",
       "summaries": {
-        "ko": "국민의힘 장동혁 대표가 미국 국무부 차관보를 만났다는 주장이 거짓으로 드러나 논란이 일자, 국민의힘은 '잘못 알려드린 부분'에 대해 사과했다.",
-        "en": "The People Power Party apologized for \"misinforming\" the public after its leader Jang Dong-hyuk's claim of meeting a U.S. State Department Assistant Secretary was revealed to be false, sparking controversy.",
-        "zh": "国民力量党领袖张东赫声称会见美国国务院助理国务卿的说法被揭穿为谎言并引发争议后，该党就“错误告知”公众一事致歉。"
+        "ko": "‘장동혁, 차관보 면담’ 거짓말 논란에 국힘 “잘못 알려드린 부분 사과” - 한겨레",
+        "en": "‘장동혁, 차관보 면담’ 거짓말 논란에 국힘 “잘못 알려드린 부분 사과” - 한겨레",
+        "zh": "‘장동혁, 차관보 면담’ 거짓말 논란에 국힘 “잘못 알려드린 부분 사과” - 한겨레"
       }
     },
     {
@@ -38,15 +38,15 @@
       }
     },
     {
-      "title": "한낮 26도까지 올라…제주·남부지방 곳곳 비 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260426003900034",
-      "source": "연합뉴스",
-      "pubDate": "Sat, 25 Apr 2026 20:46:02 GMT",
-      "image": "https://img4.yna.co.kr/photo/yna/YH/2026/04/19/PYH2026041905930006200_P4.jpg",
+      "title": "에너지 수출 사상 최고…트럼프 “세계에 생명줄 줘” 자축 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/economy/economy_general/1255852.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 25 Apr 2026 12:41:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/700/466/imgdb/original/2026/0425/20260425500585.webp",
       "summaries": {
-        "ko": "한낮 26도까지 올라…제주·남부지방 곳곳 비 - 연합뉴스",
-        "en": "한낮 26도까지 올라…제주·남부지방 곳곳 비 - 연합뉴스",
-        "zh": "한낮 26도까지 올라…제주·남부지방 곳곳 비 - 연합뉴스"
+        "ko": "에너지 수출 사상 최고…트럼프 “세계에 생명줄 줘” 자축 - 한겨레",
+        "en": "에너지 수출 사상 최고…트럼프 “세계에 생명줄 줘” 자축 - 한겨레",
+        "zh": "에너지 수출 사상 최고…트럼프 “세계에 생명줄 줘” 자축 - 한겨레"
       }
     },
     {
@@ -62,6 +62,30 @@
       }
     },
     {
+      "title": "오세훈 연일 ‘장특공’ 입장 요구에…정원오 “정책 승부하라” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/election/1255854.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 25 Apr 2026 12:41:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/750/525/imgdb/original/2026/0425/20260425500629.webp",
+      "summaries": {
+        "ko": "오세훈 연일 ‘장특공’ 입장 요구에…정원오 “정책 승부하라” - 한겨레",
+        "en": "오세훈 연일 ‘장특공’ 입장 요구에…정원오 “정책 승부하라” - 한겨레",
+        "zh": "오세훈 연일 ‘장특공’ 입장 요구에…정원오 “정책 승부하라” - 한겨레"
+      }
+    },
+    {
+      "title": "한낮 26도까지 올라…제주·남부지방 곳곳 비 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260426003900034",
+      "source": "연합뉴스",
+      "pubDate": "Sat, 25 Apr 2026 20:46:02 GMT",
+      "image": "https://img4.yna.co.kr/photo/yna/YH/2026/04/19/PYH2026041905930006200_P4.jpg",
+      "summaries": {
+        "ko": "한낮 26도까지 올라…제주·남부지방 곳곳 비 - 연합뉴스",
+        "en": "한낮 26도까지 올라…제주·남부지방 곳곳 비 - 연합뉴스",
+        "zh": "한낮 26도까지 올라…제주·남부지방 곳곳 비 - 연합뉴스"
+      }
+    },
+    {
       "title": "[광화문에서/조동주]정청래 연임 시험대 될 與 재보선 공천 퍼즐 - 동아일보",
       "link": "https://www.donga.com/news/Opinion/article/all/20260424/133809733/2",
       "source": "동아일보",
@@ -74,39 +98,15 @@
       }
     },
     {
-      "title": "추경호·유영하, 이진숙 불출마에 \"대구시장 선거 승리로 보답\" - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260425029700053",
-      "source": "연합뉴스",
-      "pubDate": "Sat, 25 Apr 2026 03:40:45 GMT",
-      "image": "https://img9.yna.co.kr/photo/yna/YH/2026/04/19/PYH2026041908970005300_P4.jpg",
+      "title": "이진숙 \"대구시장 출마 접고 국힘 후보 도울 것\"‥국힘, 내일 최종 후보 선출 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6817939_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sat, 25 Apr 2026 02:49:47 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/04/25/ggm_20260425_22.jpg",
       "summaries": {
-        "ko": "추경호·유영하, 이진숙 불출마에 \"대구시장 선거 승리로 보답\" - 연합뉴스",
-        "en": "추경호·유영하, 이진숙 불출마에 \"대구시장 선거 승리로 보답\" - 연합뉴스",
-        "zh": "추경호·유영하, 이진숙 불출마에 \"대구시장 선거 승리로 보답\" - 연합뉴스"
-      }
-    },
-    {
-      "title": "'고유가 지원금' 내일부터 1차 지급…기초·차상위·한부모 대상 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260425038300530",
-      "source": "연합뉴스",
-      "pubDate": "Sat, 25 Apr 2026 20:00:01 GMT",
-      "image": "https://img4.yna.co.kr/photo/yna/YH/2026/04/24/PYH2026042411780001300_P4.jpg",
-      "summaries": {
-        "ko": "'고유가 지원금' 내일부터 1차 지급…기초·차상위·한부모 대상 - 연합뉴스",
-        "en": "'고유가 지원금' 내일부터 1차 지급…기초·차상위·한부모 대상 - 연합뉴스",
-        "zh": "'고유가 지원금' 내일부터 1차 지급…기초·차상위·한부모 대상 - 연합뉴스"
-      }
-    },
-    {
-      "title": "‘CU 물류센터 사망’ 화물연대 진주 결집…유족 “함께 투쟁을” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604251811001",
-      "source": "경향신문",
-      "pubDate": "Sat, 25 Apr 2026 09:11:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/25/rcv.YNA.20260425.PYH2026042502800005200_P1.jpg",
-      "summaries": {
-        "ko": "‘CU 물류센터 사망’ 화물연대 진주 결집…유족 “함께 투쟁을” - 경향신문",
-        "en": "‘CU 물류센터 사망’ 화물연대 진주 결집…유족 “함께 투쟁을” - 경향신문",
-        "zh": "‘CU 물류센터 사망’ 화물연대 진주 결집…유족 “함께 투쟁을” - 경향신문"
+        "ko": "이진숙 \"대구시장 출마 접고 국힘 후보 도울 것\"‥국힘, 내일 최종 후보 선출 - MBC 뉴스",
+        "en": "이진숙 \"대구시장 출마 접고 국힘 후보 도울 것\"‥국힘, 내일 최종 후보 선출 - MBC 뉴스",
+        "zh": "이진숙 \"대구시장 출마 접고 국힘 후보 도울 것\"‥국힘, 내일 최종 후보 선출 - MBC 뉴스"
       }
     },
     {
