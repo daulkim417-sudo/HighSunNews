@@ -1,100 +1,40 @@
 {
-  "lastUpdate": "2026-04-26T09:42:15.200116",
+  "lastUpdate": "2026-04-26T10:30:40.792990",
   "items": [
     {
-      "title": "백악관 만찬 행사 시작 30분만 아수라장···긴박했던 ‘VIP’ 대피 순간 - khan.co.kr",
-      "link": "https://www.khan.co.kr/article/202604261732001",
+      "title": "31세 명문대 공학도, 왜 총을 들었나···트럼프 만찬장 총격 사건 용의자는 누구? - khan.co.kr",
+      "link": "https://www.khan.co.kr/article/202604261651001",
       "source": "khan.co.kr",
-      "pubDate": "Sun, 26 Apr 2026 08:32:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/26/rcv.YNA.20260426.PEP20260426131201009_P1.jpg",
+      "pubDate": "Sun, 26 Apr 2026 07:51:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/26/rcv.YNA.20260426.PRU20260426233701009_P1.jpg",
       "summaries": {
-        "ko": "트럼프 대통령이 백악관 출입기자단 만찬 참석 중 총격 사건으로 긴급 대피했으며, 용의자는 체포됐다.",
-        "en": "President Trump was emergency evacuated from the White House Correspondents' Dinner following a shooting incident, and a suspect was later arrested.",
-        "zh": "特朗普总统在白宫记者协会晚宴上遭遇枪击事件后紧急撤离，嫌疑人已被逮捕。"
+        "ko": "백악관 출입기자단 만찬 총격 사건 용의자로 31세 명문대 공학도 콜 토머스 앨런이 지목되었으며, 그는 트럼프 행정부 당국자들을 겨냥했다고 진술했으나 구체적인 범행 동기는 아직 밝혀지지 않았다.",
+        "en": "Cole Thomas Allen, a 31-year-old highly educated engineering graduate, has been identified as the suspect in the shooting incident at the White House Correspondents' Dinner, reportedly stating he intended to target Trump administration officials, although his specific motive remains unclear.",
+        "zh": "在白宫记者晚宴枪击事件中，一名31岁、受过高等教育的工程学毕业生Cole Thomas Allen被确认为嫌疑人，据称他表示意图射击特朗普政府官员，但其具体作案动机尚不明确。"
       }
     },
     {
-      "title": "2차 종전협상 사실상 무산…트럼프 “파키스탄행 취소” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1255856.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 26 Apr 2026 01:14:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/622/imgdb/original/2026/0426/20260426500087.webp",
+      "title": "국민의힘 대구시장 후보로 3선 중진 추경호 확정 - 경남일보",
+      "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=635753",
+      "source": "경남일보",
+      "pubDate": "Sun, 26 Apr 2026 09:56:03 GMT",
+      "image": "https://cdn.gnnews.co.kr/news/photo/202604/635753_436151_563.jpg",
       "summaries": {
-        "ko": "트럼프 미국 대통령이 이란 지도부 내분과 이동 시간 낭비를 이유로 파키스탄 방문을 취소하며 미·이란 2차 종전협상이 사실상 무산됐고, 이란은 미국의 해상 봉쇄 해제를 협상 전제조건으로 내세웠다.",
-        "en": "The second US-Iran peace negotiations, expected in Pakistan, were effectively called off after President Trump canceled the US delegation's visit, citing Iran's internal disarray and travel inefficiencies, while Iran demanded the lifting of the US maritime blockade as a key precondition.",
-        "zh": "美国总统特朗普以伊朗领导层内讧和行程时间浪费为由取消了赴巴基斯坦的美国代表团访问，导致原定美伊第二次和平谈判实际上告吹，而伊朗则将美国解除海上封锁作为核心谈判前提。"
+        "ko": "국민의힘은 3선 중진 추경호 의원을 대구시장 후보로 확정하며, 더불어민주당 김부겸 전 총리와의 '대구 경제 회복' 및 '보수 자존심 사수'를 쟁점으로 하는 맞대결이 성사되었다.",
+        "en": "The People Power Party has confirmed three-term lawmaker Choo Kyung-ho as its Daegu mayoral candidate, setting up a showdown against former Prime Minister Kim Boo-kyum of the Democratic Party with \"Daegu's economic recovery\" and \"preserving conservative pride\" as key issues.",
+        "zh": "国民力量党确认三届议员秋庆镐为大邱市长候选人，他将与共同民主党前总理金富谦展开对决，此次选举的主要焦点将是“大邱经济复苏”和“维护保守派尊严”。"
       }
     },
     {
-      "title": "‘보수 본진’ 대구, 최대 격전지로…김부겸·추경호 맞붙는다 - khan.co.kr",
-      "link": "https://www.khan.co.kr/article/202604261613001",
-      "source": "khan.co.kr",
-      "pubDate": "Sun, 26 Apr 2026 07:13:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/26/news-p.v1.20260426.73777c55dfe94d1e800ccc0330b11362_P1.jpg",
+      "title": "[르포] 미·이란 2차 협상 불투명해지자…파키스탄 수도권 봉쇄 풀려 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260426041200104",
+      "source": "연합뉴스",
+      "pubDate": "Sun, 26 Apr 2026 07:07:19 GMT",
+      "image": "https://img2.yna.co.kr/photo/yna/YH/2026/04/26/PYH2026042608080010400_P4.jpg",
       "summaries": {
-        "ko": "대구시장 선거 대진표가 더불어민주당 김부겸 전 총리와 국민의힘 추경호 의원의 양자 대결로 확정되어 전통적 보수 강세 지역임에도 최대 격전지가 될 전망이다.",
-        "en": "The Daegu mayoral election is set to be a one-on-one contest between former Prime Minister Kim Boo-kyum of the Democratic Party and Rep. Choo Kyung-ho of the People Power Party, making the traditionally conservative stronghold a fierce battleground.",
-        "zh": "大邱市长选举已确定为民主党前总理金富谦与国民力量党议员秋庆淏的一对一对决，尽管大邱是传统的保守派大本营，预计这将成为一场激烈的选战。"
-      }
-    },
-    {
-      "title": "내일부터 최대 60만원 ‘고유가 지원금’...주민등록 등·초본 수수료 면제 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/area_general/1255887.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 26 Apr 2026 07:55:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/416/imgdb/original/2026/0426/20260426500912.webp",
-      "summaries": {
-        "ko": "오는 27일부터 국민 70%에게 1인당 최대 60만원의 고유가 피해지원금 신청이 시작되며, 취약계층이 1차 대상자로 요일제에 따라 온·오프라인으로 신청할 수 있다.",
-        "en": "Starting on the 27th, applications for high oil price relief funds, providing up to 600,000 KRW per person to 70% of the population, will begin, with vulnerable groups being the first target, eligible to apply online and offline according to a weekday rotation system.",
-        "zh": "从27日起，针对70%国民、每人最高60万韩元的高油价受害支援金将开始接受申请，第一批对象为弱势群体，可根据出生年份的周间错峰制度通过线上或线下方式申请。"
-      }
-    },
-    {
-      "title": "정부, 단기 근로자에 돈 더 주는 ‘공정 수당’ 추진 - 조선일보",
-      "link": "https://www.chosun.com/national/labor/2026/04/26/UP3NGHJELJASROTITXA62PQM34/",
-      "source": "조선일보",
-      "pubDate": "Sun, 26 Apr 2026 04:15:58 GMT",
-      "image": "https://www.chosun.com/resizer/v2/NRAHANFK7ZJT5LEXVCXYUXVWFE.jpg?auth=e00f91a9c64cfe15b4c9bb7176aefec9c92fee7981b1e82f75a05f2a0bcffa17&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "정부, 단기 근로자에 돈 더 주는 ‘공정 수당’ 추진 - 조선일보",
-        "en": "정부, 단기 근로자에 돈 더 주는 ‘공정 수당’ 추진 - 조선일보",
-        "zh": "정부, 단기 근로자에 돈 더 주는 ‘공정 수당’ 추진 - 조선일보"
-      }
-    },
-    {
-      "title": "일요일 ‘초여름 날씨’…아침은 11도, 낮엔 26도까지 올라 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1255860.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 26 Apr 2026 00:05:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/680/362/imgdb/original/2026/0426/20260426500193.webp",
-      "summaries": {
-        "ko": "일요일인 26일은 아침 최저 5~15도, 낮 최고 19~26도의 초여름 날씨를 보이며 일교차가 크게 벌어지겠고, 남부지방에 비나 소나기가 예보된 가운데 중부지방을 중심으로는 매우 건조해 화재에 유의해야 한다.",
-        "en": "On Sunday, April 26th, early summer weather is expected with a significant daily temperature range of 5-15°C in the morning and 19-26°C in the afternoon, while rain or showers are forecast for southern regions and very dry conditions persist mainly in central areas, requiring caution against fire.",
-        "zh": "周日（26日）预计将迎来初夏天气，早晨最低气温5-15摄氏度，白天最高气温19-26摄氏度，昼夜温差大，南部地区可能出现降雨或阵雨，而中部地区将持续非常干燥，需注意防火。"
-      }
-    },
-    {
-      "title": "‘순방 복귀’ 하정우, 다가온 결단의 시간…평택을 조국 대항마는 이광재냐 김용남이냐 - khan.co.kr",
-      "link": "https://www.khan.co.kr/article/202604261707001",
-      "source": "khan.co.kr",
-      "pubDate": "Sun, 26 Apr 2026 08:07:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/26/news-p.v1.20260414.dd72f530ca5d49279e9cc616c5997eeb_P1.jpeg",
-      "summaries": {
-        "ko": "민주당이 다가오는 재보궐선거를 앞두고 하정우 청와대 수석의 부산 북갑 출마 수락 여부와 이광재, 김용남 전 의원의 지역구 배치 등 핵심 인물들의 전략 공천을 두고 막판 고심 중이다.",
-        "en": "The Democratic Party is in the final stages of deliberating strategic nominations for key figures, including whether presidential secretary Ha Jeong-woo will accept a bid for Busan Buk-gap and the placement of former lawmakers Lee Gwang-jae and Kim Yong-nam, ahead of the upcoming by-elections.",
-        "zh": "民主党正就即将到来的补选进行关键人物的战略提名，包括青瓦台秘书河正宇是否接受釜山北甲区的参选请求，以及前议员李光宰和金容男的选区安排，目前正处于最终考量阶段。"
-      }
-    },
-    {
-      "title": "부산 북갑 보선 경쟁 한동훈·박민식, 대화없이 어색한 첫 조우 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6818043_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sun, 26 Apr 2026 02:48:52 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/04/26/jh_20260426_25.jpg",
-      "summaries": {
-        "ko": "부산 북갑 보선 경쟁 한동훈·박민식, 대화없이 어색한 첫 조우 - MBC 뉴스",
-        "en": "부산 북갑 보선 경쟁 한동훈·박민식, 대화없이 어색한 첫 조우 - MBC 뉴스",
-        "zh": "부산 북갑 보선 경쟁 한동훈·박민식, 대화없이 어색한 첫 조우 - MBC 뉴스"
+        "ko": "미국과 이란의 2차 종전 협상 개최가 불투명해지자 중재국 파키스탄의 수도 이슬라마바드에서 일부 보안 통제가 풀려 시내버스 운행이 재개되고 경찰 경계가 완화되었으나, 총리 관저 등이 있는 '레드존'은 여전히 통제 중이다.",
+        "en": "As the second round of US-Iran peace talks becomes uncertain, some security controls have been lifted in Pakistan's capital Islamabad, the mediating country, leading to the resumption of city bus services and relaxed police presence, though the 'Red Zone' containing the Prime Minister's residence remains restricted.",
+        "zh": "由于美伊第二次和平谈判前景不明朗，调解国巴基斯坦首都伊斯兰堡的部分安全管制已解除，市内巴士恢复运行，警方戒备有所放松，但总理府等所在的“红区”仍处于管制中。"
       }
     },
     {
@@ -110,6 +50,54 @@
       }
     },
     {
+      "title": "내일부터 최대 60만원 ‘고유가 지원금’...주민등록 등·초본 수수료 면제 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/area_general/1255887.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 26 Apr 2026 07:55:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/416/imgdb/original/2026/0426/20260426500912.webp",
+      "summaries": {
+        "ko": "내일부터 최대 60만원 ‘고유가 지원금’...주민등록 등·초본 수수료 면제 - 한겨레",
+        "en": "내일부터 최대 60만원 ‘고유가 지원금’...주민등록 등·초본 수수료 면제 - 한겨레",
+        "zh": "내일부터 최대 60만원 ‘고유가 지원금’...주민등록 등·초본 수수료 면제 - 한겨레"
+      }
+    },
+    {
+      "title": "일요일 ‘초여름 날씨’…아침은 11도, 낮엔 26도까지 올라 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1255860.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 26 Apr 2026 00:05:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/680/362/imgdb/original/2026/0426/20260426500193.webp",
+      "summaries": {
+        "ko": "일요일 ‘초여름 날씨’…아침은 11도, 낮엔 26도까지 올라 - 한겨레",
+        "en": "일요일 ‘초여름 날씨’…아침은 11도, 낮엔 26도까지 올라 - 한겨레",
+        "zh": "일요일 ‘초여름 날씨’…아침은 11도, 낮엔 26도까지 올라 - 한겨레"
+      }
+    },
+    {
+      "title": "‘순방 복귀’ 하정우, 다가온 결단의 시간…평택을 조국 대항마는 이광재냐 김용남이냐 - khan.co.kr",
+      "link": "https://www.khan.co.kr/article/202604261707001",
+      "source": "khan.co.kr",
+      "pubDate": "Sun, 26 Apr 2026 08:07:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/26/news-p.v1.20260414.dd72f530ca5d49279e9cc616c5997eeb_P1.jpeg",
+      "summaries": {
+        "ko": "‘순방 복귀’ 하정우, 다가온 결단의 시간…평택을 조국 대항마는 이광재냐 김용남이냐 - khan.co.kr",
+        "en": "‘순방 복귀’ 하정우, 다가온 결단의 시간…평택을 조국 대항마는 이광재냐 김용남이냐 - khan.co.kr",
+        "zh": "‘순방 복귀’ 하정우, 다가온 결단의 시간…평택을 조국 대항마는 이광재냐 김용남이냐 - khan.co.kr"
+      }
+    },
+    {
+      "title": "부산 구포초서 박민식·한동훈 첫 대면...하정우는 불참 - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/04/26/EHWFVRVBJNCCDHYE5SD7CBUR2M/",
+      "source": "조선일보",
+      "pubDate": "Sun, 26 Apr 2026 04:23:25 GMT",
+      "image": "https://www.chosun.com/resizer/v2/DUGXA7SJ5VBDHOI5G5IJ4UWDZI.JPG?auth=a000e23e0e773e742bc866e954bbb8580b0a9f0d1701702365ed2a3aebf5384d&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "부산 구포초서 박민식·한동훈 첫 대면...하정우는 불참 - 조선일보",
+        "en": "부산 구포초서 박민식·한동훈 첫 대면...하정우는 불참 - 조선일보",
+        "zh": "부산 구포초서 박민식·한동훈 첫 대면...하정우는 불참 - 조선일보"
+      }
+    },
+    {
       "title": "김부겸 \"대구가 국민의힘 혼내야\"‥선거사무소 개소식에 여권 총출동 - MBC 뉴스",
       "link": "https://imnews.imbc.com/news/2026/politics/article/6818079_36911.html",
       "source": "MBC 뉴스",
@@ -119,6 +107,18 @@
         "ko": "김부겸 \"대구가 국민의힘 혼내야\"‥선거사무소 개소식에 여권 총출동 - MBC 뉴스",
         "en": "김부겸 \"대구가 국민의힘 혼내야\"‥선거사무소 개소식에 여권 총출동 - MBC 뉴스",
         "zh": "김부겸 \"대구가 국민의힘 혼내야\"‥선거사무소 개소식에 여권 총출동 - MBC 뉴스"
+      }
+    },
+    {
+      "title": "5월 4일 임시공휴일 \"깜짝 발표 가능성\" 없을듯 - gukjenews.com",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3566349",
+      "source": "gukjenews.com",
+      "pubDate": "Sat, 25 Apr 2026 15:02:00 GMT",
+      "image": "https://cdn.gukjenews.com/news/thumbnail/202604/3566349_3719322_5134_v150.jpg",
+      "summaries": {
+        "ko": "5월 4일 임시공휴일 \"깜짝 발표 가능성\" 없을듯 - gukjenews.com",
+        "en": "5월 4일 임시공휴일 \"깜짝 발표 가능성\" 없을듯 - gukjenews.com",
+        "zh": "5월 4일 임시공휴일 \"깜짝 발표 가능성\" 없을듯 - gukjenews.com"
       }
     }
   ]
