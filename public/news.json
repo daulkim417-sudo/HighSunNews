@@ -1,64 +1,52 @@
 {
-  "lastUpdate": "2026-04-27T11:24:46.959715",
+  "lastUpdate": "2026-04-27T12:57:54.078667",
   "items": [
-    {
-      "title": "[속보] 민주, 하남갑 이광재·평택을 김용남·안산갑 김남국 공천 - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/04/27/T2PYEXH3JVGQVFVHLBS2RM4I6Q/",
-      "source": "조선일보",
-      "pubDate": "Mon, 27 Apr 2026 09:05:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MNTGENLGMNSGKNTGHAZDGMJVHE.jpg?auth=a48e618906bb3069862b3c0ea491445a7b32f7e4af86e3ba2f32454f6483aaa1&width=1200&height=630&focal=1905,668",
-      "summaries": {
-        "ko": "[속보] 민주, 하남갑 이광재·평택을 김용남·안산갑 김남국 공천 - 조선일보",
-        "en": "[속보] 민주, 하남갑 이광재·평택을 김용남·안산갑 김남국 공천 - 조선일보",
-        "zh": "[속보] 민주, 하남갑 이광재·평택을 김용남·안산갑 김남국 공천 - 조선일보"
-      }
-    },
     {
       "title": "“트럼프 만찬, 공연장보다 입장 쉽더라”…호텔 티켓 한 장에 뚫린 보안 - 한겨레",
       "link": "https://www.hani.co.kr/arti/international/america/1256053.html",
       "source": "한겨레",
-      "pubDate": "Mon, 27 Apr 2026 08:54:00 GMT",
+      "pubDate": "Mon, 27 Apr 2026 11:33:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/824/569/imgdb/child/2026/0427/17772742048293_20260426500693.webp",
       "summaries": {
-        "ko": "“트럼프 만찬, 공연장보다 입장 쉽더라”…호텔 티켓 한 장에 뚫린 보안 - 한겨레",
-        "en": "“트럼프 만찬, 공연장보다 입장 쉽더라”…호텔 티켓 한 장에 뚫린 보안 - 한겨레",
-        "zh": "“트럼프 만찬, 공연장보다 입장 쉽더라”…호텔 티켓 한 장에 뚫린 보안 - 한겨레"
+        "ko": "도널드 트럼프 대통령이 참석한 백악관 출입기자단 만찬에서 발생한 총격 사건은 행사의 낮은 보안 등급으로 인해 용의자가 무기를 소지하고 호텔에 쉽게 접근하며 고위 관계자들을 전례 없는 위험에 노출시킨 심각한 보안 허점을 드러냈다.",
+        "en": "A shooting incident at the White House Correspondents' Dinner, attended by President Trump, exposed severe security flaws due to the event's low security designation, allowing the suspect to easily access the hotel with weapons and placing high-ranking officials at unprecedented risk.",
+        "zh": "唐纳德·特朗普总统出席的白宫记者晚宴上发生的枪击事件，因该活动的安全级别较低，暴露出严重的安全漏洞，导致嫌疑人携带武器轻易进入酒店，使高级官员面临前所未有的风险。"
       }
     },
     {
-      "title": "트럼프 “협상 원하면 전화하라”…이란 “핵 제외 종전조건 전달” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604271556001",
+      "title": "민주당, ‘조국 출마’ 평택을에 김용남 전략공천 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604272054005",
       "source": "경향신문",
-      "pubDate": "Mon, 27 Apr 2026 06:56:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/27/news-p.v1.20260427.12f92001a2d44cacb408de39a949f79a_P1.png",
+      "pubDate": "Mon, 27 Apr 2026 11:54:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/27/l_2026042801000836200083544.jpg",
       "summaries": {
-        "ko": "트럼프 “협상 원하면 전화하라”…이란 “핵 제외 종전조건 전달” - 경향신문",
-        "en": "트럼프 “협상 원하면 전화하라”…이란 “핵 제외 종전조건 전달” - 경향신문",
-        "zh": "트럼프 “협상 원하면 전화하라”…이란 “핵 제외 종전조건 전달” - 경향신문"
+        "ko": "더불어민주당이 6·3 국회의원 재선거를 앞두고 경기 평택을에 '조국 저격수'로 불리던 보수정당 출신 김용남 전 의원을 전략공천하여 조국혁신당 조국 대표와의 대결을 성사시켰으며, 하남갑에는 이광재, 안산갑에는 김남국을 공천했다.",
+        "en": "The Democratic Party of Korea strategically nominated former conservative lawmaker Kim Yong-nam, known as a 'Cho Kuk sniper,' for the Pyeongtaek-B constituency in Gyeonggi Province for the upcoming June 3 parliamentary by-election, setting up a confrontation with Cho Kuk, leader of the Cho Kuk Innovation Party, while also nominating Lee Gwang-jae for Hanam-A and Kim Nam-guk for Ansan-A.",
+        "zh": "韩国共同民主党在6月3日国会议员补选前，战略性提名曾被称为“曹国狙击手”的保守党前议员金容男为京畿平泽乙选区候选人，促成了与曹国革新党党首曹国的对决，同时提名李光宰为河南甲、金南国为安山甲的候选人。"
       }
     },
     {
-      "title": "조갑제 “윤어게인 공천…내란재판 추경호, 윤석열 변호인 윤갑근이라니” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1256001.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0427/20260427501021.webp",
+      "title": "악시오스 “이란, ‘호르무즈 개방·종전 우선…핵은 추후 논의’ 제안” - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/04/27/OOWKAVM5RBFVLCLVBYZWGAJ6TY/",
+      "source": "조선일보",
+      "pubDate": "Mon, 27 Apr 2026 06:35:20 GMT",
+      "image": "https://www.chosun.com/resizer/v2/WEMALLPWYFMH3MF4KDU2ZQ6M4U.jpg?auth=2b1cd4880dad43d8863e19a31f3bf73764439489b213ce0361c6505d561c6d3e&width=1200&height=630&focal=2442,1235",
       "summaries": {
-        "ko": "조갑제 “윤어게인 공천…내란재판 추경호, 윤석열 변호인 윤갑근이라니” - 한겨레",
-        "en": "조갑제 “윤어게인 공천…내란재판 추경호, 윤석열 변호인 윤갑근이라니” - 한겨레",
-        "zh": "조갑제 “윤어게인 공천…내란재판 추경호, 윤석열 변호인 윤갑근이라니” - 한겨레"
+        "ko": "악시오스 “이란, ‘호르무즈 개방·종전 우선…핵은 추후 논의’ 제안” - 조선일보",
+        "en": "악시오스 “이란, ‘호르무즈 개방·종전 우선…핵은 추후 논의’ 제안” - 조선일보",
+        "zh": "악시오스 “이란, ‘호르무즈 개방·종전 우선…핵은 추후 논의’ 제안” - 조선일보"
       }
     },
     {
-      "title": "“뇌전증 아이 부모 ‘주사기 못 구해 닦아서 또 써’”…생산량 늘었지만 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/health/1255953.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 27 Apr 2026 07:09:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0426/53_17771998065508_20260426502080.webp",
+      "title": "[논평] 윤석열과 내란세력 처벌, 더 이상 지체 말아야 - 참여연대",
+      "link": "https://peoplepower21.org/government/2021671",
+      "source": "참여연대",
+      "pubDate": "Mon, 27 Apr 2026 08:52:28 GMT",
+      "image": "https://pspd-www.s3.ap-northeast-2.amazonaws.com/wp-content/uploads/2023/02/09201036/default_thumb_800-400.png",
       "summaries": {
-        "ko": "“뇌전증 아이 부모 ‘주사기 못 구해 닦아서 또 써’”…생산량 늘었지만 - 한겨레",
-        "en": "“뇌전증 아이 부모 ‘주사기 못 구해 닦아서 또 써’”…생산량 늘었지만 - 한겨레",
-        "zh": "“뇌전증 아이 부모 ‘주사기 못 구해 닦아서 또 써’”…생산량 늘었지만 - 한겨레"
+        "ko": "[논평] 윤석열과 내란세력 처벌, 더 이상 지체 말아야 - 참여연대",
+        "en": "[논평] 윤석열과 내란세력 처벌, 더 이상 지체 말아야 - 참여연대",
+        "zh": "[논평] 윤석열과 내란세력 처벌, 더 이상 지체 말아야 - 참여연대"
       }
     },
     {
@@ -68,9 +56,21 @@
       "pubDate": "Mon, 27 Apr 2026 01:48:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/04/27/news-p.v1.20260414.66aefd7b223e4579917dba9ef9564971_P1.jpeg",
       "summaries": {
-        "ko": "[단독] 하정우 AI수석, 오늘 사표내고 부산 북갑 출마…이르면 29일 민주당 인재영입식 - 경향신문",
-        "en": "[단독] 하정우 AI수석, 오늘 사표내고 부산 북갑 출마…이르면 29일 민주당 인재영입식 - 경향신문",
-        "zh": "[단독] 하정우 AI수석, 오늘 사표내고 부산 북갑 출마…이르면 29일 민주당 인재영입식 - 경향신문"
+        "ko": "하정우 청와대 인공지능(AI)미래기획수석이 사의를 표명하고 부산 북갑 국회의원 보궐선거에 출마하며, 더불어민주당은 이르면 29일 하 수석에 대한 인재영입식을 진행할 예정이다.",
+        "en": "Ha Jung-woo, the presidential AI Future Planning Senior Secretary, has resigned to run in the parliamentary by-election for Busan Buk-gap, with the Democratic Party planning to hold a talent recruitment event for him as early as the 29th.",
+        "zh": "青瓦台AI未来企划首席秘书河正宇已辞职，将参加釜山北甲国会议员补选，民主党计划最早于29日为河秘书举行人才招募仪式。"
+      }
+    },
+    {
+      "title": "김부겸 vs 추경호 보수 성지서 격돌…막 오른 대구시장 선거 - 노컷뉴스",
+      "link": "https://www.nocutnews.co.kr/news/6508800",
+      "source": "노컷뉴스",
+      "pubDate": "Mon, 27 Apr 2026 07:10:00 GMT",
+      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/04/27/202604271609344293_0.jpg",
+      "summaries": {
+        "ko": "김부겸 vs 추경호 보수 성지서 격돌…막 오른 대구시장 선거 - 노컷뉴스",
+        "en": "김부겸 vs 추경호 보수 성지서 격돌…막 오른 대구시장 선거 - 노컷뉴스",
+        "zh": "김부겸 vs 추경호 보수 성지서 격돌…막 오른 대구시장 선거 - 노컷뉴스"
       }
     },
     {
@@ -86,39 +86,39 @@
       }
     },
     {
-      "title": "국민의힘 충북지사 후보에 ‘원조 친윤’ 김영환 현 지사…민주당 신용한과 맞대결 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604271638001",
-      "source": "경향신문",
-      "pubDate": "Mon, 27 Apr 2026 07:38:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/27/rcv.YNA.20260323.PYH2026032305950001300_P1.jpg",
+      "title": "“어딨었어?”…기숙사 비웠다고 이주노동자 폭행 공장 관리인 수사 착수 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/capital/1256092.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 27 Apr 2026 11:16:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/701/464/imgdb/original/2026/0427/20260427503181.webp",
       "summaries": {
-        "ko": "국민의힘 충북지사 후보에 ‘원조 친윤’ 김영환 현 지사…민주당 신용한과 맞대결 - 경향신문",
-        "en": "국민의힘 충북지사 후보에 ‘원조 친윤’ 김영환 현 지사…민주당 신용한과 맞대결 - 경향신문",
-        "zh": "국민의힘 충북지사 후보에 ‘원조 친윤’ 김영환 현 지사…민주당 신용한과 맞대결 - 경향신문"
+        "ko": "“어딨었어?”…기숙사 비웠다고 이주노동자 폭행 공장 관리인 수사 착수 - 한겨레",
+        "en": "“어딨었어?”…기숙사 비웠다고 이주노동자 폭행 공장 관리인 수사 착수 - 한겨레",
+        "zh": "“어딨었어?”…기숙사 비웠다고 이주노동자 폭행 공장 관리인 수사 착수 - 한겨레"
       }
     },
     {
-      "title": "개혁신당 정이한 '음료수 테러'에 의식 잃어 \"민주주의 위협하는 테러\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6818216_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Mon, 27 Apr 2026 02:19:41 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/04/27/chhh_20260427_15.jpg",
+      "title": "국민의힘 충북지사 후보에 김영환 현 지사 - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/04/27/B2MUR7HGYJDE3J452QYIZO5STU/",
+      "source": "조선일보",
+      "pubDate": "Mon, 27 Apr 2026 08:02:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MM2GKMRRHFSWGMJSMFQTEZRSMQ.jpg?auth=f87bf4dd9c0d76405126d69b5f9dc550ee60adba616d517858cc99c2898d1c57&width=1200&height=630&focal=2272,1127",
       "summaries": {
-        "ko": "개혁신당 정이한 '음료수 테러'에 의식 잃어 \"민주주의 위협하는 테러\" - MBC 뉴스",
-        "en": "개혁신당 정이한 '음료수 테러'에 의식 잃어 \"민주주의 위협하는 테러\" - MBC 뉴스",
-        "zh": "개혁신당 정이한 '음료수 테러'에 의식 잃어 \"민주주의 위협하는 테러\" - MBC 뉴스"
+        "ko": "국민의힘 충북지사 후보에 김영환 현 지사 - 조선일보",
+        "en": "국민의힘 충북지사 후보에 김영환 현 지사 - 조선일보",
+        "zh": "국민의힘 충북지사 후보에 김영환 현 지사 - 조선일보"
       }
     },
     {
-      "title": "트럼프 \"우린 미친 세상에\"…SNS 음모론 '봇물'",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260427201847Qwy",
+      "title": "[이시각헤드라인] 4월 27일 뉴스투나잇",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260427214155T3k",
       "source": "Breaking News",
-      "pubDate": "Mon, 27 Apr 2026 20:19:19 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260427/MYH20260427201847Qwy.jpg",
+      "pubDate": "Mon, 27 Apr 2026 21:42:15 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260427/MYH20260427214155T3k.jpg",
       "summaries": {
-        "ko": "트럼프 \"우린 미친 세상에\"…SNS 음모론 '봇물'",
-        "en": "트럼프 \"우린 미친 세상에\"…SNS 음모론 '봇물'",
-        "zh": "트럼프 \"우린 미친 세상에\"…SNS 음모론 '봇물'"
+        "ko": "[이시각헤드라인] 4월 27일 뉴스투나잇",
+        "en": "[이시각헤드라인] 4월 27일 뉴스투나잇",
+        "zh": "[이시각헤드라인] 4월 27일 뉴스투나잇"
       }
     }
   ]
