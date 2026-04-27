@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-27T18:57:43.193348",
+  "lastUpdate": "2026-04-27T20:04:15.709092",
   "items": [
     {
       "title": "하정우 가세한 ‘부산 빅매치’…한동훈·박민식 단일화가 변수 - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Mon, 27 Apr 2026 12:00:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/709/imgdb/original/2026/0427/20260427503635.webp",
       "summaries": {
-        "ko": "하정우 전 청와대 수석이 부산 북구갑 보궐선거에 출마하면서 국민의힘 박민식 후보와 무소속 한동훈 후보 간 3파전이 예상되는 가운데, 보수표 분산을 우려하는 단일화 필요성이 제기되지만 두 후보 모두 선을 긋고 있어 향후 경쟁이 심화될 전망이다.",
-        "en": "Ha Jung-woo's entry into the Busan Buk-gu Gap by-election creates a three-way race with People Power Party's Park Min-sik and independent Han Dong-hoon, making conservative candidate unification a crucial variable as both Park and Han currently refuse to merge candidacies.",
-        "zh": "前青瓦台首席秘书河正宇宣布参选釜山北区甲补选，形成与国民力量党候选人朴敏植及独立候选人韩东勋的三方竞争，而保守派候选人整合的可能性成为关键变数，尽管朴、韩两人目前都拒绝合并。"
+        "ko": "부산 북구갑 보궐선거에서 더불어민주당 하정우 후보가 국민의힘 박민식 후보와 무소속 한동훈 후보 간 보수표 분산 우려에도 불구하고 단일화를 거부하면서 3파전이 예상된다.",
+        "en": "In the Busan Buk-gu Gap by-election, Democratic Party candidate Ha Jung-woo faces a potential three-way race as People Power Party's Park Min-sik and independent Han Dong-hoon reject calls for a single candidacy, raising concerns about conservative vote splitting.",
+        "zh": "在釜山北区甲补选中，民主党候选人河正宇面临与国民力量党朴敏植和无党派韩东勋的三方对决，尽管外界担忧保守派选票分散，两人仍拒绝整合候选人。"
       }
     },
     {
@@ -20,9 +20,69 @@
       "pubDate": "Mon, 27 Apr 2026 13:42:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/04/27/news-p.v1.20260421.16fe22a2854545b4b7fa5dad6b62856f_P1.jpeg",
       "summaries": {
-        "ko": "노동위 “화물연대 택배기사도 교섭 대상” 인정…‘CU 사태’ 영향 미치나 - 경향신문",
-        "en": "노동위 “화물연대 택배기사도 교섭 대상” 인정…‘CU 사태’ 영향 미치나 - 경향신문",
-        "zh": "노동위 “화물연대 택배기사도 교섭 대상” 인정…‘CU 사태’ 영향 미치나 - 경향신문"
+        "ko": "노동위원회가 CJ대한통운과 한진을 화물연대 소속 택배기사의 사용자성으로 인정하여, CU 물류 사태에도 영향을 미치고 화물연대가 법외노조라는 주장의 근거를 약화시킬 것으로 보인다.",
+        "en": "The Labor Relations Commission recognized CJ Logistics and Hanjin as employers for parcel delivery drivers affiliated with the Hwawulyeon-dae union, a decision expected to impact the CU logistics dispute and weaken claims that Hwawulyeon-dae is an \"outlaw union.\"",
+        "zh": "劳动委员会承认CJ大韩通运和韩进是隶属于货物连带工会的快递司机的“使用者”，这一决定预计将影响CU物流事件，并削弱货物连带是“非法工会”的主张。"
+      }
+    },
+    {
+      "title": "\"이란 석유 400만 배럴, 美 봉쇄 뚫고 호르무즈 통과\" - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/04/28/77W7BRQTOJAP7PNTT5KNHX3NIE/",
+      "source": "조선일보",
+      "pubDate": "Mon, 27 Apr 2026 15:04:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/4LMOAR5KPNPINMQTTZICDDVN3I.jpg?auth=b2e533607edd27ca36a07ee7cebf9a4fed23031fdfb54c2376f297ed11bc0990&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "\"이란 석유 400만 배럴, 美 봉쇄 뚫고 호르무즈 통과\" - 조선일보",
+        "en": "\"이란 석유 400만 배럴, 美 봉쇄 뚫고 호르무즈 통과\" - 조선일보",
+        "zh": "\"이란 석유 400만 배럴, 美 봉쇄 뚫고 호르무즈 통과\" - 조선일보"
+      }
+    },
+    {
+      "title": "국힘, ‘컷오프’했던 김영환 충북 공천… 현역 11명 모두 생존 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260428/133823176/2",
+      "source": "동아일보",
+      "pubDate": "Mon, 27 Apr 2026 19:30:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/28/133823030.4.jpg",
+      "summaries": {
+        "ko": "국힘, ‘컷오프’했던 김영환 충북 공천… 현역 11명 모두 생존 - 동아일보",
+        "en": "국힘, ‘컷오프’했던 김영환 충북 공천… 현역 11명 모두 생존 - 동아일보",
+        "zh": "국힘, ‘컷오프’했던 김영환 충북 공천… 현역 11명 모두 생존 - 동아일보"
+      }
+    },
+    {
+      "title": "백악관, '만찬장 총격'에 \"민주당 진영이 트럼프를 악마화한 탓\" - v.daum.net",
+      "link": "https://v.daum.net/v/20260428035704768",
+      "source": "v.daum.net",
+      "pubDate": "Mon, 27 Apr 2026 18:57:04 GMT",
+      "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202604/28/yonhap/20260428035705037qnlb.jpg",
+      "summaries": {
+        "ko": "백악관, '만찬장 총격'에 \"민주당 진영이 트럼프를 악마화한 탓\" - v.daum.net",
+        "en": "백악관, '만찬장 총격'에 \"민주당 진영이 트럼프를 악마화한 탓\" - v.daum.net",
+        "zh": "백악관, '만찬장 총격'에 \"민주당 진영이 트럼프를 악마화한 탓\" - v.daum.net"
+      }
+    },
+    {
+      "title": "조갑제 “윤어게인 공천…내란재판 추경호, 윤석열 변호인 윤갑근이라니” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1256001.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0427/20260427501021.webp",
+      "summaries": {
+        "ko": "조갑제 “윤어게인 공천…내란재판 추경호, 윤석열 변호인 윤갑근이라니” - 한겨레",
+        "en": "조갑제 “윤어게인 공천…내란재판 추경호, 윤석열 변호인 윤갑근이라니” - 한겨레",
+        "zh": "조갑제 “윤어게인 공천…내란재판 추경호, 윤석열 변호인 윤갑근이라니” - 한겨레"
+      }
+    },
+    {
+      "title": "[사설] 삼성·SK하이닉스에만 있는 세계 유일의 ‘반도체 노조’ - 조선일보",
+      "link": "https://www.chosun.com/opinion/editorial/2026/04/27/PFX32TMNCRAPNEGS57YU3LZK4I/",
+      "source": "조선일보",
+      "pubDate": "Sun, 26 Apr 2026 15:20:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/QK4CSDKLFNM6DH6OTYMCICBGJA.JPG?auth=9cf0d72bc030d5972f3e30ab143a9dcdf3bea49e715c8cfdda6301d384bf8bd5&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "[사설] 삼성·SK하이닉스에만 있는 세계 유일의 ‘반도체 노조’ - 조선일보",
+        "en": "[사설] 삼성·SK하이닉스에만 있는 세계 유일의 ‘반도체 노조’ - 조선일보",
+        "zh": "[사설] 삼성·SK하이닉스에만 있는 세계 유일의 ‘반도체 노조’ - 조선일보"
       }
     },
     {
@@ -38,66 +98,6 @@
       }
     },
     {
-      "title": "트럼프보다 먼저 대피한 밴스... 와인 챙긴 女, 샐러드 먹은 男 - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/04/27/NQIFEPIMFRAODNETQUINFTOV54/",
-      "source": "조선일보",
-      "pubDate": "Mon, 27 Apr 2026 04:24:53 GMT",
-      "image": "https://www.chosun.com/resizer/v2/SHFDAQEFDVDWXKVISS75PU6FQQ.gif?auth=b8d798d4c5df785108161a4d4164762762613183769e87ac66ac8f0bfa08252d&width=480&height=252&smart=true",
-      "summaries": {
-        "ko": "트럼프보다 먼저 대피한 밴스... 와인 챙긴 女, 샐러드 먹은 男 - 조선일보",
-        "en": "트럼프보다 먼저 대피한 밴스... 와인 챙긴 女, 샐러드 먹은 男 - 조선일보",
-        "zh": "트럼프보다 먼저 대피한 밴스... 와인 챙긴 女, 샐러드 먹은 男 - 조선일보"
-      }
-    },
-    {
-      "title": "[논평] 윤석열과 내란세력 처벌, 더 이상 지체 말아야 - 참여연대",
-      "link": "https://peoplepower21.org/government/2021671",
-      "source": "참여연대",
-      "pubDate": "Mon, 27 Apr 2026 08:52:28 GMT",
-      "image": "https://pspd-www.s3.ap-northeast-2.amazonaws.com/wp-content/uploads/2023/02/09201036/default_thumb_800-400.png",
-      "summaries": {
-        "ko": "[논평] 윤석열과 내란세력 처벌, 더 이상 지체 말아야 - 참여연대",
-        "en": "[논평] 윤석열과 내란세력 처벌, 더 이상 지체 말아야 - 참여연대",
-        "zh": "[논평] 윤석열과 내란세력 처벌, 더 이상 지체 말아야 - 참여연대"
-      }
-    },
-    {
-      "title": "\"이란 석유 4백만 배럴, 미군 봉쇄 뚫고 호르무즈 통과\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/world/article/6818381_36925.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Mon, 27 Apr 2026 13:35:28 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/04/27/hye_20260427_56.jpg",
-      "summaries": {
-        "ko": "\"이란 석유 4백만 배럴, 미군 봉쇄 뚫고 호르무즈 통과\" - MBC 뉴스",
-        "en": "\"이란 석유 4백만 배럴, 미군 봉쇄 뚫고 호르무즈 통과\" - MBC 뉴스",
-        "zh": "\"이란 석유 4백만 배럴, 미군 봉쇄 뚫고 호르무즈 통과\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "김정관의 작심발언 \"삼성전자 이익 나면 그 회사 사람들만 나눠야 하나\" - 조선일보",
-      "link": "https://www.chosun.com/economy/industry-company/2026/04/27/67MZCIUPRRFHLERARULSQJYXJA/",
-      "source": "조선일보",
-      "pubDate": "Mon, 27 Apr 2026 09:50:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MIYTKY3CGI4WGZJQMI4DCYJRHA.jpg?auth=8e7099d75eb89705a0e5650698ad4c95d8142184ce1330936d04db03a6019908&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "김정관의 작심발언 \"삼성전자 이익 나면 그 회사 사람들만 나눠야 하나\" - 조선일보",
-        "en": "김정관의 작심발언 \"삼성전자 이익 나면 그 회사 사람들만 나눠야 하나\" - 조선일보",
-        "zh": "김정관의 작심발언 \"삼성전자 이익 나면 그 회사 사람들만 나눠야 하나\" - 조선일보"
-      }
-    },
-    {
-      "title": "김부겸 vs 추경호 보수 성지서 격돌…막 오른 대구시장 선거 - 노컷뉴스",
-      "link": "https://www.nocutnews.co.kr/news/6508800",
-      "source": "노컷뉴스",
-      "pubDate": "Mon, 27 Apr 2026 07:10:00 GMT",
-      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/04/27/202604271609344293_0.jpg",
-      "summaries": {
-        "ko": "김부겸 vs 추경호 보수 성지서 격돌…막 오른 대구시장 선거 - 노컷뉴스",
-        "en": "김부겸 vs 추경호 보수 성지서 격돌…막 오른 대구시장 선거 - 노컷뉴스",
-        "zh": "김부겸 vs 추경호 보수 성지서 격돌…막 오른 대구시장 선거 - 노컷뉴스"
-      }
-    },
-    {
       "title": "李대통령 ‘알파고 아버지’ 만났다… 하사비스 구글 딥마인드 CEO 접견 - 조선일보",
       "link": "https://www.chosun.com/politics/politics_general/2026/04/27/NEJILS2NEVG5ZJYNKXMOKWNHKI/",
       "source": "조선일보",
@@ -110,15 +110,15 @@
       }
     },
     {
-      "title": "늑구 탈출로 ‘매출 0원인데’ 4500잔 수색대에 쏜 카페 점주…5월말까지 휴장 오월드 - 문화일보",
-      "link": "https://www.munhwa.com/article/11585333",
-      "source": "문화일보",
-      "pubDate": "Mon, 27 Apr 2026 09:29:14 GMT",
-      "image": "https://wimg.munhwa.com/news/cms/2026/04/27/news-p.v1.20260427.01159bedca4f41e7b1533adf34fd103f_R.jpg",
+      "title": "'아이들 지키기 위해서라면'…독사와 맞서다 숨 거둔 인도 영웅견",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260427175918SU3",
+      "source": "Breaking News",
+      "pubDate": "Tue, 28 Apr 2026 05:00:05 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260427/AKR20260427175918SU3_01_i.jpg",
       "summaries": {
-        "ko": "늑구 탈출로 ‘매출 0원인데’ 4500잔 수색대에 쏜 카페 점주…5월말까지 휴장 오월드 - 문화일보",
-        "en": "늑구 탈출로 ‘매출 0원인데’ 4500잔 수색대에 쏜 카페 점주…5월말까지 휴장 오월드 - 문화일보",
-        "zh": "늑구 탈출로 ‘매출 0원인데’ 4500잔 수색대에 쏜 카페 점주…5월말까지 휴장 오월드 - 문화일보"
+        "ko": "'아이들 지키기 위해서라면'…독사와 맞서다 숨 거둔 인도 영웅견",
+        "en": "'아이들 지키기 위해서라면'…독사와 맞서다 숨 거둔 인도 영웅견",
+        "zh": "'아이들 지키기 위해서라면'…독사와 맞서다 숨 거둔 인도 영웅견"
       }
     }
   ]
