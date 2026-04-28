@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-04-28T19:53:52.125587",
+  "lastUpdate": "2026-04-28T20:55:57.113830",
   "items": [
-    {
-      "title": "김건희, 2심서 4년형…“주가조작도 유죄” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604282108005",
-      "source": "경향신문",
-      "pubDate": "Tue, 28 Apr 2026 12:08:00 GMT",
-      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
-      "summaries": {
-        "ko": "김건희 여사가 항소심에서 주가조작 및 알선수재 혐의로 징역 4년을 선고받았으며, 1심과 달리 주가조작 유죄 판단과 공소시효 미도과, 대통령 취임 전 금품 수수도 유죄로 인정되었다.",
-        "en": "In the appellate trial, Kim Keon-hee was sentenced to 4 years in prison for stock manipulation and influence peddling, with the court notably reversing lower court judgments by confirming the stock manipulation charges, stating the statute of limitations had not expired, and including gifts received before the presidential inauguration as criminal.",
-        "zh": "金建希在二审中因操纵股价和斡旋收受贿赂罪被判处有期徒刑4年，法院推翻了一审的部分判决，认定股价操纵罪名成立、诉讼时效未过，以及在总统就职前收受的物品也构成有罪。"
-      }
-    },
     {
       "title": "평택을 김용남-조국 ‘불꽃 신경전’…민주, 단일화 논의 선 그어 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/election/1256368.html",
@@ -20,9 +8,21 @@
       "pubDate": "Tue, 28 Apr 2026 15:20:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/780/532/imgdb/original/2026/0428/4717773839489822.png",
       "summaries": {
-        "ko": "평택을 김용남-조국 ‘불꽃 신경전’…민주, 단일화 논의 선 그어 - 한겨레",
-        "en": "평택을 김용남-조국 ‘불꽃 신경전’…민주, 단일화 논의 선 그어 - 한겨레",
-        "zh": "평택을 김용남-조국 ‘불꽃 신경전’…민주, 단일화 논의 선 그어 - 한겨레"
+        "ko": "더불어민주당이 과거 조국 대표를 비판했던 김용남 전 의원을 평택을 보궐선거 후보로 전략 공천하자 조국혁신당이 강하게 반발하며 '정치적 도의'를 거론하는 가운데, 민주당은 단일화 논의에 선을 긋고 있다.",
+        "en": "The Democratic Party's strategic nomination of former lawmaker Kim Yong-nam, a past critic of Cho Kuk, for the Pyeongtaek-eul by-election has sparked strong opposition from the Cho Kuk Innovation Party, which views it as a \"political impropriety,\" while the Democratic Party rules out talks of unification.",
+        "zh": "民主党策略性提名曾批评曹国代表的前议员金容男为平泽乙补选候选人，引发了曹国革新党强烈不满，认为此举“违背政治道义”，而民主党则拒绝讨论单一化。"
+      }
+    },
+    {
+      "title": "김건희 주가조작·샤넬백, 2심서 유죄로 뒤집혔다 - 조선일보",
+      "link": "https://www.chosun.com/national/court_law/2026/04/28/UEUSDF6SCJH4DOFFUK4NZWLNWM/",
+      "source": "조선일보",
+      "pubDate": "Tue, 28 Apr 2026 10:20:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/4EMPXYEOXNHWJGZMIQKMF7O4AE.jpg?auth=9ae47bd004b9709a040d32094dbd2ab76e3df5d77b56363affd715705225625d&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "김건희 주가조작·샤넬백, 2심서 유죄로 뒤집혔다 - 조선일보",
+        "en": "김건희 주가조작·샤넬백, 2심서 유죄로 뒤집혔다 - 조선일보",
+        "zh": "김건희 주가조작·샤넬백, 2심서 유죄로 뒤집혔다 - 조선일보"
       }
     },
     {
@@ -38,15 +38,15 @@
       }
     },
     {
-      "title": "트럼프 \"이란, 붕괴 상태 알려왔다... 美가 호르무즈 개방해주길 원해\" - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/04/28/XTRTZQ2IUZBNNI53Y4WZLWEIHU/",
-      "source": "조선일보",
-      "pubDate": "Tue, 28 Apr 2026 14:00:12 GMT",
-      "image": "https://www.chosun.com/resizer/v2/HFSDQYRVGVQTMNJXMU4GKYLBMM.jpg?auth=02309f562407e5575c17f8e4d82e4b95a10ed4f16d3ff2353bda29bfabfce5b7&width=1200&height=630&smart=true",
+      "title": "미 법무부, ‘만찬장 총격’에 판사에 “백악관 연회장 허용” 요구 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8548417",
+      "source": "KBS 뉴스",
+      "pubDate": "Tue, 28 Apr 2026 14:48:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/04/29/20260429_AK6WfF.jpg",
       "summaries": {
-        "ko": "트럼프 \"이란, 붕괴 상태 알려왔다... 美가 호르무즈 개방해주길 원해\" - 조선일보",
-        "en": "트럼프 \"이란, 붕괴 상태 알려왔다... 美가 호르무즈 개방해주길 원해\" - 조선일보",
-        "zh": "트럼프 \"이란, 붕괴 상태 알려왔다... 美가 호르무즈 개방해주길 원해\" - 조선일보"
+        "ko": "미 법무부, ‘만찬장 총격’에 판사에 “백악관 연회장 허용” 요구 - KBS 뉴스",
+        "en": "미 법무부, ‘만찬장 총격’에 판사에 “백악관 연회장 허용” 요구 - KBS 뉴스",
+        "zh": "미 법무부, ‘만찬장 총격’에 판사에 “백악관 연회장 허용” 요구 - KBS 뉴스"
       }
     },
     {
@@ -62,15 +62,15 @@
       }
     },
     {
-      "title": "미 법무부, ‘만찬장 총격’에 판사에 “백악관 연회장 허용” 요구 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8548417",
-      "source": "KBS 뉴스",
-      "pubDate": "Tue, 28 Apr 2026 14:48:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/04/29/20260429_AK6WfF.jpg",
+      "title": "일본 유조선은 호르무즈 해협 통과했다 \"이란전 이후 처음\" - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/04/29/VERB2PJO5BAIXBMEISOGMY4KTY/",
+      "source": "조선일보",
+      "pubDate": "Tue, 28 Apr 2026 15:01:09 GMT",
+      "image": "https://www.chosun.com/resizer/v2/HA4WCYZYMUZGMZRUMI3GMMZRGA.jpg?auth=83de02e2d91990bc7e120820866e2fb8e81869ba56823db2fb7fb71385bef37c&width=750&height=393&smart=true",
       "summaries": {
-        "ko": "미 법무부는 트럼프 대통령 만찬장 인근 총격 사건을 계기로 외부 장소보다 백악관 내 시설의 보안 강화 필요성을 강조하며, 판사에게 논란 중인 백악관 연회장 공사를 허용해 달라고 요청했습니다.",
-        "en": "Following a shooting near President Trump's dinner, the U.S. Justice Department urged a federal judge to permit the controversial White House ballroom renovation, emphasizing that the incident highlights the critical need for enhanced on-site presidential security compared to external venues.",
-        "zh": "在特朗普总统出席的晚宴附近发生枪击事件后，美国司法部敦促联邦法官允许备受争议的白宫宴会厅翻修工程，强调此事件凸显了相比外部场所，加强白宫内部总统安保设施的迫切性。"
+        "ko": "일본 유조선은 호르무즈 해협 통과했다 \"이란전 이후 처음\" - 조선일보",
+        "en": "일본 유조선은 호르무즈 해협 통과했다 \"이란전 이후 처음\" - 조선일보",
+        "zh": "일본 유조선은 호르무즈 해협 통과했다 \"이란전 이후 처음\" - 조선일보"
       }
     },
     {
@@ -86,39 +86,39 @@
       }
     },
     {
-      "title": "“하루라도 빨리 받자” 고유가지원금 지급 첫날…55만명 신청, 3160억원 지급 - 매일경제",
-      "link": "https://www.mk.co.kr/news/economy/12029437",
+      "title": "법원 “김건희 받은 통일교 첫 샤넬백 묵시적 청탁 인정” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1256274.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 28 Apr 2026 08:18:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/480/imgdb/original/2026/0428/20260428502880.webp",
+      "summaries": {
+        "ko": "법원 “김건희 받은 통일교 첫 샤넬백 묵시적 청탁 인정” - 한겨레",
+        "en": "법원 “김건희 받은 통일교 첫 샤넬백 묵시적 청탁 인정” - 한겨레",
+        "zh": "법원 “김건희 받은 통일교 첫 샤넬백 묵시적 청탁 인정” - 한겨레"
+      }
+    },
+    {
+      "title": "“타워팰리스 사는 놈이” 부산시민 항의에…한동훈 “다 하셨어요? 더 하세요” - 매일경제",
+      "link": "https://www.mk.co.kr/news/politics/12029522",
       "source": "매일경제",
-      "pubDate": "Tue, 28 Apr 2026 05:00:46 GMT",
-      "image": "https://pimg.mk.co.kr/news/cms/202604/28/news-p.v1.20260428.bf59632e6de249ae98e6170185415301_R.jpg",
+      "pubDate": "Tue, 28 Apr 2026 06:11:55 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202604/28/news-p.v1.20260428.3c61f0337945498c9f98a95d9ff0f016_R.jpg",
       "summaries": {
-        "ko": "“하루라도 빨리 받자” 고유가지원금 지급 첫날…55만명 신청, 3160억원 지급 - 매일경제",
-        "en": "“하루라도 빨리 받자” 고유가지원금 지급 첫날…55만명 신청, 3160억원 지급 - 매일경제",
-        "zh": "“하루라도 빨리 받자” 고유가지원금 지급 첫날…55만명 신청, 3160억원 지급 - 매일경제"
+        "ko": "“타워팰리스 사는 놈이” 부산시민 항의에…한동훈 “다 하셨어요? 더 하세요” - 매일경제",
+        "en": "“타워팰리스 사는 놈이” 부산시민 항의에…한동훈 “다 하셨어요? 더 하세요” - 매일경제",
+        "zh": "“타워팰리스 사는 놈이” 부산시민 항의에…한동훈 “다 하셨어요? 더 하세요” - 매일경제"
       }
     },
     {
-      "title": "李 ‘소풍 기피’ 지적에... 전교조 “구더기 때문에 교사 전과자 돼” - 조선일보",
-      "link": "https://www.chosun.com/national/education/2026/04/28/JVYAZ25CK5HMNE6VJFELUHOULI/",
-      "source": "조선일보",
-      "pubDate": "Tue, 28 Apr 2026 11:03:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/HXUSDKGYUVBQ3ACJZKZ3ZSQDVM.JPG?auth=c19f4089f515c91cff3c4c1df03f3286cb87c3b1d867a83db3c8710d41fabe89&width=129&height=67&smart=true",
+      "title": "정부 \"병원급 이상 의료제품 재고 정상 수준\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260429055400b4g",
+      "source": "Breaking News",
+      "pubDate": "Wed, 29 Apr 2026 05:54:19 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260428/MYH20260429055400b4g.jpg",
       "summaries": {
-        "ko": "李 ‘소풍 기피’ 지적에... 전교조 “구더기 때문에 교사 전과자 돼” - 조선일보",
-        "en": "李 ‘소풍 기피’ 지적에... 전교조 “구더기 때문에 교사 전과자 돼” - 조선일보",
-        "zh": "李 ‘소풍 기피’ 지적에... 전교조 “구더기 때문에 교사 전과자 돼” - 조선일보"
-      }
-    },
-    {
-      "title": "[속보]법원 “김건희, 윤석열 취임 전 샤넬백 수수 혐의도 인정” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604281617001",
-      "source": "경향신문",
-      "pubDate": "Tue, 28 Apr 2026 07:17:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/28/news-p.v1.20260419.8f5fcddd5d674b39895906c103fc4c11_P1.jpeg",
-      "summaries": {
-        "ko": "[속보]법원 “김건희, 윤석열 취임 전 샤넬백 수수 혐의도 인정” - 경향신문",
-        "en": "[속보]법원 “김건희, 윤석열 취임 전 샤넬백 수수 혐의도 인정” - 경향신문",
-        "zh": "[속보]법원 “김건희, 윤석열 취임 전 샤넬백 수수 혐의도 인정” - 경향신문"
+        "ko": "정부 \"병원급 이상 의료제품 재고 정상 수준\"",
+        "en": "정부 \"병원급 이상 의료제품 재고 정상 수준\"",
+        "zh": "정부 \"병원급 이상 의료제품 재고 정상 수준\""
       }
     }
   ]
