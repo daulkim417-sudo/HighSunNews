@@ -1,40 +1,52 @@
 {
-  "lastUpdate": "2026-04-28T22:40:15.322302",
+  "lastUpdate": "2026-04-28T23:33:28.791644",
   "items": [
     {
-      "title": "평택을 김용남-조국 ‘불꽃 신경전’…민주, 단일화 논의 선 그어 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/election/1256368.html",
+      "title": "한달 일해도 ‘공정수당 38만원’…고용불안 클수록 더 큰 보상 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/labor/1256375.html",
       "source": "한겨레",
-      "pubDate": "Tue, 28 Apr 2026 15:20:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/780/532/imgdb/original/2026/0428/4717773839489822.png",
+      "pubDate": "Tue, 28 Apr 2026 21:49:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/673/imgdb/original/2026/0428/20260428503945.webp",
       "summaries": {
-        "ko": "평택을 김용남-조국 ‘불꽃 신경전’…민주, 단일화 논의 선 그어 - 한겨레",
-        "en": "평택을 김용남-조국 ‘불꽃 신경전’…민주, 단일화 논의 선 그어 - 한겨레",
-        "zh": "평택을 김용남-조국 ‘불꽃 신경전’…민주, 단일화 논의 선 그어 - 한겨레"
+        "ko": "정부가 공공부문 비정규직의 고용 불안을 해소하고 처우를 개선하기 위해 단기 계약직에 ‘공정수당’을 지급하고 1년 미만 기간제 채용을 원칙적으로 금지하며 임금과 복지 혜택을 강화하는 대책을 발표했다.",
+        "en": "The government announced measures to address employment instability and improve the treatment of irregular workers in the public sector, including providing a 'Fair Allowance' to short-term contract workers, principle-banning temporary employment under one year, and strengthening wages and welfare benefits.",
+        "zh": "韩国政府宣布，为解决公共部门非正规工人的就业不稳定问题并改善其待遇，将向短期合同工支付“公正津贴”，原则上禁止招聘一年以下临时工，并加强工资和福利待遇。"
       }
     },
     {
-      "title": "트럼프 \"이란, 붕괴 상태 알려왔다... 美가 호르무즈 개방해주길 원해\" - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/04/28/XTRTZQ2IUZBNNI53Y4WZLWEIHU/",
+      "title": "김건희 2심 징역 4년 선고…‘주가조작·샤넬백’ 유죄로 뒤집혀 - 동아일보",
+      "link": "https://www.donga.com/news/Society/article/all/20260428/133828210/2",
+      "source": "동아일보",
+      "pubDate": "Tue, 28 Apr 2026 07:40:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/28/133828211.2.jpg",
+      "summaries": {
+        "ko": "김건희 2심 징역 4년 선고…‘주가조작·샤넬백’ 유죄로 뒤집혀 - 동아일보",
+        "en": "김건희 2심 징역 4년 선고…‘주가조작·샤넬백’ 유죄로 뒤집혀 - 동아일보",
+        "zh": "김건희 2심 징역 4년 선고…‘주가조작·샤넬백’ 유죄로 뒤집혀 - 동아일보"
+      }
+    },
+    {
+      "title": "공천 배제된 김용 \"공관위 판단 존중… 백의종군하겠다\" - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/04/28/HKXP35CCJRCNZCNBGNKQITNYCA/",
       "source": "조선일보",
-      "pubDate": "Tue, 28 Apr 2026 14:00:12 GMT",
-      "image": "https://www.chosun.com/resizer/v2/HFSDQYRVGVQTMNJXMU4GKYLBMM.jpg?auth=02309f562407e5575c17f8e4d82e4b95a10ed4f16d3ff2353bda29bfabfce5b7&width=1200&height=630&smart=true",
+      "pubDate": "Tue, 28 Apr 2026 05:34:32 GMT",
+      "image": "https://www.chosun.com/resizer/v2/J7GGZ2JUCRITDI6HXZDJPIWT3E.jpg?auth=a5266e0e6da09bd363433b3909d4b2a06e89238a171234539adb406add8f20b6&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "트럼프 \"이란, 붕괴 상태 알려왔다... 美가 호르무즈 개방해주길 원해\" - 조선일보",
-        "en": "트럼프 \"이란, 붕괴 상태 알려왔다... 美가 호르무즈 개방해주길 원해\" - 조선일보",
-        "zh": "트럼프 \"이란, 붕괴 상태 알려왔다... 美가 호르무즈 개방해주길 원해\" - 조선일보"
+        "ko": "공천 배제된 김용 \"공관위 판단 존중… 백의종군하겠다\" - 조선일보",
+        "en": "공천 배제된 김용 \"공관위 판단 존중… 백의종군하겠다\" - 조선일보",
+        "zh": "공천 배제된 김용 \"공관위 판단 존중… 백의종군하겠다\" - 조선일보"
       }
     },
     {
-      "title": "김건희 항소심 ‘징역 4년’…“주가조작·금품수수 유죄” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8548505",
-      "source": "KBS 뉴스",
-      "pubDate": "Tue, 28 Apr 2026 21:13:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza_p1/2026/04/29/80_8548505.jpg",
+      "title": "일본 유조선은 호르무즈 해협 통과했다 \"이란전 이후 처음\" - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/04/29/VERB2PJO5BAIXBMEISOGMY4KTY/",
+      "source": "조선일보",
+      "pubDate": "Tue, 28 Apr 2026 15:00:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/HA4WCYZYMUZGMZRUMI3GMMZRGA.jpg?auth=83de02e2d91990bc7e120820866e2fb8e81869ba56823db2fb7fb71385bef37c&width=750&height=393&smart=true",
       "summaries": {
-        "ko": "김건희 항소심 ‘징역 4년’…“주가조작·금품수수 유죄” - KBS 뉴스",
-        "en": "김건희 항소심 ‘징역 4년’…“주가조작·금품수수 유죄” - KBS 뉴스",
-        "zh": "김건희 항소심 ‘징역 4년’…“주가조작·금품수수 유죄” - KBS 뉴스"
+        "ko": "일본 유조선은 호르무즈 해협 통과했다 \"이란전 이후 처음\" - 조선일보",
+        "en": "일본 유조선은 호르무즈 해협 통과했다 \"이란전 이후 처음\" - 조선일보",
+        "zh": "일본 유조선은 호르무즈 해협 통과했다 \"이란전 이후 처음\" - 조선일보"
       }
     },
     {
@@ -50,27 +62,39 @@
       }
     },
     {
-      "title": "푸틴, 미·이란전 ‘역할’ 시사 ‘우크라전 양보 요구’ 노림수 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604282139015",
+      "title": "[6·3 지방선거 인터뷰] 추경호 “대구 경제 대개조하겠다···보수 빠르게 결집할 것” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604290600121",
       "source": "경향신문",
-      "pubDate": "Tue, 28 Apr 2026 12:39:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/28/l_2026042901000879200089202.jpg",
+      "pubDate": "Tue, 28 Apr 2026 21:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/29/news-p.v1.20260428.d2b021d8d46b4cb19896721c55e5d3ba_P1.jpg",
       "summaries": {
-        "ko": "푸틴, 미·이란전 ‘역할’ 시사 ‘우크라전 양보 요구’ 노림수 - 경향신문",
-        "en": "푸틴, 미·이란전 ‘역할’ 시사 ‘우크라전 양보 요구’ 노림수 - 경향신문",
-        "zh": "푸틴, 미·이란전 ‘역할’ 시사 ‘우크라전 양보 요구’ 노림수 - 경향신문"
+        "ko": "[6·3 지방선거 인터뷰] 추경호 “대구 경제 대개조하겠다···보수 빠르게 결집할 것” - 경향신문",
+        "en": "[6·3 지방선거 인터뷰] 추경호 “대구 경제 대개조하겠다···보수 빠르게 결집할 것” - 경향신문",
+        "zh": "[6·3 지방선거 인터뷰] 추경호 “대구 경제 대개조하겠다···보수 빠르게 결집할 것” - 경향신문"
       }
     },
     {
-      "title": "떠오르는 역할론...김문수, 부산·대구·경북·강원 지역 선대위원장 맡는다 - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/04/28/FT6YAQMS4FFHVLCL4KBSYQ4NCU/",
-      "source": "조선일보",
-      "pubDate": "Tue, 28 Apr 2026 13:13:58 GMT",
-      "image": "https://www.chosun.com/resizer/v2/T4Q4AC7RJJAFRFTYZ7LZRGOI5E.jpg?auth=eb874db95ae41c5d8cc52cf83460f21fa5c13c8f1551335ed8fbc2aef97ea037&width=1200&height=630&smart=true",
+      "title": "쌍방울 김성태 회장 \"민주당, 尹정권과 똑같아…다 털어보라\"(종합3보) - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260429001200004",
+      "source": "연합뉴스",
+      "pubDate": "Tue, 28 Apr 2026 16:18:52 GMT",
+      "image": "https://img2.yna.co.kr/photo/yna/YH/2026/04/28/PYH2026042810000001300_P4.jpg",
       "summaries": {
-        "ko": "떠오르는 역할론...김문수, 부산·대구·경북·강원 지역 선대위원장 맡는다 - 조선일보",
-        "en": "떠오르는 역할론...김문수, 부산·대구·경북·강원 지역 선대위원장 맡는다 - 조선일보",
-        "zh": "떠오르는 역할론...김문수, 부산·대구·경북·강원 지역 선대위원장 맡는다 - 조선일보"
+        "ko": "쌍방울 김성태 회장 \"민주당, 尹정권과 똑같아…다 털어보라\"(종합3보) - 연합뉴스",
+        "en": "쌍방울 김성태 회장 \"민주당, 尹정권과 똑같아…다 털어보라\"(종합3보) - 연합뉴스",
+        "zh": "쌍방울 김성태 회장 \"민주당, 尹정권과 똑같아…다 털어보라\"(종합3보) - 연합뉴스"
+      }
+    },
+    {
+      "title": "교육장관, 진보 교육감 후보 개소식 참석 논란 - 조선일보",
+      "link": "https://www.chosun.com/national/education/2026/04/29/C3Q4MGJWBRAM3G4FLLYZFJRLRU/",
+      "source": "조선일보",
+      "pubDate": "Tue, 28 Apr 2026 15:45:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/5OCX272EQVBXLCVBTMWQ62JHLU.jpg?auth=c2c36d78a1030db927c115b5134630871faea80f2f50e3cebe756b97b13b4758&width=960&height=504&smart=true",
+      "summaries": {
+        "ko": "교육장관, 진보 교육감 후보 개소식 참석 논란 - 조선일보",
+        "en": "교육장관, 진보 교육감 후보 개소식 참석 논란 - 조선일보",
+        "zh": "교육장관, 진보 교육감 후보 개소식 참석 논란 - 조선일보"
       }
     },
     {
@@ -86,39 +110,15 @@
       }
     },
     {
-      "title": "김성태 \"이재명 대북송금 사건과 관련 없어‥연어술파티? 안 먹었다\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6818624_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 28 Apr 2026 08:55:44 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/04/28/joo260428_20.jpg",
-      "summaries": {
-        "ko": "김성태 \"이재명 대북송금 사건과 관련 없어‥연어술파티? 안 먹었다\" - MBC 뉴스",
-        "en": "김성태 \"이재명 대북송금 사건과 관련 없어‥연어술파티? 안 먹었다\" - MBC 뉴스",
-        "zh": "김성태 \"이재명 대북송금 사건과 관련 없어‥연어술파티? 안 먹었다\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "코미 전 FBI국장, 또 기소…'트럼프에 폭력 선동' 논란",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260429073827Bfk",
+      "title": "美 \"이란에 호르무즈 통행료 지불 금지\"…UAE, 오펙 탈퇴",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260429083149j1A",
       "source": "Breaking News",
-      "pubDate": "Wed, 29 Apr 2026 07:38:30 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260428/AKR20260429073827Bfk_01_i.jpg",
+      "pubDate": "Wed, 29 Apr 2026 08:32:41 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260428/MYH20260429083149j1A.jpg",
       "summaries": {
-        "ko": "코미 전 FBI국장, 또 기소…'트럼프에 폭력 선동' 논란",
-        "en": "코미 전 FBI국장, 또 기소…'트럼프에 폭력 선동' 논란",
-        "zh": "코미 전 FBI국장, 또 기소…'트럼프에 폭력 선동' 논란"
-      }
-    },
-    {
-      "title": "美 \"유엔분담금, 평화유지 임무 감축·中 견제 관철돼야 낼 것\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260429073752dpL",
-      "source": "Breaking News",
-      "pubDate": "Wed, 29 Apr 2026 07:37:54 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260428/AKR20260429073752dpL_01_i.jpg",
-      "summaries": {
-        "ko": "美 \"유엔분담금, 평화유지 임무 감축·中 견제 관철돼야 낼 것\"",
-        "en": "美 \"유엔분담금, 평화유지 임무 감축·中 견제 관철돼야 낼 것\"",
-        "zh": "美 \"유엔분담금, 평화유지 임무 감축·中 견제 관철돼야 낼 것\""
+        "ko": "美 \"이란에 호르무즈 통행료 지불 금지\"…UAE, 오펙 탈퇴",
+        "en": "美 \"이란에 호르무즈 통행료 지불 금지\"…UAE, 오펙 탈퇴",
+        "zh": "美 \"이란에 호르무즈 통행료 지불 금지\"…UAE, 오펙 탈퇴"
       }
     }
   ]
