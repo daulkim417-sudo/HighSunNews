@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-04-30T21:40:53.050923",
+  "lastUpdate": "2026-04-30T22:33:56.217284",
   "items": [
-    {
-      "title": "이 대통령 ‘대장동·대북송금 재판’ 종결 길 터준 특검법…법조계 “부적절” 비판 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1256742.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 30 Apr 2026 14:00:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0430/20260430504100.webp",
-      "summaries": {
-        "ko": "이 대통령 ‘대장동·대북송금 재판’ 종결 길 터준 특검법…법조계 “부적절” 비판 - 한겨레",
-        "en": "이 대통령 ‘대장동·대북송금 재판’ 종결 길 터준 특검법…법조계 “부적절” 비판 - 한겨레",
-        "zh": "이 대통령 ‘대장동·대북송금 재판’ 종결 길 터준 특검법…법조계 “부적절” 비판 - 한겨레"
-      }
-    },
     {
       "title": "항소심서 형량 늘어난 윤석열·김건희 나란히 상고... 대법원 간다 - 조선일보",
       "link": "https://www.chosun.com/national/court_law/2026/04/30/C6OC5CUAGZAMXIWSRUB37IM72M/",
@@ -32,21 +20,33 @@
       "pubDate": "Thu, 30 Apr 2026 13:11:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/559/imgdb/original/2026/0430/20260430503526.webp",
       "summaries": {
-        "ko": "“단단히 미쳤다”…‘윤석열 비서실장’ 정진석 보선 출마선언에 비판 봇물 - 한겨레",
-        "en": "“단단히 미쳤다”…‘윤석열 비서실장’ 정진석 보선 출마선언에 비판 봇물 - 한겨레",
-        "zh": "“단단히 미쳤다”…‘윤석열 비서실장’ 정진석 보선 출마선언에 비판 봇물 - 한겨레"
+        "ko": "논란의 12·3 계엄 선포 당시 윤석열 전 대통령의 비서실장이었던 정진석 전 의원이 보궐선거 출마를 선언하자, 당시 사태 관련 책임과 증거 인멸 혐의 등을 이유로 야권의 거센 비판이 쏟아지고 있다.",
+        "en": "Former Presidential Chief of Staff Jeong Jin-seok, who served under Yoon Suk-yeol during the controversial 12.3 martial law declaration, has announced his by-election candidacy, drawing strong criticism from the opposition citing his responsibility and alleged involvement in evidence destruction related to the incident.",
+        "zh": "曾任尹锡悦前总统在备受争议的12月3日戒严令发布期间的秘书室室长郑镇硕宣布参选补选，引发在野党对其在事件中的责任以及涉嫌销毁证据行为的强烈批评。"
       }
     },
     {
-      "title": "한동훈 \"李, 하정우 출마 지시했다면 불법\"…판례 살펴보니 - 노컷뉴스",
-      "link": "https://www.nocutnews.co.kr/news/6511219",
-      "source": "노컷뉴스",
-      "pubDate": "Thu, 30 Apr 2026 20:00:00 GMT",
-      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/04/30/202604302313220686_0.jpg",
+      "title": "미 전문가 “이란, 생각보다 오래 버틸 것…해협 개방 ‘소규모 합의’가 해법” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1256545.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 30 Apr 2026 06:28:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0429/20260429503712.webp",
       "summaries": {
-        "ko": "한동훈 \"李, 하정우 출마 지시했다면 불법\"…판례 살펴보니 - 노컷뉴스",
-        "en": "한동훈 \"李, 하정우 출마 지시했다면 불법\"…판례 살펴보니 - 노컷뉴스",
-        "zh": "한동훈 \"李, 하정우 출마 지시했다면 불법\"…판례 살펴보니 - 노컷뉴스"
+        "ko": "미 전문가 “이란, 생각보다 오래 버틸 것…해협 개방 ‘소규모 합의’가 해법” - 한겨레",
+        "en": "미 전문가 “이란, 생각보다 오래 버틸 것…해협 개방 ‘소규모 합의’가 해법” - 한겨레",
+        "zh": "미 전문가 “이란, 생각보다 오래 버틸 것…해협 개방 ‘소규모 합의’가 해법” - 한겨레"
+      }
+    },
+    {
+      "title": "D-34 서울 정원오 43%·오세훈 32%…‘격전지’ 대구·부산은? [여론조사]① - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8550590",
+      "source": "KBS 뉴스",
+      "pubDate": "Thu, 30 Apr 2026 12:16:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/04/30/20260430_aDRCu9.png",
+      "summaries": {
+        "ko": "D-34 서울 정원오 43%·오세훈 32%…‘격전지’ 대구·부산은? [여론조사]① - KBS 뉴스",
+        "en": "D-34 서울 정원오 43%·오세훈 32%…‘격전지’ 대구·부산은? [여론조사]① - KBS 뉴스",
+        "zh": "D-34 서울 정원오 43%·오세훈 32%…‘격전지’ 대구·부산은? [여론조사]① - KBS 뉴스"
       }
     },
     {
@@ -62,51 +62,51 @@
       }
     },
     {
-      "title": "[MBC여론조사] 서울시장 가상 대결‥정원오 48% VS 오세훈 32% - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6819190_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Thu, 30 Apr 2026 07:00:01 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/04/30/joo260430_8.jpg",
+      "title": "한동훈 \"李, 하정우 출마 지시했다면 불법\"…판례 살펴보니 - 노컷뉴스",
+      "link": "https://www.nocutnews.co.kr/news/6511219",
+      "source": "노컷뉴스",
+      "pubDate": "Thu, 30 Apr 2026 20:00:00 GMT",
+      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/04/30/202604302313220686_0.jpg",
       "summaries": {
-        "ko": "[MBC여론조사] 서울시장 가상 대결‥정원오 48% VS 오세훈 32% - MBC 뉴스",
-        "en": "[MBC여론조사] 서울시장 가상 대결‥정원오 48% VS 오세훈 32% - MBC 뉴스",
-        "zh": "[MBC여론조사] 서울시장 가상 대결‥정원오 48% VS 오세훈 32% - MBC 뉴스"
+        "ko": "한동훈 전 대표가 하정우 전 수석 출마에 대통령의 선거개입 의혹을 제기한 가운데, 법원은 대통령의 단순 출마 권유는 허용되나 지위와 권한을 이용한 계획적 개입은 불법이라고 본다고 노컷뉴스가 전했다.",
+        "en": "Amid Han Dong-hoon's claim of illegal presidential election interference regarding former aide Ha Jung-woo's candidacy, No Cut News reports that courts deem a president's simple recommendation permissible, but planned intervention using presidential status and authority as illegal.",
+        "zh": "针对韩东勋前代表对前首席秘书河正宇参选提出总统非法干预选举的指控，No Cut News报道称，法院判例显示总统单纯劝说参选是被允许的，但利用其地位和权力进行有计划的干预则属非法。"
       }
     },
     {
-      "title": "조국, ‘저격수’ 김용남에 “허위사실 다시 꺼내면 반격할 것···국민께 3가지 해명하시라” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202604291140001",
+      "title": "여당 ‘조작기소 특검법’ 발의에 대검 “재판 독립성에 부당 영향 가능성” 반발 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604301858001",
       "source": "경향신문",
-      "pubDate": "Wed, 29 Apr 2026 02:40:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/04/29/news-p.v1.20260427.3fe720044c574cc99f4b77df59e188e3_P1.jpeg",
+      "pubDate": "Thu, 30 Apr 2026 09:58:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/30/news-p.v1.20251123.857857893a2b44a99e61831050b4ba61_P1.jpg",
       "summaries": {
-        "ko": "조국, ‘저격수’ 김용남에 “허위사실 다시 꺼내면 반격할 것···국민께 3가지 해명하시라” - 경향신문",
-        "en": "조국, ‘저격수’ 김용남에 “허위사실 다시 꺼내면 반격할 것···국민께 3가지 해명하시라” - 경향신문",
-        "zh": "조국, ‘저격수’ 김용남에 “허위사실 다시 꺼내면 반격할 것···국민께 3가지 해명하시라” - 경향신문"
+        "ko": "여당 ‘조작기소 특검법’ 발의에 대검 “재판 독립성에 부당 영향 가능성” 반발 - 경향신문",
+        "en": "여당 ‘조작기소 특검법’ 발의에 대검 “재판 독립성에 부당 영향 가능성” 반발 - 경향신문",
+        "zh": "여당 ‘조작기소 특검법’ 발의에 대검 “재판 독립성에 부당 영향 가능성” 반발 - 경향신문"
       }
     },
     {
-      "title": "크루즈컨트롤 켜놓고 졸음운전, 2명 숨지게 한 운전자 집유 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/04/30/BVUX2KLIFVHBLF74O3XX3HTN6Q/",
-      "source": "조선일보",
-      "pubDate": "Thu, 30 Apr 2026 06:41:02 GMT",
-      "image": "https://www.chosun.com/resizer/v2/VDZIEJTKE63QO375J37JOA3HAQ.jpg?auth=229ab7465e0e87f396ed12acbf60b36426100611a39d59b1829b71ad004a1098&width=499&height=261&smart=true",
+      "title": "‘촉법소년 연령’, 사회적 협의체서 만 14살 현행 유지로 가닥 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/rights/1256736.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 30 Apr 2026 13:11:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/719/431/imgdb/child/2026/0430/53_17775526208769_3017775525982766.webp",
       "summaries": {
-        "ko": "크루즈컨트롤 켜놓고 졸음운전, 2명 숨지게 한 운전자 집유 - 조선일보",
-        "en": "크루즈컨트롤 켜놓고 졸음운전, 2명 숨지게 한 운전자 집유 - 조선일보",
-        "zh": "크루즈컨트롤 켜놓고 졸음운전, 2명 숨지게 한 운전자 집유 - 조선일보"
+        "ko": "‘촉법소년 연령’, 사회적 협의체서 만 14살 현행 유지로 가닥 - 한겨레",
+        "en": "‘촉법소년 연령’, 사회적 협의체서 만 14살 현행 유지로 가닥 - 한겨레",
+        "zh": "‘촉법소년 연령’, 사회적 협의체서 만 14살 현행 유지로 가닥 - 한겨레"
       }
     },
     {
-      "title": "트럼프 \"이란 핵합의 때까지 해상 봉쇄\" - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/05/01/Z4ZFHOMWJ5DLDNWUO7AM62NPLA/",
-      "source": "조선일보",
-      "pubDate": "Thu, 30 Apr 2026 15:56:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/B6ODOSE2KZKXNKB4HIBBIIMCII.jpg?auth=d5ed4c98041471941158f46944257bc891a3a985238951b8b68bd52e7f968ca0&width=1200&height=630&smart=true",
+      "title": "[속보]화물연대·BGF로지스, 노사 합의안 조인···CU 물류센터 봉쇄 해제 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202604301219001",
+      "source": "경향신문",
+      "pubDate": "Thu, 30 Apr 2026 03:19:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/04/30/news-p.v1.20260430.421b163fc0ee471990085321aff8c1b6_P1.jpg",
       "summaries": {
-        "ko": "트럼프 \"이란 핵합의 때까지 해상 봉쇄\" - 조선일보",
-        "en": "트럼프 \"이란 핵합의 때까지 해상 봉쇄\" - 조선일보",
-        "zh": "트럼프 \"이란 핵합의 때까지 해상 봉쇄\" - 조선일보"
+        "ko": "[속보]화물연대·BGF로지스, 노사 합의안 조인···CU 물류센터 봉쇄 해제 - 경향신문",
+        "en": "[속보]화물연대·BGF로지스, 노사 합의안 조인···CU 물류센터 봉쇄 해제 - 경향신문",
+        "zh": "[속보]화물연대·BGF로지스, 노사 합의안 조인···CU 물류센터 봉쇄 해제 - 경향신문"
       }
     },
     {
