@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-01T14:42:19.814671",
+  "lastUpdate": "2026-05-01T15:41:09.888114",
   "items": [
     {
       "title": "갑자기 소환 당한 LGU+ 노조 “분노 금할 수 없어”···삼전 노조위원장 책임 돌리기에 반발 - 경향신문",
@@ -8,9 +8,21 @@
       "pubDate": "Fri, 01 May 2026 11:56:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/05/01/news-p.v1.20260501.9afea797aff7490ebb8877b5c9bc0e98_P1.jpeg",
       "summaries": {
-        "ko": "갑자기 소환 당한 LGU+ 노조 “분노 금할 수 없어”···삼전 노조위원장 책임 돌리기에 반발 - 경향신문",
-        "en": "갑자기 소환 당한 LGU+ 노조 “분노 금할 수 없어”···삼전 노조위원장 책임 돌리기에 반발 - 경향신문",
-        "zh": "갑자기 소환 당한 LGU+ 노조 “분노 금할 수 없어”···삼전 노조위원장 책임 돌리기에 반발 - 경향신문"
+        "ko": "이재명 대통령의 '과도한 요구' 발언이 자사를 겨냥했다는 삼성전자 노조위원장의 주장에 LG유플러스 노조가 분노를 표하며 책임 전가와 노동계 연대 저해를 비판하고 공식 사과를 요구했다.",
+        "en": "The LG Uplus union expressed \"uncontrollable anger\" and demanded an official apology from the Samsung Electronics union chairman, who claimed President Lee Jae-myung's \"excessive demands\" remarks were aimed at LG Uplus, accusing him of blame-shifting and undermining labor solidarity.",
+        "zh": "针对三星电子工会主席声称李在明总统关于“过度要求”的言论是针对LG Uplus的说法，LG Uplus工会表达了“无法抑制的愤怒”，批评其推卸责任并损害劳动界团结，同时要求正式道歉。"
+      }
+    },
+    {
+      "title": "\"이란, 파키스탄에 전쟁 종식 위한 새 협상안 전달\" - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/05/01/QMVE7KIPMRDWTDRVV3GW3IITVE/",
+      "source": "조선일보",
+      "pubDate": "Fri, 01 May 2026 14:19:09 GMT",
+      "image": "https://www.chosun.com/resizer/v2/NDDRPVUTQ5JH3N7G6ATS662WIU.jpg?auth=7407eabdb66ec08a110c14ad750fd244be2195c888ef5f7945d7e3f00b0b984b&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "\"이란, 파키스탄에 전쟁 종식 위한 새 협상안 전달\" - 조선일보",
+        "en": "\"이란, 파키스탄에 전쟁 종식 위한 새 협상안 전달\" - 조선일보",
+        "zh": "\"이란, 파키스탄에 전쟁 종식 위한 새 협상안 전달\" - 조선일보"
       }
     },
     {
@@ -20,9 +32,9 @@
       "pubDate": "Fri, 01 May 2026 13:09:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/731/487/imgdb/original/2026/0501/20260501501545.webp",
       "summaries": {
-        "ko": "트럼프, 45분간 ‘최후의 일격’ 보고받아…“지상군·특수부대도 선택지” - 한겨레",
-        "en": "트럼프, 45분간 ‘최후의 일격’ 보고받아…“지상군·특수부대도 선택지” - 한겨레",
-        "zh": "트럼프, 45분간 ‘최후의 일격’ 보고받아…“지상군·특수부대도 선택지” - 한겨레"
+        "ko": "미군이 트럼프 대통령에게 이란에 대한 '최후의 일격' 군사작전 계획을 45분간 보고했으며, 여기에는 지상군 및 특수부대 투입 등의 공격 옵션이 포함된 것으로 전해졌다.",
+        "en": "The U.S. military reportedly briefed President Trump for 45 minutes on military operation plans against Iran for a 'final blow,' which included attack options such as deploying ground forces and special forces.",
+        "zh": "据报道，美军向特朗普总统汇报了对伊朗进行“最后一击”的军事行动计划，时长45分钟，其中包括部署地面部队和特种部队等攻击选项。"
       }
     },
     {
@@ -44,33 +56,21 @@
       "pubDate": "Fri, 01 May 2026 09:06:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0501/20260501501390.webp",
       "summaries": {
-        "ko": "조작기소 특검법 후폭풍…야당 “면죄부법” 민주 “공소 취소 특검 독립 권한” - 한겨레",
-        "en": "조작기소 특검법 후폭풍…야당 “면죄부법” 민주 “공소 취소 특검 독립 권한” - 한겨레",
-        "zh": "조작기소 특검법 후폭풍…야당 “면죄부법” 민주 “공소 취소 특검 독립 권한” - 한겨레"
+        "ko": "더불어민주당이 윤석열 검찰의 '조작 기소' 규명과 이재명 대표 사건의 공소유지 판단 권한을 특검에 부여하는 법안을 발의하자, 국민의힘은 '이재명 면죄부법'이라며 강하게 비판했고 민주당은 특검의 독립적인 권한임을 강조하며 반박했다.",
+        "en": "As the Democratic Party proposed a special prosecutor bill to investigate alleged 'manipulated indictments' by the Yoon Suk-yeol prosecution and grant the special prosecutor the authority to decide on the continuation of public prosecution in cases involving leader Lee Jae-myung, the People Power Party strongly criticized it as an 'absolution law' for Lee Jae-myung, while the Democratic Party retorted by emphasizing the special prosecutor's independent authority.",
+        "zh": "民主党提出一项特别检察官法案，旨在查明尹锡悦检察机关涉嫌的“操纵起诉”并赋予特检官决定李在明相关案件公诉维持与否的权力，国民力量党对此强烈批评称其为李在明的“免罪法”，而民主党则强调这是特检官的独立权限并予以反驳。"
       }
     },
     {
-      "title": "윤석열 호위무사까지 공천…이래놓고 국힘 “누가 윤어게인?” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1256848.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 01 May 2026 13:09:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/297/imgdb/original/2026/0501/20260501501324.webp",
+      "title": "국힘, 대구 달성 이진숙 단수 공천‥'정진석 출마' 충남 공주 보류 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6819429_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Fri, 01 May 2026 07:11:51 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/01/lyj_260501_13.jpg",
       "summaries": {
-        "ko": "윤석열 호위무사까지 공천…이래놓고 국힘 “누가 윤어게인?” - 한겨레",
-        "en": "윤석열 호위무사까지 공천…이래놓고 국힘 “누가 윤어게인?” - 한겨레",
-        "zh": "윤석열 호위무사까지 공천…이래놓고 국힘 “누가 윤어게인?” - 한겨레"
-      }
-    },
-    {
-      "title": "\"아내는 불나기 전 이미 사망\" 의왕 아파트 화재 미스터리 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/05/01/TYBKMVKHPRF5RFIAXEFBVVCH3Y/",
-      "source": "조선일보",
-      "pubDate": "Fri, 01 May 2026 12:27:27 GMT",
-      "image": "https://www.chosun.com/resizer/v2/LGSZMDEGRNHB5P24ZEN76Y7WYY.gif?auth=433b68e68fa6ad26e81d686b59985bf5301e043bae53027b02faa687fa74c7db&width=1024&height=537&smart=true",
-      "summaries": {
-        "ko": "\"아내는 불나기 전 이미 사망\" 의왕 아파트 화재 미스터리 - 조선일보",
-        "en": "\"아내는 불나기 전 이미 사망\" 의왕 아파트 화재 미스터리 - 조선일보",
-        "zh": "\"아내는 불나기 전 이미 사망\" 의왕 아파트 화재 미스터리 - 조선일보"
+        "ko": "국힘, 대구 달성 이진숙 단수 공천‥'정진석 출마' 충남 공주 보류 - MBC 뉴스",
+        "en": "국힘, 대구 달성 이진숙 단수 공천‥'정진석 출마' 충남 공주 보류 - MBC 뉴스",
+        "zh": "국힘, 대구 달성 이진숙 단수 공천‥'정진석 출마' 충남 공주 보류 - MBC 뉴스"
       }
     },
     {
@@ -86,27 +86,15 @@
       }
     },
     {
-      "title": "‘부산 전입신고’ 하정우…이언주 “한동훈 살리기 보수결집, 자신하면 큰코” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1256829.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 01 May 2026 13:09:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0501/17776117260533_20260501501029.webp",
+      "title": "부산 북갑 하정우 30%·박민식 25%·한동훈 24%…오차범위 내 접전[KBS·한국리서치] - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605011046001",
+      "source": "경향신문",
+      "pubDate": "Fri, 01 May 2026 01:46:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/01/news-p.v1.20260429.7c55e6da53d6446dac1d437a8d816e5c_P1.jpeg",
       "summaries": {
-        "ko": "‘부산 전입신고’ 하정우…이언주 “한동훈 살리기 보수결집, 자신하면 큰코” - 한겨레",
-        "en": "‘부산 전입신고’ 하정우…이언주 “한동훈 살리기 보수결집, 자신하면 큰코” - 한겨레",
-        "zh": "‘부산 전입신고’ 하정우…이언주 “한동훈 살리기 보수결집, 자신하면 큰코” - 한겨레"
-      }
-    },
-    {
-      "title": "민주당 \"정진석·이진숙 국민의힘 공천 신청, 윤석열판 하나회 재집결\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6819410_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Fri, 01 May 2026 05:27:54 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/01/lyj_260501_3.jpg",
-      "summaries": {
-        "ko": "민주당 \"정진석·이진숙 국민의힘 공천 신청, 윤석열판 하나회 재집결\" - MBC 뉴스",
-        "en": "민주당 \"정진석·이진숙 국민의힘 공천 신청, 윤석열판 하나회 재집결\" - MBC 뉴스",
-        "zh": "민주당 \"정진석·이진숙 국민의힘 공천 신청, 윤석열판 하나회 재집결\" - MBC 뉴스"
+        "ko": "부산 북갑 하정우 30%·박민식 25%·한동훈 24%…오차범위 내 접전[KBS·한국리서치] - 경향신문",
+        "en": "부산 북갑 하정우 30%·박민식 25%·한동훈 24%…오차범위 내 접전[KBS·한국리서치] - 경향신문",
+        "zh": "부산 북갑 하정우 30%·박민식 25%·한동훈 24%…오차범위 내 접전[KBS·한국리서치] - 경향신문"
       }
     },
     {
@@ -119,6 +107,18 @@
         "ko": "서울 성수동에 몰려든 '포켓몬' 인파에…행사 긴급 중단 - 뉴스1",
         "en": "서울 성수동에 몰려든 '포켓몬' 인파에…행사 긴급 중단 - 뉴스1",
         "zh": "서울 성수동에 몰려든 '포켓몬' 인파에…행사 긴급 중단 - 뉴스1"
+      }
+    },
+    {
+      "title": "이란, 새 협상안 중재국 파키스탄에 전달",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260501223356MQM",
+      "source": "Breaking News",
+      "pubDate": "Fri, 01 May 2026 22:33:56 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260501/AKR20260501223356MQM_01_i.jpg",
+      "summaries": {
+        "ko": "이란, 새 협상안 중재국 파키스탄에 전달",
+        "en": "이란, 새 협상안 중재국 파키스탄에 전달",
+        "zh": "이란, 새 협상안 중재국 파키스탄에 전달"
       }
     }
   ]
