@@ -1,76 +1,112 @@
 {
-  "lastUpdate": "2026-05-01T06:46:46.517390",
+  "lastUpdate": "2026-05-01T08:34:04.110544",
   "items": [
     {
-      "title": "李 대통령 ‘과하다’ 경고에도...삼성 노조, “우리 얘기 아니야” - 조선일보",
-      "link": "https://www.chosun.com/economy/tech_it/2026/05/01/YDTDCECKY5GVPI5S5A2ZGGSSFM/",
+      "title": "“이 대통령 ‘과도한 요구’ 발언은 LG U+ 얘기”···삼전 노조위원장의 ‘책임 돌리기’ - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605011423001",
+      "source": "경향신문",
+      "pubDate": "Fri, 01 May 2026 05:23:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/01/news-p.v1.20260423.3319ff021a614e0caad3f835e3d6d8ea_P1.jpeg",
+      "summaries": {
+        "ko": "삼성전자 노조위원장이 이 대통령의 '과도한 요구' 비판 발언이 LG유플러스 노조를 향한 것이며 삼성 노조의 요구는 합리적이라고 주장해 책임 회피 지적이 일고 있다.",
+        "en": "The Samsung Electronics union leader reportedly attempted to deflect criticism from President Lee's remarks on \"excessive demands\" by claiming they targeted the LG U+ union, not Samsung, and that their own demands are reasonable.",
+        "zh": "据报道，三星电子工会主席试图转移对李总统“过度要求”言论的批评，声称此言论是针对LG U+工会而非三星，并辩称三星工会的要求是合理的。"
+      }
+    },
+    {
+      "title": "63년 만에 '노동절' 공휴일…서울 도심 수만명 집회 열린다 - 노컷뉴스",
+      "link": "https://www.nocutnews.co.kr/news/6511272",
+      "source": "노컷뉴스",
+      "pubDate": "Fri, 01 May 2026 01:11:00 GMT",
+      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/05/01/202605011011212601_0.jpg",
+      "summaries": {
+        "ko": "63년 만에 '노동절'이 공휴일로 지정된 5월 1일, 민주노총과 한국노총 등 주요 노동단체들이 서울 도심에서 대규모 집회와 행진을 개최한다.",
+        "en": "On May 1st, designated as 'Labor Day' public holiday after 63 years, major labor organizations including KCTU and FKTU are holding large-scale rallies and marches in downtown Seoul.",
+        "zh": "在时隔63年“劳动节”被指定为法定假日的5月1日，包括民主劳总和韩国劳总在内的主要劳动团体将在首尔市中心举行大规模集会和游行。"
+      }
+    },
+    {
+      "title": "트럼프, 독일 이어 이탈리아·스페인 주둔 미군 감축 시사… \"아무 도움 안 돼\" - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/05/01/UTIZF25DLRBGBOO7QRGSKYL7HM/",
       "source": "조선일보",
-      "pubDate": "Fri, 01 May 2026 03:02:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/HFQWCNZQMMYTSNBXGNRTGNRUMM.jpg?auth=5f05aad37bdc31375d5dd78df93b924ba96722dcc8e5609921e4b605b8a71a13&width=1200&height=630&smart=true",
+      "pubDate": "Fri, 01 May 2026 07:02:26 GMT",
+      "image": "https://www.chosun.com/resizer/v2/2MVXWVJXIFNWDCCWK5VEDGOWII.jpg?auth=9f2e53349bd746c69a59496de836b96054479a811e7ae04b82900d000ca8f391&width=1200&height=630&focal=3116,1619",
       "summaries": {
-        "ko": "李 대통령 ‘과하다’ 경고에도...삼성 노조, “우리 얘기 아니야” - 조선일보",
-        "en": "李 대통령 ‘과하다’ 경고에도...삼성 노조, “우리 얘기 아니야” - 조선일보",
-        "zh": "李 대통령 ‘과하다’ 경고에도...삼성 노조, “우리 얘기 아니야” - 조선일보"
+        "ko": "트럼프, 독일 이어 이탈리아·스페인 주둔 미군 감축 시사… \"아무 도움 안 돼\" - 조선일보",
+        "en": "트럼프, 독일 이어 이탈리아·스페인 주둔 미군 감축 시사… \"아무 도움 안 돼\" - 조선일보",
+        "zh": "트럼프, 독일 이어 이탈리아·스페인 주둔 미군 감축 시사… \"아무 도움 안 돼\" - 조선일보"
       }
     },
     {
-      "title": "국힘, 대구 달성 이진숙·경기 하남갑 이용 단수공천…충남 공주 ‘보류’ - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8551108",
-      "source": "KBS 뉴스",
-      "pubDate": "Fri, 01 May 2026 05:52:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/05/01/20260501_uFRo0x.jpg",
-      "summaries": {
-        "ko": "국민의힘이 이진숙 전 방송통신위원장 등 여러 국회의원 재보궐 선거 후보를 단수공천했으나, 정진석 후보 관련 윤리위 절차로 충남 공주 지역 공천 결정은 보류했다고 밝혔습니다.",
-        "en": "The People Power Party announced single nominations for several parliamentary by-election candidates, including former Broadcasting and Communications Commissioner Lee Jin-suk, but stated that the nomination decision for Chungnam Gongju was postponed due to ongoing ethics committee procedures concerning candidate Jung Jin-suk.",
-        "zh": "国民力量党宣布了对包括前广播通信委员会委员长李真淑在内的多位国会议员补选候选人进行单独提名，但表示忠南公州地区的提名决定因候选人郑镇硕相关的伦理委员会程序而推迟。"
-      }
-    },
-    {
-      "title": "퇴근 2시간 전 “해고”…노동절에도 100일째 길 위에 선 노동자들 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/labor/1256826.html",
+      "title": "‘마약왕’ 박왕열의 공급책 ‘청담’, 태국서 한국으로 송환된다 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1256784.html",
       "source": "한겨레",
-      "pubDate": "Fri, 01 May 2026 05:55:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/520/312/imgdb/child/2026/0501/53_17776140889096_20260501500977.webp",
+      "pubDate": "Thu, 30 Apr 2026 23:56:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/609/457/imgdb/original/2026/0430/20260430504286.webp",
       "summaries": {
-        "ko": "퇴근 2시간 전 “해고”…노동절에도 100일째 길 위에 선 노동자들 - 한겨레",
-        "en": "퇴근 2시간 전 “해고”…노동절에도 100일째 길 위에 선 노동자들 - 한겨레",
-        "zh": "퇴근 2시간 전 “해고”…노동절에도 100일째 길 위에 선 노동자들 - 한겨레"
+        "ko": "'필리핀 마약왕' 박왕열에게 100억원대 마약을 공급한 '청담' 최씨가 태국에서 검거돼 1일 국내로 송환, 마약류관리법 위반 혐의로 본격 수사받는다.",
+        "en": "Choi, known as 'Cheongdam,' who supplied approximately 10 billion won worth of drugs to 'Philippine Drug King' Park Wang-yeol, was arrested in Thailand and repatriated to Korea on November 1st to face a full investigation for drug control law violations.",
+        "zh": "向“菲律宾毒枭”朴旺烈供应了价值约100亿韩元毒品的“清潭”崔某在泰国被捕，并于11月1日被遣送回韩国，将因涉嫌违反毒品管理法而接受全面调查。"
       }
     },
     {
-      "title": "박왕열 마약 공급책 ‘청담사장’, 태국서 강제 송환…인천공항 도착 ‘묵묵부답’ - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605011046011",
-      "source": "경향신문",
-      "pubDate": "Fri, 01 May 2026 01:46:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/01/news-p.v1.20260501.5470bbbce6d64a54b0e3a30632e69cab_P1.jpeg",
+      "title": "수녀 넘어뜨리고 발길질…이스라엘 “수치스러운 행위” - 동아일보",
+      "link": "https://www.donga.com/news/Inter/article/all/20260501/133846045/2",
+      "source": "동아일보",
+      "pubDate": "Fri, 01 May 2026 00:14:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/01/133846055.1.jpg",
       "summaries": {
-        "ko": "박왕열 마약 공급책 ‘청담사장’, 태국서 강제 송환…인천공항 도착 ‘묵묵부답’ - 경향신문",
-        "en": "박왕열 마약 공급책 ‘청담사장’, 태국서 강제 송환…인천공항 도착 ‘묵묵부답’ - 경향신문",
-        "zh": "박왕열 마약 공급책 ‘청담사장’, 태국서 강제 송환…인천공항 도착 ‘묵묵부답’ - 경향신문"
+        "ko": "수녀 넘어뜨리고 발길질…이스라엘 “수치스러운 행위” - 동아일보",
+        "en": "수녀 넘어뜨리고 발길질…이스라엘 “수치스러운 행위” - 동아일보",
+        "zh": "수녀 넘어뜨리고 발길질…이스라엘 “수치스러운 행위” - 동아일보"
       }
     },
     {
-      "title": "트럼프 “이탈리아·스페인 미군도 감축할 수도…전혀 도움 안 됐다” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605010719001",
-      "source": "경향신문",
-      "pubDate": "Fri, 01 May 2026 05:08:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/01/rcv.YNA.20260501.PUP20260501035401009_P1.jpg",
-      "summaries": {
-        "ko": "트럼프 “이탈리아·스페인 미군도 감축할 수도…전혀 도움 안 됐다” - 경향신문",
-        "en": "트럼프 “이탈리아·스페인 미군도 감축할 수도…전혀 도움 안 됐다” - 경향신문",
-        "zh": "트럼프 “이탈리아·스페인 미군도 감축할 수도…전혀 도움 안 됐다” - 경향신문"
-      }
-    },
-    {
-      "title": "‘부산 전입신고’ 마친 하정우에 이언주 “자신하면 큰 코 다쳐” - 한겨레",
+      "title": "‘부산 전입신고’ 하정우…이언주 “한동훈 살리기 보수결집, 자신하면 큰코” - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1256829.html",
       "source": "한겨레",
       "pubDate": "Fri, 01 May 2026 05:38:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0501/17776117260533_20260501501029.webp",
       "summaries": {
-        "ko": "‘부산 전입신고’ 마친 하정우에 이언주 “자신하면 큰 코 다쳐” - 한겨레",
-        "en": "‘부산 전입신고’ 마친 하정우에 이언주 “자신하면 큰 코 다쳐” - 한겨레",
-        "zh": "‘부산 전입신고’ 마친 하정우에 이언주 “자신하면 큰 코 다쳐” - 한겨레"
+        "ko": "더불어민주당 이언주 최고위원은 최근 부산 북구에 전입신고한 하정우 보궐선거 후보에게 지역 텃새를 강조하며 과도한 자신감을 경고하고, 한동훈 전 대표를 중심으로 한 보수 결집 가능성 때문에 민주당에게 매우 어려운 선거가 될 것이라고 전망했다.",
+        "en": "Democratic Party supreme council member Lee Eon-ju cautioned Busan Buk-gap by-election candidate Ha Jung-woo, who recently moved to the district, against overconfidence, citing strong localism and anticipating a difficult race for the Democratic Party due to probable conservative unity around former leader Han Dong-hoon.",
+        "zh": "共同民主党最高委员李彦周警告最近迁入釜山北甲的补选候选人河正宇不要过于自信，强调当地的地域排他性，并预测由于以韩东勋前代表为中心的保守派可能团结，民主党将面临一场非常艰难的选举。"
+      }
+    },
+    {
+      "title": "[속보] 국힘 대구 달성 이진숙·하남갑 이용 단수 추천...북갑은 경선 - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/05/01/Y3TMV3TS75B7LIRKAOBRBJWNV4/",
+      "source": "조선일보",
+      "pubDate": "Fri, 01 May 2026 05:52:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/ZAJHUMQW5RGE3GEGO5QTZ64I24.jpg?auth=177766003f685aaaa87cc8f78fcf22f4742bb259780641462c561c92f3ac8fe7&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "[속보] 국힘 대구 달성 이진숙·하남갑 이용 단수 추천...북갑은 경선 - 조선일보",
+        "en": "[속보] 국힘 대구 달성 이진숙·하남갑 이용 단수 추천...북갑은 경선 - 조선일보",
+        "zh": "[속보] 국힘 대구 달성 이진숙·하남갑 이용 단수 추천...북갑은 경선 - 조선일보"
+      }
+    },
+    {
+      "title": "‘의왕 아파트’ 경매 강제집행날 화재…“폭발음 들렸다” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/capital/1256814.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 01 May 2026 05:11:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/660/437/imgdb/original/2026/0501/20260501500910.webp",
+      "summaries": {
+        "ko": "경기 의왕시 아파트 화재로 2명이 숨지고 6명이 다쳤으며, 강제집행 당일 발생한 이 사고와 관련해 폭발음과 함께 경제적 어려움을 비관하는 유서가 발견돼 방화 가능성 등을 정밀 감식 중이다.",
+        "en": "Two people died and six were injured in an apartment fire in Uiwang, Gyeonggi Province, which occurred on the day of a scheduled forced eviction, with investigators conducting a detailed examination into potential arson, as explosion sounds were reported and a note expressing despair over financial difficulties was found.",
+        "zh": "京畿道义王市一公寓楼发生火灾，造成2人死亡、6人受伤，由于火灾发生当天恰逢法院强制执行日，且现场发现表达经济困境的遗书并伴有爆炸声，调查人员正在对纵火可能性进行精密鉴定。"
+      }
+    },
+    {
+      "title": "포천 가산면 공장서 불…대응 1단계 진화 중 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8551104",
+      "source": "KBS 뉴스",
+      "pubDate": "Fri, 01 May 2026 05:28:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/05/01/20260501_L2uPDF.jpg",
+      "summaries": {
+        "ko": "포천 가산면 공장서 불…대응 1단계 진화 중 - KBS 뉴스",
+        "en": "포천 가산면 공장서 불…대응 1단계 진화 중 - KBS 뉴스",
+        "zh": "포천 가산면 공장서 불…대응 1단계 진화 중 - KBS 뉴스"
       }
     },
     {
@@ -83,54 +119,6 @@
         "ko": "한병도 “조작기소 특검법안에 ‘공소취소’라는 말은 없어”···‘대통령 면죄부 논란’ 발 빼기 - 경향신문",
         "en": "한병도 “조작기소 특검법안에 ‘공소취소’라는 말은 없어”···‘대통령 면죄부 논란’ 발 빼기 - 경향신문",
         "zh": "한병도 “조작기소 특검법안에 ‘공소취소’라는 말은 없어”···‘대통령 면죄부 논란’ 발 빼기 - 경향신문"
-      }
-    },
-    {
-      "title": "'내란' 특검, '윤석열 체포 방해' 항소심 무죄 부분 상고 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6819186_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Thu, 30 Apr 2026 06:54:01 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/04/30/ljm_20260430_19.jpg",
-      "summaries": {
-        "ko": "'내란' 특검, '윤석열 체포 방해' 항소심 무죄 부분 상고 - MBC 뉴스",
-        "en": "'내란' 특검, '윤석열 체포 방해' 항소심 무죄 부분 상고 - MBC 뉴스",
-        "zh": "'내란' 특검, '윤석열 체포 방해' 항소심 무죄 부분 상고 - MBC 뉴스"
-      }
-    },
-    {
-      "title": "낮 기온 17~23도 ‘건조한 봄 날씨’…남부지방엔 오후 빗방울 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1256560.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 29 Apr 2026 23:45:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/651/imgdb/original/2026/0430/20260430500320.webp",
-      "summaries": {
-        "ko": "낮 기온 17~23도 ‘건조한 봄 날씨’…남부지방엔 오후 빗방울 - 한겨레",
-        "en": "낮 기온 17~23도 ‘건조한 봄 날씨’…남부지방엔 오후 빗방울 - 한겨레",
-        "zh": "낮 기온 17~23도 ‘건조한 봄 날씨’…남부지방엔 오후 빗방울 - 한겨레"
-      }
-    },
-    {
-      "title": "5월 1일, 이제는 '근로자의 날' 아니고 '노동절'이라고요[뉴스럽다] - 노컷뉴스",
-      "link": "https://www.nocutnews.co.kr/news/6511060",
-      "source": "노컷뉴스",
-      "pubDate": "Thu, 30 Apr 2026 08:02:00 GMT",
-      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/04/30/202604301618470289_0.jpg",
-      "summaries": {
-        "ko": "5월 1일, 이제는 '근로자의 날' 아니고 '노동절'이라고요[뉴스럽다] - 노컷뉴스",
-        "en": "5월 1일, 이제는 '근로자의 날' 아니고 '노동절'이라고요[뉴스럽다] - 노컷뉴스",
-        "zh": "5월 1일, 이제는 '근로자의 날' 아니고 '노동절'이라고요[뉴스럽다] - 노컷뉴스"
-      }
-    },
-    {
-      "title": "'출범 두 달' 종합특검…진상 규명 가능할까",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202605011523248XS",
-      "source": "Breaking News",
-      "pubDate": "Fri, 01 May 2026 15:23:46 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260501/MYH202605011523248XS.jpg",
-      "summaries": {
-        "ko": "'출범 두 달' 종합특검…진상 규명 가능할까",
-        "en": "'출범 두 달' 종합특검…진상 규명 가능할까",
-        "zh": "'출범 두 달' 종합특검…진상 규명 가능할까"
       }
     }
   ]
