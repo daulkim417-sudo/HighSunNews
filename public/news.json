@@ -1,76 +1,88 @@
 {
-  "lastUpdate": "2026-05-01T10:09:57.293631",
+  "lastUpdate": "2026-05-01T11:20:56.381002",
   "items": [
     {
-      "title": "국힘 대구 달성 이진숙 공천... 부산 북갑 경선, 정진석은 보류 - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/05/01/Y3TMV3TS75B7LIRKAOBRBJWNV4/",
-      "source": "조선일보",
-      "pubDate": "Fri, 01 May 2026 08:08:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/ZAJHUMQW5RGE3GEGO5QTZ64I24.jpg?auth=177766003f685aaaa87cc8f78fcf22f4742bb259780641462c561c92f3ac8fe7&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "국힘 대구 달성 이진숙 공천... 부산 북갑 경선, 정진석은 보류 - 조선일보",
-        "en": "국힘 대구 달성 이진숙 공천... 부산 북갑 경선, 정진석은 보류 - 조선일보",
-        "zh": "국힘 대구 달성 이진숙 공천... 부산 북갑 경선, 정진석은 보류 - 조선일보"
-      }
-    },
-    {
-      "title": "이 대통령 “과한 요구” 다음날…삼전 노조위원장 ‘우리 아니고 LG 얘기’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/labor/1256853.html",
+      "title": "윤석열 호위무사까지 공천…이래놓고 국힘 “누가 윤어게인?” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1256848.html",
       "source": "한겨레",
-      "pubDate": "Fri, 01 May 2026 09:08:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0501/20260501501373.webp",
+      "pubDate": "Fri, 01 May 2026 11:11:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/297/imgdb/original/2026/0501/20260501501324.webp",
       "summaries": {
-        "ko": "이재명 대통령의 '과한 요구' 비판에 삼성전자 노조는 영업이익 15% 성과급 요구는 과하지 않으며 대통령 발언은 LG유플러스 노조를 향한 것이라고 반박했고, 전문가들은 국가 지원을 받은 만큼 이익의 사회적 공유를 논의해야 한다고 지적했다.",
-        "en": "Following President Lee Jae-myung's criticism of 'excessive demands,' the Samsung Electronics union refuted by stating their 15% operating profit bonus request is not excessive and was aimed at the LG Uplus union, while experts suggested discussing social profit sharing given the industry's state support.",
-        "zh": "针对李在明总统关于“过度要求”的批评，三星电子工会反驳称其要求15%营业利润作为绩效奖金并非过度，总统言论是针对LG U+工会，而专家则指出，鉴于该行业获得了国家支持，应讨论利润的社会共享。"
+        "ko": "국민의힘이 친윤계 인사들을 재보궐선거에 대거 단수 공천하면서, 당내에서는 선거 구도가 ‘윤석열 심판론’으로 흐를 수 있다는 우려가 커지고 있다.",
+        "en": "The People Power Party's extensive single nominations of pro-Yoon figures for upcoming by-elections are fueling concerns within the party that the elections could turn into a \"judgment on Yoon Suk-yeol.\"",
+        "zh": "国民力量党在大批补选中单独提名多位亲尹锡悦人士，引发党内担忧，认为此举可能使选举转变为对“尹锡悦”的审判。"
       }
     },
     {
-      "title": "트럼프, 독일 이어 이탈리아·스페인 주둔 미군 감축 시사… \"아무 도움 안 돼\" - 조선일보",
+      "title": "이재명 대통령 재판 다 없애나…민주당 ‘조작기소 특검법’ 뜯어보니 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605011900001",
+      "source": "경향신문",
+      "pubDate": "Fri, 01 May 2026 10:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/01/news-p.v1.20260501.c7daa0382d174841951885d2bc614e2c_P1.jpeg",
+      "summaries": {
+        "ko": "더불어민주당이 발의한 '조작기소 특검법'이 이재명 대통령이 재판받는 사건들을 공소취소로 없앨 수 있는 전례 없는 권한을 특검에 부여하면서, 사법 독립성 훼손 및 권력분립 원칙 위배 논란이 일고 있다.",
+        "en": "The Democratic Party's proposed 'manipulated indictment special prosecutor bill' is drawing controversy for granting the special prosecutor unprecedented power to dismiss ongoing trials involving President Lee Jae-myung through the withdrawal of indictments, raising concerns about undermining judicial independence and violating the principle of separation of powers.",
+        "zh": "民主党提出的“伪造起诉特检法案”因赋予特检前所未有的权力，可以通过撤销公诉来撤销总统李在明正在审理的案件，引发了损害司法独立和违反权力分立原则的争议。"
+      }
+    },
+    {
+      "title": "李대통령 \"노동과 기업이 함께가는 상생의 길 열겠다\" - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/05/01/NUB2ONLGN5FQLPQMZSNGPQIELI/",
+      "source": "조선일보",
+      "pubDate": "Fri, 01 May 2026 05:53:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/SXFOB7HHRNBVNCQ4FB5VAZR7GA.JPG?auth=ee85876b30d75fb0ad12c1a03d0c549654fe902efa86573037797d56c0f6914f&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "李대통령 \"노동과 기업이 함께가는 상생의 길 열겠다\" - 조선일보",
+        "en": "李대통령 \"노동과 기업이 함께가는 상생의 길 열겠다\" - 조선일보",
+        "zh": "李대통령 \"노동과 기업이 함께가는 상생의 길 열겠다\" - 조선일보"
+      }
+    },
+    {
+      "title": "이탈리아·스페인 주둔 미군도 감축?... 트럼프 답변은 \"아마도\" - 조선일보",
       "link": "https://www.chosun.com/international/international_general/2026/05/01/UTIZF25DLRBGBOO7QRGSKYL7HM/",
       "source": "조선일보",
       "pubDate": "Fri, 01 May 2026 07:02:26 GMT",
       "image": "https://www.chosun.com/resizer/v2/2MVXWVJXIFNWDCCWK5VEDGOWII.jpg?auth=9f2e53349bd746c69a59496de836b96054479a811e7ae04b82900d000ca8f391&width=1200&height=630&focal=3116,1619",
       "summaries": {
-        "ko": "트럼프, 독일 이어 이탈리아·스페인 주둔 미군 감축 시사… \"아무 도움 안 돼\" - 조선일보",
-        "en": "트럼프, 독일 이어 이탈리아·스페인 주둔 미군 감축 시사… \"아무 도움 안 돼\" - 조선일보",
-        "zh": "트럼프, 독일 이어 이탈리아·스페인 주둔 미군 감축 시사… \"아무 도움 안 돼\" - 조선일보"
+        "ko": "이탈리아·스페인 주둔 미군도 감축?... 트럼프 답변은 \"아마도\" - 조선일보",
+        "en": "이탈리아·스페인 주둔 미군도 감축?... 트럼프 답변은 \"아마도\" - 조선일보",
+        "zh": "이탈리아·스페인 주둔 미군도 감축?... 트럼프 답변은 \"아마도\" - 조선일보"
       }
     },
     {
-      "title": "도심 메운 노동자들 “노동기본권 쟁취”···63년 만에 이름 되찾은 첫 법정공휴일 ‘노동절’ 집회 - 경향신문",
+      "title": "도심 메운 노동자들 “노동기본권 쟁취”…63년 만에 이름 되찾은 첫 법정공휴일 ‘노동절’ 집회 - 경향신문",
       "link": "https://www.khan.co.kr/article/202605011737001",
       "source": "경향신문",
       "pubDate": "Fri, 01 May 2026 08:37:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/01/rcv.YNA.20260501.PYH2026050108460001300_P1.jpg",
+      "image": "https://img.khan.co.kr/news/2026/05/01/news-p.v1.20260501.b21f67614aca452dadf3b0936af564b5_P1.jpeg",
       "summaries": {
-        "ko": "63년 만에 이름과 법정공휴일 지위를 되찾은 첫 노동절을 맞아 서울 도심에서 수만 명의 노동자들이 모여 노동기본권 보장과 원청과의 교섭 보장 등을 촉구하는 대규모 집회를 열었다.",
-        "en": "On the first Labor Day since regaining its original name and statutory holiday status after 63 years, tens of thousands of workers gathered in downtown Seoul to hold large-scale rallies demanding fundamental labor rights and guaranteed negotiations with original contractors.",
-        "zh": "在时隔63年重新恢复“劳动节”名称并成为法定节假日后的首个劳动节，数万名劳动者齐聚首尔市中心，举行大规模集会，呼吁保障劳动基本权利和与总承包商的协商权。"
+        "ko": "63년 만에 '노동절'이라는 이름을 되찾고 법정공휴일로 지정된 첫 노동절을 맞아, 서울 도심에 수만 명의 노동자들이 모여 노동기본권 보장 등을 촉구하는 대규모 집회를 열었으며, 명칭 변경에도 불구하고 여전히 많은 노동자들이 어려움을 겪고 있다고 강조했다.",
+        "en": "Tens of thousands of workers gathered in Seoul for large-scale rallies on the first 'Labor Day' since its name was restored and designated a public holiday after 63 years, demanding basic labor rights while emphasizing that despite the name change, many workers still face significant challenges.",
+        "zh": "在时隔63年恢复“劳动节”名称并被指定为法定假日的首个劳动节，数万名工人在首尔举行大规模集会，呼吁保障劳动基本权利，并强调尽管名称恢复，许多工人仍面临严峻挑战。"
       }
     },
     {
-      "title": "[단독] 의왕 아파트 화재 원인 '가스폭발' 추정‥\"아내는 화재 전 사망한 듯\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6819425_36918.html",
+      "title": "이란 언론 \"한국, 이란과 관계 유지 위해 신중한 균형 노력\" 평가 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6819407_36925.html",
       "source": "MBC 뉴스",
-      "pubDate": "Fri, 01 May 2026 06:17:25 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/05/01/yh_20260501-4.jpg",
+      "pubDate": "Fri, 01 May 2026 05:06:00 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/05/01/ljm_20260501_3.jpg",
       "summaries": {
-        "ko": "경기 의왕 아파트 화재의 유력한 원인으로 가스 폭발이 지목된 가운데, 60대 남성과 50대 여성이 숨졌으며 경찰은 여성이 화재 전 사망했을 가능성을 수사 중이고 남성의 유서가 발견됐다.",
-        "en": "A gas explosion is presumed to be the cause of an Uiwang apartment fire that killed a couple in their 50s and 60s, with police investigating the possibility that the woman died before the blaze, and a suicide note from the man having been found.",
-        "zh": "京畿义王公寓火灾被推测为煤气爆炸所致，一对夫妇死亡，警方正在调查女性可能在火灾前已死亡的可能性，现场也发现了男性的遗书。"
+        "ko": "이란 언론은 한국이 미국의 외교적 압박에도 인도적 지원 제공과 특사 파견 등 실질적 조치를 통해 이란과의 관계 유지를 위한 신중한 균형을 잡으려 노력하고 있다고 평가했습니다.",
+        "en": "Iranian media assessed that South Korea is making cautious efforts to balance its relationship with Iran, despite U.S. diplomatic pressure, through practical measures such as providing humanitarian aid and dispatching a special envoy.",
+        "zh": "伊朗媒体评价称，尽管面临美国的压力，韩国仍通过提供人道主义援助和派遣特使等实际举措，努力维持与伊朗的关系并保持谨慎平衡。"
       }
     },
     {
-      "title": "이란 관영 매체 \"한국, 미·이란 사이 신중한 균형 노력\" 긍정 평가 - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/05/01/KHR7HL7J5FDGXHCS2L5KAAME2A/",
-      "source": "조선일보",
-      "pubDate": "Fri, 01 May 2026 07:14:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/6PVL7E64TVLEBJ5C4XKZF2CB34.jpg?auth=500fac155e34fc6ee5ac27bb939d8dcb9fa3f30a715b61f4976322c1506af557&width=1200&height=630&smart=true",
+      "title": "장동혁 “김주애 수령님 모시고 ‘남조선민주주의인민공화국’ 살아야 할지도”···정동영에 색깔 공세 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605011626001",
+      "source": "경향신문",
+      "pubDate": "Fri, 01 May 2026 07:26:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/01/news-p.v1.20260501.8d646de518d848b2a2214fe662883b7f_P1.jpg",
       "summaries": {
-        "ko": "이란 관영 매체 \"한국, 미·이란 사이 신중한 균형 노력\" 긍정 평가 - 조선일보",
-        "en": "이란 관영 매체 \"한국, 미·이란 사이 신중한 균형 노력\" 긍정 평가 - 조선일보",
-        "zh": "이란 관영 매체 \"한국, 미·이란 사이 신중한 균형 노력\" 긍정 평가 - 조선일보"
+        "ko": "장동혁 국민의힘 대표는 정동영 통일부 장관의 통일 관련 발언과 대북 인식 등을 겨냥해 \"김주애 수령님 모시고 '남조선민주주의인민공화국'에 살아야 할지도 모른다\"며 강도 높은 색깔론 공세를 펼쳤다.",
+        "en": "People Power Party leader Jang Dong-hyuk launched a strong ideological attack against Unification Minister Jeong Dong-young, targeting his remarks on unification and North Korea policy by stating, \"Our children might have to live in a 'South Korean Democratic People's Republic' serving 'Leader Kim Ju-ae'.\"",
+        "zh": "韩国国民力量党代表张东赫就统一部长官郑东泳的统一相关言论和对朝认知等，展开强烈的“思想攻击”，称“我们的子孙后代可能要侍奉金主爱首领，生活在‘南朝鲜民主主义人民共和国’”。"
       }
     },
     {
@@ -80,45 +92,33 @@
       "pubDate": "Fri, 01 May 2026 09:09:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0501/17776117260533_20260501501029.webp",
       "summaries": {
-        "ko": "하정우 더불어민주당 부산 북갑 후보의 전입신고에도 불구하고, 이언주 의원은 '차도남'식 접근을 경고하며 한동훈 전 대표 중심의 보수 결집으로 민주당이 매우 어려운 선거를 치를 것이라고 전망했다.",
-        "en": "Despite Democratic Party's Ha Jung-woo completing his resident registration for the Busan Buk-gap by-election, Rep. Lee Eon-ju warned against a 'city man' approach, predicting a very difficult election for the DP due to potential conservative unity around former leader Han Dong-hoon.",
-        "zh": "尽管共同民主党釜山北区甲补选候选人河正宇完成了迁入申报，但议员李彦周仍警告其“冷都男”式的做法不可取，并预测由于以韩东勋为中心的保守派可能团结，共同民主党将面临一场非常艰难的选举。"
+        "ko": "더불어민주당 이언주 의원은 부산 북갑 보궐선거에 출마하는 민주당 하정우 후보에게 지역 정서를 존중하고 겸손할 것을 조언하며, 한동훈 전 대표를 중심으로 한 보수 결집으로 민주당이 어려운 선거를 치르게 될 것이라고 전망했다.",
+        "en": "DP Supreme Council member Lee Eon-ju advised Democratic Party candidate Ha Jung-woo, who recently registered his move to Busan Buk-gap for the by-election, not to act like a 'cold city man' and to respect local sentiments, predicting a tough election for the DP due to strong conservative unity forming around former leader Han Dong-hoon.",
+        "zh": "民主党最高委员李彦周警告，最近为釜山北甲补选迁入该地的民主党候选人河正宇，不要表现得像“都市冷男”，应尊重当地民情，并预测由于以韩东勋为中心的保守派团结，民主党将面临一场艰难的选举。"
       }
     },
     {
-      "title": "기초의원 밥그릇 싸움에 ‘고유가 지원금’ 차질 빚나···경기도, 추경안 무산 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605011135001",
-      "source": "경향신문",
-      "pubDate": "Fri, 01 May 2026 02:35:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/01/news-p.v1.20260501.51f268be4b9e4dc0add390870104bbfd_P1.png",
-      "summaries": {
-        "ko": "기초의원 선거구 획정을 둘러싼 갈등으로 경기도의회 본회의가 파행되면서 고유가 지원금 등 1조6000억원 규모의 경기도 추가경정예산안 처리가 무산되었다.",
-        "en": "Due to a conflict over the drawing of electoral districts for basic local council members, the Gyeonggi Provincial Assembly's plenary session was disrupted, leading to the failure of the 1.6 trillion won Gyeonggi supplementary budget, which includes high oil price support funds.",
-        "zh": "因基层议员选区划定争议导致京畿道议会全体会议中断，包括高油价补贴在内的1.6万亿韩元京畿道追加预算案未能通过。"
-      }
-    },
-    {
-      "title": "국힘, 민주당 조작기소 특검법안에 총공세‥\"헌정질서에 노골적 도전\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6819384_36911.html",
+      "title": "'내란' 특검, '윤석열 체포 방해' 항소심 무죄 부분 상고 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6819186_36918.html",
       "source": "MBC 뉴스",
-      "pubDate": "Fri, 01 May 2026 02:23:27 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/01/ggm_20260501_34.jpg",
+      "pubDate": "Thu, 30 Apr 2026 06:54:01 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/04/30/ljm_20260430_19.jpg",
       "summaries": {
-        "ko": "국힘, 민주당 조작기소 특검법안에 총공세‥\"헌정질서에 노골적 도전\" - MBC 뉴스",
-        "en": "국힘, 민주당 조작기소 특검법안에 총공세‥\"헌정질서에 노골적 도전\" - MBC 뉴스",
-        "zh": "국힘, 민주당 조작기소 특검법안에 총공세‥\"헌정질서에 노골적 도전\" - MBC 뉴스"
+        "ko": "'내란' 특검, '윤석열 체포 방해' 항소심 무죄 부분 상고 - MBC 뉴스",
+        "en": "'내란' 특검, '윤석열 체포 방해' 항소심 무죄 부분 상고 - MBC 뉴스",
+        "zh": "'내란' 특검, '윤석열 체포 방해' 항소심 무죄 부분 상고 - MBC 뉴스"
       }
     },
     {
-      "title": "해상 봉쇄로 복잡해진 트럼프 방중 계획···“이란전쟁 파급효과 의제 될 것” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605011312001",
-      "source": "경향신문",
-      "pubDate": "Fri, 01 May 2026 04:12:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/01/rcv.YNA.20260501.PEP20260501089201009_P1.jpg",
+      "title": "[단독] 의왕 아파트 화재 원인 '가스폭발' 추정‥\"아내는 화재 전 사망한 듯\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6819425_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Fri, 01 May 2026 06:17:25 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/05/01/yh_20260501-4.jpg",
       "summaries": {
-        "ko": "해상 봉쇄로 복잡해진 트럼프 방중 계획···“이란전쟁 파급효과 의제 될 것” - 경향신문",
-        "en": "해상 봉쇄로 복잡해진 트럼프 방중 계획···“이란전쟁 파급효과 의제 될 것” - 경향신문",
-        "zh": "해상 봉쇄로 복잡해진 트럼프 방중 계획···“이란전쟁 파급효과 의제 될 것” - 경향신문"
+        "ko": "[단독] 의왕 아파트 화재 원인 '가스폭발' 추정‥\"아내는 화재 전 사망한 듯\" - MBC 뉴스",
+        "en": "[단독] 의왕 아파트 화재 원인 '가스폭발' 추정‥\"아내는 화재 전 사망한 듯\" - MBC 뉴스",
+        "zh": "[단독] 의왕 아파트 화재 원인 '가스폭발' 추정‥\"아내는 화재 전 사망한 듯\" - MBC 뉴스"
       }
     }
   ]
