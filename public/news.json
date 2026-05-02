@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-02T07:16:38.997224",
+  "lastUpdate": "2026-05-02T08:45:15.508287",
   "items": [
     {
       "title": "결국 주독미군 5000명 철수…트럼프 경고가 현실로 - 경향신문",
@@ -8,117 +8,129 @@
       "pubDate": "Sat, 02 May 2026 01:13:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/05/02/rcv.YNA.20260502.PAP20260502113701009_P1.jpg",
       "summaries": {
-        "ko": "트럼프 행정부가 독일 주둔 미군 약 5천 명을 철수하기로 결정했으며, 이는 이란 분쟁에 대한 메르츠 독일 총리의 비판에 대한 직접적인 대응이자 유럽 동맹국들에 대한 경고로 널리 해석되며, 유럽 안보와 다른 동맹에 미칠 잠재적 영향에 대한 우려를 낳고 있다.",
-        "en": "The Trump administration has decided to withdraw approximately 5,000 U.S. troops from Germany, a move widely interpreted as a direct response to German Chancellor Merz's criticism regarding the Iran conflict and a warning to European allies, raising concerns about European security and the potential impact on other alliances.",
-        "zh": "特朗普政府已决定从德国撤出约5000名美军，此举被广泛解读为对德国总理默茨就伊朗冲突批评美国的直接回应和对欧洲盟友的警告，引发了对欧洲安全及其他联盟潜在影响的担忧。"
+        "ko": "미국이 독일 총리의 대미 비판에 대응하고 유럽 동맹국에 경고하기 위해 주독미군 5천 명을 철수하기로 결정했으며, 이는 유럽 안보 공백 및 다른 동맹국에 대한 우려를 증폭시키고 있다.",
+        "en": "The U.S. has decided to withdraw 5,000 troops from Germany in response to the German Chancellor's criticism and as a warning to European allies, which amplifies concerns about a security vacuum in Europe and potential impacts on other alliances.",
+        "zh": "美国决定从德国撤出5000名驻军，以回应德国总理的批评并警告欧洲盟友，此举加剧了人们对欧洲安全真空及对其他盟友潜在影响的担忧。"
       }
     },
     {
-      "title": "국민의힘 \"이진숙 '尹 사람'이란 말 바람직하지 않아‥역량 출중\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6819536_36911.html",
+      "title": "양향자 \"지도부, 극단 세력에 휘둘리지 말고 포용·화해로 당 이끌어야\" - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/05/02/SU6EFDKTF5ASDNTE6X3R7O4364/",
+      "source": "조선일보",
+      "pubDate": "Sat, 02 May 2026 02:10:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/QXKEUS62PVP63GAMTBPVQRXY7E.jpg?auth=3eca3d19cf6c2e79b860e92d888335bf9f96840435a92414c5767fbc81b51e83&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "양향자 \"지도부, 극단 세력에 휘둘리지 말고 포용·화해로 당 이끌어야\" - 조선일보",
+        "en": "양향자 \"지도부, 극단 세력에 휘둘리지 말고 포용·화해로 당 이끌어야\" - 조선일보",
+        "zh": "양향자 \"지도부, 극단 세력에 휘둘리지 말고 포용·화해로 당 이끌어야\" - 조선일보"
+      }
+    },
+    {
+      "title": "오세훈 \"이재명-정원오, 부동산 지옥 초래\"‥정원오 측 \"오세훈 말할 자격 없어\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6819550_36911.html",
       "source": "MBC 뉴스",
-      "pubDate": "Sat, 02 May 2026 02:35:20 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/02/sa_20260502_21.jpg",
+      "pubDate": "Sat, 02 May 2026 04:21:59 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/02/ggm_20260502_18.jpg",
       "summaries": {
-        "ko": "국민의힘은 대구 달성 국회의원 보궐선거 단수공천을 받은 이진숙 전 위원장에 대해 '역량이 출중하다'고 평가하며 '윤석열 전 대통령 사람'이라는 지적은 바람직하지 않다고 반박했지만, '윤 어게인' 인사들의 공천에 대한 비판은 이어지고 있다.",
-        "en": "The People Power Party defended its sole nomination of Lee Jin-sook for the Daegu Dalseong by-election, praising her 'outstanding capabilities' and rejecting the label 'Yoon Seok-yeol's person,' despite criticism over a series of 'Yoon again' nominations.",
-        "zh": "韩国执政党国民力量党评价大邱达城国会议员补选的单独候选人李真淑前委员长'能力出众'，并反驳了将其称为'尹锡悦的人'的说法，尽管外界对多位曾任尹锡悦政府官员的人士获得提名表示批评。"
+        "ko": "오세훈 서울시장 후보가 이재명-정원오 조합이 부동산 지옥을 초래할 것이라고 비판하자, 정원오 후보 측은 오 후보가 청년 주거 문제를 말할 자격이 없다고 맞받아쳤습니다.",
+        "en": "Seoul mayoral candidate Oh Se-hoon criticized the \"Lee Jae-myung-Jung Won-oh combination\" for potentially creating a \"real estate hell,\" while Jung Won-oh's side retorted that Oh is unqualified to speak about youth housing.",
+        "zh": "首尔市长候选人吴世勋批评李在明-郑元吾组合将带来“房地产地狱”，而郑元吾方面则反驳称吴世勋没有资格谈论青年住房问题。"
       }
     },
     {
-      "title": "조경태, 장동혁 지지자 향해 \"여러분 때문에 국민의힘이 안되는 것\" - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/05/02/UKECFPPXCVAJDFGLOFTGXRQEH4/",
-      "source": "조선일보",
-      "pubDate": "Sat, 02 May 2026 04:35:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GZP3RKWRWVC7ZNPM3CNAZF4CFI.gif?auth=2ed5cc1f483c52b781a0530cbf4cd24ae2a6805de5c4f9ff170f9436cadab613&width=480&height=252&smart=true",
-      "summaries": {
-        "ko": "조경태, 장동혁 지지자 향해 \"여러분 때문에 국민의힘이 안되는 것\" - 조선일보",
-        "en": "조경태, 장동혁 지지자 향해 \"여러분 때문에 국민의힘이 안되는 것\" - 조선일보",
-        "zh": "조경태, 장동혁 지지자 향해 \"여러분 때문에 국민의힘이 안되는 것\" - 조선일보"
-      }
-    },
-    {
-      "title": "국힘 경기지사 후보 양향자…민주 추미애와 맞대결 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1256890.html",
+      "title": "윤석열 호위무사까지 공천…이래놓고 국힘 “누가 윤어게인?” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1256848.html",
       "source": "한겨레",
-      "pubDate": "Sat, 02 May 2026 03:16:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0502/3917776892684906.webp",
+      "pubDate": "Fri, 01 May 2026 15:46:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/297/imgdb/original/2026/0501/20260501501324.webp",
       "summaries": {
-        "ko": "국민의힘 양향자 최고위원이 6·3 지방선거 경기도지사 후보로 확정되어 더불어민주당 추미애 후보와 맞대결을 펼치게 되었다.",
-        "en": "Yang Hyang-ja of the People Power Party has been confirmed as the Gyeonggi Province gubernatorial candidate for the 6·3 local election, setting up a showdown with the Democratic Party's Choo Mi-ae.",
-        "zh": "国民力量党梁香子被确定为6·3地方选举京畿道知事候选人，将与民主党秋美爱候选人展开对决。"
+        "ko": "국민의힘이 윤석열 대통령의 측근 인사들을 재보궐 선거에 대거 단수 공천하자, 당내에서는 선거가 '윤어게인 심판' 구도로 흐르며 전체 선거에 악영향을 줄 수 있다는 우려가 나오고 있다.",
+        "en": "The People Power Party's unilateral nomination of numerous close associates of President Yoon Suk-yeol for upcoming by-elections has sparked concerns within the party that the elections could become a \"judgment on Yoon Again,\" potentially negatively impacting the party's overall performance.",
+        "zh": "国民力量党在大批补选中单独提名尹锡悦总统的亲信人士，引发党内担忧，认为选举可能演变为“再次审判尹锡悦”的局面，进而对该党的整体选举表现产生负面影响。"
       }
     },
     {
-      "title": "‘공소취소권’ 특검법 발의에 “이 대통령만 다른 세상서 침묵?”···국민의힘 연이틀 공세 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605021429001",
-      "source": "경향신문",
-      "pubDate": "Sat, 02 May 2026 05:29:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/02/news-p.v1.20260502.7c4666be14bb4d4a918896941616890d_P1.png",
+      "title": "노동절에 바게트 산 총리...佛 노동단체 \"정치적 쇼 그만\" - 조선일보",
+      "link": "https://www.chosun.com/international/europe/2026/05/02/3PX7PVVQ4ZCUVN76J3HO32U7OI/",
+      "source": "조선일보",
+      "pubDate": "Sat, 02 May 2026 05:43:20 GMT",
+      "image": "https://www.chosun.com/resizer/v2/CVBKENISOROFPOHIP57Q2DIO6I.jpg?auth=b8960a66ec930c8aeb5622dd42cf5be14cb38769220f34ae342651fed40c6136&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "국민의힘은 이재명 대표의 기소를 취소할 수 있도록 하는 위헌적 발상이라며 더불어민주당의 특검법 발의를 '독재의 교과서'이자 '셀프 면죄 특검'으로 규정하며 맹비난했다.",
-        "en": "The People Power Party fiercely criticized the Democratic Party's proposal for a special prosecutor law, defining it as a 'textbook of dictatorship' and a 'self-exoneration special prosecutor,' citing its unconstitutional premise of potentially allowing the dismissal of charges against leader Lee Jae-myung.",
-        "zh": "国民力量党猛烈抨击共同民主党提出的特别检察官法案，将其定性为“独裁的教科书”和“自我赦免特检”，并指责其是允许撤销对李在明代表起诉的违宪构想。"
+        "ko": "노동절에 바게트 산 총리...佛 노동단체 \"정치적 쇼 그만\" - 조선일보",
+        "en": "노동절에 바게트 산 총리...佛 노동단체 \"정치적 쇼 그만\" - 조선일보",
+        "zh": "노동절에 바게트 산 총리...佛 노동단체 \"정치적 쇼 그만\" - 조선일보"
       }
     },
     {
-      "title": "친윤계 잇단 재보선 출사표… 정진석 “절윤 강요말라” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260430/133845537/2",
+      "title": "정의당 \"조작기소 특검 반대‥국힘이 부활해 공소취소하면 막을 수 있나\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6819534_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sat, 02 May 2026 02:16:30 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/02/ggm_20260502_13.jpg",
+      "summaries": {
+        "ko": "정의당은 민주당이 발의한 '윤석열 정권 조작기소 특검법안'에 대해, 이재명 대표 관련 사건의 공소 취소 길을 열고 대통령이 본인 사건을 다룰 특검을 임명하는 절차적 논란 및 미래 정치적 악용 가능성을 들어 반대 입장을 표명했다.",
+        "en": "The Justice Party opposes the Democratic Party's 'Special Prosecutor Bill for Investigating Fabricated Indictments by the Yoon Seok-yeol Regime,' citing concerns over its potential to lead to the withdrawal of indictments in Lee Jae-myung's related cases, the problematic appointment of a special prosecutor by the president for his own related matters, and the risk of future political misuse.",
+        "zh": "正义党反对民主党提出的“尹锡悦政权伪造起诉真相查明特检法案”，理由是该法案可能为李在明代表相关案件的撤销起诉开辟道路，存在总统任命处理与自身相关案件的特检等程序争议以及未来政治滥用的风险。"
+      }
+    },
+    {
+      "title": "마약왕 박왕열 뒤에 공급책 ‘청담사장’ 있었다 - 동아일보",
+      "link": "https://www.donga.com/news/Society/article/all/20260501/133850161/2",
       "source": "동아일보",
-      "pubDate": "Thu, 30 Apr 2026 16:40:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/30/133841892.3.jpg",
+      "pubDate": "Fri, 01 May 2026 16:40:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/01/133848308.5.jpg",
       "summaries": {
-        "ko": "친윤계 잇단 재보선 출사표… 정진석 “절윤 강요말라” - 동아일보",
-        "en": "친윤계 잇단 재보선 출사표… 정진석 “절윤 강요말라” - 동아일보",
-        "zh": "친윤계 잇단 재보선 출사표… 정진석 “절윤 강요말라” - 동아일보"
+        "ko": "마약왕 박왕열 뒤에 공급책 ‘청담사장’ 있었다 - 동아일보",
+        "en": "마약왕 박왕열 뒤에 공급책 ‘청담사장’ 있었다 - 동아일보",
+        "zh": "마약왕 박왕열 뒤에 공급책 ‘청담사장’ 있었다 - 동아일보"
       }
     },
     {
-      "title": "일요일 전국 곳곳 봄비…제주·남해안 돌풍·번개 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1256892.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 02 May 2026 03:00:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/534/imgdb/original/2026/0502/20260502500229.webp",
+      "title": "삼성전자 노조, 李대통령 경고에 “일방적 단정은 갈등 키울 수 있어” - 조선비즈 - Chosunbiz",
+      "link": "https://biz.chosun.com/topics/topics_social/2026/05/02/ZMK67IKIZJFCPDI7YGZV4MSITQ/",
+      "source": "Chosunbiz",
+      "pubDate": "Sat, 02 May 2026 04:47:00 GMT",
+      "image": "https://biz.chosun.com/resizer/v2/GFQTMM3BMRSDMZRUMNSWEYTBMY.jpg?auth=70f7934a2bcd2361553590e30e21e122faabdb2a868e0aa6b843186bb023f353&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "일요일인 3일 전국에 봄비가 내리겠으며, 특히 제주와 남해안에는 돌풍과 천둥·번개를 동반하겠고 일부 지역은 4일까지 비가 이어지겠다.",
-        "en": "On Sunday, March 3rd, spring rain is expected nationwide, with Jeju and the southern coast experiencing gusts and thunder/lightning, and rain continuing until the 4th in some regions.",
-        "zh": "周日3日，韩国全国范围内将迎来春雨，其中济州和南海沿岸地区将伴有强风、雷电，部分地区降雨将持续至4日。"
+        "ko": "삼성전자 노조, 李대통령 경고에 “일방적 단정은 갈등 키울 수 있어” - 조선비즈 - Chosunbiz",
+        "en": "삼성전자 노조, 李대통령 경고에 “일방적 단정은 갈등 키울 수 있어” - 조선비즈 - Chosunbiz",
+        "zh": "삼성전자 노조, 李대통령 경고에 “일방적 단정은 갈등 키울 수 있어” - 조선비즈 - Chosunbiz"
       }
     },
     {
-      "title": "민주당 “국힘 공천은 국민기만 윤어게인”···이진숙·이용·김태규 지목 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605021456001",
+      "title": "“장동혁 대표 연호하는 분들 집에 가세요”···조경태, 장동혁 면전서 “비상계엄 잘못” 질타 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605021550001",
       "source": "경향신문",
-      "pubDate": "Sat, 02 May 2026 05:56:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/02/news-p.v1.20260502.9a25109e81884fdb9549756152665d94_P1.png",
+      "pubDate": "Sat, 02 May 2026 06:50:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/02/news-p.v1.20260502.f45f694de3f547d79c0c63811bbb175f_P1.jpeg",
       "summaries": {
-        "ko": "더불어민주당은 국민의힘의 차기 선거 공천을 '윤어게인'이라 비판하며, 개혁 없이 논란 있는 인물들을 재등용하고 전 대통령 비서실장의 출마 자격을 문제 삼았다.",
-        "en": "The Democratic Party criticized the People Power Party's nominations for the upcoming elections as 'Yoon Again,' accusing them of bringing back controversial figures instead of reforming and questioning the eligibility of a former presidential chief of staff.",
-        "zh": "共同民主党批评国民力量党即将到来的选举提名是“尹氏再现”，指责其未进行改革反而重新启用争议人物，并质疑前总统秘书室长的参选资格。"
+        "ko": "국민의힘 조경태 의원이 박형준 부산시장 후보 선거사무소 개소식에서 \"비상계엄은 잘못\"이라며 장동혁 대표를 연호하는 지지자들을 질타했고, 이에 박형준 후보는 당의 단합을 호소했다.",
+        "en": "At the opening ceremony for People Power Party's Park Hyeong-jun's Busan mayoral campaign office, lawmaker Jo Kyeong-tae criticized \"emergency martial law\" and rebuked supporters cheering for party leader Jang Dong-hyeok, prompting candidate Park Hyeong-jun to appeal for party unity.",
+        "zh": "在国民力量党朴亨埈釜山市长候选人竞选办公室开幕式上，议员赵庆泰批评“紧急戒严是错误的”并斥责了为党魁张东赫欢呼的支持者，候选人朴亨埈随后呼吁党内团结。"
       }
     },
     {
-      "title": "청주여자교도소 5인방 화보? 쏟아지는 AI 콘텐츠에 2차 가해 논란 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/05/02/EZRRNL55YJAXLK4FOMXGCZGGGQ/",
-      "source": "조선일보",
-      "pubDate": "Sat, 02 May 2026 02:37:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MQYC6H2DBVAQJDSI45TXUIFLDE.png?auth=508077b48d972023903ad3710e12efdd8c721c7ea5104f81326a979920405000&width=1019&height=534&smart=true",
-      "summaries": {
-        "ko": "청주여자교도소 5인방 화보? 쏟아지는 AI 콘텐츠에 2차 가해 논란 - 조선일보",
-        "en": "청주여자교도소 5인방 화보? 쏟아지는 AI 콘텐츠에 2차 가해 논란 - 조선일보",
-        "zh": "청주여자교도소 5인방 화보? 쏟아지는 AI 콘텐츠에 2차 가해 논란 - 조선일보"
-      }
-    },
-    {
-      "title": "운전 중 실신한 버스기사…참사 막은 美중학생들 [지구촌현장포착]",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260502161210iSG",
+      "title": "\"새 종전안 핵문제 담겨\"…'이란 석유 수입' 중국 기업도 제재",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260502174133uw2",
       "source": "Breaking News",
-      "pubDate": "Sat, 02 May 2026 16:12:49 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260502/MYH20260502161210iSG.jpg",
+      "pubDate": "Sat, 02 May 2026 17:42:01 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260502/MYH20260502174133uw2.jpg",
       "summaries": {
-        "ko": "이번 지구촌 현장포착에서는 운전 중 실신한 버스 기사의 위기 상황에서 중학생들의 활약으로 대형 참사를 막은 소식과 함께 건물 붕괴 현장, 오랑우탄의 인공 다리 이용, 희귀 바닷가재 발견 등 세계 각지의 다양한 이야기가 소개되었다.",
-        "en": "This 'Global Scene Catch' segment featured middle school students preventing a major disaster when their bus driver fainted while driving, along with diverse stories from around the world including a building collapse, an orangutan using an artificial bridge, and the discovery of a rare lobster.",
-        "zh": "本次《地球村现场捕捉》节目报道了美国中学生在校车司机驾驶时突然昏迷的情况下，通过果断应对成功避免了一场重大事故，此外还介绍了包括建筑物倒塌现场、猩猩使用人工桥梁以及发现稀有龙虾等来自世界各地的各种故事。"
+        "ko": "미국은 이란의 새로운 종전 협상안에 핵 문제가 포함되었음에도 불구하고 이를 거부하며 이란에 대한 경제 제재와 해상 봉쇄를 강화하는 한편, 유럽 동맹국과 이란산 석유를 수입하는 중국 기업에도 압박을 가하고 있습니다.",
+        "en": "The U.S. has rejected Iran's new peace proposal, even with the inclusion of nuclear issues, escalating economic sanctions and naval blockades against Iran while also pressuring European allies and sanctioning Chinese companies involved in importing Iranian oil.",
+        "zh": "尽管伊朗新的停战提案中包含了核问题，但美国仍拒绝该提案，加大了对伊朗的经济制裁和海上封锁，同时向欧洲盟友施压并制裁涉嫌进口伊朗石油的中国企业。"
+      }
+    },
+    {
+      "title": "[속보] 경찰, 박왕열 마약 공급책 '청담' 구속영장 신청",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260502165842S7i",
+      "source": "Breaking News",
+      "pubDate": "Sat, 02 May 2026 16:59:07 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260502/MYH20260502165842S7i.jpg",
+      "summaries": {
+        "ko": "[속보] 경찰, 박왕열 마약 공급책 '청담' 구속영장 신청",
+        "en": "[속보] 경찰, 박왕열 마약 공급책 '청담' 구속영장 신청",
+        "zh": "[속보] 경찰, 박왕열 마약 공급책 '청담' 구속영장 신청"
       }
     }
   ]
