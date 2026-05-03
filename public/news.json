@@ -1,76 +1,16 @@
 {
-  "lastUpdate": "2026-05-03T08:58:43.220280",
+  "lastUpdate": "2026-05-03T10:01:03.279539",
   "items": [
     {
       "title": "트럼프 \"독일 미군 감축, 5000명 보다 더 많을 것\" - 조선일보",
       "link": "https://www.chosun.com/international/us/2026/05/03/DDCLD4G3ENHNTELE3JYSHPNUAM/",
       "source": "조선일보",
-      "pubDate": "Sun, 03 May 2026 03:27:00 GMT",
+      "pubDate": "Sun, 03 May 2026 03:32:42 GMT",
       "image": "https://www.chosun.com/resizer/v2/GUMGVISCOVEKXJ77EDFO2ZJ5IE.jpg?auth=7b140a6f12f92e4f85b7873edb6493167981cd5575ac4a6e3296469ff0b59845&width=1200&height=630&smart=true",
       "summaries": {
         "ko": "트럼프 \"독일 미군 감축, 5000명 보다 더 많을 것\" - 조선일보",
         "en": "트럼프 \"독일 미군 감축, 5000명 보다 더 많을 것\" - 조선일보",
         "zh": "트럼프 \"독일 미군 감축, 5000명 보다 더 많을 것\" - 조선일보"
-      }
-    },
-    {
-      "title": "지선 D-30 ‘윤어게인’ 공천 논란에 국민의힘 당내서도 반발…김태흠 “국민 양심에 반하면 떠날수밖에” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605031742001",
-      "source": "경향신문",
-      "pubDate": "Sun, 03 May 2026 08:42:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/03/news-p.v1.20260303.6dcefdc56a0c4526a8054a0e56c1b396_P1.jpg",
-      "summaries": {
-        "ko": "국민의힘이 재보궐선거와 지방선거에서 정진석 전 비서실장 등 친윤 인사들을 잇달아 공천하자, 김태흠 충남지사가 탈당을 거론하고 당내에서 '윤어게인 공천'이라며 강하게 반발하고 있다.",
-        "en": "The People Power Party's controversial nominations of a series of pro-Yoon Seok-yeol figures, including former Chief of Staff Chung Jin-suk, for by-elections and local elections have ignited strong internal backlash, with Governor Kim Tae-heum threatening to leave the party amidst widespread criticism of \"Yoon-again nominations.\"",
-        "zh": "国民力量党在补选和地方选举中接连提名包括前幕僚长郑镇硕在内的亲尹锡悦派人士，引发党内强烈反弹，忠清南道知事金泰钦等人扬言退党，党内对“尹系人马再次获提名”的争议日益加剧。"
-      }
-    },
-    {
-      "title": "이란, ‘종전 14개항’ 수정 제안…트럼프는 “수용 상상 못해” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1256923.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 03 May 2026 05:11:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/905/603/imgdb/original/2026/0503/20260503500836.webp",
-      "summaries": {
-        "ko": "이란이 전쟁 배상금 지급 등을 포함한 14개항의 수정 종전 협상안을 미국에 제시했으나, 트럼프 대통령은 이를 수용하기 어렵다며 거부했다.",
-        "en": "Iran proposed a revised 14-point peace deal to the U.S., including demands for war reparations, but President Trump immediately rejected it, stating it was unacceptable.",
-        "zh": "伊朗向美国提出了包括战争赔偿等内容的14项修订版和平协议，但特朗普总统立即表示无法接受并予以拒绝。"
-      }
-    },
-    {
-      "title": "李대통령 \"법정 허용치 초과 불법대부는 무효…안 갚아도 무방\" - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/05/03/TPXJJT66WRG5LC2A7Y34LMN4K4/",
-      "source": "조선일보",
-      "pubDate": "Sun, 03 May 2026 02:28:45 GMT",
-      "image": "https://www.chosun.com/resizer/v2/G4ZTOYZWMM3DQZBRMUZDSYRVGM.jpg?auth=c2eb87d92696cf0bb86a3af7b562f4debff40aefd68bcf62dd8e28382f636116&width=1200&height=630&focal=2122,1124",
-      "summaries": {
-        "ko": "李대통령 \"법정 허용치 초과 불법대부는 무효…안 갚아도 무방\" - 조선일보",
-        "en": "李대통령 \"법정 허용치 초과 불법대부는 무효…안 갚아도 무방\" - 조선일보",
-        "zh": "李대통령 \"법정 허용치 초과 불법대부는 무효…안 갚아도 무방\" - 조선일보"
-      }
-    },
-    {
-      "title": "[속보]한동훈 “李, 자기 사건 공소취소하면 명백 탄핵 사유” - 문화일보",
-      "link": "https://www.munhwa.com/article/11586554",
-      "source": "문화일보",
-      "pubDate": "Sun, 03 May 2026 05:41:09 GMT",
-      "image": "https://wimg.munhwa.com/news/cms/2026/05/03/rcv.YNA.20260503.PYH2026050302330005100_R.jpg",
-      "summaries": {
-        "ko": "한동훈 전 국민의힘 대표는 이재명 대통령이 자신의 유죄판결을 막기 위해 ‘공소취소 특검’을 통해 자기 사건의 공소취소를 시도하면 명백한 탄핵 사유가 될 것이라고 경고했다.",
-        "en": "Former People Power Party leader Han Dong-hoon warned that if President Lee Jae-myung attempts to withdraw prosecution of his own case through a 'public prosecution withdrawal special prosecutor' to prevent a guilty verdict, it would be a clear ground for impeachment.",
-        "zh": "韩国执政党前党首韩东勋警告称，如果总统李在明为阻止自己被判有罪而试图通过‘撤销公诉特检’来撤销自己案件的公诉，将构成明确的弹劾理由。"
-      }
-    },
-    {
-      "title": "39도 고열 영아 병원길 막히자 순찰차 두드린 아버지···경찰 에스코트로 5분 만에 도착 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605031115001",
-      "source": "경향신문",
-      "pubDate": "Sun, 03 May 2026 02:15:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/03/news-p.v1.20260503.4d10254d7e0f4a43a7279fa740501e7b_P1.jpg",
-      "summaries": {
-        "ko": "고열과 구토에 시달리던 22개월 영아의 아버지가 퇴근길 정체 속에서 순찰차에 도움을 요청했고, 경찰의 에스코트와 시민들의 도움으로 아이가 5분 만에 병원에 도착하여 치료를 받았다.",
-        "en": "A father whose 22-month-old toddler was suffering from high fever and vomiting sought help from a patrol car amidst rush-hour traffic, and with police escort and public assistance, the child arrived at the hospital in 5 minutes and received treatment.",
-        "zh": "一位父亲因其22个月大的幼儿发高烧并呕吐，在下班高峰期拥堵的道路上向巡逻车求助，在警方的护送和市民的帮助下，孩子在5分钟内到达医院并接受了治疗。"
       }
     },
     {
@@ -80,9 +20,21 @@
       "pubDate": "Sun, 03 May 2026 07:25:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/606/imgdb/original/2026/0503/1517777926706242.webp",
       "summaries": {
-        "ko": "국민의힘 오세훈 서울시장 후보와 개혁신당 조응천 경기지사 후보 등 수도권 야권 후보들이 더불어민주당이 발의한 이재명 대통령 관련 '조작 수사·기소 특검법안' 처리를 저지하기 위한 공조에 나선다.",
-        "en": "Seoul Mayor candidate Oh Se-hoon (People Power Party) and Gyeonggi Governor candidate Cho Eung-chun (Reform Party), along with other opposition candidates in the Seoul metropolitan area, are joining forces to block the Democratic Party's proposed \"Manipulation Investigation and Prosecution Special Act\" related to President Lee Jae-myung.",
-        "zh": "首尔市长候选人吴世勋（国民力量党）和京畿道知事候选人赵应天（改革新党）等首都圈在野党候选人，将联合阻止共同民主党提出的与李在明总统相关的“伪造调查·起诉特检法案”的通过。"
+        "ko": "국민의힘 오세훈 서울시장 후보와 개혁신당 조응천 경기지사 후보 등 수도권 범야권 후보들이 더불어민주당이 발의한 '이재명 공소 취소 특별법'으로 불리는 '조작 수사·기소 특검법안' 저지를 위해 공조에 나섰다.",
+        "en": "People Power Party's Seoul mayoral candidate Oh Se-hoon and Reform Party's Gyeonggi provincial governor candidate Cho Eung-cheon, along with other pan-opposition candidates in the capital region, have allied to block the Democratic Party's proposed \"manipulated investigation/indictment special prosecutor bill,\" which they refer to as the \"Special law to drop charges against President Lee Jae-myung.\"",
+        "zh": "国民力量党首尔市长候选人吴世勋和改革新党京畿道知事候选人曹国天等首都圈泛在野党候选人已展开合作，共同阻止共同民主党提出的、被称为“李在明总统公诉取消特别法”的“操纵调查·起诉特检法案”。"
+      }
+    },
+    {
+      "title": "[속보]한동훈 “李, 자기 사건 공소취소하면 명백 탄핵 사유” - 문화일보",
+      "link": "https://www.munhwa.com/article/11586554",
+      "source": "문화일보",
+      "pubDate": "Sun, 03 May 2026 05:41:09 GMT",
+      "image": "https://wimg.munhwa.com/news/cms/2026/05/03/rcv.YNA.20260503.PYH2026050302330005100_R.jpg",
+      "summaries": {
+        "ko": "한동훈 전 국민의힘 대표는 이재명 대통령이 자기 사건의 공소취소를 시도할 경우 명백한 탄핵 사유가 될 것이라고 경고했다.",
+        "en": "Former People Power Party leader Han Dong-hoon warned that if President Lee Jae-myung attempts to withdraw the prosecution of his own case, it would be a clear ground for impeachment.",
+        "zh": "前国民力量党代表韩东勋警告称，如果李在明总统试图撤销对其自身案件的公诉，将构成明确的弹劾理由。"
       }
     },
     {
@@ -92,9 +44,21 @@
       "pubDate": "Sat, 02 May 2026 23:55:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/665/imgdb/original/2026/0503/20260503500212.webp",
       "summaries": {
-        "ko": "5월 첫 일요일인 3일, 전국적으로 저기압의 영향으로 비가 내리고 강한 바람이 불며 쌀쌀한 날씨가 예상된다.",
-        "en": "On May 3rd, the first Sunday of May, chilly weather with rain and strong winds is expected nationwide due to the influence of a low-pressure system.",
-        "zh": "5月第一个星期日，即3日，受低气压影响，预计韩国全国将出现降雨、强风和寒冷天气。"
+        "ko": "5월 첫 일요일인 3일, 저기압의 영향으로 전국에 비와 강한 바람이 불고 쌀쌀한 날씨가 예상되며, 시설물 관리와 안전에 유의해야 한다.",
+        "en": "On May 3rd, the first Sunday of the month, nationwide rain, strong winds, and chilly weather are expected due to a low-pressure system, with warnings to take precautions for facility management and safety.",
+        "zh": "5月首个周日（3日），受低气压影响，预计全国将出现降雨、大风和寒冷天气，提醒民众注意设施管理和人身安全。"
+      }
+    },
+    {
+      "title": "지선 D-30 ‘윤어게인’ 공천 논란에 국민의힘 당내서도 반발…김태흠 “국민 양심에 반하면 떠날수밖에” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605031742001",
+      "source": "경향신문",
+      "pubDate": "Sun, 03 May 2026 08:42:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/03/news-p.v1.20260303.6dcefdc56a0c4526a8054a0e56c1b396_P1.jpg",
+      "summaries": {
+        "ko": "국민의힘이 정진석 전 비서실장 등 친윤 인사들의 ‘윤어게인 공천’ 논란에 휩싸이자 김태흠 충남지사가 탈당을 거론하는 등 당내 거센 반발에 직면했다.",
+        "en": "The People Power Party is facing strong internal backlash, including a defection threat from Chungnam Governor Kim Tae-heum, over controversial 'Yoon-again' nominations of pro-Yoon Seok-yeol figures, such as former Chief of Staff Jeong Jin-seok.",
+        "zh": "国民力量党因亲尹锡悦派人物（包括前秘书室长郑镇硕）的“尹时代再现”提名引发争议，面临党内强烈反弹，忠南知事金泰钦甚至提及退党。"
       }
     },
     {
@@ -104,9 +68,45 @@
       "pubDate": "Sun, 03 May 2026 05:26:00 GMT",
       "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/05/03/202605031417208636_0.jpg",
       "summaries": {
-        "ko": "\"북구의 아들 금의환향\" 정청래, 부산서 하정우 지원 사격 - nocutnews.co.kr",
-        "en": "\"북구의 아들 금의환향\" 정청래, 부산서 하정우 지원 사격 - nocutnews.co.kr",
-        "zh": "\"북구의 아들 금의환향\" 정청래, 부산서 하정우 지원 사격 - nocutnews.co.kr"
+        "ko": "더불어민주당 정청래 대표가 3일 부산 구포시장을 찾아 북갑 보궐선거 출마를 공식화한 하정우 전 청와대 AI 미래기획수석을 지원하며, 그를 '북구의 아들'이자 '금의환향'한 인물로 부각시키며 뜨거운 관심을 확인했다.",
+        "en": "Democratic Party leader Jung Chung-rae visited Busan's Gupo Market on March 3rd to support Ha Jung-woo, former Blue House AI future planning senior secretary, in his Busan Buk-gap by-election campaign, highlighting him as a popular \"son of Buk-gu\" returning home in glory.",
+        "zh": "3月3日，共同民主党代表郑清来访问釜山龟浦市场，为正式宣布参选釜山北甲国会议员补选的前青瓦台AI未来企划首席秘书河正宇助选，并强调他作为“北区之子”荣归故里，受到民众热烈关注。"
+      }
+    },
+    {
+      "title": "민주당 \"조경태 '계엄 잘못됐다' 발언에 야유한 국힘, 이성 잃어\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6819662_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 03 May 2026 02:13:20 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/03/sa_20260503_10.jpg",
+      "summaries": {
+        "ko": "더불어민주당은 국민의힘 조경태 의원이 '비상계엄은 잘못됐다'고 발언하자 당 지지자들이 야유한 사건에 대해 \"이성을 잃은 제1야당의 적나라한 단면\"이라며 강도 높게 비판했다.",
+        "en": "The Democratic Party severely criticized the People Power Party, stating that its supporters' booing of Rep. Cho Kyung-tae for his remark 'emergency martial law was wrong' demonstrated 'the raw facet of the main opposition party losing its reason.'",
+        "zh": "共同民主党严厉批评国民力量党，指出该党支持者对赵庆泰议员发表‘紧急戒严是错误的’言论发出嘘声，是‘第一大在野党失去理性的赤裸裸的断面’。"
+      }
+    },
+    {
+      "title": "대구 간 장동혁 “이재명은 김정은 대변인 된 지 오래” 막말 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1256964.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 03 May 2026 07:58:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/852/imgdb/child/2026/0503/17777948055068_20260503501611.webp",
+      "summaries": {
+        "ko": "대구 간 장동혁 “이재명은 김정은 대변인 된 지 오래” 막말 - 한겨레",
+        "en": "대구 간 장동혁 “이재명은 김정은 대변인 된 지 오래” 막말 - 한겨레",
+        "zh": "대구 간 장동혁 “이재명은 김정은 대변인 된 지 오래” 막말 - 한겨레"
+      }
+    },
+    {
+      "title": "정청래·하정우 '오빠' 발언에 국힘 \"아동 성희롱\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260503175910tpz",
+      "source": "Breaking News",
+      "pubDate": "Sun, 03 May 2026 17:59:12 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260503/AKR20260503175910tpz_01_i.jpg",
+      "summaries": {
+        "ko": "정청래·하정우 '오빠' 발언에 국힘 \"아동 성희롱\"",
+        "en": "정청래·하정우 '오빠' 발언에 국힘 \"아동 성희롱\"",
+        "zh": "정청래·하정우 '오빠' 발언에 국힘 \"아동 성희롱\""
       }
     },
     {
