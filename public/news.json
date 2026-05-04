@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-05-04T16:17:03.381785",
+  "lastUpdate": "2026-05-04T17:52:23.484568",
   "items": [
-    {
-      "title": "미군 \"美상선 2척 성공적 통과... 호르무즈서 피격당한 군함 없다\" - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/05/04/A267D52IZJE4TLVIKIPJMQVCVA/",
-      "source": "조선일보",
-      "pubDate": "Mon, 04 May 2026 14:47:35 GMT",
-      "image": "https://www.chosun.com/resizer/v2/Z6QLFM7GSVLYBOPK6BTNKMROZU.jpg?auth=1a3f7e1d7ee654c019a38105cde7f29caba475d60474d3180c7405e9e3661d0e&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "미군 \"美상선 2척 성공적 통과... 호르무즈서 피격당한 군함 없다\" - 조선일보",
-        "en": "미군 \"美상선 2척 성공적 통과... 호르무즈서 피격당한 군함 없다\" - 조선일보",
-        "zh": "미군 \"美상선 2척 성공적 통과... 호르무즈서 피격당한 군함 없다\" - 조선일보"
-      }
-    },
     {
       "title": "호르무즈 한국선박 피격돼 폭발·화재…정부 “인명 피해는 없어” - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1257181.html",
@@ -20,9 +8,21 @@
       "pubDate": "Mon, 04 May 2026 15:12:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0504/20260504503145.webp",
       "summaries": {
-        "ko": "호르무즈해협 인근에서 한국 선사가 운용하는 파나마 국적 화물선에서 폭발과 함께 화재가 발생했으나 인명 피해는 없는 것으로 확인되었으며, 정부는 고의적 공격 여부를 확인 중이다.",
-        "en": "An explosion and fire occurred on a Panama-flagged cargo ship operated by a Korean company near the Strait of Hormuz, with no casualties reported, and the government is investigating whether it was a deliberate attack.",
-        "zh": "一艘由韩国船公司运营的巴拿马籍货船在霍尔木兹海峡附近发生爆炸并起火，目前无人伤亡，政府正在调查是否为蓄意袭击。"
+        "ko": "호르무즈해협에서 한국 선사가 운용하는 선박 'HMM 나무호'에서 폭발과 화재가 발생했으며, 정부 고위 관계자는 피격된 것으로 파악된다고 밝혔으나 인명 피해는 없는 것으로 전해졌다.",
+        "en": "A Korean-operated ship, 'HMM NAMUho', experienced an explosion and fire in the Hormuz Strait, with a senior government official stating it was understood to have been attacked, though no casualties were reported.",
+        "zh": "一艘由韩国公司运营的船只“HMM NAMUho”在霍尔木兹海峡发生爆炸和火灾，一名韩国政府高级官员表示该船疑遭袭击，但未造成人员伤亡。"
+      }
+    },
+    {
+      "title": "미국, 호르무즈 해협 고립 선박 돕기 위한 군사 작전 개시 - VOA 한국어 홈페이지",
+      "link": "https://www.voakorea.com/a/us-launches-military-operation-to-guide-stranded-ships-transit-through-the-strait-of-hormuz-050426/8146380.html",
+      "source": "VOA 한국어 홈페이지",
+      "pubDate": "Mon, 04 May 2026 15:00:13 GMT",
+      "image": "https://gdb.voanews.com/342939fb-be53-46d8-8204-7818554e6608_w1200_h630.jpg",
+      "summaries": {
+        "ko": "미국이 이란 관련 군사 작전으로 마비된 호르무즈 해협에서 고립된 선박들의 통행을 지원하기 위해 '프로젝트 프리덤' 군사 작전을 개시했으며, 이란은 외국 군대 접근 시 공격할 것이라고 경고했습니다.",
+        "en": "The United States has launched a military operation, 'Project Freedom,' to assist hundreds of vessels stranded in the Strait of Hormuz, where shipping was paralyzed following military actions related to Iran, while Iran has warned it will attack any foreign military forces approaching the area.",
+        "zh": "美国已启动代号为“自由项目”的军事行动，旨在协助数百艘因与伊朗相关的军事行动导致霍尔木兹海峡航运瘫痪而被困的船只通行，伊朗对此警告称，任何接近该海域的外国军队都将受到攻击。"
       }
     },
     {
@@ -38,27 +38,27 @@
       }
     },
     {
-      "title": "‘김창민 감독 상해치사’ 피의자 2명 구속 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605042119005",
+      "title": "추경호는 되는데 나는 왜?···보선 출마 비판론에 정진석 “장동혁 입맛 맞는 사람 꽂으면 이길 수 있나” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605041611001",
       "source": "경향신문",
-      "pubDate": "Mon, 04 May 2026 12:19:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/04/l_2026050501000106400006612.jpg",
+      "pubDate": "Mon, 04 May 2026 07:11:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/04/news-p.v1.20260504.c3d4701cb06a4ca59a0111f6da17986b_P1.jpg",
       "summaries": {
-        "ko": "‘김창민 감독 상해치사’ 피의자 2명 구속 - 경향신문",
-        "en": "‘김창민 감독 상해치사’ 피의자 2명 구속 - 경향신문",
-        "zh": "‘김창민 감독 상해치사’ 피의자 2명 구속 - 경향신문"
+        "ko": "추경호는 되는데 나는 왜?···보선 출마 비판론에 정진석 “장동혁 입맛 맞는 사람 꽂으면 이길 수 있나” - 경향신문",
+        "en": "추경호는 되는데 나는 왜?···보선 출마 비판론에 정진석 “장동혁 입맛 맞는 사람 꽂으면 이길 수 있나” - 경향신문",
+        "zh": "추경호는 되는데 나는 왜?···보선 출마 비판론에 정진석 “장동혁 입맛 맞는 사람 꽂으면 이길 수 있나” - 경향신문"
       }
     },
     {
-      "title": "정진석 “추경호는 되고 왜 나는?”…국힘 ‘윤 어게인’ 수렁 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1257168.html",
+      "title": "정성호 장관, 김창민 감독 가해자 구속에 “보완수사로 만든 일” 강조 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1257159.html",
       "source": "한겨레",
-      "pubDate": "Mon, 04 May 2026 11:34:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/583/imgdb/original/2026/0504/20260504503017.webp",
+      "pubDate": "Mon, 04 May 2026 10:28:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/611/imgdb/original/2026/0504/20260504502947.webp",
       "summaries": {
-        "ko": "정진석 “추경호는 되고 왜 나는?”…국힘 ‘윤 어게인’ 수렁 - 한겨레",
-        "en": "정진석 “추경호는 되고 왜 나는?”…국힘 ‘윤 어게인’ 수렁 - 한겨레",
-        "zh": "정진석 “추경호는 되고 왜 나는?”…국힘 ‘윤 어게인’ 수렁 - 한겨레"
+        "ko": "정성호 장관, 김창민 감독 가해자 구속에 “보완수사로 만든 일” 강조 - 한겨레",
+        "en": "정성호 장관, 김창민 감독 가해자 구속에 “보완수사로 만든 일” 강조 - 한겨레",
+        "zh": "정성호 장관, 김창민 감독 가해자 구속에 “보완수사로 만든 일” 강조 - 한겨레"
       }
     },
     {
@@ -71,6 +71,18 @@
         "ko": "추경호 “대구 경제 대개혁할 것…‘내란 종사’ 기소는 정치공작” - 한겨레",
         "en": "추경호 “대구 경제 대개혁할 것…‘내란 종사’ 기소는 정치공작” - 한겨레",
         "zh": "추경호 “대구 경제 대개혁할 것…‘내란 종사’ 기소는 정치공작” - 한겨레"
+      }
+    },
+    {
+      "title": "'이번엔 박근혜'…보수 세몰이 속도 내는 추경호 - 노컷뉴스",
+      "link": "https://www.nocutnews.co.kr/news/6512107",
+      "source": "노컷뉴스",
+      "pubDate": "Mon, 04 May 2026 07:21:00 GMT",
+      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/05/04/202605041620328243_0.jpg",
+      "summaries": {
+        "ko": "'이번엔 박근혜'…보수 세몰이 속도 내는 추경호 - 노컷뉴스",
+        "en": "'이번엔 박근혜'…보수 세몰이 속도 내는 추경호 - 노컷뉴스",
+        "zh": "'이번엔 박근혜'…보수 세몰이 속도 내는 추경호 - 노컷뉴스"
       }
     },
     {
@@ -110,27 +122,27 @@
       }
     },
     {
-      "title": "靑 김용범 \"장특공제 유지된다…거주·보유 똑같이 40% 공제는 고민 필요\" - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/05/04/TQG5Q2J3UFEXHHOSJORXEXLDPA/",
-      "source": "조선일보",
-      "pubDate": "Mon, 04 May 2026 09:26:53 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GI4TQNBQGI4DEYZRGQ3TSYJQMI.jpg?auth=6bfa1cf395d5220d1ba6572ca2603ed47277c5f978c69d1df20e5edff95ce2c8&width=1200&height=630&smart=true",
+      "title": "[속보] 미군 \"이란, 美 보호하에 있던 선박들 향해 미사일 발사\"<AP>",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260505014806Caz",
+      "source": "Breaking News",
+      "pubDate": "Tue, 05 May 2026 01:48:06 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260504/AKR20260505014806Caz_01_i.jpg",
       "summaries": {
-        "ko": "靑 김용범 \"장특공제 유지된다…거주·보유 똑같이 40% 공제는 고민 필요\" - 조선일보",
-        "en": "靑 김용범 \"장특공제 유지된다…거주·보유 똑같이 40% 공제는 고민 필요\" - 조선일보",
-        "zh": "靑 김용범 \"장특공제 유지된다…거주·보유 똑같이 40% 공제는 고민 필요\" - 조선일보"
+        "ko": "[속보] 미군 \"이란, 美 보호하에 있던 선박들 향해 미사일 발사\"<AP>",
+        "en": "[속보] 미군 \"이란, 美 보호하에 있던 선박들 향해 미사일 발사\"<AP>",
+        "zh": "[속보] 미군 \"이란, 美 보호하에 있던 선박들 향해 미사일 발사\"<AP>"
       }
     },
     {
-      "title": "[속보] HMM \"벌크선 기관실 좌현서 폭발소리 함께 화재\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260504234138FXh",
+      "title": "[속보] \"美, 호르무즈서 민간 선박들 표적 삼은 이란 소형보트 6척 격침\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260505013853fhF",
       "source": "Breaking News",
-      "pubDate": "Mon, 04 May 2026 23:41:39 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260504/AKR20260504234138FXh_01_i.jpg",
+      "pubDate": "Tue, 05 May 2026 01:38:54 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260504/AKR20260505013853fhF_01_i.jpg",
       "summaries": {
-        "ko": "[속보] HMM \"벌크선 기관실 좌현서 폭발소리 함께 화재\"",
-        "en": "[속보] HMM \"벌크선 기관실 좌현서 폭발소리 함께 화재\"",
-        "zh": "[속보] HMM \"벌크선 기관실 좌현서 폭발소리 함께 화재\""
+        "ko": "[속보] \"美, 호르무즈서 민간 선박들 표적 삼은 이란 소형보트 6척 격침\"",
+        "en": "[속보] \"美, 호르무즈서 민간 선박들 표적 삼은 이란 소형보트 6척 격침\"",
+        "zh": "[속보] \"美, 호르무즈서 민간 선박들 표적 삼은 이란 소형보트 6척 격침\""
       }
     }
   ]
