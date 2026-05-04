@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-04T19:09:29.411695",
+  "lastUpdate": "2026-05-04T20:40:45.087861",
   "items": [
     {
       "title": "[속보] 트럼프 \"한국 화물선 공격받아…이제 한국도 작전에 동참할 때\" - 조선일보",
@@ -20,9 +20,9 @@
       "pubDate": "Mon, 04 May 2026 18:41:41 GMT",
       "image": "https://gdb.voanews.com/25c5d910-4412-40a6-a578-c967ddab5f91_cx6_cy7_cw93_w1200_h630.jpg",
       "summaries": {
-        "ko": "트럼프 대통령은 미국의 호르무즈 해협 개방 작전 중 한국 선박이 이란에 피격됐다고 밝히며 한국의 작전 합류를 촉구했습니다.",
-        "en": "President Trump stated that a South Korean vessel was attacked by Iran during the U.S. operation to open the Strait of Hormuz, urging South Korea to join the mission.",
-        "zh": "特朗普总统表示，在美军开放霍尔木兹海峡的行动中，一艘韩国船只遭到伊朗袭击，并敦促韩国加入该行动。"
+        "ko": "트럼프 대통령은 이란이 호르무즈 해협에서 한국 화물선을 공격했다고 밝히며, 한국이 미국의 '프로젝트 프리덤' 작전에 합류할 것을 촉구했다.",
+        "en": "President Trump stated that Iran attacked a South Korean cargo ship in the Strait of Hormuz, linking it to the 'Project Freedom' operation, and urged South Korea to join the mission.",
+        "zh": "特朗普总统表示，伊朗在霍尔木兹海峡袭击了一艘韩国货船，并敦促韩国加入美国的“自由计划”行动。"
       }
     },
     {
@@ -38,6 +38,18 @@
       }
     },
     {
+      "title": "정성호 장관, 김창민 감독 가해자 구속에 “보완수사로 만든 일” 강조 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1257159.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 04 May 2026 10:28:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/611/imgdb/original/2026/0504/20260504502947.webp",
+      "summaries": {
+        "ko": "정성호 법무부 장관이 김창민 감독 상해치사 사건 가해자 구속에 대해 검찰의 \"보완수사로 만든 일\"이라 강조하며, 증거인멸 모의 정황과 추가 혐의를 찾아내 초동수사에서 기각된 구속영장을 발부받았다고 밝혔다.",
+        "en": "Minister of Justice Jung Sung-ho emphasized that the arrest of perpetrators in the assault leading to the death of director Kim Chang-min was \"made possible by supplementary investigation,\" stating that the prosecution found evidence of conspiracy to destroy evidence and additional charges, leading to the issuance of an arrest warrant previously rejected during the initial investigation.",
+        "zh": "韩国法务部长官郑成昊强调，金昌民导演致死案肇事者被捕是“通过补充侦查才得以实现的”，并指出检方在补充侦查中发现了销毁证据的密谋迹象和额外指控，从而获得了初步侦查中曾被驳回的逮捕令。"
+      }
+    },
+    {
       "title": "정진석 “추경호는 되고 왜 나는?”…국힘 ‘윤 어게인’ 수렁 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1257168.html",
       "source": "한겨레",
@@ -50,15 +62,27 @@
       }
     },
     {
-      "title": "정성호 장관, 김창민 감독 가해자 구속에 “보완수사로 만든 일” 강조 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1257159.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 04 May 2026 10:28:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/611/imgdb/original/2026/0504/20260504502947.webp",
+      "title": "靑 “거주-보유 같은 공제 고민 필요” 비거주 1주택 과세 강화 시사 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260505/133860926/2",
+      "source": "동아일보",
+      "pubDate": "Mon, 04 May 2026 16:40:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/05/133861454.1.jpg",
       "summaries": {
-        "ko": "정성호 장관, 김창민 감독 가해자 구속에 “보완수사로 만든 일” 강조 - 한겨레",
-        "en": "정성호 장관, 김창민 감독 가해자 구속에 “보완수사로 만든 일” 강조 - 한겨레",
-        "zh": "정성호 장관, 김창민 감독 가해자 구속에 “보완수사로 만든 일” 강조 - 한겨레"
+        "ko": "靑 “거주-보유 같은 공제 고민 필요” 비거주 1주택 과세 강화 시사 - 동아일보",
+        "en": "靑 “거주-보유 같은 공제 고민 필요” 비거주 1주택 과세 강화 시사 - 동아일보",
+        "zh": "靑 “거주-보유 같은 공제 고민 필요” 비거주 1주택 과세 강화 시사 - 동아일보"
+      }
+    },
+    {
+      "title": "박근혜 만난 이철우·추경호…보수층 결집에 ‘올인’ - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605042146001",
+      "source": "경향신문",
+      "pubDate": "Mon, 04 May 2026 12:46:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/04/news-p.v1.20260504.d263e2e4a8cc4276bb45786ba7f9250d_P1.jpg",
+      "summaries": {
+        "ko": "박근혜 만난 이철우·추경호…보수층 결집에 ‘올인’ - 경향신문",
+        "en": "박근혜 만난 이철우·추경호…보수층 결집에 ‘올인’ - 경향신문",
+        "zh": "박근혜 만난 이철우·추경호…보수층 결집에 ‘올인’ - 경향신문"
       }
     },
     {
@@ -68,9 +92,9 @@
       "pubDate": "Mon, 04 May 2026 12:14:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/950/570/imgdb/child/2026/0504/53_17778869873292_20260504502825.webp",
       "summaries": {
-        "ko": "추경호 “대구 경제 대개혁할 것…‘내란 종사’ 기소는 정치공작” - 한겨레",
-        "en": "추경호 “대구 경제 대개혁할 것…‘내란 종사’ 기소는 정치공작” - 한겨레",
-        "zh": "추경호 “대구 경제 대개혁할 것…‘내란 종사’ 기소는 정치공작” - 한겨레"
+        "ko": "국민의힘 추경호 대구시장 후보는 대구 경제 대개혁을 공약하며 자신의 경제 부총리 경력을 강조했고, 자신에 대한 '내란 종사' 기소는 정치 공작이라고 일축하며 보수층 결집을 자신했다.",
+        "en": "People Power Party's Daegu mayoral candidate Choo Kyung-ho pledged a major reform of Daegu's economy, emphasizing his experience as Deputy Prime Minister for economic affairs, while dismissing the 'internal rebellion' charges against him as a political ploy and expressing confidence in the consolidation of conservative support.",
+        "zh": "国民力量党大邱市长候选人秋庆镐承诺对大邱经济进行大刀阔斧的改革，强调其曾任经济副总理的经验，并驳斥对其“从事内乱”的起诉是政治阴谋，表示对保守派支持者凝聚力充满信心。"
       }
     },
     {
@@ -95,30 +119,6 @@
         "ko": "정원오, \"장사 안 된다\"는 상인에 \"컨설팅 받아보셔라\" - 조선일보",
         "en": "정원오, \"장사 안 된다\"는 상인에 \"컨설팅 받아보셔라\" - 조선일보",
         "zh": "정원오, \"장사 안 된다\"는 상인에 \"컨설팅 받아보셔라\" - 조선일보"
-      }
-    },
-    {
-      "title": "‘스미싱 주의’ 고유가 피해자원금(3차 민생지원금), 1차 신청·지급 2주차 돌입…대상 확인 방법? - 톱스타뉴스",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16051437",
-      "source": "톱스타뉴스",
-      "pubDate": "Mon, 04 May 2026 04:39:56 GMT",
-      "image": "https://cdn.topstarnews.net/news/photo/202605/16051437_1914366_3952.jpg",
-      "summaries": {
-        "ko": "‘스미싱 주의’ 고유가 피해자원금(3차 민생지원금), 1차 신청·지급 2주차 돌입…대상 확인 방법? - 톱스타뉴스",
-        "en": "‘스미싱 주의’ 고유가 피해자원금(3차 민생지원금), 1차 신청·지급 2주차 돌입…대상 확인 방법? - 톱스타뉴스",
-        "zh": "‘스미싱 주의’ 고유가 피해자원금(3차 민생지원금), 1차 신청·지급 2주차 돌입…대상 확인 방법? - 톱스타뉴스"
-      }
-    },
-    {
-      "title": "이스라엘, \"이란전서 깨달아\" F-35 등 수조원 미국무기 구매 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260504061300009",
-      "source": "연합뉴스",
-      "pubDate": "Mon, 04 May 2026 02:06:56 GMT",
-      "image": "https://img7.yna.co.kr/photo/etc/epa/2026/04/21/PEP20260421111401009_P4.jpg",
-      "summaries": {
-        "ko": "이스라엘, \"이란전서 깨달아\" F-35 등 수조원 미국무기 구매 - 연합뉴스",
-        "en": "이스라엘, \"이란전서 깨달아\" F-35 등 수조원 미국무기 구매 - 연합뉴스",
-        "zh": "이스라엘, \"이란전서 깨달아\" F-35 등 수조원 미국무기 구매 - 연합뉴스"
       }
     },
     {
