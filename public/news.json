@@ -1,28 +1,16 @@
 {
-  "lastUpdate": "2026-05-05T23:12:44.582970",
+  "lastUpdate": "2026-05-06T00:04:57.150118",
   "items": [
     {
-      "title": "\"美 호르무즈 작전 직전, 이란에 방해말라 경고했다\" - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/05/06/P4AEYOBECNFG7K34HOXLOW7LZM/",
-      "source": "조선일보",
-      "pubDate": "Tue, 05 May 2026 15:45:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/JS4XAALYLVASDDY6Z6VLQKZRUM.jpg?auth=a6340310e91e6a199fc9919622a578ed181baa9453d945f0823b45e16cb3f020&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "\"美 호르무즈 작전 직전, 이란에 방해말라 경고했다\" - 조선일보",
-        "en": "\"美 호르무즈 작전 직전, 이란에 방해말라 경고했다\" - 조선일보",
-        "zh": "\"美 호르무즈 작전 직전, 이란에 방해말라 경고했다\" - 조선일보"
-      }
-    },
-    {
-      "title": "트럼프 “한국 선박, 미국 보호 안 받고 단독 운항하다 공격당해” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1257311.html",
+      "title": "[속보] 트럼프 “이란 협상 진전…호르무즈 ‘해방 프로젝트’ 일시 중단” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/america/1257315.html",
       "source": "한겨레",
-      "pubDate": "Tue, 05 May 2026 21:53:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0506/20260506500101.webp",
+      "pubDate": "Tue, 05 May 2026 23:11:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0506/20260506500220.webp",
       "summaries": {
-        "ko": "트럼프 대통령이 호르무즈 해협에서 발생한 한국 화물선 사고를 미군 보호를 받지 않은 이란의 공격으로 단정하며 한국의 미군 주도 해상 작전 참여를 압박했다.",
-        "en": "President Trump asserted that a South Korean cargo ship was attacked by Iran in the Strait of Hormuz because it operated without U.S. protection, using the incident to pressure South Korea to join U.S.-led maritime operations.",
-        "zh": "特朗普总统断言，一艘韩国货船在霍尔木兹海峡遭到伊朗袭击，因为它没有受到美国保护，并借此事件施压韩国加入美国主导的海上行动。"
+        "ko": "트럼프 대통령이 이란과의 협상 진전을 이유로 호르무즈 해협에서의 '해방 프로젝트'를 일시 중단한다고 밝혔지만, 이란에 대한 해상 봉쇄는 유지된다.",
+        "en": "President Trump announced a temporary suspension of the 'Liberation Project' in the Strait of Hormuz, citing progress in negotiations with Iran, but stated that the maritime blockade against Iran will remain.",
+        "zh": "特朗普总统宣布，由于与伊朗的谈判取得进展，将暂停在霍尔木兹海峡的‘解放项目’，但对伊朗的海上封锁将继续维持。"
       }
     },
     {
@@ -38,6 +26,18 @@
       }
     },
     {
+      "title": "트럼프 \"호르무즈 한국 화물선, 단독 행동하다 공격당한 것\" - 조선일보",
+      "link": "https://www.chosun.com/international/us/2026/05/06/ODHHB4IN3RGYJKMF7DQ65XYTUQ/",
+      "source": "조선일보",
+      "pubDate": "Tue, 05 May 2026 16:24:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/2QD7ER7CYJDSRBDGMLKE5VHJQE.jpg?auth=da9032cd594e016f9a4aab8a103ccd2d1ffd99d14324bbfb8dba75ba5fcad50b&width=1200&height=630&focal=2823,1036",
+      "summaries": {
+        "ko": "트럼프 \"호르무즈 한국 화물선, 단독 행동하다 공격당한 것\" - 조선일보",
+        "en": "트럼프 \"호르무즈 한국 화물선, 단독 행동하다 공격당한 것\" - 조선일보",
+        "zh": "트럼프 \"호르무즈 한국 화물선, 단독 행동하다 공격당한 것\" - 조선일보"
+      }
+    },
+    {
       "title": "(시론)나를 파괴할 권리, 나를 구할 국가 - 뉴스토마토",
       "link": "https://www.newstomato.com/ReadNews.aspx?no=1299463",
       "source": "뉴스토마토",
@@ -50,63 +50,75 @@
       }
     },
     {
-      "title": "광주 고교생 살인 혐의 20대 “그냥 지나가는 것 보고 범행” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/honam/1257264.html",
+      "title": "머스크 \" 美 국적 선박 빠져나와\"…이란은 통항 자체를 부정해 - 해사신문",
+      "link": "http://www.haesanews.com/news/articleView.html?idxno=147746",
+      "source": "해사신문",
+      "pubDate": "Tue, 05 May 2026 21:58:50 GMT",
+      "image": "http://www.haesanews.com/news/thumbnail/202605/147746_79172_5830_v150.jpg",
+      "summaries": {
+        "ko": "머스크 \" 美 국적 선박 빠져나와\"…이란은 통항 자체를 부정해 - 해사신문",
+        "en": "머스크 \" 美 국적 선박 빠져나와\"…이란은 통항 자체를 부정해 - 해사신문",
+        "zh": "머스크 \" 美 국적 선박 빠져나와\"…이란은 통항 자체를 부정해 - 해사신문"
+      }
+    },
+    {
+      "title": "부산 북갑 박민식 “윤석열 영원한 대통령, 애국심 넘버원”…‘반탄 행적’ 소환 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1257270.html",
       "source": "한겨레",
-      "pubDate": "Tue, 05 May 2026 16:25:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0505/20260505501985.webp",
+      "pubDate": "Tue, 05 May 2026 13:16:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0505/20260505502060.webp",
       "summaries": {
-        "ko": "광주 고교생 살인 혐의 20대 “그냥 지나가는 것 보고 범행” - 한겨레",
-        "en": "광주 고교생 살인 혐의 20대 “그냥 지나가는 것 보고 범행” - 한겨레",
-        "zh": "광주 고교생 살인 혐의 20대 “그냥 지나가는 것 보고 범행” - 한겨레"
+        "ko": "부산 북갑 박민식 “윤석열 영원한 대통령, 애국심 넘버원”…‘반탄 행적’ 소환 - 한겨레",
+        "en": "부산 북갑 박민식 “윤석열 영원한 대통령, 애국심 넘버원”…‘반탄 행적’ 소환 - 한겨레",
+        "zh": "부산 북갑 박민식 “윤석열 영원한 대통령, 애국심 넘버원”…‘반탄 행적’ 소환 - 한겨레"
       }
     },
     {
-      "title": "이 대통령 “긴축 노래 부르는 이상한 분들”… IMF 수치로 반박 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1257302.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 05 May 2026 16:25:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/437/imgdb/original/2026/0505/20260505502295.webp",
+      "title": "[단독]출퇴근도 있는데 ‘무조건 합숙’이라니···법원 “대체역 강제 복무조항, 위헌 소지” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605060600101",
+      "source": "경향신문",
+      "pubDate": "Tue, 05 May 2026 21:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/06/news-p.v1.20260504.dd0718aad5f641a6825c41b038918420_P1.jpg",
       "summaries": {
-        "ko": "이 대통령 “긴축 노래 부르는 이상한 분들”… IMF 수치로 반박 - 한겨레",
-        "en": "이 대통령 “긴축 노래 부르는 이상한 분들”… IMF 수치로 반박 - 한겨레",
-        "zh": "이 대통령 “긴축 노래 부르는 이상한 분들”… IMF 수치로 반박 - 한겨레"
+        "ko": "[단독]출퇴근도 있는데 ‘무조건 합숙’이라니···법원 “대체역 강제 복무조항, 위헌 소지” - 경향신문",
+        "en": "[단독]출퇴근도 있는데 ‘무조건 합숙’이라니···법원 “대체역 강제 복무조항, 위헌 소지” - 경향신문",
+        "zh": "[단독]출퇴근도 있는데 ‘무조건 합숙’이라니···법원 “대체역 강제 복무조항, 위헌 소지” - 경향신문"
       }
     },
     {
-      "title": "국민의힘 '부산 북구갑 후보' 박민식 확정‥\"한동훈과 단일화 가능성 '제로'\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6820119_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 05 May 2026 05:53:57 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/05/lyj_260505_3.jpg",
-      "summaries": {
-        "ko": "국민의힘 '부산 북구갑 후보' 박민식 확정‥\"한동훈과 단일화 가능성 '제로'\" - MBC 뉴스",
-        "en": "국민의힘 '부산 북구갑 후보' 박민식 확정‥\"한동훈과 단일화 가능성 '제로'\" - MBC 뉴스",
-        "zh": "국민의힘 '부산 북구갑 후보' 박민식 확정‥\"한동훈과 단일화 가능성 '제로'\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "기념샷까지…장애아들 앞에서 김창민 감독 때려 숨지게 한 피의자 구속 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/capital/1257103.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 04 May 2026 13:16:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/705/554/imgdb/child/2026/0504/17778826855964_20260504502560.webp",
-      "summaries": {
-        "ko": "기념샷까지…장애아들 앞에서 김창민 감독 때려 숨지게 한 피의자 구속 - 한겨레",
-        "en": "기념샷까지…장애아들 앞에서 김창민 감독 때려 숨지게 한 피의자 구속 - 한겨레",
-        "zh": "기념샷까지…장애아들 앞에서 김창민 감독 때려 숨지게 한 피의자 구속 - 한겨레"
-      }
-    },
-    {
-      "title": "‘민주당 제명’ 김관영 전북지사, 7일 무소속 출마 기자회견 - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/05/05/7HL664FYBRCM7DYEUU4YFKJIIY/",
+      "title": "\"긴축 노래 부르는 이상한 분들\" 李대통령, 재정긴축론 반박 - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/05/05/T5E7GQGEZRGRVPSSYLS2JGCVMU/",
       "source": "조선일보",
-      "pubDate": "Tue, 05 May 2026 12:11:47 GMT",
-      "image": "https://www.chosun.com/resizer/v2/FOETIBD67ZKULDBAQ72PMBCUVI.JPG?auth=515b178d26244d7a8c0405b1873265416db79610f5b1fe431154c4f78571c7d4&width=1200&height=630&focal=700,883",
+      "pubDate": "Tue, 05 May 2026 12:13:56 GMT",
+      "image": "https://www.chosun.com/resizer/v2/ISCPAXKD2BFXBPINQ37PHBFL3I.jpg?auth=4399da40c9e4c3ed23dcfa3f5c79d6559dafe27c0236465e7bc6bf85afc24696&width=665&height=349&focal=50,75",
       "summaries": {
-        "ko": "‘민주당 제명’ 김관영 전북지사, 7일 무소속 출마 기자회견 - 조선일보",
-        "en": "‘민주당 제명’ 김관영 전북지사, 7일 무소속 출마 기자회견 - 조선일보",
-        "zh": "‘민주당 제명’ 김관영 전북지사, 7일 무소속 출마 기자회견 - 조선일보"
+        "ko": "\"긴축 노래 부르는 이상한 분들\" 李대통령, 재정긴축론 반박 - 조선일보",
+        "en": "\"긴축 노래 부르는 이상한 분들\" 李대통령, 재정긴축론 반박 - 조선일보",
+        "zh": "\"긴축 노래 부르는 이상한 분들\" 李대통령, 재정긴축론 반박 - 조선일보"
+      }
+    },
+    {
+      "title": "심야 광주 도심서 여고생 살해 후 도주 20대 남성 체포 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260505013652054",
+      "source": "연합뉴스",
+      "pubDate": "Tue, 05 May 2026 02:45:34 GMT",
+      "image": "https://img5.yna.co.kr/photo/yna/YH/2026/05/05/PYH2026050507680005400_P4.jpg",
+      "summaries": {
+        "ko": "심야 광주 도심서 여고생 살해 후 도주 20대 남성 체포 - 연합뉴스",
+        "en": "심야 광주 도심서 여고생 살해 후 도주 20대 남성 체포 - 연합뉴스",
+        "zh": "심야 광주 도심서 여고생 살해 후 도주 20대 남성 체포 - 연합뉴스"
+      }
+    },
+    {
+      "title": "[속보] '김건희 2심 재판' 신종오 판사 숨진채 발견",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202605060855037sr",
+      "source": "Breaking News",
+      "pubDate": "Wed, 06 May 2026 08:55:04 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260506/AKR202605060855037sr_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] '김건희 2심 재판' 신종오 판사 숨진채 발견",
+        "en": "[속보] '김건희 2심 재판' 신종오 판사 숨진채 발견",
+        "zh": "[속보] '김건희 2심 재판' 신종오 판사 숨진채 발견"
       }
     },
     {
@@ -131,18 +143,6 @@
         "ko": "[속보] 트럼프 \"해방 프로젝트 일시 중단…봉쇄는 유지\"",
         "en": "[속보] 트럼프 \"해방 프로젝트 일시 중단…봉쇄는 유지\"",
         "zh": "[속보] 트럼프 \"해방 프로젝트 일시 중단…봉쇄는 유지\""
-      }
-    },
-    {
-      "title": "[속보] 트럼프 \"이란과 합의에 상당한 진전…해방 프로젝트 잠시 중단\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260506075816iRz",
-      "source": "Breaking News",
-      "pubDate": "Wed, 06 May 2026 07:58:18 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260505/AKR20260506075816iRz_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 트럼프 \"이란과 합의에 상당한 진전…해방 프로젝트 잠시 중단\"",
-        "en": "[속보] 트럼프 \"이란과 합의에 상당한 진전…해방 프로젝트 잠시 중단\"",
-        "zh": "[속보] 트럼프 \"이란과 합의에 상당한 진전…해방 프로젝트 잠시 중단\""
       }
     }
   ]
