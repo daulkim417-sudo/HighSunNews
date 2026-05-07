@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-07T18:24:53.916839",
+  "lastUpdate": "2026-05-07T19:58:27.799160",
   "items": [
     {
       "title": "개헌안, 국힘 불참에 ‘투표 불성립’…8일 재표결 - 한겨레",
@@ -8,9 +8,33 @@
       "pubDate": "Thu, 07 May 2026 13:39:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/630/imgdb/original/2026/0507/20260507503949.webp",
       "summaries": {
-        "ko": "국민의힘 불참으로 국회 본회의에서 개헌안 투표가 의결정족수 미달로 불성립되어 8일 재표결이 예고됐으나, 국민의힘이 불참을 고수하며 사실상 개헌 추진이 어려워졌다.",
-        "en": "The constitutional amendment bill's vote in the National Assembly failed due to a lack of quorum caused by the People Power Party's boycott, and despite a re-vote scheduled for the 8th, the People Power Party's continued refusal to participate effectively makes constitutional reform difficult.",
-        "zh": "由于国民力量党的抵制，国会全体会议上的宪法修正案投票因未达到法定人数而失败，尽管定于8日进行重新表决，但国民力量党坚持不参与，导致修宪进程实际上难以推进。"
+        "ko": "국민의힘 불참으로 7일 국회 본회의에서 헌법 개정안 투표가 의결정족수 미달로 불성립되었고, 8일 재표결이 예정됐으나 국민의힘이 불참을 고수해 개헌 추진이 사실상 무산될 위기에 처했다.",
+        "en": "Due to the People Power Party's boycott, the constitutional amendment bill failed to meet the quorum for voting in the National Assembly on the 7th, and despite a re-vote scheduled for the 8th, the party's continued non-participation makes the amendment's passage virtually impossible.",
+        "zh": "由于国民力量党抵制，宪法修正案于7日在国会全体会议上因法定人数不足而未能进行表决，尽管8日将再次表决，但国民力量党坚持不参与，使得修宪进程实际上难以推进。"
+      }
+    },
+    {
+      "title": "[단독] 한덕수 2심 재판부 \"국무위원 전부 반대했어도 尹 계엄 못 막았을 것\" - 조선일보",
+      "link": "https://www.chosun.com/national/court_law/2026/05/07/NWXEYL34NBA4DKFDYJ666RQCCE/",
+      "source": "조선일보",
+      "pubDate": "Thu, 07 May 2026 11:41:16 GMT",
+      "image": "https://www.chosun.com/resizer/v2/NXA7HP44MZII7KZMDVYDYEDD74.JPG?auth=38af96b8bfac22ae47e9d31c6a6a85cfd07501029b474b5c2c67ffbbc2f8bdb8&width=495&height=259&smart=true",
+      "summaries": {
+        "ko": "[단독] 한덕수 2심 재판부 \"국무위원 전부 반대했어도 尹 계엄 못 막았을 것\" - 조선일보",
+        "en": "[단독] 한덕수 2심 재판부 \"국무위원 전부 반대했어도 尹 계엄 못 막았을 것\" - 조선일보",
+        "zh": "[단독] 한덕수 2심 재판부 \"국무위원 전부 반대했어도 尹 계엄 못 막았을 것\" - 조선일보"
+      }
+    },
+    {
+      "title": "한동훈 후원회장에 “독재정권 공안검사” 출신 정형근···부산 북갑, 원로 정치인 영입 경쟁 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605071646011",
+      "source": "경향신문",
+      "pubDate": "Thu, 07 May 2026 07:46:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/07/news-p.v1.20260507.a7aa53dbf08246379a33d4f8eb410b36_P1.jpeg",
+      "summaries": {
+        "ko": "한동훈 후원회장에 “독재정권 공안검사” 출신 정형근···부산 북갑, 원로 정치인 영입 경쟁 - 경향신문",
+        "en": "한동훈 후원회장에 “독재정권 공안검사” 출신 정형근···부산 북갑, 원로 정치인 영입 경쟁 - 경향신문",
+        "zh": "한동훈 후원회장에 “독재정권 공안검사” 출신 정형근···부산 북갑, 원로 정치인 영입 경쟁 - 경향신문"
       }
     },
     {
@@ -26,51 +50,15 @@
       }
     },
     {
-      "title": "한덕수, 2심서 15년형…‘내란 가담’ 인정됐지만 8년 감형 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605072156015",
+      "title": "한밤중 고교생 흉기 살해 20대 구속···법원 “도주 우려” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605071748001",
       "source": "경향신문",
-      "pubDate": "Thu, 07 May 2026 12:56:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/07/l_2026050801000232300020121.jpg",
+      "pubDate": "Thu, 07 May 2026 08:48:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/07/rcv.YNA.20260505.PYH2026050507680005400_P1.jpg",
       "summaries": {
-        "ko": "한덕수, 2심서 15년형…‘내란 가담’ 인정됐지만 8년 감형 - 경향신문",
-        "en": "한덕수, 2심서 15년형…‘내란 가담’ 인정됐지만 8년 감형 - 경향신문",
-        "zh": "한덕수, 2심서 15년형…‘내란 가담’ 인정됐지만 8년 감형 - 경향신문"
-      }
-    },
-    {
-      "title": "부산 5선 출신 서병수, 국힘 탈당… 한동훈 명예 선대위원장 합류 - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/05/07/BINVOVPLRFFYTPAKYHGUIOSXKI/",
-      "source": "조선일보",
-      "pubDate": "Thu, 07 May 2026 12:12:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/75INUFLOKVAWPCKTGQUTZK7G7Y.jpg?auth=07d223044404c959ba93f2efeb80c750f72da43b99044f209d5f12ebdc05ede4&width=1200&height=630&focal=2193,1343",
-      "summaries": {
-        "ko": "부산 5선 출신 서병수, 국힘 탈당… 한동훈 명예 선대위원장 합류 - 조선일보",
-        "en": "부산 5선 출신 서병수, 국힘 탈당… 한동훈 명예 선대위원장 합류 - 조선일보",
-        "zh": "부산 5선 출신 서병수, 국힘 탈당… 한동훈 명예 선대위원장 합류 - 조선일보"
-      }
-    },
-    {
-      "title": "트럼프 “이란, 핵 포기 동의”…방중 전 타결 의지 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605072156005",
-      "source": "경향신문",
-      "pubDate": "Thu, 07 May 2026 12:56:00 GMT",
-      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
-      "summaries": {
-        "ko": "트럼프 “이란, 핵 포기 동의”…방중 전 타결 의지 - 경향신문",
-        "en": "트럼프 “이란, 핵 포기 동의”…방중 전 타결 의지 - 경향신문",
-        "zh": "트럼프 “이란, 핵 포기 동의”…방중 전 타결 의지 - 경향신문"
-      }
-    },
-    {
-      "title": "[‘조작기소 특검법’ 릴레이 인터뷰]“과잉 분노에 빠져 선 넘으려는 민주당…나쁜 전례 만들면 부메랑으로 돌아와” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605072139005",
-      "source": "경향신문",
-      "pubDate": "Thu, 07 May 2026 12:39:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/07/l_2026050801000242100020001.jpg",
-      "summaries": {
-        "ko": "[‘조작기소 특검법’ 릴레이 인터뷰]“과잉 분노에 빠져 선 넘으려는 민주당…나쁜 전례 만들면 부메랑으로 돌아와” - 경향신문",
-        "en": "[‘조작기소 특검법’ 릴레이 인터뷰]“과잉 분노에 빠져 선 넘으려는 민주당…나쁜 전례 만들면 부메랑으로 돌아와” - 경향신문",
-        "zh": "[‘조작기소 특검법’ 릴레이 인터뷰]“과잉 분노에 빠져 선 넘으려는 민주당…나쁜 전례 만들면 부메랑으로 돌아와” - 경향신문"
+        "ko": "한밤중 고교생 흉기 살해 20대 구속···법원 “도주 우려” - 경향신문",
+        "en": "한밤중 고교생 흉기 살해 20대 구속···법원 “도주 우려” - 경향신문",
+        "zh": "한밤중 고교생 흉기 살해 20대 구속···법원 “도주 우려” - 경향신문"
       }
     },
     {
@@ -86,27 +74,15 @@
       }
     },
     {
-      "title": "김정은 ‘핵 사용 위임권’도 北헌법 명시… 자동 핵타격 근거 마련 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260507/133874331/2",
-      "source": "동아일보",
-      "pubDate": "Wed, 06 May 2026 19:30:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/07/133874900.1.jpg",
+      "title": "국정원 “북 헌법, ‘두 국가’ 단절 분명히…대남 적대 문구는 일절 없어” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1257580.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 07 May 2026 07:47:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2026/0507/20260507502933.webp",
       "summaries": {
-        "ko": "김정은 ‘핵 사용 위임권’도 北헌법 명시… 자동 핵타격 근거 마련 - 동아일보",
-        "en": "김정은 ‘핵 사용 위임권’도 北헌법 명시… 자동 핵타격 근거 마련 - 동아일보",
-        "zh": "김정은 ‘핵 사용 위임권’도 北헌법 명시… 자동 핵타격 근거 마련 - 동아일보"
-      }
-    },
-    {
-      "title": "쌍방울 대북송금 수사팀 \"공소취소 위한 부당한 징계 막아달라\" - 조선일보",
-      "link": "https://www.chosun.com/national/court_law/2026/05/07/HZUUXHPFXRB4VAS4IOWPTCVNBI/",
-      "source": "조선일보",
-      "pubDate": "Thu, 07 May 2026 07:28:26 GMT",
-      "image": "https://www.chosun.com/resizer/v2/TY3AUOBQGNK4DMGNFHX6BZOJGE.JPG?auth=a6b92839568a40665d375a1f0e9399131162dc37eb9d730c654869cb52d6d901&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "쌍방울 대북송금 수사팀 \"공소취소 위한 부당한 징계 막아달라\" - 조선일보",
-        "en": "쌍방울 대북송금 수사팀 \"공소취소 위한 부당한 징계 막아달라\" - 조선일보",
-        "zh": "쌍방울 대북송금 수사팀 \"공소취소 위한 부당한 징계 막아달라\" - 조선일보"
+        "ko": "국정원 “북 헌법, ‘두 국가’ 단절 분명히…대남 적대 문구는 일절 없어” - 한겨레",
+        "en": "국정원 “북 헌법, ‘두 국가’ 단절 분명히…대남 적대 문구는 일절 없어” - 한겨레",
+        "zh": "국정원 “북 헌법, ‘두 국가’ 단절 분명히…대남 적대 문구는 일절 없어” - 한겨레"
       }
     },
     {
@@ -119,6 +95,42 @@
         "ko": "정진석, 국힘 후보 신청 철회 \"저도 당도 많이 고통\" - 조선일보",
         "en": "정진석, 국힘 후보 신청 철회 \"저도 당도 많이 고통\" - 조선일보",
         "zh": "정진석, 국힘 후보 신청 철회 \"저도 당도 많이 고통\" - 조선일보"
+      }
+    },
+    {
+      "title": "종합특검, 김관영 전북지사 ‘내란 방조 혐의’ 불기소 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1257674.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 07 May 2026 15:53:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/708/imgdb/original/2026/0507/20260507503954.webp",
+      "summaries": {
+        "ko": "종합특검, 김관영 전북지사 ‘내란 방조 혐의’ 불기소 - 한겨레",
+        "en": "종합특검, 김관영 전북지사 ‘내란 방조 혐의’ 불기소 - 한겨레",
+        "zh": "종합특검, 김관영 전북지사 ‘내란 방조 혐의’ 불기소 - 한겨레"
+      }
+    },
+    {
+      "title": "트럼프 낙관에도, 美-이란 ‘핵활동 영구 중단 vs 일시 유예’ 팽팽 - 동아일보",
+      "link": "https://www.donga.com/news/Inter/article/all/20260508/133882917/2",
+      "source": "동아일보",
+      "pubDate": "Thu, 07 May 2026 19:30:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/08/133883211.1.jpg",
+      "summaries": {
+        "ko": "트럼프 낙관에도, 美-이란 ‘핵활동 영구 중단 vs 일시 유예’ 팽팽 - 동아일보",
+        "en": "트럼프 낙관에도, 美-이란 ‘핵활동 영구 중단 vs 일시 유예’ 팽팽 - 동아일보",
+        "zh": "트럼프 낙관에도, 美-이란 ‘핵활동 영구 중단 vs 일시 유예’ 팽팽 - 동아일보"
+      }
+    },
+    {
+      "title": "[속보] 트럼프 \"EU, 7월 4일까지 무역합의 이행 안 하면 관세 더 인상\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260508042156WOL",
+      "source": "Breaking News",
+      "pubDate": "Fri, 08 May 2026 04:21:58 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260507/AKR20260508042156WOL_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] 트럼프 \"EU, 7월 4일까지 무역합의 이행 안 하면 관세 더 인상\"",
+        "en": "[속보] 트럼프 \"EU, 7월 4일까지 무역합의 이행 안 하면 관세 더 인상\"",
+        "zh": "[속보] 트럼프 \"EU, 7월 4일까지 무역합의 이행 안 하면 관세 더 인상\""
       }
     }
   ]
