@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-05-08T20:05:22.977101",
+  "lastUpdate": "2026-05-08T21:13:28.680873",
   "items": [
-    {
-      "title": "우원식, 눈물의 개헌 무산 선언…“국힘, 기회도 책임도 걷어차” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1257815.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 08 May 2026 08:42:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/428/imgdb/original/2026/0508/20260508502279.webp",
-      "summaries": {
-        "ko": "우원식 국회의장이 국민의힘의 필리버스터로 헌법 개정안 처리가 무산되자 눈물을 흘리며 개헌 무산을 선언하고 국민의힘을 비판했으며, 이에 국민의힘은 의장의 일방적 회의 진행에 대한 반발이라고 맞섰다.",
-        "en": "Speaker Woo Won-sik tearfully announced the failure of the constitutional amendment due to the People Power Party's filibuster, criticizing the party for \"kicking away opportunity and responsibility,\" while the People Power Party countered that their action was a response to the Speaker's unilateral session management.",
-        "zh": "国会议长禹元植因国民力量党的冗长辩论导致宪法修正案处理失败而流泪宣布修宪流产，并批评国民力量党“放弃了机会和责任”，而国民力量党则反驳称其举动是对议长单方面主持会议的回应。"
-      }
-    },
     {
       "title": "채 상병 순직 1024일 만에…법원, ‘임성근 등 무리한 지시 탓’ 첫 판단 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/society_general/1257839.html",
@@ -20,9 +8,33 @@
       "pubDate": "Fri, 08 May 2026 13:32:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/800/669/imgdb/original/2026/0508/20260508502524.webp",
       "summaries": {
-        "ko": "채 상병 순직 1024일 만에…법원, ‘임성근 등 무리한 지시 탓’ 첫 판단 - 한겨레",
-        "en": "채 상병 순직 1024일 만에…법원, ‘임성근 등 무리한 지시 탓’ 첫 판단 - 한겨레",
-        "zh": "채 상병 순직 1024일 만에…법원, ‘임성근 등 무리한 지시 탓’ 첫 판단 - 한겨레"
+        "ko": "채 상병 순직 사고 관련 1심에서 임성근 전 해병대 1사단장이 징역 3년을 선고받으며 법원이 상급 지휘관의 무리한 지시가 사고 원인임을 처음으로 인정했다.",
+        "en": "In the first trial regarding the death of Marine Corporal Chae, former Marine 1st Division Commander Lim Sung-geun was sentenced to three years in prison, with the court ruling for the first time that unreasonable orders from senior commanders were the cause of the accident.",
+        "zh": "在蔡上兵殉职事件的一审判决中，前海军陆战队第一师师长林成根被判处三年有期徒刑，法院首次认定事故是由上级指挥官的不合理指令造成的。"
+      }
+    },
+    {
+      "title": "‘눈물의 선언’ 우원식 “개헌 절차 중단…국힘에 강력한 유감” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1257770.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 08 May 2026 12:08:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/618/imgdb/original/2026/0508/20260508501889.webp",
+      "summaries": {
+        "ko": "우원식 국회의장이 국민의힘의 반대로 개헌안 상정 및 개헌 절차를 중단한다고 선언하며 강력한 유감을 표명했다.",
+        "en": "National Assembly Speaker Woo Won-shik announced the suspension of the constitutional amendment process, expressing strong regret towards the People Power Party for their obstruction.",
+        "zh": "韩国国会议长禹元植宣布暂停修宪程序，并对国民力量党的阻挠表示强烈遗憾。"
+      }
+    },
+    {
+      "title": "트럼프 행정부, 미 무역법원 ‘10% 글로벌 관세’ 제동에 항소 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8556694",
+      "source": "KBS 뉴스",
+      "pubDate": "Fri, 08 May 2026 19:19:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/05/09/20260509_MqqH8J.jpg",
+      "summaries": {
+        "ko": "트럼프 행정부, 미 무역법원 ‘10% 글로벌 관세’ 제동에 항소 - KBS 뉴스",
+        "en": "트럼프 행정부, 미 무역법원 ‘10% 글로벌 관세’ 제동에 항소 - KBS 뉴스",
+        "zh": "트럼프 행정부, 미 무역법원 ‘10% 글로벌 관세’ 제동에 항소 - KBS 뉴스"
       }
     },
     {
@@ -32,57 +44,33 @@
       "pubDate": "Fri, 08 May 2026 14:04:26 GMT",
       "image": "https://gdb.voanews.com/81831931-00e1-4538-d1d6-08de3bf6f1ff_cx15_cy0_cw71_w1200_h630.jpg",
       "summaries": {
-        "ko": "호르무즈 교전에도 미·이란 휴전 유지…UAE “이란이 또 공격” - VOA 한국어 홈페이지",
-        "en": "호르무즈 교전에도 미·이란 휴전 유지…UAE “이란이 또 공격” - VOA 한국어 홈페이지",
-        "zh": "호르무즈 교전에도 미·이란 휴전 유지…UAE “이란이 또 공격” - VOA 한국어 홈페이지"
+        "ko": "미국은 이란 유조선 2척을 무력화하며 석유 봉쇄를 강화했지만, 트럼프 대통령은 호르무즈 해협 교전에도 불구하고 이란과의 휴전이 유지된다고 밝혔습니다.",
+        "en": "The US disabled two more Iranian oil tankers, intensifying its oil blockade, but President Trump stated that a truce with Iran is maintained despite recent military engagements in the Hormuz Strait.",
+        "zh": "美国使两艘伊朗油轮瘫痪，加强了石油封锁，但特朗普总统表示，尽管近期在霍尔木兹海峡发生军事交火，美伊休战仍在维持。"
       }
     },
     {
-      "title": "정부 조사단 나무호 승선…화재 원인 조사 개시 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8556443",
-      "source": "KBS 뉴스",
-      "pubDate": "Fri, 08 May 2026 12:05:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/05/08/20260508_YrExE3.png",
-      "summaries": {
-        "ko": "정부 조사단 나무호 승선…화재 원인 조사 개시 - KBS 뉴스",
-        "en": "정부 조사단 나무호 승선…화재 원인 조사 개시 - KBS 뉴스",
-        "zh": "정부 조사단 나무호 승선…화재 원인 조사 개시 - KBS 뉴스"
-      }
-    },
-    {
-      "title": "미 법원, 트럼프 폭주 제동…10% ‘글로벌 관세’ 위법 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1257705.html",
+      "title": "이란 국영방송 “한국 선박 표적”…주한 이란대사관은 일단 ‘선긋기’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1257610.html",
       "source": "한겨레",
-      "pubDate": "Fri, 08 May 2026 02:21:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/648/imgdb/child/2026/0508/17781956613215_20260416503787.webp",
+      "pubDate": "Fri, 08 May 2026 12:07:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/593/imgdb/original/2026/0507/20260507503371.webp",
       "summaries": {
-        "ko": "미 법원, 트럼프 폭주 제동…10% ‘글로벌 관세’ 위법 - 한겨레",
-        "en": "미 법원, 트럼프 폭주 제동…10% ‘글로벌 관세’ 위법 - 한겨레",
-        "zh": "미 법원, 트럼프 폭주 제동…10% ‘글로벌 관세’ 위법 - 한겨레"
+        "ko": "이란 국영방송 “한국 선박 표적”…주한 이란대사관은 일단 ‘선긋기’ - 한겨레",
+        "en": "이란 국영방송 “한국 선박 표적”…주한 이란대사관은 일단 ‘선긋기’ - 한겨레",
+        "zh": "이란 국영방송 “한국 선박 표적”…주한 이란대사관은 일단 ‘선긋기’ - 한겨레"
       }
     },
     {
-      "title": "“이번에는” “이번에도”…격전지 된 ‘보수의 심장’ 대구 [격전지] - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8556457",
-      "source": "KBS 뉴스",
-      "pubDate": "Fri, 08 May 2026 12:25:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/05/08/20260508_E6iFjD.png",
+      "title": "'수학 전공' 레오 14세 교황…AI 문제 다룬 첫 회칙 주목 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260508158900109",
+      "source": "연합뉴스",
+      "pubDate": "Fri, 08 May 2026 09:40:54 GMT",
+      "image": "https://img6.yna.co.kr/photo/etc/epa/2026/05/08/PEP20260508143801009_P4.jpg",
       "summaries": {
-        "ko": "“이번에는” “이번에도”…격전지 된 ‘보수의 심장’ 대구 [격전지] - KBS 뉴스",
-        "en": "“이번에는” “이번에도”…격전지 된 ‘보수의 심장’ 대구 [격전지] - KBS 뉴스",
-        "zh": "“이번에는” “이번에도”…격전지 된 ‘보수의 심장’ 대구 [격전지] - KBS 뉴스"
-      }
-    },
-    {
-      "title": "광주 고교생 살해 피의자 신상정보 공개 결정…피의자 거부로 5일간 유예 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/honam/1257814.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 08 May 2026 16:11:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/525/imgdb/original/2026/0508/20260508502267.webp",
-      "summaries": {
-        "ko": "광주 고교생 살해 피의자 신상정보 공개 결정…피의자 거부로 5일간 유예 - 한겨레",
-        "en": "광주 고교생 살해 피의자 신상정보 공개 결정…피의자 거부로 5일간 유예 - 한겨레",
-        "zh": "광주 고교생 살해 피의자 신상정보 공개 결정…피의자 거부로 5일간 유예 - 한겨레"
+        "ko": "'수학 전공' 레오 14세 교황…AI 문제 다룬 첫 회칙 주목 - 연합뉴스",
+        "en": "'수학 전공' 레오 14세 교황…AI 문제 다룬 첫 회칙 주목 - 연합뉴스",
+        "zh": "'수학 전공' 레오 14세 교황…AI 문제 다룬 첫 회칙 주목 - 연합뉴스"
       }
     },
     {
@@ -95,6 +83,18 @@
         "ko": "北, 서울 전역 때릴 ‘신형 자주포’ 꺼냈다 - 조선일보",
         "en": "北, 서울 전역 때릴 ‘신형 자주포’ 꺼냈다 - 조선일보",
         "zh": "北, 서울 전역 때릴 ‘신형 자주포’ 꺼냈다 - 조선일보"
+      }
+    },
+    {
+      "title": "광주 고교생 살해 피의자 신상정보 공개 결정…피의자 거부로 5일간 유예 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/honam/1257814.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 08 May 2026 16:11:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/525/imgdb/original/2026/0508/20260508502267.webp",
+      "summaries": {
+        "ko": "광주 고교생 살해 피의자 신상정보 공개 결정…피의자 거부로 5일간 유예 - 한겨레",
+        "en": "광주 고교생 살해 피의자 신상정보 공개 결정…피의자 거부로 5일간 유예 - 한겨레",
+        "zh": "광주 고교생 살해 피의자 신상정보 공개 결정…피의자 거부로 5일간 유예 - 한겨레"
       }
     },
     {
