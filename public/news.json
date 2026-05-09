@@ -1,16 +1,16 @@
 {
-  "lastUpdate": "2026-05-09T22:34:00.915889",
+  "lastUpdate": "2026-05-09T23:27:59.642126",
   "items": [
     {
-      "title": "충청권 공략 나선 국민의힘…‘공소취소 대응 TF’ 발족 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8556883",
-      "source": "KBS 뉴스",
-      "pubDate": "Sat, 09 May 2026 12:11:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/05/09/20260509_ZVnnMs.png",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260509022700011",
+      "source": "연합뉴스",
+      "pubDate": "Sat, 09 May 2026 01:30:00 GMT",
+      "image": "https://img3.yna.co.kr/photo/etc/epa/2026/05/09/PEP20260509076201009_P4.jpg",
       "summaries": {
-        "ko": "국민의힘은 충청권 표심 공략에 나서며 장동혁 대표가 현재 정치를 비판하고 더불어민주당의 '공소 취소' 움직임에 맞서 '공소 취소 대응 TF'를 발족하며 정권 심판론을 호소했습니다.",
-        "en": "The People Power Party is campaigning for votes in the Chungcheong region, with leader Jang Dong-hyuk criticizing current politics and launching a 'Prosecution Withdrawal Response TF' to counter the Democratic Party's moves toward 'prosecution withdrawal,' appealing to the public for judgment on the current administration.",
-        "zh": "国民力量党正在忠清地区争取选票，其代表张东赫批评了当前政治，并针对共同民主党“撤销公诉”的举动成立了“撤销公诉应对特别工作组”，呼吁民众审判现政府。"
+        "ko": "트럼프 대통령이 이란의 종전 조건 답변을 기대하고 주중 이란대사는 미국의 압박에도 중국이 입장을 바꾸지 않을 것이라고 밝힌 가운데, 한미는 조선 협력을 위한 MOU를 체결했으며, 6·3 지방선거를 앞두고 전국 곳곳에 대형 선거 현수막이 난립하고 있다.",
+        "en": "Amidst President Trump's anticipation of Iran's reply on peace conditions and the Iranian ambassador to China stating that China will not change its stance despite U.S. pressure, South Korea and the U.S. signed an MOU for shipbuilding cooperation, while large election banners are proliferating across the country ahead of the June 3 local elections.",
+        "zh": "在特朗普总统期待伊朗就和平条件做出回应，以及伊朗驻华大使表示中国不会在美国压力下改变立场之际，韩美签署了造船合作谅解备忘录，同时，韩国6月3日地方选举前，全国各地大型竞选横幅泛滥成灾。"
       }
     },
     {
@@ -26,18 +26,6 @@
       }
     },
     {
-      "title": "“서울 집값 지옥 만든 건 누구?”…오세훈·정원오 ‘부동산 전쟁’ - 매일경제",
-      "link": "https://www.mk.co.kr/news/realestate/12042276",
-      "source": "매일경제",
-      "pubDate": "Sat, 09 May 2026 04:09:06 GMT",
-      "image": "https://pimg.mk.co.kr/news/cms/202605/09/news-p.v1.20260508.bbaa3a8cb6774ecd8f64d8a11ec43481_R.png",
-      "summaries": {
-        "ko": "“서울 집값 지옥 만든 건 누구?”…오세훈·정원오 ‘부동산 전쟁’ - 매일경제",
-        "en": "“서울 집값 지옥 만든 건 누구?”…오세훈·정원오 ‘부동산 전쟁’ - 매일경제",
-        "zh": "“서울 집값 지옥 만든 건 누구?”…오세훈·정원오 ‘부동산 전쟁’ - 매일경제"
-      }
-    },
-    {
       "title": "우원식, 눈물의 개헌 무산 선언…“국힘, 기회도 책임도 걷어차” - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1257815.html",
       "source": "한겨레",
@@ -47,6 +35,18 @@
         "ko": "우원식, 눈물의 개헌 무산 선언…“국힘, 기회도 책임도 걷어차” - 한겨레",
         "en": "우원식, 눈물의 개헌 무산 선언…“국힘, 기회도 책임도 걷어차” - 한겨레",
         "zh": "우원식, 눈물의 개헌 무산 선언…“국힘, 기회도 책임도 걷어차” - 한겨레"
+      }
+    },
+    {
+      "title": "“서울 집값 지옥 만든 건 누구?”…오세훈·정원오 ‘부동산 전쟁’ - 매일경제",
+      "link": "https://www.mk.co.kr/news/realestate/12042276",
+      "source": "매일경제",
+      "pubDate": "Sat, 09 May 2026 04:09:06 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202605/09/news-p.v1.20260508.bbaa3a8cb6774ecd8f64d8a11ec43481_R.png",
+      "summaries": {
+        "ko": "“서울 집값 지옥 만든 건 누구?”…오세훈·정원오 ‘부동산 전쟁’ - 매일경제",
+        "en": "“서울 집값 지옥 만든 건 누구?”…오세훈·정원오 ‘부동산 전쟁’ - 매일경제",
+        "zh": "“서울 집값 지옥 만든 건 누구?”…오세훈·정원오 ‘부동산 전쟁’ - 매일경제"
       }
     },
     {
@@ -74,27 +74,39 @@
       }
     },
     {
-      "title": "'약물 탄 술로 남편 살해시도' 태권도장 직원·공범 관장 구속 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260509041400065",
-      "source": "연합뉴스",
-      "pubDate": "Sat, 09 May 2026 09:16:37 GMT",
-      "image": "https://img4.yna.co.kr/photo/yna/YH/2026/05/09/PYH2026050903250006500_P4.jpg",
+      "title": "한동훈 \"李대통령, 공소취소하면 탄핵해야…국힘 퇴행 막을 것\" - nocutnews.co.kr",
+      "link": "https://www.nocutnews.co.kr/news/6514573",
+      "source": "nocutnews.co.kr",
+      "pubDate": "Sat, 09 May 2026 11:07:00 GMT",
+      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/05/09/202605091745479976_0.jpg",
       "summaries": {
-        "ko": "'약물 탄 술로 남편 살해시도' 태권도장 직원·공범 관장 구속 - 연합뉴스",
-        "en": "'약물 탄 술로 남편 살해시도' 태권도장 직원·공범 관장 구속 - 연합뉴스",
-        "zh": "'약물 탄 술로 남편 살해시도' 태권도장 직원·공범 관장 구속 - 연합뉴스"
+        "ko": "한동훈 \"李대통령, 공소취소하면 탄핵해야…국힘 퇴행 막을 것\" - nocutnews.co.kr",
+        "en": "한동훈 \"李대통령, 공소취소하면 탄핵해야…국힘 퇴행 막을 것\" - nocutnews.co.kr",
+        "zh": "한동훈 \"李대통령, 공소취소하면 탄핵해야…국힘 퇴행 막을 것\" - nocutnews.co.kr"
       }
     },
     {
-      "title": "광주 고교생 살인 피의자 신상, 경찰 공개 전 온라인에 다 퍼졌다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1257884.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 09 May 2026 07:01:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/657/imgdb/original/2026/0509/20260509500414.webp",
+      "title": "옥천 찾은 장동혁 “우리 정치가 육영수 여사 품격처럼 빛나야” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260509/133890608/1",
+      "source": "동아일보",
+      "pubDate": "Sat, 09 May 2026 06:28:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/09/133890611.1.jpg",
       "summaries": {
-        "ko": "광주 고교생 살인 피의자 신상, 경찰 공개 전 온라인에 다 퍼졌다 - 한겨레",
-        "en": "광주 고교생 살인 피의자 신상, 경찰 공개 전 온라인에 다 퍼졌다 - 한겨레",
-        "zh": "광주 고교생 살인 피의자 신상, 경찰 공개 전 온라인에 다 퍼졌다 - 한겨레"
+        "ko": "옥천 찾은 장동혁 “우리 정치가 육영수 여사 품격처럼 빛나야” - 동아일보",
+        "en": "옥천 찾은 장동혁 “우리 정치가 육영수 여사 품격처럼 빛나야” - 동아일보",
+        "zh": "옥천 찾은 장동혁 “우리 정치가 육영수 여사 품격처럼 빛나야” - 동아일보"
+      }
+    },
+    {
+      "title": "‘1차 고유가 피해지원금’ 대상자 91% 신청···1조6728억원 지급 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605082039001",
+      "source": "경향신문",
+      "pubDate": "Fri, 08 May 2026 11:39:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/08/news-p.v1.20260508.63ef7a81568b476b9481c97d6f9aa87d_P1.jpg",
+      "summaries": {
+        "ko": "‘1차 고유가 피해지원금’ 대상자 91% 신청···1조6728억원 지급 - 경향신문",
+        "en": "‘1차 고유가 피해지원금’ 대상자 91% 신청···1조6728억원 지급 - 경향신문",
+        "zh": "‘1차 고유가 피해지원금’ 대상자 91% 신청···1조6728억원 지급 - 경향신문"
       }
     },
     {
@@ -107,18 +119,6 @@
         "ko": "트럼프, 호르무즈 한국 선박 화재 원인 질문에 뜬금없이 “난 한국 사랑한다” - 경향신문",
         "en": "트럼프, 호르무즈 한국 선박 화재 원인 질문에 뜬금없이 “난 한국 사랑한다” - 경향신문",
         "zh": "트럼프, 호르무즈 한국 선박 화재 원인 질문에 뜬금없이 “난 한국 사랑한다” - 경향신문"
-      }
-    },
-    {
-      "title": "부산 북갑 출마 한동훈 \"李대통령, 공소 취소하면 탄핵돼야\" - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/05/09/3OSG3B3KPRBPVNALWNBHTQQM6I/",
-      "source": "조선일보",
-      "pubDate": "Sat, 09 May 2026 09:28:45 GMT",
-      "image": "https://www.chosun.com/resizer/v2/WXPN36ATC5PBLCMVSB6EMB6YM4.jpg?auth=9769ecd8461dcb94870ef1e462574c38c2a0c472afc5b91f4614b50f1a55b505&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "부산 북갑 출마 한동훈 \"李대통령, 공소 취소하면 탄핵돼야\" - 조선일보",
-        "en": "부산 북갑 출마 한동훈 \"李대통령, 공소 취소하면 탄핵돼야\" - 조선일보",
-        "zh": "부산 북갑 출마 한동훈 \"李대통령, 공소 취소하면 탄핵돼야\" - 조선일보"
       }
     }
   ]
