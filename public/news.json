@@ -1,28 +1,40 @@
 {
-  "lastUpdate": "2026-05-09T00:11:06.413103",
+  "lastUpdate": "2026-05-09T03:53:35.242592",
   "items": [
     {
-      "title": "트럼프 “아마 오늘밤 이란 서한 받을 것…지켜보겠다” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8556788",
-      "source": "KBS 뉴스",
-      "pubDate": "Fri, 08 May 2026 23:41:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/05/09/20260509_PI0kQt.jpg",
+      "title": "‘어머니의 날 공개 연설’ 트럼프, 이란 전쟁 언급 안 해···“트렌스젠더 시술 중단” 정책 홍보만 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605090227001",
+      "source": "경향신문",
+      "pubDate": "Fri, 08 May 2026 17:27:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/09/news-p.v1.20260509.bad7d265572040b99154dfeff66456a0_P1.png",
       "summaries": {
-        "ko": "트럼프 미국 대통령은 미국의 종전 조건에 대한 이란의 답변 서한을 오늘밤 받을 것으로 예상하며, 그 결과를 지켜보겠다고 밝혔습니다.",
-        "en": "U.S. President Trump stated that he expects to receive a letter from Iran tonight with a response to the U.S. conditions for ending the conflict, and will observe the outcome.",
-        "zh": "美国总统特朗普表示，预计今晚将收到伊朗就美国结束冲突条件的回应信件，并将关注结果。"
+        "ko": "트럼프 대통령은 어머니의 날 연설에서 이란과의 전쟁에 대한 언급을 피하고, 국경 강화, 감세, 트랜스젠더 시술 중단 등 자신의 국내 정책을 홍보했다.",
+        "en": "During his Mother's Day speech, President Trump avoided mentioning the conflict with Iran, instead promoting his domestic policies on border security, tax cuts, and halting transgender procedures for children.",
+        "zh": "特朗普总统在母亲节演讲中，避谈与伊朗的战争，转而宣传了其边境安全、减税以及停止儿童变性手术等国内政策。"
       }
     },
     {
-      "title": "이란 “미국이 먼저 휴전약속 어겨…UAE 가담했다면 대가 치를 것” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1257762.html",
+      "title": "이 대통령, 권익위 ‘헬기 이송 의혹’ 발표에 “이제 제 목숨은 국민 것” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1257873.html",
       "source": "한겨레",
-      "pubDate": "Fri, 08 May 2026 04:46:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/450/imgdb/original/2026/0508/20260508501404.webp",
+      "pubDate": "Sat, 09 May 2026 01:18:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/608/365/imgdb/child/2026/0509/53_17782893255513_20241011501727.webp",
       "summaries": {
-        "ko": "이란 “미국이 먼저 휴전약속 어겨…UAE 가담했다면 대가 치를 것” - 한겨레",
-        "en": "이란 “미국이 먼저 휴전약속 어겨…UAE 가담했다면 대가 치를 것” - 한겨레",
-        "zh": "이란 “미국이 먼저 휴전약속 어겨…UAE 가담했다면 대가 치를 것” - 한겨레"
+        "ko": "이재명 더불어민주당 대표는 권익위가 자신의 헬기 이송 의혹 조사 과정에 부적절한 개입이 있었다고 발표하자 \"이제 제 목숨은 국민 것\"이라며 국민을 위한 헌신을 다짐했다.",
+        "en": "Democratic Party leader Lee Jae-myung pledged devotion to the public, stating \"Now my life belongs to the people,\" after the Anti-Corruption and Civil Rights Commission announced improper intervention in the investigation of his helicopter transfer controversy.",
+        "zh": "韩国共同民主党党首李在明在反腐败与公民权利委员会宣布，对其直升机转移争议的调查过程中存在不当干预后，表示“现在我的生命属于国民”，并承诺将为国民奉献一切。"
+      }
+    },
+    {
+      "title": "호르무즈 교전 뒤 이란 “압력에 굴복 없다”…미국 “8일 답 기대” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1257858.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 08 May 2026 16:09:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0508/20260508502730.webp",
+      "summaries": {
+        "ko": "호르무즈 교전 뒤 이란 “압력에 굴복 없다”…미국 “8일 답 기대” - 한겨레",
+        "en": "호르무즈 교전 뒤 이란 “압력에 굴복 없다”…미국 “8일 답 기대” - 한겨레",
+        "zh": "호르무즈 교전 뒤 이란 “압력에 굴복 없다”…미국 “8일 답 기대” - 한겨레"
       }
     },
     {
@@ -38,87 +50,75 @@
       }
     },
     {
-      "title": "트럼프 행정부, 미 무역법원 ‘10% 글로벌 관세’ 제동에 항소 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8556694",
-      "source": "KBS 뉴스",
-      "pubDate": "Fri, 08 May 2026 19:19:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/05/09/20260509_MqqH8J.jpg",
-      "summaries": {
-        "ko": "트럼프 행정부, 미 무역법원 ‘10% 글로벌 관세’ 제동에 항소 - KBS 뉴스",
-        "en": "트럼프 행정부, 미 무역법원 ‘10% 글로벌 관세’ 제동에 항소 - KBS 뉴스",
-        "zh": "트럼프 행정부, 미 무역법원 ‘10% 글로벌 관세’ 제동에 항소 - KBS 뉴스"
-      }
-    },
-    {
-      "title": "이란 국영방송 “한국 선박 표적”…주한 이란대사관은 일단 ‘선긋기’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1257610.html",
+      "title": "‘치명률 최대 50%’ 한타바이러스…국내 유입 가능성 없나 [Q&A] - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/health/1257866.html",
       "source": "한겨레",
-      "pubDate": "Fri, 08 May 2026 12:07:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/593/imgdb/original/2026/0507/20260507503371.webp",
+      "pubDate": "Sat, 09 May 2026 01:41:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/600/imgdb/original/2026/0508/20260508502763.webp",
       "summaries": {
-        "ko": "이란 국영방송 “한국 선박 표적”…주한 이란대사관은 일단 ‘선긋기’ - 한겨레",
-        "en": "이란 국영방송 “한국 선박 표적”…주한 이란대사관은 일단 ‘선긋기’ - 한겨레",
-        "zh": "이란 국영방송 “한국 선박 표적”…주한 이란대사관은 일단 ‘선긋기’ - 한겨레"
+        "ko": "‘치명률 최대 50%’ 한타바이러스…국내 유입 가능성 없나 [Q&A] - 한겨레",
+        "en": "‘치명률 최대 50%’ 한타바이러스…국내 유입 가능성 없나 [Q&A] - 한겨레",
+        "zh": "‘치명률 최대 50%’ 한타바이러스…국내 유입 가능성 없나 [Q&A] - 한겨레"
       }
     },
     {
-      "title": "임성근 징역 3년…“이런 사람 처음 본다” 재판장도 질타 - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260508/133886304/1",
-      "source": "동아일보",
-      "pubDate": "Fri, 08 May 2026 07:04:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/08/133886623.1.jpg",
+      "title": "[내일날씨] 전국 대체로 맑고 일교차 커…경북권 건조특보 - 연합뉴스 한민족센터",
+      "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1350803",
+      "source": "연합뉴스 한민족센터",
+      "pubDate": "Sat, 09 May 2026 00:00:00 GMT",
+      "image": "https://www.koreancenter.or.kr/image/logo/snslogo_20241018113332.png",
       "summaries": {
-        "ko": "임성근 징역 3년…“이런 사람 처음 본다” 재판장도 질타 - 동아일보",
-        "en": "임성근 징역 3년…“이런 사람 처음 본다” 재판장도 질타 - 동아일보",
-        "zh": "임성근 징역 3년…“이런 사람 처음 본다” 재판장도 질타 - 동아일보"
+        "ko": "[내일날씨] 전국 대체로 맑고 일교차 커…경북권 건조특보 - 연합뉴스 한민족센터",
+        "en": "[내일날씨] 전국 대체로 맑고 일교차 커…경북권 건조특보 - 연합뉴스 한민족센터",
+        "zh": "[내일날씨] 전국 대체로 맑고 일교차 커…경북권 건조특보 - 연합뉴스 한민족센터"
       }
     },
     {
-      "title": "北, 서울 전역 때릴 ‘신형 자주포’ 꺼냈다 - 조선일보",
-      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/05/08/P3XIJLKQYBDWPP4B2BKW5Z7DAY/",
+      "title": "호르무즈 뚫고 왔다, 원유 100만 배럴 실은 유조선 도착 - 조선일보",
+      "link": "https://www.chosun.com/economy/industry-company/2026/05/09/UKGJHSTCEFH7FAZM5X2G4XQOLE/",
       "source": "조선일보",
-      "pubDate": "Fri, 08 May 2026 13:00:23 GMT",
-      "image": "https://www.chosun.com/resizer/v2/3SGG4MXOURCY3FAV4WQ3YF7O6M.JPG?auth=75a40ebfb4d6b7540108c68d8efa307fbb3ea87a6055c352409b9a5755daf9e2&width=1200&height=630&focal=893,471",
+      "pubDate": "Fri, 08 May 2026 15:57:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/LQ7YGCYOWZB2TLKMWUZ2HCIQTY.jpg?auth=367717072f8d65ba2a57d8f5bba73670f690561914de0ce84264714fc469d756&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "北, 서울 전역 때릴 ‘신형 자주포’ 꺼냈다 - 조선일보",
-        "en": "北, 서울 전역 때릴 ‘신형 자주포’ 꺼냈다 - 조선일보",
-        "zh": "北, 서울 전역 때릴 ‘신형 자주포’ 꺼냈다 - 조선일보"
+        "ko": "호르무즈 뚫고 왔다, 원유 100만 배럴 실은 유조선 도착 - 조선일보",
+        "en": "호르무즈 뚫고 왔다, 원유 100만 배럴 실은 유조선 도착 - 조선일보",
+        "zh": "호르무즈 뚫고 왔다, 원유 100만 배럴 실은 유조선 도착 - 조선일보"
       }
     },
     {
-      "title": "오빠·따까리·컨설팅…국힘 “민주당 망언 참 다채롭다” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260508/133884274/2",
-      "source": "동아일보",
-      "pubDate": "Fri, 08 May 2026 01:07:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/08/133884275.2.jpg",
-      "summaries": {
-        "ko": "오빠·따까리·컨설팅…국힘 “민주당 망언 참 다채롭다” - 동아일보",
-        "en": "오빠·따까리·컨설팅…국힘 “민주당 망언 참 다채롭다” - 동아일보",
-        "zh": "오빠·따까리·컨설팅…국힘 “민주당 망언 참 다채롭다” - 동아일보"
-      }
-    },
-    {
-      "title": "첫 처분이 與인사 ‘무혐의’… 2차 특검, 편파 수사 논란 - 조선일보",
-      "link": "https://www.chosun.com/national/court_law/2026/05/09/DC2PEN23S5ELDC52E2GJZ4A5X4/",
-      "source": "조선일보",
-      "pubDate": "Fri, 08 May 2026 15:56:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/WZ5PMRK3ZNCCFJJFB2D2QZTE34.jpg?auth=b86a74770e9238e4b0d021568b4c13d8eda5909f2eb58d39ccbcd6a2994748ff&width=1200&height=630&focal=821,379",
-      "summaries": {
-        "ko": "첫 처분이 與인사 ‘무혐의’… 2차 특검, 편파 수사 논란 - 조선일보",
-        "en": "첫 처분이 與인사 ‘무혐의’… 2차 특검, 편파 수사 논란 - 조선일보",
-        "zh": "첫 처분이 與인사 ‘무혐의’… 2차 특검, 편파 수사 논란 - 조선일보"
-      }
-    },
-    {
-      "title": "광주 고교생 살해 피의자 신상정보 공개 결정…피의자 거부로 5일간 유예 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/honam/1257814.html",
+      "title": "트럼프, ‘나무호 피격설’ 확인 질문에 “나는 한국 사랑해” 동문서답 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1257869.html",
       "source": "한겨레",
-      "pubDate": "Fri, 08 May 2026 16:11:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/525/imgdb/original/2026/0508/20260508502267.webp",
+      "pubDate": "Sat, 09 May 2026 01:37:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/600/imgdb/original/2026/0509/20260509500185.webp",
       "summaries": {
-        "ko": "광주 고교생 살해 피의자 신상정보 공개 결정…피의자 거부로 5일간 유예 - 한겨레",
-        "en": "광주 고교생 살해 피의자 신상정보 공개 결정…피의자 거부로 5일간 유예 - 한겨레",
-        "zh": "광주 고교생 살해 피의자 신상정보 공개 결정…피의자 거부로 5일간 유예 - 한겨레"
+        "ko": "트럼프, ‘나무호 피격설’ 확인 질문에 “나는 한국 사랑해” 동문서답 - 한겨레",
+        "en": "트럼프, ‘나무호 피격설’ 확인 질문에 “나는 한국 사랑해” 동문서답 - 한겨레",
+        "zh": "트럼프, ‘나무호 피격설’ 확인 질문에 “나는 한국 사랑해” 동문서답 - 한겨레"
+      }
+    },
+    {
+      "title": "‘검찰 범죄’ 특검을 해야할 50가지 이유① 증거 위·변조 - NewsTapa",
+      "link": "https://www.newstapa.org/article/pENOh",
+      "source": "NewsTapa",
+      "pubDate": "Sat, 09 May 2026 02:09:50 GMT",
+      "image": "https://d1lawh9lju1xqd.cloudfront.net/2026/05/09110649-0705-37F9-627A-V1QJS4GM3AT0WQNPP3FK.jpg",
+      "summaries": {
+        "ko": "‘검찰 범죄’ 특검을 해야할 50가지 이유① 증거 위·변조 - NewsTapa",
+        "en": "‘검찰 범죄’ 특검을 해야할 50가지 이유① 증거 위·변조 - NewsTapa",
+        "zh": "‘검찰 범죄’ 특검을 해야할 50가지 이유① 증거 위·변조 - NewsTapa"
+      }
+    },
+    {
+      "title": "채상병 어머니, 임성근 징역 3년에 \"너무 실망‥누가 자식 군대 보내겠냐\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6821027_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Fri, 08 May 2026 08:03:23 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/05/08/jhp_20260508_9.jpg",
+      "summaries": {
+        "ko": "채상병 어머니, 임성근 징역 3년에 \"너무 실망‥누가 자식 군대 보내겠냐\" - MBC 뉴스",
+        "en": "채상병 어머니, 임성근 징역 3년에 \"너무 실망‥누가 자식 군대 보내겠냐\" - MBC 뉴스",
+        "zh": "채상병 어머니, 임성근 징역 3년에 \"너무 실망‥누가 자식 군대 보내겠냐\" - MBC 뉴스"
       }
     }
   ]
