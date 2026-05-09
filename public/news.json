@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-05-09T08:08:50.728831",
+  "lastUpdate": "2026-05-09T09:42:36.904745",
   "items": [
+    {
+      "title": "장동혁 “95세 노모에 공소취소 뭔지 아냐고 물어보니 ‘나 무시하냐’며 역정” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605091435001",
+      "source": "경향신문",
+      "pubDate": "Sat, 09 May 2026 05:35:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/09/news-p.v1.20260508.f80665ff6178418a83b94d9cab73277e_P1.jpeg",
+      "summaries": {
+        "ko": "국민의힘 장동혁 대표는 95세 노모의 일화를 들어 \"국민 상당수가 공소취소를 모른다\"는 민주당 박성준 의원 발언을 비판하며, 민주당의 '조작기소 특검법'이 이재명 대표에 대한 '셀프 면죄부'가 될 수 있다고 주장하며 당 차원의 대응 TF 발족을 예고했다.",
+        "en": "People Power Party's Jang Dong-hyeok criticized Democratic Party's Park Sung-joon for claiming \"most people don't know what withdrawal of indictment means\" by sharing an anecdote of his 95-year-old mother understanding it, while asserting that the DP's proposed special prosecutor bill allowing such withdrawals could be a \"self-absolution\" measure for Lee Jae-myung, with the PPP planning a task force in response.",
+        "zh": "国民力量党张东赫通过讲述其95岁老母亲理解“撤销公诉”含义并为此发怒的故事，批评共同民主党朴圣俊关于“大多数国民不了解撤销公诉”的言论，并声称共同民主党提出的特检法案允许撤销对李在明代表的公诉是“自我免罪”行为，国民力量党计划成立工作组应对。"
+      }
+    },
     {
       "title": "트럼프 “한국 사랑한다”... ‘나무호’ 묻자 동문서답 - 조선일보",
       "link": "https://www.chosun.com/international/international_general/2026/05/09/FKRLD2A7ZNFKDEX6CQ26EKFZOA/",
@@ -14,15 +26,15 @@
       }
     },
     {
-      "title": "한타바이러스 발생 크루즈선 승객 추적에 나선 전 세계 보건당국 - BBC",
-      "link": "https://www.bbc.com/korean/articles/cg4p1n1r6qdo",
-      "source": "BBC",
-      "pubDate": "Sat, 09 May 2026 06:06:03 GMT",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_korean/da4f/live/28d9a370-4ad4-11f1-941e-d3689d7c57f6.jpg",
+      "title": "“계엄에도 하나님 계획 있다” 장동혁 발언에···민주당 “예수정신 내란 행위 정당화에 악용” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605091422001",
+      "source": "경향신문",
+      "pubDate": "Sat, 09 May 2026 05:22:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/09/rcv.YNA.20260319.PYH2026031902050001300_P1.jpg",
       "summaries": {
-        "ko": "한타바이러스 집단 감염이 발생한 크루즈선 'MV 혼디우스'호의 승객과 밀접 접촉자를 추적하기 위해 전 세계 보건당국이 나서고 있으며, 현재까지 5명의 감염자와 3명의 사망자가 확인되었지만 세계보건기구는 팬데믹 가능성이 낮다고 밝혔다.",
-        "en": "Global health authorities are tracking passengers and close contacts from the 'MV Hondius' cruise ship following a hantavirus outbreak, which has resulted in 5 confirmed cases and 3 deaths, though the WHO indicates a low pandemic potential.",
-        "zh": "全球卫生当局正在追踪发生汉坦病毒疫情的“MV Hondius”号游轮乘客及密切接触者，目前已确认5例感染和3例死亡，但世界卫生组织表示大流行可能性较低。"
+        "ko": "더불어민주당은 장동혁 국민의힘 대표가 계엄 해결의 유일한 방법이 탄핵은 아니라고 발언하고 과거 ‘계엄에도 하나님의 계획이 있다’고 말한 것을 두고, 예수 정신을 내란 행위 정당화에 악용하고 국민 마음을 짓밟았다며 맹비난했다.",
+        "en": "The Democratic Party lambasted People Power Party leader Jang Dong-hyuk for his statement that impeachment was not the only solution to martial law and for his controversial past remark 'God has a plan in martial law,' alleging he misused Christian faith to justify an act of rebellion and disregarded public sentiment.",
+        "zh": "民主党强烈批评国民力量党代表张东赫，就其关于弹劾并非解决戒严的唯一方法以及此前“戒严也有神的计划”的言论，指责他滥用耶稣精神为叛乱行为辩护，并践踏了国民的情感。"
       }
     },
     {
@@ -32,9 +44,9 @@
       "pubDate": "Sat, 09 May 2026 04:09:06 GMT",
       "image": "https://pimg.mk.co.kr/news/cms/202605/09/news-p.v1.20260508.bbaa3a8cb6774ecd8f64d8a11ec43481_R.png",
       "summaries": {
-        "ko": "서울시장 선거에서 오세훈, 정원오 후보가 치솟는 집값의 '부동산 지옥' 책임 공방과 주택난 해법을 두고 격렬하게 맞붙고 있다.",
-        "en": "In the Seoul mayoral election, candidates Oh Se-hoon and Jung Won-oh are fiercely clashing over the responsibility for the 'real estate hell' of skyrocketing housing prices and the solutions for the housing shortage.",
-        "zh": "在首尔市长选举中，吴世勋和郑源午两位候选人正就房价飙升造成的“房地产地狱”责任以及解决住房短缺的方案展开激烈辩论。"
+        "ko": "서울시장 선거에서 오세훈·정원오 후보 측은 서울 집값 폭등과 전월세난의 책임 및 해법을 두고 현 정부 정책 대 시장 책임론으로 '부동산 지옥' 공방을 벌이고 있다.",
+        "en": "In the Seoul mayoral election, Oh Se-hoon and Jung Won-oh's campaigns are engaged in a heated 'real estate hell' debate, blaming current government policies versus the mayor's responsibility for soaring housing prices and the *jeonse/wolse* crisis.",
+        "zh": "在首尔市长选举中，吴世勋和郑源旿阵营就首尔房价飙升和全租/月租危机，围绕现政府政策与市长责任展开“房地产地狱”攻防战。"
       }
     },
     {
@@ -44,69 +56,33 @@
       "pubDate": "Sat, 09 May 2026 01:37:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/900/600/imgdb/original/2026/0509/20260509500185.webp",
       "summaries": {
-        "ko": "트럼프 대통령이 호르무즈 해협에서 화재가 난 한국 선박 '나무호' 피격설 관련 질문에 \"나는 한국을 사랑한다\"며 동문서답했으며, 한국 정부는 아직 정확한 사고 원인을 규명 중이라고 밝혔다.",
-        "en": "When questioned about the alleged attack on the South Korean ship 'Namuho' that caught fire in the Strait of Hormuz, President Trump gave an irrelevant response, stating \"I love Korea,\" while the South Korean government maintained that the exact cause of the incident is still being investigated.",
-        "zh": "当被问及在霍尔木兹海峡起火的韩国船只“树木号”是否遭到袭击时，特朗普总统答非所问地表示“我爱韩国”，而韩国政府表示事故确切原因仍在调查中。"
+        "ko": "트럼프 대통령이 호르무즈 해협에서 화재가 발생한 한국 선박 '나무호'의 피격설에 대한 질문에 \"나는 한국을 사랑한다\"고 동문서답했다고 한겨레가 전했다.",
+        "en": "President Trump, when questioned about the alleged attack on the South Korean ship 'HMM Namu-ho' that caught fire in the Strait of Hormuz, reportedly gave an irrelevant answer, stating \"I love Korea,\" according to The Hankyoreh.",
+        "zh": "据《韩民族日报》报道，特朗普总统在被问及霍尔木兹海峡发生火灾的韩国船只“HMM Namu-ho”可能遭受袭击一事时，答非所问地表示“我爱韩国”。"
       }
     },
     {
-      "title": "장동혁 “95세 노모에 공소취소 뭔지 아냐고 물어보니 ‘나 무시하냐’며 역정” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605091435001",
-      "source": "경향신문",
-      "pubDate": "Sat, 09 May 2026 05:35:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/09/news-p.v1.20260508.f80665ff6178418a83b94d9cab73277e_P1.jpeg",
-      "summaries": {
-        "ko": "국민의힘 장동혁 의원은 95세 노모가 공소취소의 의미를 알고 있었다는 일화를 들며 국민 대부분이 공소취소를 모른다는 더불어민주당 박성준 의원의 주장을 비판했으며, 국민의힘은 이재명 관련 사건의 공소취소를 가능하게 해 '셀프 면죄부'를 줄 수 있는 특검법안에 반대하며 대응 TF를 발족하기로 했다.",
-        "en": "People Power Party Rep. Jang Dong-hyuk criticized Democratic Party Rep. Park Sung-joon's claim that most citizens don't understand \"withdrawal of charges\" by citing an anecdote about his 95-year-old mother's clear understanding, while the People Power Party opposes a proposed special prosecutor bill that could enable the withdrawal of charges in cases related to Lee Jae-myung, calling it a \"self-pardon.\"",
-        "zh": "韩国执政党国民力量党议员张东赫引用其95岁老母亲理解“撤销公诉”的例子，批评共同民主党议员朴圣俊声称大多数国民不懂“撤销公诉”的说法，同时国民力量党反对一项允许对李在明相关案件撤销公诉的特别检察官法案，称其为“自我赦免”。"
-      }
-    },
-    {
-      "title": "안규백, 내일 미국 간다... 전작권, 주한미군 등 논의 - 조선일보",
-      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/05/09/ORCLD6M4T5DPLGIYIF7VOWAZDY/",
-      "source": "조선일보",
-      "pubDate": "Sat, 09 May 2026 03:21:34 GMT",
-      "image": "https://www.chosun.com/resizer/v2/2OZOQ64ADJIXDA5U5XV5KTSITQ.jpg?auth=841aef43cbf6b802bf28336f5693735f926e8e18ff876d65002587a9af8f8e1a&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "안규백, 내일 미국 간다... 전작권, 주한미군 등 논의 - 조선일보",
-        "en": "안규백, 내일 미국 간다... 전작권, 주한미군 등 논의 - 조선일보",
-        "zh": "안규백, 내일 미국 간다... 전작권, 주한미군 등 논의 - 조선일보"
-      }
-    },
-    {
-      "title": "與 \"장동혁, 윤어게인 회귀도 모자라 상처입은 국민마음 짓밟아\" - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/05/09/FAILMTXMZVDW7LJZYWXNT7KA6E/",
-      "source": "조선일보",
-      "pubDate": "Sat, 09 May 2026 04:01:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/AZDTWWZXJZFQJHAD5J6OHEW7OA.jpg?auth=8a6b5123b94b3558362732c220b310e8be0456fca70022332743899571fccce7&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "與 \"장동혁, 윤어게인 회귀도 모자라 상처입은 국민마음 짓밟아\" - 조선일보",
-        "en": "與 \"장동혁, 윤어게인 회귀도 모자라 상처입은 국민마음 짓밟아\" - 조선일보",
-        "zh": "與 \"장동혁, 윤어게인 회귀도 모자라 상처입은 국민마음 짓밟아\" - 조선일보"
-      }
-    },
-    {
-      "title": "우원식, 눈물의 개헌 무산 선언…“국힘, 기회도 책임도 걷어차” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1257815.html",
+      "title": "‘눈물의 선언’ 우원식 “개헌 절차 중단…국힘에 강력한 유감” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1257770.html",
       "source": "한겨레",
-      "pubDate": "Fri, 08 May 2026 08:42:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/428/imgdb/original/2026/0508/20260508502279.webp",
+      "pubDate": "Fri, 08 May 2026 12:08:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/618/imgdb/original/2026/0508/20260508501889.webp",
       "summaries": {
-        "ko": "우원식 국회의장이 국민의힘의 필리버스터로 헌법 개정안 처리가 무산되자 눈물을 흘리며 \"기회도 책임도 걷어찼다\"고 비판하며 개헌 무산을 선언했다.",
-        "en": "Speaker Woo Won-sik tearfully declared the failure of the constitutional amendment due to the People Power Party's filibuster, criticizing the party for having \"kicked away both the opportunity and responsibility.\"",
-        "zh": "国会议长禹元植流泪宣布，因国民力量党的冗长辩论导致宪法修正案处理失败，并批评该党“踢走了机会和责任”。"
+        "ko": "우원식 국회의장은 국민의힘의 불참 및 무제한 토론 계획으로 헌법 개정안 상정을 중단하며 개헌 절차 종료를 선언하고 강한 유감을 표명했다.",
+        "en": "National Assembly Speaker Woo Won-sik announced the suspension of the constitutional amendment process, declaring its end and expressing strong regret towards the People Power Party for their non-participation and plans for unlimited debate.",
+        "zh": "韩国国会议长禹元植因国民力量党的不参与和计划进行无限制辩论而中止了宪法修正案的审议，宣布修宪程序终止，并表达了强烈遗憾。"
       }
     },
     {
-      "title": "병든 남편 먹이려 ‘단팥빵 5개’ 훔친 할머니…공권력도 울었다 - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260509/133890505/1",
-      "source": "동아일보",
-      "pubDate": "Sat, 09 May 2026 04:46:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/09/133890525.1.jpg",
+      "title": "안규백 국방장관, 10일 첫 방미…전작권·핵잠수함 논의 전망 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1257879.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 09 May 2026 05:56:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/769/519/imgdb/original/2026/0509/20260509500346.webp",
       "summaries": {
-        "ko": "병든 남편 먹이려 ‘단팥빵 5개’ 훔친 할머니…공권력도 울었다 - 동아일보",
-        "en": "병든 남편 먹이려 ‘단팥빵 5개’ 훔친 할머니…공권력도 울었다 - 동아일보",
-        "zh": "병든 남편 먹이려 ‘단팥빵 5개’ 훔친 할머니…공권력도 울었다 - 동아일보"
+        "ko": "안규백 국방부 장관은 10월 10일부터 14일까지 취임 후 첫 미국을 방문하여 전시작전통제권 전환과 핵추진잠수함 건조 협력을 포함한 주요 동맹 현안을 논의할 예정이다.",
+        "en": "South Korean Defense Minister Ahn Gyu-baek will make his first visit to the U.S. from October 10-14 to discuss key alliance issues such as the transfer of wartime operational control (OPCON) and nuclear-powered submarine cooperation.",
+        "zh": "韩国国防部长安圭白将于10月10日至14日首次访问美国，讨论包括战时作战指挥权移交和核动力潜艇建造合作在内的主要同盟悬案。"
       }
     },
     {
@@ -116,9 +92,33 @@
       "pubDate": "Sat, 09 May 2026 07:01:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/900/657/imgdb/original/2026/0509/20260509500414.webp",
       "summaries": {
-        "ko": "광주 여고생 살인 피의자 장아무개(24)씨의 신상정보가 경찰의 공식 공개일(14일) 이전에 이미 온라인상에 유포되어 논란이 되고 있다.",
-        "en": "The personal information of Jang (24), the suspect in the Gwangju high school girl murder case, including his name and photos, has been widely circulated online even before the police's official disclosure scheduled for June 14th.",
-        "zh": "涉嫌在光州杀害一名女高中生的嫌疑人张某（24岁）的个人信息，包括姓名和照片，在警方原定于6月14日正式公布之前，已在网上广泛传播，引发争议。"
+        "ko": "광주 고교생 살인 피의자 신상, 경찰 공개 전 온라인에 다 퍼졌다 - 한겨레",
+        "en": "광주 고교생 살인 피의자 신상, 경찰 공개 전 온라인에 다 퍼졌다 - 한겨레",
+        "zh": "광주 고교생 살인 피의자 신상, 경찰 공개 전 온라인에 다 퍼졌다 - 한겨레"
+      }
+    },
+    {
+      "title": "한덕수 형량 8년 줄인 이유 보니…2심 “국무회의 제대로 했어도 계엄 못 막아” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605091029001",
+      "source": "경향신문",
+      "pubDate": "Sat, 09 May 2026 01:29:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/09/news-p.v1.20260121.7f900355c6b04c1a9abc224b7a56a89c_P1.jpeg",
+      "summaries": {
+        "ko": "한덕수 형량 8년 줄인 이유 보니…2심 “국무회의 제대로 했어도 계엄 못 막아” - 경향신문",
+        "en": "한덕수 형량 8년 줄인 이유 보니…2심 “국무회의 제대로 했어도 계엄 못 막아” - 경향신문",
+        "zh": "한덕수 형량 8년 줄인 이유 보니…2심 “국무회의 제대로 했어도 계엄 못 막아” - 경향신문"
+      }
+    },
+    {
+      "title": "주말 맑지만 월요일부터 전국 곳곳 비 - 조선일보",
+      "link": "https://www.chosun.com/national/transport-environment/2026/05/09/MFCQ6R6HKRGXTEIYNHHKXOZB64/",
+      "source": "조선일보",
+      "pubDate": "Sat, 09 May 2026 01:41:30 GMT",
+      "image": "https://www.chosun.com/resizer/v2/VZWZGA4P3ZMNLI23OZWSMZ3Q3Y.jpg?auth=b7bd7bead7b21e04c800df8dffca0574a42b80ae08dae669f64e8eb725aeb30a&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "주말 맑지만 월요일부터 전국 곳곳 비 - 조선일보",
+        "en": "주말 맑지만 월요일부터 전국 곳곳 비 - 조선일보",
+        "zh": "주말 맑지만 월요일부터 전국 곳곳 비 - 조선일보"
       }
     },
     {
