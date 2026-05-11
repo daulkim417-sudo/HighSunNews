@@ -1,16 +1,28 @@
 {
-  "lastUpdate": "2026-05-11T18:06:12.844380",
+  "lastUpdate": "2026-05-11T20:01:00.781012",
   "items": [
     {
-      "title": "청와대 “나무호 피격, 강력 규탄”…프랑스·중국처럼 특정은 안 해 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1258178.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 11 May 2026 14:35:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/587/352/imgdb/child/2026/0512/53_17785167770724_20260510501396.webp",
+      "title": "청와대, 호르무즈 해협 상선 피격 “강력 규탄”…“적절 수위 대처할 것” - VOA 한국어 홈페이지",
+      "link": "https://www.voakorea.com/a/blue-house-strongly-condemns-attack-on-merchant-vessel-in-strait-of-hormuz-vows-appropriate-response-20260511/8148833.html",
+      "source": "VOA 한국어 홈페이지",
+      "pubDate": "Mon, 11 May 2026 15:51:02 GMT",
+      "image": "https://gdb.voanews.com/c082d891-9d81-4003-4e35-08de3cb97958_w1200_h630.jpg",
       "summaries": {
-        "ko": "청와대는 HMM 나무호 피격을 강력히 규탄하면서도, 다른 한국 선박의 안전 확보, 이란과의 외교 관계 유지, 미국의 군사 협력 압박 회피 등을 이유로 공격 주체를 명시적으로 밝히지 않았다.",
-        "en": "The Blue House strongly condemned the attack on the HMM Namuho but deliberately avoided naming the perpetrator, presumably Iran, to ensure the safety of other Korean ships, maintain diplomatic relations with Iran, and avoid U.S. pressure for military cooperation.",
-        "zh": "青瓦台强烈谴责HMM Namuho号船只遇袭事件，但为确保其他韩国船只的安全、维护与伊朗的外交关系并避免美国施加军事合作压力，故意未指明袭击者（据推测为伊朗）。"
+        "ko": "청와대는 호르무즈 해협에서 한국 화물선 HMM 나무호가 미상 비행체에 피격된 사건을 강력히 규탄하고, 공격 주체와 원인 규명을 위한 조사를 진행 중이라고 밝혔다.",
+        "en": "South Korea's presidential office strongly condemned the attack on the Korean cargo ship HMM Nammou by unidentified flying objects in the Strait of Hormuz and announced an ongoing investigation to identify the perpetrator and cause.",
+        "zh": "韩国青瓦台强烈谴责在霍尔木兹海峡发生的韩国货船HMM Nammou号被不明飞行物袭击的事件，并表示正在调查以查明袭击者和原因。"
+      }
+    },
+    {
+      "title": "[속보] 트럼프, ‘해방 프로젝트’ 재개 검토…상선 호위 넘어설 듯 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/america/1258182.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 11 May 2026 16:17:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0512/20260512500018.webp",
+      "summaries": {
+        "ko": "트럼프 미국 대통령이 상선 호위 수준을 넘어선 작전 범위 확대를 고려하며 호르무즈 해협 항행 지원 작전인 '해방 프로젝트' 재개를 검토하고 있다고 밝혔다.",
+        "en": "U.S. President Trump announced he is considering resuming 'Project Freedom,' an operation to support navigation in the Strait of Hormuz, with plans to expand its scope beyond merely escorting merchant ships.",
+        "zh": "美国总统特朗普表示，他正在考虑重新启动霍尔木兹海峡航行支援行动“解放项目”，并计划将行动范围扩大到不仅仅是护航商船。"
       }
     },
     {
@@ -26,39 +38,51 @@
       }
     },
     {
-      "title": "[속보] 트럼프, ‘해방 프로젝트’ 재개 검토…상선 호위 넘어설 듯 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1258182.html",
+      "title": "수십 년 제재로 맷집 세진 이란, 협상 주도권 쥐고 ‘버티기 전술’ - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605112124025",
+      "source": "경향신문",
+      "pubDate": "Mon, 11 May 2026 12:24:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/11/l_2026051201000309500028001.jpg",
+      "summaries": {
+        "ko": "수십 년 제재로 맷집 세진 이란, 협상 주도권 쥐고 ‘버티기 전술’ - 경향신문",
+        "en": "수십 년 제재로 맷집 세진 이란, 협상 주도권 쥐고 ‘버티기 전술’ - 경향신문",
+        "zh": "수십 년 제재로 맷집 세진 이란, 협상 주도권 쥐고 ‘버티기 전술’ - 경향신문"
+      }
+    },
+    {
+      "title": "한·미 국방 회담서 헤그세스 “어깨 나란히”…호르무즈 협력 주문했나 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/america/1258183.html",
       "source": "한겨레",
-      "pubDate": "Mon, 11 May 2026 16:17:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0512/20260512500018.webp",
+      "pubDate": "Mon, 11 May 2026 16:16:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2026/0512/20260512500032.webp",
       "summaries": {
-        "ko": "[속보] 트럼프, ‘해방 프로젝트’ 재개 검토…상선 호위 넘어설 듯 - 한겨레",
-        "en": "[속보] 트럼프, ‘해방 프로젝트’ 재개 검토…상선 호위 넘어설 듯 - 한겨레",
-        "zh": "[속보] 트럼프, ‘해방 프로젝트’ 재개 검토…상선 호위 넘어설 듯 - 한겨레"
+        "ko": "한·미 국방 회담서 헤그세스 “어깨 나란히”…호르무즈 협력 주문했나 - 한겨레",
+        "en": "한·미 국방 회담서 헤그세스 “어깨 나란히”…호르무즈 협력 주문했나 - 한겨레",
+        "zh": "한·미 국방 회담서 헤그세스 “어깨 나란히”…호르무즈 협력 주문했나 - 한겨레"
       }
     },
     {
-      "title": "도널드 트럼프 대통령, 중동 분쟁 종식 위한 이란 최신 제안 거부 - VOA 한국어 홈페이지",
-      "link": "https://www.voakorea.com/a/president-trump-rejects-latest-iran-proposal-to-end-the-middle-east-conflict-20260511/8148807.html",
-      "source": "VOA 한국어 홈페이지",
-      "pubDate": "Mon, 11 May 2026 14:46:43 GMT",
-      "image": "https://gdb.voanews.com/eeae8e43-ce11-48e6-d1f0-08de3bf6f1ff_cx0_cy5_cw0_w1200_h630.jpg",
+      "title": "비 예보됐는데… 주왕산 초등생 실종에 야간 수색 총동원 - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/05/11/GFZ27A5ZHFDU3LG52DGUDJKJUY/",
+      "source": "조선일보",
+      "pubDate": "Mon, 11 May 2026 14:34:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/ZM673GEP4BNYJJ7N3THNQ7BWXA.jpg?auth=f4981fd7aa6ca2796cf8816894f6fba02e02dc83c6f81fed4df4fa2de8d905a4&width=1200&height=630&focal=672,219",
       "summaries": {
-        "ko": "도널드 트럼프 대통령, 중동 분쟁 종식 위한 이란 최신 제안 거부 - VOA 한국어 홈페이지",
-        "en": "도널드 트럼프 대통령, 중동 분쟁 종식 위한 이란 최신 제안 거부 - VOA 한국어 홈페이지",
-        "zh": "도널드 트럼프 대통령, 중동 분쟁 종식 위한 이란 최신 제안 거부 - VOA 한국어 홈페이지"
+        "ko": "비 예보됐는데… 주왕산 초등생 실종에 야간 수색 총동원 - 조선일보",
+        "en": "비 예보됐는데… 주왕산 초등생 실종에 야간 수색 총동원 - 조선일보",
+        "zh": "비 예보됐는데… 주왕산 초등생 실종에 야간 수색 총동원 - 조선일보"
       }
     },
     {
-      "title": "청송 주왕산서 초등생 실종 이틀째…야간에도 샅샅이 수색한다(종합) - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260511146351053",
-      "source": "연합뉴스",
-      "pubDate": "Mon, 11 May 2026 09:48:02 GMT",
-      "image": "https://img8.yna.co.kr/photo/yna/YH/2026/05/11/PYH2026051104010005300_P4.jpg",
+      "title": "고유가 지원금 확정...제주 43만명 15만원씩 - 제주의소리",
+      "link": "https://www.jejusori.net/news/articleView.html?idxno=502649",
+      "source": "제주의소리",
+      "pubDate": "Mon, 11 May 2026 03:42:42 GMT",
+      "image": "https://cdn.jejusori.net/news/photo/202605/502649_504062_3940.jpg",
       "summaries": {
-        "ko": "청송 주왕산서 초등생 실종 이틀째…야간에도 샅샅이 수색한다(종합) - 연합뉴스",
-        "en": "청송 주왕산서 초등생 실종 이틀째…야간에도 샅샅이 수색한다(종합) - 연합뉴스",
-        "zh": "청송 주왕산서 초등생 실종 이틀째…야간에도 샅샅이 수색한다(종합) - 연합뉴스"
+        "ko": "고유가 지원금 확정...제주 43만명 15만원씩 - 제주의소리",
+        "en": "고유가 지원금 확정...제주 43만명 15만원씩 - 제주의소리",
+        "zh": "고유가 지원금 확정...제주 43만명 15만원씩 - 제주의소리"
       }
     },
     {
@@ -80,57 +104,33 @@
       "pubDate": "Mon, 11 May 2026 02:15:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/800/450/imgdb/original/2026/0511/20260511501222.webp",
       "summaries": {
-        "ko": "대구 국힘 당원 1325명 또 집단 탈당…“김부겸 지지” 선언 - 한겨레",
-        "en": "대구 국힘 당원 1325명 또 집단 탈당…“김부겸 지지” 선언 - 한겨레",
-        "zh": "대구 국힘 당원 1325명 또 집단 탈당…“김부겸 지지” 선언 - 한겨레"
+        "ko": "대구에서 국민의힘 당원 1325명이 보수 정당의 오만과 대구의 침체에 실망하며 집단 탈당하고 더불어민주당 김부겸 대구시장 후보 지지를 선언했다.",
+        "en": "1,325 People Power Party members in Daegu collectively defected from the party and declared support for Democratic Party Daegu mayoral candidate Kim Bu-gyeom, citing disillusionment with the conservative party's arrogance and Daegu's decline.",
+        "zh": "大邱1325名国民力量党党员因对保守党派的傲慢和大邱的衰落感到失望，集体退党并宣布支持共同民主党大邱市市长候选人金富谦。"
       }
     },
     {
-      "title": "오세훈 \"정원오 칸쿤 출장, 서울시 공무원이었으면 파면\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6821574_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Mon, 11 May 2026 09:12:59 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/11/lyj_260511_35.jpg",
+      "title": "비 내리는 월요일, 일부 지역엔 ‘우박’…변덕스러운 봄 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1258017.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 10 May 2026 23:30:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/660/imgdb/original/2026/0511/8417784555160848.webp",
       "summaries": {
-        "ko": "오세훈 \"정원오 칸쿤 출장, 서울시 공무원이었으면 파면\" - MBC 뉴스",
-        "en": "오세훈 \"정원오 칸쿤 출장, 서울시 공무원이었으면 파면\" - MBC 뉴스",
-        "zh": "오세훈 \"정원오 칸쿤 출장, 서울시 공무원이었으면 파면\" - MBC 뉴스"
+        "ko": "비 내리는 월요일, 일부 지역엔 ‘우박’…변덕스러운 봄 - 한겨레",
+        "en": "비 내리는 월요일, 일부 지역엔 ‘우박’…변덕스러운 봄 - 한겨레",
+        "zh": "비 내리는 월요일, 일부 지역엔 ‘우박’…변덕스러운 봄 - 한겨레"
       }
     },
     {
-      "title": "\"두 괴물 사이에 낀 중견국들\"…미중 담판에 떨고 있다",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260512023130jZ0",
+      "title": "[속보] 한미국방장관 회담 공동보도문…\"상호 안보이익 협력\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260512040708Zg5",
       "source": "Breaking News",
-      "pubDate": "Tue, 12 May 2026 02:31:31 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260511/AKR20260512023130jZ0_01_i.jpg",
+      "pubDate": "Tue, 12 May 2026 04:07:09 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260511/AKR20260512040708Zg5_01_i.jpg",
       "summaries": {
-        "ko": "\"두 괴물 사이에 낀 중견국들\"…미중 담판에 떨고 있다",
-        "en": "\"두 괴물 사이에 낀 중견국들\"…미중 담판에 떨고 있다",
-        "zh": "\"두 괴물 사이에 낀 중견국들\"…미중 담판에 떨고 있다"
-      }
-    },
-    {
-      "title": "트럼프 \"이란 제안은 쓰레기…휴전 가장 약한 상태\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260512022254JXC",
-      "source": "Breaking News",
-      "pubDate": "Tue, 12 May 2026 02:22:54 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260511/AKR20260512022254JXC_01_i.jpg",
-      "summaries": {
-        "ko": "트럼프 \"이란 제안은 쓰레기…휴전 가장 약한 상태\"",
-        "en": "트럼프 \"이란 제안은 쓰레기…휴전 가장 약한 상태\"",
-        "zh": "트럼프 \"이란 제안은 쓰레기…휴전 가장 약한 상태\""
-      }
-    },
-    {
-      "title": "[속보] 트럼프 \"이란전 휴전 가장 약한 상태…연명장치 의존\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260512010230tXu",
-      "source": "Breaking News",
-      "pubDate": "Tue, 12 May 2026 01:02:32 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260511/AKR20260512010230tXu_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 트럼프 \"이란전 휴전 가장 약한 상태…연명장치 의존\"",
-        "en": "[속보] 트럼프 \"이란전 휴전 가장 약한 상태…연명장치 의존\"",
-        "zh": "[속보] 트럼프 \"이란전 휴전 가장 약한 상태…연명장치 의존\""
+        "ko": "[속보] 한미국방장관 회담 공동보도문…\"상호 안보이익 협력\"",
+        "en": "[속보] 한미국방장관 회담 공동보도문…\"상호 안보이익 협력\"",
+        "zh": "[속보] 한미국방장관 회담 공동보도문…\"상호 안보이익 협력\""
       }
     }
   ]
