@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-05-11T00:10:01.269485",
+  "lastUpdate": "2026-05-11T04:20:51.883481",
   "items": [
+    {
+      "title": "[속보] 2차 고유가 지원금 18일부터…3600만명에 10만~25만원 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/area_general/1258045.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 11 May 2026 02:38:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0511/20260511501233.webp",
+      "summaries": {
+        "ko": "행정안전부는 국민 70%인 약 3600만명에게 가구별 건강보험료 기준에 따라 10만~25만원을 지급하는 2차 고유가 지원금을 5월 18일부터 신청받는다고 발표했다.",
+        "en": "The Ministry of Interior and Safety announced that the second high oil price support fund, providing 100,000 to 250,000 won based on household health insurance premiums to approximately 36 million people (70% of the population), will be open for applications starting May 18th.",
+        "zh": "韩国行政安全部宣布，第二轮高油价支援金将于5月18日起开放申请，根据家庭健康保险费标准，向约3600万名（占总人口70%）国民每人发放10万至25万韩元。"
+      }
+    },
     {
       "title": "트럼프 \"종전안 이란 답변, 완전히 용납 불가\"… 협상 좌초하나 - 조선일보",
       "link": "https://www.chosun.com/international/us/2026/05/11/33FPBZGXL5DZBMH2D4KGUBKN7I/",
@@ -14,111 +26,99 @@
       }
     },
     {
-      "title": "부산 ‘북갑대전’ 개막…박민식·한동훈 ‘맞불’ 개소식, 하정우 1시간 뒤 ‘참전’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1257966.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 10 May 2026 10:47:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0510/7417784041738994.webp",
-      "summaries": {
-        "ko": "부산 북갑 국회의원 보궐선거에 출마한 박민식(국민의힘)과 한동훈(무소속) 후보가 같은 날 같은 시각에 선거사무소 개소식을 열어 치열한 세 대결을 펼쳤으며, 하정우(더불어민주당) 후보도 뒤이어 개소식을 개최하며 삼파전의 막을 올렸다.",
-        "en": "In the Busan Buk-gap National Assembly by-election, candidates Park Min-sik (People Power Party) and Han Dong-hoon (independent) held rival election office opening ceremonies simultaneously and nearby, with Ha Jung-woo (Democratic Party) following an hour later, marking the official start of a fierce three-way contest.",
-        "zh": "在釜山北甲国会议员补选开幕之际，人民力量党候选人朴敏植与无党籍候选人韩东勋同时在附近举行了竞选办公室开幕式，随后共同民主党候选人河正宇也举行了开幕式，正式拉开了激烈的三角竞争序幕。"
-      }
-    },
-    {
-      "title": "헌법 전문에 ‘윤 어게인’ 주장 넣자는 국힘…어그러진 개헌의 미래는 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1257896.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 10 May 2026 09:39:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/569/imgdb/original/2026/0508/20260508501886.webp",
-      "summaries": {
-        "ko": "헌법 전문에 ‘윤 어게인’ 주장 넣자는 국힘…어그러진 개헌의 미래는 - 한겨레",
-        "en": "헌법 전문에 ‘윤 어게인’ 주장 넣자는 국힘…어그러진 개헌의 미래는 - 한겨레",
-        "zh": "헌법 전문에 ‘윤 어게인’ 주장 넣자는 국힘…어그러진 개헌의 미래는 - 한겨레"
-      }
-    },
-    {
-      "title": "이란 \"미국의 대이란 제재 동참하면 호르무즈 통과 못해\" 경고 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/world/article/6821334_36925.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sun, 10 May 2026 11:59:19 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/05/10/jh_20260510_56.jpg",
-      "summaries": {
-        "ko": "이란 \"미국의 대이란 제재 동참하면 호르무즈 통과 못해\" 경고 - MBC 뉴스",
-        "en": "이란 \"미국의 대이란 제재 동참하면 호르무즈 통과 못해\" 경고 - MBC 뉴스",
-        "zh": "이란 \"미국의 대이란 제재 동참하면 호르무즈 통과 못해\" 경고 - MBC 뉴스"
-      }
-    },
-    {
-      "title": "[더 한장] \"고유가 지원금 언제 받죠?\" 오늘 2차 지원금 기준 발표 - 조선일보",
-      "link": "https://www.chosun.com/video_photo/2026/05/11/I7CYH3JJ2NDMJDXPE3GNEMZ754/",
-      "source": "조선일보",
-      "pubDate": "Sun, 10 May 2026 21:00:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/JXP3WMKNKBCLJGJLCND5QI2QX4.jpg?auth=e9c84780c04cb03a9b2006cace92541b8c8c5a25c19694512de7c4ba90c4df2a&width=1200&height=630&focal=1879,645",
-      "summaries": {
-        "ko": "[더 한장] \"고유가 지원금 언제 받죠?\" 오늘 2차 지원금 기준 발표 - 조선일보",
-        "en": "[더 한장] \"고유가 지원금 언제 받죠?\" 오늘 2차 지원금 기준 발표 - 조선일보",
-        "zh": "[더 한장] \"고유가 지원금 언제 받죠?\" 오늘 2차 지원금 기준 발표 - 조선일보"
-      }
-    },
-    {
-      "title": "여고생 살해범, 이틀 전 동남아女 스토킹으로 신고됐다 - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260510/133891825/1",
-      "source": "동아일보",
-      "pubDate": "Sun, 10 May 2026 04:56:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/10/133892145.1.jpg",
-      "summaries": {
-        "ko": "여고생 살해범, 이틀 전 동남아女 스토킹으로 신고됐다 - 동아일보",
-        "en": "여고생 살해범, 이틀 전 동남아女 스토킹으로 신고됐다 - 동아일보",
-        "zh": "여고생 살해범, 이틀 전 동남아女 스토킹으로 신고됐다 - 동아일보"
-      }
-    },
-    {
-      "title": "월요일 전국 비... 곳곳에 돌풍·천둥 - 조선일보",
-      "link": "https://www.chosun.com/national/transport-environment/2026/05/10/MNSLMRAVCBH7BMZXOYJYRXAYHU/",
-      "source": "조선일보",
-      "pubDate": "Sun, 10 May 2026 04:17:55 GMT",
-      "image": "https://www.chosun.com/resizer/v2/55CY3ZGTGVLD5M6JIFFBHKNLSQ.jpg?auth=6fc7e0cb093aebc1eb752cb861e6ea1da94133deaa281569fc8a282b9fc26207&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "월요일 전국 비... 곳곳에 돌풍·천둥 - 조선일보",
-        "en": "월요일 전국 비... 곳곳에 돌풍·천둥 - 조선일보",
-        "zh": "월요일 전국 비... 곳곳에 돌풍·천둥 - 조선일보"
-      }
-    },
-    {
-      "title": "민주당 '무소속 출마' 김관영에 \"영구복당 불허 대상\" 경고 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6821296_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sun, 10 May 2026 09:37:16 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/10/lyj_260510_26.jpg",
-      "summaries": {
-        "ko": "민주당 '무소속 출마' 김관영에 \"영구복당 불허 대상\" 경고 - MBC 뉴스",
-        "en": "민주당 '무소속 출마' 김관영에 \"영구복당 불허 대상\" 경고 - MBC 뉴스",
-        "zh": "민주당 '무소속 출마' 김관영에 \"영구복당 불허 대상\" 경고 - MBC 뉴스"
-      }
-    },
-    {
-      "title": "두 달간 ‘부·울·경’ 5번 간 정청래…좁혀지는 지지율 격차 속 표심 공략 통할까 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605101748001",
+      "title": "경찰, 이상동기 범죄에 적극 대응…“검거 시 시도 광수대 즉시 투입” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605111202001",
       "source": "경향신문",
-      "pubDate": "Sun, 10 May 2026 08:48:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/10/rcv.YNA.20260509.PYH2026050902670005100_P1.jpg",
+      "pubDate": "Mon, 11 May 2026 03:02:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/11/news-p.v1.20260511.7bc9f50808574ebaa1f055204201dca4_P1.png",
       "summaries": {
-        "ko": "두 달간 ‘부·울·경’ 5번 간 정청래…좁혀지는 지지율 격차 속 표심 공략 통할까 - 경향신문",
-        "en": "두 달간 ‘부·울·경’ 5번 간 정청래…좁혀지는 지지율 격차 속 표심 공략 통할까 - 경향신문",
-        "zh": "두 달간 ‘부·울·경’ 5번 간 정청래…좁혀지는 지지율 격차 속 표심 공략 통할까 - 경향신문"
+        "ko": "경찰, 이상동기 범죄에 적극 대응…“검거 시 시도 광수대 즉시 투입” - 경향신문",
+        "en": "경찰, 이상동기 범죄에 적극 대응…“검거 시 시도 광수대 즉시 투입” - 경향신문",
+        "zh": "경찰, 이상동기 범죄에 적극 대응…“검거 시 시도 광수대 즉시 투입” - 경향신문"
       }
     },
     {
-      "title": "코스피, 사상 첫 7,800선 돌파…최고치 경신",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260511090829erW",
-      "source": "Breaking News",
-      "pubDate": "Mon, 11 May 2026 09:08:30 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260511/AKR20260511090829erW_01_i.jpg",
+      "title": "‘도이치 수사 무마 의혹’ 최재훈 부장검사 “외압 없었다”…특검팀 출석 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1258033.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 11 May 2026 01:38:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/569/imgdb/original/2026/0511/20260511501009.webp",
       "summaries": {
-        "ko": "코스피, 사상 첫 7,800선 돌파…최고치 경신",
-        "en": "코스피, 사상 첫 7,800선 돌파…최고치 경신",
-        "zh": "코스피, 사상 첫 7,800선 돌파…최고치 경신"
+        "ko": "‘도이치 수사 무마 의혹’ 최재훈 부장검사 “외압 없었다”…특검팀 출석 - 한겨레",
+        "en": "‘도이치 수사 무마 의혹’ 최재훈 부장검사 “외압 없었다”…특검팀 출석 - 한겨레",
+        "zh": "‘도이치 수사 무마 의혹’ 최재훈 부장검사 “외압 없었다”…특검팀 출석 - 한겨레"
+      }
+    },
+    {
+      "title": "국민의힘 “정부, ‘나무호 피격’ 늦장 대응…외통위·국방위 열어야” - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8557634",
+      "source": "KBS 뉴스",
+      "pubDate": "Mon, 11 May 2026 02:42:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/05/11/20260511_rHk1jh.png",
+      "summaries": {
+        "ko": "국민의힘 “정부, ‘나무호 피격’ 늦장 대응…외통위·국방위 열어야” - KBS 뉴스",
+        "en": "국민의힘 “정부, ‘나무호 피격’ 늦장 대응…외통위·국방위 열어야” - KBS 뉴스",
+        "zh": "국민의힘 “정부, ‘나무호 피격’ 늦장 대응…외통위·국방위 열어야” - KBS 뉴스"
+      }
+    },
+    {
+      "title": "박민식 \"韓청와대 간다는 태도, 지역 무시\" 한동훈 \"朴 찍으면 張 찍는 것\" - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/05/11/JIUJUBWLSFC37MJANQG54HZISQ/",
+      "source": "조선일보",
+      "pubDate": "Mon, 11 May 2026 01:35:04 GMT",
+      "image": "https://www.chosun.com/resizer/v2/L6L6P2N2ANFJNNWY2VEUQ5B4ZQ.jpg?auth=6db4c9590027762f9631b0fdabee740f003122f3bb445111b03f13b9df11bc2b&width=1036&height=543&smart=true",
+      "summaries": {
+        "ko": "박민식 \"韓청와대 간다는 태도, 지역 무시\" 한동훈 \"朴 찍으면 張 찍는 것\" - 조선일보",
+        "en": "박민식 \"韓청와대 간다는 태도, 지역 무시\" 한동훈 \"朴 찍으면 張 찍는 것\" - 조선일보",
+        "zh": "박민식 \"韓청와대 간다는 태도, 지역 무시\" 한동훈 \"朴 찍으면 張 찍는 것\" - 조선일보"
+      }
+    },
+    {
+      "title": "이 대통령, ‘비거주 1주택 토허제 예외’ 관련 “갭투자 허용 주장 ‘억까’” - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8557318",
+      "source": "KBS 뉴스",
+      "pubDate": "Sun, 10 May 2026 22:45:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/05/11/20260511_4jmlIW.jpg",
+      "summaries": {
+        "ko": "이 대통령, ‘비거주 1주택 토허제 예외’ 관련 “갭투자 허용 주장 ‘억까’” - KBS 뉴스",
+        "en": "이 대통령, ‘비거주 1주택 토허제 예외’ 관련 “갭투자 허용 주장 ‘억까’” - KBS 뉴스",
+        "zh": "이 대통령, ‘비거주 1주택 토허제 예외’ 관련 “갭투자 허용 주장 ‘억까’” - KBS 뉴스"
+      }
+    },
+    {
+      "title": "비현실적 ‘대가족 84점 만점통장’ 전수조사…부정청약 잡아낸다 - 동아일보",
+      "link": "https://www.donga.com/news/Economy/article/all/20260511/133896306/2",
+      "source": "동아일보",
+      "pubDate": "Mon, 11 May 2026 01:10:29 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/11/133858260.3.jpg",
+      "summaries": {
+        "ko": "비현실적 ‘대가족 84점 만점통장’ 전수조사…부정청약 잡아낸다 - 동아일보",
+        "en": "비현실적 ‘대가족 84점 만점통장’ 전수조사…부정청약 잡아낸다 - 동아일보",
+        "zh": "비현실적 ‘대가족 84점 만점통장’ 전수조사…부정청약 잡아낸다 - 동아일보"
+      }
+    },
+    {
+      "title": "비 내리는 월요일, 일부 지역엔 ‘우박’…변덕스러운 봄 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1258017.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 10 May 2026 23:30:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/660/imgdb/original/2026/0511/8417784555160848.webp",
+      "summaries": {
+        "ko": "비 내리는 월요일, 일부 지역엔 ‘우박’…변덕스러운 봄 - 한겨레",
+        "en": "비 내리는 월요일, 일부 지역엔 ‘우박’…변덕스러운 봄 - 한겨레",
+        "zh": "비 내리는 월요일, 일부 지역엔 ‘우박’…변덕스러운 봄 - 한겨레"
+      }
+    },
+    {
+      "title": "‘무쟁점 개헌안’ 반대하고 건국·새마을운동 넣자는 국힘…민주당, ‘필버 요건 강화’ 법 개정 재시동 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605101813001",
+      "source": "경향신문",
+      "pubDate": "Sun, 10 May 2026 09:13:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/10/rcv.YNA.20260508.PYH2026050812030001300_P1.jpg",
+      "summaries": {
+        "ko": "‘무쟁점 개헌안’ 반대하고 건국·새마을운동 넣자는 국힘…민주당, ‘필버 요건 강화’ 법 개정 재시동 - 경향신문",
+        "en": "‘무쟁점 개헌안’ 반대하고 건국·새마을운동 넣자는 국힘…민주당, ‘필버 요건 강화’ 법 개정 재시동 - 경향신문",
+        "zh": "‘무쟁점 개헌안’ 반대하고 건국·새마을운동 넣자는 국힘…민주당, ‘필버 요건 강화’ 법 개정 재시동 - 경향신문"
       }
     }
   ]
