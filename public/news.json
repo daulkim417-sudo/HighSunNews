@@ -1,52 +1,28 @@
 {
-  "lastUpdate": "2026-05-12T09:23:02.660227",
+  "lastUpdate": "2026-05-12T11:30:25.949206",
   "items": [
     {
-      "title": "이상민 형량 올린 2심 “언론사 단전·단수, 합법계엄에도 허용 안되는 위법” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1258296.html",
+      "title": "‘언론사 단전·단수’ 이상민, 2심 징역 9년... 1심보다 2년 늘어 - 조선일보",
+      "link": "https://www.chosun.com/national/court_law/2026/05/12/3BAVDUTBKNHDRNLPWWLZ56YLEA/",
+      "source": "조선일보",
+      "pubDate": "Tue, 12 May 2026 08:16:09 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GBSTGZLCMU3TANDDGNQTOMRQMY.jpg?auth=f92418fde7071ea3d7a0e18b5f07fa59273b9c4f1ca1f71eb1923260608c8eed&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "‘언론사 단전·단수’ 이상민, 2심 징역 9년... 1심보다 2년 늘어 - 조선일보",
+        "en": "‘언론사 단전·단수’ 이상민, 2심 징역 9년... 1심보다 2년 늘어 - 조선일보",
+        "zh": "‘언론사 단전·단수’ 이상민, 2심 징역 9년... 1심보다 2년 늘어 - 조선일보"
+      }
+    },
+    {
+      "title": "주왕산 실종 초등생 사흘만에 주검으로…험한 길 실족 가능성 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/yeongnam/1258354.html",
       "source": "한겨레",
-      "pubDate": "Tue, 12 May 2026 07:48:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/870/522/imgdb/child/2026/0512/53_17785718262042_20260512502837.webp",
+      "pubDate": "Tue, 12 May 2026 10:44:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/860/930/imgdb/child/2026/0512/17785760935962_20260512503406.webp",
       "summaries": {
-        "ko": "이상민 전 행정안전부 장관이 '12·3 비상계엄' 당시 언론사 단전·단수를 지시한 혐의로 2심에서 1심보다 가중된 징역 9년을 선고받았는데, 재판부는 그의 행위를 \"합법적 계엄에도 허용될 수 없는 위법\"이라며 죄책이 무겁다고 판단했다.",
-        "en": "Former Minister of Interior and Safety Lee Sang-min received an increased sentence of 9 years in prison in the appellate court for ordering power and water cutoffs to media companies during the '12·3 emergency martial law,' with the court deeming his actions \"illegal even under legal martial law\" and emphasizing their severe culpability.",
-        "zh": "前行政安全部长李相民因在“12·3紧急戒严”期间指示切断媒体公司水电的嫌疑，在二审中被判处比一审更重的9年有期徒刑；法院认为其行为“即使在合法戒严情况下也不允许，属于违法”，并判定其罪责非常严重。"
-      }
-    },
-    {
-      "title": "끝내 주왕산서 돌아오지 못한 초등생···급경사 협곡에서 무슨 일이 있었나 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605121644001",
-      "source": "경향신문",
-      "pubDate": "Tue, 12 May 2026 07:44:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/12/news-p.v1.20260512.6a74fa97a6fd4218acfa93f2e6ead55b_P1.png",
-      "summaries": {
-        "ko": "주왕산국립공원에서 실종된 초등학생이 사흘 만에 급경사 협곡에서 숨진 채 발견되었으며, 당국은 길을 잃거나 탈진 또는 실족했을 가능성 등을 조사 중이다.",
-        "en": "A primary school student who went missing in Juwangsan National Park was found dead three days later in a steep gorge off the main trail, with authorities investigating possibilities such as getting lost, exhaustion, or an accidental fall.",
-        "zh": "一名在周王山国立公园失踪的小学生三天后在一个陡峭的峡谷中被发现死亡，当局正在调查迷路、精疲力尽或意外坠落等可能性。"
-      }
-    },
-    {
-      "title": "[전문]'국민배당금' 꺼낸 정책실장...'차원이 다른 나라, AI 시대 한국의 장기 전략' - 오마이뉴스",
-      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003233319",
-      "source": "오마이뉴스",
-      "pubDate": "Tue, 12 May 2026 01:30:00 GMT",
-      "image": "https://ojsfile.ohmynews.com/CRI_T_IMG/2026/0512/A0003233319_T.jpg",
-      "summaries": {
-        "ko": "이 글은 AI 시대를 맞아 한국 경제가 단순한 경기 순환을 넘어 산업 및 국가 구조가 재편되는 '기술독점경제'로 전환될 가능성을 논한다.",
-        "en": "The article discusses the possibility that, in the AI era, South Korea's economy is transitioning beyond mere business cycles towards a \"technology-monopoly economy\" involving a restructuring of industrial and national frameworks.",
-        "zh": "这篇文章讨论了在AI时代，韩国经济可能超越简单的商业周期，转变为涉及产业和国家结构重组的“技术垄断经济”的可能性。"
-      }
-    },
-    {
-      "title": "조현 “나무호 타격 비행체 잔해, 곧 한국 도착”…국방부서 정밀 조사 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1258297.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 12 May 2026 08:35:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/428/imgdb/original/2026/0512/20260512503002.webp",
-      "summaries": {
-        "ko": "조현 외교부 장관이 호르무즈해협에서 한국 선박 나무호를 공격한 비행체의 잔해를 국내로 들여와 국방부 등 전문기관이 정밀 조사를 벌여 기종과 공격 주체를 파악할 것이라고 밝혔다.",
-        "en": "Foreign Minister Cho Hyun announced that debris from the aircraft that attacked the South Korean vessel 'Nammuho' in the Strait of Hormuz will be brought to South Korea for a detailed investigation by the Ministry of National Defense and other specialized agencies to identify its type and the perpetrator.",
-        "zh": "韩国外交部长赵贤表示，将把在霍尔木兹海峡袭击韩国船只“南木号”的飞行器残骸运回韩国，由国防部等专业机构进行精密调查，以查明其型号和攻击主体。"
+        "ko": "청송 주왕산국립공원에서 실종된 초등학생이 사흘 만에 주검으로 발견됐으며, 험한 등산로에서 400여m 떨어진 협곡에서 실족했을 가능성이 제기되고 있다.",
+        "en": "An 11-year-old elementary student who went missing in Cheongsong Juwangsan National Park was found dead three days later in a steep gorge 400 meters off the main trail, with authorities suggesting a fall as a possible cause.",
+        "zh": "在清松周王山国家公园失踪的一名11岁小学生在三天后被发现死亡，他被发现在距离主要登山道约400米的陡峭峡谷中，当局推测可能因失足坠落。"
       }
     },
     {
@@ -56,21 +32,57 @@
       "pubDate": "Tue, 12 May 2026 06:57:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/05/12/news-p.v1.20260403.9756d89958a140038e19fe4f99c0d05d_P1.jpeg",
       "summaries": {
-        "ko": "구자현 검찰총장 직무대행이 쌍방울 수사 중 '술 파티 의혹' 등으로 징계 대상에 오른 박상용 검사의 징계 청구 여부와 수위를 두고 대내외적 압박 속에서 고심하며, 징계 시효가 임박했다.",
-        "en": "Acting Prosecutor General Koo Ja-hyun is deliberating whether to request disciplinary action and at what level against Prosecutor Park Sang-yong, who faces accusations including an 'alcohol party' during the Ssangbangul investigation, amid significant internal and external pressure as the disciplinary deadline nears.",
-        "zh": "代理检察总长具滋贤正在内外压力下，就双铃调查期间涉嫌‘酒会’等不当行为的朴尚勇检察官的纪律处分请求及处分程度进行深思，因纪律处分时效临近。"
+        "ko": "구자현 검찰총장 직무대행이 '술 파티 의혹'을 받는 박상용 검사에 대한 징계 청구 여부와 수위를 오는 17일 시효 전까지 결정해야 하는 상황에서 대내외적 압력 속에 고심하고 있다.",
+        "en": "Acting Prosecutor General Gu Ja-hyun is deliberating whether and at what level to request disciplinary action against prosecutor Park Sang-yong, who is accused of an 'alcohol party,' amid internal and external pressure, with the decision deadline approaching on June 17.",
+        "zh": "代理检察总长具滋贤正在面临内外部压力，需在6月17日截止日期前决定是否以及如何对被指控参与“酒会”的检察官朴相勇提出纪律处分。"
+      }
+    },
+    {
+      "title": "김용범 “AI시대 초과이윤 ‘국민배당금’ 환원” 주장에,, 野 “사회주의식” 비판 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260512/133906303/2",
+      "source": "동아일보",
+      "pubDate": "Tue, 12 May 2026 06:47:19 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/12/133906299.3.jpg",
+      "summaries": {
+        "ko": "김용범 “AI시대 초과이윤 ‘국민배당금’ 환원” 주장에,, 野 “사회주의식” 비판 - 동아일보",
+        "en": "김용범 “AI시대 초과이윤 ‘국민배당금’ 환원” 주장에,, 野 “사회주의식” 비판 - 동아일보",
+        "zh": "김용범 “AI시대 초과이윤 ‘국민배당금’ 환원” 주장에,, 野 “사회주의식” 비판 - 동아일보"
+      }
+    },
+    {
+      "title": "조현 “나무호 타격 비행체 잔해, 곧 한국 도착”…국방부서 정밀 조사 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1258297.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 12 May 2026 08:35:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/428/imgdb/original/2026/0512/20260512503002.webp",
+      "summaries": {
+        "ko": "조현 외교부 장관은 호르무즈해협에서 한국 선박 나무호를 공격한 비행체 잔해가 국내로 곧 도착하여 국방부 등 전문기관에서 기종과 공격 주체 파악을 위한 정밀 조사를 진행할 것이라고 밝혔다.",
+        "en": "Foreign Minister Cho Hyun announced that the wreckage of the flying object that attacked the Korean vessel Nam-ho in the Strait of Hormuz will soon arrive in South Korea for a detailed investigation by the Ministry of National Defense and other expert institutions to identify its type and the perpetrator.",
+        "zh": "韩国外交部长赵贤宣布，在霍尔木兹海峡袭击韩国船只“南号”的飞行器残骸即将运抵韩国，将由国防部等专业机构进行精密调查，以确定其型号和袭击主体。"
+      }
+    },
+    {
+      "title": "[단독] 이 대통령, 13일 미 베선트·중 허리펑 만난다 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605121820001",
+      "source": "경향신문",
+      "pubDate": "Tue, 12 May 2026 09:20:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/12/news-p.v1.20260512.1e46063618ed464aa9d0abc8bd05af45_P1.jpeg",
+      "summaries": {
+        "ko": "이재명 대통령이 13일 미중 정상회담 사전 조율을 위해 방한한 스콧 베선트 미국 재무부 장관과 허리펑 중국 국무원 부총리를 각각 만나 국제 정세 및 경제 현안을 논의한다.",
+        "en": "President Lee Jae-myung will meet separately with U.S. Treasury Secretary Scott Bessant and Chinese Vice Premier He Lifeng on the 13th, who are visiting South Korea for preliminary coordination ahead of the U.S.-China summit, to discuss international affairs and economic issues.",
+        "zh": "李在明总统将于13日分别会见因中美峰会预备协调而访韩的美国财政部长斯科特·贝桑特和中国国务院副总理何立峰，讨论国际局势和经济议题。"
       }
     },
     {
       "title": "‘받들어 총’ 논란에도 오세훈 준공식 참여…“선거법 위반 소지” 비판 - 한겨레",
       "link": "https://www.hani.co.kr/arti/area/capital/1258280.html",
       "source": "한겨레",
-      "pubDate": "Tue, 12 May 2026 07:11:00 GMT",
+      "pubDate": "Tue, 12 May 2026 10:17:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/701/467/imgdb/original/2026/0512/20260512502651.webp",
       "summaries": {
-        "ko": "오세훈 서울시장 후보가 '받들어 총' 조형물 논란이 있는 광화문광장 '감사의 정원' 준공식에 참석하여 군사주의적 비판과 선거법 위반 소지 비판을 받고 있다.",
-        "en": "Seoul mayoral candidate Oh Se-hoon attended the completion ceremony for the \"Garden of Gratitude\" in Gwanghwamun Plaza, which features controversial \"present arms\" sculptures, drawing criticism for its militaristic nature and potential violation of election laws.",
-        "zh": "首尔市长候选人吴世勋出席了光化门广场“感恩花园”的竣工仪式，该花园因其“敬礼枪”造型雕塑引发争议，吴世勋因此遭到军事化色彩和可能违反选举法的批评。"
+        "ko": "서울시장 후보 오세훈이 6.25 참전국을 상징하는 '받들어 총' 조형물로 논란이 된 광화문광장 '감사의 정원' 준공식에 참석하여, 군사주의적 분위기와 선거용이라는 비판을 받고 있으며 선거법 위반 소지까지 제기되었다.",
+        "en": "Seoul mayoral candidate Oh Se-hoon attended the dedication ceremony for the 'Garden of Gratitude' in Gwanghwamun Square, controversial for its \"present arms\"-like sculptures symbolizing Korean War nations, facing criticism for its militaristic tone and alleged electioneering, with concerns raised about potential election law violations.",
+        "zh": "首尔市长候选人吴世勋出席了光化门广场“感谢花园”的竣工仪式，该花园因象征朝鲜战争参战国的“举枪敬礼”雕塑引发争议，遭到对其军事化氛围和涉嫌选举造势的批评，并被指出可能违反选举法。"
       }
     },
     {
@@ -86,39 +98,27 @@
       }
     },
     {
-      "title": "여당, 김건희 선상파티 무혐의에 \"경찰, 국민 바보로 아냐\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6821762_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 12 May 2026 02:06:12 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/12/ggm_20260512_17.jpg",
+      "title": "“집값 올랐으니 웃돈 더 내놔” 싸우다 자폭…‘24억 특공’ 불법 전매 일당 검찰행 - 매일경제",
+      "link": "https://www.mk.co.kr/news/society/12044667",
+      "source": "매일경제",
+      "pubDate": "Tue, 12 May 2026 05:52:58 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202605/12/rcv.NEWS1.NEWS1.20260504.2026-05-04T143808_1007888940_REALESTATE_I_R.jpg",
       "summaries": {
-        "ko": "여당, 김건희 선상파티 무혐의에 \"경찰, 국민 바보로 아냐\" - MBC 뉴스",
-        "en": "여당, 김건희 선상파티 무혐의에 \"경찰, 국민 바보로 아냐\" - MBC 뉴스",
-        "zh": "여당, 김건희 선상파티 무혐의에 \"경찰, 국민 바보로 아냐\" - MBC 뉴스"
+        "ko": "“집값 올랐으니 웃돈 더 내놔” 싸우다 자폭…‘24억 특공’ 불법 전매 일당 검찰행 - 매일경제",
+        "en": "“집값 올랐으니 웃돈 더 내놔” 싸우다 자폭…‘24억 특공’ 불법 전매 일당 검찰행 - 매일경제",
+        "zh": "“집값 올랐으니 웃돈 더 내놔” 싸우다 자폭…‘24억 특공’ 불법 전매 일당 검찰행 - 매일경제"
       }
     },
     {
-      "title": "조현 \"나무호 타격 비행체 잔해 곧 도착\"…외교행낭 이용",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260512182123sIF",
+      "title": "[속보] 국힘 충남 공주·부여·청양 보선 후보에 윤용근",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260512202328yi4",
       "source": "Breaking News",
-      "pubDate": "Tue, 12 May 2026 18:21:38 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260512/MYH20260512182123sIF.jpg",
+      "pubDate": "Tue, 12 May 2026 20:23:30 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260512/AKR20260512202328yi4_01_i.jpg",
       "summaries": {
-        "ko": "조현 외교부 장관은 호르무즈 해협에서 한국 선박 나무호를 타격한 비행체의 잔해가 외교행낭을 통해 곧 국내에 도착하여 국방부 등에서 조사할 것이라고 밝혔습니다.",
-        "en": "Foreign Minister Cho Hyun announced that debris from the flying object that attacked the South Korean ship Namuho in the Strait of Hormuz is expected to arrive in South Korea soon via diplomatic pouch for investigation by the Ministry of National Defense and other agencies.",
-        "zh": "外交部长赵贤宣布，袭击霍尔木兹海峡韩国船只“Namuho”的飞行器残骸预计将通过外交邮袋很快运抵韩国，并由国防部等机构进行调查。"
-      }
-    },
-    {
-      "title": "이란 \"어떤 침략에도 대응…깜짝 놀랄 것\" 맞불",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260512181941Vrs",
-      "source": "Breaking News",
-      "pubDate": "Tue, 12 May 2026 18:20:08 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260512/MYH20260512181941Vrs.jpg",
-      "summaries": {
-        "ko": "이란 \"어떤 침략에도 대응…깜짝 놀랄 것\" 맞불",
-        "en": "이란 \"어떤 침략에도 대응…깜짝 놀랄 것\" 맞불",
-        "zh": "이란 \"어떤 침략에도 대응…깜짝 놀랄 것\" 맞불"
+        "ko": "[속보] 국힘 충남 공주·부여·청양 보선 후보에 윤용근",
+        "en": "[속보] 국힘 충남 공주·부여·청양 보선 후보에 윤용근",
+        "zh": "[속보] 국힘 충남 공주·부여·청양 보선 후보에 윤용근"
       }
     }
   ]
