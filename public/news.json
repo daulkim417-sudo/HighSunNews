@@ -1,52 +1,100 @@
 {
-  "lastUpdate": "2026-05-12T13:21:09.946884",
+  "lastUpdate": "2026-05-12T15:49:36.259661",
   "items": [
-    {
-      "title": "‘사망 초등생’ 등산로서 400m 떨어진 협곡서 발견…“특별한 외상 안 보여” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/yeongnam/1258354.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 12 May 2026 12:15:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/860/930/imgdb/child/2026/0512/17785760935962_20260512503406.webp",
-      "summaries": {
-        "ko": "주왕산국립공원에서 실종됐던 11세 초등학생이 사흘 만에 등산로에서 400m 떨어진 가파른 협곡에서 숨진 채 발견되었으며, 외상은 없지만 실족했을 가능성이 제기된다.",
-        "en": "An 11-year-old elementary school student who went missing in Juwangsan National Park was found dead after three days in a steep gorge about 400m from the hiking trail, with no apparent external injuries, raising the possibility of an accidental fall.",
-        "zh": "在周王山国立公园失踪的一名11岁小学生在失踪三天后，于距离登山道约400米的一处陡峭峡谷中被发现死亡，虽然没有明显的外部损伤，但推测可能是失足坠落。"
-      }
-    },
-    {
-      "title": "‘언론사 단전·단수’ 이상민, 2심 징역 9년... 1심보다 2년 늘어 - 조선일보",
-      "link": "https://www.chosun.com/national/court_law/2026/05/12/3BAVDUTBKNHDRNLPWWLZ56YLEA/",
-      "source": "조선일보",
-      "pubDate": "Tue, 12 May 2026 08:16:09 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GBSTGZLCMU3TANDDGNQTOMRQMY.jpg?auth=f92418fde7071ea3d7a0e18b5f07fa59273b9c4f1ca1f71eb1923260608c8eed&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "‘언론사 단전·단수’ 이상민, 2심 징역 9년... 1심보다 2년 늘어 - 조선일보",
-        "en": "‘언론사 단전·단수’ 이상민, 2심 징역 9년... 1심보다 2년 늘어 - 조선일보",
-        "zh": "‘언론사 단전·단수’ 이상민, 2심 징역 9년... 1심보다 2년 늘어 - 조선일보"
-      }
-    },
-    {
-      "title": "김용범 “AI 과실 환원”…국민배당금 제안에 시장·정치권 ‘들썩’ - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605122035005",
-      "source": "경향신문",
-      "pubDate": "Tue, 12 May 2026 11:35:00 GMT",
-      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
-      "summaries": {
-        "ko": "김용범 청와대 정책실장이 AI 인프라 시대의 초과 이윤 일부를 전 국민에게 환원하는 '국민배당금제'를 제안하며 시장과 정치권에서 논쟁이 불거졌다.",
-        "en": "Presidential Policy Chief Kim Yong-beom proposed a \"National Dividend System\" to return a portion of the excess profits from the AI infrastructure era to the entire public, sparking debate in the market and political circles.",
-        "zh": "韩国青瓦台政策室长金容范提议设立“国民分红制度”，将AI基础设施时代的超额利润一部分返还给全民，引发了市场和政界的争议。"
-      }
-    },
     {
       "title": "대검, 박상용 검사 징계 청구 “자백 요구·편의 제공 확인” - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/society_general/1258355.html",
       "source": "한겨레",
-      "pubDate": "Tue, 12 May 2026 12:44:00 GMT",
+      "pubDate": "Tue, 12 May 2026 13:15:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/727/imgdb/original/2026/0512/20260512503630.webp",
       "summaries": {
-        "ko": "대검찰청이 쌍방울 대북송금 사건 수사 과정에서 부당한 자백 요구, 수사과정 미작성, 편의 제공 등 비위가 확인된 박상용 검사에 대해 법무부에 징계를 청구했다.",
-        "en": "The Supreme Prosecutors' Office requested the Ministry of Justice to discipline Prosecutor Park Sang-yong, who was found to have committed misconducts including unduly demanding confessions, failing to document investigation processes, and providing conveniences during the investigation of the Ssangbangwool illicit remittance case.",
-        "zh": "大检察厅已要求法务部对检察官朴相容进行纪律处分，因其在调查双铃对朝汇款案件中被证实存在不正当要求认罪、未记录调查过程以及提供便利等不当行为。"
+        "ko": "대검찰청이 박상용 인천지검 부부장검사의 쌍방울 대북송금 사건 수사 중 부당한 자백 요구, 수사 절차 위반 및 편의 제공 비위 등을 확인해 법무부에 징계를 청구했으나, 박 검사는 핵심 내용이 인정되지 않은 '표적 감찰'이라고 반박했다.",
+        "en": "The Supreme Prosecutors' Office requested disciplinary action against Incheon District Prosecutors' Office Deputy Chief Prosecutor Park Sang-yong, citing confirmed misconduct such as unfair demands for confession, violations of investigation procedures, and providing undue conveniences during the Ssangbangul North Korea remittance case investigation, while Park dismisses it as a 'targeted inspection' where core allegations were not acknowledged.",
+        "zh": "韩国大检察厅已确认仁川地方检察厅副部长检察官朴相勇在调查双铃对朝汇款案过程中存在不正当要求认罪、违反调查程序及提供便利等不当行为，并已向法务部请求对其进行纪律处分。然而，朴检察官反驳称其为'选择性监察'，表示核心指控并未被认定。"
+      }
+    },
+    {
+      "title": "이상민 2심 “내란, 엄중 처벌”…2년 늘려 9년형 선고 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605122033005",
+      "source": "경향신문",
+      "pubDate": "Tue, 12 May 2026 11:33:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/12/l_2026051301000362900032391.jpg",
+      "summaries": {
+        "ko": "이상민 2심 “내란, 엄중 처벌”…2년 늘려 9년형 선고 - 경향신문",
+        "en": "이상민 2심 “내란, 엄중 처벌”…2년 늘려 9년형 선고 - 경향신문",
+        "zh": "이상민 2심 “내란, 엄중 처벌”…2년 늘려 9년형 선고 - 경향신문"
+      }
+    },
+    {
+      "title": "트럼프 대통령, 미중 정상회담 위해 베이징행…’중동 전쟁·세계 경제’ 주요 의제 - VOA 한국어 홈페이지",
+      "link": "https://www.voakorea.com/a/middle-east-conflict-global-economy-set-to-be-focus-as-president-trump-heads-to-beijing-for-talks-with-xi-051226/8149204.html",
+      "source": "VOA 한국어 홈페이지",
+      "pubDate": "Tue, 12 May 2026 14:57:19 GMT",
+      "image": "https://gdb.voanews.com/33b64f75-be9d-4113-84ce-08de3bec8ac7_cx0_cy10_cw0_w1200_h630.jpg",
+      "summaries": {
+        "ko": "트럼프 대통령, 미중 정상회담 위해 베이징행…’중동 전쟁·세계 경제’ 주요 의제 - VOA 한국어 홈페이지",
+        "en": "트럼프 대통령, 미중 정상회담 위해 베이징행…’중동 전쟁·세계 경제’ 주요 의제 - VOA 한국어 홈페이지",
+        "zh": "트럼프 대통령, 미중 정상회담 위해 베이징행…’중동 전쟁·세계 경제’ 주요 의제 - VOA 한국어 홈페이지"
+      }
+    },
+    {
+      "title": "국힘 선대위 삐걱…“동의없이 임명” 반발에 중진 합류도 불발 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260512/133909703/1",
+      "source": "동아일보",
+      "pubDate": "Tue, 12 May 2026 12:34:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/12/133909801.1.jpg",
+      "summaries": {
+        "ko": "국힘 선대위 삐걱…“동의없이 임명” 반발에 중진 합류도 불발 - 동아일보",
+        "en": "국힘 선대위 삐걱…“동의없이 임명” 반발에 중진 합류도 불발 - 동아일보",
+        "zh": "국힘 선대위 삐걱…“동의없이 임명” 반발에 중진 합류도 불발 - 동아일보"
+      }
+    },
+    {
+      "title": "성평등부 “‘광주 여고생 살인사건’은 여성 대상 폭력...사각지대 점검하겠다” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605121810021",
+      "source": "경향신문",
+      "pubDate": "Tue, 12 May 2026 09:10:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/12/rcv.YNA.20260507.PYH2026050704440005400_P1.jpg",
+      "summaries": {
+        "ko": "성평등부 “‘광주 여고생 살인사건’은 여성 대상 폭력...사각지대 점검하겠다” - 경향신문",
+        "en": "성평등부 “‘광주 여고생 살인사건’은 여성 대상 폭력...사각지대 점검하겠다” - 경향신문",
+        "zh": "성평등부 “‘광주 여고생 살인사건’은 여성 대상 폭력...사각지대 점검하겠다” - 경향신문"
+      }
+    },
+    {
+      "title": "‘삼성 유니폼 어린 친구 못 돌아와’…야구팬들도 주왕산 초등생 추모 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1258323.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 12 May 2026 09:00:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/860/930/imgdb/child/2026/0512/17785760935962_20260512503406.webp",
+      "summaries": {
+        "ko": "‘삼성 유니폼 어린 친구 못 돌아와’…야구팬들도 주왕산 초등생 추모 - 한겨레",
+        "en": "‘삼성 유니폼 어린 친구 못 돌아와’…야구팬들도 주왕산 초등생 추모 - 한겨레",
+        "zh": "‘삼성 유니폼 어린 친구 못 돌아와’…야구팬들도 주왕산 초등생 추모 - 한겨레"
+      }
+    },
+    {
+      "title": "“목욕탕서 지지자들이 큰 소리로 막 싸웠어예” 부산 북갑 [현장] - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1258192.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 12 May 2026 02:31:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/547/imgdb/original/2026/0511/20260511503549.webp",
+      "summaries": {
+        "ko": "“목욕탕서 지지자들이 큰 소리로 막 싸웠어예” 부산 북갑 [현장] - 한겨레",
+        "en": "“목욕탕서 지지자들이 큰 소리로 막 싸웠어예” 부산 북갑 [현장] - 한겨레",
+        "zh": "“목욕탕서 지지자들이 큰 소리로 막 싸웠어예” 부산 북갑 [현장] - 한겨레"
+      }
+    },
+    {
+      "title": "삼성전자 노사 성과급 협상 막판까지 진통…‘제도화’ 놓고 팽팽 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/economy/economy_general/1258375.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 12 May 2026 13:00:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/634/imgdb/original/2026/0512/20260512503875.webp",
+      "summaries": {
+        "ko": "삼성전자 노사 성과급 협상 막판까지 진통…‘제도화’ 놓고 팽팽 - 한겨레",
+        "en": "삼성전자 노사 성과급 협상 막판까지 진통…‘제도화’ 놓고 팽팽 - 한겨레",
+        "zh": "삼성전자 노사 성과급 협상 막판까지 진통…‘제도화’ 놓고 팽팽 - 한겨레"
       }
     },
     {
@@ -56,69 +104,33 @@
       "pubDate": "Tue, 12 May 2026 10:17:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/701/467/imgdb/original/2026/0512/20260512502651.webp",
       "summaries": {
-        "ko": "오세훈 서울시장 후보가 '받들어 총' 논란이 있는 '감사의 정원' 준공식에 참석하여 군사주의적 조형물이 시민 공간에 부적절하다는 비판과 함께 선거용이라는 의혹을 받고 있다.",
-        "en": "Seoul mayoral candidate Oh Se-hoon attended the completion ceremony of the 'Garden of Gratitude,' which features controversial 'present arms' sculptures, drawing criticism for its militaristic aesthetic being inappropriate for a civic space and raising suspicions that it is electioneering.",
-        "zh": "首尔市长候选人吴世勋出席了因“举枪致敬”造型物引发争议的“感恩花园”竣工仪式，这不仅引来了对其军事化美学不适合市民空间的批评，也引发了该项目为选举造势的质疑。"
+        "ko": "‘받들어 총’ 논란에도 오세훈 준공식 참여…“선거법 위반 소지” 비판 - 한겨레",
+        "en": "‘받들어 총’ 논란에도 오세훈 준공식 참여…“선거법 위반 소지” 비판 - 한겨레",
+        "zh": "‘받들어 총’ 논란에도 오세훈 준공식 참여…“선거법 위반 소지” 비판 - 한겨레"
       }
     },
     {
-      "title": "국민의힘 선대위 출발부터 ‘삐걱’…우재준 “공동선대위원장 동의한 적 없어” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260512/133909703/1",
-      "source": "동아일보",
-      "pubDate": "Tue, 12 May 2026 12:34:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/12/133909801.1.jpg",
+      "title": "맘다니, 뉴욕시 재산세 인상 계획 철회…부유층 증세도 발목",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202605130034187ZD",
+      "source": "Breaking News",
+      "pubDate": "Wed, 13 May 2026 00:34:20 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260512/AKR202605130034187ZD_01_i.jpg",
       "summaries": {
-        "ko": "국민의힘 선대위 출발부터 ‘삐걱’…우재준 “공동선대위원장 동의한 적 없어” - 동아일보",
-        "en": "국민의힘 선대위 출발부터 ‘삐걱’…우재준 “공동선대위원장 동의한 적 없어” - 동아일보",
-        "zh": "국민의힘 선대위 출발부터 ‘삐걱’…우재준 “공동선대위원장 동의한 적 없어” - 동아일보"
+        "ko": "맘다니, 뉴욕시 재산세 인상 계획 철회…부유층 증세도 발목",
+        "en": "맘다니, 뉴욕시 재산세 인상 계획 철회…부유층 증세도 발목",
+        "zh": "맘다니, 뉴욕시 재산세 인상 계획 철회…부유층 증세도 발목"
       }
     },
     {
-      "title": "한·미 국방장관, 전작권·동맹 현대화 논의…호르무즈 한국 기여도 협의했나 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1258196.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 12 May 2026 01:06:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2026/0512/20260512500140.webp",
+      "title": "[단독] 경찰서장 현장 지휘 대책 내놨지만…정작 출동기준은 없어",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202605122319338t7",
+      "source": "Breaking News",
+      "pubDate": "Tue, 12 May 2026 23:19:58 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260512/MYH202605122319338t7.jpg",
       "summaries": {
-        "ko": "한미 국방장관은 회담에서 전시작전통제권 전환과 동맹 현대화를 논의했으며, 미국은 호르무즈 해협 문제에 대한 한국의 기여를 암묵적으로 요청하고 국방비 증액을 높이 평가했다.",
-        "en": "During their meeting, the defense ministers of South Korea and the US discussed the transfer of wartime operational control and alliance modernization, while the US implicitly sought South Korea's contribution to the Hormuz Strait and commended its increased defense spending.",
-        "zh": "韩美两国国防部长在会晤中讨论了战时作战指挥权移交和同盟现代化，同时美方隐晦地要求韩国对霍尔木兹海峡问题作出贡献，并赞扬了其国防开支的增加。"
-      }
-    },
-    {
-      "title": "[단독] 이 대통령, 13일 미 베선트·중 허리펑 만난다 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605121820001",
-      "source": "경향신문",
-      "pubDate": "Tue, 12 May 2026 09:20:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/12/news-p.v1.20260512.1e46063618ed464aa9d0abc8bd05af45_P1.jpeg",
-      "summaries": {
-        "ko": "이재명 대통령은 14일 미중정상회담을 앞두고 서울에서 사전 고위급 회담을 위해 방한한 스콧 베선트 미국 재무장관과 허리펑 중국 국무원 부총리를 13일 각각 만나 국제 정세와 양국 현안에 대해 의견을 교환한다.",
-        "en": "President Lee Jae-myung will separately meet U.S. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng on the 13th in Seoul, where they are holding preliminary high-level talks ahead of the U.S.-China summit on the 14th, to exchange views on international and bilateral issues.",
-        "zh": "韩国总统李在明将于13日分别会见美国财政部长斯科特·贝森特和中国国务院副总理何立峰，两位官员此行是为14日举行的中美峰会做前期高级别会谈，期间李总统将与他们就国际和双边事务交换意见。"
-      }
-    },
-    {
-      "title": "조현 \"韓선박 타격 비행체 잔해 곧 국내 도착... 국방부 등 조사\" - 조선일보",
-      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/05/12/TMRM5RHQ65BOXPIJ3G6MKJCJZY/",
-      "source": "조선일보",
-      "pubDate": "Tue, 12 May 2026 00:56:08 GMT",
-      "image": "https://www.chosun.com/resizer/v2/D2X4Q3YRFJM3DESMUFPYYPHC7E.jpg?auth=4effed1bd393ce62c03bf722af83d88e074ec7aff75f46c510a7f28ef3ad35b6&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "조현 \"韓선박 타격 비행체 잔해 곧 국내 도착... 국방부 등 조사\" - 조선일보",
-        "en": "조현 \"韓선박 타격 비행체 잔해 곧 국내 도착... 국방부 등 조사\" - 조선일보",
-        "zh": "조현 \"韓선박 타격 비행체 잔해 곧 국내 도착... 국방부 등 조사\" - 조선일보"
-      }
-    },
-    {
-      "title": "트럼프 \"이란, 이틀 전엔 함께 고농축우라늄 수거하자더니... 합의 초안에선 빼\" - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/05/12/HK5V3UFY5REINH6KOEAWTJNYBY/",
-      "source": "조선일보",
-      "pubDate": "Tue, 12 May 2026 08:09:32 GMT",
-      "image": "https://www.chosun.com/resizer/v2/EO6ICGARXJP3HI24VETHXLEXSM.jpg?auth=b6eb2256cf4205f423e5eb23b7b0e7e4bb72027e75a180e5920da23952c06022&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "트럼프 \"이란, 이틀 전엔 함께 고농축우라늄 수거하자더니... 합의 초안에선 빼\" - 조선일보",
-        "en": "트럼프 \"이란, 이틀 전엔 함께 고농축우라늄 수거하자더니... 합의 초안에선 빼\" - 조선일보",
-        "zh": "트럼프 \"이란, 이틀 전엔 함께 고농축우라늄 수거하자더니... 합의 초안에선 빼\" - 조선일보"
+        "ko": "[단독] 경찰서장 현장 지휘 대책 내놨지만…정작 출동기준은 없어",
+        "en": "[단독] 경찰서장 현장 지휘 대책 내놨지만…정작 출동기준은 없어",
+        "zh": "[단독] 경찰서장 현장 지휘 대책 내놨지만…정작 출동기준은 없어"
       }
     }
   ]
