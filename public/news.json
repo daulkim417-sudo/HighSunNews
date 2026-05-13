@@ -1,88 +1,76 @@
 {
-  "lastUpdate": "2026-05-13T17:32:46.995191",
+  "lastUpdate": "2026-05-13T19:21:16.337478",
   "items": [
     {
-      "title": "트럼프, 9년 만에 베이징 도착…최소 6차례 시진핑 만난다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/china/1258566.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 13 May 2026 15:11:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/750/500/imgdb/original/2026/0513/20260513503723.webp",
-      "summaries": {
-        "ko": "도널드 트럼프 미국 대통령이 9년 만에 베이징에 도착하여 시진핑 주석과 최소 6차례 만나 무역, 이란, 대만 문제 등 주요 현안을 논의할 예정이다.",
-        "en": "U.S. President Donald Trump arrived in Beijing for the first time in nine years to meet with President Xi Jinping at least six times to discuss major issues including trade, Iran, and Taiwan.",
-        "zh": "美国总统唐纳德·特朗普时隔九年抵达北京，将与习近平主席至少举行六次会晤，讨论贸易、伊朗和台湾问题等主要议题。"
-      }
-    },
-    {
-      "title": "[뉴스분석]김용범이 쏘아올린 ‘초과세수’ 이슈…AI발 재분배 논쟁 ‘색깔’ 빼고 시작을 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605132036005",
-      "source": "경향신문",
-      "pubDate": "Wed, 13 May 2026 11:36:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/13/l_2026051401000393600036971.jpg",
-      "summaries": {
-        "ko": "[뉴스분석]김용범이 쏘아올린 ‘초과세수’ 이슈…AI발 재분배 논쟁 ‘색깔’ 빼고 시작을 - 경향신문",
-        "en": "[뉴스분석]김용범이 쏘아올린 ‘초과세수’ 이슈…AI발 재분배 논쟁 ‘색깔’ 빼고 시작을 - 경향신문",
-        "zh": "[뉴스분석]김용범이 쏘아올린 ‘초과세수’ 이슈…AI발 재분배 논쟁 ‘색깔’ 빼고 시작을 - 경향신문"
-      }
-    },
-    {
-      "title": "“UAE, 4월에 최소 2차례 이란 직접 공격…이스라엘과 공조” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8560273",
-      "source": "KBS 뉴스",
-      "pubDate": "Wed, 13 May 2026 12:58:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/05/13/20260513_AO8nBh.jpg",
-      "summaries": {
-        "ko": "“UAE, 4월에 최소 2차례 이란 직접 공격…이스라엘과 공조” - KBS 뉴스",
-        "en": "“UAE, 4월에 최소 2차례 이란 직접 공격…이스라엘과 공조” - KBS 뉴스",
-        "zh": "“UAE, 4월에 최소 2차례 이란 직접 공격…이스라엘과 공조” - KBS 뉴스"
-      }
-    },
-    {
-      "title": "이 대통령, 베선트에 ‘통화 스와프’ 제안…“핵심 광물, 외환시장 협력 필요” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1258564.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 13 May 2026 12:58:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/642/imgdb/original/2026/0513/20260513503703.webp",
-      "summaries": {
-        "ko": "이 대통령, 베선트에 ‘통화 스와프’ 제안…“핵심 광물, 외환시장 협력 필요” - 한겨레",
-        "en": "이 대통령, 베선트에 ‘통화 스와프’ 제안…“핵심 광물, 외환시장 협력 필요” - 한겨레",
-        "zh": "이 대통령, 베선트에 ‘통화 스와프’ 제안…“핵심 광물, 외환시장 협력 필요” - 한겨레"
-      }
-    },
-    {
-      "title": "위성락 “나무호 피격, 드론 단정할 근거 없어…미사일 등 여러 가능성” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8559856",
-      "source": "KBS 뉴스",
-      "pubDate": "Wed, 13 May 2026 07:10:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/05/13/20260513_ntEufn.jpg",
-      "summaries": {
-        "ko": "위성락 “나무호 피격, 드론 단정할 근거 없어…미사일 등 여러 가능성” - KBS 뉴스",
-        "en": "위성락 “나무호 피격, 드론 단정할 근거 없어…미사일 등 여러 가능성” - KBS 뉴스",
-        "zh": "위성락 “나무호 피격, 드론 단정할 근거 없어…미사일 등 여러 가능성” - KBS 뉴스"
-      }
-    },
-    {
-      "title": "'물과 기름' 박민식·한동훈, 부산북갑 단일화 여론은?[박지환의 뉴스톡] - 노컷뉴스",
-      "link": "https://www.nocutnews.co.kr/news/6516793",
-      "source": "노컷뉴스",
-      "pubDate": "Wed, 13 May 2026 09:38:00 GMT",
-      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/05/13/202605131814423616_0.jpg",
-      "summaries": {
-        "ko": "'물과 기름' 박민식·한동훈, 부산북갑 단일화 여론은?[박지환의 뉴스톡] - 노컷뉴스",
-        "en": "'물과 기름' 박민식·한동훈, 부산북갑 단일화 여론은?[박지환의 뉴스톡] - 노컷뉴스",
-        "zh": "'물과 기름' 박민식·한동훈, 부산북갑 단일화 여론은?[박지환의 뉴스톡] - 노컷뉴스"
-      }
-    },
-    {
-      "title": "“국정 안정, 여당 당선돼야” 53.3%…“정부 견제, 야당 뽑아야” 34.1% - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1258552.html",
+      "title": "“세종대왕이 창살에…” 오세훈표 207억 ‘받들어 총’ 비판 봇물 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1258419.html",
       "source": "한겨레",
       "pubDate": "Wed, 13 May 2026 13:11:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0513/17786711893479_20260428502664.webp",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/543/279/imgdb/child/2026/0513/17786575974662_9017786387659952.webp",
       "summaries": {
-        "ko": "“국정 안정, 여당 당선돼야” 53.3%…“정부 견제, 야당 뽑아야” 34.1% - 한겨레",
-        "en": "“국정 안정, 여당 당선돼야” 53.3%…“정부 견제, 야당 뽑아야” 34.1% - 한겨레",
-        "zh": "“국정 안정, 여당 당선돼야” 53.3%…“정부 견제, 야당 뽑아야” 34.1% - 한겨레"
+        "ko": "오세훈 서울시장이 207억원을 들여 광화문광장에 설치한 ‘감사의 정원’ 석재 조형물이 기괴한 디자인과 예산 낭비 논란으로 비판이 쏟아지고 있다.",
+        "en": "Seoul Mayor Oh Se-hoon's 20.7 billion won 'Garden of Gratitude' stone monument in Gwanghwamun Plaza is drawing heavy criticism for its grotesque design and alleged budget waste.",
+        "zh": "首尔市长吴世勋斥资207亿韩元在光化门广场建造的“感谢之园”石雕建筑，因其怪异的设计和涉嫌预算浪费而引发广泛批评。"
+      }
+    },
+    {
+      "title": "부산 전재수 43% 박형준 41%, 대구 김부겸 44% 추경호 41% 초접전 [한국갤럽] - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/05/13/FPJ2SDOU3VENHKV2FNCRVTYVHM/",
+      "source": "조선일보",
+      "pubDate": "Tue, 12 May 2026 23:50:05 GMT",
+      "image": "https://www.chosun.com/resizer/v2/A6ONMFUQTJFGJETYHIMASVBTBE.jpg?auth=066c04d38a99a1f0ccebec56d29583f3d1930422d8dd11683888898cabf20891&width=667&height=350&focal=321,126",
+      "summaries": {
+        "ko": "부산 전재수 43% 박형준 41%, 대구 김부겸 44% 추경호 41% 초접전 [한국갤럽] - 조선일보",
+        "en": "부산 전재수 43% 박형준 41%, 대구 김부겸 44% 추경호 41% 초접전 [한국갤럽] - 조선일보",
+        "zh": "부산 전재수 43% 박형준 41%, 대구 김부겸 44% 추경호 41% 초접전 [한국갤럽] - 조선일보"
+      }
+    },
+    {
+      "title": "\"이란, 호르무즈 해협 주변 33개 미사일 기지 중 30개 건재\" - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/05/13/B76GVYR35ZHQXHIXCTV6V5ECII/",
+      "source": "조선일보",
+      "pubDate": "Wed, 13 May 2026 05:04:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/VOAXNJGLOBKE3DLY5UNDEEHKUI.jpg?auth=45ef6c4426a3a7d7bb787daf6b8b6b1713ae83fe2783e66d453def008f18e96e&width=1200&height=630&focal=2619,3155",
+      "summaries": {
+        "ko": "\"이란, 호르무즈 해협 주변 33개 미사일 기지 중 30개 건재\" - 조선일보",
+        "en": "\"이란, 호르무즈 해협 주변 33개 미사일 기지 중 30개 건재\" - 조선일보",
+        "zh": "\"이란, 호르무즈 해협 주변 33개 미사일 기지 중 30개 건재\" - 조선일보"
+      }
+    },
+    {
+      "title": "[단독] 중부발전, 尹 탄핵 부결되자 '계엄 매뉴얼' 작성?‥\"계엄령 또 있을까봐\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6822043_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Wed, 13 May 2026 00:38:21 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/13/kds_20260513_26_2.jpg",
+      "summaries": {
+        "ko": "[단독] 중부발전, 尹 탄핵 부결되자 '계엄 매뉴얼' 작성?‥\"계엄령 또 있을까봐\" - MBC 뉴스",
+        "en": "[단독] 중부발전, 尹 탄핵 부결되자 '계엄 매뉴얼' 작성?‥\"계엄령 또 있을까봐\" - MBC 뉴스",
+        "zh": "[단독] 중부발전, 尹 탄핵 부결되자 '계엄 매뉴얼' 작성?‥\"계엄령 또 있을까봐\" - MBC 뉴스"
+      }
+    },
+    {
+      "title": "\"진짜 너무하네\" 산 꼭대기에 유기된 강아지, 지금 어디에…[뉴스럽다] - 노컷뉴스",
+      "link": "https://www.nocutnews.co.kr/news/6516014",
+      "source": "노컷뉴스",
+      "pubDate": "Tue, 12 May 2026 20:00:00 GMT",
+      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/05/12/202605121614454512_0.jpg",
+      "summaries": {
+        "ko": "\"진짜 너무하네\" 산 꼭대기에 유기된 강아지, 지금 어디에…[뉴스럽다] - 노컷뉴스",
+        "en": "\"진짜 너무하네\" 산 꼭대기에 유기된 강아지, 지금 어디에…[뉴스럽다] - 노컷뉴스",
+        "zh": "\"진짜 너무하네\" 산 꼭대기에 유기된 강아지, 지금 어디에…[뉴스럽다] - 노컷뉴스"
+      }
+    },
+    {
+      "title": "직접 나선 이 대통령 “AI 초과 ‘세수’ 국민배당 검토…‘이윤’ 아닌데 음해” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1258453.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 13 May 2026 13:12:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0513/53_17786487771224_20260513501861.webp",
+      "summaries": {
+        "ko": "직접 나선 이 대통령 “AI 초과 ‘세수’ 국민배당 검토…‘이윤’ 아닌데 음해” - 한겨레",
+        "en": "직접 나선 이 대통령 “AI 초과 ‘세수’ 국민배당 검토…‘이윤’ 아닌데 음해” - 한겨레",
+        "zh": "직접 나선 이 대통령 “AI 초과 ‘세수’ 국민배당 검토…‘이윤’ 아닌데 음해” - 한겨레"
       }
     },
     {
@@ -98,27 +86,51 @@
       }
     },
     {
-      "title": "청와대 \"삼성, 아직 노사대화 시간 남아…대화로 해결 적극 지원\" - JTBC",
-      "link": "https://news.jtbc.co.kr/article/NB12298092",
-      "source": "JTBC",
-      "pubDate": "Wed, 13 May 2026 06:06:00 GMT",
-      "image": "https://photo.jtbc.co.kr/news/jam_photo/202605/13/a88109e0-c0da-4225-9b42-b0d4b19d2a31.jpg",
+      "title": "“국정 안정, 여당 당선돼야” 53.3%…“정부 견제, 야당 뽑아야” 34.1% - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1258552.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 13 May 2026 13:11:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0513/17786711893479_20260428502664.webp",
       "summaries": {
-        "ko": "청와대 \"삼성, 아직 노사대화 시간 남아…대화로 해결 적극 지원\" - JTBC",
-        "en": "청와대 \"삼성, 아직 노사대화 시간 남아…대화로 해결 적극 지원\" - JTBC",
-        "zh": "청와대 \"삼성, 아직 노사대화 시간 남아…대화로 해결 적극 지원\" - JTBC"
+        "ko": "“국정 안정, 여당 당선돼야” 53.3%…“정부 견제, 야당 뽑아야” 34.1% - 한겨레",
+        "en": "“국정 안정, 여당 당선돼야” 53.3%…“정부 견제, 야당 뽑아야” 34.1% - 한겨레",
+        "zh": "“국정 안정, 여당 당선돼야” 53.3%…“정부 견제, 야당 뽑아야” 34.1% - 한겨레"
       }
     },
     {
-      "title": "북한산 오른 뒤 실종된 50대 여성…경찰, 27일째 수색 중 - 노컷뉴스",
-      "link": "https://www.nocutnews.co.kr/news/6516827",
-      "source": "노컷뉴스",
-      "pubDate": "Wed, 13 May 2026 12:26:00 GMT",
-      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/05/13/202605132120042130_0.jpg",
+      "title": "“그래서 윤석열이 감옥에 갔습니다” 국힘에 응답한 ‘댓글 펼침막’ 화제 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1258521.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 13 May 2026 13:11:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/555/imgdb/original/2026/0513/20260513503293.webp",
       "summaries": {
-        "ko": "북한산 오른 뒤 실종된 50대 여성…경찰, 27일째 수색 중 - 노컷뉴스",
-        "en": "북한산 오른 뒤 실종된 50대 여성…경찰, 27일째 수색 중 - 노컷뉴스",
-        "zh": "북한산 오른 뒤 실종된 50대 여성…경찰, 27일째 수색 중 - 노컷뉴스"
+        "ko": "“그래서 윤석열이 감옥에 갔습니다” 국힘에 응답한 ‘댓글 펼침막’ 화제 - 한겨레",
+        "en": "“그래서 윤석열이 감옥에 갔습니다” 국힘에 응답한 ‘댓글 펼침막’ 화제 - 한겨레",
+        "zh": "“그래서 윤석열이 감옥에 갔습니다” 국힘에 응답한 ‘댓글 펼침막’ 화제 - 한겨레"
+      }
+    },
+    {
+      "title": "네타냐후, UAE 극비리 방문...\"3월 오만 접경지서 회담\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202605140406504dV",
+      "source": "Breaking News",
+      "pubDate": "Thu, 14 May 2026 04:06:52 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260513/AKR202605140406504dV_01_i.jpg",
+      "summaries": {
+        "ko": "네타냐후, UAE 극비리 방문...\"3월 오만 접경지서 회담\"",
+        "en": "네타냐후, UAE 극비리 방문...\"3월 오만 접경지서 회담\"",
+        "zh": "네타냐후, UAE 극비리 방문...\"3월 오만 접경지서 회담\""
+      }
+    },
+    {
+      "title": "[속보] 케빈 워시 美연준 의장 후보자 상원 인준 통과",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260514035130bLn",
+      "source": "Breaking News",
+      "pubDate": "Thu, 14 May 2026 03:51:31 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260513/AKR20260514035130bLn_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] 케빈 워시 美연준 의장 후보자 상원 인준 통과",
+        "en": "[속보] 케빈 워시 美연준 의장 후보자 상원 인준 통과",
+        "zh": "[속보] 케빈 워시 美연준 의장 후보자 상원 인준 통과"
       }
     },
     {
