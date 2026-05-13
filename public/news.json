@@ -1,40 +1,100 @@
 {
-  "lastUpdate": "2026-05-13T08:18:28.188996",
+  "lastUpdate": "2026-05-13T10:45:30.256316",
   "items": [
     {
-      "title": "직접 나선 이 대통령 “AI 초과 ‘세수’ 국민배당 검토…‘이윤’ 아닌데 음해” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1258453.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 13 May 2026 06:29:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0513/53_17786487771224_20260513501861.webp",
-      "summaries": {
-        "ko": "이재명 대통령은 김용범 정책실장의 '국민 배당금' 제안이 인공지능(AI) 부문에서 발생하는 '초과 세수'를 국민에게 배당하는 방안 검토를 언급한 것이며, 기업의 '초과 이윤'을 배당하자는 것이 아니라고 해명하며 이를 왜곡하는 언론 보도와 정치적 비판을 '음해성 가짜뉴스'라고 지적했다.",
-        "en": "President Lee Jae-myung clarified that Policy Chief Kim Yong-beom's 'national dividend' proposal referred to examining ways to distribute 'excess tax revenue' generated from the AI sector to the public, not distributing corporate 'excess profits,' and criticized misrepresenting media reports and political criticisms as 'slanderous fake news.'",
-        "zh": "李在明总统澄清，政策室长金容范提出的“国民分红”方案是指探讨将人工智能（AI）领域产生的“超额税收”分配给国民，而非分配企业的“超额利润”，并指出歪曲事实的媒体报道和政治批评是“诽谤性假新闻”。"
-      }
-    },
-    {
-      "title": "조현 \"비행체 발사할 주체, 이란만 해도 여럿...민병대 가능성도\" - 조선일보",
-      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/05/13/2B5VUIXN4FDITM7MQLVY5MRU3Q/",
-      "source": "조선일보",
-      "pubDate": "Wed, 13 May 2026 02:03:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/VVXOBIJR2FMIJN5LQUSBKSMBWA.jpg?auth=3835fc585e103b5dbfe8998d0d0517a18254be6f42990d1e13bf9dde97d320e9&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "조현 \"비행체 발사할 주체, 이란만 해도 여럿...민병대 가능성도\" - 조선일보",
-        "en": "조현 \"비행체 발사할 주체, 이란만 해도 여럿...민병대 가능성도\" - 조선일보",
-        "zh": "조현 \"비행체 발사할 주체, 이란만 해도 여럿...민병대 가능성도\" - 조선일보"
-      }
-    },
-    {
-      "title": "민주당, 차기 국회의장 후보 선출···박지원·조정식·김태년 3파전 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605130800031",
+      "title": "반도체 초과세수 어떻게 쓸까…추경이나 빚 상환 말고 AI 미래 투자? - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605131737001",
       "source": "경향신문",
-      "pubDate": "Tue, 12 May 2026 23:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/13/news-p.v1.20260513.bb7c0150958542579305b49e09ff994b_P1.jpg",
+      "pubDate": "Wed, 13 May 2026 08:37:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/13/news-p.v1.20260513.caec17c23d3c444e93d993d1d9c52095_P1.jpg",
       "summaries": {
-        "ko": "더불어민주당은 22대 국회 후반기 국회의장 및 여당 몫 국회부의장 후보를 선출하며 박지원, 조정식, 김태년 의원이 국회의장 후보 3파전을 벌이고, 국민의힘 또한 야당 몫 국회부의장 후보를 뽑을 예정이다.",
-        "en": "The Democratic Party is selecting candidates for the Speaker and the ruling party's share of the Deputy Speaker for the second half of the 22nd National Assembly, with Park Ji-won, Cho Jung-sik, and Kim Tae-nyeon vying for the Speaker position, and the People Power Party also set to elect its candidate for the opposition's share of the Deputy Speaker.",
-        "zh": "共同民主党正在选举第22届国会下半期国会议长及执政党份额的国会副议长候选人，其中朴智元、赵正植、金太年三位议员正在角逐国会议长候选人，国民力量党也将选出在野党份额的国会副议长候选人。"
+        "ko": "김용범 실장이 반도체 호황으로 인한 초과세수를 빚 상환이나 단기 추경 대신 AI 인프라, 에너지 전환 등 미래 투자와 국민 배당금 등 재분배에 활용해야 한다는 논의를 촉발했다.",
+        "en": "Kim Yong-beom has ignited a debate on utilizing excess tax revenue from the semiconductor boom for future investments like AI infrastructure and energy transition, along with redistribution through national dividends, rather than solely for debt repayment or short-term supplementary budgets.",
+        "zh": "金容范引发了一场关于如何利用半导体产业超额税收的讨论，建议将其用于人工智能基础设施和能源转型等未来投资，以及国民分红等再分配，而非仅限于偿还债务或短期追加预算。"
+      }
+    },
+    {
+      "title": "[속보] 위성락 \"나무호 피격, 드론 단정할 근거 없어‥미사일 가능성도\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6822171_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Wed, 13 May 2026 07:15:45 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/13/hye_20260513_7.jpg",
+      "summaries": {
+        "ko": "위성락이 나무호 피격이 드론 소행이라고 단정할 근거가 없으며, 미사일일 가능성도 있다고 밝혔다.",
+        "en": "Wi Sung-rak stated that there is no basis to definitively conclude the \"Namooho\" incident was caused by a drone, suggesting a missile is also a possibility.",
+        "zh": "魏圣洛表示，没有证据断定“树木号”遇袭是由无人机造成的，导弹袭击的可能性也存在。"
+      }
+    },
+    {
+      "title": "이 대통령, 미 재무장관 접견서 ‘한미 통화스와프’ 체결 제안 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8560024",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 13 May 2026 10:20:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/05/13/20260513_B3Aerm.jpg",
+      "summaries": {
+        "ko": "이재명 대통령이 방한한 스콧 베센트 미국 재무장관에게 원·달러 환율 문제 등 경제 협력 강화를 위해 한미 통화스와프 체결을 제안했습니다.",
+        "en": "President Lee Jaemyung proposed a Korea-US currency swap to the visiting US Treasury Secretary Scott Bessent to strengthen economic cooperation, including on the won-dollar exchange rate issue.",
+        "zh": "韩国总统李在明向来访的美国财政部长斯科特·贝森特提议签署韩美货币互换协议，以加强包括韩元兑美元汇率问题在内的经济合作。"
+      }
+    },
+    {
+      "title": "트럼프·시진핑 회담 3대 관전 포인트… 중국은 ‘대등한 미중’ 무대 연출 - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/05/13/BFRT77YCU5B7RFGXBSK7WTZQQQ/",
+      "source": "조선일보",
+      "pubDate": "Wed, 13 May 2026 07:03:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/HE4DAYJQGMZTIM3FG5RTIOLEGQ.jpg?auth=353b9f8bca83489d214ba7917743d1f398c4766288c7a588a9b95483101d0566&width=1200&height=630&focal=1597,1284",
+      "summaries": {
+        "ko": "트럼프·시진핑 회담 3대 관전 포인트… 중국은 ‘대등한 미중’ 무대 연출 - 조선일보",
+        "en": "트럼프·시진핑 회담 3대 관전 포인트… 중국은 ‘대등한 미중’ 무대 연출 - 조선일보",
+        "zh": "트럼프·시진핑 회담 3대 관전 포인트… 중국은 ‘대등한 미중’ 무대 연출 - 조선일보"
+      }
+    },
+    {
+      "title": "윤석열, ‘내란우두머리’ 재판부 기피 신청…내일 항소심 첫 공판 불투명 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1258504.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 13 May 2026 08:36:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/493/imgdb/original/2026/0513/20260513503143.webp",
+      "summaries": {
+        "ko": "윤석열 전 대통령이 '내란우두머리' 사건 항소심 재판부가 이전 판결에서 자신의 혐의를 인정한 듯한 표현을 사용해 불공정한 재판을 받을 우려가 있다며 기피 신청을 내, 내일로 예정된 첫 공판 진행이 불투명해졌다.",
+        "en": "Former President Yoon Suk-yeol has filed a motion to recuse the appellate court judges in his 'leader of rebellion' case, arguing that a previous ruling implied his guilt and thus raises concerns about an unfair trial, casting uncertainty over the first appellate hearing scheduled for tomorrow.",
+        "zh": "尹锡悦前总统就其“内乱首谋”案向上诉法院提出法官回避申请，理由是法院在之前的判决中使用了暗示其罪名的表述，令其担忧无法获得公正审判，导致原定于明天的首次上诉庭审变得不明朗。"
+      }
+    },
+    {
+      "title": "사위 곽상언 “노무현 전 대통령 조롱 ‘놀이’, 아이들도 고통…법적 대응” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1258459.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 13 May 2026 09:08:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/740/373/imgdb/child/2026/0513/17786516233602_7717786515904734.webp",
+      "summaries": {
+        "ko": "故 노무현 전 대통령의 사위인 곽상언 더불어민주당 의원이 노 전 대통령을 조롱하는 악의적인 허위사실 유포 및 혐오 게시물에 대해 사자명예훼손죄 형사고소와 민사상 손해배상 소송 등 강경한 법적 대응을 예고했다.",
+        "en": "Kwak Sang-eon, the son-in-law of the late President Roh Moo-hyun and a Democratic Party lawmaker, announced strong legal action, including criminal charges for defamation of the deceased and civil lawsuits for damages, against the malicious spread of false information and hateful posts mocking the former president.",
+        "zh": "故卢武铉前总统的女婿、共同民主党议员郭相彦宣布，将对嘲讽卢武铉前总统的恶意虚假信息传播和仇恨帖子采取强硬法律行动，包括以死者名誉损害罪提起刑事诉讼和民事损害赔偿诉讼。"
+      }
+    },
+    {
+      "title": "22대 후반기 국회의장 후보에 조정식 - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/05/13/HF2AWZJQCJAOPCOTWXHWZNBAFE/",
+      "source": "조선일보",
+      "pubDate": "Wed, 13 May 2026 08:34:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/REFSDGBHGFFZHNBXXNNBIFWZMQ.jpg?auth=56ee9c73a39fc5811db5f4a450709484ad9e3f44555a8714ea97e7ac372fe19e&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "22대 후반기 국회의장 후보에 조정식 - 조선일보",
+        "en": "22대 후반기 국회의장 후보에 조정식 - 조선일보",
+        "zh": "22대 후반기 국회의장 후보에 조정식 - 조선일보"
+      }
+    },
+    {
+      "title": "삼성전자 노사 협상 결렬…주가 향방 촉각 - bntnews.co.kr",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202605130016",
+      "source": "bntnews.co.kr",
+      "pubDate": "Tue, 12 May 2026 22:00:00 GMT",
+      "image": "https://www.bntnews.co.kr/data/bnt/image/2026/05/13/bnt202605130026.jpg",
+      "summaries": {
+        "ko": "삼성전자 노사가 임금협상(OPI 제도 개편)에서 최종 결렬되면서 5월 21일 총파업이 예고됐고, 이는 막대한 경제적 피해와 주가 하방 압력, 정부의 긴급조정권 발동 가능성까지 불러오고 있다.",
+        "en": "Samsung Electronics' labor and management failed to finalize wage negotiations, especially regarding OPI system reform, leading to a planned general strike on May 21st, which sparks concerns about massive economic losses, stock price drops, and potential government intervention.",
+        "zh": "三星电子劳资双方在工资谈判（OPI制度改革）中最终破裂，导致5月21日预定的全面罢工，引发了对巨额经济损失、股价下行压力以及政府可能启动紧急调整权的担忧。"
       }
     },
     {
@@ -44,81 +104,21 @@
       "pubDate": "Wed, 13 May 2026 05:29:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/05/13/news-p.v1.20260513.6c267954cdb1462fa76d135cf8c90331_P1.png",
       "summaries": {
-        "ko": "부산소방본부가 긴급 출동 시 불법 주정차 차량으로 인한 진입 지연 문제를 해결하고 골든타임을 확보하기 위해 차량을 강제로 밀고 지나가거나 파손하는 강제처분 훈련을 진행했으며, 이는 법적 분쟁 우려로 활용이 저조했던 기존 권한을 활성화하려는 노력의 일환이다.",
-        "en": "The Busan Fire Department conducted training to forcefully move or damage illegally parked vehicles that obstruct emergency access, aiming to secure crucial \"golden time\" by overcoming entry delays, as part of an effort to activate existing powers that have been underutilized due to concerns about legal disputes.",
-        "zh": "釜山消防本部举行了紧急出动时对阻碍通行的违章停放车辆进行强制处置的训练，旨在解决车辆延迟进入问题并确保黄金救援时间，此举是为激活因担心法律纠纷而未充分利用的现有权力。"
+        "ko": "불법 ‘길막’ 이제 안 참는다···“진입 난항, 강제처분” 지시에 승용차 그대로 밀고 지나간 소방차 - 경향신문",
+        "en": "불법 ‘길막’ 이제 안 참는다···“진입 난항, 강제처분” 지시에 승용차 그대로 밀고 지나간 소방차 - 경향신문",
+        "zh": "불법 ‘길막’ 이제 안 참는다···“진입 난항, 강제처분” 지시에 승용차 그대로 밀고 지나간 소방차 - 경향신문"
       }
     },
     {
-      "title": "트럼프·시진핑 회담 4대 관전 포인트… 중국은 ‘대등한 미중’ 무대 연출 - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/05/13/BFRT77YCU5B7RFGXBSK7WTZQQQ/",
-      "source": "조선일보",
-      "pubDate": "Wed, 13 May 2026 06:08:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/HE4DAYJQGMZTIM3FG5RTIOLEGQ.jpg?auth=353b9f8bca83489d214ba7917743d1f398c4766288c7a588a9b95483101d0566&width=1200&height=630&focal=1597,1284",
-      "summaries": {
-        "ko": "트럼프·시진핑 회담 4대 관전 포인트… 중국은 ‘대등한 미중’ 무대 연출 - 조선일보",
-        "en": "트럼프·시진핑 회담 4대 관전 포인트… 중국은 ‘대등한 미중’ 무대 연출 - 조선일보",
-        "zh": "트럼프·시진핑 회담 4대 관전 포인트… 중국은 ‘대등한 미중’ 무대 연출 - 조선일보"
-      }
-    },
-    {
-      "title": "방미 안규백 “‘호르무즈 정상화 단계적 기여 검토’ 뜻 미국에 전달” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1258390.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 13 May 2026 06:53:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2026/0513/20260513500165.webp",
-      "summaries": {
-        "ko": "안규백 국방부 장관이 미국에 호르무즈해협 통항 정상화를 위한 국제사회의 책임 있는 일원으로서 단계적 기여 방안을 검토하겠다는 뜻을 전달했다.",
-        "en": "South Korean Defense Minister Ahn Kyu-baek informed the U.S. that Korea is considering contributing to the normalization of navigation in the Strait of Hormuz as a responsible member of the international community, exploring phased contribution measures.",
-        "zh": "韩国国防部长安圭白向美国表示，韩国作为国际社会负责任的一员，正在考虑分阶段地为霍尔木兹海峡通航正常化作出贡献。"
-      }
-    },
-    {
-      "title": "‘삼성전자 노조 위법쟁의금지 가처분’ 심리 종료…法 “총파업 전 결정” - 조선일보",
-      "link": "https://www.chosun.com/national/court_law/2026/05/13/FKWLSC6UKBDXJEF4K75GCAT5EM/",
-      "source": "조선일보",
-      "pubDate": "Wed, 13 May 2026 04:55:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GKBHLXZK3ZMCPGJGEYCKUMMMDQ.jpg?auth=ab9b18e6fbdcde17a6ffb76aa797bf865bb960028fd2cdea07743a090ac5f285&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "‘삼성전자 노조 위법쟁의금지 가처분’ 심리 종료…法 “총파업 전 결정” - 조선일보",
-        "en": "‘삼성전자 노조 위법쟁의금지 가처분’ 심리 종료…法 “총파업 전 결정” - 조선일보",
-        "zh": "‘삼성전자 노조 위법쟁의금지 가처분’ 심리 종료…法 “총파업 전 결정” - 조선일보"
-      }
-    },
-    {
-      "title": "[여론조사 ‘경향’] 대구·경남은 접전, 서울·부산은 민주당 우위… 국정 지지율은 소폭 하락 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605131450001",
-      "source": "경향신문",
-      "pubDate": "Wed, 13 May 2026 05:50:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/13/news-p.v1.20260513.2abf922a47aa418ca9ac0dc9f7538e33_P1.png",
-      "summaries": {
-        "ko": "6·3 지방선거 광역단체장 여론조사에서 대구·경남은 접전, 서울·부산은 민주당 후보가 우세했으며, 이재명 대통령 국정 지지율은 소폭 하락하고 국민의힘 지지율은 상승했다.",
-        "en": "A comprehensive analysis of public opinion polls for the 6.3 local elections shows close contests in Daegu and Gyeongnam, Democratic Party candidates leading in Seoul and Busan, a slight dip in President Lee Jae-myung's approval rating, and a rise in the People Power Party's support.",
-        "zh": "综合6·3地方选举民意调查结果显示，大邱和庆南选情胶着，而首尔和釜山则由民主党候选人领先，同时李在明总统的国政支持率略有下降，国民力量党的支持率有所上升。"
-      }
-    },
-    {
-      "title": "하정우 오차범위 내외 선두…보수표 결집이 핵심 변수 - 노컷뉴스",
-      "link": "https://www.nocutnews.co.kr/news/6516230",
-      "source": "노컷뉴스",
-      "pubDate": "Wed, 13 May 2026 00:17:00 GMT",
-      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/05/13/202605130857384474_0.jpg",
-      "summaries": {
-        "ko": "부산 북구갑 국회의원 보궐선거 여론조사에서 더불어민주당 하정우 후보가 오차범위 내외에서 선두를 달리고 있으며, 무소속 한동훈 후보와 국민의힘 박민식 후보 간 보수표 결집 여부가 핵심 변수로 꼽히고 있다.",
-        "en": "In polls for the Busan Buk-gu Gap National Assembly by-election, Democratic Party candidate Ha Jung-woo is leading within or around the margin of error, with the crucial variable being the consolidation of conservative votes between independent Han Dong-hoon and People Power Party's Park Min-sik.",
-        "zh": "在釜山北区甲国会议员补选民调中，共同民主党候选人河正宇在误差范围内保持领先，而独立候选人韩东勋和国民力量党候选人朴敏植之间保守票能否整合，成为核心变数。"
-      }
-    },
-    {
-      "title": "\"우리도 달라\"…성과급 갈등, 이익배분 논쟁으로",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260513171522Eew",
+      "title": "이 대통령, 미중 경제수장 연쇄 접견…\"협력 강화\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260513193949nuN",
       "source": "Breaking News",
-      "pubDate": "Wed, 13 May 2026 17:15:46 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260513/MYH20260513171522Eew.jpg",
+      "pubDate": "Wed, 13 May 2026 19:40:14 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260513/MYH20260513193949nuN.jpg",
       "summaries": {
-        "ko": "\"우리도 달라\"…성과급 갈등, 이익배분 논쟁으로",
-        "en": "\"우리도 달라\"…성과급 갈등, 이익배분 논쟁으로",
-        "zh": "\"우리도 달라\"…성과급 갈등, 이익배분 논쟁으로"
+        "ko": "이 대통령, 미중 경제수장 연쇄 접견…\"협력 강화\"",
+        "en": "이 대통령, 미중 경제수장 연쇄 접견…\"협력 강화\"",
+        "zh": "이 대통령, 미중 경제수장 연쇄 접견…\"협력 강화\""
       }
     }
   ]
