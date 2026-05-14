@@ -1,42 +1,6 @@
 {
-  "lastUpdate": "2026-05-14T13:14:29.374494",
+  "lastUpdate": "2026-05-14T15:33:28.863030",
   "items": [
-    {
-      "title": "시진핑 “중국 부흥과 마가 양립 가능” 트럼프 “시주석은 친구, 건설적 논의” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1258753.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 14 May 2026 11:40:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0514/2917787592236788.webp",
-      "summaries": {
-        "ko": "시진핑 주석이 트럼프 전 대통령에게 중국의 부흥과 '미국을 다시 위대하게'(MAGA)가 양립 가능하다고 언급하며 파트너십을 강조, 9년 전 트럼프 방중 때와 확연히 달라진 미중 양국의 위상 변화를 드러냈다.",
-        "en": "During a dinner with former President Trump, Xi Jinping stated that China's resurgence and \"Make America Great Again\" (MAGA) are compatible, emphasizing partnership and revealing a significant shift in the US-China dynamic compared to Trump's 2017 visit.",
-        "zh": "在与前总统特朗普的晚宴上，习近平表示中国复兴与“让美国再次伟大”(MAGA)相容，强调伙伴关系，并揭示了与2017年特朗普访华时截然不同的中美关系地位变化。"
-      }
-    },
-    {
-      "title": "윤석열 내란 항소심 재판 ‘잠정 정지’…“재판부 못 믿겠다” 30분 만에 피고인 절반 퇴정 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605141655001",
-      "source": "경향신문",
-      "pubDate": "Thu, 14 May 2026 07:55:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/14/news-p.v1.20260514.19433667b5b440c4b7b44aaad9dcf8a2_P1.jpeg",
-      "summaries": {
-        "ko": "윤석열 전 대통령 등 내란 혐의 피고인 4명의 항소심 재판이 재판부 기피 신청으로 잠정 정지되었으며, 이는 1심처럼 재판 지연 전략이라는 우려를 낳고 있다.",
-        "en": "The appellate trial for former President Yoon Suk-yeol and three others on rebellion charges has been temporarily suspended after they filed motions to disqualify the judges, raising concerns about potential trial delay tactics mirroring the first trial.",
-        "zh": "前总统尹锡悦等四名涉嫌内乱罪的被告，因对法官提出回避申请，其上诉审判被暂时中止，引发了关于这可能是一审中拖延庭审策略的担忧。"
-      }
-    },
-    {
-      "title": "李대통령 \"농어촌 기본소득·햇빛소득 확대해 농촌 대전환\" - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/05/14/IURUB2IDMRDIHITKIDQTOTBH2E/",
-      "source": "조선일보",
-      "pubDate": "Thu, 14 May 2026 08:29:59 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MVSTINBUGBTDKMJZGI4DEODGMY.jpg?auth=e1ea8dce6352da24a71bd59e773a6619fa2213ea07d97f2134d073f724ab8484&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "李대통령 \"농어촌 기본소득·햇빛소득 확대해 농촌 대전환\" - 조선일보",
-        "en": "李대통령 \"농어촌 기본소득·햇빛소득 확대해 농촌 대전환\" - 조선일보",
-        "zh": "李대통령 \"농어촌 기본소득·햇빛소득 확대해 농촌 대전환\" - 조선일보"
-      }
-    },
     {
       "title": "장윤기, 여고생 15분 미행 뒤 살해…교제거절 여성 죽이려 30시간 배회 - 한겨레",
       "link": "https://www.hani.co.kr/arti/area/honam/1258632.html",
@@ -44,93 +8,117 @@
       "pubDate": "Thu, 14 May 2026 12:15:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/701/460/imgdb/original/2026/0514/20260514501652.webp",
       "summaries": {
-        "ko": "교제 거절에 앙심을 품고 30시간 동안 다른 여성을 찾아다니던 23세 장윤기씨가 실패하자 귀가하던 여고생을 15분 미행 끝에 살해하고 도우러 온 남학생까지 다치게 한 혐의로 구속 송치됐다.",
-        "en": "Jang Yun-ki, 23, who harbored resentment after being rejected and searched for another woman for over 30 hours, was arrested and sent to prosecution for murdering a high school girl after stalking her for 15 minutes when he failed to find his initial target, and also injuring a male student who came to help.",
-        "zh": "23岁的张允基因被拒绝交往而心生怨恨，在寻找另一名女性30多小时未果后，跟踪一名正在回家的女高中生15分钟并将其杀害，还伤害了前来帮助的男学生，目前已被拘捕并移送检方。"
+        "ko": "15분간 미행한 여고생을 살해한 장윤기씨는 교제를 거절한 다른 여성을 성폭행하고 30시간 넘게 살해할 목적으로 배회한 뒤 분풀이로 범행을 저지른 것으로 조사됐다.",
+        "en": "Jang Yoon-gi, who murdered a high school girl after stalking her for 15 minutes, committed the crime out of revenge after being rejected by another woman, whom he had previously sexually assaulted and stalked for 30 hours with intent to kill.",
+        "zh": "张允基（Jang Yoon-gi）跟踪一名高中女生15分钟后将其杀害，经调查发现，其犯罪动机是被一名拒绝其求爱的女性激怒，此前他曾性侵该女性并为将其杀害而跟踪徘徊了30小时。"
       }
     },
     {
-      "title": "국민배당금 논쟁에 여당 내에서도 “지극히 옳은 말” “정제된 발언 해야” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605141332001",
-      "source": "경향신문",
-      "pubDate": "Thu, 14 May 2026 04:32:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/14/rcv.YNA.20260427.PYH2026042718330001300_P1.jpg",
-      "summaries": {
-        "ko": "국민배당금 논쟁에 여당 내에서도 “지극히 옳은 말” “정제된 발언 해야” - 경향신문",
-        "en": "국민배당금 논쟁에 여당 내에서도 “지극히 옳은 말” “정제된 발언 해야” - 경향신문",
-        "zh": "국민배당금 논쟁에 여당 내에서도 “지극히 옳은 말” “정제된 발언 해야” - 경향신문"
-      }
-    },
-    {
-      "title": "고위 당국자 “이란 외 주체가 나무호 공격 가능성 낮아” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1258633.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 14 May 2026 11:46:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0514/20260514501661.webp",
-      "summaries": {
-        "ko": "고위 당국자 “이란 외 주체가 나무호 공격 가능성 낮아” - 한겨레",
-        "en": "고위 당국자 “이란 외 주체가 나무호 공격 가능성 낮아” - 한겨레",
-        "zh": "고위 당국자 “이란 외 주체가 나무호 공격 가능성 낮아” - 한겨레"
-      }
-    },
-    {
-      "title": "정원오 측 \"폭행 사건, 상황 수습하려다 휘말린 것\" 동석자 주장 공개 - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/05/14/STOXICA25JHKZNN7U3N7D7W4XM/",
+      "title": "\"삼전 파업땐 최대 100조 피해\"... 김정관, 긴급조정권 행사 방침 - 조선일보",
+      "link": "https://www.chosun.com/economy/industry-company/2026/05/14/HMJM7CT4NFDWLLEVZTMIL4HGAI/",
       "source": "조선일보",
-      "pubDate": "Thu, 14 May 2026 06:24:39 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GZVDD5VCN5K45CTUKU2J6IGLIU.JPG?auth=911fc4d562b4997033bd969143ae793b261b6f0ddfc375617c09286e7e4d062a&width=1200&height=630&focal=2704,1188",
+      "pubDate": "Thu, 14 May 2026 11:10:55 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GRSDANBYGU4TSZRZMYYGMMZQGA.jpg?auth=342d7d253a1cf8554c9a55b8b2639df7f9b87c76fee8f3f77f5baeb68f766420&width=720&height=378&smart=true",
       "summaries": {
-        "ko": "정원오 측 \"폭행 사건, 상황 수습하려다 휘말린 것\" 동석자 주장 공개 - 조선일보",
-        "en": "정원오 측 \"폭행 사건, 상황 수습하려다 휘말린 것\" 동석자 주장 공개 - 조선일보",
-        "zh": "정원오 측 \"폭행 사건, 상황 수습하려다 휘말린 것\" 동석자 주장 공개 - 조선일보"
+        "ko": "\"삼전 파업땐 최대 100조 피해\"... 김정관, 긴급조정권 행사 방침 - 조선일보",
+        "en": "\"삼전 파업땐 최대 100조 피해\"... 김정관, 긴급조정권 행사 방침 - 조선일보",
+        "zh": "\"삼전 파업땐 최대 100조 피해\"... 김정관, 긴급조정권 행사 방침 - 조선일보"
       }
     },
     {
-      "title": "‘광주 세모녀 살해’ 무기수, 교도소에서 사망 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605142056001",
+      "title": "‘광주 세모녀 살해’ 무기수, 교도소서 사망 - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/05/14/7HCWRWPOSJAAFOIT42FL6PSUWE/",
+      "source": "조선일보",
+      "pubDate": "Thu, 14 May 2026 09:35:28 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GU3GEMRYMU3GKZJYGQ3TIZLDGY.jpg?auth=194d667e26d11d6fcebc7031804f1aa1e56b02f27c66650a95b8e5df19d7b48f&width=792&height=415&smart=true",
+      "summaries": {
+        "ko": "‘광주 세모녀 살해’ 무기수, 교도소서 사망 - 조선일보",
+        "en": "‘광주 세모녀 살해’ 무기수, 교도소서 사망 - 조선일보",
+        "zh": "‘광주 세모녀 살해’ 무기수, 교도소서 사망 - 조선일보"
+      }
+    },
+    {
+      "title": "아내에 뺨 맞았던 마크롱…\"이란 여배우 때문이었다\" - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/05/14/5MNJSVX6TVE3LHR3IRQW6ASF64/",
+      "source": "조선일보",
+      "pubDate": "Thu, 14 May 2026 00:37:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/BQZ427BILJBMBAZNEGUC3KYCVA.gif?auth=e8b3495d608ed061e3b4bd30d4d2da568156ab12f6ce32ecc07596c49e6468ff&width=500&height=262&smart=true",
+      "summaries": {
+        "ko": "아내에 뺨 맞았던 마크롱…\"이란 여배우 때문이었다\" - 조선일보",
+        "en": "아내에 뺨 맞았던 마크롱…\"이란 여배우 때문이었다\" - 조선일보",
+        "zh": "아내에 뺨 맞았던 마크롱…\"이란 여배우 때문이었다\" - 조선일보"
+      }
+    },
+    {
+      "title": "술 마시고 테슬라 자율주행 켠 만취운전자···음주운전일까? 아닐까? - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605131800001",
       "source": "경향신문",
-      "pubDate": "Thu, 14 May 2026 11:56:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/14/news-p.v1.20260514.017c7430a8184bfeb8ea5d8119fcf622_P1.png",
+      "pubDate": "Thu, 14 May 2026 09:04:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/13/news-p.v1.20260513.36d4f45026454fec980c89d7431dacd1_P1.png",
       "summaries": {
-        "ko": "‘광주 세모녀 살해’ 무기수, 교도소에서 사망 - 경향신문",
-        "en": "‘광주 세모녀 살해’ 무기수, 교도소에서 사망 - 경향신문",
-        "zh": "‘광주 세모녀 살해’ 무기수, 교도소에서 사망 - 경향신문"
+        "ko": "술 마시고 테슬라 자율주행 켠 만취운전자···음주운전일까? 아닐까? - 경향신문",
+        "en": "술 마시고 테슬라 자율주행 켠 만취운전자···음주운전일까? 아닐까? - 경향신문",
+        "zh": "술 마시고 테슬라 자율주행 켠 만취운전자···음주운전일까? 아닐까? - 경향신문"
       }
     },
     {
-      "title": "주말 낮 30도 웃돌아 ‘미리 여름’… 20일 ‘단비’ 뒤 평년 기온 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1258646.html",
+      "title": "급매 대신 ‘1000만원 월세’… 서초구 고가 임대 급증 - 조선비즈 - Chosunbiz",
+      "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/05/14/MQDKUDA2KJBCLA3HFAAXRZNHOY/",
+      "source": "Chosunbiz",
+      "pubDate": "Thu, 14 May 2026 06:27:00 GMT",
+      "image": "https://biz.chosun.com/resizer/v2/HKCML6OA6FFZNDXPRDHZQPSHEU.jpg?auth=38311ea33e2692e0f7ecc47703fd801796993b50a8c337c05c5cde667687a6c6&width=640&height=336&smart=true",
+      "summaries": {
+        "ko": "급매 대신 ‘1000만원 월세’… 서초구 고가 임대 급증 - 조선비즈 - Chosunbiz",
+        "en": "급매 대신 ‘1000만원 월세’… 서초구 고가 임대 급증 - 조선비즈 - Chosunbiz",
+        "zh": "급매 대신 ‘1000만원 월세’… 서초구 고가 임대 급증 - 조선비즈 - Chosunbiz"
+      }
+    },
+    {
+      "title": "이 대통령 국정 지지율 66.9%…영남권도 60% 넘겨 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1258580.html",
       "source": "한겨레",
-      "pubDate": "Thu, 14 May 2026 05:36:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/549/imgdb/original/2026/0514/20260514501904.webp",
+      "pubDate": "Thu, 14 May 2026 06:36:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/429/imgdb/original/2026/0513/20260513503901.webp",
       "summaries": {
-        "ko": "주말 낮 30도 웃돌아 ‘미리 여름’… 20일 ‘단비’ 뒤 평년 기온 - 한겨레",
-        "en": "주말 낮 30도 웃돌아 ‘미리 여름’… 20일 ‘단비’ 뒤 평년 기온 - 한겨레",
-        "zh": "주말 낮 30도 웃돌아 ‘미리 여름’… 20일 ‘단비’ 뒤 평년 기온 - 한겨레"
+        "ko": "이 대통령 국정 지지율 66.9%…영남권도 60% 넘겨 - 한겨레",
+        "en": "이 대통령 국정 지지율 66.9%…영남권도 60% 넘겨 - 한겨레",
+        "zh": "이 대통령 국정 지지율 66.9%…영남권도 60% 넘겨 - 한겨레"
       }
     },
     {
-      "title": "[단독] 울산 김상욱·김종훈, 여론조사 통한 단일화 사실상 합의 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/election/1258719.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 14 May 2026 09:50:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/670/402/imgdb/child/2026/0514/53_17787491170707_20260514503474.webp",
+      "title": "’20온스 스테이크' 인기는 옛말… 비만약이 뒤흔드는 美 외식업계 - 조선비즈 - Chosunbiz",
+      "link": "https://biz.chosun.com/international/international_general/2026/05/14/6CH4GTBILBAT7C4L6W6N5SRKCI/",
+      "source": "Chosunbiz",
+      "pubDate": "Thu, 14 May 2026 06:12:00 GMT",
+      "image": "https://biz.chosun.com/resizer/v2/HFRGIM3BGJSTANTCMNTDIOJYGU.jpg?auth=077a38081d04f08a4b2612f9c7caf17445f484e1de1ba5147801f4ced8d1a98e&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "[단독] 울산 김상욱·김종훈, 여론조사 통한 단일화 사실상 합의 - 한겨레",
-        "en": "[단독] 울산 김상욱·김종훈, 여론조사 통한 단일화 사실상 합의 - 한겨레",
-        "zh": "[단독] 울산 김상욱·김종훈, 여론조사 통한 단일화 사실상 합의 - 한겨레"
+        "ko": "’20온스 스테이크' 인기는 옛말… 비만약이 뒤흔드는 美 외식업계 - 조선비즈 - Chosunbiz",
+        "en": "’20온스 스테이크' 인기는 옛말… 비만약이 뒤흔드는 美 외식업계 - 조선비즈 - Chosunbiz",
+        "zh": "’20온스 스테이크' 인기는 옛말… 비만약이 뒤흔드는 美 외식업계 - 조선비즈 - Chosunbiz"
       }
     },
     {
-      "title": "종합특검, 윤석열에 26일 소환 통보…尹 \"출석 미정\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260514221001rUq",
-      "source": "Breaking News",
-      "pubDate": "Thu, 14 May 2026 22:10:02 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260514/AKR20260514221001rUq_01_i.jpg",
+      "title": "\"불장에 취하지 마라\"…스타 블로거 '메르'의 투자 조언 - 연합인포맥스",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4414707",
+      "source": "연합인포맥스",
+      "pubDate": "Wed, 13 May 2026 22:52:18 GMT",
+      "image": "https://cdn.news.einfomax.co.kr/news/thumbnail/202605/4414707_315275_212_v150.jpg",
       "summaries": {
-        "ko": "종합특검, 윤석열에 26일 소환 통보…尹 \"출석 미정\"",
-        "en": "종합특검, 윤석열에 26일 소환 통보…尹 \"출석 미정\"",
-        "zh": "종합특검, 윤석열에 26일 소환 통보…尹 \"출석 미정\""
+        "ko": "\"불장에 취하지 마라\"…스타 블로거 '메르'의 투자 조언 - 연합인포맥스",
+        "en": "\"불장에 취하지 마라\"…스타 블로거 '메르'의 투자 조언 - 연합인포맥스",
+        "zh": "\"불장에 취하지 마라\"…스타 블로거 '메르'의 투자 조언 - 연합인포맥스"
+      }
+    },
+    {
+      "title": "효성중공업, 제2의 '국민주'후보로 부상?…황제주 '액면분할' 논란 가열 - 인베스트조선",
+      "link": "https://www.investchosun.com/site/data/html_dir/2026/05/13/2026051380047.html",
+      "source": "인베스트조선",
+      "pubDate": "Tue, 12 May 2026 22:00:00 GMT",
+      "image": "https://img.investchosun.com/site/data/img_dir/2026/05/13/2026051380047_0.png",
+      "summaries": {
+        "ko": "효성중공업, 제2의 '국민주'후보로 부상?…황제주 '액면분할' 논란 가열 - 인베스트조선",
+        "en": "효성중공업, 제2의 '국민주'후보로 부상?…황제주 '액면분할' 논란 가열 - 인베스트조선",
+        "zh": "효성중공업, 제2의 '국민주'후보로 부상?…황제주 '액면분할' 논란 가열 - 인베스트조선"
       }
     }
   ]
