@@ -1,52 +1,28 @@
 {
-  "lastUpdate": "2026-05-14T11:29:37.220673",
+  "lastUpdate": "2026-05-14T13:14:29.374494",
   "items": [
     {
-      "title": "시진핑 ‘확 세진’ 발언 수위···트럼프 면전에서 “대만 문제 잘못 처리하면 중·미 충돌” 경고 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605141614001",
+      "title": "시진핑 “중국 부흥과 마가 양립 가능” 트럼프 “시주석은 친구, 건설적 논의” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1258753.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 14 May 2026 11:40:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0514/2917787592236788.webp",
+      "summaries": {
+        "ko": "시진핑 주석이 트럼프 전 대통령에게 중국의 부흥과 '미국을 다시 위대하게'(MAGA)가 양립 가능하다고 언급하며 파트너십을 강조, 9년 전 트럼프 방중 때와 확연히 달라진 미중 양국의 위상 변화를 드러냈다.",
+        "en": "During a dinner with former President Trump, Xi Jinping stated that China's resurgence and \"Make America Great Again\" (MAGA) are compatible, emphasizing partnership and revealing a significant shift in the US-China dynamic compared to Trump's 2017 visit.",
+        "zh": "在与前总统特朗普的晚宴上，习近平表示中国复兴与“让美国再次伟大”(MAGA)相容，强调伙伴关系，并揭示了与2017年特朗普访华时截然不同的中美关系地位变化。"
+      }
+    },
+    {
+      "title": "윤석열 내란 항소심 재판 ‘잠정 정지’…“재판부 못 믿겠다” 30분 만에 피고인 절반 퇴정 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605141655001",
       "source": "경향신문",
-      "pubDate": "Thu, 14 May 2026 07:14:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/14/news-p.v1.20260514.87132654ccec4a2cb16012a4904ea37f_P1.jpg",
+      "pubDate": "Thu, 14 May 2026 07:55:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/14/news-p.v1.20260514.19433667b5b440c4b7b44aaad9dcf8a2_P1.jpeg",
       "summaries": {
-        "ko": "시진핑 주석이 미·중 정상회담에서 트럼프 대통령에게 대만 문제를 잘못 처리하면 중·미 간 충돌로 이어질 수 있다고 이례적으로 강하게 경고했으며, 이에 대만은 중국의 군사적 위협이 불안 요소라고 반발했다.",
-        "en": "During the US-China summit, President Xi Jinping issued an unusually strong warning to President Trump that mishandling the Taiwan issue could lead to conflict between the two nations, a stance Taiwan immediately countered by stating that China's military threats are the true source of regional instability.",
-        "zh": "在中美峰会上，习近平主席罕见地向特朗普总统发出严厉警告，称若台湾问题处理不当可能导致中美冲突，而台湾则立即反驳称中国的军事威胁才是地区不稳定的根源。"
-      }
-    },
-    {
-      "title": "윤석열 ‘재판부 기피신청’ 몽니에…내란 항소심, 첫 재판부터 정지 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1258703.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 14 May 2026 09:32:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/591/imgdb/original/2026/0514/20260514503318.webp",
-      "summaries": {
-        "ko": "윤석열 전 대통령과 군 지휘부 3명이 내란 혐의 항소심 재판부에 대한 기피 신청을 제기해, 이들 4명의 첫 항소심 재판이 첫날부터 정지되고 사건이 분리됐다.",
-        "en": "Former President Yoon Suk-yeol and three military commanders filed a recusal request against the appellate court judges in their sedition case, leading to the suspension of the first appellate trial for these four from the outset and the separation of their cases.",
-        "zh": "前总统尹锡悦和三名军方指挥官对他们的内乱嫌疑上诉案法官提出回避申请，导致这四人的首次上诉审判从一开始就被中止，案件也被分离审理。"
-      }
-    },
-    {
-      "title": "\"주폭 의혹은 조작\" \"박원순 시즌2\"…거세지는 '네거티브' - 뉴스토마토",
-      "link": "https://www.newstomato.com/ReadNews.aspx?no=1300985",
-      "source": "뉴스토마토",
-      "pubDate": "Thu, 14 May 2026 08:40:37 GMT",
-      "image": "https://image.newstomato.com/newsimg/2026/5/14/1300985/attach.jpg?v=202605141800",
-      "summaries": {
-        "ko": "서울시장 후보 오세훈과 정원오가 네거티브 공방을 벌이며, 오 후보는 정 후보의 과거 '주폭 의혹'을 제기하고 부동산 공약을 '박원순 시즌2'라고 비판했으며, 정 후보는 의혹을 조작이라 반박하고 부동산 정책을 내세우고 있다.",
-        "en": "Seoul mayoral candidates Oh Se-hoon and Jung Won-oh are intensifying negative campaigning, with Oh accusing Jung of past drunken violence and criticizing his real estate pledges as \"Park Won-soon Season 2,\" while Jung refutes the allegations as fabrication and promotes his housing policies.",
-        "zh": "首尔市长候选人吴世勋和郑源午之间的负面竞选日益激烈，吴世勋指控郑源午过去有“酒后施暴”嫌疑并批评其房地产承诺是“朴元淳第二季”，而郑源午则驳斥指控为捏造并推销其住房政策。"
-      }
-    },
-    {
-      "title": "미 국무 “중, 이란에 적극 역할해야…금주 유엔서 행동 기회” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/china/1258604.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 14 May 2026 01:43:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0514/20260514501054.webp",
-      "summaries": {
-        "ko": "미국 국무장관 마코 루비오가 중국을 방문하여, 상호 경제적 이익과 이번 주 유엔에서 행동할 기회를 언급하며 중국이 페르시아만, 특히 호르무즈 해협과 관련하여 이란의 긴장 완화를 적극적으로 압박할 것을 촉구했다.",
-        "en": "U.S. Secretary of State Marco Rubio, visiting China, urged Beijing to actively pressure Iran to de-escalate tensions in the Persian Gulf, particularly regarding the Strait of Hormuz, citing mutual economic interests and a coming opportunity at the UN this week.",
-        "zh": "美国国务卿马可·卢比奥访问中国，敦促北京积极向伊朗施压，以缓和波斯湾，特别是霍尔木兹海峡的紧张局势，并提及共同经济利益以及本周在联合国采取行动的机会。"
+        "ko": "윤석열 전 대통령 등 내란 혐의 피고인 4명의 항소심 재판이 재판부 기피 신청으로 잠정 정지되었으며, 이는 1심처럼 재판 지연 전략이라는 우려를 낳고 있다.",
+        "en": "The appellate trial for former President Yoon Suk-yeol and three others on rebellion charges has been temporarily suspended after they filed motions to disqualify the judges, raising concerns about potential trial delay tactics mirroring the first trial.",
+        "zh": "前总统尹锡悦等四名涉嫌内乱罪的被告，因对法官提出回避申请，其上诉审判被暂时中止，引发了关于这可能是一审中拖延庭审策略的担忧。"
       }
     },
     {
@@ -62,27 +38,63 @@
       }
     },
     {
-      "title": "광주 여고생 살해범은 23세 장윤기…경찰 신상공개 - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260514/133919441/1",
-      "source": "동아일보",
-      "pubDate": "Wed, 13 May 2026 22:25:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/14/133919552.1.jpg",
+      "title": "장윤기, 여고생 15분 미행 뒤 살해…교제거절 여성 죽이려 30시간 배회 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/honam/1258632.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 14 May 2026 12:15:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/701/460/imgdb/original/2026/0514/20260514501652.webp",
       "summaries": {
-        "ko": "광주 여고생 살해범은 23세 장윤기…경찰 신상공개 - 동아일보",
-        "en": "광주 여고생 살해범은 23세 장윤기…경찰 신상공개 - 동아일보",
-        "zh": "광주 여고생 살해범은 23세 장윤기…경찰 신상공개 - 동아일보"
+        "ko": "교제 거절에 앙심을 품고 30시간 동안 다른 여성을 찾아다니던 23세 장윤기씨가 실패하자 귀가하던 여고생을 15분 미행 끝에 살해하고 도우러 온 남학생까지 다치게 한 혐의로 구속 송치됐다.",
+        "en": "Jang Yun-ki, 23, who harbored resentment after being rejected and searched for another woman for over 30 hours, was arrested and sent to prosecution for murdering a high school girl after stalking her for 15 minutes when he failed to find his initial target, and also injuring a male student who came to help.",
+        "zh": "23岁的张允基因被拒绝交往而心生怨恨，在寻找另一名女性30多小时未果后，跟踪一名正在回家的女高中生15分钟并将其杀害，还伤害了前来帮助的男学生，目前已被拘捕并移送检方。"
       }
     },
     {
-      "title": "‘그래서 윤석열 감옥’ 현수막 필요한 동네요? 손들면 달아드려요 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1258666.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 14 May 2026 08:07:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/550/imgdb/original/2026/0514/20260514502413.webp",
+      "title": "국민배당금 논쟁에 여당 내에서도 “지극히 옳은 말” “정제된 발언 해야” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605141332001",
+      "source": "경향신문",
+      "pubDate": "Thu, 14 May 2026 04:32:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/14/rcv.YNA.20260427.PYH2026042718330001300_P1.jpg",
       "summaries": {
-        "ko": "진보당이 국민의힘의 '대통령도 죄를 지으면 감옥에 가자'는 현수막에 '그래서 윤석열 감옥'이라는 맞불 현수막으로 대응하며, 전국적인 설치를 위해 국민 제보를 받고 있다.",
-        "en": "The Progressive Party is creating 'So Yoon Suk-yeol to jail' counter-banners in response to the People Power Party's 'A president goes to jail if guilty' banners, and is now soliciting public reports to install them nationwide.",
-        "zh": "进步党正在制作“所以尹锡悦入狱”的反击横幅，以回应国民力量党“总统有罪就该进监狱”的横幅，并正在征集公众报告以便在全国范围内安装这些横幅。"
+        "ko": "국민배당금 논쟁에 여당 내에서도 “지극히 옳은 말” “정제된 발언 해야” - 경향신문",
+        "en": "국민배당금 논쟁에 여당 내에서도 “지극히 옳은 말” “정제된 발언 해야” - 경향신문",
+        "zh": "국민배당금 논쟁에 여당 내에서도 “지극히 옳은 말” “정제된 발언 해야” - 경향신문"
+      }
+    },
+    {
+      "title": "고위 당국자 “이란 외 주체가 나무호 공격 가능성 낮아” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1258633.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 14 May 2026 11:46:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0514/20260514501661.webp",
+      "summaries": {
+        "ko": "고위 당국자 “이란 외 주체가 나무호 공격 가능성 낮아” - 한겨레",
+        "en": "고위 당국자 “이란 외 주체가 나무호 공격 가능성 낮아” - 한겨레",
+        "zh": "고위 당국자 “이란 외 주체가 나무호 공격 가능성 낮아” - 한겨레"
+      }
+    },
+    {
+      "title": "정원오 측 \"폭행 사건, 상황 수습하려다 휘말린 것\" 동석자 주장 공개 - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/05/14/STOXICA25JHKZNN7U3N7D7W4XM/",
+      "source": "조선일보",
+      "pubDate": "Thu, 14 May 2026 06:24:39 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GZVDD5VCN5K45CTUKU2J6IGLIU.JPG?auth=911fc4d562b4997033bd969143ae793b261b6f0ddfc375617c09286e7e4d062a&width=1200&height=630&focal=2704,1188",
+      "summaries": {
+        "ko": "정원오 측 \"폭행 사건, 상황 수습하려다 휘말린 것\" 동석자 주장 공개 - 조선일보",
+        "en": "정원오 측 \"폭행 사건, 상황 수습하려다 휘말린 것\" 동석자 주장 공개 - 조선일보",
+        "zh": "정원오 측 \"폭행 사건, 상황 수습하려다 휘말린 것\" 동석자 주장 공개 - 조선일보"
+      }
+    },
+    {
+      "title": "‘광주 세모녀 살해’ 무기수, 교도소에서 사망 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605142056001",
+      "source": "경향신문",
+      "pubDate": "Thu, 14 May 2026 11:56:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/14/news-p.v1.20260514.017c7430a8184bfeb8ea5d8119fcf622_P1.png",
+      "summaries": {
+        "ko": "‘광주 세모녀 살해’ 무기수, 교도소에서 사망 - 경향신문",
+        "en": "‘광주 세모녀 살해’ 무기수, 교도소에서 사망 - 경향신문",
+        "zh": "‘광주 세모녀 살해’ 무기수, 교도소에서 사망 - 경향신문"
       }
     },
     {
@@ -92,57 +104,33 @@
       "pubDate": "Thu, 14 May 2026 05:36:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/800/549/imgdb/original/2026/0514/20260514501904.webp",
       "summaries": {
-        "ko": "이번 주말과 다음 주 초 전국적으로 낮 최고기온이 31~33도 안팎으로 치솟는 초여름 날씨가 예상되지만, 20일 전국적인 비로 기온이 평년 수준으로 내려갈 전망이다.",
-        "en": "South Korea is expected to experience early summer-like weather with daytime temperatures soaring to around 31-33°C this weekend and early next week, before nationwide rain on May 20th brings temperatures back to seasonal averages.",
-        "zh": "韩国本周末至下周初将迎来初夏般的天气，白天最高气温将飙升至31-33摄氏度左右，预计5月20日全国范围的降雨将使气温恢复到季节平均水平。"
+        "ko": "주말 낮 30도 웃돌아 ‘미리 여름’… 20일 ‘단비’ 뒤 평년 기온 - 한겨레",
+        "en": "주말 낮 30도 웃돌아 ‘미리 여름’… 20일 ‘단비’ 뒤 평년 기온 - 한겨레",
+        "zh": "주말 낮 30도 웃돌아 ‘미리 여름’… 20일 ‘단비’ 뒤 평년 기온 - 한겨레"
       }
     },
     {
-      "title": "직접 나선 이 대통령 “AI 초과 ‘세수’ 국민배당 검토…‘이윤’ 아닌데 음해” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1258453.html",
+      "title": "[단독] 울산 김상욱·김종훈, 여론조사 통한 단일화 사실상 합의 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/election/1258719.html",
       "source": "한겨레",
-      "pubDate": "Thu, 14 May 2026 03:22:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0513/53_17786487771224_20260513501861.webp",
+      "pubDate": "Thu, 14 May 2026 09:50:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/670/402/imgdb/child/2026/0514/53_17787491170707_20260514503474.webp",
       "summaries": {
-        "ko": "직접 나선 이 대통령 “AI 초과 ‘세수’ 국민배당 검토…‘이윤’ 아닌데 음해” - 한겨레",
-        "en": "직접 나선 이 대통령 “AI 초과 ‘세수’ 국민배당 검토…‘이윤’ 아닌데 음해” - 한겨레",
-        "zh": "직접 나선 이 대통령 “AI 초과 ‘세수’ 국민배당 검토…‘이윤’ 아닌데 음해” - 한겨레"
+        "ko": "[단독] 울산 김상욱·김종훈, 여론조사 통한 단일화 사실상 합의 - 한겨레",
+        "en": "[단독] 울산 김상욱·김종훈, 여론조사 통한 단일화 사실상 합의 - 한겨레",
+        "zh": "[단독] 울산 김상욱·김종훈, 여론조사 통한 단일화 사실상 합의 - 한겨레"
       }
     },
     {
-      "title": "국방부 \"나무호 현장 조사 위해 기술분석팀 두바이 파견\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6822378_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Thu, 14 May 2026 02:04:43 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/14/kds_20260514_27.jpg",
-      "summaries": {
-        "ko": "국방부 \"나무호 현장 조사 위해 기술분석팀 두바이 파견\" - MBC 뉴스",
-        "en": "국방부 \"나무호 현장 조사 위해 기술분석팀 두바이 파견\" - MBC 뉴스",
-        "zh": "국방부 \"나무호 현장 조사 위해 기술분석팀 두바이 파견\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "[속보] 트럼프 \"시주석 부부 9월24일 방미 예정\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260514194811qxq",
+      "title": "종합특검, 윤석열에 26일 소환 통보…尹 \"출석 미정\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260514221001rUq",
       "source": "Breaking News",
-      "pubDate": "Thu, 14 May 2026 19:48:29 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260514/MYH20260514194811qxq.jpg",
+      "pubDate": "Thu, 14 May 2026 22:10:02 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260514/AKR20260514221001rUq_01_i.jpg",
       "summaries": {
-        "ko": "[속보] 트럼프 \"시주석 부부 9월24일 방미 예정\"",
-        "en": "[속보] 트럼프 \"시주석 부부 9월24일 방미 예정\"",
-        "zh": "[속보] 트럼프 \"시주석 부부 9월24일 방미 예정\""
-      }
-    },
-    {
-      "title": "종합특검 '계엄 정당화 메시지' 김태효 내일 소환",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260514194740kOc",
-      "source": "Breaking News",
-      "pubDate": "Thu, 14 May 2026 19:48:02 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260514/MYH20260514194740kOc.jpg",
-      "summaries": {
-        "ko": "종합특검 '계엄 정당화 메시지' 김태효 내일 소환",
-        "en": "종합특검 '계엄 정당화 메시지' 김태효 내일 소환",
-        "zh": "종합특검 '계엄 정당화 메시지' 김태효 내일 소환"
+        "ko": "종합특검, 윤석열에 26일 소환 통보…尹 \"출석 미정\"",
+        "en": "종합특검, 윤석열에 26일 소환 통보…尹 \"출석 미정\"",
+        "zh": "종합특검, 윤석열에 26일 소환 통보…尹 \"출석 미정\""
       }
     }
   ]
