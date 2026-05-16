@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-16T12:06:54.311790",
+  "lastUpdate": "2026-05-16T13:54:19.604502",
   "items": [
     {
       "title": "“美 반도체 산업을 훔쳐갔다” 중국 다녀온 트럼프, 대만에 화살 - 동아일보",
@@ -14,27 +14,51 @@
       }
     },
     {
+      "title": "이란 국영방송 “호르무즈 통제 차질 없어···유럽도 협상 나서” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605162118001",
+      "source": "경향신문",
+      "pubDate": "Sat, 16 May 2026 12:18:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/16/news-p.v1.20260414.45500a8d1d064a84b98947752696733a_P1.jpeg",
+      "summaries": {
+        "ko": "이란 국영방송은 호르무즈 해협에 대한 이란의 통제가 차질 없이 유지되고 있으며, 유럽 국가들도 이란 해군과 협상에 착수했다고 보도했다.",
+        "en": "Iran's state broadcaster reported that Iran maintains firm control over the Strait of Hormuz without obstruction, and that European countries have also begun negotiations with the Iranian navy.",
+        "zh": "伊朗国家电视台报道称，伊朗对霍尔木兹海峡的控制未受阻碍，且欧洲国家也已开始与伊朗海军进行谈判。"
+      }
+    },
+    {
       "title": "일요일도 때이른 더위 계속···서울 한낮 최고 31도 - 경향신문",
       "link": "https://www.khan.co.kr/article/202605162011001",
       "source": "경향신문",
       "pubDate": "Sat, 16 May 2026 11:11:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/05/16/news-p.v1.20260514.f3c7d85380324a4981aaeab61638f34e_P1.jpeg",
       "summaries": {
-        "ko": "일요일인 17일 전국이 맑은 가운데 낮 기온이 30도 이상으로 오르며 때이른 여름 더위가 이어지겠고, 큰 일교차와 아침 안개에 유의해야 한다.",
-        "en": "On Sunday, the 17th, South Korea will experience early summer heat with clear skies and daytime temperatures rising above 30 degrees Celsius, requiring caution due to large daily temperature differences and morning fog.",
-        "zh": "周日（17日），韩国全国将持续晴朗，白天气温升至30摄氏度以上，提前迎来夏季炎热，需注意昼夜温差大和清晨的雾气。"
+        "ko": "일요일도 때이른 더위 계속···서울 한낮 최고 31도 - 경향신문",
+        "en": "일요일도 때이른 더위 계속···서울 한낮 최고 31도 - 경향신문",
+        "zh": "일요일도 때이른 더위 계속···서울 한낮 최고 31도 - 경향신문"
       }
     },
     {
-      "title": "북한산 입산 후 실종된 50대 여성, 28일만에 숨진채 발견 - 연합뉴스 한민족센터",
-      "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1354303",
+      "title": "中상무부 \"美와 동등 규모로 각자 중시 제품 관세인하 합의\" - 연합뉴스 한민족센터",
+      "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1354325",
       "source": "연합뉴스 한민족센터",
-      "pubDate": "Sat, 16 May 2026 09:47:24 GMT",
+      "pubDate": "Sat, 16 May 2026 13:06:21 GMT",
       "image": "https://www.koreancenter.or.kr/image/logo/snslogo_20241018113332.png",
       "summaries": {
-        "ko": "북한산 입산 후 실종된 50대 여성, 28일만에 숨진채 발견 - 연합뉴스 한민족센터",
-        "en": "북한산 입산 후 실종된 50대 여성, 28일만에 숨진채 발견 - 연합뉴스 한민족센터",
-        "zh": "북한산 입산 후 실종된 50대 여성, 28일만에 숨진채 발견 - 연합뉴스 한민족센터"
+        "ko": "中상무부 \"美와 동등 규모로 각자 중시 제품 관세인하 합의\" - 연합뉴스 한민족센터",
+        "en": "中상무부 \"美와 동등 규모로 각자 중시 제품 관세인하 합의\" - 연합뉴스 한민족센터",
+        "zh": "中상무부 \"美와 동등 규모로 각자 중시 제품 관세인하 합의\" - 연합뉴스 한민족센터"
+      }
+    },
+    {
+      "title": "북한산 오른 뒤 실종된 50대 여성, 28일 만에 숨진 채 발견 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1258984.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 16 May 2026 11:24:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/567/340/imgdb/child/2026/0516/53_17789305851839_20260516500665.webp",
+      "summaries": {
+        "ko": "북한산 오른 뒤 실종된 50대 여성, 28일 만에 숨진 채 발견 - 한겨레",
+        "en": "북한산 오른 뒤 실종된 50대 여성, 28일 만에 숨진 채 발견 - 한겨레",
+        "zh": "북한산 오른 뒤 실종된 50대 여성, 28일 만에 숨진 채 발견 - 한겨레"
       }
     },
     {
@@ -62,15 +86,15 @@
       }
     },
     {
-      "title": "‘한낮 31도’ 서울서 올해 첫 온열 질환 사망자 발생…역대 가장 일러 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1258981.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 16 May 2026 10:09:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0516/53_17789260058292_20260516500621.webp",
+      "title": "연천 계곡서 물에 빠진 중학생 심정지 이송…끝내 숨져 - 네이트",
+      "link": "https://news.nate.com/view/20260516n09753",
+      "source": "네이트",
+      "pubDate": "Sat, 16 May 2026 08:11:00 GMT",
+      "image": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nt/2026/05/16/17789185356a082487b9d49.jpg",
       "summaries": {
-        "ko": "‘한낮 31도’ 서울서 올해 첫 온열 질환 사망자 발생…역대 가장 일러 - 한겨레",
-        "en": "‘한낮 31도’ 서울서 올해 첫 온열 질환 사망자 발생…역대 가장 일러 - 한겨레",
-        "zh": "‘한낮 31도’ 서울서 올해 첫 온열 질환 사망자 발생…역대 가장 일러 - 한겨레"
+        "ko": "연천 계곡서 물에 빠진 중학생 심정지 이송…끝내 숨져 - 네이트",
+        "en": "연천 계곡서 물에 빠진 중학생 심정지 이송…끝내 숨져 - 네이트",
+        "zh": "연천 계곡서 물에 빠진 중학생 심정지 이송…끝내 숨져 - 네이트"
       }
     },
     {
@@ -86,39 +110,27 @@
       }
     },
     {
-      "title": "‘마음은 평안으로, 세상은 화합으로’ 불기2570년 연등회 막 올랐다 - 법보신문",
-      "link": "https://www.beopbo.com/news/articleView.html?idxno=335501",
-      "source": "법보신문",
-      "pubDate": "Sat, 16 May 2026 09:13:09 GMT",
-      "image": "https://cdn.beopbo.com/news/thumbnail/202605/335501_156277_5912_v150.jpg",
-      "summaries": {
-        "ko": "‘마음은 평안으로, 세상은 화합으로’ 불기2570년 연등회 막 올랐다 - 법보신문",
-        "en": "‘마음은 평안으로, 세상은 화합으로’ 불기2570년 연등회 막 올랐다 - 법보신문",
-        "zh": "‘마음은 평안으로, 세상은 화합으로’ 불기2570년 연등회 막 올랐다 - 법보신문"
-      }
-    },
-    {
-      "title": "[서울시 팩트브리핑] 기둥 철근 누락 부분 관련, 설계 기준 이상으로 보강 예정이며, GTX-A 삼성역 무정차통과 일정에는 지장없도록 하겠습니다 - 내 손안에 서울",
-      "link": "https://mediahub.seoul.go.kr/archives/2018167",
-      "source": "내 손안에 서울",
-      "pubDate": "Fri, 15 May 2026 14:33:00 GMT",
-      "image": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/05/jHpTCWPlVPQZwKeDoZbgWyIqRRkOTpTD.jpg?ver=1.0",
-      "summaries": {
-        "ko": "[서울시 팩트브리핑] 기둥 철근 누락 부분 관련, 설계 기준 이상으로 보강 예정이며, GTX-A 삼성역 무정차통과 일정에는 지장없도록 하겠습니다 - 내 손안에 서울",
-        "en": "[서울시 팩트브리핑] 기둥 철근 누락 부분 관련, 설계 기준 이상으로 보강 예정이며, GTX-A 삼성역 무정차통과 일정에는 지장없도록 하겠습니다 - 내 손안에 서울",
-        "zh": "[서울시 팩트브리핑] 기둥 철근 누락 부분 관련, 설계 기준 이상으로 보강 예정이며, GTX-A 삼성역 무정차통과 일정에는 지장없도록 하겠습니다 - 내 손안에 서울"
-      }
-    },
-    {
-      "title": "李 연일 지방서 민심 청취…국힘 “명백한 선거운동 법적조치 검토” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260515/133932872/1",
+      "title": "고비마다 대통령들은 ‘시장’에 간다…지켜보는 野는 ‘불편’ - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260516/133934755/2",
       "source": "동아일보",
-      "pubDate": "Fri, 15 May 2026 10:38:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/15/133932382.1.jpg",
+      "pubDate": "Sat, 16 May 2026 07:55:06 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/16/133934876.1.jpg",
       "summaries": {
-        "ko": "李 연일 지방서 민심 청취…국힘 “명백한 선거운동 법적조치 검토” - 동아일보",
-        "en": "李 연일 지방서 민심 청취…국힘 “명백한 선거운동 법적조치 검토” - 동아일보",
-        "zh": "李 연일 지방서 민심 청취…국힘 “명백한 선거운동 법적조치 검토” - 동아일보"
+        "ko": "고비마다 대통령들은 ‘시장’에 간다…지켜보는 野는 ‘불편’ - 동아일보",
+        "en": "고비마다 대통령들은 ‘시장’에 간다…지켜보는 野는 ‘불편’ - 동아일보",
+        "zh": "고비마다 대통령들은 ‘시장’에 간다…지켜보는 野는 ‘불편’ - 동아일보"
+      }
+    },
+    {
+      "title": "[속보] 中 “미국과 각자 주목하는 제품 관세 인하 합의”",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260516213538Ebr",
+      "source": "Breaking News",
+      "pubDate": "Sat, 16 May 2026 21:35:41 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260516/AKR20260516213538Ebr_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] 中 “미국과 각자 주목하는 제품 관세 인하 합의”",
+        "en": "[속보] 中 “미국과 각자 주목하는 제품 관세 인하 합의”",
+        "zh": "[속보] 中 “미국과 각자 주목하는 제품 관세 인하 합의”"
       }
     }
   ]
