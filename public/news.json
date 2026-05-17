@@ -1,124 +1,136 @@
 {
-  "lastUpdate": "2026-05-17T09:29:45.943719",
+  "lastUpdate": "2026-05-17T10:49:56.690559",
   "items": [
     {
-      "title": "‘이 대통령 모내기’했던 경북 군위서 국힘 당원 1701명 집단 탈당 후 ‘김부겸 지지’ 선언 - 경향신문",
+      "title": "‘이 대통령 모내기’했던 대구 군위서 국힘 당원 1701명 집단 탈당 후 ‘김부겸 지지’ 선언 - 경향신문",
       "link": "https://www.khan.co.kr/article/202605171412001",
       "source": "경향신문",
       "pubDate": "Sun, 17 May 2026 05:12:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/05/17/news-p.v1.20260517.9381d240652047b58f7885b3009619ed_P1.png",
       "summaries": {
-        "ko": "경북 군위에서 국민의힘 당원 1701명이 당이 지역과 신공항 사업을 외면한다고 비판하며 집단 탈당 후 더불어민주당 김부겸 후보 지지를 선언했다.",
-        "en": "In Gunwi, Gyeongbuk, 1701 members of the People Power Party collectively defected and declared support for Democratic Party candidate Kim Boo-kyum, criticizing their former party for neglecting the region and the new airport project.",
-        "zh": "在庆北军威，1701名国民力量党党员集体退党，并宣布支持共同民主党候选人金富谦，指责国民力量党忽视当地和新机场项目。"
+        "ko": "대구 군위 지역 국민의힘 당원 1701명이 신공항 사업 지연 등 지역 현안 외면을 이유로 집단 탈당 후 더불어민주당 김부겸 대구시장 후보 지지를 선언했다.",
+        "en": "1701 members of the People Power Party in Gunwi, Daegu, collectively defected and declared support for Democratic Party Daegu mayoral candidate Kim Bu-gyeom, citing their former party's neglect of local issues such as the new airport project delay.",
+        "zh": "大邱军威地区1701名国民力量党党员集体退党，并宣布支持共同民主党大邱市长候选人金富谦，理由是国民力量党忽视了新机场项目延误等地区问题。"
       }
     },
     {
-      "title": "내일부터 고유가 지원금 2차 지급…국민 70% ‘최대 25만원’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1259017.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 17 May 2026 07:38:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0517/20260517500992.webp",
-      "summaries": {
-        "ko": "정부가 18일부터 7월 3일까지 고유가 피해지원금 2차 신청을 받아 1차 지급에 포함되지 않은 국민 70%에게 지역별로 최대 25만원을 신용·체크카드, 선불카드, 지역사랑상품권 등으로 지급하며, 사용 기한은 8월 31일까지이다.",
-        "en": "Starting from the 18th until July 3rd, the government is accepting applications for the second round of high fuel price support, providing up to 250,000 won (regionally varied) to 70% of citizens not included in the first payment, distributable via credit/debit cards, prepaid cards, or local gift certificates, with a usage deadline of August 31st.",
-        "zh": "韩国政府将从18日至7月3日接受第二轮高油价损害补贴的申请，向未纳入第一批次的70%国民提供最高25万韩元（按地区差异），可通过信用卡、预付卡或地区商品券支付，使用期限至8月31日。"
-      }
-    },
-    {
-      "title": "트럼프 “대만 무기판매, 좋은 협상 칩”…“한국도 불안케 하는 발언” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1259043.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 17 May 2026 06:55:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0517/20260517501531.webp",
-      "summaries": {
-        "ko": "트럼프 전 대통령이 대만에 대한 무기 판매를 중국과의 협상 칩으로 활용할 수 있다고 밝혀, 수십 년간 이어온 미국의 대만 외교 원칙을 흔들고 동맹국들의 불안감을 증폭시키고 있다.",
-        "en": "Former President Trump stated that arms sales to Taiwan could be used as a negotiating chip with China, undermining decades-old U.S. diplomatic principles regarding Taiwan and increasing unease among allies.",
-        "zh": "前总统特朗普表示，对台湾的武器销售可以作为与中国谈判的筹码，这动摇了美国数十年来的对台外交原则，并加剧了盟友的不安。"
-      }
-    },
-    {
-      "title": "장동혁 \"정원오, 보수당이었으면 진작 쫓겨났을 사람…퇴출해야\"(종합) - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260517023051001",
-      "source": "연합뉴스",
-      "pubDate": "Sun, 17 May 2026 08:11:20 GMT",
-      "image": "https://img0.yna.co.kr/photo/yna/YH/2026/05/15/PYH2026051510550001300_P4.jpg",
-      "summaries": {
-        "ko": "국민의힘은 장동혁 대표를 필두로 더불어민주당 정원오 서울시장 후보의 과거 폭행 사건을 '주폭'이자 '5·18 정신 모독'으로 맹비난하며 관련 민주당 인사들의 퇴출을 촉구했고, 민주당 의원들에 대한 무고죄 맞고발도 예고했다.",
-        "en": "The People Power Party, led by Chairman Jang Dong-hyuk, vehemently criticized Democratic Party of Korea's Seoul mayoral candidate Jeong Won-oh over a past assault incident, labeling him a \"habitual drunkard\" and accusing him and other DPK figures of \"mocking the 5.18 spirit,\" while also announcing a counter-complaint for false accusation against DPK lawmakers.",
-        "zh": "国民力量党以党首张东赫为首，猛烈抨击共同民主党首尔市长候选人郑元吾过去的暴力事件，称其为“惯性醉酒者”并指控其“亵渎5·18精神”，同时呼吁淘汰相关的共同民主党人士，并预告将对共同民主党议员提起诬告反诉。"
-      }
-    },
-    {
-      "title": "“깜깜이 투표 조장, 신비주의인가?”…국힘, ‘토론 최소화’ 민주당 비판 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1258985.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 17 May 2026 07:09:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0516/53_17789321824555_20260516500680.webp",
-      "summaries": {
-        "ko": "국민의힘은 더불어민주당 후보들이 법정 토론 횟수만 지키며 토론을 최소화하고 강성 친민주당 유튜버 방송에 출연하는 것을 '깜깜이 투표 조장'이자 '침대 축구'라며 강하게 비판했다.",
-        "en": "The People Power Party strongly criticized Democratic Party of Korea candidates for minimizing debate participation to only the legally required minimum and appearing on pro-DPK YouTube channels, labeling it \"bed football\" tactics that promote \"blind voting.\"",
-        "zh": "韩国执政党国民力量党强烈批评共同民主党候选人将辩论次数限制在法定最低限度，并频繁出现在亲民主党YouTube频道，称此举为助长“盲投”的“拖延战术”（침대 축구）行为。"
-      }
-    },
-    {
-      "title": "안창호 인권위원장, 5·18 기념식 불참…상임위원 3명만 참석 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/05/17/HAGG3KMY6BCJZMO7PHHXGADTP4/",
+      "title": "미국 대표단, 귀국길 중국서 받은 물건 전부 쓰레기통행 - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/05/17/EZ4AMYED5BGWFEWNIKWI467J7Q/",
       "source": "조선일보",
-      "pubDate": "Sun, 17 May 2026 07:04:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GI2TGMRYGRSGENBZGYZDGOJTG4.jpg?auth=1d4535f854edfb8ce868cdea50a55a186930b89d5ec94817f2b4633dbf955640&width=1200&height=630&smart=true",
+      "pubDate": "Sun, 17 May 2026 05:33:08 GMT",
+      "image": "https://www.chosun.com/resizer/v2/FU2Z3HXIR5IPLAULMTUUXGXAIU.jpg?auth=bdaf9670e824ec0c56118ef1ebf63637f9c12bfc2c37e1ff3d08f7edf8b438c4&width=1200&height=630&focal=2319,1761",
       "summaries": {
-        "ko": "안창호 인권위원장, 5·18 기념식 불참…상임위원 3명만 참석 - 조선일보",
-        "en": "안창호 인권위원장, 5·18 기념식 불참…상임위원 3명만 참석 - 조선일보",
-        "zh": "안창호 인권위원장, 5·18 기념식 불참…상임위원 3명만 참석 - 조선일보"
+        "ko": "미국 대표단, 귀국길 중국서 받은 물건 전부 쓰레기통행 - 조선일보",
+        "en": "미국 대표단, 귀국길 중국서 받은 물건 전부 쓰레기통행 - 조선일보",
+        "zh": "미국 대표단, 귀국길 중국서 받은 물건 전부 쓰레기통행 - 조선일보"
       }
     },
     {
-      "title": "與 \"정청래 암살 모의 정황...경찰 수사의뢰·신변보호 요청\" - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/05/17/63YGO2NMZ5DLFMXC4EZFBDTFVU/",
+      "title": "출근 않고 홀로 북한산 오른 실종 여성, 28일 만에 숨진 채 발견 - 동아일보",
+      "link": "https://www.donga.com/news/Society/article/all/20260516/133934976/2",
+      "source": "동아일보",
+      "pubDate": "Sat, 16 May 2026 10:34:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/17/133935465.1.jpg",
+      "summaries": {
+        "ko": "출근 않고 홀로 북한산 오른 실종 여성, 28일 만에 숨진 채 발견 - 동아일보",
+        "en": "출근 않고 홀로 북한산 오른 실종 여성, 28일 만에 숨진 채 발견 - 동아일보",
+        "zh": "출근 않고 홀로 북한산 오른 실종 여성, 28일 만에 숨진 채 발견 - 동아일보"
+      }
+    },
+    {
+      "title": "작전 기간 326일, 태어난 아이만 76명… 美항공모함이 집에 돌아왔다 - 조선일보",
+      "link": "https://www.chosun.com/international/us/2026/05/17/YUIR2HTYYZEDVIDXAVPB5QHJAY/",
       "source": "조선일보",
-      "pubDate": "Sun, 17 May 2026 00:26:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MY4TCMRQMM3DANZUGU4WMMRZGE.jpg?auth=d9da41cdafc439a50c07c28fe8ee3f0560b863a3131b28158b8f49000aeea8b5&width=719&height=377&focal=372,110",
+      "pubDate": "Sun, 17 May 2026 00:01:51 GMT",
+      "image": "https://www.chosun.com/resizer/v2/KPRPVAQFURKRBLDCC3QESQN4ZM.jpg?auth=17478201ef86c98f5498098a24a7cea77f6fa6b43c45cb16e550f447680688eb&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "與 \"정청래 암살 모의 정황...경찰 수사의뢰·신변보호 요청\" - 조선일보",
-        "en": "與 \"정청래 암살 모의 정황...경찰 수사의뢰·신변보호 요청\" - 조선일보",
-        "zh": "與 \"정청래 암살 모의 정황...경찰 수사의뢰·신변보호 요청\" - 조선일보"
+        "ko": "작전 기간 326일, 태어난 아이만 76명… 美항공모함이 집에 돌아왔다 - 조선일보",
+        "en": "작전 기간 326일, 태어난 아이만 76명… 美항공모함이 집에 돌아왔다 - 조선일보",
+        "zh": "작전 기간 326일, 태어난 아이만 76명… 美항공모함이 집에 돌아왔다 - 조선일보"
       }
     },
     {
-      "title": "새총으로 쇠구슬 쏴 택시 파손한 아버지·아들 입건 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260517024100064",
-      "source": "연합뉴스",
-      "pubDate": "Sun, 17 May 2026 02:01:25 GMT",
-      "image": "https://img3.yna.co.kr/etc/inner/KR/2026/05/17/AKR20260517024100064_01_i_P4.jpg",
-      "summaries": {
-        "ko": "청주에서 새총으로 쇠구슬을 쏴 택시 2대의 유리창을 파손한 아버지와 아들이 경찰에 붙잡혔다.",
-        "en": "A father and son have been apprehended by police in Cheongju for damaging the windows of two taxis by shooting steel marbles with a slingshot.",
-        "zh": "在清州，一对父子因用弹弓射击钢珠损坏了两辆出租车的车窗而被警方逮捕。"
-      }
-    },
-    {
-      "title": "장애인·사회적약자 특별채용이래서 갔더니···경찰, 캄보디아서 감금된 한국인 2명 구출 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605171200021",
-      "source": "경향신문",
-      "pubDate": "Sun, 17 May 2026 03:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/17/news-p.v1.20260517.6f422749c93c4a5284cea0800117fe76_P1.png",
-      "summaries": {
-        "ko": "장애인·사회적약자 특별채용이래서 갔더니···경찰, 캄보디아서 감금된 한국인 2명 구출 - 경향신문",
-        "en": "장애인·사회적약자 특별채용이래서 갔더니···경찰, 캄보디아서 감금된 한국인 2명 구출 - 경향신문",
-        "zh": "장애인·사회적약자 특별채용이래서 갔더니···경찰, 캄보디아서 감금된 한국인 2명 구출 - 경향신문"
-      }
-    },
-    {
-      "title": "시험대 오른 실용정부, 선거 앞두고 긴급조정권 꺼낼까 - 조선일보",
-      "link": "https://www.chosun.com/national/2026/05/17/PR2EX6SHJFBVHNJNJDQBH66UAE/",
+      "title": "트럼프 방중 때 앞뒤 배치... 高지붕 SUV, 반전 정체 - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/05/16/PIG5KOKFAZAGFAEFYPL3PIJHCU/",
       "source": "조선일보",
-      "pubDate": "Sat, 16 May 2026 20:20:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/HE4DAMLGGI3TINRUGM3TANJWG4.jpg?auth=39e75bbcc623927624cdd30e36ec55aefb9970d6a35f74efca22fefb00292153&width=600&height=315&focal=306,188",
+      "pubDate": "Sat, 16 May 2026 10:46:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/ZYWZIS2YPND2FHMF5T4ANUDDHU.gif?auth=216d25c2feee8fdc422bfd982cb651ac798313e6d7f3937dd6793b9d3049a2ad&width=401&height=210&smart=true",
       "summaries": {
-        "ko": "시험대 오른 실용정부, 선거 앞두고 긴급조정권 꺼낼까 - 조선일보",
-        "en": "시험대 오른 실용정부, 선거 앞두고 긴급조정권 꺼낼까 - 조선일보",
-        "zh": "시험대 오른 실용정부, 선거 앞두고 긴급조정권 꺼낼까 - 조선일보"
+        "ko": "트럼프 방중 때 앞뒤 배치... 高지붕 SUV, 반전 정체 - 조선일보",
+        "en": "트럼프 방중 때 앞뒤 배치... 高지붕 SUV, 반전 정체 - 조선일보",
+        "zh": "트럼프 방중 때 앞뒤 배치... 高지붕 SUV, 반전 정체 - 조선일보"
+      }
+    },
+    {
+      "title": "80시간 안 먹고 안 자고 일만 한 직원이 던진 질문 - 조선일보",
+      "link": "https://www.chosun.com/economy/tech_it/2026/05/17/5V4DLCNE6BB25M6HST42P4WSWU/",
+      "source": "조선일보",
+      "pubDate": "Sun, 17 May 2026 04:51:36 GMT",
+      "image": "https://www.chosun.com/resizer/v2/RWPVFDZUAVGVHIQ526UADWV4GU.gif?auth=4e843fa8432ddfef8960bd1e195e804f4f3222fbb8d64a0ff62627f36898e7ff&width=552&height=289&smart=true",
+      "summaries": {
+        "ko": "80시간 안 먹고 안 자고 일만 한 직원이 던진 질문 - 조선일보",
+        "en": "80시간 안 먹고 안 자고 일만 한 직원이 던진 질문 - 조선일보",
+        "zh": "80시간 안 먹고 안 자고 일만 한 직원이 던진 질문 - 조선일보"
+      }
+    },
+    {
+      "title": "51세 신하균, 밤 10시면 칼취침…\"자다 깨기 싫어서 술·커피 다 끊었다\" - 네이트",
+      "link": "https://news.nate.com/view/20260517n02373",
+      "source": "네이트",
+      "pubDate": "Sat, 16 May 2026 23:12:00 GMT",
+      "image": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/aa/2026/05/17/news-p.v1.20260517.acae6afee1ff42ed8dc3735b882f8abc_P1.jpg",
+      "summaries": {
+        "ko": "배우 신하균(51)이 밤 10시 칼취침, 오후 6시 이후 물·술·커피 끊기 등 숙면을 위한 철저한 수면 루틴을 공개하며 잠의 중요성을 강조했다.",
+        "en": "Actor Shin Ha-kyun, 51, revealed his strict sleep routine for sound sleep, including going to bed strictly at 10 PM and cutting off water, alcohol, and coffee after 6 PM, emphasizing the importance of sleep.",
+        "zh": "演员申河均（51岁）公开了他为保证优质睡眠而制定的严格作息，包括晚上10点准时睡觉，下午6点后不喝水、酒和咖啡，并强调了睡眠的重要性。"
+      }
+    },
+    {
+      "title": "이정은, 출연료 대체 얼마기에..19금까지 모든 것 다 보여주나 (SNL8) - sportschosun.com",
+      "link": "https://www.sportschosun.com/entertainment/2026-05-16/202605160100093510006192",
+      "source": "sportschosun.com",
+      "pubDate": "Sat, 16 May 2026 05:26:44 GMT",
+      "image": "https://www.sportschosun.com/article/html/2026/05/16/2026051601000935100061921.jpg",
+      "summaries": {
+        "ko": "배우 이정은이 오늘(16일) 저녁 8시 쿠팡플레이 <SNL 코리아>에 호스트로 출연하여 '천재 발레리나'부터 '19금 연기', '돌싱녀', '07년생 감튀녀'까지 역대급 파격적인 코미디 연기를 선보일 예정이다.",
+        "en": "Actress Lee Jung-eun is set to showcase an unprecedented range of transformative comedic acting, from a \"genius ballerina\" to 19+ scenes, a \"dazzling divorced woman,\" and a \"07-born French fry girl,\" as a host on Coupang Play's SNL Korea tonight at 8 PM.",
+        "zh": "演员李姃垠将于今晚8点作为主持人亮相Coupang Play的《SNL Korea》，呈现前所未有的破格喜剧表演，包括“天才芭蕾舞演员”、“19禁演技”、“离异魅力女”和“07年生薯条妹”等多种角色。"
+      }
+    },
+    {
+      "title": "길 막으면 '강제 돌파'...소방 '골든타임' 확보",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260517194818HJf",
+      "source": "Breaking News",
+      "pubDate": "Sun, 17 May 2026 19:48:53 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260517/MYH20260517194818HJf.jpg",
+      "summaries": {
+        "ko": "소방 당국이 화재 현장 '골든타임' 확보를 위해 불법 주정차 차량을 거침없이 제거하는 '강제처분' 훈련을 대대적으로 실시하며, 현장 대원들의 책임 부담을 덜어주기로 했습니다.",
+        "en": "Fire authorities are conducting extensive \"forced disposal\" training to aggressively remove illegally parked vehicles obstructing their path to fire scenes, aiming to secure \"golden time\" by alleviating the responsibility burden on individual firefighters.",
+        "zh": "消防部门正在进行大规模的“强制处置”训练，旨在确保火灾现场的“黄金时间”，允许消防员果断清除阻碍通道的违法停放车辆，同时减轻现场队员的责任负担。"
+      }
+    },
+    {
+      "title": "세계가 주목한 완도 해조류 양식…해외 전문가 발길",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260517194801LuP",
+      "source": "Breaking News",
+      "pubDate": "Sun, 17 May 2026 19:48:45 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260517/MYH20260517194801LuP.jpg",
+      "summaries": {
+        "ko": "완도 해조류 양식이 NASA와 국제 환경단체의 친환경적 우수성을 인정받아 해외 전문가들의 방문이 이어지고 있으며, 완도군은 이를 바탕으로 해조류 산업을 확장하고 국제 협력을 강화하고 있습니다.",
+        "en": "Wando's seaweed farming is gaining global recognition for its eco-friendly excellence from NASA and international environmental organizations, drawing visits from foreign experts, and Wando County is expanding its seaweed industry and strengthening international cooperation based on this recognition.",
+        "zh": "莞岛海藻养殖因其环保优势获得NASA和国际环保组织的认可，吸引了海外专家前来考察，莞岛郡正以此为基础拓展海藻产业并加强国际合作。"
+      }
+    },
+    {
+      "title": "[속보] 조현, 이란 외교장관에 '나무호 피격' 입장 요구",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260517192435qGR",
+      "source": "Breaking News",
+      "pubDate": "Sun, 17 May 2026 19:24:52 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260517/MYH20260517192435qGR.jpg",
+      "summaries": {
+        "ko": "조현 외교부 장관은 이란 외교장관과의 통화에서 한국 선박 '나무호' 피격 사건에 대한 이란의 입장을 요구하고 호르무즈 해협의 안전한 항행을 강조했습니다.",
+        "en": "Korean Foreign Minister Cho Hyun, in a phone call with his Iranian counterpart, demanded Iran's position on the attack on the Korean ship 'Namuho' and emphasized the importance of safe navigation in the Strait of Hormuz.",
+        "zh": "韩国外交部长赵显在与伊朗外交部长通话时，要求伊朗就韩国船只“树木号”遇袭事件表态，并强调霍尔木兹海峡安全航行的重要性。"
       }
     }
   ]
