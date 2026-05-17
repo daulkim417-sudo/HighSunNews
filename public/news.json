@@ -1,6 +1,42 @@
 {
-  "lastUpdate": "2026-05-17T10:49:56.690559",
+  "lastUpdate": "2026-05-17T11:47:38.738014",
   "items": [
+    {
+      "title": "트럼프 “대만 무기판매, 좋은 협상 칩”…“한국도 불안케 하는 발언” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/america/1259043.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 17 May 2026 06:55:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0517/20260517501531.webp",
+      "summaries": {
+        "ko": "트럼프 대통령이 대만 무기 판매를 중국과의 협상 칩으로 활용하고 대만 반도체 산업과 연계하려는 거래적 사고를 드러내, 대만 안보 지원의 신뢰성을 흔들고 동맹국에도 불안감을 주고 있다는 내용이다.",
+        "en": "President Trump stated that weapon sales to Taiwan could be used as a \"negotiating chip\" with China, linking it to Taiwan's semiconductor industry, a transactional approach that undermines the reliability of Taiwan's security support and raises concerns among allies.",
+        "zh": "特朗普总统表示，对台军售可作为与中国谈判的“筹码”，并将其与台湾半导体产业挂钩，这种交易性言论动摇了对台湾安全支持的信任，并可能引发盟友的担忧。"
+      }
+    },
+    {
+      "title": "‘여성의 죽음’으로 쌓아올린 법과 제도의 역사…“구조적 성차별 범죄 본질 알아야” [강남역 살인사건 10주기] - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605171800001",
+      "source": "경향신문",
+      "pubDate": "Sun, 17 May 2026 09:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/17/news-p.v1.20260511.3eba4cd798184a06973a3fcb86299e7d_P1.jpeg",
+      "summaries": {
+        "ko": "강남역 살인사건으로 여성 폭력 인식이 높아졌으나, 법과 제도는 지속되는 여성 혐오 범죄의 구조적 성차별 본질을 제대로 다루지 못하고 사후약방문식으로 보완되며 한계를 드러내, 성평등한 인식 제고가 시급하다는 지적이다.",
+        "en": "While the Kangnam Station murder raised awareness of violence against women, related laws and systems have been slow and reactive, often amended only after further deaths, revealing limitations in addressing the structural gender discrimination at the core of ongoing misogynistic crimes and highlighting the urgent need for gender-equitable awareness.",
+        "zh": "尽管姜南站杀人事件提升了对女性暴力的认识，但相关法律和制度始终滞后且被动，往往在更多女性受害后才修补，未能从根本上解决厌女犯罪中的结构性性别歧视问题，凸显了提升性别平等意识的紧迫性。"
+      }
+    },
+    {
+      "title": "나도 ‘국민 70%’ 속하나…내일부터 고유가 지원금 2차 지급 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1259017.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 17 May 2026 07:38:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0517/20260517500992.webp",
+      "summaries": {
+        "ko": "정부가 5월 18일부터 국민 70%를 대상으로 고유가 피해지원금 2차 지급 신청을 시작하며, 지역별로 차등 지급되는 지원금은 약 7주간 온라인 및 오프라인으로 신청할 수 있다.",
+        "en": "The government will begin accepting applications for the second round of high oil price relief funds from May 18th for 70% of citizens, with varying amounts by region, and applications can be made online and offline for approximately seven weeks.",
+        "zh": "韩国政府将于5月18日开始接受国民70%申请第二轮高油价损失支援金，支援金金额因地区而异，申请期约为7周，可通过线上和线下方式办理。"
+      }
+    },
     {
       "title": "‘이 대통령 모내기’했던 대구 군위서 국힘 당원 1701명 집단 탈당 후 ‘김부겸 지지’ 선언 - 경향신문",
       "link": "https://www.khan.co.kr/article/202605171412001",
@@ -8,129 +44,81 @@
       "pubDate": "Sun, 17 May 2026 05:12:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/05/17/news-p.v1.20260517.9381d240652047b58f7885b3009619ed_P1.png",
       "summaries": {
-        "ko": "대구 군위 지역 국민의힘 당원 1701명이 신공항 사업 지연 등 지역 현안 외면을 이유로 집단 탈당 후 더불어민주당 김부겸 대구시장 후보 지지를 선언했다.",
-        "en": "1701 members of the People Power Party in Gunwi, Daegu, collectively defected and declared support for Democratic Party Daegu mayoral candidate Kim Bu-gyeom, citing their former party's neglect of local issues such as the new airport project delay.",
-        "zh": "大邱军威地区1701名国民力量党党员集体退党，并宣布支持共同民主党大邱市长候选人金富谦，理由是国民力量党忽视了新机场项目延误等地区问题。"
+        "ko": "‘이 대통령 모내기’했던 대구 군위서 국힘 당원 1701명 집단 탈당 후 ‘김부겸 지지’ 선언 - 경향신문",
+        "en": "‘이 대통령 모내기’했던 대구 군위서 국힘 당원 1701명 집단 탈당 후 ‘김부겸 지지’ 선언 - 경향신문",
+        "zh": "‘이 대통령 모내기’했던 대구 군위서 국힘 당원 1701명 집단 탈당 후 ‘김부겸 지지’ 선언 - 경향신문"
       }
     },
     {
-      "title": "미국 대표단, 귀국길 중국서 받은 물건 전부 쓰레기통행 - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/05/17/EZ4AMYED5BGWFEWNIKWI467J7Q/",
+      "title": "국힘, 민주당 성평등위 무고죄 맞고발‥\"정원오 검증 입틀막\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6823088_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 17 May 2026 04:39:13 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/17/sa_20260517_20.jpg",
+      "summaries": {
+        "ko": "국힘, 민주당 성평등위 무고죄 맞고발‥\"정원오 검증 입틀막\" - MBC 뉴스",
+        "en": "국힘, 민주당 성평등위 무고죄 맞고발‥\"정원오 검증 입틀막\" - MBC 뉴스",
+        "zh": "국힘, 민주당 성평등위 무고죄 맞고발‥\"정원오 검증 입틀막\" - MBC 뉴스"
+      }
+    },
+    {
+      "title": "“빈손 송구·참담”…5·18 정신 헌법 수록 못한 46주년 추모식 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/honam/1259029.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 17 May 2026 05:53:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0517/4917789971856056.webp",
+      "summaries": {
+        "ko": "“빈손 송구·참담”…5·18 정신 헌법 수록 못한 46주년 추모식 - 한겨레",
+        "en": "“빈손 송구·참담”…5·18 정신 헌법 수록 못한 46주년 추모식 - 한겨레",
+        "zh": "“빈손 송구·참담”…5·18 정신 헌법 수록 못한 46주년 추모식 - 한겨레"
+      }
+    },
+    {
+      "title": "조현, 이란 외교장관과 통화 “나무호 피격 사실관계 입장 요구” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1259084.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 17 May 2026 09:52:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/428/imgdb/original/2026/0517/20260517502069.webp",
+      "summaries": {
+        "ko": "조현, 이란 외교장관과 통화 “나무호 피격 사실관계 입장 요구” - 한겨레",
+        "en": "조현, 이란 외교장관과 통화 “나무호 피격 사실관계 입장 요구” - 한겨레",
+        "zh": "조현, 이란 외교장관과 통화 “나무호 피격 사실관계 입장 요구” - 한겨레"
+      }
+    },
+    {
+      "title": "[날씨] 낮 최고 34도 더위…대체로 맑고 일교차 커 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260517049100004",
+      "source": "연합뉴스",
+      "pubDate": "Sun, 17 May 2026 11:00:02 GMT",
+      "image": "https://img8.yna.co.kr/photo/yna/YH/2026/05/17/PYH2026051706290001300_P4.jpg",
+      "summaries": {
+        "ko": "[날씨] 낮 최고 34도 더위…대체로 맑고 일교차 커 - 연합뉴스",
+        "en": "[날씨] 낮 최고 34도 더위…대체로 맑고 일교차 커 - 연합뉴스",
+        "zh": "[날씨] 낮 최고 34도 더위…대체로 맑고 일교차 커 - 연합뉴스"
+      }
+    },
+    {
+      "title": "오세훈, 鄭 ‘GTX 철근누락’ 공세에 “건설사 실수를 정치 쟁점화... 괴담 유포 말라” - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/05/17/K2FZJJZCWNBDTD5JRFOEQZF424/",
       "source": "조선일보",
-      "pubDate": "Sun, 17 May 2026 05:33:08 GMT",
-      "image": "https://www.chosun.com/resizer/v2/FU2Z3HXIR5IPLAULMTUUXGXAIU.jpg?auth=bdaf9670e824ec0c56118ef1ebf63637f9c12bfc2c37e1ff3d08f7edf8b438c4&width=1200&height=630&focal=2319,1761",
+      "pubDate": "Sun, 17 May 2026 06:37:40 GMT",
+      "image": "https://www.chosun.com/resizer/v2/RNAAOUPCVNKHPB7VPKT5ETCATE.jpg?auth=a044bbfd4070ce6176a12c395b8e349f3d594f66ffebdff01cf360e2cc6f0932&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "미국 대표단, 귀국길 중국서 받은 물건 전부 쓰레기통행 - 조선일보",
-        "en": "미국 대표단, 귀국길 중국서 받은 물건 전부 쓰레기통행 - 조선일보",
-        "zh": "미국 대표단, 귀국길 중국서 받은 물건 전부 쓰레기통행 - 조선일보"
+        "ko": "오세훈, 鄭 ‘GTX 철근누락’ 공세에 “건설사 실수를 정치 쟁점화... 괴담 유포 말라” - 조선일보",
+        "en": "오세훈, 鄭 ‘GTX 철근누락’ 공세에 “건설사 실수를 정치 쟁점화... 괴담 유포 말라” - 조선일보",
+        "zh": "오세훈, 鄭 ‘GTX 철근누락’ 공세에 “건설사 실수를 정치 쟁점화... 괴담 유포 말라” - 조선일보"
       }
     },
     {
-      "title": "출근 않고 홀로 북한산 오른 실종 여성, 28일 만에 숨진 채 발견 - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260516/133934976/2",
-      "source": "동아일보",
-      "pubDate": "Sat, 16 May 2026 10:34:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/17/133935465.1.jpg",
-      "summaries": {
-        "ko": "출근 않고 홀로 북한산 오른 실종 여성, 28일 만에 숨진 채 발견 - 동아일보",
-        "en": "출근 않고 홀로 북한산 오른 실종 여성, 28일 만에 숨진 채 발견 - 동아일보",
-        "zh": "출근 않고 홀로 북한산 오른 실종 여성, 28일 만에 숨진 채 발견 - 동아일보"
-      }
-    },
-    {
-      "title": "작전 기간 326일, 태어난 아이만 76명… 美항공모함이 집에 돌아왔다 - 조선일보",
-      "link": "https://www.chosun.com/international/us/2026/05/17/YUIR2HTYYZEDVIDXAVPB5QHJAY/",
+      "title": "한일 정상 ‘셔틀외교’ 안동서 성사… 수운잡방·줄불놀이로 다카이치 총리 맞이 - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/05/17/7PCOWUMLENDUHBJ25EAB23W2SU/",
       "source": "조선일보",
-      "pubDate": "Sun, 17 May 2026 00:01:51 GMT",
-      "image": "https://www.chosun.com/resizer/v2/KPRPVAQFURKRBLDCC3QESQN4ZM.jpg?auth=17478201ef86c98f5498098a24a7cea77f6fa6b43c45cb16e550f447680688eb&width=1200&height=630&smart=true",
+      "pubDate": "Sun, 17 May 2026 03:01:59 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GZRGCOJQGU4DCYZTHFRDMY3FHA.jpg?auth=88ffd31ae4f51a839762d94e66fd2160bdb6c05246361b612b57ade046c65e17&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "작전 기간 326일, 태어난 아이만 76명… 美항공모함이 집에 돌아왔다 - 조선일보",
-        "en": "작전 기간 326일, 태어난 아이만 76명… 美항공모함이 집에 돌아왔다 - 조선일보",
-        "zh": "작전 기간 326일, 태어난 아이만 76명… 美항공모함이 집에 돌아왔다 - 조선일보"
-      }
-    },
-    {
-      "title": "트럼프 방중 때 앞뒤 배치... 高지붕 SUV, 반전 정체 - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/05/16/PIG5KOKFAZAGFAEFYPL3PIJHCU/",
-      "source": "조선일보",
-      "pubDate": "Sat, 16 May 2026 10:46:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/ZYWZIS2YPND2FHMF5T4ANUDDHU.gif?auth=216d25c2feee8fdc422bfd982cb651ac798313e6d7f3937dd6793b9d3049a2ad&width=401&height=210&smart=true",
-      "summaries": {
-        "ko": "트럼프 방중 때 앞뒤 배치... 高지붕 SUV, 반전 정체 - 조선일보",
-        "en": "트럼프 방중 때 앞뒤 배치... 高지붕 SUV, 반전 정체 - 조선일보",
-        "zh": "트럼프 방중 때 앞뒤 배치... 高지붕 SUV, 반전 정체 - 조선일보"
-      }
-    },
-    {
-      "title": "80시간 안 먹고 안 자고 일만 한 직원이 던진 질문 - 조선일보",
-      "link": "https://www.chosun.com/economy/tech_it/2026/05/17/5V4DLCNE6BB25M6HST42P4WSWU/",
-      "source": "조선일보",
-      "pubDate": "Sun, 17 May 2026 04:51:36 GMT",
-      "image": "https://www.chosun.com/resizer/v2/RWPVFDZUAVGVHIQ526UADWV4GU.gif?auth=4e843fa8432ddfef8960bd1e195e804f4f3222fbb8d64a0ff62627f36898e7ff&width=552&height=289&smart=true",
-      "summaries": {
-        "ko": "80시간 안 먹고 안 자고 일만 한 직원이 던진 질문 - 조선일보",
-        "en": "80시간 안 먹고 안 자고 일만 한 직원이 던진 질문 - 조선일보",
-        "zh": "80시간 안 먹고 안 자고 일만 한 직원이 던진 질문 - 조선일보"
-      }
-    },
-    {
-      "title": "51세 신하균, 밤 10시면 칼취침…\"자다 깨기 싫어서 술·커피 다 끊었다\" - 네이트",
-      "link": "https://news.nate.com/view/20260517n02373",
-      "source": "네이트",
-      "pubDate": "Sat, 16 May 2026 23:12:00 GMT",
-      "image": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/aa/2026/05/17/news-p.v1.20260517.acae6afee1ff42ed8dc3735b882f8abc_P1.jpg",
-      "summaries": {
-        "ko": "배우 신하균(51)이 밤 10시 칼취침, 오후 6시 이후 물·술·커피 끊기 등 숙면을 위한 철저한 수면 루틴을 공개하며 잠의 중요성을 강조했다.",
-        "en": "Actor Shin Ha-kyun, 51, revealed his strict sleep routine for sound sleep, including going to bed strictly at 10 PM and cutting off water, alcohol, and coffee after 6 PM, emphasizing the importance of sleep.",
-        "zh": "演员申河均（51岁）公开了他为保证优质睡眠而制定的严格作息，包括晚上10点准时睡觉，下午6点后不喝水、酒和咖啡，并强调了睡眠的重要性。"
-      }
-    },
-    {
-      "title": "이정은, 출연료 대체 얼마기에..19금까지 모든 것 다 보여주나 (SNL8) - sportschosun.com",
-      "link": "https://www.sportschosun.com/entertainment/2026-05-16/202605160100093510006192",
-      "source": "sportschosun.com",
-      "pubDate": "Sat, 16 May 2026 05:26:44 GMT",
-      "image": "https://www.sportschosun.com/article/html/2026/05/16/2026051601000935100061921.jpg",
-      "summaries": {
-        "ko": "배우 이정은이 오늘(16일) 저녁 8시 쿠팡플레이 <SNL 코리아>에 호스트로 출연하여 '천재 발레리나'부터 '19금 연기', '돌싱녀', '07년생 감튀녀'까지 역대급 파격적인 코미디 연기를 선보일 예정이다.",
-        "en": "Actress Lee Jung-eun is set to showcase an unprecedented range of transformative comedic acting, from a \"genius ballerina\" to 19+ scenes, a \"dazzling divorced woman,\" and a \"07-born French fry girl,\" as a host on Coupang Play's SNL Korea tonight at 8 PM.",
-        "zh": "演员李姃垠将于今晚8点作为主持人亮相Coupang Play的《SNL Korea》，呈现前所未有的破格喜剧表演，包括“天才芭蕾舞演员”、“19禁演技”、“离异魅力女”和“07年生薯条妹”等多种角色。"
-      }
-    },
-    {
-      "title": "길 막으면 '강제 돌파'...소방 '골든타임' 확보",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260517194818HJf",
-      "source": "Breaking News",
-      "pubDate": "Sun, 17 May 2026 19:48:53 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260517/MYH20260517194818HJf.jpg",
-      "summaries": {
-        "ko": "소방 당국이 화재 현장 '골든타임' 확보를 위해 불법 주정차 차량을 거침없이 제거하는 '강제처분' 훈련을 대대적으로 실시하며, 현장 대원들의 책임 부담을 덜어주기로 했습니다.",
-        "en": "Fire authorities are conducting extensive \"forced disposal\" training to aggressively remove illegally parked vehicles obstructing their path to fire scenes, aiming to secure \"golden time\" by alleviating the responsibility burden on individual firefighters.",
-        "zh": "消防部门正在进行大规模的“强制处置”训练，旨在确保火灾现场的“黄金时间”，允许消防员果断清除阻碍通道的违法停放车辆，同时减轻现场队员的责任负担。"
-      }
-    },
-    {
-      "title": "세계가 주목한 완도 해조류 양식…해외 전문가 발길",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260517194801LuP",
-      "source": "Breaking News",
-      "pubDate": "Sun, 17 May 2026 19:48:45 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260517/MYH20260517194801LuP.jpg",
-      "summaries": {
-        "ko": "완도 해조류 양식이 NASA와 국제 환경단체의 친환경적 우수성을 인정받아 해외 전문가들의 방문이 이어지고 있으며, 완도군은 이를 바탕으로 해조류 산업을 확장하고 국제 협력을 강화하고 있습니다.",
-        "en": "Wando's seaweed farming is gaining global recognition for its eco-friendly excellence from NASA and international environmental organizations, drawing visits from foreign experts, and Wando County is expanding its seaweed industry and strengthening international cooperation based on this recognition.",
-        "zh": "莞岛海藻养殖因其环保优势获得NASA和国际环保组织的认可，吸引了海外专家前来考察，莞岛郡正以此为基础拓展海藻产业并加强国际合作。"
-      }
-    },
-    {
-      "title": "[속보] 조현, 이란 외교장관에 '나무호 피격' 입장 요구",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260517192435qGR",
-      "source": "Breaking News",
-      "pubDate": "Sun, 17 May 2026 19:24:52 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260517/MYH20260517192435qGR.jpg",
-      "summaries": {
-        "ko": "조현 외교부 장관은 이란 외교장관과의 통화에서 한국 선박 '나무호' 피격 사건에 대한 이란의 입장을 요구하고 호르무즈 해협의 안전한 항행을 강조했습니다.",
-        "en": "Korean Foreign Minister Cho Hyun, in a phone call with his Iranian counterpart, demanded Iran's position on the attack on the Korean ship 'Namuho' and emphasized the importance of safe navigation in the Strait of Hormuz.",
-        "zh": "韩国外交部长赵显在与伊朗外交部长通话时，要求伊朗就韩国船只“树木号”遇袭事件表态，并强调霍尔木兹海峡安全航行的重要性。"
+        "ko": "한일 정상 ‘셔틀외교’ 안동서 성사… 수운잡방·줄불놀이로 다카이치 총리 맞이 - 조선일보",
+        "en": "한일 정상 ‘셔틀외교’ 안동서 성사… 수운잡방·줄불놀이로 다카이치 총리 맞이 - 조선일보",
+        "zh": "한일 정상 ‘셔틀외교’ 안동서 성사… 수운잡방·줄불놀이로 다카이치 총리 맞이 - 조선일보"
       }
     }
   ]
