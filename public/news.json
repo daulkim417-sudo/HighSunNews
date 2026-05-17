@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-17T18:11:05.534894",
+  "lastUpdate": "2026-05-17T19:33:53.631642",
   "items": [
     {
       "title": "한·미 정상 통화…트럼프 “한반도 평화 위해 필요한 역할 할 것” - 한겨레",
@@ -8,21 +8,9 @@
       "pubDate": "Sun, 17 May 2026 16:03:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/640/423/imgdb/original/2025/0812/20250812503524.webp",
       "summaries": {
-        "ko": "이재명 대통령과 트럼프 대통령은 전화 통화를 통해 미·중 정상회담 결과와 한반도 평화 문제, 양국 협력 강화 방안 등을 논의했으며, 트럼프 대통령은 한반도 평화를 위해 필요한 역할을 계속하겠다고 밝혔다.",
-        "en": "South Korean President Lee Jae-myung and US President Donald Trump held a phone call to discuss the outcomes of the US-China summit, Korean Peninsula peace, and ways to strengthen bilateral cooperation, with Trump reaffirming his commitment to continue necessary efforts for peace on the peninsula.",
-        "zh": "韩国总统李在明与美国总统唐纳德·特朗普进行电话通话，讨论了美中首脑会谈结果、朝鲜半岛和平问题及加强两国合作方案，特朗普重申将继续为朝鲜半岛和平发挥必要作用。"
-      }
-    },
-    {
-      "title": "죽음 위에 세운 법, 법원선 낮은 인용률…“정치권·경찰·법조계 성평등 인식 부족” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605172119005",
-      "source": "경향신문",
-      "pubDate": "Sun, 17 May 2026 12:19:00 GMT",
-      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
-      "summaries": {
-        "ko": "죽음 위에 세운 법, 법원선 낮은 인용률…“정치권·경찰·법조계 성평등 인식 부족” - 경향신문",
-        "en": "죽음 위에 세운 법, 법원선 낮은 인용률…“정치권·경찰·법조계 성평등 인식 부족” - 경향신문",
-        "zh": "죽음 위에 세운 법, 법원선 낮은 인용률…“정치권·경찰·법조계 성평등 인식 부족” - 경향신문"
+        "ko": "이재명 대통령과 도널드 트럼프 미국 대통령이 전화 통화를 갖고 트럼프 대통령의 미·중 정상회담 결과와 한미 동맹 현안을 공유하고 한반도 평화를 위한 공조를 재확인했다.",
+        "en": "South Korean President Lee Jae-myung and US President Donald Trump held a phone call to share the results of Trump's recent US-China summit, discuss bilateral alliance issues, and reaffirm cooperation for peace on the Korean Peninsula.",
+        "zh": "韩国总统李在明与美国总统唐纳德·特朗普通电话，分享了特朗普总统近期美中峰会成果，讨论了两国同盟问题，并重申了在朝鲜半岛和平方面的合作。"
       }
     },
     {
@@ -74,6 +62,18 @@
       }
     },
     {
+      "title": "정원오 “서울시 안전불감증” 오세훈 “건설사 과실”…GTX 삼성역 철근 누락 공방 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260517/133936274/1",
+      "source": "동아일보",
+      "pubDate": "Sun, 17 May 2026 03:03:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/17/133936307.1.jpg",
+      "summaries": {
+        "ko": "정원오 “서울시 안전불감증” 오세훈 “건설사 과실”…GTX 삼성역 철근 누락 공방 - 동아일보",
+        "en": "정원오 “서울시 안전불감증” 오세훈 “건설사 과실”…GTX 삼성역 철근 누락 공방 - 동아일보",
+        "zh": "정원오 “서울시 안전불감증” 오세훈 “건설사 과실”…GTX 삼성역 철근 누락 공방 - 동아일보"
+      }
+    },
+    {
       "title": "삼전 노조 4만명 사내 프로필 “파업”…직원 불신 덜 해법 나올까 - 한겨레",
       "link": "https://www.hani.co.kr/arti/economy/it/1259068.html",
       "source": "한겨레",
@@ -86,6 +86,18 @@
       }
     },
     {
+      "title": "포스트잇을 붙이고 10년…수많은 ‘강남역 사건’이 반복됐다 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605172129005",
+      "source": "경향신문",
+      "pubDate": "Sun, 17 May 2026 12:29:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/17/l_2026051801000473200045265.jpg",
+      "summaries": {
+        "ko": "포스트잇을 붙이고 10년…수많은 ‘강남역 사건’이 반복됐다 - 경향신문",
+        "en": "포스트잇을 붙이고 10년…수많은 ‘강남역 사건’이 반복됐다 - 경향신문",
+        "zh": "포스트잇을 붙이고 10년…수많은 ‘강남역 사건’이 반복됐다 - 경향신문"
+      }
+    },
+    {
       "title": "2차 고유가 피해지원금 신청 내일부터 시작 - 동아일보",
       "link": "https://www.donga.com/news/Society/article/all/20260517/133939583/1",
       "source": "동아일보",
@@ -95,18 +107,6 @@
         "ko": "2차 고유가 피해지원금 신청 내일부터 시작 - 동아일보",
         "en": "2차 고유가 피해지원금 신청 내일부터 시작 - 동아일보",
         "zh": "2차 고유가 피해지원금 신청 내일부터 시작 - 동아일보"
-      }
-    },
-    {
-      "title": "오세훈 “GTX-A 철근 누락은 현대건설 과실…정원오 캠프 쫓기는 모양” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1259012.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 17 May 2026 06:40:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/587/imgdb/original/2026/0517/20260517500887.webp",
-      "summaries": {
-        "ko": "오세훈 “GTX-A 철근 누락은 현대건설 과실…정원오 캠프 쫓기는 모양” - 한겨레",
-        "en": "오세훈 “GTX-A 철근 누락은 현대건설 과실…정원오 캠프 쫓기는 모양” - 한겨레",
-        "zh": "오세훈 “GTX-A 철근 누락은 현대건설 과실…정원오 캠프 쫓기는 모양” - 한겨레"
       }
     },
     {
