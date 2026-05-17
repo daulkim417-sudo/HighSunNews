@@ -1,16 +1,40 @@
 {
-  "lastUpdate": "2026-05-17T05:32:02.549218",
+  "lastUpdate": "2026-05-17T07:58:35.933997",
   "items": [
     {
-      "title": "미중 정상회담 나흘 만에 푸틴 중국 방문‥커진 '중국 존재감' - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/world/article/6823066_36925.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sun, 17 May 2026 01:46:07 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/05/17/ggm_20260517_9.jpg",
+      "title": "칠성시장·달성공원 새벽시장…대구시장 후보들, 주말 총력전 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260517018700053",
+      "source": "연합뉴스",
+      "pubDate": "Sun, 17 May 2026 01:30:04 GMT",
+      "image": "https://img2.yna.co.kr/photo/cms/2026/05/11/25/PCM20260511000025990_P4.jpg",
       "summaries": {
-        "ko": "미중 정상회담 나흘 만에 푸틴 러시아 대통령이 중국을 방문하여, 중국이 일주일 사이 미국과 러시아 정상을 잇달아 맞이하며 시진핑 주석의 외교력과 국제적 존재감이 부각되고 있다.",
-        "en": "Four days after the US-China summit, Russian President Putin's visit to China highlights President Xi Jinping's diplomatic prowess and China's growing international presence, as it hosts both American and Russian leaders within a week.",
-        "zh": "在美中峰会仅四天后，俄罗斯总统普京即将访问中国，凸显了中国在一周内相继接待美俄两国元首的独特外交场面，彰显了习近平主席的外交实力和中国的国际影响力。"
+        "ko": "대구시장 선거에 나선 김부겸(더불어민주당) 후보와 추경호(국민의힘) 후보가 공식 후보 등록 후 첫 주말을 맞아 전통시장과 각종 행사를 누비며 표심 잡기 총력전을 펼쳤다.",
+        "en": "Daegu mayoral candidates Kim Bu-gyeom (Democratic Party) and Choo Kyung-ho (People Power Party) intensified their campaigns, visiting traditional markets and various events during the first weekend after official candidate registration, striving to win over voters.",
+        "zh": "大邱市长候选人金富谦（共同民主党）和秋庆镐（国民力量党）在正式候选人登记后的第一个周末，走访传统市场和各种活动，全力以赴争取选民支持。"
+      }
+    },
+    {
+      "title": "트럼프 “대만 무기판매, 좋은 협상 칩”…대만 “미국 정책 안변했다고 믿어” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/america/1259043.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 17 May 2026 06:55:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0517/20260517501531.webp",
+      "summaries": {
+        "ko": "트럼프 대통령이 대만 무기 판매를 대중국 “협상 칩”으로 활용할 수 있다고 언급하며 기존 외교 원칙을 흔들었고, 이에 대만 외교부는 미국의 정책이 변하지 않았다고 믿는다고 밝혔다.",
+        "en": "President Trump suggested using Taiwan's arms sales as a \"negotiating chip\" with China, challenging long-standing diplomatic principles, while Taiwan's Ministry of Foreign Affairs asserted its belief that U.S. policy has not changed.",
+        "zh": "特朗普总统表示对台湾的武器销售可作为对华“谈判筹码”，此言论动摇了长期以来的外交原则，而台湾外交部则声明相信美国政策并未改变。"
+      }
+    },
+    {
+      "title": "트럼프 이어 나흘 만에…푸틴, 19~20일 방중 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8562893",
+      "source": "KBS 뉴스",
+      "pubDate": "Sun, 17 May 2026 01:46:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/05/17/20260517_ujirEq.jpg",
+      "summaries": {
+        "ko": "도널드 트럼프 미국 대통령의 방중 직후 블라디미르 푸틴 러시아 대통령이 중국을 국빈 방문해 양국 현안과 미중 관계를 논의할 예정이며, 이는 중국의 전략적 균형 외교와 러시아의 미중 관계 변화에 대한 민감한 관심을 보여준다.",
+        "en": "Following US President Donald Trump's visit, Russian President Vladimir Putin will pay a state visit to China to discuss bilateral issues and US-China relations, highlighting China's strategic balancing act and Russia's keen interest in the evolving US-China relationship.",
+        "zh": "继美国总统唐纳德·特朗普访华之后，俄罗斯总统弗拉基米尔·普京也将对中国进行国事访问，讨论双边问题和美中关系，这凸显了中国在两大国之间的战略平衡以及俄罗斯对美中关系潜在变化的密切关注。"
       }
     },
     {
@@ -26,99 +50,75 @@
       }
     },
     {
-      "title": "미 전문가들 “미중, 충돌 대신 관리”…대만·무역 핵심 쟁점은 여전 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1258986.html",
+      "title": "내일부터 고유가 지원금 2차 지급…국민 70% ‘최대 25만원’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1259017.html",
       "source": "한겨레",
-      "pubDate": "Sun, 17 May 2026 00:51:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0517/20260517500058.webp",
+      "pubDate": "Sun, 17 May 2026 03:17:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0517/20260517500992.webp",
       "summaries": {
-        "ko": "미 전문가들 “미중, 충돌 대신 관리”…대만·무역 핵심 쟁점은 여전 - 한겨레",
-        "en": "미 전문가들 “미중, 충돌 대신 관리”…대만·무역 핵심 쟁점은 여전 - 한겨레",
-        "zh": "미 전문가들 “미중, 충돌 대신 관리”…대만·무역 핵심 쟁점은 여전 - 한겨레"
+        "ko": "정부가 고유가 피해지원금 2차 지급 신청을 5월 18일부터 7월 3일까지 받으며, 국민 70%에게 지역별로 최대 25만원을 신용카드나 지역사랑상품권 등으로 지급하고 사용 기한은 8월 31일까지다.",
+        "en": "The government is accepting applications for the second phase of high oil price support payments from May 18th to July 3rd, providing up to 250,000 won to 70% of the population, varying by region, via credit cards or local gift certificates, with a usage deadline of August 31st.",
+        "zh": "韩国政府将从5月18日至7月3日接受第二轮高油价损害补贴金的申请，向70%的国民发放，根据地区不同最高可达25万韩元，通过信用卡或地区爱心商品券等方式支付，使用期限截止8月31日。"
       }
     },
     {
-      "title": "정청래 “다 먹고 살자고 하는 일인데…테러 모의 참담하고 괴로워“ - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260517/133936311/1",
-      "source": "동아일보",
-      "pubDate": "Sun, 17 May 2026 03:11:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/17/133936353.1.jpg",
-      "summaries": {
-        "ko": "정청래 “다 먹고 살자고 하는 일인데…테러 모의 참담하고 괴로워“ - 동아일보",
-        "en": "정청래 “다 먹고 살자고 하는 일인데…테러 모의 참담하고 괴로워“ - 동아일보",
-        "zh": "정청래 “다 먹고 살자고 하는 일인데…테러 모의 참담하고 괴로워“ - 동아일보"
-      }
-    },
-    {
-      "title": "낮 기온 34도까지 ‘껑충’…뜨거운 일요일, 온열질환 ‘경고등’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1258990.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 17 May 2026 00:28:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0517/20260517500200.webp",
-      "summaries": {
-        "ko": "낮 기온 34도까지 ‘껑충’…뜨거운 일요일, 온열질환 ‘경고등’ - 한겨레",
-        "en": "낮 기온 34도까지 ‘껑충’…뜨거운 일요일, 온열질환 ‘경고등’ - 한겨레",
-        "zh": "낮 기온 34도까지 ‘껑충’…뜨거운 일요일, 온열질환 ‘경고등’ - 한겨레"
-      }
-    },
-    {
-      "title": "김 총리 “삼성전자 파업, 긴급조정 포함 모든 대응 강구” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1259006.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 17 May 2026 02:47:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0517/9717789845866811.webp",
-      "summaries": {
-        "ko": "김 총리 “삼성전자 파업, 긴급조정 포함 모든 대응 강구” - 한겨레",
-        "en": "김 총리 “삼성전자 파업, 긴급조정 포함 모든 대응 강구” - 한겨레",
-        "zh": "김 총리 “삼성전자 파업, 긴급조정 포함 모든 대응 강구” - 한겨레"
-      }
-    },
-    {
-      "title": "\"감히 도망을?\"…'특별 채용' 속은 캄보디아 감금 2명 구출 - nocutnews.co.kr",
-      "link": "https://www.nocutnews.co.kr/news/6518364",
-      "source": "nocutnews.co.kr",
-      "pubDate": "Sun, 17 May 2026 04:19:00 GMT",
-      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/05/17/202605171251149409_0.jpg",
-      "summaries": {
-        "ko": "\"감히 도망을?\"…'특별 채용' 속은 캄보디아 감금 2명 구출 - nocutnews.co.kr",
-        "en": "\"감히 도망을?\"…'특별 채용' 속은 캄보디아 감금 2명 구출 - nocutnews.co.kr",
-        "zh": "\"감히 도망을?\"…'특별 채용' 속은 캄보디아 감금 2명 구출 - nocutnews.co.kr"
-      }
-    },
-    {
-      "title": "지역의사 수시 선발 98% '수능최저' 적용…\"N수생 유리할 듯\" - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260517019800530",
-      "source": "연합뉴스",
-      "pubDate": "Sun, 17 May 2026 01:27:55 GMT",
-      "image": "https://img2.yna.co.kr/photo/yna/YH/2026/02/11/PYH2026021117180001300_P4.jpg",
-      "summaries": {
-        "ko": "지역의사 수시 선발 98% '수능최저' 적용…\"N수생 유리할 듯\" - 연합뉴스",
-        "en": "지역의사 수시 선발 98% '수능최저' 적용…\"N수생 유리할 듯\" - 연합뉴스",
-        "zh": "지역의사 수시 선발 98% '수능최저' 적용…\"N수생 유리할 듯\" - 연합뉴스"
-      }
-    },
-    {
-      "title": "오세훈, GTX-A '철근 누락' 비판에 \"정원오, 이제 좀 쫓기는 모양\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6823069_36911.html",
+      "title": "삼성전자 노조 \"총리 담화문 확인‥사후조정 성실히 임할 것\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/econo/article/6823070_36932.html",
       "source": "MBC 뉴스",
-      "pubDate": "Sun, 17 May 2026 02:05:22 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/17/sa_20260517_12.jpg",
+      "pubDate": "Sun, 17 May 2026 02:29:47 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/econo/article/__icsFiles/afieldfile/2026/05/17/ggm_20260517_12.jpg",
       "summaries": {
-        "ko": "오세훈, GTX-A '철근 누락' 비판에 \"정원오, 이제 좀 쫓기는 모양\" - MBC 뉴스",
-        "en": "오세훈, GTX-A '철근 누락' 비판에 \"정원오, 이제 좀 쫓기는 모양\" - MBC 뉴스",
-        "zh": "오세훈, GTX-A '철근 누락' 비판에 \"정원오, 이제 좀 쫓기는 모양\" - MBC 뉴스"
+        "ko": "삼성전자 노조는 김민석 총리의 대국민 담화문 확인 후 노사교섭의 사후조정에 성실히 임하겠다고 밝혔으나, 긴급조정 발동 가능성 시사에 대해서는 언급을 피했다.",
+        "en": "After confirming Prime Minister Kim Min-seok's national address, the Samsung Electronics union stated its commitment to faithfully engage in post-dispute adjustments for labor-management negotiations, but refrained from commenting on the PM's warning of potential emergency adjustment.",
+        "zh": "三星电子工会在确认金敏硕总理的全国讲话后，表示将认真履行劳资谈判的后续调解，但对总理暗示可能启动紧急调解的可能性不予置评。"
       }
     },
     {
-      "title": "이란 '물밑논의' 재개…호르무즈 통제는 더 '고삐'",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260517141340jsU",
-      "source": "Breaking News",
-      "pubDate": "Sun, 17 May 2026 14:14:06 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260517/MYH20260517141340jsU.jpg",
+      "title": "與 \"정청래 암살 모의 정황...경찰 수사의뢰·신변보호 요청\" - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/05/17/63YGO2NMZ5DLFMXC4EZFBDTFVU/",
+      "source": "조선일보",
+      "pubDate": "Sun, 17 May 2026 00:26:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MY4TCMRQMM3DANZUGU4WMMRZGE.jpg?auth=d9da41cdafc439a50c07c28fe8ee3f0560b863a3131b28158b8f49000aeea8b5&width=719&height=377&focal=372,110",
       "summaries": {
-        "ko": "이란 '물밑논의' 재개…호르무즈 통제는 더 '고삐'",
-        "en": "이란 '물밑논의' 재개…호르무즈 통제는 더 '고삐'",
-        "zh": "이란 '물밑논의' 재개…호르무즈 통제는 더 '고삐'"
+        "ko": "與 \"정청래 암살 모의 정황...경찰 수사의뢰·신변보호 요청\" - 조선일보",
+        "en": "與 \"정청래 암살 모의 정황...경찰 수사의뢰·신변보호 요청\" - 조선일보",
+        "zh": "與 \"정청래 암살 모의 정황...경찰 수사의뢰·신변보호 요청\" - 조선일보"
+      }
+    },
+    {
+      "title": "[단독] 인권위원장이 5·18 기념식 불참…안창호 스스로 참석 안 하기로 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1259025.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 17 May 2026 06:40:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/629/495/imgdb/child/2026/0517/17789899922861_20260517501052.webp",
+      "summaries": {
+        "ko": "국가인권위원장 안창호가 지난해 5·18 단체들의 저지로 기념식장에 입장하지 못한 후 올해 5·18 기념식에도 스스로 불참을 결정했으며, 이는 4·3 추념식 불참 등 국가폭력 희생자 추모 행사에 연이어 불참하며 내부 비판을 사고 있다.",
+        "en": "National Human Rights Commission Chairman An Chang-ho has decided not to attend this year's 5·18 Gwangju Democratization Movement anniversary ceremony, a self-initiated decision after being blocked by protesting groups last year, and his repeated absence from national tragedy commemoration events, including the 4·3 ceremony, has drawn internal criticism.",
+        "zh": "国家人权委员会委员长安昌浩去年因5·18团体抗议未能进入纪念会场后，今年也决定不出席5·18纪念仪式，他连续缺席包括4·3事件追悼式在内的国家暴力受害者纪念活动，引发了内部批评。"
+      }
+    },
+    {
+      "title": "김민석 ‘긴급조정권’ 검토 시사에 진보당·정의당 “박정희 때도 4번 밖에 안 쓴 극약처방…철회하라” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605171605001",
+      "source": "경향신문",
+      "pubDate": "Sun, 17 May 2026 07:05:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/17/news-p.v1.20260517.6f830ad11cd642149d8ae69e4da8d934_P1.jpeg",
+      "summaries": {
+        "ko": "김민석 ‘긴급조정권’ 검토 시사에 진보당·정의당 “박정희 때도 4번 밖에 안 쓴 극약처방…철회하라” - 경향신문",
+        "en": "김민석 ‘긴급조정권’ 검토 시사에 진보당·정의당 “박정희 때도 4번 밖에 안 쓴 극약처방…철회하라” - 경향신문",
+        "zh": "김민석 ‘긴급조정권’ 검토 시사에 진보당·정의당 “박정희 때도 4번 밖에 안 쓴 극약처방…철회하라” - 경향신문"
+      }
+    },
+    {
+      "title": "홍준표 \"국힘은 국민의 짐…정체성 상실한 집단은 사라져야\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260517164350aWR",
+      "source": "Breaking News",
+      "pubDate": "Sun, 17 May 2026 16:43:50 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260517/AKR20260517164350aWR_01_i.jpg",
+      "summaries": {
+        "ko": "홍준표 \"국힘은 국민의 짐…정체성 상실한 집단은 사라져야\"",
+        "en": "홍준표 \"국힘은 국민의 짐…정체성 상실한 집단은 사라져야\"",
+        "zh": "홍준표 \"국힘은 국민의 짐…정체성 상실한 집단은 사라져야\""
       }
     }
   ]
