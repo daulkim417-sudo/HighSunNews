@@ -1,28 +1,40 @@
 {
-  "lastUpdate": "2026-05-19T08:48:21.677209",
+  "lastUpdate": "2026-05-19T11:46:50.765092",
   "items": [
     {
-      "title": "李·다카이치 \"관행 얽매이지 않고 최상 관계 도약\" - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/05/19/VXYSDR62XJCIFCHSE4PJWJGFBE/",
-      "source": "조선일보",
-      "pubDate": "Tue, 19 May 2026 07:22:17 GMT",
-      "image": "https://www.chosun.com/resizer/v2/HFQ6LZ66HZER3I3P4BYFIMKFG4.gif?auth=5d41aaeecb6bdaec98c571537c18c31ca2104e06322a221599d3ae66735f0670&width=800&height=420&smart=true",
+      "title": "국힘 쪽 “스벅 샌드위치 먹어야징”…5·18 폄훼 동조 논란 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1259389.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 19 May 2026 08:09:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0519/20260519502561.webp",
       "summaries": {
-        "ko": "李·다카이치 \"관행 얽매이지 않고 최상 관계 도약\" - 조선일보",
-        "en": "李·다카이치 \"관행 얽매이지 않고 최상 관계 도약\" - 조선일보",
-        "zh": "李·다카이치 \"관행 얽매이지 않고 최상 관계 도약\" - 조선일보"
+        "ko": "5·18 폄훼 논란이 일었던 스타벅스의 '탱크데이' 마케팅에 대해 국민의힘 일부 관계자들이 옹호성 글을 올려 비판을 받았고, 이후 글은 삭제되고 당 차원에서 사과했다.",
+        "en": "Amid controversy over Starbucks' '5/18 Tank Day' marketing, which was perceived as disparaging the Gwangju Uprising, some People Power Party officials posted supportive messages, sparking further criticism, which led to the deletion of the posts and an apology from the party.",
+        "zh": "在星巴克“5·18坦克日”营销引发贬低光州民主化运动的争议后，韩国国民力量党部分相关人士发文表示支持，遭到进一步批评，随后相关帖子被删除，并由党组织出面道歉。"
       }
     },
     {
-      "title": "‘탱크데이’ 스타벅스 불매 운동 확산…“기프티콘 환불” “앱 탈퇴” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1259395.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 19 May 2026 07:27:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0519/20260519502757.webp",
+      "title": "중동발 위기 함께 맞닥뜨린 한·일…‘에너지 안보’ 공동방어선 구축 나선 정상들 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605191944001",
+      "source": "경향신문",
+      "pubDate": "Tue, 19 May 2026 10:44:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/19/news-p.v1.20260519.b3df1261ad2549ebba36ff1305598b51_P1.jpeg",
       "summaries": {
-        "ko": "스타벅스의 '탱크데이' 행사가 5·18 민주화운동 폄훼 논란에 휩싸이면서, 정치인과 소비자들 사이에서 스타벅스 불매 운동이 확산되고 있다.",
-        "en": "A boycott of Starbucks is spreading among politicians and consumers in South Korea after its 'Tank Day' event on the 5.18 Gwangju Democratization Movement anniversary sparked controversy for allegedly disparaging the movement.",
-        "zh": "星巴克在5·18光州民主化运动纪念日举行的“坦克日”活动引发了贬低民主运动的争议，导致韩国政界人士和消费者之间发起了抵制星巴克的运动。"
+        "ko": "중동발 위기 고조에 직면한 한일 정상이 LNG와 원유 스와프를 포함한 에너지 안보 협력을 강화하고, 과거사 문제 중 조세이 탄광 유해 유전자 감정 등 인도주의적 협력에도 진전을 이루기로 합의했다.",
+        "en": "Facing an escalating Middle East crisis, South Korean and Japanese leaders agreed to strengthen energy security cooperation, including LNG and crude oil swaps, and made progress on humanitarian issues like DNA identification of Chosei coal mine remains.",
+        "zh": "面对不断升级的中东危机，韩日两国领导人同意加强包括液化天然气和原油互换在内的能源安全合作，并在长生炭矿遗骸DNA鉴定等历史问题的人道主义方面取得进展。"
+      }
+    },
+    {
+      "title": "‘GTX 철근 누락’이 단순 작업자 실수?…“철근 남았다면 눈으로도 확인, 현대건설·서울시가 책임” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605191522001",
+      "source": "경향신문",
+      "pubDate": "Tue, 19 May 2026 06:22:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/19/news-p.v1.20260519.f4d956a2f1fb406ca0b0b4ef7a71998d_P1.jpg",
+      "summaries": {
+        "ko": "‘GTX 철근 누락’이 단순 작업자 실수?…“철근 남았다면 눈으로도 확인, 현대건설·서울시가 책임” - 경향신문",
+        "en": "‘GTX 철근 누락’이 단순 작업자 실수?…“철근 남았다면 눈으로도 확인, 현대건설·서울시가 책임” - 경향신문",
+        "zh": "‘GTX 철근 누락’이 단순 작업자 실수?…“철근 남았다면 눈으로도 확인, 현대건설·서울시가 책임” - 경향신문"
       }
     },
     {
@@ -38,87 +50,87 @@
       }
     },
     {
-      "title": "정원오 “서울, ‘안전불감증’ 도시에서 ‘안전특별시’로 만들 것” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8564785",
-      "source": "KBS 뉴스",
-      "pubDate": "Tue, 19 May 2026 05:37:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/05/19/20260519_dEM2LP.png",
-      "summaries": {
-        "ko": "더불어민주당 정원오 서울시장 후보가 GTX-A 삼성역 철근 누락 사태 등을 언급하며 서울의 '안전불감증'을 해소하고 '안전특별시'를 만들겠다고 강조했습니다.",
-        "en": "Democratic Party Seoul mayoral candidate Jung Won-oh vowed to transform Seoul from a city with 'safety insensitivity' into a 'safety special city,' citing incidents such as the GTX-A Samsung Station rebar omission.",
-        "zh": "民主党首尔市长候选人郑元吾提及GTX-A三星站钢筋遗漏事件等，强调将消除首尔的“安全麻木症”，并将其打造成“安全特别市”。"
-      }
-    },
-    {
-      "title": "“바이든-날리면 2탄이냐”…송언석 ‘더러워서-서러워서’ 논란 두고 “광주 모욕 정치” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605191137001",
-      "source": "경향신문",
-      "pubDate": "Tue, 19 May 2026 02:37:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/19/rcv.YNA.20260518.PYH2026051801660001300_P1.jpg",
-      "summaries": {
-        "ko": "송언석 국민의힘 원내대표의 5·18 기념식 불참 관련 \"더러워서/서러워서 안 간다\" 발언 논란에 대해 야당이 '바이든-날리면 시즌2'라며 광주 모욕 정치 중단을 촉구했다.",
-        "en": "Opposition parties criticized People Power Party's Song Eon-seok for his controversial \"dirty/sad so I won't go\" remark regarding his absence from the 5.18 Gwangju Memorial Ceremony, calling it \"Biden-Nalrimyeon Season 2\" and demanding an end to politics that insults Gwangju.",
-        "zh": "针对国民力量党议员宋彦锡在5·18纪念仪式缺席问题上发表的“太脏/太伤心不去”的争议言论，在野党称其为“拜登-听不清第二季”，并敦促停止侮辱光州的政治行为。"
-      }
-    },
-    {
       "title": "[박은하의 베이징 리포트] 미·중정상회담이 남긴 것 - 경향신문",
       "link": "https://www.khan.co.kr/article/202605191708001",
       "source": "경향신문",
       "pubDate": "Tue, 19 May 2026 08:08:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/05/19/news-p.v1.20260519.a5130265526c4734b224f81cd93bcdee_P1.jpg",
       "summaries": {
-        "ko": "이번 미·중 정상회담은 중국이 미국과 대등한 관계를 성공적으로 연출하며 '건설적 전략안정관계'를 구축하고 지정학적 역동성 변화를 상징하는 전환점이었다.",
-        "en": "The recent US-China summit marked a turning point where China successfully projected an image of equality with the US, establishing a \"constructive strategic stability relationship\" and symbolizing a shift in geopolitical dynamics.",
-        "zh": "本次美中峰会是一个转折点，中国成功地展现了与美国平等的形象，建立了“建设性战略稳定关系”，并象征着地缘政治动态的变化。"
+        "ko": "[박은하의 베이징 리포트] 미·중정상회담이 남긴 것 - 경향신문",
+        "en": "[박은하의 베이징 리포트] 미·중정상회담이 남긴 것 - 경향신문",
+        "zh": "[박은하의 베이징 리포트] 미·중정상회담이 남긴 것 - 경향신문"
       }
     },
     {
-      "title": "총파업이냐 긴급조정권 발동이냐…삼성전자 운명 오늘 ‘최후 협상’에 달렸다 - 매일경제",
-      "link": "https://www.mk.co.kr/news/business/12051709",
-      "source": "매일경제",
-      "pubDate": "Tue, 19 May 2026 00:02:21 GMT",
-      "image": "https://pimg.mk.co.kr/news/cms/202605/19/news-p.v1.20260519.5264a95f7cfb4595b0bfcf63712b7d60_R.png",
+      "title": "시진핑, 트럼프에게 \"푸틴은 우크라이나 침공을 후회할 수도 있다\"고 말해 - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/05/19/6TXBTMM7ZREBJBAE32MUIVMGFM/",
+      "source": "조선일보",
+      "pubDate": "Tue, 19 May 2026 10:37:34 GMT",
+      "image": "https://www.chosun.com/resizer/v2/FEHPBNMKXZO57EOFQEROZ3OUF4.jpg?auth=42356e22095e3e1d6bd38dae8d07a7dfaec5256ed29c4db854fe2391131af510&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "삼성전자 노사는 총파업 예고를 앞두고 정부 중재 하에 성과급 갈등 해결을 위한 최후 협상을 벌이고 있으며, 합의 실패 시 긴급조정권 발동 가능성도 제기된다.",
-        "en": "Samsung Electronics' labor and management are holding final government-mediated negotiations today to resolve a performance-based pay dispute and avert a looming strike, with the possibility of an emergency arbitration order if an agreement is not reached.",
-        "zh": "三星电子劳资双方在政府调解下，正在进行解决绩效奖金争议的最后谈判，以避免即将到来的罢工，若谈判失败可能启动紧急仲裁权。"
+        "ko": "시진핑, 트럼프에게 \"푸틴은 우크라이나 침공을 후회할 수도 있다\"고 말해 - 조선일보",
+        "en": "시진핑, 트럼프에게 \"푸틴은 우크라이나 침공을 후회할 수도 있다\"고 말해 - 조선일보",
+        "zh": "시진핑, 트럼프에게 \"푸틴은 우크라이나 침공을 후회할 수도 있다\"고 말해 - 조선일보"
       }
     },
     {
-      "title": "[속보] ‘노상원에 비화폰 지급’ 김용현 전 국방장관 1심 징역 3년 선고 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605191424001",
-      "source": "경향신문",
-      "pubDate": "Tue, 19 May 2026 05:24:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/19/news-p.v1.20260519.3a038f6f5c8a4bfb9c7dfbd7798d6526_P1.png",
-      "summaries": {
-        "ko": "김용현 전 국방부 장관이 12·3 내란 전날 대통령 경호처를 속여 비화폰을 지급받아 노상원 전 국군정보사령관에게 전달한 혐의로 1심에서 징역 3년을 선고받았다.",
-        "en": "Former Minister of National Defense Kim Yong-hyun was sentenced to 3 years in prison in the first trial for allegedly deceiving the Presidential Security Service to obtain a secure phone the day before the December 3 incident and delivering it to former commander of the Defense Intelligence Command Noh Sang-won.",
-        "zh": "前国防部长金勇炫因涉嫌在12月3日叛乱前夕欺骗总统警卫处获取加密手机并将其交给前国防情报司令官卢相元，在一审中被判处3年有期徒刑。"
-      }
-    },
-    {
-      "title": "동료 기장 6명 살해 계획한 김동환 첫 법정 출석… 반성문은 없었다 - 국민일보",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029843018",
-      "source": "국민일보",
-      "pubDate": "Tue, 19 May 2026 04:54:00 GMT",
-      "image": "https://image.kmib.co.kr/online_image/2026/0519/2026051913493192646_1779166171_0029843018.png",
-      "summaries": {
-        "ko": "동료 기장 6명 살해 계획한 김동환 첫 법정 출석… 반성문은 없었다 - 국민일보",
-        "en": "동료 기장 6명 살해 계획한 김동환 첫 법정 출석… 반성문은 없었다 - 국민일보",
-        "zh": "동료 기장 6명 살해 계획한 김동환 첫 법정 출석… 반성문은 없었다 - 국민일보"
-      }
-    },
-    {
-      "title": "낮 최고 31도까지…초여름 더위, 오늘 밤 비 앞두고 절정 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1259315.html",
+      "title": "고속도로서 25t 트럭에 추돌당한 승용차 화재…일가족 4명 숨져 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/yeongnam/1259400.html",
       "source": "한겨레",
-      "pubDate": "Mon, 18 May 2026 23:59:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/503/imgdb/original/2026/0519/20260519500274.webp",
+      "pubDate": "Tue, 19 May 2026 09:26:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/444/imgdb/original/2026/0519/20260519502859.webp",
       "summaries": {
-        "ko": "낮 최고 31도까지…초여름 더위, 오늘 밤 비 앞두고 절정 - 한겨레",
-        "en": "낮 최고 31도까지…초여름 더위, 오늘 밤 비 앞두고 절정 - 한겨레",
-        "zh": "낮 최고 31도까지…초여름 더위, 오늘 밤 비 앞두고 절정 - 한겨레"
+        "ko": "19일 경북 구미시 상주영천고속도로에서 25t 화물차가 승용차를 추돌해 화재가 발생했으며, 이 사고로 승용차에 타고 있던 일가족 4명이 모두 숨졌다.",
+        "en": "On the 19th, a 25-ton truck rear-ended a passenger car on the Sangju-Yeongcheon Expressway in Gumi, Gyeongbuk, causing a fire that killed all four family members inside the car.",
+        "zh": "19日，在庆北龟米市的尚州-永川高速公路上，一辆25吨卡车追尾一辆轿车并引发火灾，导致轿车内的一家四口全部死亡。"
+      }
+    },
+    {
+      "title": "민주 “송언석 ‘더러워서-서러워서’, 바이든-날리면 시즌2” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1259324.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 19 May 2026 04:35:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/770/462/imgdb/child/2026/0519/53_17791508559875_20260519500596.webp",
+      "summaries": {
+        "ko": "민주 “송언석 ‘더러워서-서러워서’, 바이든-날리면 시즌2” - 한겨레",
+        "en": "민주 “송언석 ‘더러워서-서러워서’, 바이든-날리면 시즌2” - 한겨레",
+        "zh": "민주 “송언석 ‘더러워서-서러워서’, 바이든-날리면 시즌2” - 한겨레"
+      }
+    },
+    {
+      "title": "[MBC여론조사] 경기 하남갑‥이광재 43%, 이용 31%, 김성열 5% - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6823691_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Tue, 19 May 2026 07:00:06 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/19/joo260519_po_ha1.jpg",
+      "summaries": {
+        "ko": "[MBC여론조사] 경기 하남갑‥이광재 43%, 이용 31%, 김성열 5% - MBC 뉴스",
+        "en": "[MBC여론조사] 경기 하남갑‥이광재 43%, 이용 31%, 김성열 5% - MBC 뉴스",
+        "zh": "[MBC여론조사] 경기 하남갑‥이광재 43%, 이용 31%, 김성열 5% - MBC 뉴스"
+      }
+    },
+    {
+      "title": "한일 정상, 한 시간 넘게 만찬…다카이치, 다음 셔틀외교로 일본 온천 도시 제안",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260519203559FwS",
+      "source": "Breaking News",
+      "pubDate": "Tue, 19 May 2026 20:36:00 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260519/AKR20260519203559FwS_01_i.jpg",
+      "summaries": {
+        "ko": "한일 정상, 한 시간 넘게 만찬…다카이치, 다음 셔틀외교로 일본 온천 도시 제안",
+        "en": "한일 정상, 한 시간 넘게 만찬…다카이치, 다음 셔틀외교로 일본 온천 도시 제안",
+        "zh": "한일 정상, 한 시간 넘게 만찬…다카이치, 다음 셔틀외교로 일본 온천 도시 제안"
+      }
+    },
+    {
+      "title": "[속보] 중노위원장 \"삼전 합의 안되면 10시에 조정안\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260519200137dfo",
+      "source": "Breaking News",
+      "pubDate": "Tue, 19 May 2026 20:02:03 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260519/MYH20260519200137dfo.jpg",
+      "summaries": {
+        "ko": "[속보] 중노위원장 \"삼전 합의 안되면 10시에 조정안\"",
+        "en": "[속보] 중노위원장 \"삼전 합의 안되면 10시에 조정안\"",
+        "zh": "[속보] 중노위원장 \"삼전 합의 안되면 10시에 조정안\""
       }
     }
   ]
