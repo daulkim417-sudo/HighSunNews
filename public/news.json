@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2026-05-20T11:17:29.376078",
+  "lastUpdate": "2026-05-20T13:47:38.813705",
   "items": [
-    {
-      "title": "이준석, '이스라엘 총리 체포영장 검토' 李 대통령에 \"김정은·푸틴도 체포할거냐... 제발 자중하라\" - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/05/20/HDXKJMXSLJHM3BT74SIKTTHX6E/",
-      "source": "조선일보",
-      "pubDate": "Wed, 20 May 2026 09:27:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/G5RTSOJSHBRWINTCGQZTCMBUGM.jpg?auth=09a499c192b1e5ebd42253cc959959e4f7b24b9ba4db1ad74b2f78ab0bfbb9b9&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "이준석, '이스라엘 총리 체포영장 검토' 李 대통령에 \"김정은·푸틴도 체포할거냐... 제발 자중하라\" - 조선일보",
-        "en": "이준석, '이스라엘 총리 체포영장 검토' 李 대통령에 \"김정은·푸틴도 체포할거냐... 제발 자중하라\" - 조선일보",
-        "zh": "이준석, '이스라엘 총리 체포영장 검토' 李 대통령에 \"김정은·푸틴도 체포할거냐... 제발 자중하라\" - 조선일보"
-      }
-    },
     {
       "title": "정부 “한국 유조선 호르무즈 첫 통과 중…통행료 없이 200만배럴” - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1259564.html",
       "source": "한겨레",
-      "pubDate": "Wed, 20 May 2026 09:03:00 GMT",
+      "pubDate": "Wed, 20 May 2026 12:50:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/640/359/imgdb/original/2026/0520/20260520502576.webp",
       "summaries": {
-        "ko": "한국 정부는 이란과의 외교적 협의를 통해 미국-이스라엘-이란 분쟁 이후 호르무즈 해협에 발이 묶여 있던 한국 유조선 유니버설 위너호가 통행료 없이 200만 배럴의 원유를 싣고 첫 통과했다고 발표했다.",
-        "en": "The South Korean government announced that following diplomatic consultations with Iran, the South Korean oil tanker Universal Winner, previously stranded in the Strait of Hormuz after the US-Israel-Iran conflict, has become the first to successfully pass through carrying 2 million barrels of crude oil without paying transit fees.",
-        "zh": "韩国政府宣布，经过与伊朗的外交协商，此前因美以伊冲突而被困在霍尔木兹海峡的韩国油轮“Universal Winner”号，在未支付通行费的情况下，首次载运200万桶原油成功通过该海峡。"
+        "ko": "최근 호르무즈해협에 갇혔던 한국 유조선 유니버설 위너호가 통행료 없이 200만 배럴의 원유를 싣고 해협을 첫 통과했다.",
+        "en": "A South Korean oil tanker, Universal Winner, became the first of 26 stranded vessels to pass through the Strait of Hormuz, carrying 2 million barrels of crude oil without paying transit fees.",
+        "zh": "一艘载有200万桶原油的韩国油轮“环球赢家号”在未支付通行费的情况下，首次成功通过霍尔木兹海峡，成为滞留船只中的首例。"
+      }
+    },
+    {
+      "title": "‘스타벅스 탱크데이’ 파문에 계약 재조명…“이마트 귀책 시 지분 35% 할인 매각” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/economy/economy_general/1259629.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 20 May 2026 11:30:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/526/imgdb/original/2026/0520/20260520503582.webp",
+      "summaries": {
+        "ko": "'스타벅스 탱크데이' 논란으로 이마트와 스타벅스 본사 간 계약 중 이마트 귀책 시 본사가 이마트 지분을 35% 할인된 가격에 매입할 수 있는 조항이 주목받으며 브랜드 가치 훼손으로 인한 지분 매각 가능성에 대한 우려가 제기되고 있다.",
+        "en": "The 'Starbucks Tank Day' controversy has highlighted a contract clause between E-Mart and Starbucks headquarters, allowing the headquarters to purchase E-Mart's stake at a 35% discount if E-Mart is at fault, raising concerns about a potential equity sale due to brand value damage.",
+        "zh": "“星巴克坦克日”争议使得易买得与星巴克总部之间的一项合同条款受到关注，该条款规定若因易买得的过失导致合同终止，总部可以35%的折扣收购易买得的股份，引发了对品牌价值受损可能导致股权出售的担忧。"
       }
     },
     {
@@ -32,33 +32,21 @@
       "pubDate": "Wed, 20 May 2026 07:15:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0520/53_17792612057094_20260520502850.webp",
       "summaries": {
-        "ko": "트럼프 대통령의 '미국 우선주의'로 인한 아시아 내 힘의 공백과 미·중 화해 분위기 속에서, 한국과 일본이 경제·안보 협력을 강화하며 밀착하고 있다는 분석이 나왔다.",
-        "en": "Amidst a perceived power vacuum in Asia due to President Trump's 'America First' policy and a US-China rapprochement, South Korea and Japan are reportedly strengthening their economic and security cooperation.",
-        "zh": "有分析指出，在特朗普总统“美国优先”政策造成的亚洲权力真空以及美中和解氛围下，韩国和日本正在加强经济和安全领域的合作。"
+        "ko": "미국 트럼프 대통령의 '미국 우선주의'가 아시아의 힘의 공백을 야기하면서 한국과 일본이 경제·안보 협력을 강화하고 있다는 분석이 제기됐다.",
+        "en": "An analysis suggests that South Korea and Japan are strengthening economic and security cooperation as U.S. President Trump's 'America First' policy creates a power vacuum in Asia.",
+        "zh": "有分析指出，由于美国总统特朗普的“美国优先”政策在亚洲造成权力真空，韩国和日本正在加强经济和安全领域的合作。"
       }
     },
     {
-      "title": "‘멸공’ 외치던 정용진, 스타벅스 ‘탱크데이’엔 왜 납작 엎드렸나···이유는 경영권과 사업? - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605201729001",
-      "source": "경향신문",
-      "pubDate": "Wed, 20 May 2026 08:29:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/20/news-p.v1.20260519.010b3fb805664e2bae6cf3daba188b68_P1.jpeg",
+      "title": "‘네타냐후 체포영장 검토’ 李대통령에... 野 “김정은·푸틴도 체포할거냐, 제발 자중하라” - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/05/20/HDXKJMXSLJHM3BT74SIKTTHX6E/",
+      "source": "조선일보",
+      "pubDate": "Wed, 20 May 2026 09:27:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/G5RTSOJSHBRWINTCGQZTCMBUGM.jpg?auth=09a499c192b1e5ebd42253cc959959e4f7b24b9ba4db1ad74b2f78ab0bfbb9b9&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "정용진 신세계그룹 회장이 스타벅스 '탱크데이' 논란에 즉각 사과하고 대표를 경질한 배경에는 경영권 상실 우려를 키우는 콜옵션 조항과 광주 대규모 사업 추진에 따른 여론 민감성이 있다는 분석이 나온다.",
-        "en": "Shinsegae Group Chairman Chung Yong-jin's prompt apology and dismissal of the CEO over Starbucks' \"Tank Day\" controversy are attributed to concerns about losing management rights due to a call option clause and sensitivity to public opinion given ongoing large-scale projects in Gwangju.",
-        "zh": "新世界集团会长郑용진就星巴克“坦克日”争议迅速道歉并撤换代表，分析认为其背后原因是对可能因看涨期权条款而失去星巴克韩国经营权的担忧，以及在光州推进大规模项目所带来的舆论敏感性。"
-      }
-    },
-    {
-      "title": "쿠팡 산재은폐 늑장조사 규탄한다! 김범석 소환수사하라! - 참여연대",
-      "link": "https://peoplepower21.org/stablelife/%EC%A4%91%EC%86%8C%EC%83%81%EC%9D%B8%EA%B3%B5%EC%A0%95/2023132",
-      "source": "참여연대",
-      "pubDate": "Wed, 20 May 2026 04:34:10 GMT",
-      "image": "https://pspd-www.s3.ap-northeast-2.amazonaws.com/wp-content/uploads/2023/02/09201036/default_thumb_800-400.png",
-      "summaries": {
-        "ko": "노동·시민단체들은 고용노동부가 쿠팡의 산재 은폐 의혹에 대한 늑장·봐주기 조사를 하고 있다며 김범석 의장의 소환 수사를 촉구하고, 대기업을 비호한다고 규탄했다.",
-        "en": "Labor and civic groups are protesting the Ministry of Employment and Labor's alleged slow and lenient investigation into Coupang's industrial accident concealment and demanding the summoning and questioning of Chairman Kim Beom-seok, accusing the ministry of protecting large corporations.",
-        "zh": "劳工和公民团体抗议雇佣劳动部对酷澎（Coupang）涉嫌隐瞒工业事故的调查迟缓且纵容，要求传唤并调查董事长金范锡，并指责该部包庇大企业。"
+        "ko": "‘네타냐후 체포영장 검토’ 李대통령에... 野 “김정은·푸틴도 체포할거냐, 제발 자중하라” - 조선일보",
+        "en": "‘네타냐후 체포영장 검토’ 李대통령에... 野 “김정은·푸틴도 체포할거냐, 제발 자중하라” - 조선일보",
+        "zh": "‘네타냐후 체포영장 검토’ 李대통령에... 野 “김정은·푸틴도 체포할거냐, 제발 자중하라” - 조선일보"
       }
     },
     {
@@ -74,6 +62,18 @@
       }
     },
     {
+      "title": "몽골 경유 가스관 사업 “큰 틀 합의”…에너지·안보 더 ‘밀착’ - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605202103005",
+      "source": "경향신문",
+      "pubDate": "Wed, 20 May 2026 12:03:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/20/l_2026052101000613200059501.jpg",
+      "summaries": {
+        "ko": "몽골 경유 가스관 사업 “큰 틀 합의”…에너지·안보 더 ‘밀착’ - 경향신문",
+        "en": "몽골 경유 가스관 사업 “큰 틀 합의”…에너지·안보 더 ‘밀착’ - 경향신문",
+        "zh": "몽골 경유 가스관 사업 “큰 틀 합의”…에너지·안보 더 ‘밀착’ - 경향신문"
+      }
+    },
+    {
       "title": "‘강한 비’ 온다…전국에 시간당 20~30㎜ - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/environment/1259534.html",
       "source": "한겨레",
@@ -86,39 +86,63 @@
       }
     },
     {
-      "title": "김건희, ‘쥴리 의혹’ 재판서 “쥴리의 ‘쥴’자도 쓴 적 없어... 내 영어 이름은 제니” - 조선일보",
-      "link": "https://www.chosun.com/national/court_law/2026/05/20/JTEN2B6QK5HSHMV6QI3EANM5EQ/",
+      "title": "혼돈의 평택, 보수 단일화 꿈틀…유의동 \"진지한 고민\" - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/05/20/7TCYJTKLEFFOLNJVQVA7KBDOVM/",
       "source": "조선일보",
-      "pubDate": "Wed, 20 May 2026 05:00:38 GMT",
-      "image": "https://www.chosun.com/resizer/v2/HFSTAYLDGQZTEMRWMM4DGNTGME.jpg?auth=027459a05a0881c9f7ffa7182c2ef233338eae68b0d3e178e24036d35ab6d8ca&width=1200&height=630&smart=true",
+      "pubDate": "Wed, 20 May 2026 12:02:06 GMT",
+      "image": "https://www.chosun.com/resizer/v2/JW6VSAHAEZEL5KFOBISMW6OF3Q.jpg?auth=bbbca1b320bc661469e7db0ae5715eb1ef876a9d57e7520efbd3d6406d8b4b98&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "김건희, ‘쥴리 의혹’ 재판서 “쥴리의 ‘쥴’자도 쓴 적 없어... 내 영어 이름은 제니” - 조선일보",
-        "en": "김건희, ‘쥴리 의혹’ 재판서 “쥴리의 ‘쥴’자도 쓴 적 없어... 내 영어 이름은 제니” - 조선일보",
-        "zh": "김건희, ‘쥴리 의혹’ 재판서 “쥴리의 ‘쥴’자도 쓴 적 없어... 내 영어 이름은 제니” - 조선일보"
+        "ko": "혼돈의 평택, 보수 단일화 꿈틀…유의동 \"진지한 고민\" - 조선일보",
+        "en": "혼돈의 평택, 보수 단일화 꿈틀…유의동 \"진지한 고민\" - 조선일보",
+        "zh": "혼돈의 평택, 보수 단일화 꿈틀…유의동 \"진지한 고민\" - 조선일보"
       }
     },
     {
-      "title": "조현 “나무호 공격 비행체, 드론 가능성 줄어…조사 최종단계” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1259556.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 20 May 2026 07:51:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/727/imgdb/original/2026/0520/20260520502335.webp",
+      "title": "與 박선원 “이란, 나무호에 미사일 조준 발사한듯” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260520/133955280/2",
+      "source": "동아일보",
+      "pubDate": "Tue, 19 May 2026 19:30:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/20/133953036.5.jpg",
       "summaries": {
-        "ko": "조현 외교부 장관은 호르무즈 해협에서 HMM 나무호를 공격한 비행체가 드론일 가능성이 줄었으며, 국방부를 중심으로 한 잔해 조사가 최종 단계에 있다고 밝혔다.",
-        "en": "Foreign Minister Cho Hyun announced that the flying object that attacked the HMM Namuh in the Strait of Hormuz is less likely to be a drone, and the wreckage investigation led by the Ministry of National Defense is in its final stage.",
-        "zh": "韩国外交部长赵显表示，在霍尔木兹海峡袭击HMM Namuh号的飞行器是无人机的可能性降低，由国防部主导的残骸调查已进入最后阶段。"
+        "ko": "與 박선원 “이란, 나무호에 미사일 조준 발사한듯” - 동아일보",
+        "en": "與 박선원 “이란, 나무호에 미사일 조준 발사한듯” - 동아일보",
+        "zh": "與 박선원 “이란, 나무호에 미사일 조준 발사한듯” - 동아일보"
       }
     },
     {
-      "title": "무신사, 박종철 열사 고문 연상 광고 논란에 재차 사과 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6823975_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Wed, 20 May 2026 06:10:57 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/05/20/joo260520_13.jpg",
+      "title": "무신사, '박종철 열사 고문 연상' 광고 논란 재차 사과 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260520095400030",
+      "source": "연합뉴스",
+      "pubDate": "Wed, 20 May 2026 05:04:51 GMT",
+      "image": "https://img7.yna.co.kr/etc/inner/KR/2026/05/20/AKR20260520095400030_03_i_P4.jpg",
       "summaries": {
-        "ko": "온라인 패션 플랫폼 무신사가 2019년 박종철 열사 고문 및 6월 민주항쟁을 연상시키는 광고로 논란이 되었던 사건에 대해 7년 만에 재차 사과하고 당시 잘못을 다시 한번 인정했습니다.",
-        "en": "Online fashion platform Musinsa has re-apologized, seven years later, for an incident in 2019 where its advertisement sparked controversy by evoking the torture of martyr Park Jong-cheol and the June Democracy Movement, re-acknowledging its past mistake.",
-        "zh": "线上时尚平台Musinsa就2019年其广告引发的争议再次道歉，该广告曾令人联想到烈士朴钟哲的酷刑和六月民主抗争，Musinsa在七年后再次承认了当时的错误。"
+        "ko": "무신사, '박종철 열사 고문 연상' 광고 논란 재차 사과 - 연합뉴스",
+        "en": "무신사, '박종철 열사 고문 연상' 광고 논란 재차 사과 - 연합뉴스",
+        "zh": "무신사, '박종철 열사 고문 연상' 광고 논란 재차 사과 - 연합뉴스"
+      }
+    },
+    {
+      "title": "[속보] 삼성 노조 \"23∼28일 잠정합의안 찬반 투표\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260520224027zSP",
+      "source": "Breaking News",
+      "pubDate": "Wed, 20 May 2026 22:40:29 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260520/AKR20260520224027zSP_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] 삼성 노조 \"23∼28일 잠정합의안 찬반 투표\"",
+        "en": "[속보] 삼성 노조 \"23∼28일 잠정합의안 찬반 투표\"",
+        "zh": "[속보] 삼성 노조 \"23∼28일 잠정합의안 찬반 투표\""
+      }
+    },
+    {
+      "title": "[속보] 삼성 노조 \"총파업 유보…잠정합의안 찬반투표 실시\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260520223347OON",
+      "source": "Breaking News",
+      "pubDate": "Wed, 20 May 2026 22:33:49 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260520/AKR20260520223347OON_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] 삼성 노조 \"총파업 유보…잠정합의안 찬반투표 실시\"",
+        "en": "[속보] 삼성 노조 \"총파업 유보…잠정합의안 찬반투표 실시\"",
+        "zh": "[속보] 삼성 노조 \"총파업 유보…잠정합의안 찬반투표 실시\""
       }
     }
   ]
