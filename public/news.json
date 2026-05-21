@@ -1,40 +1,76 @@
 {
-  "lastUpdate": "2026-05-21T12:15:02.719699",
+  "lastUpdate": "2026-05-21T15:52:29.770755",
   "items": [
     {
-      "title": "스타벅스 탱크데이 파문… 광주시, 주관행사에 상품권 사용 금지 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/05/21/VPJVLKRGP5FORJKMKDZZYCRQWQ/",
+      "title": "행안부, 스타벅스 불매 선언… \"많은 기관·국민 공감해 주길\" - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/05/21/SNCFYNG2FBFVZNX4WSGA3KXANQ/",
       "source": "조선일보",
-      "pubDate": "Thu, 21 May 2026 07:27:50 GMT",
-      "image": "https://www.chosun.com/resizer/v2/XLZPNBKYCRNW5P3YK6MHESWLNQ.jpg?auth=565fcb8f52f47883e96f7c620a0ba7f47c0824b0a675485b0c5d36b5cb2d4959&width=1200&height=630&smart=true",
+      "pubDate": "Thu, 21 May 2026 12:41:25 GMT",
+      "image": "https://www.chosun.com/resizer/v2/XLZPNBKYCRNW5P3YK6MHESWLNQ.jpg?auth=565fcb8f52f47883e96f7c620a0ba7f47c0824b0a675485b0c5d36b5cb2d4959&width=1200&height=630&focal=3628,307",
       "summaries": {
-        "ko": "스타벅스 탱크데이 파문… 광주시, 주관행사에 상품권 사용 금지 - 조선일보",
-        "en": "스타벅스 탱크데이 파문… 광주시, 주관행사에 상품권 사용 금지 - 조선일보",
-        "zh": "스타벅스 탱크데이 파문… 광주시, 주관행사에 상품권 사용 금지 - 조선일보"
+        "ko": "행안부, 스타벅스 불매 선언… \"많은 기관·국민 공감해 주길\" - 조선일보",
+        "en": "행안부, 스타벅스 불매 선언… \"많은 기관·국민 공감해 주길\" - 조선일보",
+        "zh": "행안부, 스타벅스 불매 선언… \"많은 기관·국민 공감해 주길\" - 조선일보"
       }
     },
     {
-      "title": "‘구호선 나포’ 한국인 2명 22일 귀국…이스라엘, 구금 않고 추방 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1259842.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 21 May 2026 10:28:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/1213/imgdb/original/2026/0521/20260521503588.webp",
-      "summaries": {
-        "ko": "이스라엘군에 나포된 가자 구호선단 한국인 활동가 2명이 구금 없이 추방되어 22일 귀국할 예정이며, 외교부는 국민 안전을 이유로 가자지구 진입 시도자에 대한 여권 무효화 조치를 유지하겠다는 입장이다.",
-        "en": "Two South Korean activists from a Gaza aid flotilla, captured by the Israeli military, were deported without detention due to diplomatic requests and are scheduled to return on the 22nd, while the Ministry of Foreign Affairs maintains its passport invalidation policy for those attempting to enter Gaza for safety reasons.",
-        "zh": "两名参与加沙援助船队并被以色列军队扣押的韩国活动家在未被拘留的情况下被驱逐出境，预计将于22日回国，韩国外交部则坚持以国民安全为由，对试图进入加沙地带的人员采取护照无效化措施。"
-      }
-    },
-    {
-      "title": "이 대통령 “국가폭력 피해자 조롱하는 독버섯 뿌리 뽑아야”…여당, 5·18 모욕 처벌 입법 착수 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605211601001",
+      "title": "‘내란선전 혐의’ 이은우 구속영장 기각 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605212218005",
       "source": "경향신문",
-      "pubDate": "Thu, 21 May 2026 07:01:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/21/news-p.v1.20260521.e5b7277551524cbeba598444fb4a895e_P1.jpeg",
+      "pubDate": "Thu, 21 May 2026 13:18:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/21/l_2026052201000673000064092.jpg",
       "summaries": {
-        "ko": "이재명 대통령은 5·18 등 국가폭력 피해자를 모욕하고 허위 사실을 유포하는 행위를 강력히 응징할 것을 지시했으며, 여당은 이러한 행위에 대한 처벌 범위를 확대하는 입법에 착수했다.",
-        "en": "President Lee Jae-myung called for strong punishment against those who insult victims of state violence and spread fake news about incidents like the 5.18 Gwangju Uprising, prompting the ruling party to initiate legislation to broaden the scope of such punishable acts.",
-        "zh": "李在明总统指示严惩侮辱国家暴力受害者及散布5·18等虚假信息的行为，执政党已着手立法扩大对此类行为的处罚范围。"
+        "ko": "법원이 '내란선전 혐의'를 받는 이은우 전 KTV 원장에 대한 종합특검의 구속영장 청구를 기각하며, 특검의 첫 신병확보 시도가 무산되었다.",
+        "en": "The court rejected the Comprehensive Special Prosecutor's request for an arrest warrant for Lee Eun-woo, former KTV head accused of 'rebellion propaganda,' thwarting the special prosecutor's first attempt to secure custody.",
+        "zh": "法院驳回了综合特检组对涉嫌“煽动内乱”的前KTV院长李恩宇的逮捕令申请，标志着特检组首次获取嫌疑人拘留权的尝试以失败告终。"
+      }
+    },
+    {
+      "title": "이 대통령 “네타냐후 체포” 발언에도, 이스라엘 “관계 발전 희망” 메시지 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1259876.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 21 May 2026 13:16:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/384/imgdb/original/2026/0521/20260521503795.webp",
+      "summaries": {
+        "ko": "가자 구호선단에 참여한 한국인 활동가 나포에 대해 이재명 대통령이 베냐민 네타냐후 이스라엘 총리를 '전범'으로 지칭하며 강하게 비판했음에도, 이스라엘은 국제적 비판을 의식해 한국과의 관계 발전을 희망한다는 메시지를 보냈다.",
+        "en": "Despite President Lee Jae-myung's strong criticism, including labeling Israeli Prime Minister Benjamin Netanyahu a \"war criminal,\" following the detention of South Korean activists on a Gaza aid flotilla, Israel, mindful of international criticism, conveyed a message hoping for the development of bilateral relations.",
+        "zh": "尽管韩国总统李在明因加沙救援船队韩国活动家被扣押而强烈批评以色列总理本雅明·内塔尼亚胡为“战犯”，但以色列鉴于国际批评，发出了希望与韩国发展关系的信号。"
+      }
+    },
+    {
+      "title": "[단독] 서울시, ‘GTX 철근 누락’ 현대건설에 6개월간 벌점 안 줬다 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1259853.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 21 May 2026 11:17:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/434/imgdb/original/2026/0521/20260521503649.webp",
+      "summaries": {
+        "ko": "[단독] 서울시, ‘GTX 철근 누락’ 현대건설에 6개월간 벌점 안 줬다 - 한겨레",
+        "en": "[단독] 서울시, ‘GTX 철근 누락’ 현대건설에 6개월간 벌점 안 줬다 - 한겨레",
+        "zh": "[단독] 서울시, ‘GTX 철근 누락’ 현대건설에 6개월간 벌점 안 줬다 - 한겨레"
+      }
+    },
+    {
+      "title": "鄭, 삼성역 달려가 \"철근 누락 책임져라\"… 吳, 서울 전역 돌며 \"李부동산 정책 0점\" - 매일경제",
+      "link": "https://www.mk.co.kr/news/politics/12054761",
+      "source": "매일경제",
+      "pubDate": "Thu, 21 May 2026 09:04:59 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202605/22/20260522_01160106000001_L00.jpg",
+      "summaries": {
+        "ko": "鄭, 삼성역 달려가 \"철근 누락 책임져라\"… 吳, 서울 전역 돌며 \"李부동산 정책 0점\" - 매일경제",
+        "en": "鄭, 삼성역 달려가 \"철근 누락 책임져라\"… 吳, 서울 전역 돌며 \"李부동산 정책 0점\" - 매일경제",
+        "zh": "鄭, 삼성역 달려가 \"철근 누락 책임져라\"… 吳, 서울 전역 돌며 \"李부동산 정책 0점\" - 매일경제"
+      }
+    },
+    {
+      "title": "트럼프와는 ‘관계 관리’, 푸틴과는 ‘큰 그림’…시진핑, 하반기는 순방 외교 계속 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605211806001",
+      "source": "경향신문",
+      "pubDate": "Thu, 21 May 2026 09:06:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/21/news-p.v1.20260521.ed29073698384fd1a8e8832871a9043a_P1.jpg",
+      "summaries": {
+        "ko": "트럼프와는 ‘관계 관리’, 푸틴과는 ‘큰 그림’…시진핑, 하반기는 순방 외교 계속 - 경향신문",
+        "en": "트럼프와는 ‘관계 관리’, 푸틴과는 ‘큰 그림’…시진핑, 하반기는 순방 외교 계속 - 경향신문",
+        "zh": "트럼프와는 ‘관계 관리’, 푸틴과는 ‘큰 그림’…시진핑, 하반기는 순방 외교 계속 - 경향신문"
       }
     },
     {
@@ -44,81 +80,57 @@
       "pubDate": "Thu, 21 May 2026 06:41:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/05/21/news-p.v1.20260515.071a6706524841958b3b8129bec22ea1_P1.png",
       "summaries": {
-        "ko": "방탄소년단 부산 공연 기간 중 바가지 숙박비 논란이 심화되자 범어사를 비롯한 부산 지역 사찰들이 팬들을 위해 무료 또는 유료 숙박을 제공하며 부산시의 감사를 받고 있다.",
-        "en": "As price gouging for accommodations escalates during the BTS concert in Busan, local Buddhist temples, including Beomeosa, have stepped in to offer free or paid lodging for fans, earning gratitude from Busan City.",
-        "zh": "由于防弹少年团釜山演唱会期间住宿费哄抬严重，包括梵鱼寺在内的釜山当地寺庙纷纷伸出援手，为粉丝提供免费或付费住宿，赢得了釜山市的感谢。"
+        "ko": "[단독]“불교계 눈물나게 고마워”···‘1박 90만원’ 부산 BTS 공연 바가지 숙박비에 절에서 팔 걷었다 - 경향신문",
+        "en": "[단독]“불교계 눈물나게 고마워”···‘1박 90만원’ 부산 BTS 공연 바가지 숙박비에 절에서 팔 걷었다 - 경향신문",
+        "zh": "[단독]“불교계 눈물나게 고마워”···‘1박 90만원’ 부산 BTS 공연 바가지 숙박비에 절에서 팔 걷었다 - 경향신문"
       }
     },
     {
-      "title": "[단독] 서울시, ‘GTX 철근 누락’ 현대건설에 6개월간 벌점 안 줬다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1259853.html",
+      "title": "콩국수 봉사서 만난 박민식, 한동훈 향해 “단일화 상대 안 돼” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1259766.html",
       "source": "한겨레",
-      "pubDate": "Thu, 21 May 2026 10:06:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/434/imgdb/original/2026/0521/20260521503649.webp",
+      "pubDate": "Thu, 21 May 2026 12:19:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0521/53_17793436318738_20260521502387.webp",
       "summaries": {
-        "ko": "서울시가 GTX-A 삼성역 구간 철근 178t 누락을 인지하고도 자체 규정을 어기고 현대건설에 대한 벌점 부과 절차를 6개월 이상 지연하여 비판을 받고 있다.",
-        "en": "The Seoul Metropolitan Government is facing criticism for delaying the imposition of penalty points on Hyundai E&C for over six months, despite violating its own regulations, after the company omitted 178 tons of rebar in the GTX-A Samseong Station section.",
-        "zh": "首尔市政府因违反自身规定，延迟六个多月对在GTX-A三星站段工程中漏掉了178吨钢筋的现代建设公司启动扣分程序，正面临批评。"
+        "ko": "콩국수 봉사서 만난 박민식, 한동훈 향해 “단일화 상대 안 돼” - 한겨레",
+        "en": "콩국수 봉사서 만난 박민식, 한동훈 향해 “단일화 상대 안 돼” - 한겨레",
+        "zh": "콩국수 봉사서 만난 박민식, 한동훈 향해 “단일화 상대 안 돼” - 한겨레"
       }
     },
     {
-      "title": "트럼프 “합의-전쟁 경계선에 서 있어”…이란 “미국 협상안 검토” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1259767.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 21 May 2026 10:10:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/862/574/imgdb/original/2026/0521/20260521502401.webp",
+      "title": "김부겸 vs 추경호 엎치락뒤치락…대구시장 여론조사 접전 - 노컷뉴스",
+      "link": "https://www.nocutnews.co.kr/news/6520926",
+      "source": "노컷뉴스",
+      "pubDate": "Thu, 21 May 2026 06:15:00 GMT",
+      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/05/21/202605211515087896_0.jpg",
       "summaries": {
-        "ko": "트럼프 “합의-전쟁 경계선에 서 있어”…이란 “미국 협상안 검토” - 한겨레",
-        "en": "트럼프 “합의-전쟁 경계선에 서 있어”…이란 “미국 협상안 검토” - 한겨레",
-        "zh": "트럼프 “합의-전쟁 경계선에 서 있어”…이란 “미국 협상안 검토” - 한겨레"
+        "ko": "김부겸 vs 추경호 엎치락뒤치락…대구시장 여론조사 접전 - 노컷뉴스",
+        "en": "김부겸 vs 추경호 엎치락뒤치락…대구시장 여론조사 접전 - 노컷뉴스",
+        "zh": "김부겸 vs 추경호 엎치락뒤치락…대구시장 여론조사 접전 - 노컷뉴스"
       }
     },
     {
-      "title": "‘2부제 편법 우회’ 의혹 받는 서울 성동서장 대기 발령 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/05/21/YWNYXH6BYBCNVMA5ZQFNUD4FS4/",
-      "source": "조선일보",
-      "pubDate": "Thu, 21 May 2026 04:26:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/HXKFET6XUFFNVD2PJBIUSYCNX4.jpg?auth=43be8aedd5a2c50a6fe6c5bbf7425dea0e8b1a0d0959fc11a7b8da40a02c00a7&width=518&height=271&smart=true",
+      "title": "\"이란 최고지도자, 농축우라늄 해외반출 불허\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260522004619wpY",
+      "source": "Breaking News",
+      "pubDate": "Fri, 22 May 2026 00:46:21 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260521/AKR20260522004619wpY_01_i.jpg",
       "summaries": {
-        "ko": "‘2부제 편법 우회’ 의혹 받는 서울 성동서장 대기 발령 - 조선일보",
-        "en": "‘2부제 편법 우회’ 의혹 받는 서울 성동서장 대기 발령 - 조선일보",
-        "zh": "‘2부제 편법 우회’ 의혹 받는 서울 성동서장 대기 발령 - 조선일보"
+        "ko": "\"이란 최고지도자, 농축우라늄 해외반출 불허\"",
+        "en": "\"이란 최고지도자, 농축우라늄 해외반출 불허\"",
+        "zh": "\"이란 최고지도자, 농축우라늄 해외반출 불허\""
       }
     },
     {
-      "title": "\"단일화 결단코 없다\" 국힘 박민식, 출정식서 삭발 - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/05/21/4R5COXABRJDKPPROULTOXCCO5Y/",
-      "source": "조선일보",
-      "pubDate": "Thu, 21 May 2026 10:18:56 GMT",
-      "image": "https://www.chosun.com/resizer/v2/R5CFYWWX4ZP7FATM6SD5DJG24A.jpg?auth=ce7c2643495cb6229760ba8566411faaed95c665fffaecd3bef413002d123124&width=1200&height=630&focal=1387,1022",
+      "title": "[단독] 김규리 자택 침입 강도 긴급체포…폭행 뒤 도주",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260522003537wF5",
+      "source": "Breaking News",
+      "pubDate": "Fri, 22 May 2026 00:35:38 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260521/MYH20260522003537wF5.jpg",
       "summaries": {
-        "ko": "\"단일화 결단코 없다\" 국힘 박민식, 출정식서 삭발 - 조선일보",
-        "en": "\"단일화 결단코 없다\" 국힘 박민식, 출정식서 삭발 - 조선일보",
-        "zh": "\"단일화 결단코 없다\" 국힘 박민식, 출정식서 삭발 - 조선일보"
-      }
-    },
-    {
-      "title": "13일 간 벌어지는 총력 선거운동...6.3지방선거 막 오르다 - 제주의소리",
-      "link": "https://www.jejusori.net/news/articleView.html?idxno=503063",
-      "source": "제주의소리",
-      "pubDate": "Wed, 20 May 2026 15:01:00 GMT",
-      "image": "https://cdn.jejusori.net/news/photo/202605/503063_504704_2831.jpg",
-      "summaries": {
-        "ko": "13일 간 벌어지는 총력 선거운동...6.3지방선거 막 오르다 - 제주의소리",
-        "en": "13일 간 벌어지는 총력 선거운동...6.3지방선거 막 오르다 - 제주의소리",
-        "zh": "13일 간 벌어지는 총력 선거운동...6.3지방선거 막 오르다 - 제주의소리"
-      }
-    },
-    {
-      "title": "장모 살해 후 가방에 유기한 조재복… 첫 재판서 살인 고의 부인 - 조선일보",
-      "link": "https://www.chosun.com/national/regional/2026/05/21/EEXLEQZE35FSBIIHATCDXL5P3E/",
-      "source": "조선일보",
-      "pubDate": "Thu, 21 May 2026 06:38:35 GMT",
-      "image": "https://www.chosun.com/resizer/v2/IXAFNTNLDNAHFMNE5QVLCUIK4Y.png?auth=9846f289ed4590bfc314dffa761833ad49406b5d1bd803ac5fba7d090ba7da86&width=640&height=336&smart=true",
-      "summaries": {
-        "ko": "장모 살해 후 가방에 유기한 조재복… 첫 재판서 살인 고의 부인 - 조선일보",
-        "en": "장모 살해 후 가방에 유기한 조재복… 첫 재판서 살인 고의 부인 - 조선일보",
-        "zh": "장모 살해 후 가방에 유기한 조재복… 첫 재판서 살인 고의 부인 - 조선일보"
+        "ko": "[단독] 김규리 자택 침입 강도 긴급체포…폭행 뒤 도주",
+        "en": "[단독] 김규리 자택 침입 강도 긴급체포…폭행 뒤 도주",
+        "zh": "[단독] 김규리 자택 침입 강도 긴급체포…폭행 뒤 도주"
       }
     }
   ]
