@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-23T20:29:41.503257",
+  "lastUpdate": "2026-05-23T21:14:57.818228",
   "items": [
     {
       "title": "“악질 장사치의 패륜 행위”···이재명 대통령, 이번엔 스벅 ‘4·16 사이렌 이벤트’ 맹비난 - 경향신문",
@@ -8,9 +8,9 @@
       "pubDate": "Sat, 23 May 2026 11:40:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/05/23/rcv.YNA.20260523.PYH2026052304770001300_P1.jpg",
       "summaries": {
-        "ko": "이재명 대통령은 '탱크데이' 논란에 이어 스타벅스가 과거 세월호 참사 당일 진행했던 '사이렌 이벤트'를 세월호 조롱 행위로 비판하며 \"악질 장사치의 패륜 행위\"라고 맹비난했다.",
-        "en": "President Lee Jae-myung, following the 'Tank Day' controversy, fiercely criticized Starbucks' past 'Siren event' held on April 16th, the day of the Sewol ferry tragedy, as an act of mockery, labeling it an \"atrocious, inhumane act by unscrupulous merchants.\"",
-        "zh": "继“坦克日”争议后，李在明总统猛烈批评星巴克过去在世越号沉船事故发生日4月16日举行的“塞壬活动”是嘲讽该事故的行为，称其为“恶劣商贩的悖伦行为”。"
+        "ko": "이재명 대통령이 세월호 참사 조롱 의혹이 제기된 스타벅스의 과거 '4·16 사이렌 이벤트'와 5·18 민주화운동 희화화 논란을 빚은 '탱크데이'를 맹비난하며 \"인두겁을 쓰고는 할 수 없는 악질 장사치의 패륜 행위\"라고 직격했다.",
+        "en": "President Lee Jae-myung fiercely criticized Starbucks' past '4·16 Siren event', which faced accusations of mocking the Sewol Ferry disaster, and the 'Tank Day' event, controversial for trivializing the May 18th Democratic Uprising, calling them \"immoral acts of vicious merchants that no human could possibly commit.\"",
+        "zh": "李在明总统猛烈抨击星巴克，指责其过去的“4·16塞壬活动”涉嫌嘲讽世越号惨案，以及引发嘲弄5·18民主化运动争议的“坦克日”活动，称这些是“禽兽不如、恶劣商贩的悖伦行为”。"
       }
     },
     {
@@ -38,18 +38,6 @@
       }
     },
     {
-      "title": "박민식·한동훈 \"河, 주적 대답회피\"... 하정우 \"국방백서에 나와\" - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/05/23/FT75HNV5IVF5LG2RA2I7N5UVX4/",
-      "source": "조선일보",
-      "pubDate": "Sat, 23 May 2026 07:51:32 GMT",
-      "image": "https://www.chosun.com/resizer/v2/3PCWBEMJPRPH3EIIOZVTG3BO3U.jpg?auth=6c574720a260fe448fbf2db8199e51fffddc468d50ceab7740119958b81989d2&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "박민식·한동훈 \"河, 주적 대답회피\"... 하정우 \"국방백서에 나와\" - 조선일보",
-        "en": "박민식·한동훈 \"河, 주적 대답회피\"... 하정우 \"국방백서에 나와\" - 조선일보",
-        "zh": "박민식·한동훈 \"河, 주적 대답회피\"... 하정우 \"국방백서에 나와\" - 조선일보"
-      }
-    },
-    {
       "title": "부처님 오시네, 나가기 좋은 날…최고 28도·미세먼지 좋음 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/environment/1260095.html",
       "source": "한겨레",
@@ -59,6 +47,18 @@
         "ko": "부처님 오시네, 나가기 좋은 날…최고 28도·미세먼지 좋음 - 한겨레",
         "en": "부처님 오시네, 나가기 좋은 날…최고 28도·미세먼지 좋음 - 한겨레",
         "zh": "부처님 오시네, 나가기 좋은 날…최고 28도·미세먼지 좋음 - 한겨레"
+      }
+    },
+    {
+      "title": "박민식·한동훈 \"河, 주적 대답회피\"... 하정우 \"국방백서에 나와\" - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/05/23/FT75HNV5IVF5LG2RA2I7N5UVX4/",
+      "source": "조선일보",
+      "pubDate": "Sat, 23 May 2026 07:51:32 GMT",
+      "image": "https://www.chosun.com/resizer/v2/3PCWBEMJPRPH3EIIOZVTG3BO3U.jpg?auth=6c574720a260fe448fbf2db8199e51fffddc468d50ceab7740119958b81989d2&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "박민식·한동훈 \"河, 주적 대답회피\"... 하정우 \"국방백서에 나와\" - 조선일보",
+        "en": "박민식·한동훈 \"河, 주적 대답회피\"... 하정우 \"국방백서에 나와\" - 조선일보",
+        "zh": "박민식·한동훈 \"河, 주적 대답회피\"... 하정우 \"국방백서에 나와\" - 조선일보"
       }
     },
     {
@@ -86,18 +86,6 @@
       }
     },
     {
-      "title": "'관저 이전' 김대기·윤재순 구속…첫 신병 확보 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260523000011SEn",
-      "source": "연합뉴스TV",
-      "pubDate": "Fri, 22 May 2026 15:00:13 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260522/AKR20260523000011SEn_01_i.jpg",
-      "summaries": {
-        "ko": "'관저 이전' 김대기·윤재순 구속…첫 신병 확보 - 연합뉴스TV",
-        "en": "'관저 이전' 김대기·윤재순 구속…첫 신병 확보 - 연합뉴스TV",
-        "zh": "'관저 이전' 김대기·윤재순 구속…첫 신병 확보 - 연합뉴스TV"
-      }
-    },
-    {
       "title": "김부겸의 다섯 번째 도전‥'샤이 김부겸'은 얼마나? - MBC 뉴스",
       "link": "https://imnews.imbc.com/news/2026/politics/article/6824735_36911.html",
       "source": "MBC 뉴스",
@@ -110,15 +98,39 @@
       }
     },
     {
-      "title": "나홍진 '호프' 칸영화제 수상 불발…황금종려상은 '피오르드'",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260524044500h12",
-      "source": "Breaking News",
-      "pubDate": "Sun, 24 May 2026 04:45:02 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260523/AKR20260524044500h12_01_i.jpg",
+      "title": "'관저 이전' 김대기·윤재순 구속…첫 신병 확보 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260523000011SEn",
+      "source": "연합뉴스TV",
+      "pubDate": "Fri, 22 May 2026 15:00:13 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260522/AKR20260523000011SEn_01_i.jpg",
       "summaries": {
-        "ko": "나홍진 '호프' 칸영화제 수상 불발…황금종려상은 '피오르드'",
-        "en": "나홍진 '호프' 칸영화제 수상 불발…황금종려상은 '피오르드'",
-        "zh": "나홍진 '호프' 칸영화제 수상 불발…황금종려상은 '피오르드'"
+        "ko": "'관저 이전' 김대기·윤재순 구속…첫 신병 확보 - 연합뉴스TV",
+        "en": "'관저 이전' 김대기·윤재순 구속…첫 신병 확보 - 연합뉴스TV",
+        "zh": "'관저 이전' 김대기·윤재순 구속…첫 신병 확보 - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "\"선생님, 이 쇳조각 뭐예요?\"…노르웨이 소년이 발견한 1,300년 전 고대 검",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260519162912aXa",
+      "source": "Breaking News",
+      "pubDate": "Sun, 24 May 2026 06:00:04 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260523/AKR20260519162912aXa_01_i.jpg",
+      "summaries": {
+        "ko": "\"선생님, 이 쇳조각 뭐예요?\"…노르웨이 소년이 발견한 1,300년 전 고대 검",
+        "en": "\"선생님, 이 쇳조각 뭐예요?\"…노르웨이 소년이 발견한 1,300년 전 고대 검",
+        "zh": "\"선생님, 이 쇳조각 뭐예요?\"…노르웨이 소년이 발견한 1,300년 전 고대 검"
+      }
+    },
+    {
+      "title": "[속보] 트럼프 \"협정 최종 사안·세부내용 논의중…조만간 발표\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260524054202RY1",
+      "source": "Breaking News",
+      "pubDate": "Sun, 24 May 2026 05:42:02 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260523/AKR20260524054202RY1_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] 트럼프 \"협정 최종 사안·세부내용 논의중…조만간 발표\"",
+        "en": "[속보] 트럼프 \"협정 최종 사안·세부내용 논의중…조만간 발표\"",
+        "zh": "[속보] 트럼프 \"협정 최종 사안·세부내용 논의중…조만간 발표\""
       }
     }
   ]
