@@ -1,40 +1,112 @@
 {
-  "lastUpdate": "2026-05-24T07:35:10.150807",
+  "lastUpdate": "2026-05-24T09:30:45.904812",
   "items": [
     {
-      "title": "미-이란 MOU 골자는 ‘60일 휴전’…핵·호르무즈 이견은 여전 - 한겨레",
+      "title": "미-이란 MOU 핵심은 ‘60일 휴전’…핵·호르무즈 이견 여전 - 한겨레",
       "link": "https://www.hani.co.kr/arti/international/arabafrica/1260144.html",
       "source": "한겨레",
       "pubDate": "Sun, 24 May 2026 07:08:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0524/20260524501316.webp",
       "summaries": {
-        "ko": "미국과 이란이 60일 휴전 연장과 호르무즈 해협 재개방을 주요 내용으로 하는 양해각서 체결에 근접했지만, 핵 프로그램과 고농축 우라늄 등 핵심 쟁점에서는 여전히 이견을 보이고 있다.",
-        "en": "The U.S. and Iran are nearing an agreement on an MOU primarily focused on a 60-day ceasefire extension and the reopening of the Strait of Hormuz, yet significant disagreements persist regarding core issues like Iran's nuclear program and high-enriched uranium.",
-        "zh": "美国和伊朗已接近达成一项以延长60天停火和重新开放霍尔木兹海峡为主要内容的谅解备忘录，但在核计划和高浓缩铀等核心问题上仍存在分歧。"
+        "ko": "미국과 이란이 핵 문제 등 핵심 쟁점을 후속 협상으로 미루는 단계적 접근법으로, 60일 휴전 연장, 호르무즈해협 재개방, 이란 석유 수출 일부 허용을 골자로 하는 임시 양해각서(MOU) 체결에 근접했다.",
+        "en": "The U.S. and Iran are nearing a temporary Memorandum of Understanding (MOU) that focuses on a 60-day ceasefire extension, reopening the Strait of Hormuz, and allowing some Iranian oil exports, adopting a phased approach that defers core issues like the nuclear program to subsequent negotiations.",
+        "zh": "美国和伊朗正接近达成一份临时谅解备忘录（MOU），内容包括延长60天停火、重新开放霍尔木兹海峡以及允许部分伊朗石油出口，该备忘录采取分阶段方法，将核问题等核心争议推迟到后续谈判中。"
+      }
+    },
+    {
+      "title": "스타벅스 ‘60% 써야 환불’ 약관 개정 검토··· 고민에 빠진 공정위 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605241700001",
+      "source": "경향신문",
+      "pubDate": "Sun, 24 May 2026 08:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/24/news-p.v1.20260524.babeeeed65514d5d8469b99fac5e963a_P1.jpeg",
+      "summaries": {
+        "ko": "스타벅스 선불카드 환불 조건 불만으로 공정위가 '60% 사용 후 환불' 표준약관 개정을 검토하면서, 카드깡 등 부정사용 우려, 기업 귀책사유 기준 모호성, 전 업종 적용 문제 등으로 깊이 고심하고 있다.",
+        "en": "The Fair Trade Commission is reviewing the standard terms for prepaid card refunds (requiring 60% usage) due to consumer complaints against Starbucks, but is grappling with dilemmas such as preventing illegal cash advances, establishing clear criteria for corporate responsibility, and the widespread impact on all industries.",
+        "zh": "由于消费者对星巴克预付卡退款条件的不满，韩国公平贸易委员会正在审查要求“消费60%后方可退款”的标准条款，但在预防套现、明确企业责任标准以及对所有行业的普遍影响等问题上，正面临着深刻的困境。"
+      }
+    },
+    {
+      "title": "이란 매체 “미·이란 MOU 체결시 호르무즈 통행량 전쟁 이전 회복” - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8568814",
+      "source": "KBS 뉴스",
+      "pubDate": "Sun, 24 May 2026 08:09:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/05/24/20260524_5ObAu1.jpg",
+      "summaries": {
+        "ko": "이란 매체 타스님뉴스는 미국과의 양해각서(MOU) 체결 시 호르무즈 해협 통행량이 전쟁 이전으로 회복되더라도 이란이 통제권을 유지하며, 미국의 해상 봉쇄 해제가 선행되지 않으면 해협 상황은 변하지 않을 것이라고 보도했습니다.",
+        "en": "Iranian Tasnim News reported that if a US-Iran Memorandum of Understanding (MOU) is signed, traffic in the Strait of Hormuz will return to pre-war levels, but Iran will maintain control, and the situation in the strait will not change unless the U.S. maritime blockade is lifted first.",
+        "zh": "据伊朗塔斯尼姆通讯社报道，若美国与伊朗签署谅解备忘录，霍尔木兹海峡的通航量将恢复到战前水平，但伊朗将保留控制权，且除非美国的海上封锁首先解除，否则海峡局势将不会改变。"
+      }
+    },
+    {
+      "title": "“대전은요?” ‘선거의 여왕’ 박근혜, 내일 이장우 캠프 찾는다 - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/05/24/JUIHSVD5ZJHI7G7XFAOKI5NL4M/",
+      "source": "조선일보",
+      "pubDate": "Sun, 24 May 2026 03:36:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/KJDZRZYWWVLO7JAWCF2XGKRCS4.JPG?auth=872b59616ba08f72a79051ce9def14ba028cd6abac2574b2ead932d8ddcb2233&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "“대전은요?” ‘선거의 여왕’ 박근혜, 내일 이장우 캠프 찾는다 - 조선일보",
+        "en": "“대전은요?” ‘선거의 여왕’ 박근혜, 내일 이장우 캠프 찾는다 - 조선일보",
+        "zh": "“대전은요?” ‘선거의 여왕’ 박근혜, 내일 이장우 캠프 찾는다 - 조선일보"
+      }
+    },
+    {
+      "title": "이 대통령 “일베 폐쇄·징벌배상 공론화”…사실상 ‘극우와의 전쟁’ 선포, 왜 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605241705001",
+      "source": "경향신문",
+      "pubDate": "Sun, 24 May 2026 08:05:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/24/rcv.PHOTOPOOL.20260524.kpa17795880756291_P1.jpg",
+      "summaries": {
+        "ko": "이재명 대통령이 극우 온라인 커뮤니티 폐쇄 및 징벌적 손해배상 등 혐오 표현 규제에 대한 공론화를 제안하며 '극우와의 전쟁'을 선포했고, 이는 6·3 지방선거를 앞둔 정치적 메시지로 해석된다.",
+        "en": "President Lee Jae-myung has proposed public discussion on regulating hate speech, including the closure of extreme-right online communities and punitive damages, effectively declaring a 'war against the extreme right,' which is interpreted as a political message ahead of the June 3 local elections.",
+        "zh": "韩国总统李在明提议就关闭极右翼网络社区、实施惩罚性赔偿等仇恨言论监管措施展开公开讨论，此举被视为对“极右翼宣战”，并被解读为在6月3日地方选举前发出的政治信息。"
       }
     },
     {
       "title": "[영상]백악관 인근 총격전, 용의자 사살···경내 있던 트럼프는 안전 - 경향신문",
       "link": "https://www.khan.co.kr/article/202605240827001",
       "source": "경향신문",
-      "pubDate": "Sat, 23 May 2026 23:27:00 GMT",
+      "pubDate": "Sun, 24 May 2026 05:27:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/05/24/news-p.v1.20260524.85f2ca962ffa4db7b8bf72311dd13f1d_P1.png",
       "summaries": {
-        "ko": "백악관 인근에서 총기를 발사한 괴한이 비밀경호국 요원에게 사살되었고, 도널드 트럼프 대통령은 백악관 내에서 안전했으며, 이는 한 달 새 세 번째 발생한 백악관 인근 총격 사건이다.",
-        "en": "A gunman who fired shots near the White House was killed by Secret Service agents, with President Donald Trump remaining safe inside the complex, marking the third such incident near the White House in a month.",
-        "zh": "一名枪手在白宫附近开枪后被特勤局特工击毙，而总统唐纳德·特朗普在白宫内安然无恙，这是白宫附近一个月内发生的第三起此类事件。"
+        "ko": "백악관 인근에서 총기를 발사한 괴한이 비밀경호국 요원에 의해 사살되었고, 당시 백악관에 있던 트럼프 대통령은 안전했으며, 용의자는 과거 백악관 접근금지 명령을 받은 전력이 있는 것으로 드러났다.",
+        "en": "A gunman who fired shots near the White House was killed by Secret Service agents, with President Trump safe inside the complex, and the assailant was identified as a 21-year-old with a history of altercations and a ban from the White House.",
+        "zh": "一名向白宫附近开枪的枪手被特勤局特工击毙，当时在白宫内的特朗普总统安然无恙，该枪手曾与特勤局多次冲突并被禁止接近白宫。"
       }
     },
     {
-      "title": "與 김상욱 \"울산시장 단일화 경선 중단…특정 세력 개입 정황\" - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/05/24/WDFDTGHV4BDZPA55G772VJG5SQ/",
-      "source": "조선일보",
-      "pubDate": "Sun, 24 May 2026 04:40:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MI3DSYZRGM3DIOLGMJTDSMJXGU.jpg?auth=3345afc67b4304ecfdbe6e4a3211480b7bc8c8de11d53e01cd98868fbfc55e1c&width=1200&height=630&focal=1166,130",
+      "title": "김상욱 “울산시장 후보 단일화 여론조사 중단”…김종훈 “합의대로 진행” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260123.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 24 May 2026 07:42:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/356/imgdb/original/2026/0524/20260524500841.webp",
       "summaries": {
-        "ko": "與 김상욱 \"울산시장 단일화 경선 중단…특정 세력 개입 정황\" - 조선일보",
-        "en": "與 김상욱 \"울산시장 단일화 경선 중단…특정 세력 개입 정황\" - 조선일보",
-        "zh": "與 김상욱 \"울산시장 단일화 경선 중단…특정 세력 개입 정황\" - 조선일보"
+        "ko": "더불어민주당 김상욱 울산시장 후보가 '조직적 개입' 의혹을 제기하며 단일화 여론조사 중단을 선언했지만, 진보당 김종훈 후보는 합의대로 진행해야 한다며 반박해 양측이 갈등을 빚고 있다.",
+        "en": "Democratic Party's Ulsan mayoral candidate Kim Sang-wook unilaterally announced the suspension of a unified candidate poll for the Ulsan mayoral election, citing suspected 'organizational intervention,' while Progressive Party candidate Kim Jong-hoon insists on proceeding with the poll as agreed, leading to a conflict between the two.",
+        "zh": "民主党蔚山市长候选人金相旭以“组织性介入”嫌疑为由，单方面宣布中止蔚山市长候选人统一民意调查，但进步党候选人金钟勋则坚持按协议继续进行调查，双方对此存在分歧。"
+      }
+    },
+    {
+      "title": "한동훈 \"보수재건 공감하는 국민의힘 후보들 파이팅, 선전하시라\" - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/05/24/LVRMLMSJ7FBKRAL7BNCB5SRRCA/",
+      "source": "조선일보",
+      "pubDate": "Sun, 24 May 2026 06:38:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/2PKK5344Y5PT7KBPRN6KYMTQB4.jpg?auth=d87b17a8fba95663a1c1fa928be817dca21f18a87bd2abdbd53a52c2c24b9a98&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "한동훈 \"보수재건 공감하는 국민의힘 후보들 파이팅, 선전하시라\" - 조선일보",
+        "en": "한동훈 \"보수재건 공감하는 국민의힘 후보들 파이팅, 선전하시라\" - 조선일보",
+        "zh": "한동훈 \"보수재건 공감하는 국민의힘 후보들 파이팅, 선전하시라\" - 조선일보"
+      }
+    },
+    {
+      "title": "‘부처님 오신날’ 이 대통령 “각자도생 아닌 공존상생 마음 절실” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260117.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 24 May 2026 01:57:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0524/20260524500668.webp",
+      "summaries": {
+        "ko": "‘부처님 오신날’ 이 대통령 “각자도생 아닌 공존상생 마음 절실” - 한겨레",
+        "en": "‘부처님 오신날’ 이 대통령 “각자도생 아닌 공존상생 마음 절실” - 한겨레",
+        "zh": "‘부처님 오신날’ 이 대통령 “각자도생 아닌 공존상생 마음 절실” - 한겨레"
       }
     },
     {
@@ -44,81 +116,21 @@
       "pubDate": "Sun, 24 May 2026 01:59:13 GMT",
       "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/24/jh_20260524_1.jpg",
       "summaries": {
-        "ko": "국민의힘 송언석 원내대표가 5.18 불참 이유로 \"더러버서 안 간다\"고 했던 발언이 녹취록으로 공개되자 뒤늦게 인정하며 공식 사과했다.",
-        "en": "People Power Party floor leader Song Eon-seok belatedly admitted and officially apologized for saying \"too dirty to go\" regarding his absence from the 5.18 Gwangju Democratization Movement memorial, after a recording of his statement was revealed.",
-        "zh": "韩国国民力量党院内代表宋言锡在关于缺席5·18民主化运动纪念仪式时发表的“因太脏而不去”言论被录音公开后，才迟迟承认并正式道歉。"
+        "ko": "송언석, 녹취 공개되자 뒤늦게 '더러버서' 사과‥\"전라도 '거시기'처럼 쓰는 표현\" - MBC 뉴스",
+        "en": "송언석, 녹취 공개되자 뒤늦게 '더러버서' 사과‥\"전라도 '거시기'처럼 쓰는 표현\" - MBC 뉴스",
+        "zh": "송언석, 녹취 공개되자 뒤늦게 '더러버서' 사과‥\"전라도 '거시기'처럼 쓰는 표현\" - MBC 뉴스"
       }
     },
     {
-      "title": "노건호 “냉소 속 진정성의 정치 남긴 아버님”…2만5천 시민 추모 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260089.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 23 May 2026 14:14:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/782/957/imgdb/child/2026/0523/17795267977102_9617795248910629.webp",
-      "summaries": {
-        "ko": "노무현 전 대통령 서거 17주기 추도식이 봉하마을에서 2만 5천여 시민과 이재명 대통령 등 주요 정치인들이 참석한 가운데 엄수되었고, 아들 노건호는 아버님의 '진정성의 정치'를 기리며 여야 모두 '노무현 정신 계승'을 다짐했다.",
-        "en": "The 17th anniversary memorial service for former President Roh Moo-hyun was held in Bongha Village with 25,000 citizens and key political figures, including President Lee Jae-myung, attending, where his son Roh Geon-ho honored his father's 'politics of sincerity,' and both ruling and opposition parties pledged to inherit the 'Roh Moo-hyun spirit.'",
-        "zh": "卢武铉前总统逝世17周年追悼会在奉下村举行，2.5万多名市民和包括李在明总统在内的主要政治人物出席，其子卢建昊赞扬了父亲“真诚的政治”，朝野双方均承诺继承“卢武铉精神”。"
-      }
-    },
-    {
-      "title": "李대통령 \"일베처럼 조롱·혐오 조장하는 사이트, 폐쇄 검토 필요\" - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/05/24/CZMTMINKRFBKRCLF3PXJEGALCA/",
-      "source": "조선일보",
-      "pubDate": "Sun, 24 May 2026 01:02:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/64V4ZGBHDFNCZJDKYGWMIJ7ITQ.jpg?auth=25ba948b497c8ca0aeb7d60317946085676f12bdb124b0c4059b537a05b8d233&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "李대통령 \"일베처럼 조롱·혐오 조장하는 사이트, 폐쇄 검토 필요\" - 조선일보",
-        "en": "李대통령 \"일베처럼 조롱·혐오 조장하는 사이트, 폐쇄 검토 필요\" - 조선일보",
-        "zh": "李대통령 \"일베처럼 조롱·혐오 조장하는 사이트, 폐쇄 검토 필요\" - 조선일보"
-      }
-    },
-    {
-      "title": "이회창 전 총재 부인 한인옥 여사 별세…향년 88세 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202605241140243ds",
-      "source": "연합뉴스TV",
-      "pubDate": "Sun, 24 May 2026 02:40:26 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260524/AKR202605241140243ds_01_i.jpg",
-      "summaries": {
-        "ko": "이회창 전 총재의 부인 한인옥 여사가 향년 88세로 별세했으며, 빈소는 연세대 신촌세브란스병원에 마련됐습니다.",
-        "en": "Han In-ok, wife of former Grand National Party chairman Lee Hoi-chang, has passed away at the age of 88, with her funeral parlor set up at Yonsei University Severance Hospital.",
-        "zh": "前大国家党总裁李会昌的夫人韩仁玉女士享年88岁去世，灵堂设在延世大学新村Severance医院。"
-      }
-    },
-    {
-      "title": "이 대통령 \"부처님 말씀 등불로‥원융회통 정신으로 위기 극복\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6824893_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sun, 24 May 2026 04:15:18 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/24/jh_20260524_5_2.jpg",
-      "summaries": {
-        "ko": "이재명 대통령은 부처님오신날 봉축법요식에서 '원융회통' 정신을 강조하며 부처님 말씀을 등불 삼아 배려와 이해로 국민과 나라의 위기를 극복하고 공존상생하는 따뜻한 공동체를 만들겠다고 밝혔다.",
-        "en": "President Lee Jae-myung, at the Buddha's Birthday celebration, emphasized the 'Won-yung-hoe-tong' spirit, stating that he would overcome national crises through care and understanding, guided by Buddha's teachings, to create a warm community of co-existence and mutual prosperity.",
-        "zh": "李在明总统在佛诞节庆祝法会上强调了“圆融会通”精神，表示将以佛陀的教诲为指引，通过关怀和理解，克服国家危机，建设共存共荣的温暖社会。"
-      }
-    },
-    {
-      "title": "“대전은요?” ‘선거의 여왕’ 박근혜, 내일 이장우 캠프 찾는다 - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/05/24/JUIHSVD5ZJHI7G7XFAOKI5NL4M/",
-      "source": "조선일보",
-      "pubDate": "Sun, 24 May 2026 01:46:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/KJDZRZYWWVLO7JAWCF2XGKRCS4.JPG?auth=872b59616ba08f72a79051ce9def14ba028cd6abac2574b2ead932d8ddcb2233&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "“대전은요?” ‘선거의 여왕’ 박근혜, 내일 이장우 캠프 찾는다 - 조선일보",
-        "en": "“대전은요?” ‘선거의 여왕’ 박근혜, 내일 이장우 캠프 찾는다 - 조선일보",
-        "zh": "“대전은요?” ‘선거의 여왕’ 박근혜, 내일 이장우 캠프 찾는다 - 조선일보"
-      }
-    },
-    {
-      "title": "'군체' 개봉 4일째 100만…올해 최단 기록",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260524162304MpI",
+      "title": "종합특검, '김건희 수사 무마 의혹' 이창수 전 중앙지검장 입건",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260524175956qQV",
       "source": "Breaking News",
-      "pubDate": "Sun, 24 May 2026 16:23:05 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260524/MYH20260524162304MpI.jpg",
+      "pubDate": "Sun, 24 May 2026 17:59:56 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260524/AKR20260524175956qQV_01_i.jpg",
       "summaries": {
-        "ko": "'군체' 개봉 4일째 100만…올해 최단 기록",
-        "en": "'군체' 개봉 4일째 100만…올해 최단 기록",
-        "zh": "'군체' 개봉 4일째 100만…올해 최단 기록"
+        "ko": "종합특검, '김건희 수사 무마 의혹' 이창수 전 중앙지검장 입건",
+        "en": "종합특검, '김건희 수사 무마 의혹' 이창수 전 중앙지검장 입건",
+        "zh": "종합특검, '김건희 수사 무마 의혹' 이창수 전 중앙지검장 입건"
       }
     }
   ]
