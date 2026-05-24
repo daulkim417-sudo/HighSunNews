@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-24T22:35:14.789381",
+  "lastUpdate": "2026-05-24T23:37:59.369079",
   "items": [
     {
       "title": "미-이란 MOU 핵심은 ‘60일 휴전’…핵·호르무즈 이견 여전 - 한겨레",
@@ -8,9 +8,21 @@
       "pubDate": "Sun, 24 May 2026 10:48:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0524/20260524501316.webp",
       "summaries": {
-        "ko": "미국과 이란이 60일 휴전 연장과 호르무즈 해협 재개방을 핵심으로 하는 MOU 체결에 근접했으나, 핵 프로그램 및 고농축 우라늄 처리 문제는 후속 협상으로 미뤄졌다.",
-        "en": "The US and Iran are nearing an MOU centered on a 60-day truce extension and the reopening of the Strait of Hormuz, with critical issues like Iran's nuclear program and highly enriched uranium stockpiles deferred for subsequent negotiations.",
-        "zh": "美国和伊朗即将就一项以60天停火延长和霍尔木兹海峡重新开放为核心的谅解备忘录达成协议，但核计划和高浓缩铀库存等关键问题被推迟至后续谈判。"
+        "ko": "미국과 이란이 60일 휴전 연장과 호르무즈 해협 재개방을 골자로 한 양해각서 체결이 임박했지만, 핵 프로그램과 고농축 우라늄 처리 문제 등 주요 쟁점은 후속 협상으로 미뤄질 것으로 보인다.",
+        "en": "The US and Iran are close to signing an MOU primarily focused on a 60-day truce extension and reopening the Strait of Hormuz, but key issues like Iran's nuclear program and highly enriched uranium processing are expected to be deferred to subsequent negotiations.",
+        "zh": "美国和伊朗即将签署一份主要侧重于延长60天停火和重新开放霍尔木兹海峡的谅解备忘录，但伊朗核计划和高浓缩铀处理等关键问题预计将推迟到后续谈判中解决。"
+      }
+    },
+    {
+      "title": "정용진, 26일 대국민 사과…스벅 진상조사 결과도 발표 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260524/133983448/1",
+      "source": "동아일보",
+      "pubDate": "Sun, 24 May 2026 09:01:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/24/133983524.1.jpg",
+      "summaries": {
+        "ko": "정용진, 26일 대국민 사과…스벅 진상조사 결과도 발표 - 동아일보",
+        "en": "정용진, 26일 대국민 사과…스벅 진상조사 결과도 발표 - 동아일보",
+        "zh": "정용진, 26일 대국민 사과…스벅 진상조사 결과도 발표 - 동아일보"
       }
     },
     {
@@ -26,18 +38,6 @@
       }
     },
     {
-      "title": "‘부산 북갑’ 하정우 35% 박민식 19% 한동훈 36% - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/05/24/FA5VYK346JDABNVM2HWR57A6UY/",
-      "source": "조선일보",
-      "pubDate": "Sun, 24 May 2026 10:46:57 GMT",
-      "image": "https://www.chosun.com/resizer/v2/PFRO3HP3NBE7XOBQRVH424OLJE.jpg?auth=7c2c9bc2adb16394ae0df49f5ed0bc72948214e9ddd588027afa48f8bb0a8197&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "‘부산 북갑’ 하정우 35% 박민식 19% 한동훈 36% - 조선일보",
-        "en": "‘부산 북갑’ 하정우 35% 박민식 19% 한동훈 36% - 조선일보",
-        "zh": "‘부산 북갑’ 하정우 35% 박민식 19% 한동훈 36% - 조선일보"
-      }
-    },
-    {
       "title": "“인사가 만사”…민형배, 통합특별시 인재 발굴 나섰다 - 서울신문",
       "link": "https://www.seoul.co.kr/news/society/2026/05/24/20260524500099",
       "source": "서울신문",
@@ -47,6 +47,18 @@
         "ko": "“인사가 만사”…민형배, 통합특별시 인재 발굴 나섰다 - 서울신문",
         "en": "“인사가 만사”…민형배, 통합특별시 인재 발굴 나섰다 - 서울신문",
         "zh": "“인사가 만사”…민형배, 통합특별시 인재 발굴 나섰다 - 서울신문"
+      }
+    },
+    {
+      "title": "‘부산 북갑’ 한동훈 36%·하정우 35%·박민식 19% [한국갤럽] - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605242025001",
+      "source": "경향신문",
+      "pubDate": "Sun, 24 May 2026 11:25:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/24/news-p.v1.20260524.ddd319360d3d4edaa7f45e71104e4441_P1.jpg",
+      "summaries": {
+        "ko": "‘부산 북갑’ 한동훈 36%·하정우 35%·박민식 19% [한국갤럽] - 경향신문",
+        "en": "‘부산 북갑’ 한동훈 36%·하정우 35%·박민식 19% [한국갤럽] - 경향신문",
+        "zh": "‘부산 북갑’ 한동훈 36%·하정우 35%·박민식 19% [한국갤럽] - 경향신문"
       }
     },
     {
@@ -62,15 +74,15 @@
       }
     },
     {
-      "title": "정용진, 26일 대국민 사과…스벅 진상조사 결과도 발표 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260524/133983448/1",
-      "source": "동아일보",
-      "pubDate": "Sun, 24 May 2026 09:01:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/24/133983524.1.jpg",
+      "title": "韓 잠수함 탄 캐나다 해군 \"구형 혼다 타다 신형 테슬라 사는 것\" - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/05/25/6FW7ZPY5NRFP5BOZOFELSF4KVQ/",
+      "source": "조선일보",
+      "pubDate": "Sun, 24 May 2026 21:09:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/PAMX2JMHTFNVBJUOUIHM4C4JPU.jpg?auth=edc8b1d2c99547cb7f07b4fcb33f0afbf63430b3e62a735e46a7a11ebf3a4d7c&width=1200&height=630&focal=3648,1549",
       "summaries": {
-        "ko": "정용진, 26일 대국민 사과…스벅 진상조사 결과도 발표 - 동아일보",
-        "en": "정용진, 26일 대국민 사과…스벅 진상조사 결과도 발표 - 동아일보",
-        "zh": "정용진, 26일 대국민 사과…스벅 진상조사 결과도 발표 - 동아일보"
+        "ko": "韓 잠수함 탄 캐나다 해군 \"구형 혼다 타다 신형 테슬라 사는 것\" - 조선일보",
+        "en": "韓 잠수함 탄 캐나다 해군 \"구형 혼다 타다 신형 테슬라 사는 것\" - 조선일보",
+        "zh": "韓 잠수함 탄 캐나다 해군 \"구형 혼다 타다 신형 테슬라 사는 것\" - 조선일보"
       }
     },
     {
@@ -98,51 +110,15 @@
       }
     },
     {
-      "title": "韓 잠수함 탄 캐나다 해군 \"구형 혼다 타다 신형 테슬라 사는 것\" - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/05/25/6FW7ZPY5NRFP5BOZOFELSF4KVQ/",
+      "title": "25일 시작된 비, 26일 전국으로...남해안·제주 최대 200㎜ 쏟아져 - 조선일보",
+      "link": "https://www.chosun.com/national/transport-environment/2026/05/24/7OSFUXJ7NRCH3CTGYZBGXPFFOA/",
       "source": "조선일보",
-      "pubDate": "Sun, 24 May 2026 21:09:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/PAMX2JMHTFNVBJUOUIHM4C4JPU.jpg?auth=edc8b1d2c99547cb7f07b4fcb33f0afbf63430b3e62a735e46a7a11ebf3a4d7c&width=1200&height=630&focal=3648,1549",
+      "pubDate": "Sun, 24 May 2026 04:18:48 GMT",
+      "image": "https://www.chosun.com/resizer/v2/3LKQKHBTMZJOJMTJYDU5UFOTWY.jpg?auth=58a3ebbdb11472ecf22be56621f9cb7c2cd437064d8013a1810ab36b06a37556&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "韓 잠수함 탄 캐나다 해군 \"구형 혼다 타다 신형 테슬라 사는 것\" - 조선일보",
-        "en": "韓 잠수함 탄 캐나다 해군 \"구형 혼다 타다 신형 테슬라 사는 것\" - 조선일보",
-        "zh": "韓 잠수함 탄 캐나다 해군 \"구형 혼다 타다 신형 테슬라 사는 것\" - 조선일보"
-      }
-    },
-    {
-      "title": "정원오 \"대형 참사 반복, 오세훈 안전 불감증 때문\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6824905_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sun, 24 May 2026 07:49:46 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/24/lyj_260524_25.jpg",
-      "summaries": {
-        "ko": "정원오 \"대형 참사 반복, 오세훈 안전 불감증 때문\" - MBC 뉴스",
-        "en": "정원오 \"대형 참사 반복, 오세훈 안전 불감증 때문\" - MBC 뉴스",
-        "zh": "정원오 \"대형 참사 반복, 오세훈 안전 불감증 때문\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "[속보] 트럼프, 이란과 협상 \"질서있고 건설적으로 진행중\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260524232338uC5",
-      "source": "Breaking News",
-      "pubDate": "Sun, 24 May 2026 23:23:40 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260524/AKR20260524232338uC5_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 트럼프, 이란과 협상 \"질서있고 건설적으로 진행중\"",
-        "en": "[속보] 트럼프, 이란과 협상 \"질서있고 건설적으로 진행중\"",
-        "zh": "[속보] 트럼프, 이란과 협상 \"질서있고 건설적으로 진행중\""
-      }
-    },
-    {
-      "title": "[속보] 트럼프 \"對이란협상 대표들에 합의 서두르지 말라 지시\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202605242322507E8",
-      "source": "Breaking News",
-      "pubDate": "Sun, 24 May 2026 23:22:52 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260524/AKR202605242322507E8_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 트럼프 \"對이란협상 대표들에 합의 서두르지 말라 지시\"",
-        "en": "[속보] 트럼프 \"對이란협상 대표들에 합의 서두르지 말라 지시\"",
-        "zh": "[속보] 트럼프 \"對이란협상 대표들에 합의 서두르지 말라 지시\""
+        "ko": "25일 시작된 비, 26일 전국으로...남해안·제주 최대 200㎜ 쏟아져 - 조선일보",
+        "en": "25일 시작된 비, 26일 전국으로...남해안·제주 최대 200㎜ 쏟아져 - 조선일보",
+        "zh": "25일 시작된 비, 26일 전국으로...남해안·제주 최대 200㎜ 쏟아져 - 조선일보"
       }
     }
   ]
