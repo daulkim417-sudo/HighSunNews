@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-05-26T19:46:07.156233",
+  "lastUpdate": "2026-05-26T21:20:01.021657",
   "items": [
+    {
+      "title": "서울~행신 오늘도 운행중지 \"복구에 상당시간\" - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/05/26/WDTGGDM3SBHT3O7NAPKOD2E63Y/",
+      "source": "조선일보",
+      "pubDate": "Tue, 26 May 2026 11:44:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GU2WEOBQMZRWIZRQGE3GGZDEHE.jpg?auth=16f58e6f452755cabc9ea6f0282c48784dfe5d5d3004bc0e0f5869857d39e913&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "서울~행신 오늘도 운행중지 \"복구에 상당시간\" - 조선일보",
+        "en": "서울~행신 오늘도 운행중지 \"복구에 상당시간\" - 조선일보",
+        "zh": "서울~행신 오늘도 운행중지 \"복구에 상당시간\" - 조선일보"
+      }
+    },
     {
       "title": "‘32년 비밀’ 핵잠 사업, 이제 공개 추진…“수중 킬체인 구현에 큰 기여할 것” - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/bluehouse/1260532.html",
@@ -8,21 +20,9 @@
       "pubDate": "Tue, 26 May 2026 14:23:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0526/20260526503866.webp",
       "summaries": {
-        "ko": "정부가 32년간 극비리에 추진해온 핵추진잠수함 사업을 공개로 전환하고 2030년대 중반까지 국내 건조를 목표로 밝히며, 북한의 수중 위협에 대비하는 수중 킬체인 구현에 크게 기여할 것이라고 강조했다.",
-        "en": "The South Korean government has announced it will openly pursue its nuclear-powered submarine project, secretly developed for 32 years, aiming for domestic construction by the mid-2030s, emphasizing its significant contribution to an underwater kill chain against North Korea's submarine threats.",
-        "zh": "韩国政府宣布将公开推进其秘密进行了32年的核动力潜艇项目，目标是在2030年代中期实现国内建造，并强调这将为应对朝鲜的水下威胁、实现水下杀伤链做出巨大贡献。"
-      }
-    },
-    {
-      "title": "李 \"국회 입법 기다리면 몇 년씩 걸려... 시행령으로 하라\" - 조선일보",
-      "link": "https://www.chosun.com/politics/blue_house/2026/05/26/CLWXILQWQVHT3EBPERFKFWKYJU/",
-      "source": "조선일보",
-      "pubDate": "Tue, 26 May 2026 06:31:58 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MUYTGOJTGAZGIMZZMMZTCYJWGA.jpg?auth=6983169de56204e03d04e3410c0729ee310838abe47b6af0d099d487dffa5da5&width=1200&height=630&focal=2587,979",
-      "summaries": {
-        "ko": "李 \"국회 입법 기다리면 몇 년씩 걸려... 시행령으로 하라\" - 조선일보",
-        "en": "李 \"국회 입법 기다리면 몇 년씩 걸려... 시행령으로 하라\" - 조선일보",
-        "zh": "李 \"국회 입법 기다리면 몇 년씩 걸려... 시행령으로 하라\" - 조선일보"
+        "ko": "정부가 32년간 극비로 추진해온 핵추진잠수함(핵잠) 개발 사업을 공개 전환하며 2030년대 중반까지 국내 건조 및 배치를 목표로 밝혔지만, 핵연료 확보를 위한 미국과의 협의 등 난관이 예상된다.",
+        "en": "South Korea has publicly announced its plan to develop and deploy domestically built nuclear-powered submarines by the mid-2030s, a project secretly pursued for 32 years, but faces challenges, particularly in securing nuclear fuel through negotiations with the United States.",
+        "zh": "韩国政府公开了其秘密推进了32年的核动力潜艇开发项目，目标是在2030年代中期实现国内建造和部署，但预计在与美国协商获取核燃料方面将面临挑战。"
       }
     },
     {
@@ -32,9 +32,21 @@
       "pubDate": "Tue, 26 May 2026 05:05:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/05/26/news-p.v1.20260526.4ff44bb2eca0427289cbacbe19c6910b_P1.png",
       "summaries": {
-        "ko": "미국과 이란이 양해각서 체결을 앞두고 있지만, 호르무즈 해협의 '서비스 이용료', 고농축 우라늄 처리 시기 및 방식, 동결자산 해제 절차 등 주요 쟁점에서 여전히 큰 이견을 보여 최종 합의의 불확실성이 크다.",
-        "en": "Despite nearing the signing of a memorandum of understanding, significant disagreements between the U.S. and Iran over major issues such as the Hormuz Strait's 'service fee,' the timing and method of high-enriched uranium disposal, and the procedure for releasing frozen assets, leave the final agreement highly uncertain.",
-        "zh": "尽管美国和伊朗即将签署谅解备忘录，但在霍尔木兹海峡的“服务费”、高浓缩铀处理的时机和方式以及解冻资产的程序等主要问题上仍存在重大分歧，使得最终协议高度不确定。"
+        "ko": "[정리뉴스] 미·이란 협상 주요 쟁점, 어디까지 좁혀졌나···여전히 평행선 상당수 - 경향신문",
+        "en": "[정리뉴스] 미·이란 협상 주요 쟁점, 어디까지 좁혀졌나···여전히 평행선 상당수 - 경향신문",
+        "zh": "[정리뉴스] 미·이란 협상 주요 쟁점, 어디까지 좁혀졌나···여전히 평행선 상당수 - 경향신문"
+      }
+    },
+    {
+      "title": "이란 \"미국, 휴전 합의 또 위반‥좌시 않겠다\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6825447_36925.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Tue, 26 May 2026 19:56:26 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/05/27/yn20260526-10.jpg",
+      "summaries": {
+        "ko": "이란 \"미국, 휴전 합의 또 위반‥좌시 않겠다\" - MBC 뉴스",
+        "en": "이란 \"미국, 휴전 합의 또 위반‥좌시 않겠다\" - MBC 뉴스",
+        "zh": "이란 \"미국, 휴전 합의 또 위반‥좌시 않겠다\" - MBC 뉴스"
       }
     },
     {
@@ -44,9 +56,9 @@
       "pubDate": "Tue, 26 May 2026 08:53:05 GMT",
       "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/26/joo260526_31.jpg",
       "summaries": {
-        "ko": "더불어민주당 평택을 국회의원 재선거 김용남 후보가 차명 대부업체 의혹에 대해 예금거래내역서를 공개하며 배당·급여·수익 등을 받은 사실이 없다고 해명했으나, 이는 과거 녹취록 내용과 상반된다.",
-        "en": "Democratic Party candidate Kim Yong-nam for the Pyeongtaek-eul by-election disclosed a loan company's deposit transaction history to deny suspicions of operating a nominee loan shark business, asserting he received no dividends, salary, or profits, which contradicts his past recorded statement.",
-        "zh": "共同民主党平泽乙国会议员补选候选人金容男针对代名贷款公司嫌疑，公开了贷款公司的存款交易明细，解释称未收到分红、工资或收益，但这与过去的录音内容相悖。"
+        "ko": "김용남, 대부업체 예금거래내역서 공개‥\"배당·수익 안 받아\" - MBC 뉴스",
+        "en": "김용남, 대부업체 예금거래내역서 공개‥\"배당·수익 안 받아\" - MBC 뉴스",
+        "zh": "김용남, 대부업체 예금거래내역서 공개‥\"배당·수익 안 받아\" - MBC 뉴스"
       }
     },
     {
@@ -74,51 +86,39 @@
       }
     },
     {
-      "title": "김상욱 \"역선택 방지 조항 누락\"‥진보당 \"여론조사 기관과 내통 의혹\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6825220_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 26 May 2026 01:39:00 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/26/yh_20260526-8.jpg",
+      "title": "국립중앙과학관 전시물 출처가 '나무위키'?…2년간 몰랐다",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260527061718TRh",
+      "source": "Breaking News",
+      "pubDate": "Wed, 27 May 2026 06:17:19 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260526/AKR20260527061718TRh_01_i.jpg",
       "summaries": {
-        "ko": "김상욱 \"역선택 방지 조항 누락\"‥진보당 \"여론조사 기관과 내통 의혹\" - MBC 뉴스",
-        "en": "김상욱 \"역선택 방지 조항 누락\"‥진보당 \"여론조사 기관과 내통 의혹\" - MBC 뉴스",
-        "zh": "김상욱 \"역선택 방지 조항 누락\"‥진보당 \"여론조사 기관과 내통 의혹\" - MBC 뉴스"
+        "ko": "국립중앙과학관 전시물 출처가 '나무위키'?…2년간 몰랐다",
+        "en": "국립중앙과학관 전시물 출처가 '나무위키'?…2년간 몰랐다",
+        "zh": "국립중앙과학관 전시물 출처가 '나무위키'?…2년간 몰랐다"
       }
     },
     {
-      "title": "중동 전쟁 여파…미 5월 소비자신뢰지수 소폭 하락",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260527031715Xf1",
+      "title": "국제유가, 美 이란 공습에 반등…브렌트유 4%↑",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260527061626j2f",
       "source": "Breaking News",
-      "pubDate": "Wed, 27 May 2026 03:17:15 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260526/AKR20260527031715Xf1_01_i.jpg",
+      "pubDate": "Wed, 27 May 2026 06:16:28 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260526/MYH20260527061626j2f.jpg",
       "summaries": {
-        "ko": "중동 전쟁 여파…미 5월 소비자신뢰지수 소폭 하락",
-        "en": "중동 전쟁 여파…미 5월 소비자신뢰지수 소폭 하락",
-        "zh": "중동 전쟁 여파…미 5월 소비자신뢰지수 소폭 하락"
+        "ko": "국제유가, 美 이란 공습에 반등…브렌트유 4%↑",
+        "en": "국제유가, 美 이란 공습에 반등…브렌트유 4%↑",
+        "zh": "국제유가, 美 이란 공습에 반등…브렌트유 4%↑"
       }
     },
     {
-      "title": "트럼프, 건강 이상설 일축…“검진 결과 모든 것 정상”",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260527025028OKk",
+      "title": "미 정부, 전 공무원 대상 '비밀유지협약' 추진…언론접촉 차단?",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260527061626CQr",
       "source": "Breaking News",
-      "pubDate": "Wed, 27 May 2026 02:50:29 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260526/AKR20260527025028OKk_01_i.jpg",
+      "pubDate": "Wed, 27 May 2026 06:16:28 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260526/AKR20260527061626CQr_01_i.jpg",
       "summaries": {
-        "ko": "트럼프, 건강 이상설 일축…“검진 결과 모든 것 정상”",
-        "en": "트럼프, 건강 이상설 일축…“검진 결과 모든 것 정상”",
-        "zh": "트럼프, 건강 이상설 일축…“검진 결과 모든 것 정상”"
-      }
-    },
-    {
-      "title": "트럼프, 이란과 합의·폭격 기로에서 '캠프데이비드 내각회의'",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260527015437ddQ",
-      "source": "Breaking News",
-      "pubDate": "Wed, 27 May 2026 01:54:39 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260526/AKR20260527015437ddQ_01_i.jpg",
-      "summaries": {
-        "ko": "트럼프, 이란과 합의·폭격 기로에서 '캠프데이비드 내각회의'",
-        "en": "트럼프, 이란과 합의·폭격 기로에서 '캠프데이비드 내각회의'",
-        "zh": "트럼프, 이란과 합의·폭격 기로에서 '캠프데이비드 내각회의'"
+        "ko": "미 정부, 전 공무원 대상 '비밀유지협약' 추진…언론접촉 차단?",
+        "en": "미 정부, 전 공무원 대상 '비밀유지협약' 추진…언론접촉 차단?",
+        "zh": "미 정부, 전 공무원 대상 '비밀유지협약' 추진…언론접촉 차단?"
       }
     }
   ]
