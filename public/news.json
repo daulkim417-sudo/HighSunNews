@@ -1,16 +1,28 @@
 {
-  "lastUpdate": "2026-05-26T08:57:09.782090",
+  "lastUpdate": "2026-05-26T14:29:30.512623",
   "items": [
     {
-      "title": "서소문 고가 붕괴 사고로 3명 사망···안전진단 중 무너져 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605261736011",
-      "source": "경향신문",
-      "pubDate": "Tue, 26 May 2026 08:36:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/26/news-p.v1.20260526.d7f8403277ac45b4b57dc8d2eab2df24_P1.jpeg",
+      "title": "서소문고가 ‘침하 위험’ 알면서도 안전진단 강행…“철거절차 누락 규명해야” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1260521.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 26 May 2026 11:36:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/600/imgdb/original/2026/0526/20260526503716.webp",
       "summaries": {
-        "ko": "서울 서소문 고가차도 철거 현장에서 안전진단 중 상판 일부가 붕괴해 3명이 숨지고 3명이 다쳐 경찰이 전담수사팀을 꾸려 수사에 착수했다.",
-        "en": "A section of the Seosomun elevated road collapsed during a safety inspection as part of its demolition in Seoul, killing three people and injuring three others, prompting a dedicated police investigation.",
-        "zh": "首尔西小门高架桥在拆除期间进行安全检查时，部分桥面坍塌，造成3人死亡、3人受伤，警方已成立专案组展开调查。"
+        "ko": "침하 징후가 확인된 서소문고가차도 철거 현장에서 안전진단 중 붕괴 사고가 발생하여 6명의 사상자가 나왔으며, 철거 절차와 위험 지역 진입 결정에 대한 책임 규명이 요구되고 있다.",
+        "en": "The Seosomun Overpass demolition site, which had already shown signs of subsidence, collapsed during a safety diagnosis, resulting in 6 casualties and prompting calls for an investigation into the demolition procedures and the decision to send experts into a known dangerous area.",
+        "zh": "西小门高架桥拆除现场在已出现沉降迹象的情况下，于安全诊断期间发生坍塌，造成6人伤亡，引发了对拆除程序和派遣专家进入已知危险区域决定的质疑。"
+      }
+    },
+    {
+      "title": "“한국형 핵잠 1호, 2030년대 중반까지 진수” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605262155005",
+      "source": "경향신문",
+      "pubDate": "Tue, 26 May 2026 12:55:00 GMT",
+      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
+      "summaries": {
+        "ko": "정부는 2030년대 중반까지 국내 개발·건조한 첫 핵추진잠수함을 진수하고 2030년대 후반에 배치할 계획을 발표하며, 이는 한반도 평화와 안보를 위한 자주적 책임 의지의 상징임을 강조했다.",
+        "en": "South Korea's government announced plans to launch its first domestically developed nuclear-powered submarine by the mid-2030s and deploy it by the late 2030s, emphasizing it symbolizes the nation's commitment to self-reliant peace and security on the Korean Peninsula.",
+        "zh": "韩国政府宣布计划在2030年代中期之前下水并于2030年代后期部署其首艘自主研发的核动力潜艇，强调这象征着韩国对朝鲜半岛和平与安全的自主责任。"
       }
     },
     {
@@ -26,111 +38,99 @@
       }
     },
     {
-      "title": "정부, 첫 핵잠 2030년대 중반 국내서 건조…저농축우라늄 사용 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1260422.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 26 May 2026 07:46:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/443/imgdb/original/2026/0526/20260526502439.webp",
-      "summaries": {
-        "ko": "정부가 2030년대 중반까지 저농축 우라늄을 연료로 사용하는 첫 핵추진잠수함을 국내에서 건조하고 핵비확산 원칙을 지키겠다고 발표했다.",
-        "en": "The South Korean government announced its plan to domestically build its first nuclear-powered submarine using low-enriched uranium by the mid-2030s, while adhering to its non-proliferation principles.",
-        "zh": "韩国政府宣布，计划在2030年代中期前在国内建造首艘使用低浓缩铀燃料的核动力潜艇，并承诺遵守核不扩散原则。"
-      }
-    },
-    {
-      "title": "중국, ′북 탄도미사일 발사′에 ″당사국간 견해차 있어″ - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260526165948Khx",
-      "source": "연합뉴스TV",
-      "pubDate": "Tue, 26 May 2026 07:59:50 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260526/AKR20260526165948Khx_01_i.jpg",
-      "summaries": {
-        "ko": "중국 외교부는 북한의 탄도미사일 발사에 대해 발사체 성격에 대한 당사국 간 견해차를 언급하며 유엔 안보리 결의 위반 여부 판단을 직접적으로 피했고, 이는 사실상 북한 입장에 무게를 실어준 것으로 해석됩니다.",
-        "en": "China's Foreign Ministry avoided directly judging North Korea's ballistic missile launch as a UN Security Council resolution violation, citing \"different views among relevant parties\" on the nature of the projectiles, which is interpreted as implicitly siding with North Korea's position.",
-        "zh": "针对朝鲜发射弹道导弹，中国外交部表示有关方对发射物性质存在分歧，从而避免直接判断其是否违反联合国安理会决议，此举被解读为倾向于朝鲜立场。"
-      }
-    },
-    {
-      "title": "전국 많은 비…제주·남해안 시간당 50mm폭우 주의 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8570001",
-      "source": "KBS 뉴스",
-      "pubDate": "Tue, 26 May 2026 03:10:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/title_image/newsmp4/news12/2026/05/26/60_8570001.jpg",
-      "summaries": {
-        "ko": "내일까지 전국에 강한 비바람이 예보된 가운데 특히 제주와 남해안을 중심으로 시간당 50mm 안팎의 폭우와 강풍이 불 것으로 예상되어 침수와 산사태 등 피해 대비가 필요하다.",
-        "en": "Strong rain and winds are forecast nationwide until tomorrow, with particularly heavy rainfall of around 50mm per hour and strong winds expected in Jeju and the south coast, necessitating preparation for damage such as flooding and landslides.",
-        "zh": "预计到明天，韩国全国将有强风暴雨，特别是济州和南海沿岸地区，预计将出现每小时50毫米左右的暴雨和强风，需防范洪水和山体滑坡等灾害。"
-      }
-    },
-    {
-      "title": "국민의힘 이장우 대전시장 후보 선대위, '성희롱 발언' 교수 해촉 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6825226_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 26 May 2026 01:51:33 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/05/26/chhh_20260526_12.jpg",
-      "summaries": {
-        "ko": "국민의힘 이장우 대전시장 후보 선거대책위원회가 대학 강의 중 성희롱과 폭언 논란을 일으킨 교수를 정책 자문위원직에서 해촉했다.",
-        "en": "The election committee for Lee Jang-woo, the People Power Party candidate for Daejeon mayor, dismissed a professor from his policy advisory role after he caused controversy with sexual harassment and abusive remarks during a university lecture.",
-        "zh": "国民力量党大田市长候选人李章雨的竞选委员会解除了因在大学课堂上发表性骚扰和暴言而引发争议的教授的政策顾问职务。"
-      }
-    },
-    {
-      "title": "고성국 “박근혜, ‘배신자 한동훈 척결’ 호소해야”…부산 북갑 지원 촉구 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260377.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 26 May 2026 07:49:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/669/402/imgdb/child/2026/0526/53_17797646930039_20260526501263.webp",
-      "summaries": {
-        "ko": "극우 유튜버 고성국이 박근혜 전 대통령에게 과거 자신에게 징역 30년을 구형했던 한동훈을 '배신자'로 규정하며 부산 북갑에 출마한 국민의힘 박민식 후보를 지원해 '배신의 역사를 바로잡아달라'고 촉구했다.",
-        "en": "Far-right YouTuber Go Sung-kook urged former President Park Geun-hye to support People Power Party candidate Park Min-sik in Busan Buk-gap against independent candidate Han Dong-hoon, whom he labeled a \"traitor\" for previously seeking a 30-year prison sentence for Park, arguing this would \"rectify the history of betrayal.\"",
-        "zh": "极右翼YouTube博主高成国敦促韩国前总统朴槿惠，为纠正“背叛的历史”，支持在釜山北甲出战的国民力量党候选人朴敏植，对抗他曾判处朴槿惠30年有期徒刑并被其称为“叛徒”的无党派候选人韩东勋。"
-      }
-    },
-    {
-      "title": "김상욱-김종훈 울산시장 후보 단일화, ‘역선택 방지’ 암초 만났다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260362.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 26 May 2026 04:57:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/792/512/imgdb/original/2026/0526/20260526500827.webp",
-      "summaries": {
-        "ko": "김상욱-김종훈 울산시장 후보 단일화, ‘역선택 방지’ 암초 만났다 - 한겨레",
-        "en": "김상욱-김종훈 울산시장 후보 단일화, ‘역선택 방지’ 암초 만났다 - 한겨레",
-        "zh": "김상욱-김종훈 울산시장 후보 단일화, ‘역선택 방지’ 암초 만났다 - 한겨레"
-      }
-    },
-    {
-      "title": "민주당 김현정 “김용남 ‘대부업 차명운영’ 사실이면 지탄받을 일, 판단은 유권자 몫” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605261343001",
+      "title": "호르무즈 개방 등 여전히 평행선, MOU 이후 60일 추가 협상 ‘변수’ - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605262104025",
       "source": "경향신문",
-      "pubDate": "Tue, 26 May 2026 04:43:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/26/rcv.YNA.20260525.PYH2026052504420006100_P1.jpg",
+      "pubDate": "Tue, 26 May 2026 12:04:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/26/l_2026052701000775300075301.jpg",
       "summaries": {
-        "ko": "민주당 김현정 “김용남 ‘대부업 차명운영’ 사실이면 지탄받을 일, 판단은 유권자 몫” - 경향신문",
-        "en": "민주당 김현정 “김용남 ‘대부업 차명운영’ 사실이면 지탄받을 일, 판단은 유권자 몫” - 경향신문",
-        "zh": "민주당 김현정 “김용남 ‘대부업 차명운영’ 사실이면 지탄받을 일, 판단은 유권자 몫” - 경향신문"
+        "ko": "미국과 이란이 호르무즈 해협 통제, 핵 문제, 동결자산 해제 등 핵심 쟁점에서 이견을 좁히지 못해 양해각서(MOU) 타결이 지연되고 있으며, 향후 60일 추가 협상에서도 난항이 예상된다.",
+        "en": "The US and Iran are struggling to finalize a Memorandum of Understanding (MOU) due to unresolved disagreements on key issues such as control of the Hormuz Strait, nuclear matters, and the unfreezing of assets, with further difficulties anticipated during the subsequent 60-day negotiation period.",
+        "zh": "美国和伊朗在霍尔木兹海峡控制权、核问题以及解冻资产等关键议题上分歧仍存，导致谅解备忘录（MOU）的达成受阻，预计未来60天的补充谈判也将面临重重困难。"
       }
     },
     {
-      "title": "\"엔화, 리라화 제치고 최약체 통화 전락\"…미국 연구원 SNS 게시글 화제",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260526175511JIj",
-      "source": "Breaking News",
-      "pubDate": "Tue, 26 May 2026 17:55:13 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260526/AKR20260526175511JIj_01_i.jpg",
+      "title": "조국·유의동 ″대부업체 운영했나″…김용남 ″지분 없다″ - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260526170318UL6",
+      "source": "연합뉴스TV",
+      "pubDate": "Tue, 26 May 2026 08:03:18 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260526/AKR20260526170318UL6_01_i.jpg",
       "summaries": {
-        "ko": "\"엔화, 리라화 제치고 최약체 통화 전락\"…미국 연구원 SNS 게시글 화제",
-        "en": "\"엔화, 리라화 제치고 최약체 통화 전락\"…미국 연구원 SNS 게시글 화제",
-        "zh": "\"엔화, 리라화 제치고 최약체 통화 전락\"…미국 연구원 SNS 게시글 화제"
+        "ko": "평택을 국회의원 재선거 토론회에서 조국혁신당 조국 후보와 국민의힘 유의동 후보가 더불어민주당 김용남 후보의 대부업체 차명 운영 의혹을 놓고 공방을 벌였다.",
+        "en": "During the Pyeongtaek-eul National Assembly by-election debate, Cho Kuk Innovation Party's Cho Kuk and People Power Party's Yoo Eui-dong fiercely debated with Democratic Party's Kim Yong-nam over allegations of his shadow operation of a lending company.",
+        "zh": "在平泽乙国会议员补选辩论会上，祖国革新党曹国候选人和国民力量党刘义东候选人就共同民主党金勇男候选人涉嫌隐秘经营贷款公司的指控展开了激烈争论。"
       }
     },
     {
-      "title": "[속보] 경찰, 서소문 고가차도 붕괴 전담수사팀 편성",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260526174535aEd",
-      "source": "Breaking News",
-      "pubDate": "Tue, 26 May 2026 17:45:37 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260526/MYH20260526174535aEd.jpg",
+      "title": "스타벅스 논란에 전재수 \"제약 불가피\"‥박형준 \"마녀사냥\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6825285_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Tue, 26 May 2026 05:45:25 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/26/jhp_20260526_4.jpg",
       "summaries": {
-        "ko": "[속보] 경찰, 서소문 고가차도 붕괴 전담수사팀 편성",
-        "en": "[속보] 경찰, 서소문 고가차도 붕괴 전담수사팀 편성",
-        "zh": "[속보] 경찰, 서소문 고가차도 붕괴 전담수사팀 편성"
+        "ko": "부산시장 후보 전재수와 박형준은 스타벅스 '탱크데이' 논란에 대해 각각 공동체 이익 훼손 시 기업 활동 제약 필요성과 '마녀사냥'이 자유의 가치를 훼손할 수 있다는 상반된 입장을 내놓았습니다.",
+        "en": "Busan mayoral candidates Jeon Jae-soo and Park Hyeong-joon expressed opposing views on the Starbucks 'Tank Day' controversy, with Jeon arguing for restrictions on companies that harm community interests, while Park warned that 'witch hunts' could undermine the value of freedom.",
+        "zh": "釜山市长候选人全宰洙和朴亨埈就星巴克“坦克日”争议发表了截然不同的立场，全宰洙主张限制损害共同体利益的企业活动，而朴亨埈则警告称“猎巫”可能损害自由的价值。"
+      }
+    },
+    {
+      "title": "탄핵당한 박근혜, 국힘 유세 전면에…대구·충청 훑고 부울경·강원까지 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260317.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 26 May 2026 01:09:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0525/3317797119220264.webp",
+      "summaries": {
+        "ko": "탄핵당한 박근혜, 국힘 유세 전면에…대구·충청 훑고 부울경·강원까지 - 한겨레",
+        "en": "탄핵당한 박근혜, 국힘 유세 전면에…대구·충청 훑고 부울경·강원까지 - 한겨레",
+        "zh": "탄핵당한 박근혜, 국힘 유세 전면에…대구·충청 훑고 부울경·강원까지 - 한겨레"
+      }
+    },
+    {
+      "title": "김상욱 \"역선택 방지 조항 누락\"‥진보당 \"여론조사 기관과 내통 의혹\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6825220_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Tue, 26 May 2026 01:39:00 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/26/yh_20260526-8.jpg",
+      "summaries": {
+        "ko": "김상욱 \"역선택 방지 조항 누락\"‥진보당 \"여론조사 기관과 내통 의혹\" - MBC 뉴스",
+        "en": "김상욱 \"역선택 방지 조항 누락\"‥진보당 \"여론조사 기관과 내통 의혹\" - MBC 뉴스",
+        "zh": "김상욱 \"역선택 방지 조항 누락\"‥진보당 \"여론조사 기관과 내통 의혹\" - MBC 뉴스"
+      }
+    },
+    {
+      "title": "'김태형 6이닝 노히터' KIA, 4연승 신바람",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260526232730Co6",
+      "source": "Breaking News",
+      "pubDate": "Tue, 26 May 2026 23:27:33 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260526/MYH20260526232730Co6.jpg",
+      "summaries": {
+        "ko": "'김태형 6이닝 노히터' KIA, 4연승 신바람",
+        "en": "'김태형 6이닝 노히터' KIA, 4연승 신바람",
+        "zh": "'김태형 6이닝 노히터' KIA, 4연승 신바람"
+      }
+    },
+    {
+      "title": "프로야구 KIA, 아시아쿼터 제리드 데일 방출…두산도 이별 선택",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260526232443yRp",
+      "source": "Breaking News",
+      "pubDate": "Tue, 26 May 2026 23:24:44 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260526/MYH20260526232443yRp.jpg",
+      "summaries": {
+        "ko": "프로야구 KIA, 아시아쿼터 제리드 데일 방출…두산도 이별 선택",
+        "en": "프로야구 KIA, 아시아쿼터 제리드 데일 방출…두산도 이별 선택",
+        "zh": "프로야구 KIA, 아시아쿼터 제리드 데일 방출…두산도 이별 선택"
+      }
+    },
+    {
+      "title": "[속보] 서소문 사고 여파…코레일, 내일 일부 열차 조정",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260526231005LmB",
+      "source": "Breaking News",
+      "pubDate": "Tue, 26 May 2026 23:10:06 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260526/MYH20260526231005LmB.jpg",
+      "summaries": {
+        "ko": "[속보] 서소문 사고 여파…코레일, 내일 일부 열차 조정",
+        "en": "[속보] 서소문 사고 여파…코레일, 내일 일부 열차 조정",
+        "zh": "[속보] 서소문 사고 여파…코레일, 내일 일부 열차 조정"
       }
     }
   ]
