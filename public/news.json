@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-05-27T21:08:44.497636",
+  "lastUpdate": "2026-05-27T22:48:59.125047",
   "items": [
-    {
-      "title": "“나무호 타격한 비행체는 이란 대함미사일 가능성” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605272147005",
-      "source": "경향신문",
-      "pubDate": "Wed, 27 May 2026 12:47:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/27/l_2026052801000836900079661.jpg",
-      "summaries": {
-        "ko": "정부는 호르무즈 해협에서 HMM 나무호를 타격한 비행체가 이란산 대함미사일일 가능성이 크다고 발표하며 이란대사를 초치해 항의했으나, 이란은 개입을 부인했고 정부는 실익을 고려해 공격 주체를 단정적으로 밝히지 않았다.",
-        "en": "South Korea announced that the flying object that attacked the HMM Namuho in the Strait of Hormuz was likely an Iranian anti-ship missile, summoning the Iranian ambassador to protest, but refrained from definitively naming the attacker as Iran denied involvement, considering practical interests.",
-        "zh": "韩国政府宣布，在霍尔木兹海峡袭击HMM Namuho船只的飞行物很可能是伊朗反舰导弹，并召见伊朗大使提出抗议，但伊朗否认参与，韩国政府考虑到实际利益未明确指明攻击方。"
-      }
-    },
     {
       "title": "스타벅스 결제금 84억 줄었다…‘탱크데이’ 한주 만에 26% 급감 - 한겨레",
       "link": "https://www.hani.co.kr/arti/economy/consumer/1260623.html",
@@ -20,9 +8,33 @@
       "pubDate": "Wed, 27 May 2026 16:07:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/800/530/imgdb/original/2026/0527/20260527502260.webp",
       "summaries": {
-        "ko": "스타벅스의 주간 결제금액이 5·18 민주화 운동 폄훼 논란이 불거진 '탱크데이' 사태 이후 일주일 만에 80억원 넘게 급감했으며, 앱 신규 설치 건수도 동반 하락했다.",
-        "en": "Starbucks' weekly payment amount plummeted by over 8 billion won in just one week following the 'Tank Day' controversy, which was criticized for disparaging the 5.18 Gwangju Democratization Movement, with new app installations also showing a synchronous decline.",
-        "zh": "星巴克因“坦克日”事件引发的“5·18民主化运动”贬低争议后，其每周支付金额在一周内骤降超过80亿韩元，新应用安装量也随之同步下降。"
+        "ko": "5·18 민주화운동 폄훼 논란을 빚은 '탱크데이' 사태 이후 스타벅스의 주간 결제금액이 일주일 만에 84억 원 넘게(26.3%) 급감하고 신규 앱 설치도 줄었다.",
+        "en": "Following the 'Tank Day' controversy on May 18th which was seen as disparaging the 5.18 Democratization Movement, Starbuck's weekly payment amount plummeted by over 8.4 billion won (26.3%) in one week, accompanied by a decrease in new app installations.",
+        "zh": "在引发贬低5·18民主化运动争议的“坦克日”事件后，星巴克每周支付金额在一周内骤降超过84亿韩元（26.3%），新应用安装量也随之减少。"
+      }
+    },
+    {
+      "title": "초박빙 대구, 김부겸 “나 뽑으면 1타3피” 추경호 “돈 보따리 가져올 것” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260725.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 27 May 2026 20:01:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0528/53_17799176451792_20260527503796.webp",
+      "summaries": {
+        "ko": "초박빙 대구, 김부겸 “나 뽑으면 1타3피” 추경호 “돈 보따리 가져올 것” - 한겨레",
+        "en": "초박빙 대구, 김부겸 “나 뽑으면 1타3피” 추경호 “돈 보따리 가져올 것” - 한겨레",
+        "zh": "초박빙 대구, 김부겸 “나 뽑으면 1타3피” 추경호 “돈 보따리 가져올 것” - 한겨레"
+      }
+    },
+    {
+      "title": "\"전재수가 미는 하정우 뽑아야지예\" \"야권 대표주자 한동훈 찍을겁니더\" - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/05/28/RY3E7KSSMZEODPXB4P6KMCZGZQ/",
+      "source": "조선일보",
+      "pubDate": "Wed, 27 May 2026 15:50:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/EXERFHHLDZAE5DYVM7EVDR5AVQ.png?auth=1c1595d72f16c260c7fcd42173bd45dc9461a065dfa085ceaceb11123da8fa3c&width=610&height=320&focal=310,76",
+      "summaries": {
+        "ko": "\"전재수가 미는 하정우 뽑아야지예\" \"야권 대표주자 한동훈 찍을겁니더\" - 조선일보",
+        "en": "\"전재수가 미는 하정우 뽑아야지예\" \"야권 대표주자 한동훈 찍을겁니더\" - 조선일보",
+        "zh": "\"전재수가 미는 하정우 뽑아야지예\" \"야권 대표주자 한동훈 찍을겁니더\" - 조선일보"
       }
     },
     {
@@ -38,39 +50,39 @@
       }
     },
     {
-      "title": "박민식 “박근혜 30년 구형, 가짜 보수”…한동훈 “윤석열이 한 걸 왜 내게” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260641.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 27 May 2026 16:07:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/960/579/imgdb/original/2026/0527/20260527502721.webp",
+      "title": "“나무호 타격한 비행체는 이란 대함미사일 가능성” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605272147005",
+      "source": "경향신문",
+      "pubDate": "Wed, 27 May 2026 12:47:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/27/l_2026052801000836900079661.jpg",
       "summaries": {
-        "ko": "부산 북갑 보궐선거에 출마한 국민의힘 박민식 후보와 무소속 한동훈 후보가 박근혜 전 대통령의 부산 방문을 계기로 서로를 '가짜 보수'라 비난하며 날 선 공방을 벌였다.",
-        "en": "In the Busan Buk-gap by-election, People Power Party candidate Park Min-sik and independent candidate Han Dong-hoon engaged in a fierce debate, accusing each other of being 'fake conservatives' following former President Park Geun-hye's visit to Busan.",
-        "zh": "在釜山北甲补选中，国民力量党候选人朴敏植和无党派候选人韩东勋就前总统朴槿惠访问釜山一事展开激烈口水战，互相指责对方是“假保守派”。"
+        "ko": "“나무호 타격한 비행체는 이란 대함미사일 가능성” - 경향신문",
+        "en": "“나무호 타격한 비행체는 이란 대함미사일 가능성” - 경향신문",
+        "zh": "“나무호 타격한 비행체는 이란 대함미사일 가능성” - 경향신문"
       }
     },
     {
-      "title": "트럼프 ″중·러에 이란 고농축우라늄 못 넘겨…동결자산 해제 논의 안 해″ - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260528035051L0W",
+      "title": "[날씨] 흐린 하늘 속 낮까지 약한 비…강풍 동반 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260528070925cm0",
       "source": "연합뉴스TV",
-      "pubDate": "Wed, 27 May 2026 18:50:51 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260527/AKR20260528035051L0W_01_i.jpg",
+      "pubDate": "Wed, 27 May 2026 22:09:26 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260527/MYH20260528070925cm0.jpg",
       "summaries": {
-        "ko": "트럼프 ″중·러에 이란 고농축우라늄 못 넘겨…동결자산 해제 논의 안 해″ - 연합뉴스TV",
-        "en": "트럼프 ″중·러에 이란 고농축우라늄 못 넘겨…동결자산 해제 논의 안 해″ - 연합뉴스TV",
-        "zh": "트럼프 ″중·러에 이란 고농축우라늄 못 넘겨…동결자산 해제 논의 안 해″ - 연합뉴스TV"
+        "ko": "[날씨] 흐린 하늘 속 낮까지 약한 비…강풍 동반 - 연합뉴스TV",
+        "en": "[날씨] 흐린 하늘 속 낮까지 약한 비…강풍 동반 - 연합뉴스TV",
+        "zh": "[날씨] 흐린 하늘 속 낮까지 약한 비…강풍 동반 - 연합뉴스TV"
       }
     },
     {
-      "title": "‘태안 고무보트’ 중국인, 톈안먼 추모한 ‘반체제 인사’ 둥광핑-NYT - 문화일보",
-      "link": "https://www.munhwa.com/article/11591714",
-      "source": "문화일보",
-      "pubDate": "Wed, 27 May 2026 11:50:33 GMT",
-      "image": "https://wimg.munhwa.com/news/cms/2026/05/27/news-p.v1.20260527.83d0e1b5ca58488fb3d1f52a298a75e0_R.jpg",
+      "title": "“선거개입” “발목잡기” 李대통령 부산 방문에 정치권 ‘시끌’ - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/05/27/CZAYX5JZ45DQZMGA43LDMVQT2A/",
+      "source": "조선일보",
+      "pubDate": "Wed, 27 May 2026 08:32:28 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MUYWMOJXGQ3DGNZVMVTGIMRWMI.jpg?auth=669865b30ccd593d916490062128489eacfbb17a2b95564a68e70f106d005cef&width=720&height=378&smart=true",
       "summaries": {
-        "ko": "‘태안 고무보트’ 중국인, 톈안먼 추모한 ‘반체제 인사’ 둥광핑-NYT - 문화일보",
-        "en": "‘태안 고무보트’ 중국인, 톈안먼 추모한 ‘반체제 인사’ 둥광핑-NYT - 문화일보",
-        "zh": "‘태안 고무보트’ 중국인, 톈안먼 추모한 ‘반체제 인사’ 둥광핑-NYT - 문화일보"
+        "ko": "“선거개입” “발목잡기” 李대통령 부산 방문에 정치권 ‘시끌’ - 조선일보",
+        "en": "“선거개입” “발목잡기” 李대통령 부산 방문에 정치권 ‘시끌’ - 조선일보",
+        "zh": "“선거개입” “발목잡기” 李대통령 부산 방문에 정치권 ‘시끌’ - 조선일보"
       }
     },
     {
@@ -86,39 +98,39 @@
       }
     },
     {
-      "title": "민주당-진보당, 경남지사 후보 김경수로 단일화‥전희영 사퇴 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6825650_36911.html",
+      "title": "‘장동혁보다 박근혜’…진주 찍고 울산까지, 국힘 ‘선대위원장급’ 일정 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260644.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 27 May 2026 13:09:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/711/427/imgdb/child/2026/0527/53_17798685497789_20260527502796.webp",
+      "summaries": {
+        "ko": "‘장동혁보다 박근혜’…진주 찍고 울산까지, 국힘 ‘선대위원장급’ 일정 - 한겨레",
+        "en": "‘장동혁보다 박근혜’…진주 찍고 울산까지, 국힘 ‘선대위원장급’ 일정 - 한겨레",
+        "zh": "‘장동혁보다 박근혜’…진주 찍고 울산까지, 국힘 ‘선대위원장급’ 일정 - 한겨레"
+      }
+    },
+    {
+      "title": "트럼프 \"협상 지금까진 만족못해‥중러엔 이란 HEU 못넘겨\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6825748_36925.html",
       "source": "MBC 뉴스",
-      "pubDate": "Wed, 27 May 2026 07:37:49 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/27/jhp_20260527_28.jpg",
+      "pubDate": "Wed, 27 May 2026 20:58:07 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/05/28/s260528_0010.jpg",
       "summaries": {
-        "ko": "민주당-진보당, 경남지사 후보 김경수로 단일화‥전희영 사퇴 - MBC 뉴스",
-        "en": "민주당-진보당, 경남지사 후보 김경수로 단일화‥전희영 사퇴 - MBC 뉴스",
-        "zh": "민주당-진보당, 경남지사 후보 김경수로 단일화‥전희영 사퇴 - MBC 뉴스"
+        "ko": "트럼프 \"협상 지금까진 만족못해‥중러엔 이란 HEU 못넘겨\" - MBC 뉴스",
+        "en": "트럼프 \"협상 지금까진 만족못해‥중러엔 이란 HEU 못넘겨\" - MBC 뉴스",
+        "zh": "트럼프 \"협상 지금까진 만족못해‥중러엔 이란 HEU 못넘겨\" - MBC 뉴스"
       }
     },
     {
-      "title": "박근혜 전 대통령이 사실상 국민의힘 선대위원장, 박민식도 지원 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605271934001",
-      "source": "경향신문",
-      "pubDate": "Wed, 27 May 2026 10:34:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/27/news-p.v1.20260527.1ef362d327fd4c31bfe5181b9bafa37f_P1.jpeg",
+      "title": "[속보] \"호르무즈 인근 이란 남부 항구도시에 연쇄 폭발음\"<이란 매체>",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260528074743RX3",
+      "source": "Breaking News",
+      "pubDate": "Thu, 28 May 2026 07:47:43 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260527/AKR20260528074743RX3_01_i.jpg",
       "summaries": {
-        "ko": "박근혜 전 대통령이 사실상 국민의힘 선대위원장, 박민식도 지원 - 경향신문",
-        "en": "박근혜 전 대통령이 사실상 국민의힘 선대위원장, 박민식도 지원 - 경향신문",
-        "zh": "박근혜 전 대통령이 사실상 국민의힘 선대위원장, 박민식도 지원 - 경향신문"
-      }
-    },
-    {
-      "title": "李대통령 \"부산 BTS 공연 관련 숙박업소 바가지, 개선 좀 해야\" - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260527118900001",
-      "source": "연합뉴스",
-      "pubDate": "Wed, 27 May 2026 06:21:37 GMT",
-      "image": "https://img8.yna.co.kr/photo/yna/YH/2026/05/27/PYH2026052711810001300_P4.jpg",
-      "summaries": {
-        "ko": "李대통령 \"부산 BTS 공연 관련 숙박업소 바가지, 개선 좀 해야\" - 연합뉴스",
-        "en": "李대통령 \"부산 BTS 공연 관련 숙박업소 바가지, 개선 좀 해야\" - 연합뉴스",
-        "zh": "李대통령 \"부산 BTS 공연 관련 숙박업소 바가지, 개선 좀 해야\" - 연합뉴스"
+        "ko": "[속보] \"호르무즈 인근 이란 남부 항구도시에 연쇄 폭발음\"<이란 매체>",
+        "en": "[속보] \"호르무즈 인근 이란 남부 항구도시에 연쇄 폭발음\"<이란 매체>",
+        "zh": "[속보] \"호르무즈 인근 이란 남부 항구도시에 연쇄 폭발음\"<이란 매체>"
       }
     }
   ]
