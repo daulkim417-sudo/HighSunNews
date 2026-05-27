@@ -1,76 +1,52 @@
 {
-  "lastUpdate": "2026-05-26T23:49:05.033422",
+  "lastUpdate": "2026-05-27T01:53:52.116455",
   "items": [
     {
-      "title": "서소문 고가 철거 중 상판 붕괴… 3명 사망 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/05/27/2UDBR3C7NVBXZAMDKZ3Y36XFAM/",
-      "source": "조선일보",
-      "pubDate": "Tue, 26 May 2026 15:56:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/BRAUA43GINERRI6TMWEESK5Q5M.gif?auth=5a6007ac0ee3f43483dbc0fd1e4ed8527baea9aed30436a5e44ffb8e7b603779&width=800&height=420&smart=true",
-      "summaries": {
-        "ko": "서소문 고가 철거 중 상판 붕괴… 3명 사망 - 조선일보",
-        "en": "서소문 고가 철거 중 상판 붕괴… 3명 사망 - 조선일보",
-        "zh": "서소문 고가 철거 중 상판 붕괴… 3명 사망 - 조선일보"
-      }
-    },
-    {
-      "title": "‘32년 비밀’ 핵잠 사업, 이제 공개 추진…“수중 킬체인 구현에 큰 기여할 것” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1260532.html",
+      "title": "서소문고가 ‘침하 위험’ 알면서도 안전진단 강행…“철거절차 누락 규명해야” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1260521.html",
       "source": "한겨레",
-      "pubDate": "Tue, 26 May 2026 14:23:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0526/20260526503866.webp",
+      "pubDate": "Tue, 26 May 2026 14:18:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/600/imgdb/original/2026/0526/20260526503716.webp",
       "summaries": {
-        "ko": "정부가 북한 잠수함 기반 핵미사일 위협에 대비하고 수중 킬체인 구현에 기여할 핵추진잠수함(핵잠)을 2030년대 중후반까지 국내에서 개발해 배치하는 '장보고 엔(N)사업'을 32년 만에 공개 추진하겠다고 밝혔다.",
-        "en": "The South Korean government announced that it will publicly pursue the 'Jangbogo-N Project' after 32 years of secrecy, aiming to domestically develop and deploy nuclear-powered submarines (SSNs) by the mid-to-late 2030s to counter North Korea's submarine-based nuclear missile threats and establish an underwater kill chain.",
-        "zh": "韩国政府宣布，在秘密推行32年后，将公开推进“张保皋N项目”，目标是在2030年代中后期前在国内开发并部署核动力潜艇，以应对朝鲜潜艇核导弹威胁，并为实现水下杀伤链做出贡献。"
+        "ko": "서소문고가차도 철거 현장에서 구조물 침하 징후에도 불구하고 안전진단을 강행하다 붕괴 사고가 발생하여 6명의 사상자가 나왔으며, 이에 철거 절차 부실 및 위험성 평가 누락 의혹이 제기되고 있다.",
+        "en": "A collapse at the Seosomun Overpass demolition site resulted in 6 casualties after safety inspections were reportedly forced despite prior signs of structural settlement, raising suspicions of inadequate demolition procedures and omitted risk assessments.",
+        "zh": "西小门高架桥拆除现场在结构出现沉降迹象后仍强制进行安全检查，随后发生坍塌事故，造成6人伤亡，引发对拆除程序不当和风险评估缺失的质疑。"
       }
     },
     {
-      "title": "D-8 KBS 여론조사…정원오 42%·오세훈 36% 오차범위 내 접전 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8570423",
-      "source": "KBS 뉴스",
-      "pubDate": "Tue, 26 May 2026 22:14:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/05/26/20260526_jeD3cB.png",
+      "title": "‘내란 가담’ 혐의 김명수 전 합참의장 특검 출석…“군사적 조치 소상히 설명할 것” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605271017001",
+      "source": "경향신문",
+      "pubDate": "Wed, 27 May 2026 01:17:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/27/rcv.YNA.20260527.PYH2026052702440001300_P1.jpg",
       "summaries": {
-        "ko": "D-8 KBS 여론조사…정원오 42%·오세훈 36% 오차범위 내 접전 - KBS 뉴스",
-        "en": "D-8 KBS 여론조사…정원오 42%·오세훈 36% 오차범위 내 접전 - KBS 뉴스",
-        "zh": "D-8 KBS 여론조사…정원오 42%·오세훈 36% 오차범위 내 접전 - KBS 뉴스"
+        "ko": "‘내란 가담’ 혐의 김명수 전 합참의장 특검 출석…“군사적 조치 소상히 설명할 것” - 경향신문",
+        "en": "‘내란 가담’ 혐의 김명수 전 합참의장 특검 출석…“군사적 조치 소상히 설명할 것” - 경향신문",
+        "zh": "‘내란 가담’ 혐의 김명수 전 합참의장 특검 출석…“군사적 조치 소상히 설명할 것” - 경향신문"
       }
     },
     {
-      "title": "비 오락가락에 ′꿉꿉한 더위′…역대 가장 더운 5월 아침 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260527074432JGl",
+      "title": "핵연료 확보, 美와 실무협의 없이 발표… 트럼프 설득이 관건 - 조선일보",
+      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/05/27/ULZYYTDHNJHTZHYYGBBQWD6PLQ/",
+      "source": "조선일보",
+      "pubDate": "Tue, 26 May 2026 15:52:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/OIDNZXO3UBNSLJ3TLYKPUE4HVI.jpg?auth=65d04566cc5cb1cd9ba4533b2c03ca329ff0bafc2accb6cdc3b9fc0ec0617b0b&width=1200&height=630&focal=2301,1501",
+      "summaries": {
+        "ko": "핵연료 확보, 美와 실무협의 없이 발표… 트럼프 설득이 관건 - 조선일보",
+        "en": "핵연료 확보, 美와 실무협의 없이 발표… 트럼프 설득이 관건 - 조선일보",
+        "zh": "핵연료 확보, 美와 실무협의 없이 발표… 트럼프 설득이 관건 - 조선일보"
+      }
+    },
+    {
+      "title": "삼성전자 잠정합의 투표 결과 오늘 나온다…가결 전망 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202605270537512Aw",
       "source": "연합뉴스TV",
-      "pubDate": "Tue, 26 May 2026 22:44:34 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260526/AKR20260527074432JGl_01_i.jpg",
+      "pubDate": "Tue, 26 May 2026 20:37:51 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260526/AKR202605270537512Aw_01_i.jpg",
       "summaries": {
-        "ko": "비 오락가락에 ′꿉꿉한 더위′…역대 가장 더운 5월 아침 - 연합뉴스TV",
-        "en": "비 오락가락에 ′꿉꿉한 더위′…역대 가장 더운 5월 아침 - 연합뉴스TV",
-        "zh": "비 오락가락에 ′꿉꿉한 더위′…역대 가장 더운 5월 아침 - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "북한, 근거리 탄도미사일·방사포 등 수발 발사…‘자폭형 무인기’ 동원 가능성 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605261306001",
-      "source": "경향신문",
-      "pubDate": "Tue, 26 May 2026 04:06:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/26/news-p.v1.20251229.5d9b335d1bf84359818c685ea1baff79_P1.jpeg",
-      "summaries": {
-        "ko": "북한, 근거리 탄도미사일·방사포 등 수발 발사…‘자폭형 무인기’ 동원 가능성 - 경향신문",
-        "en": "북한, 근거리 탄도미사일·방사포 등 수발 발사…‘자폭형 무인기’ 동원 가능성 - 경향신문",
-        "zh": "북한, 근거리 탄도미사일·방사포 등 수발 발사…‘자폭형 무인기’ 동원 가능성 - 경향신문"
-      }
-    },
-    {
-      "title": "90년대생 여성 덕후와 70년대생 남성 교수, ‘일리아스’로 탄핵광장을 읽다 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605270600151",
-      "source": "경향신문",
-      "pubDate": "Tue, 26 May 2026 21:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/27/news-p.v1.20260522.770b456aec774ccfaaa368aa62dbc2b2_P1.jpg",
-      "summaries": {
-        "ko": "90년대생 여성 덕후와 70년대생 남성 교수, ‘일리아스’로 탄핵광장을 읽다 - 경향신문",
-        "en": "90년대생 여성 덕후와 70년대생 남성 교수, ‘일리아스’로 탄핵광장을 읽다 - 경향신문",
-        "zh": "90년대생 여성 덕후와 70년대생 남성 교수, ‘일리아스’로 탄핵광장을 읽다 - 경향신문"
+        "ko": "삼성전자 잠정합의 투표 결과 오늘 나온다…가결 전망 - 연합뉴스TV",
+        "en": "삼성전자 잠정합의 투표 결과 오늘 나온다…가결 전망 - 연합뉴스TV",
+        "zh": "삼성전자 잠정합의 투표 결과 오늘 나온다…가결 전망 - 연합뉴스TV"
       }
     },
     {
@@ -86,39 +62,63 @@
       }
     },
     {
-      "title": "\"바꿔보자는 민심 무섭다카이\" vs \"골든크로스, 판 뒤집어졌데이\" - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/05/27/WUEXMZNTAVDHTN5U3NDRAWEMWE/",
-      "source": "조선일보",
-      "pubDate": "Tue, 26 May 2026 15:48:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/XXFSSMWCTRMXPI4CRZQZWCPYEU.JPG?auth=146b8328fdabee5e5ef0d8cffdf05e02e8ae132ee746f266581c52b7a1f2b8cd&width=1200&height=630&focal=1395,818",
+      "title": "\"제발 멈춰달라\" 외침에도 강제 팔굽혀펴기…병사 근육 녹아 입원 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260526181011jAX",
+      "source": "연합뉴스TV",
+      "pubDate": "Tue, 26 May 2026 09:10:13 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260526/AKR20260526181011jAX_01_i.jpg",
       "summaries": {
-        "ko": "\"바꿔보자는 민심 무섭다카이\" vs \"골든크로스, 판 뒤집어졌데이\" - 조선일보",
-        "en": "\"바꿔보자는 민심 무섭다카이\" vs \"골든크로스, 판 뒤집어졌데이\" - 조선일보",
-        "zh": "\"바꿔보자는 민심 무섭다카이\" vs \"골든크로스, 판 뒤집어졌데이\" - 조선일보"
+        "ko": "\"제발 멈춰달라\" 외침에도 강제 팔굽혀펴기…병사 근육 녹아 입원 - 연합뉴스TV",
+        "en": "\"제발 멈춰달라\" 외침에도 강제 팔굽혀펴기…병사 근육 녹아 입원 - 연합뉴스TV",
+        "zh": "\"제발 멈춰달라\" 외침에도 강제 팔굽혀펴기…병사 근육 녹아 입원 - 연합뉴스TV"
       }
     },
     {
-      "title": "이란 \"중동 분쟁 끝낼 준비\"…쿼드, 해양안보 공동대응",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260527084402iCY",
-      "source": "Breaking News",
-      "pubDate": "Wed, 27 May 2026 08:44:04 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260526/MYH20260527084402iCY.jpg",
+      "title": "박근혜, 27일 부산 선거 지원…박민식 북갑 후보도 참석 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605261955001",
+      "source": "경향신문",
+      "pubDate": "Tue, 26 May 2026 10:55:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/26/rcv.YNA.20260525.PYH2026052508170006300_P1.jpg",
       "summaries": {
-        "ko": "이란 \"중동 분쟁 끝낼 준비\"…쿼드, 해양안보 공동대응",
-        "en": "이란 \"중동 분쟁 끝낼 준비\"…쿼드, 해양안보 공동대응",
-        "zh": "이란 \"중동 분쟁 끝낼 준비\"…쿼드, 해양안보 공동대응"
+        "ko": "박근혜, 27일 부산 선거 지원…박민식 북갑 후보도 참석 - 경향신문",
+        "en": "박근혜, 27일 부산 선거 지원…박민식 북갑 후보도 참석 - 경향신문",
+        "zh": "박근혜, 27일 부산 선거 지원…박민식 북갑 후보도 참석 - 경향신문"
       }
     },
     {
-      "title": "검찰, '서소문 고가 붕괴' 전담수사팀 편성…검사 4명 투입",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260527082431dxg",
+      "title": "[현장연결] 이 대통령, 바다의날 기념식 참석…\"바다, 국가 생존·미래 좌우하는 최전선\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260527104000pGL",
       "source": "Breaking News",
-      "pubDate": "Wed, 27 May 2026 08:24:32 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260526/AKR20260527082431dxg_01_i.jpg",
+      "pubDate": "Wed, 27 May 2026 10:40:01 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260527/MYH20260527104000pGL.jpg",
       "summaries": {
-        "ko": "검찰, '서소문 고가 붕괴' 전담수사팀 편성…검사 4명 투입",
-        "en": "검찰, '서소문 고가 붕괴' 전담수사팀 편성…검사 4명 투입",
-        "zh": "검찰, '서소문 고가 붕괴' 전담수사팀 편성…검사 4명 투입"
+        "ko": "[현장연결] 이 대통령, 바다의날 기념식 참석…\"바다, 국가 생존·미래 좌우하는 최전선\"",
+        "en": "[현장연결] 이 대통령, 바다의날 기념식 참석…\"바다, 국가 생존·미래 좌우하는 최전선\"",
+        "zh": "[현장연결] 이 대통령, 바다의날 기념식 참석…\"바다, 국가 생존·미래 좌우하는 최전선\""
+      }
+    },
+    {
+      "title": "[뉴스특보] 이란전쟁 '타결·재개' 중대기로…동결자산 변수로",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260527103754Ziz",
+      "source": "Breaking News",
+      "pubDate": "Wed, 27 May 2026 10:37:56 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260527/MYH20260527103754Ziz.jpg",
+      "summaries": {
+        "ko": "[뉴스특보] 이란전쟁 '타결·재개' 중대기로…동결자산 변수로",
+        "en": "[뉴스특보] 이란전쟁 '타결·재개' 중대기로…동결자산 변수로",
+        "zh": "[뉴스특보] 이란전쟁 '타결·재개' 중대기로…동결자산 변수로"
+      }
+    },
+    {
+      "title": "에어프레미아, 군 장병 대상 항공권 할인…\"최대 12%\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260527103738FTO",
+      "source": "Breaking News",
+      "pubDate": "Wed, 27 May 2026 10:37:39 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260527/AKR20260527103738FTO_01_i.jpg",
+      "summaries": {
+        "ko": "에어프레미아, 군 장병 대상 항공권 할인…\"최대 12%\"",
+        "en": "에어프레미아, 군 장병 대상 항공권 할인…\"최대 12%\"",
+        "zh": "에어프레미아, 군 장병 대상 항공권 할인…\"최대 12%\""
       }
     }
   ]
