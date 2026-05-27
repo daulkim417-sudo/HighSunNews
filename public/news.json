@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-05-27T19:11:24.250089",
+  "lastUpdate": "2026-05-27T21:08:44.497636",
   "items": [
-    {
-      "title": "서소문 첫 징후 뒤 ‘12시간 보호 공백’…붕괴 90초 전에도 열차 달렸다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1260688.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 27 May 2026 16:05:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0527/3117798789828514.webp",
-      "summaries": {
-        "ko": "서울 서소문 고가차도 붕괴 사고는 첫 징후 발생 후 약 12시간 동안 철로 통제 등 안전 조치가 사실상 전무하여 붕괴 90초 전까지도 열차가 통과하는 위험한 상황에서 발생하며 인명 피해를 냈다.",
-        "en": "Seoul's Seosomun Overpass collapse resulted in casualties after an approximately 12-hour protection gap following the first signs of trouble, during which virtually no safety measures like train track control were implemented, allowing trains to pass through the dangerous area until just 90 seconds before the collapse.",
-        "zh": "首尔西小门高架桥坍塌事故造成人员伤亡，原因是在出现首个异常迹象后长达约12小时的保护空白期内，几乎没有采取任何轨道交通管制等安全措施，导致火车在坍塌前90秒仍在危险区域通行。"
-      }
-    },
     {
       "title": "“나무호 타격한 비행체는 이란 대함미사일 가능성” - 경향신문",
       "link": "https://www.khan.co.kr/article/202605272147005",
@@ -20,69 +8,105 @@
       "pubDate": "Wed, 27 May 2026 12:47:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/05/27/l_2026052801000836900079661.jpg",
       "summaries": {
-        "ko": "정부는 호르무즈 해협에서 한국 선박 HMM 나무호를 공격한 비행체가 이란산 대함미사일일 가능성이 크다고 발표하며 이란 대사를 초치해 항의했으나, 이란은 개입을 부인했고 정부는 외교적 파장을 고려해 공격 주체를 단정하지는 않았다.",
-        "en": "The South Korean government announced that the flying object that attacked the Korean vessel HMM Namuho in the Strait of Hormuz was likely an Iranian anti-ship missile, and summoned the Iranian ambassador to protest, but Iran denied involvement and the government did not definitively identify the perpetrator, considering diplomatic implications.",
-        "zh": "韩国政府宣布，在霍尔木兹海峡袭击韩国船只HMM Namuho的飞行物很可能是伊朗反舰导弹，并召见了伊朗大使进行抗议，但伊朗否认介入，韩国政府考虑到外交影响，并未明确认定袭击主体。"
+        "ko": "정부는 호르무즈 해협에서 HMM 나무호를 타격한 비행체가 이란산 대함미사일일 가능성이 크다고 발표하며 이란대사를 초치해 항의했으나, 이란은 개입을 부인했고 정부는 실익을 고려해 공격 주체를 단정적으로 밝히지 않았다.",
+        "en": "South Korea announced that the flying object that attacked the HMM Namuho in the Strait of Hormuz was likely an Iranian anti-ship missile, summoning the Iranian ambassador to protest, but refrained from definitively naming the attacker as Iran denied involvement, considering practical interests.",
+        "zh": "韩国政府宣布，在霍尔木兹海峡袭击HMM Namuho船只的飞行物很可能是伊朗反舰导弹，并召见伊朗大使提出抗议，但伊朗否认参与，韩国政府考虑到实际利益未明确指明攻击方。"
       }
     },
     {
-      "title": "스타벅스, 탱크데이 논란 여파로 주간 결제액 85억원 ‘뚝’ - 조선일보",
-      "link": "https://www.chosun.com/economy/market_trend/2026/05/27/4DLKIKRTNJGYXN67KM5S2IKGIQ/",
-      "source": "조선일보",
-      "pubDate": "Wed, 27 May 2026 05:47:19 GMT",
-      "image": "https://www.chosun.com/resizer/v2/J3SCEVRXRJKIHIUSKMP7EX6UZU.jpg?auth=c714e4d4e7e93ca4d684db6315d764bdd6dce6f6d63856408ab685fd99cdd8bc&width=1200&height=630&smart=true",
+      "title": "스타벅스 결제금 84억 줄었다…‘탱크데이’ 한주 만에 26% 급감 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/economy/consumer/1260623.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 27 May 2026 16:07:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/530/imgdb/original/2026/0527/20260527502260.webp",
       "summaries": {
-        "ko": "스타벅스, 탱크데이 논란 여파로 주간 결제액 85억원 ‘뚝’ - 조선일보",
-        "en": "스타벅스, 탱크데이 논란 여파로 주간 결제액 85억원 ‘뚝’ - 조선일보",
-        "zh": "스타벅스, 탱크데이 논란 여파로 주간 결제액 85억원 ‘뚝’ - 조선일보"
+        "ko": "스타벅스의 주간 결제금액이 5·18 민주화 운동 폄훼 논란이 불거진 '탱크데이' 사태 이후 일주일 만에 80억원 넘게 급감했으며, 앱 신규 설치 건수도 동반 하락했다.",
+        "en": "Starbucks' weekly payment amount plummeted by over 8 billion won in just one week following the 'Tank Day' controversy, which was criticized for disparaging the 5.18 Gwangju Democratization Movement, with new app installations also showing a synchronous decline.",
+        "zh": "星巴克因“坦克日”事件引发的“5·18民主化运动”贬低争议后，其每周支付金额在一周内骤降超过80亿韩元，新应用安装量也随之同步下降。"
       }
     },
     {
-      "title": "\"고무보트로 한국 영해 들어온 중국인, 반체제인사 둥광핑\" - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260527231413tD8",
+      "title": "“서소문 고가, 침하 발견 직후 지지대 설치하고 조사했어야” - 동아일보",
+      "link": "https://www.donga.com/news/Society/article/all/20260527/134005274/1",
+      "source": "동아일보",
+      "pubDate": "Wed, 27 May 2026 10:58:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/27/134005324.1.jpg",
+      "summaries": {
+        "ko": "“서소문 고가, 침하 발견 직후 지지대 설치하고 조사했어야” - 동아일보",
+        "en": "“서소문 고가, 침하 발견 직후 지지대 설치하고 조사했어야” - 동아일보",
+        "zh": "“서소문 고가, 침하 발견 직후 지지대 설치하고 조사했어야” - 동아일보"
+      }
+    },
+    {
+      "title": "박민식 “박근혜 30년 구형, 가짜 보수”…한동훈 “윤석열이 한 걸 왜 내게” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260641.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 27 May 2026 16:07:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/960/579/imgdb/original/2026/0527/20260527502721.webp",
+      "summaries": {
+        "ko": "부산 북갑 보궐선거에 출마한 국민의힘 박민식 후보와 무소속 한동훈 후보가 박근혜 전 대통령의 부산 방문을 계기로 서로를 '가짜 보수'라 비난하며 날 선 공방을 벌였다.",
+        "en": "In the Busan Buk-gap by-election, People Power Party candidate Park Min-sik and independent candidate Han Dong-hoon engaged in a fierce debate, accusing each other of being 'fake conservatives' following former President Park Geun-hye's visit to Busan.",
+        "zh": "在釜山北甲补选中，国民力量党候选人朴敏植和无党派候选人韩东勋就前总统朴槿惠访问釜山一事展开激烈口水战，互相指责对方是“假保守派”。"
+      }
+    },
+    {
+      "title": "트럼프 ″중·러에 이란 고농축우라늄 못 넘겨…동결자산 해제 논의 안 해″ - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260528035051L0W",
       "source": "연합뉴스TV",
-      "pubDate": "Wed, 27 May 2026 14:14:15 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260527/AKR20260527231413tD8_01_i.jpg",
+      "pubDate": "Wed, 27 May 2026 18:50:51 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260527/AKR20260528035051L0W_01_i.jpg",
       "summaries": {
-        "ko": "고무보트를 타고 한국 영해에 진입하려다 체포된 중국인이 수차례 중국 탈출을 시도했던 인권운동가 둥광핑으로 확인됐으며, 그는 딸이 있는 캐나다로 망명하기를 희망하고 있다.",
-        "en": "A Chinese national arrested after attempting to enter South Korean waters on a rubber boat has been identified as Dong Guangping, a human rights activist who made multiple attempts to flee China and hopes to seek asylum in Canada where his daughter resides.",
-        "zh": "乘坐橡皮艇试图进入韩国领海时被捕的中国人被确认为董广平，他是一名多次试图逃离中国的人权活动家，希望前往其女儿居住的加拿大寻求庇护。"
+        "ko": "트럼프 ″중·러에 이란 고농축우라늄 못 넘겨…동결자산 해제 논의 안 해″ - 연합뉴스TV",
+        "en": "트럼프 ″중·러에 이란 고농축우라늄 못 넘겨…동결자산 해제 논의 안 해″ - 연합뉴스TV",
+        "zh": "트럼프 ″중·러에 이란 고농축우라늄 못 넘겨…동결자산 해제 논의 안 해″ - 연합뉴스TV"
       }
     },
     {
-      "title": "[속보]미·이란 종전 협상안 초안에 “호르무즈 통행 한달 내 복원” 담겨···이란 매체 보도 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605272150001",
+      "title": "‘태안 고무보트’ 중국인, 톈안먼 추모한 ‘반체제 인사’ 둥광핑-NYT - 문화일보",
+      "link": "https://www.munhwa.com/article/11591714",
+      "source": "문화일보",
+      "pubDate": "Wed, 27 May 2026 11:50:33 GMT",
+      "image": "https://wimg.munhwa.com/news/cms/2026/05/27/news-p.v1.20260527.83d0e1b5ca58488fb3d1f52a298a75e0_R.jpg",
+      "summaries": {
+        "ko": "‘태안 고무보트’ 중국인, 톈안먼 추모한 ‘반체제 인사’ 둥광핑-NYT - 문화일보",
+        "en": "‘태안 고무보트’ 중국인, 톈안먼 추모한 ‘반체제 인사’ 둥광핑-NYT - 문화일보",
+        "zh": "‘태안 고무보트’ 중국인, 톈안먼 추모한 ‘반체제 인사’ 둥광핑-NYT - 문화일보"
+      }
+    },
+    {
+      "title": "28일부터 여론조사 공표 금지…부산 북갑·평택을 초접전 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260678.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 27 May 2026 12:05:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0527/53_17798740683429_20260527503242.webp",
+      "summaries": {
+        "ko": "28일부터 여론조사 공표 금지…부산 북갑·평택을 초접전 - 한겨레",
+        "en": "28일부터 여론조사 공표 금지…부산 북갑·평택을 초접전 - 한겨레",
+        "zh": "28일부터 여론조사 공표 금지…부산 북갑·평택을 초접전 - 한겨레"
+      }
+    },
+    {
+      "title": "민주당-진보당, 경남지사 후보 김경수로 단일화‥전희영 사퇴 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6825650_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Wed, 27 May 2026 07:37:49 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/27/jhp_20260527_28.jpg",
+      "summaries": {
+        "ko": "민주당-진보당, 경남지사 후보 김경수로 단일화‥전희영 사퇴 - MBC 뉴스",
+        "en": "민주당-진보당, 경남지사 후보 김경수로 단일화‥전희영 사퇴 - MBC 뉴스",
+        "zh": "민주당-진보당, 경남지사 후보 김경수로 단일화‥전희영 사퇴 - MBC 뉴스"
+      }
+    },
+    {
+      "title": "박근혜 전 대통령이 사실상 국민의힘 선대위원장, 박민식도 지원 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605271934001",
       "source": "경향신문",
-      "pubDate": "Wed, 27 May 2026 12:50:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/27/rcv.YNA.20260526.PEP20260526125501009_P1.jpg",
+      "pubDate": "Wed, 27 May 2026 10:34:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/27/news-p.v1.20260527.1ef362d327fd4c31bfe5181b9bafa37f_P1.jpeg",
       "summaries": {
-        "ko": "미국과 이란 간 종전 협상 초안에 이란이 한 달 내 호르무즈 해협 상선 통행을 복원하고 미군은 해상 봉쇄를 해제하는 내용이 담겼다는 보도가 나오면서 유가가 하락했다.",
-        "en": "A reported draft of a US-Iran peace MOU, including Iran restoring merchant shipping in the Hormuz Strait within a month and the US lifting its naval blockade, has led to a drop in oil prices.",
-        "zh": "据报道，美国与伊朗和平谅解备忘录草案包含伊朗在一个月内恢复霍尔木兹海峡商船通行以及美国解除海上封锁的内容，受此影响油价下跌。"
-      }
-    },
-    {
-      "title": "특별법으로 ‘역대 최대 예산’ 추진…‘우라늄 농축 권한’ 미와 협상 난관 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605272124005",
-      "source": "경향신문",
-      "pubDate": "Wed, 27 May 2026 12:24:00 GMT",
-      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
-      "summaries": {
-        "ko": "정부가 역대 최대 규모인 핵추진잠수함 개발을 추진하면서 특별법 제정을 통한 예산 확보, 우라늄 농축 권한에 대한 미국과의 협상, 그리고 국제사회 신뢰 확보 등 복합적인 난관에 직면했다.",
-        "en": "The South Korean government is pursuing the development of nuclear-powered submarines, a project of unprecedented scale, facing complex challenges including securing a vast budget through special legislation, negotiating with the United States for uranium enrichment rights, and building international trust.",
-        "zh": "韩国政府正在推进规模空前的核动力潜艇开发项目，面临着多重复杂挑战，包括通过制定特别法筹集巨额预算、就铀浓缩权限与美国进行谈判以及争取国际社会信任等。"
-      }
-    },
-    {
-      "title": "부산에도 힘 실어준 박근혜, 박형준·박민식 지원 유세 - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/05/27/FG2YH5KPDVDHPKMZLCGSKM3LMY/",
-      "source": "조선일보",
-      "pubDate": "Wed, 27 May 2026 09:47:43 GMT",
-      "image": "https://www.chosun.com/resizer/v2/Y3RBEQWYBZMJLK743PZX6R4HHI.jpg?auth=9b0369552d96073ce0ae235b2f4dcec6ca17fade81002a2ba842e7493261cd8a&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "부산에도 힘 실어준 박근혜, 박형준·박민식 지원 유세 - 조선일보",
-        "en": "부산에도 힘 실어준 박근혜, 박형준·박민식 지원 유세 - 조선일보",
-        "zh": "부산에도 힘 실어준 박근혜, 박형준·박민식 지원 유세 - 조선일보"
+        "ko": "박근혜 전 대통령이 사실상 국민의힘 선대위원장, 박민식도 지원 - 경향신문",
+        "en": "박근혜 전 대통령이 사실상 국민의힘 선대위원장, 박민식도 지원 - 경향신문",
+        "zh": "박근혜 전 대통령이 사실상 국민의힘 선대위원장, 박민식도 지원 - 경향신문"
       }
     },
     {
@@ -92,57 +116,9 @@
       "pubDate": "Wed, 27 May 2026 06:21:37 GMT",
       "image": "https://img8.yna.co.kr/photo/yna/YH/2026/05/27/PYH2026052711810001300_P4.jpg",
       "summaries": {
-        "ko": "이재명 대통령은 부산 BTS 공연 관련 숙박업소의 바가지 요금 및 기존 예약 취소 후 고가 재판매 행위가 부산의 이미지와 관광 산업에 치명적이라고 지적하며, 해당 업체 명단 공개 등 개선책 마련을 촉구했다.",
-        "en": "President Lee Jae-myung criticized Busan's accommodation providers for price gouging and canceling existing reservations to resell at exorbitant prices in relation to the upcoming BTS concert, stating that such practices severely damage the city's image and tourism industry, and called for improvements including the public disclosure of offending businesses.",
-        "zh": "李在明总统批评釜山住宿业者针对即将举行的防弹少年团(BTS)演唱会进行价格欺诈并取消现有预订后以高价转售的行为，指出此类做法严重损害了城市形象和旅游业，并呼吁采取改进措施，包括公开不法业者名单。"
-      }
-    },
-    {
-      "title": "울산시장 후보 단일화 재경선…진보당 김종훈, 김상욱 요구 수용 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/election/1260603.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 27 May 2026 05:04:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/896/imgdb/original/2026/0527/20260527501819.webp",
-      "summaries": {
-        "ko": "울산시장 후보 단일화 재경선…진보당 김종훈, 김상욱 요구 수용 - 한겨레",
-        "en": "울산시장 후보 단일화 재경선…진보당 김종훈, 김상욱 요구 수용 - 한겨레",
-        "zh": "울산시장 후보 단일화 재경선…진보당 김종훈, 김상욱 요구 수용 - 한겨레"
-      }
-    },
-    {
-      "title": "경찰, LG 마곡센터서 칼부림 협력업체 직원 상암서 체포(종합) - 뉴스1",
-      "link": "https://www.news1.kr/society/incident-accident/6179022",
-      "source": "뉴스1",
-      "pubDate": "Wed, 27 May 2026 05:31:27 GMT",
-      "image": "https://i3n.news1.kr/system/photos/2026/5/27/7927784/high.jpg",
-      "summaries": {
-        "ko": "경찰, LG 마곡센터서 칼부림 협력업체 직원 상암서 체포(종합) - 뉴스1",
-        "en": "경찰, LG 마곡센터서 칼부림 협력업체 직원 상암서 체포(종합) - 뉴스1",
-        "zh": "경찰, LG 마곡센터서 칼부림 협력업체 직원 상암서 체포(종합) - 뉴스1"
-      }
-    },
-    {
-      "title": "[속보] 트럼프 \"중·러가 이란의 고농축우라늄 가져가면 불편할 것\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260528020923I0U",
-      "source": "Breaking News",
-      "pubDate": "Thu, 28 May 2026 02:09:25 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260527/AKR20260528020923I0U_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 트럼프 \"중·러가 이란의 고농축우라늄 가져가면 불편할 것\"",
-        "en": "[속보] 트럼프 \"중·러가 이란의 고농축우라늄 가져가면 불편할 것\"",
-        "zh": "[속보] 트럼프 \"중·러가 이란의 고농축우라늄 가져가면 불편할 것\""
-      }
-    },
-    {
-      "title": "[속보] 美국무, 이란 협상에 \"향후 몇시간·며칠내 진전 이뤄질지 봐야\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260528012840My0",
-      "source": "Breaking News",
-      "pubDate": "Thu, 28 May 2026 01:28:42 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260527/AKR20260528012840My0_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 美국무, 이란 협상에 \"향후 몇시간·며칠내 진전 이뤄질지 봐야\"",
-        "en": "[속보] 美국무, 이란 협상에 \"향후 몇시간·며칠내 진전 이뤄질지 봐야\"",
-        "zh": "[속보] 美국무, 이란 협상에 \"향후 몇시간·며칠내 진전 이뤄질지 봐야\""
+        "ko": "李대통령 \"부산 BTS 공연 관련 숙박업소 바가지, 개선 좀 해야\" - 연합뉴스",
+        "en": "李대통령 \"부산 BTS 공연 관련 숙박업소 바가지, 개선 좀 해야\" - 연합뉴스",
+        "zh": "李대통령 \"부산 BTS 공연 관련 숙박업소 바가지, 개선 좀 해야\" - 연합뉴스"
       }
     }
   ]
