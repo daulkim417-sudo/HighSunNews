@@ -1,112 +1,40 @@
 {
-  "lastUpdate": "2026-05-27T06:05:53.828592",
+  "lastUpdate": "2026-05-27T10:15:38.305957",
   "items": [
     {
-      "title": "[속보]LG전자 마곡업무센터에서 흉기 난동···2명 중상 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605271310001",
-      "source": "경향신문",
-      "pubDate": "Wed, 27 May 2026 04:10:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/27/news-p.v1.20260527.506d2dc46bc1487b9f048c29858a6804_P1.jpg",
-      "summaries": {
-        "ko": "LG전자 마곡업무센터에서 협력업체 60대 남성 직원이 LG전자 직원 2명에게 흉기를 휘둘러 중상을 입혔고, 경찰에 긴급 체포되었다.",
-        "en": "A 60-year-old male employee of an LG Electronics subcontractor was emergency arrested after seriously injuring two LG Electronics employees with a weapon at the LG Electronics Magok R&D Campus.",
-        "zh": "一名60多岁的LG电子合作公司员工在LG电子麻谷研发中心持刀重伤两名LG电子员工后被紧急逮捕。"
-      }
-    },
-    {
-      "title": "전체 열차 운행 20% 중단…‘서소문 고가차도 붕괴’ 영향 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/economy/economy_general/1260576.html",
+      "title": "[속보] 외교부 “나무호 친 비행체에 이란 제조사 각인 확인” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260658.html",
       "source": "한겨레",
-      "pubDate": "Wed, 27 May 2026 01:53:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/448/imgdb/original/2026/0527/20260527501188.webp",
+      "pubDate": "Wed, 27 May 2026 08:56:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0527/20260527503000.webp",
       "summaries": {
-        "ko": "전체 열차 운행 20% 중단…‘서소문 고가차도 붕괴’ 영향 - 한겨레",
-        "en": "전체 열차 운행 20% 중단…‘서소문 고가차도 붕괴’ 영향 - 한겨레",
-        "zh": "전체 열차 운행 20% 중단…‘서소문 고가차도 붕괴’ 영향 - 한겨레"
+        "ko": "외교부는 호르무즈해협에서 피격된 한국 선박 HMM 나무호를 공격한 비행체가 이란산 대함미사일일 가능성이 높다고 밝히고, 주한 이란대사를 초치해 강력히 항의하며 책임 있는 조치를 요구할 것이라고 발표했다.",
+        "en": "South Korea's Ministry of Foreign Affairs announced that the projectile that struck the HMM Namuho in the Strait of Hormuz was highly likely an Iranian-made anti-ship missile, and stated it would summon the Iranian ambassador to protest and demand responsible measures.",
+        "zh": "韩国外交部宣布，霍尔木兹海峡遇袭的韩国船舶HMM树号所遭飞行物袭击，极有可能是伊朗制造的反舰导弹，并表示将召见伊朗驻韩大使，提出强烈抗议并要求采取负责任的措施。"
       }
     },
     {
-      "title": "청와대, 김관영 ‘대통령 사전 교감설’에 “통화한 적 없어” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8571116",
-      "source": "KBS 뉴스",
-      "pubDate": "Wed, 27 May 2026 05:20:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/05/27/20260527_0NQgVT.jpg",
-      "summaries": {
-        "ko": "청와대가 무소속 김관영 전북지사 후보의 '대통령 사전 교감설'에 대해 \"통화한 적 없다\"며 선거와 관련해 특정 후보와 상의나 교감은 없다고 일축했습니다.",
-        "en": "Cheong Wa Dae denied independent Jeonbuk Governor candidate Kim Kwan-young's claim of prior communication with the President regarding his candidacy, stating they \"never spoke\" and do not engage with specific candidates concerning elections.",
-        "zh": "针对无党派全罗北道知事候选人金宽永提出的‘与总统事前有默契’的说法，青瓦台表示‘从未通过话’，并强调总统和青瓦台不与任何特定候选人就选举进行协商或沟通。"
-      }
-    },
-    {
-      "title": "결국 돈 필요했던 이란? 동결 자산 해제 위해 테이블 지켰다 - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/05/27/Q6HK3KNXEZE3HJMC5Y7JREIO4E/",
-      "source": "조선일보",
-      "pubDate": "Tue, 26 May 2026 18:26:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GBTGGMZZGZRWEYJTMEZDQNTGME.jpg?auth=c2bca9992829c7cef510129f65e5c790c4628c1e7872adb7230b706cf9cbbf7d&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "결국 돈 필요했던 이란? 동결 자산 해제 위해 테이블 지켰다 - 조선일보",
-        "en": "결국 돈 필요했던 이란? 동결 자산 해제 위해 테이블 지켰다 - 조선일보",
-        "zh": "결국 돈 필요했던 이란? 동결 자산 해제 위해 테이블 지켰다 - 조선일보"
-      }
-    },
-    {
-      "title": "“SNS 한줄에 훅 간다”…‘탱크데이 사태’에 기업 마케팅 조심 또 조심 - 매일경제",
-      "link": "https://www.mk.co.kr/news/business/12058602",
-      "source": "매일경제",
-      "pubDate": "Wed, 27 May 2026 02:13:37 GMT",
-      "image": "https://pimg.mk.co.kr/news/cms/202605/27/news-p.v1.20260526.d095759e6164403ebfa83813094e2f06_R.jpg",
-      "summaries": {
-        "ko": "“SNS 한줄에 훅 간다”…‘탱크데이 사태’에 기업 마케팅 조심 또 조심 - 매일경제",
-        "en": "“SNS 한줄에 훅 간다”…‘탱크데이 사태’에 기업 마케팅 조심 또 조심 - 매일경제",
-        "zh": "“SNS 한줄에 훅 간다”…‘탱크데이 사태’에 기업 마케팅 조심 또 조심 - 매일경제"
-      }
-    },
-    {
-      "title": "박찬대, ‘코인 해외 은닉 직접 지시 정황’ 유정복 사퇴 촉구 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605271132001",
+      "title": "‘탱크데이’ 이어···스타벅스 ‘정치인 비하’ 닉네임이 버젓이, 직원들도 “손님 항의 무서워 호명” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605271352001",
       "source": "경향신문",
-      "pubDate": "Wed, 27 May 2026 02:32:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/27/news-p.v1.20260527.5f7d4d52034a47a8b1f4701627e0adba_P1.jpg",
+      "pubDate": "Wed, 27 May 2026 04:52:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/27/news-p.v1.20260527.f48575f20e0d46228e8725409f34801a_P1.png",
       "summaries": {
-        "ko": "박찬대, ‘코인 해외 은닉 직접 지시 정황’ 유정복 사퇴 촉구 - 경향신문",
-        "en": "박찬대, ‘코인 해외 은닉 직접 지시 정황’ 유정복 사퇴 촉구 - 경향신문",
-        "zh": "박찬대, ‘코인 해외 은닉 직접 지시 정황’ 유정복 사퇴 촉구 - 경향신문"
+        "ko": "스타벅스의 '콜 마이 네임' 서비스가 정치인 비하 닉네임을 허용하여 직원들이 혐오 표현에 노출되고 있으며, 과거 노동·성소수자 관련 표현은 차단했던 것과 대비되어 선택적 필터링 및 고객응대 노동자 보호 의무 태만이라는 비판을 받고 있다.",
+        "en": "Starbucks' \"Call My Name\" service is under fire for allowing derogatory political nicknames, exposing employees to hate speech, and is criticized for selective content filtering and negligence of customer service worker protection, especially given its past blocking of labor and LGBTQ+ related terms.",
+        "zh": "星巴克的“呼唤我的名字”服务因允许带有政治贬低意味的昵称而受到批评，导致员工暴露于仇恨言论，并被指责选择性过滤内容和疏忽对客服员工的保护义务，尤其考虑到其曾屏蔽劳动和性少数群体相关词汇。"
       }
     },
     {
-      "title": "[속보]삼전 노조, 성과급 74% 찬성 가결…비반도체노조는 21% 찬성 - 동아일보",
-      "link": "https://www.donga.com/news/Economy/article/all/20260527/133999479/1",
-      "source": "동아일보",
-      "pubDate": "Wed, 27 May 2026 01:32:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/27/133999575.1.jpg",
+      "title": "서소문 고가차도 붕괴 이상징후 있었는데···“슬래브 균열, 외부 확인 불가능했다” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605271714001",
+      "source": "경향신문",
+      "pubDate": "Wed, 27 May 2026 08:14:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/27/news-p.v1.20260527.e6b0236b49994cfdabf7a525513c0c33_P1.jpeg",
       "summaries": {
-        "ko": "[속보]삼전 노조, 성과급 74% 찬성 가결…비반도체노조는 21% 찬성 - 동아일보",
-        "en": "[속보]삼전 노조, 성과급 74% 찬성 가결…비반도체노조는 21% 찬성 - 동아일보",
-        "zh": "[속보]삼전 노조, 성과급 74% 찬성 가결…비반도체노조는 21% 찬성 - 동아일보"
-      }
-    },
-    {
-      "title": "“출근길 우산 챙기세요”…오늘 저녁까지 비 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1260552.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 26 May 2026 23:18:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/680/337/imgdb/original/2026/0527/20260527500245.webp",
-      "summaries": {
-        "ko": "“출근길 우산 챙기세요”…오늘 저녁까지 비 - 한겨레",
-        "en": "“출근길 우산 챙기세요”…오늘 저녁까지 비 - 한겨레",
-        "zh": "“출근길 우산 챙기세요”…오늘 저녁까지 비 - 한겨레"
-      }
-    },
-    {
-      "title": "D-8 KBS 여론조사…정원오 42%·오세훈 36% 오차범위 내 접전 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8570423",
-      "source": "KBS 뉴스",
-      "pubDate": "Tue, 26 May 2026 22:14:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/05/26/20260526_jeD3cB.png",
-      "summaries": {
-        "ko": "D-8 KBS 여론조사…정원오 42%·오세훈 36% 오차범위 내 접전 - KBS 뉴스",
-        "en": "D-8 KBS 여론조사…정원오 42%·오세훈 36% 오차범위 내 접전 - KBS 뉴스",
-        "zh": "D-8 KBS 여론조사…정원오 42%·오세훈 36% 오차범위 내 접전 - KBS 뉴스"
+        "ko": "서울 서소문 고가차도 붕괴 사고는 거더 처짐 등 이상 징후가 있었음에도 불구하고, 외부 확인이 어렵다는 이유와 책임감리단장의 판단에 따라 사전 안전 진단 없이 현장에 진입한 관계자들이 참변을 당한 사건이다.",
+        "en": "The Seosomun overpass collapse occurred when officials entered the demolition site without prior safety diagnosis, despite signs of girder sagging and other abnormalities, citing difficulties in external verification and reliance on the supervision manager's judgment, leading to a tragic accident.",
+        "zh": "首尔西小门高架桥坍塌事故发生时，尽管有梁体下沉等异常迹象，但相关人员以难以从外部确认裂缝和依赖监理团长判断为由，未经事前安全诊断就进入现场，最终导致了悲剧性伤亡。"
       }
     },
     {
@@ -122,15 +50,75 @@
       }
     },
     {
-      "title": "[속보] 이 대통령 \"'수서역 매몰사고' 수습 만전…호우 취약시설 재점검하라\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260527145602bMJ",
-      "source": "Breaking News",
-      "pubDate": "Wed, 27 May 2026 14:56:04 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260527/AKR20260527145602bMJ_01_i.jpg",
+      "title": "“NO 몇 번 말해야 돼” 트럼프의 ‘아브라함 협정’ 압박에 빈살만 격분 - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/05/27/HMEMOEZUVFHTPE3ARP6PAW34KU/",
+      "source": "조선일보",
+      "pubDate": "Wed, 27 May 2026 06:15:11 GMT",
+      "image": "https://www.chosun.com/resizer/v2/W4HNHETEXFCONASXKA2EGK6R5Y.jpg?auth=b834bc84548dca09153f99f5c2e4a9bf55ea6d91f4bafda90e171e52dc765fb5&width=1200&height=630&focal=415,450",
       "summaries": {
-        "ko": "[속보] 이 대통령 \"'수서역 매몰사고' 수습 만전…호우 취약시설 재점검하라\"",
-        "en": "[속보] 이 대통령 \"'수서역 매몰사고' 수습 만전…호우 취약시설 재점검하라\"",
-        "zh": "[속보] 이 대통령 \"'수서역 매몰사고' 수습 만전…호우 취약시설 재점검하라\""
+        "ko": "“NO 몇 번 말해야 돼” 트럼프의 ‘아브라함 협정’ 압박에 빈살만 격분 - 조선일보",
+        "en": "“NO 몇 번 말해야 돼” 트럼프의 ‘아브라함 협정’ 압박에 빈살만 격분 - 조선일보",
+        "zh": "“NO 몇 번 말해야 돼” 트럼프의 ‘아브라함 협정’ 압박에 빈살만 격분 - 조선일보"
+      }
+    },
+    {
+      "title": "한동훈 “박민식 찍으면 단순 사표 아니라 하정우 돕는 표” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260527/134000994/2",
+      "source": "동아일보",
+      "pubDate": "Wed, 27 May 2026 05:09:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/27/134000995.2.jpg",
+      "summaries": {
+        "ko": "한동훈 “박민식 찍으면 단순 사표 아니라 하정우 돕는 표” - 동아일보",
+        "en": "한동훈 “박민식 찍으면 단순 사표 아니라 하정우 돕는 표” - 동아일보",
+        "zh": "한동훈 “박민식 찍으면 단순 사표 아니라 하정우 돕는 표” - 동아일보"
+      }
+    },
+    {
+      "title": "경남 찾은 박근혜 \"경제전문가 박완수에게 맡겨 달라\" - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/05/27/QFW62FHHUVBJVH4JLXE4PAP3ZA/",
+      "source": "조선일보",
+      "pubDate": "Wed, 27 May 2026 07:22:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/2JXUOGBNGFMUTBWJQ237TXMMFQ.jpg?auth=3f80061d480a62b12c08f2b015f54b352f3f2ed400e588262b69dce0c93b99de&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "경남 찾은 박근혜 \"경제전문가 박완수에게 맡겨 달라\" - 조선일보",
+        "en": "경남 찾은 박근혜 \"경제전문가 박완수에게 맡겨 달라\" - 조선일보",
+        "zh": "경남 찾은 박근혜 \"경제전문가 박완수에게 맡겨 달라\" - 조선일보"
+      }
+    },
+    {
+      "title": "국힘 \"이재명 시장투어는 선거 개입‥서소문 사고 중 회 파티\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6825672_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Wed, 27 May 2026 08:11:09 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/27/hye_20260527_5.jpg",
+      "summaries": {
+        "ko": "국민의힘은 이재명 대통령이 서소문 사고 발생 중 부산 시장을 찾아 '회 파티'를 벌인 것을 노골적인 선거 개입이자 관권 선거라고 비판했다.",
+        "en": "The People Power Party criticized President Lee Jae-myung's market tour and 'sashimi party' in Busan during the Seosomun accident as blatant election interference and government-backed electioneering.",
+        "zh": "国民力量党批评李在明总统在西小门事故期间访问釜山市场并举行“生鱼片派对”，是公然干预选举和官权选举。"
+      }
+    },
+    {
+      "title": "주주단체 반발 \"노사합의 위법…대통령도 지적\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260527190534woj",
+      "source": "Breaking News",
+      "pubDate": "Wed, 27 May 2026 19:05:36 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260527/MYH20260527190534woj.jpg",
+      "summaries": {
+        "ko": "삼성전자 노사의 임금 잠정합의안이 사실상 가결됐지만, 주주단체는 영업이익의 일정 부분을 성과급으로 배분하는 것이 상법상 배당 절차를 우회한 위법이라며 반발하며 무효확인 소송 등을 예고했다.",
+        "en": "Although Samsung Electronics' provisional wage agreement was virtually approved, shareholder groups are strongly protesting, arguing that allocating a portion of operating profit as performance bonuses illegally circumvents dividend procedures, and are threatening lawsuits.",
+        "zh": "三星电子的临时工资协议虽然实际上已获通过，但股东团体强烈反对，声称将部分营业利润作为绩效奖金分配是规避股息分配程序的违法行为，并扬言将提起诉讼。"
+      }
+    },
+    {
+      "title": "이란의회 \"미국과 MOU에 '레바논 포함 휴전' 명시\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260527190355P7e",
+      "source": "Breaking News",
+      "pubDate": "Wed, 27 May 2026 19:03:57 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260527/AKR20260527190355P7e_01_i.jpg",
+      "summaries": {
+        "ko": "이란 의회 의원이 미국과의 초기 합의(MOU) 초안에 레바논을 포함한 모든 전선에서의 60일간의 포괄적 휴전과 동결 자산 해제, 해상봉쇄 종식이 명시되어 있다고 밝혔다.",
+        "en": "An Iranian parliament member announced that the draft initial agreement (MOU) with the U.S. stipulates a 60-day comprehensive ceasefire across all fronts, explicitly including Lebanon, along with the unfreezing of Iranian assets and the end of the maritime blockade.",
+        "zh": "伊朗议会一名议员表示，与美国初步协议（谅解备忘录）草案规定，美国将确保所有战线（包括黎巴嫩）停火60天，并解除伊朗冻结资产、结束海上封锁。"
       }
     }
   ]
