@@ -1,16 +1,16 @@
 {
-  "lastUpdate": "2026-05-27T16:53:42.529066",
+  "lastUpdate": "2026-05-27T19:11:24.250089",
   "items": [
     {
-      "title": "서소문 고가 붕괴 12시간 전 이상징후 발견…직전까지 ‘열차 통제’ 안 됐다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/area_general/1260675.html",
+      "title": "서소문 첫 징후 뒤 ‘12시간 보호 공백’…붕괴 90초 전에도 열차 달렸다 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1260688.html",
       "source": "한겨레",
-      "pubDate": "Wed, 27 May 2026 12:33:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/701/467/imgdb/original/2026/0527/20260527503230.webp",
+      "pubDate": "Wed, 27 May 2026 16:05:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0527/3117798789828514.webp",
       "summaries": {
-        "ko": "서소문 고가 붕괴 12시간 전 이상 징후가 발견되었음에도 서울시가 열차 운행을 통제하지 않았고, 안전 진단 중 거더가 무너지며 3명이 사망했다.",
-        "en": "Despite discovering signs of abnormality 12 hours before the Seosomun overpass collapse, Seoul City did not halt train operations, and a girder subsequently collapsed during a safety inspection, killing three people.",
-        "zh": "首尔市在西小门高架桥坍塌前12小时发现了异常迹象，但未停止列车运行，随后在安全检查过程中大梁坍塌，导致3人死亡。"
+        "ko": "서울 서소문 고가차도 붕괴 사고는 첫 징후 발생 후 약 12시간 동안 철로 통제 등 안전 조치가 사실상 전무하여 붕괴 90초 전까지도 열차가 통과하는 위험한 상황에서 발생하며 인명 피해를 냈다.",
+        "en": "Seoul's Seosomun Overpass collapse resulted in casualties after an approximately 12-hour protection gap following the first signs of trouble, during which virtually no safety measures like train track control were implemented, allowing trains to pass through the dangerous area until just 90 seconds before the collapse.",
+        "zh": "首尔西小门高架桥坍塌事故造成人员伤亡，原因是在出现首个异常迹象后长达约12小时的保护空白期内，几乎没有采取任何轨道交通管制等安全措施，导致火车在坍塌前90秒仍在危险区域通行。"
       }
     },
     {
@@ -20,21 +20,9 @@
       "pubDate": "Wed, 27 May 2026 12:47:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/05/27/l_2026052801000836900079661.jpg",
       "summaries": {
-        "ko": "정부는 호르무즈 해협에서 한국 선박 HMM 나무호를 공격한 비행체가 이란산 대함미사일일 가능성이 크다고 발표하며 이란 대사를 초치했지만, 이란은 개입을 부인했고 정부는 실익을 고려해 공격 주체를 단정하지는 않았다.",
-        "en": "The South Korean government announced that the flying object that attacked the Korean vessel HMM Namu in the Strait of Hormuz was highly likely an Iranian anti-ship missile and summoned the Iranian ambassador, but Iran denied involvement and the government refrained from definitively naming the perpetrator, considering practical gains.",
-        "zh": "韩国政府宣布，在霍尔木兹海峡袭击韩国船只HMM Namu的飞行器极有可能是伊朗制造的反舰导弹，并召见了伊朗大使，但伊朗否认介入，而韩国政府考虑到实际利益，并未断然指明攻击主体。"
-      }
-    },
-    {
-      "title": "\"고무보트로 한국 영해 들어온 중국인, 반체제인사 둥광핑\" - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260527231413tD8",
-      "source": "연합뉴스TV",
-      "pubDate": "Wed, 27 May 2026 14:14:15 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260527/AKR20260527231413tD8_01_i.jpg",
-      "summaries": {
-        "ko": "뉴욕타임스 보도에 따르면 한국 영해로 고무보트를 타고 들어왔다 체포된 중국인은 수차례 중국 탈출을 시도한 반체제 인사이자 인권 운동가 둥광핑으로 확인됐으며, 그는 캐나다 망명을 희망하고 있다.",
-        "en": "The New York Times reported that the Chinese national arrested after entering South Korean waters in a rubber boat has been identified as Dong Guangping, a human rights activist who has repeatedly attempted to escape China and is hoping for asylum in Canada.",
-        "zh": "据纽约时报报道，乘坐橡皮艇进入韩国领海并被捕的中国人被确认为董广平，他是一名多次试图逃离中国的异议人士和人权活动家，并希望前往加拿大寻求庇护。"
+        "ko": "정부는 호르무즈 해협에서 한국 선박 HMM 나무호를 공격한 비행체가 이란산 대함미사일일 가능성이 크다고 발표하며 이란 대사를 초치해 항의했으나, 이란은 개입을 부인했고 정부는 외교적 파장을 고려해 공격 주체를 단정하지는 않았다.",
+        "en": "The South Korean government announced that the flying object that attacked the Korean vessel HMM Namuho in the Strait of Hormuz was likely an Iranian anti-ship missile, and summoned the Iranian ambassador to protest, but Iran denied involvement and the government did not definitively identify the perpetrator, considering diplomatic implications.",
+        "zh": "韩国政府宣布，在霍尔木兹海峡袭击韩国船只HMM Namuho的飞行物很可能是伊朗反舰导弹，并召见了伊朗大使进行抗议，但伊朗否认介入，韩国政府考虑到外交影响，并未明确认定袭击主体。"
       }
     },
     {
@@ -50,15 +38,27 @@
       }
     },
     {
+      "title": "\"고무보트로 한국 영해 들어온 중국인, 반체제인사 둥광핑\" - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260527231413tD8",
+      "source": "연합뉴스TV",
+      "pubDate": "Wed, 27 May 2026 14:14:15 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260527/AKR20260527231413tD8_01_i.jpg",
+      "summaries": {
+        "ko": "고무보트를 타고 한국 영해에 진입하려다 체포된 중국인이 수차례 중국 탈출을 시도했던 인권운동가 둥광핑으로 확인됐으며, 그는 딸이 있는 캐나다로 망명하기를 희망하고 있다.",
+        "en": "A Chinese national arrested after attempting to enter South Korean waters on a rubber boat has been identified as Dong Guangping, a human rights activist who made multiple attempts to flee China and hopes to seek asylum in Canada where his daughter resides.",
+        "zh": "乘坐橡皮艇试图进入韩国领海时被捕的中国人被确认为董广平，他是一名多次试图逃离中国的人权活动家，希望前往其女儿居住的加拿大寻求庇护。"
+      }
+    },
+    {
       "title": "[속보]미·이란 종전 협상안 초안에 “호르무즈 통행 한달 내 복원” 담겨···이란 매체 보도 - 경향신문",
       "link": "https://www.khan.co.kr/article/202605272150001",
       "source": "경향신문",
       "pubDate": "Wed, 27 May 2026 12:50:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/05/27/rcv.YNA.20260526.PEP20260526125501009_P1.jpg",
       "summaries": {
-        "ko": "이란 매체가 미·이란 종전 양해각서(MOU) 초안에 호르무즈 해협의 한 달 내 상선 통행 복원과 미군 해상 봉쇄 해제 내용이 포함되었다고 보도했다.",
-        "en": "Iran's state media reported a leaked draft US-Iran peace memorandum (MOU) containing provisions for restoring commercial shipping through the Strait of Hormuz within a month and lifting the US naval blockade.",
-        "zh": "据伊朗媒体报道，泄露的美伊和平谅解备忘录（MOU）草案包含在一个月内恢复霍尔木兹海峡商船通行并解除美军海上封锁的内容。"
+        "ko": "미국과 이란 간 종전 협상 초안에 이란이 한 달 내 호르무즈 해협 상선 통행을 복원하고 미군은 해상 봉쇄를 해제하는 내용이 담겼다는 보도가 나오면서 유가가 하락했다.",
+        "en": "A reported draft of a US-Iran peace MOU, including Iran restoring merchant shipping in the Hormuz Strait within a month and the US lifting its naval blockade, has led to a drop in oil prices.",
+        "zh": "据报道，美国与伊朗和平谅解备忘录草案包含伊朗在一个月内恢复霍尔木兹海峡商船通行以及美国解除海上封锁的内容，受此影响油价下跌。"
       }
     },
     {
@@ -68,45 +68,33 @@
       "pubDate": "Wed, 27 May 2026 12:24:00 GMT",
       "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
       "summaries": {
-        "ko": "정부는 핵추진잠수함 개발을 위해 특별법으로 역대 최대 예산을 확보하고 우라늄 농축 권한을 두고 미국과 협상하며 국제사회 비확산 신뢰를 구축해야 하는 등 여러 난관에 직면했다.",
-        "en": "South Korea's plan to develop nuclear-powered submarines faces significant hurdles, including securing a record-high budget through special legislation, complex negotiations with the U.S. for uranium enrichment rights, and addressing international non-proliferation concerns.",
-        "zh": "韩国政府推进核动力潜艇开发计划面临多重挑战，包括需通过特别法案筹集巨额预算、与美国协商铀浓缩权限，以及建立国际社会核不扩散信任。"
+        "ko": "정부가 역대 최대 규모인 핵추진잠수함 개발을 추진하면서 특별법 제정을 통한 예산 확보, 우라늄 농축 권한에 대한 미국과의 협상, 그리고 국제사회 신뢰 확보 등 복합적인 난관에 직면했다.",
+        "en": "The South Korean government is pursuing the development of nuclear-powered submarines, a project of unprecedented scale, facing complex challenges including securing a vast budget through special legislation, negotiating with the United States for uranium enrichment rights, and building international trust.",
+        "zh": "韩国政府正在推进规模空前的核动力潜艇开发项目，面临着多重复杂挑战，包括通过制定特别法筹集巨额预算、就铀浓缩权限与美国进行谈判以及争取国际社会信任等。"
       }
     },
     {
-      "title": "박근혜, 부산 기장시장 방문…박형준·박민식 힘 싣기 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260527154600051",
+      "title": "부산에도 힘 실어준 박근혜, 박형준·박민식 지원 유세 - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/05/27/FG2YH5KPDVDHPKMZLCGSKM3LMY/",
+      "source": "조선일보",
+      "pubDate": "Wed, 27 May 2026 09:47:43 GMT",
+      "image": "https://www.chosun.com/resizer/v2/Y3RBEQWYBZMJLK743PZX6R4HHI.jpg?auth=9b0369552d96073ce0ae235b2f4dcec6ca17fade81002a2ba842e7493261cd8a&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "부산에도 힘 실어준 박근혜, 박형준·박민식 지원 유세 - 조선일보",
+        "en": "부산에도 힘 실어준 박근혜, 박형준·박민식 지원 유세 - 조선일보",
+        "zh": "부산에도 힘 실어준 박근혜, 박형준·박민식 지원 유세 - 조선일보"
+      }
+    },
+    {
+      "title": "李대통령 \"부산 BTS 공연 관련 숙박업소 바가지, 개선 좀 해야\" - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260527118900001",
       "source": "연합뉴스",
-      "pubDate": "Wed, 27 May 2026 09:39:05 GMT",
-      "image": "https://img8.yna.co.kr/photo/yna/YH/2026/05/27/PYH2026052720360001300_P4.jpg",
+      "pubDate": "Wed, 27 May 2026 06:21:37 GMT",
+      "image": "https://img8.yna.co.kr/photo/yna/YH/2026/05/27/PYH2026052711810001300_P4.jpg",
       "summaries": {
-        "ko": "박근혜 전 대통령이 지방선거를 앞두고 부산 기장시장을 방문해 국민의힘 박형준 부산시장 후보와 박민식 북갑 국회의원 보궐선거 후보를 지원하며 승리를 위한 보수대통합의 필요성을 강조했다.",
-        "en": "Former President Park Geun-hye visited Busan's Gijang Market to support People Power Party candidates Park Hyeong-jun (for Busan mayor) and Park Min-sik (for Buk-gap National Assembly by-election), emphasizing the necessity of conservative unity for victory ahead of the local elections.",
-        "zh": "前总统朴槿惠访问釜山机张市场，支持国民力量党候选人朴亨埈（釜山市长候选人）和朴敏植（北区甲国会议员补选候选人），并强调在地方选举前为取得胜利实现保守派大团结的必要性。"
-      }
-    },
-    {
-      "title": "이 대통령, 부산 BTS 공연 ‘바가지 숙소’ 질타 “온 동네 민폐···업체 명단 공개해야” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605271609001",
-      "source": "경향신문",
-      "pubDate": "Wed, 27 May 2026 07:09:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/27/news-p.v1.20260527.440d761d74c0400382717ea4fe4a69ba_P1.jpeg",
-      "summaries": {
-        "ko": "이 대통령, 부산 BTS 공연 ‘바가지 숙소’ 질타 “온 동네 민폐···업체 명단 공개해야” - 경향신문",
-        "en": "이 대통령, 부산 BTS 공연 ‘바가지 숙소’ 질타 “온 동네 민폐···업체 명단 공개해야” - 경향신문",
-        "zh": "이 대통령, 부산 BTS 공연 ‘바가지 숙소’ 질타 “온 동네 민폐···업체 명단 공개해야” - 경향신문"
-      }
-    },
-    {
-      "title": "막판 요동치는 판세…여야, 결집 총력 속 승부 ‘안갯속’ - 경기일보",
-      "link": "https://www.kyeonggi.com/article/20260527580485",
-      "source": "경기일보",
-      "pubDate": "Wed, 27 May 2026 08:51:00 GMT",
-      "image": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/05/27/.cache/512/20260527580486.jpg?v=20260528015337",
-      "summaries": {
-        "ko": "막판 요동치는 판세…여야, 결집 총력 속 승부 ‘안갯속’ - 경기일보",
-        "en": "막판 요동치는 판세…여야, 결집 총력 속 승부 ‘안갯속’ - 경기일보",
-        "zh": "막판 요동치는 판세…여야, 결집 총력 속 승부 ‘안갯속’ - 경기일보"
+        "ko": "이재명 대통령은 부산 BTS 공연 관련 숙박업소의 바가지 요금 및 기존 예약 취소 후 고가 재판매 행위가 부산의 이미지와 관광 산업에 치명적이라고 지적하며, 해당 업체 명단 공개 등 개선책 마련을 촉구했다.",
+        "en": "President Lee Jae-myung criticized Busan's accommodation providers for price gouging and canceling existing reservations to resell at exorbitant prices in relation to the upcoming BTS concert, stating that such practices severely damage the city's image and tourism industry, and called for improvements including the public disclosure of offending businesses.",
+        "zh": "李在明总统批评釜山住宿业者针对即将举行的防弹少年团(BTS)演唱会进行价格欺诈并取消现有预订后以高价转售的行为，指出此类做法严重损害了城市形象和旅游业，并呼吁采取改进措施，包括公开不法业者名单。"
       }
     },
     {
@@ -122,6 +110,30 @@
       }
     },
     {
+      "title": "경찰, LG 마곡센터서 칼부림 협력업체 직원 상암서 체포(종합) - 뉴스1",
+      "link": "https://www.news1.kr/society/incident-accident/6179022",
+      "source": "뉴스1",
+      "pubDate": "Wed, 27 May 2026 05:31:27 GMT",
+      "image": "https://i3n.news1.kr/system/photos/2026/5/27/7927784/high.jpg",
+      "summaries": {
+        "ko": "경찰, LG 마곡센터서 칼부림 협력업체 직원 상암서 체포(종합) - 뉴스1",
+        "en": "경찰, LG 마곡센터서 칼부림 협력업체 직원 상암서 체포(종합) - 뉴스1",
+        "zh": "경찰, LG 마곡센터서 칼부림 협력업체 직원 상암서 체포(종합) - 뉴스1"
+      }
+    },
+    {
+      "title": "[속보] 트럼프 \"중·러가 이란의 고농축우라늄 가져가면 불편할 것\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260528020923I0U",
+      "source": "Breaking News",
+      "pubDate": "Thu, 28 May 2026 02:09:25 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260527/AKR20260528020923I0U_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] 트럼프 \"중·러가 이란의 고농축우라늄 가져가면 불편할 것\"",
+        "en": "[속보] 트럼프 \"중·러가 이란의 고농축우라늄 가져가면 불편할 것\"",
+        "zh": "[속보] 트럼프 \"중·러가 이란의 고농축우라늄 가져가면 불편할 것\""
+      }
+    },
+    {
       "title": "[속보] 美국무, 이란 협상에 \"향후 몇시간·며칠내 진전 이뤄질지 봐야\"",
       "link": "https://www.yonhapnewstv.co.kr/news/AKR20260528012840My0",
       "source": "Breaking News",
@@ -131,18 +143,6 @@
         "ko": "[속보] 美국무, 이란 협상에 \"향후 몇시간·며칠내 진전 이뤄질지 봐야\"",
         "en": "[속보] 美국무, 이란 협상에 \"향후 몇시간·며칠내 진전 이뤄질지 봐야\"",
         "zh": "[속보] 美국무, 이란 협상에 \"향후 몇시간·며칠내 진전 이뤄질지 봐야\""
-      }
-    },
-    {
-      "title": "[속보] 트럼프, 이란과 종전 협상에 \"지금까지는 만족하지 않아\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202605280110141XD",
-      "source": "Breaking News",
-      "pubDate": "Thu, 28 May 2026 01:10:14 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260527/AKR202605280110141XD_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 트럼프, 이란과 종전 협상에 \"지금까지는 만족하지 않아\"",
-        "en": "[속보] 트럼프, 이란과 종전 협상에 \"지금까지는 만족하지 않아\"",
-        "zh": "[속보] 트럼프, 이란과 종전 협상에 \"지금까지는 만족하지 않아\""
       }
     }
   ]
