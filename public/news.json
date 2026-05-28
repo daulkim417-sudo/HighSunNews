@@ -1,6 +1,30 @@
 {
-  "lastUpdate": "2026-05-28T05:40:58.942417",
+  "lastUpdate": "2026-05-28T09:02:56.188930",
   "items": [
+    {
+      "title": "사고 사흘째 아무도 사과하지 않는 서소문 고가 붕괴사고···처벌 대상 어디까지 확대될까 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605281744001",
+      "source": "경향신문",
+      "pubDate": "Thu, 28 May 2026 08:44:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/28/news-p.v1.20260526.1f163248447646c6a8c56970417bd433_P1.jpg",
+      "summaries": {
+        "ko": "서소문 고가 붕괴사고 발생 사흘째 책임지는 곳이 없는 가운데, 경찰은 공사 관계자들의 산업안전보건법 및 중대재해처벌법 위반 가능성을 수사하며 발주처인 서울시가 공사 현장에 대한 실질적 지배·관리 권한을 행사한 도급인 지위로 처벌받을지 여부에 주목하고 있다.",
+        "en": "Three days after the Seosomun overpass collapse, with no one taking responsibility, police are investigating potential violations of industrial safety laws, particularly whether Seoul City, as the client, can be held liable as a de facto principal contractor due to its substantial control over the site.",
+        "zh": "西小门高架桥坍塌事故发生三天后，仍无任何一方承担责任，警方正在调查相关人员可能违反工业安全法的情况，并特别关注作为发包方的首尔市是否因对施工现场的实质性支配和管理权而被认定为实际承包人并承担责任。"
+      }
+    },
+    {
+      "title": "이스라엘 석방 활동가들 ″나포 당시 성추행·성폭행″…이스라엘 ″근거 없어″ - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260528171408OOI",
+      "source": "연합뉴스TV",
+      "pubDate": "Thu, 28 May 2026 08:14:10 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260528/AKR20260528171408OOI_01_i.jpg",
+      "summaries": {
+        "ko": "이스라엘군에 나포됐다 석방된 활동가들이 기자회견을 열고 구금 중 이스라엘군의 성추행, 성폭행 등 가혹 행위와 고문이 있었다고 주장하며 이스라엘 총리에 대한 체포 영장 발부를 촉구했습니다.",
+        "en": "Activists released after being seized by the Israeli military held a press conference, accusing Israeli soldiers of sexual assault, rape, and torture during their detention, and called for an arrest warrant for the Israeli Prime Minister.",
+        "zh": "被以色列军队扣押后获释的活动家们举行新闻发布会，指控以色列军方在拘留期间实施性侵犯、强奸和酷刑等暴行，并呼吁对以色列总理发出逮捕令。"
+      }
+    },
     {
       "title": "28일부터 여론조사 공표 금지…부산 북갑·평택을 초접전 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1260678.html",
@@ -8,117 +32,105 @@
       "pubDate": "Thu, 28 May 2026 02:31:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0527/53_17798740683429_20260527503242.webp",
       "summaries": {
-        "ko": "28일부터 재보궐선거 여론조사 공표가 금지되는 가운데 부산 북갑과 경기 평택을 등 4곳이 초접전 양상을 보이며, 특히 부산 북갑에서는 민주당 하정우 후보와 무소속 한동훈 후보가, 평택을에서는 김용남, 조국, 유의동 후보가 치열한 경쟁을 펼치고 있다.",
-        "en": "As the ban on releasing by-election opinion polls begins on the 28th, four constituencies, including Busan Buk-gap and Gyeonggi Pyeongtaek-eul, are witnessing extremely close races, with Democratic Party candidate Ha Jung-woo and independent Han Dong-hoon fiercely competing in Busan Buk-gap, and candidates Kim Yong-nam, Cho Kuk, and Yoo Ui-dong vying in Pyeongtaek-eul.",
-        "zh": "随着补选民意调查公布禁令于28日生效，釜山北甲和京畿平泽乙等四个选区呈现出异常激烈的竞争，其中釜山北甲由民主党候选人河正宇和无党派候选人韩东勋展开激烈角逐，而平泽乙则由金龙男、曹国和刘义东候选人展开激烈竞争。"
+        "ko": "28일부터 여론조사 공표 금지…부산 북갑·평택을 초접전 - 한겨레",
+        "en": "28일부터 여론조사 공표 금지…부산 북갑·평택을 초접전 - 한겨레",
+        "zh": "28일부터 여론조사 공표 금지…부산 북갑·평택을 초접전 - 한겨레"
       }
     },
     {
-      "title": "쿠웨이트, 미사일·드론 피격…“적대적 공격에 방공망 가동” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8572240",
-      "source": "KBS 뉴스",
-      "pubDate": "Thu, 28 May 2026 04:01:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/05/28/20260528_fMTqxc.jpg",
+      "title": "이란, 미군 기지 보복 공습 \"책임은 침략자에 있어\" - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/05/28/CTZDCTKYUJCHPALLWSV4NP2NKU/",
+      "source": "조선일보",
+      "pubDate": "Thu, 28 May 2026 05:25:08 GMT",
+      "image": "https://www.chosun.com/resizer/v2/JFNYEMFREVIFJKRRG6XRX3RRIQ.jpg?auth=540bfede571b4e5dab65cecc23344a95ac7d3898c3f853312e19b28a296a8b2b&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "쿠웨이트, 미사일·드론 피격…“적대적 공격에 방공망 가동” - KBS 뉴스",
-        "en": "쿠웨이트, 미사일·드론 피격…“적대적 공격에 방공망 가동” - KBS 뉴스",
-        "zh": "쿠웨이트, 미사일·드론 피격…“적대적 공격에 방공망 가동” - KBS 뉴스"
+        "ko": "이란, 미군 기지 보복 공습 \"책임은 침략자에 있어\" - 조선일보",
+        "en": "이란, 미군 기지 보복 공습 \"책임은 침략자에 있어\" - 조선일보",
+        "zh": "이란, 미군 기지 보복 공습 \"책임은 침략자에 있어\" - 조선일보"
       }
     },
     {
-      "title": "“서소문 고가, 침하 발견 직후 지지대 설치하고 조사했어야” - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260527/134005274/1",
-      "source": "동아일보",
-      "pubDate": "Wed, 27 May 2026 10:58:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/27/134005324.1.jpg",
+      "title": "정청래, ′부정부패 이재명′ 말실수에 ″정말 죄송″ - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202605281723223gs",
+      "source": "연합뉴스TV",
+      "pubDate": "Thu, 28 May 2026 08:23:22 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260528/AKR202605281723223gs_01_i.jpg",
       "summaries": {
-        "ko": "“서소문 고가, 침하 발견 직후 지지대 설치하고 조사했어야” - 동아일보",
-        "en": "“서소문 고가, 침하 발견 직후 지지대 설치하고 조사했어야” - 동아일보",
-        "zh": "“서소문 고가, 침하 발견 직후 지지대 설치하고 조사했어야” - 동아일보"
+        "ko": "정청래, ′부정부패 이재명′ 말실수에 ″정말 죄송″ - 연합뉴스TV",
+        "en": "정청래, ′부정부패 이재명′ 말실수에 ″정말 죄송″ - 연합뉴스TV",
+        "zh": "정청래, ′부정부패 이재명′ 말실수에 ″정말 죄송″ - 연합뉴스TV"
       }
     },
     {
-      "title": "내일부터 이틀간 사전투표…전국 투표소 어디서나 가능 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605280807001",
+      "title": "[MBC여론조사] 서울시장, 정원오 41% vs 오세훈 37%‥오차범위 내 접전 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6825934_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Thu, 28 May 2026 07:00:24 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/28/joo260528_po_s1.jpg",
+      "summaries": {
+        "ko": "[MBC여론조사] 서울시장, 정원오 41% vs 오세훈 37%‥오차범위 내 접전 - MBC 뉴스",
+        "en": "[MBC여론조사] 서울시장, 정원오 41% vs 오세훈 37%‥오차범위 내 접전 - MBC 뉴스",
+        "zh": "[MBC여론조사] 서울시장, 정원오 41% vs 오세훈 37%‥오차범위 내 접전 - MBC 뉴스"
+      }
+    },
+    {
+      "title": "李대통령 \"서소문 고가차도 철거 사고·삼성역 철근 누락, 책임물어야\" - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/05/28/RUABFVB4GVCDFFSL3CUCBVLFSA/",
+      "source": "조선일보",
+      "pubDate": "Thu, 28 May 2026 05:25:25 GMT",
+      "image": "https://www.chosun.com/resizer/v2/H7ZJGS2MDFPQNHT2YA6MHJBSP4.jpg?auth=4562bad4323ca6a957cd151c722c866dac25975866bf7290449ffa7aa046e0bd&width=1200&height=630&focal=2010,797",
+      "summaries": {
+        "ko": "李대통령 \"서소문 고가차도 철거 사고·삼성역 철근 누락, 책임물어야\" - 조선일보",
+        "en": "李대통령 \"서소문 고가차도 철거 사고·삼성역 철근 누락, 책임물어야\" - 조선일보",
+        "zh": "李대통령 \"서소문 고가차도 철거 사고·삼성역 철근 누락, 책임물어야\" - 조선일보"
+      }
+    },
+    {
+      "title": "[속보]윤석열, ‘한덕수 재판 위증’ 혐의 무죄 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605281010001",
       "source": "경향신문",
-      "pubDate": "Wed, 27 May 2026 23:07:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/28/news-p.v1.20260528.56d7ffea4b8e49608a64769a36082d84_P1.jpeg",
+      "pubDate": "Thu, 28 May 2026 01:10:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/28/news-p.v1.20260526.e1aff7d30f774b2d974265a8f1004b70_P1.jpg",
       "summaries": {
-        "ko": "내일부터 이틀간 사전투표…전국 투표소 어디서나 가능 - 경향신문",
-        "en": "내일부터 이틀간 사전투표…전국 투표소 어디서나 가능 - 경향신문",
-        "zh": "내일부터 이틀간 사전투표…전국 투표소 어디서나 가능 - 경향신문"
+        "ko": "[속보]윤석열, ‘한덕수 재판 위증’ 혐의 무죄 - 경향신문",
+        "en": "[속보]윤석열, ‘한덕수 재판 위증’ 혐의 무죄 - 경향신문",
+        "zh": "[속보]윤석열, ‘한덕수 재판 위증’ 혐의 무죄 - 경향신문"
       }
     },
     {
-      "title": "“경이로운 호전성”…트럼프 ‘공격 대상’ 국가 무려 15개 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1260738.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 28 May 2026 01:20:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0528/53_17799243154136_20260528500265.webp",
+      "title": "\"스타벅스 거리두기 확산\"…협업도 줄줄이 재검토",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260528175926JTa",
+      "source": "Breaking News",
+      "pubDate": "Thu, 28 May 2026 17:59:28 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260528/MYH20260528175926JTa.jpg",
       "summaries": {
-        "ko": "“경이로운 호전성”…트럼프 ‘공격 대상’ 국가 무려 15개 - 한겨레",
-        "en": "“경이로운 호전성”…트럼프 ‘공격 대상’ 국가 무려 15개 - 한겨레",
-        "zh": "“경이로운 호전성”…트럼프 ‘공격 대상’ 국가 무려 15개 - 한겨레"
+        "ko": "\"스타벅스 거리두기 확산\"…협업도 줄줄이 재검토",
+        "en": "\"스타벅스 거리두기 확산\"…협업도 줄줄이 재검토",
+        "zh": "\"스타벅스 거리두기 확산\"…협업도 줄줄이 재검토"
       }
     },
     {
-      "title": "“尹, 계엄 국무회의 계획 있었다” 법원, ‘한덕수 재판서 위증’ 1심 무죄 - 조선일보",
-      "link": "https://www.chosun.com/national/court_law/2026/05/28/FRWINYUTMJE57HRN34WMMDOYWQ/",
-      "source": "조선일보",
-      "pubDate": "Thu, 28 May 2026 01:08:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MNSTAMBXHEYDGYZZGQYWIOBRGE.jpg?auth=4b9f873354c8094d4847744f7102ba2571970c6cc91feb4cfdca1541000dd220&width=720&height=378&focal=378,161",
+      "title": "카카오 정신아 대표, 임금교섭 결렬에 \"우려 해소 못해 송구\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260528175734lii",
+      "source": "Breaking News",
+      "pubDate": "Thu, 28 May 2026 17:57:36 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260528/MYH20260528175734lii.jpg",
       "summaries": {
-        "ko": "“尹, 계엄 국무회의 계획 있었다” 법원, ‘한덕수 재판서 위증’ 1심 무죄 - 조선일보",
-        "en": "“尹, 계엄 국무회의 계획 있었다” 법원, ‘한덕수 재판서 위증’ 1심 무죄 - 조선일보",
-        "zh": "“尹, 계엄 국무회의 계획 있었다” 법원, ‘한덕수 재판서 위증’ 1심 무죄 - 조선일보"
+        "ko": "카카오 정신아 대표, 임금교섭 결렬에 \"우려 해소 못해 송구\"",
+        "en": "카카오 정신아 대표, 임금교섭 결렬에 \"우려 해소 못해 송구\"",
+        "zh": "카카오 정신아 대표, 임금교섭 결렬에 \"우려 해소 못해 송구\""
       }
     },
     {
-      "title": "정원오 49.6% vs 오세훈 36.4%… 전재수 45.8% vs 박형준 39.5%… 김부겸 41.8% vs 추경호 45.1% - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260528/134006179/2",
-      "source": "동아일보",
-      "pubDate": "Wed, 27 May 2026 19:32:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/28/134006458.1.jpg",
+      "title": "[속보] 민주당·진보당, 울산시장 후보 민주 김상욱으로 단일화",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260528175519WEt",
+      "source": "Breaking News",
+      "pubDate": "Thu, 28 May 2026 17:55:21 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260528/AKR20260528175519WEt_01_i.jpg",
       "summaries": {
-        "ko": "정원오 49.6% vs 오세훈 36.4%… 전재수 45.8% vs 박형준 39.5%… 김부겸 41.8% vs 추경호 45.1% - 동아일보",
-        "en": "정원오 49.6% vs 오세훈 36.4%… 전재수 45.8% vs 박형준 39.5%… 김부겸 41.8% vs 추경호 45.1% - 동아일보",
-        "zh": "정원오 49.6% vs 오세훈 36.4%… 전재수 45.8% vs 박형준 39.5%… 김부겸 41.8% vs 추경호 45.1% - 동아일보"
-      }
-    },
-    {
-      "title": "격전지 찾은 李대통령과 박근혜… 한날 부산서 ‘시장 투어’ - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/05/28/NQTHUT3JHRDXHBTRMA5SUIAFEE/",
-      "source": "조선일보",
-      "pubDate": "Wed, 27 May 2026 15:50:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/CXUNF7EJ6FAIJPAQHQUSTIROXI.jpg?auth=b320691a53a07fd91fbfabb1afb91f3d83520665d9f723fbd5056c666e57db0f&width=1200&height=630&focal=805,221",
-      "summaries": {
-        "ko": "격전지 찾은 李대통령과 박근혜… 한날 부산서 ‘시장 투어’ - 조선일보",
-        "en": "격전지 찾은 李대통령과 박근혜… 한날 부산서 ‘시장 투어’ - 조선일보",
-        "zh": "격전지 찾은 李대통령과 박근혜… 한날 부산서 ‘시장 투어’ - 조선일보"
-      }
-    },
-    {
-      "title": "민주당 전북도의원들 \"무소속 김관영 지지는 당에 대한 공격\" - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260528068800055",
-      "source": "연합뉴스",
-      "pubDate": "Thu, 28 May 2026 01:59:33 GMT",
-      "image": "https://img8.yna.co.kr/etc/inner/KR/2026/05/28/AKR20260528068800055_01_i_P4.jpg",
-      "summaries": {
-        "ko": "민주당 전북도의원들 \"무소속 김관영 지지는 당에 대한 공격\" - 연합뉴스",
-        "en": "민주당 전북도의원들 \"무소속 김관영 지지는 당에 대한 공격\" - 연합뉴스",
-        "zh": "민주당 전북도의원들 \"무소속 김관영 지지는 당에 대한 공격\" - 연합뉴스"
-      }
-    },
-    {
-      "title": "박근혜 뛴다지만…김종인 “선거의 여왕 옛말, 분위기 이미 확정” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260562.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 27 May 2026 08:23:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0527/53_17798449680495_4717798449398451.webp",
-      "summaries": {
-        "ko": "박근혜 뛴다지만…김종인 “선거의 여왕 옛말, 분위기 이미 확정” - 한겨레",
-        "en": "박근혜 뛴다지만…김종인 “선거의 여왕 옛말, 분위기 이미 확정” - 한겨레",
-        "zh": "박근혜 뛴다지만…김종인 “선거의 여왕 옛말, 분위기 이미 확정” - 한겨레"
+        "ko": "[속보] 민주당·진보당, 울산시장 후보 민주 김상욱으로 단일화",
+        "en": "[속보] 민주당·진보당, 울산시장 후보 민주 김상욱으로 단일화",
+        "zh": "[속보] 민주당·진보당, 울산시장 후보 민주 김상욱으로 단일화"
       }
     }
   ]
