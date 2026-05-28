@@ -1,148 +1,124 @@
 {
-  "lastUpdate": "2026-05-28T12:40:25.261196",
+  "lastUpdate": "2026-05-28T16:42:10.852021",
   "items": [
     {
-      "title": "[단독] 승객 탄 열차 59대, 붕괴 직전 서소문 고가 통과…12시간 무방비 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1260809.html",
+      "title": "서울·대구는 접전, 부산은 전재수 우세 흐름…‘블랙아웃’ 전 마지막 여론조사 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260916.html",
       "source": "한겨레",
-      "pubDate": "Thu, 28 May 2026 08:06:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/860/573/imgdb/original/2026/0528/20260528502385.webp",
+      "pubDate": "Thu, 28 May 2026 13:29:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/343/imgdb/original/2026/0528/20260528503655.webp",
       "summaries": {
-        "ko": "서소문 고가차도 붕괴 당일, 위험 감지 이후에도 승객 열차 59대가 12시간 무방비로 통과한 사실이 드러나면서 서울시와 코레일 간 책임 공방이 가열되고 있다.",
-        "en": "On the day of the Seosomun overpass collapse, it was revealed that 59 passenger trains passed beneath it for 12 hours unprotected even after danger was detected, leading to an intensified blame game between Seoul City and Korail.",
-        "zh": "首尔西小门高架桥坍塌当天，尽管危险已被察觉，仍有59趟载客列车在12小时内毫无防备地通过了下方，引发首尔市与韩国铁道公社（Korail）之间日益激烈的责任争论。"
+        "ko": "선거 여론조사 '블랙아웃' 기간 직전 발표된 여론조사 결과, 서울과 대구 시장 선거는 여야 후보들이 접전을 벌이는 반면 부산 시장 선거에서는 더불어민주당 전재수 후보가 오차범위 밖에서 앞서는 것으로 나타났다.",
+        "en": "Just before the 'blackout' period for election polls, surveys indicated that the Seoul and Daegu mayoral elections were close contests between ruling and opposition candidates, while Democratic Party candidate Jeon Jae-soo was leading outside the margin of error in the Busan mayoral race.",
+        "zh": "在选举民意调查“静默期”开始前夕，民调显示首尔和大邱市长选举中执政党和在野党候选人竞争激烈，而釜山市长选举中，民主党候选人全在秀则以超出误差范围的优势领先。"
       }
     },
     {
-      "title": "\"짜치고 없어보여\" \"검사 취조냐\" 부산 북갑 후보자들 거친 공격 - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/05/28/JR3HAWKMVRCJNELICJYIZIBTAA/",
-      "source": "조선일보",
-      "pubDate": "Thu, 28 May 2026 10:40:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/EM2IW4PGRNAUBAQWIBM4F5WJ44.JPG?auth=59f5e38687e07c0cc393e100da6b3a7afe57e5ea8df3f4fa09fd7ed82cf85d46&width=1200&height=630&focal=1286,441",
-      "summaries": {
-        "ko": "\"짜치고 없어보여\" \"검사 취조냐\" 부산 북갑 후보자들 거친 공격 - 조선일보",
-        "en": "\"짜치고 없어보여\" \"검사 취조냐\" 부산 북갑 후보자들 거친 공격 - 조선일보",
-        "zh": "\"짜치고 없어보여\" \"검사 취조냐\" 부산 북갑 후보자들 거친 공격 - 조선일보"
-      }
-    },
-    {
-      "title": "울산시장 민주 김상욱으로 단일화, 평택을·부산 북갑은 단일화 무산 수순 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605281907001",
+      "title": "[부산시장 여론조사] MBC, 전재수 47%·박형준 34%…JTBC, 전재수 46%·박형준 37% - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605282017001",
       "source": "경향신문",
-      "pubDate": "Thu, 28 May 2026 10:07:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/28/news-p.v1.20260520.f67db620971f41b3888d5ffe678229d2_P1.jpeg",
+      "pubDate": "Thu, 28 May 2026 11:17:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/28/news-p.v1.20260524.9909b25d322a4f1a8501ebe264fdb16c_P1.jpg",
       "summaries": {
-        "ko": "더불어민주당과 진보당은 울산시장 후보를 김상욱으로 단일화했지만, 경기 평택을 국회의원 재선거와 부산 북갑 국회의원 보궐선거에서는 각 진영의 후보 단일화가 무산되거나 난항을 겪고 있다.",
-        "en": "The Democratic Party and Progressive Party unified their Ulsan mayoral candidate as Kim Sang-wook, but candidate unification efforts have failed or are facing difficulties in the Gyeonggi Pyeongtaek-eul parliamentary by-election and the Busan Buk-gap parliamentary by-election.",
-        "zh": "民主党和进步党在蔚山市长选举中推选金相旭为单一候选人，但在京畿平泽乙国会议员补选和釜山北甲国会议员补选中，各阵营的候选人单一化努力均已失败或面临困境。"
+        "ko": "여론조사 결과, 6·3 지방선거 사전투표를 앞두고 부산시장 선거에서 더불어민주당 전재수 후보가 국민의힘 박형준 후보를 오차범위 밖에서 앞선 반면, 서울시장과 대구시장 선거는 오차범위 내 초접전을 벌이는 것으로 나타났다.",
+        "en": "According to recent polls, ahead of early voting for the June 3 local elections, Democratic Party candidate Jeon Jae-soo leads People Power Party candidate Park Hyeong-jun outside the error margin in the Busan mayoral race, while the Seoul and Daegu mayoral elections are in a tight contest within the error margin.",
+        "zh": "民意调查结果显示，在6月3日地方选举提前投票前夕，釜山市长选举中，民主党候选人全在秀在误差范围外领先国民力量党候选人朴亨埈，而首尔市长和大邱市长选举则在误差范围内呈现胶着状态。"
       }
     },
     {
-      "title": "이 대통령 “구의역 참사 10주기…‘안전보다 돈’ 못된 관행 여전” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605282127005",
+      "title": "서소문 고가차도 철거 재개... 노동부 조건부 승인, 서울시 \"30일 첫차 운행 목표\" - 조선일보",
+      "link": "https://www.chosun.com/national/labor/2026/05/28/SJPGYEDVYVCVRHSLEA6BIO3LMU/",
+      "source": "조선일보",
+      "pubDate": "Thu, 28 May 2026 12:54:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/G5RTENRTGI2TEZRWHBRTSZJVMY.jpg?auth=7ca5c92116f5d055182cb21334d8c74e1d75f041dad4bc472d91284a0767082f&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "서소문 고가차도 철거 재개... 노동부 조건부 승인, 서울시 \"30일 첫차 운행 목표\" - 조선일보",
+        "en": "서소문 고가차도 철거 재개... 노동부 조건부 승인, 서울시 \"30일 첫차 운행 목표\" - 조선일보",
+        "zh": "서소문 고가차도 철거 재개... 노동부 조건부 승인, 서울시 \"30일 첫차 운행 목표\" - 조선일보"
+      }
+    },
+    {
+      "title": "박근혜 국정농단 묻자…하정우·박민식·한동훈, 마이크 꺼져도 날선 공방 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260880.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 28 May 2026 13:17:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/668/imgdb/original/2026/0528/20260528503437.webp",
+      "summaries": {
+        "ko": "부산 북갑 국회의원 보궐선거 첫 TV 토론에서 하정우, 박민식, 한동훈 후보는 박근혜 국정농단 사건 관련 책임과 각자의 정치적 배경 등을 놓고 마이크가 꺼진 상황에서도 날선 공방을 벌였다.",
+        "en": "In the first TV debate for the Busan Buk-gap by-election, candidates Ha Jung-woo, Park Min-sik, and Han Dong-hoon engaged in a sharp exchange, even after microphones were off, over responsibilities related to the Park Geun-hye state affair scandal and their respective political backgrounds.",
+        "zh": "在釜山北甲国会议员补选的首次电视辩论中，河正佑、朴敏植、韩东勋三位候选人就朴槿惠干政事件的相关责任及各自的政治背景展开激烈攻防，甚至在麦克风关闭后仍在继续。"
+      }
+    },
+    {
+      "title": "美 유력 매체 ″미·이란 종전양해각서 합의…트럼프 최종 승인 남아″ - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260529001807c9a",
+      "source": "연합뉴스TV",
+      "pubDate": "Thu, 28 May 2026 15:18:07 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260528/AKR20260529001807c9a_01_i.jpg",
+      "summaries": {
+        "ko": "미국과 이란이 전쟁 종식을 위한 종전 양해각서(MOU)에 합의했으나 트럼프 대통령의 최종 승인이 남아있으며, 호르무즈 해협의 자유로운 통행과 이란의 핵무기 추구 포기 약속 등이 포함된다고 악시오스가 보도했습니다.",
+        "en": "Axios reported that the US and Iran have agreed on a 'Memorandum of Understanding (MOU)' to end the war, which includes unrestricted passage through the Strait of Hormuz and Iran's pledge not to pursue nuclear weapons, but President Trump's final approval is still pending.",
+        "zh": "据Axios报道，美国和伊朗已就结束战争的“停战谅解备忘录（MOU）”达成协议，其中包含霍尔木兹海峡自由通行和伊朗承诺不寻求核武器等内容，但仍有待特朗普总统的最终批准。"
+      }
+    },
+    {
+      "title": "“중국이 보기에 한국은 단검” 미 사령관 발언…중 “선 넘어” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605282127015",
       "source": "경향신문",
       "pubDate": "Thu, 28 May 2026 12:27:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/28/l_2026052901000862100084011.jpg",
+      "image": "https://img.khan.co.kr/news/2026/05/28/l_2026052901000861200084031.jpg",
       "summaries": {
-        "ko": "이재명 대통령은 구의역 참사 10주기를 맞아 '안전보다 돈'을 중시하는 못된 관행을 비판하며, 서소문 고가차도 사고와 GTX 철근 누락 등 최근 안전 문제에 대한 철저한 진상 규명과 엄정한 책임을 촉구했다.",
-        "en": "President Lee Jae-myung, on the 10th anniversary of the Guui Station disaster, criticized the persistent 'money over safety' culture and called for thorough investigations and strict accountability for recent safety incidents, including the Seosomun overpass accident and GTX rebar omission.",
-        "zh": "李在明总统在九宜站惨案10周年之际，批评了韩国社会中“安全不如金钱”的陋习，并呼吁对西小门高架桥事故和GTX钢筋遗漏等近期安全事件进行彻底调查和严肃问责。"
+        "ko": "주한미군사령관이 한국을 중국 견제를 위한 '단검'에 비유한 발언에 대해 주한 중국대사관이 \"선을 넘었다\"며 강하게 반발했다.",
+        "en": "The Chinese Embassy in Seoul strongly protested the U.S. Forces Korea commander's remarks likening South Korea to a \"dagger\" for containing China, stating that his comments \"crossed the line.\"",
+        "zh": "针对驻韩美军司令将韩国比作遏制中国的“匕首”的言论，中国驻韩大使馆强烈抗议，称其“越线”。"
       }
     },
     {
-      "title": "정청래 “전북 도민들에게 죄송” 뒤늦은 사과 - v.daum.net",
-      "link": "https://v.daum.net/v/20260528174200271",
-      "source": "v.daum.net",
-      "pubDate": "Thu, 28 May 2026 08:42:00 GMT",
-      "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/28/551733-DUdnLPA/20260528174201409gqfz.png",
-      "summaries": {
-        "ko": "민주당 정청래 대표가 김관영 후보 제명 논란에 대해 두 달 만에 전북도민에게 지역 민심을 헤아리지 못한 점을 뒤늦게 사과했다.",
-        "en": "Democratic Party leader Jung Cheong-rae belatedly apologized to Jeonbuk residents nearly two months after the controversy surrounding candidate Kim Gwan-young's expulsion, acknowledging the party's failure to consider local sentiment.",
-        "zh": "民主党党首郑清来在金官英候选人被开除的争议发生近两个月后，迟迟向全北道居民道歉，承认党未能充分考虑当地民意。"
-      }
-    },
-    {
-      "title": "“남자들 테이저건 맞고 여자들 성폭행 당해” 이스라엘군 나포됐던 활동가들 ‘가혹행위’ 증언 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605281620001",
+      "title": "이 대통령 “원래 시장에서 밥 먹는 거 좋아해”···야당 “시장투어 선거 개입” 주장에 직접 반박 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605281428001",
       "source": "경향신문",
-      "pubDate": "Thu, 28 May 2026 07:20:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/28/news-p.v1.20260528.b75f1a0e70f246229c76688bc9f81661_P1.jpeg",
+      "pubDate": "Thu, 28 May 2026 05:28:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/28/rcv.YNA.20260528.PYH2026052813040001300_P1.jpg",
       "summaries": {
-        "ko": "팔레스타인 가자 지구로 향하던 중 이스라엘군에 나포됐던 한국인 활동가들이 구타, 테이저건 사용, 성적 수치심 유발 등 심한 가혹행위를 겪었으며, 이스라엘 정부의 부인과 달리 고막 파열, 갈비뼈 골절 등의 의학적 진단을 근거로 증언했다.",
-        "en": "Korean activists, captured by Israeli forces while en route to the Gaza Strip, testified to experiencing severe mistreatment including beatings, taser attacks, and sexual humiliation, citing medical diagnoses like ruptured eardrums and broken ribs, directly refuting Israel's denial.",
-        "zh": "前往加沙地带时被以色列军队抓获的韩国活动人士作证称，他们遭受了包括殴打、电击枪袭击和性羞辱在内的残酷虐待，并提供了耳膜破裂、肋骨骨折等医疗诊断作为证据，直接反驳了以色列政府的否认。"
+        "ko": "이재명 대통령이 '원래 시장에서 밥 먹는 걸 좋아한다'며 야당의 '시장투어 선거 개입' 비판에 반박하고, 전통시장의 어려움을 개선하기 위한 지원책 마련을 지시했다.",
+        "en": "President Lee Jae-myung defended his frequent visits to traditional markets for meals, stating it's his personal preference and refuting opposition claims of 'election interference,' while also instructing measures to address the markets' difficulties.",
+        "zh": "李在明总统反驳在野党“市场巡游是干预选举”的批评，称自己“本来就喜欢在市场吃饭”，并指示制定措施以改善传统市场的困境。"
       }
     },
     {
-      "title": "[MBC여론조사] 서울시장, 정원오 41% vs 오세훈 37%‥오차범위 내 접전 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6825934_36911.html",
+      "title": "정청래 \"부산 안정적·경남 초접전‥평택을, 단일화 논의 없었어\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6825838_36911.html",
       "source": "MBC 뉴스",
-      "pubDate": "Thu, 28 May 2026 07:00:24 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/28/joo260528_po_s1.jpg",
+      "pubDate": "Thu, 28 May 2026 01:38:11 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/28/chhh_20260528_18.jpg",
       "summaries": {
-        "ko": "MBC 여론조사에 따르면 6·3 지방선거를 일주일 앞두고 더불어민주당 정원오 후보가 국민의힘 오세훈 후보를 41% 대 37%로 오차범위 내에서 앞서고 있는 것으로 나타났습니다.",
-        "en": "An MBC poll conducted a week before the June 3 local elections shows Democratic Party candidate Jung Won-oh leading People Power Party candidate Oh Se-hoon 41% to 37%, within the margin of error.",
-        "zh": "MBC民意调查显示，在6月3日地方选举前一周，共同民主党候选人郑元吾以41%的支持率领先国民力量党候选人吴世勋的37%，两人支持率在误差范围内。"
+        "ko": "정청래 \"부산 안정적·경남 초접전‥평택을, 단일화 논의 없었어\" - MBC 뉴스",
+        "en": "정청래 \"부산 안정적·경남 초접전‥평택을, 단일화 논의 없었어\" - MBC 뉴스",
+        "zh": "정청래 \"부산 안정적·경남 초접전‥평택을, 단일화 논의 없었어\" - MBC 뉴스"
       }
     },
     {
-      "title": "28일부터 여론조사 공표 금지…부산 북갑·평택을 초접전 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260678.html",
+      "title": "김상욱, 민주·진보 울산시장 단일화 후보…평택을 단일화 논의는 난망 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260907.html",
       "source": "한겨레",
-      "pubDate": "Thu, 28 May 2026 02:31:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0527/53_17798740683429_20260527503242.webp",
+      "pubDate": "Thu, 28 May 2026 13:16:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/618/imgdb/original/2026/0528/20260528503579.webp",
       "summaries": {
-        "ko": "28일부터 여론조사 공표 금지…부산 북갑·평택을 초접전 - 한겨레",
-        "en": "28일부터 여론조사 공표 금지…부산 북갑·평택을 초접전 - 한겨레",
-        "zh": "28일부터 여론조사 공표 금지…부산 북갑·평택을 초접전 - 한겨레"
+        "ko": "김상욱, 민주·진보 울산시장 단일화 후보…평택을 단일화 논의는 난망 - 한겨레",
+        "en": "김상욱, 민주·진보 울산시장 단일화 후보…평택을 단일화 논의는 난망 - 한겨레",
+        "zh": "김상욱, 민주·진보 울산시장 단일화 후보…평택을 단일화 논의는 난망 - 한겨레"
       }
     },
     {
-      "title": "李 “민생 개선 위해 전통시장 활성화 중요…시장에서 밥 먹는 거 이해 바란다” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260528/134009301/2",
-      "source": "동아일보",
-      "pubDate": "Thu, 28 May 2026 05:36:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/28/134009302.2.jpg",
+      "title": "'탄핵 대통령' 박근혜 뜨자…尹어게인 전한길·김현태 등장 - 노컷뉴스",
+      "link": "https://www.nocutnews.co.kr/news/6524400",
+      "source": "노컷뉴스",
+      "pubDate": "Thu, 28 May 2026 09:00:00 GMT",
+      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/05/28/202605281753517899_0.jpg",
       "summaries": {
-        "ko": "李 “민생 개선 위해 전통시장 활성화 중요…시장에서 밥 먹는 거 이해 바란다” - 동아일보",
-        "en": "李 “민생 개선 위해 전통시장 활성화 중요…시장에서 밥 먹는 거 이해 바란다” - 동아일보",
-        "zh": "李 “민생 개선 위해 전통시장 활성화 중요…시장에서 밥 먹는 거 이해 바란다” - 동아일보"
-      }
-    },
-    {
-      "title": "질병청·외교부 등 15개 부처, 에볼라 대응 방안 논의 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6825888_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Thu, 28 May 2026 05:13:22 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/05/28/ljm_20260528_3.jpg",
-      "summaries": {
-        "ko": "질병청·외교부 등 15개 부처, 에볼라 대응 방안 논의 - MBC 뉴스",
-        "en": "질병청·외교부 등 15개 부처, 에볼라 대응 방안 논의 - MBC 뉴스",
-        "zh": "질병청·외교부 등 15개 부처, 에볼라 대응 방안 논의 - MBC 뉴스"
-      }
-    },
-    {
-      "title": "[속보] 미국 1분기 성장률 1.6%…속보치서 0.4%p 하향",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260528213509XcZ",
-      "source": "Breaking News",
-      "pubDate": "Thu, 28 May 2026 21:35:11 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260528/AKR20260528213509XcZ_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 미국 1분기 성장률 1.6%…속보치서 0.4%p 하향",
-        "en": "[속보] 미국 1분기 성장률 1.6%…속보치서 0.4%p 하향",
-        "zh": "[속보] 미국 1분기 성장률 1.6%…속보치서 0.4%p 하향"
-      }
-    },
-    {
-      "title": "[속보] 美 4월 PCE물가 전년대비 3.8%↑…2년 11개월만에 최고",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260528213350CSz",
-      "source": "Breaking News",
-      "pubDate": "Thu, 28 May 2026 21:33:53 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260528/AKR20260528213350CSz_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 美 4월 PCE물가 전년대비 3.8%↑…2년 11개월만에 최고",
-        "en": "[속보] 美 4월 PCE물가 전년대비 3.8%↑…2년 11개월만에 최고",
-        "zh": "[속보] 美 4월 PCE물가 전년대비 3.8%↑…2년 11개월만에 최고"
+        "ko": "'탄핵 대통령' 박근혜 뜨자…尹어게인 전한길·김현태 등장 - 노컷뉴스",
+        "en": "'탄핵 대통령' 박근혜 뜨자…尹어게인 전한길·김현태 등장 - 노컷뉴스",
+        "zh": "'탄핵 대통령' 박근혜 뜨자…尹어게인 전한길·김현태 등장 - 노컷뉴스"
       }
     }
   ]
