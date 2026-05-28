@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-28T16:42:10.852021",
+  "lastUpdate": "2026-05-28T19:23:31.169449",
   "items": [
     {
       "title": "서울·대구는 접전, 부산은 전재수 우세 흐름…‘블랙아웃’ 전 마지막 여론조사 - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Thu, 28 May 2026 13:29:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/640/343/imgdb/original/2026/0528/20260528503655.webp",
       "summaries": {
-        "ko": "선거 여론조사 '블랙아웃' 기간 직전 발표된 여론조사 결과, 서울과 대구 시장 선거는 여야 후보들이 접전을 벌이는 반면 부산 시장 선거에서는 더불어민주당 전재수 후보가 오차범위 밖에서 앞서는 것으로 나타났다.",
-        "en": "Just before the 'blackout' period for election polls, surveys indicated that the Seoul and Daegu mayoral elections were close contests between ruling and opposition candidates, while Democratic Party candidate Jeon Jae-soo was leading outside the margin of error in the Busan mayoral race.",
-        "zh": "在选举民意调查“静默期”开始前夕，民调显示首尔和大邱市长选举中执政党和在野党候选人竞争激烈，而釜山市长选举中，民主党候选人全在秀则以超出误差范围的优势领先。"
+        "ko": "'블랙아웃' 기간 직전 마지막 여론조사에서 서울과 대구 시장 선거는 접전 양상을 보인 반면, 부산 시장 선거에서는 더불어민주당 후보가 우세한 흐름을 나타냈다.",
+        "en": "The final polls before the 'blackout' period indicated tight mayoral races in Seoul and Daegu, while the Democratic Party candidate showed a widening lead in Busan.",
+        "zh": "在民意调查“禁声期”前的最后一次民调中，首尔和大邱市长选举呈现胶着状态，而釜山市长选举中民主党候选人则显示出扩大优势的局面。"
       }
     },
     {
@@ -20,9 +20,9 @@
       "pubDate": "Thu, 28 May 2026 11:17:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/05/28/news-p.v1.20260524.9909b25d322a4f1a8501ebe264fdb16c_P1.jpg",
       "summaries": {
-        "ko": "여론조사 결과, 6·3 지방선거 사전투표를 앞두고 부산시장 선거에서 더불어민주당 전재수 후보가 국민의힘 박형준 후보를 오차범위 밖에서 앞선 반면, 서울시장과 대구시장 선거는 오차범위 내 초접전을 벌이는 것으로 나타났다.",
-        "en": "According to recent polls, ahead of early voting for the June 3 local elections, Democratic Party candidate Jeon Jae-soo leads People Power Party candidate Park Hyeong-jun outside the error margin in the Busan mayoral race, while the Seoul and Daegu mayoral elections are in a tight contest within the error margin.",
-        "zh": "民意调查结果显示，在6月3日地方选举提前投票前夕，釜山市长选举中，民主党候选人全在秀在误差范围外领先国民力量党候选人朴亨埈，而首尔市长和大邱市长选举则在误差范围内呈现胶着状态。"
+        "ko": "최근 여론조사 결과, 서울시장과 대구시장 선거는 오차범위 내 초접전을 벌이는 반면, 부산시장 선거에서는 전재수 더불어민주당 후보가 박형준 국민의힘 후보를 오차범위 밖에서 앞서는 것으로 나타났다.",
+        "en": "Recent public opinion polls indicate that the Seoul and Daegu mayoral races are too close to call within the margin of error, while Democratic Party candidate Jeon Jae-soo leads People Power Party candidate Park Hyung-joon outside the margin of error in the Busan mayoral election.",
+        "zh": "最新民意调查显示，首尔市长和大邱市长的选举在误差范围内处于胶着状态，而釜山市长选举中，共同民主党候选人全在秀以超出误差范围的优势领先国民力量党候选人朴亨埈。"
       }
     },
     {
@@ -38,63 +38,15 @@
       }
     },
     {
-      "title": "박근혜 국정농단 묻자…하정우·박민식·한동훈, 마이크 꺼져도 날선 공방 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260880.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 28 May 2026 13:17:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/668/imgdb/original/2026/0528/20260528503437.webp",
+      "title": "[속보]美매체 “이란과 휴전 60일 연장 합의…트럼프 승인 남아” - 동아일보",
+      "link": "https://www.donga.com/news/Inter/article/all/20260528/134013649/2",
+      "source": "동아일보",
+      "pubDate": "Thu, 28 May 2026 14:33:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/28/134013646.3.jpg",
       "summaries": {
-        "ko": "부산 북갑 국회의원 보궐선거 첫 TV 토론에서 하정우, 박민식, 한동훈 후보는 박근혜 국정농단 사건 관련 책임과 각자의 정치적 배경 등을 놓고 마이크가 꺼진 상황에서도 날선 공방을 벌였다.",
-        "en": "In the first TV debate for the Busan Buk-gap by-election, candidates Ha Jung-woo, Park Min-sik, and Han Dong-hoon engaged in a sharp exchange, even after microphones were off, over responsibilities related to the Park Geun-hye state affair scandal and their respective political backgrounds.",
-        "zh": "在釜山北甲国会议员补选的首次电视辩论中，河正佑、朴敏植、韩东勋三位候选人就朴槿惠干政事件的相关责任及各自的政治背景展开激烈攻防，甚至在麦克风关闭后仍在继续。"
-      }
-    },
-    {
-      "title": "美 유력 매체 ″미·이란 종전양해각서 합의…트럼프 최종 승인 남아″ - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260529001807c9a",
-      "source": "연합뉴스TV",
-      "pubDate": "Thu, 28 May 2026 15:18:07 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260528/AKR20260529001807c9a_01_i.jpg",
-      "summaries": {
-        "ko": "미국과 이란이 전쟁 종식을 위한 종전 양해각서(MOU)에 합의했으나 트럼프 대통령의 최종 승인이 남아있으며, 호르무즈 해협의 자유로운 통행과 이란의 핵무기 추구 포기 약속 등이 포함된다고 악시오스가 보도했습니다.",
-        "en": "Axios reported that the US and Iran have agreed on a 'Memorandum of Understanding (MOU)' to end the war, which includes unrestricted passage through the Strait of Hormuz and Iran's pledge not to pursue nuclear weapons, but President Trump's final approval is still pending.",
-        "zh": "据Axios报道，美国和伊朗已就结束战争的“停战谅解备忘录（MOU）”达成协议，其中包含霍尔木兹海峡自由通行和伊朗承诺不寻求核武器等内容，但仍有待特朗普总统的最终批准。"
-      }
-    },
-    {
-      "title": "“중국이 보기에 한국은 단검” 미 사령관 발언…중 “선 넘어” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605282127015",
-      "source": "경향신문",
-      "pubDate": "Thu, 28 May 2026 12:27:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/28/l_2026052901000861200084031.jpg",
-      "summaries": {
-        "ko": "주한미군사령관이 한국을 중국 견제를 위한 '단검'에 비유한 발언에 대해 주한 중국대사관이 \"선을 넘었다\"며 강하게 반발했다.",
-        "en": "The Chinese Embassy in Seoul strongly protested the U.S. Forces Korea commander's remarks likening South Korea to a \"dagger\" for containing China, stating that his comments \"crossed the line.\"",
-        "zh": "针对驻韩美军司令将韩国比作遏制中国的“匕首”的言论，中国驻韩大使馆强烈抗议，称其“越线”。"
-      }
-    },
-    {
-      "title": "이 대통령 “원래 시장에서 밥 먹는 거 좋아해”···야당 “시장투어 선거 개입” 주장에 직접 반박 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605281428001",
-      "source": "경향신문",
-      "pubDate": "Thu, 28 May 2026 05:28:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/28/rcv.YNA.20260528.PYH2026052813040001300_P1.jpg",
-      "summaries": {
-        "ko": "이재명 대통령이 '원래 시장에서 밥 먹는 걸 좋아한다'며 야당의 '시장투어 선거 개입' 비판에 반박하고, 전통시장의 어려움을 개선하기 위한 지원책 마련을 지시했다.",
-        "en": "President Lee Jae-myung defended his frequent visits to traditional markets for meals, stating it's his personal preference and refuting opposition claims of 'election interference,' while also instructing measures to address the markets' difficulties.",
-        "zh": "李在明总统反驳在野党“市场巡游是干预选举”的批评，称自己“本来就喜欢在市场吃饭”，并指示制定措施以改善传统市场的困境。"
-      }
-    },
-    {
-      "title": "정청래 \"부산 안정적·경남 초접전‥평택을, 단일화 논의 없었어\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6825838_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Thu, 28 May 2026 01:38:11 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/28/chhh_20260528_18.jpg",
-      "summaries": {
-        "ko": "정청래 \"부산 안정적·경남 초접전‥평택을, 단일화 논의 없었어\" - MBC 뉴스",
-        "en": "정청래 \"부산 안정적·경남 초접전‥평택을, 단일화 논의 없었어\" - MBC 뉴스",
-        "zh": "정청래 \"부산 안정적·경남 초접전‥평택을, 단일화 논의 없었어\" - MBC 뉴스"
+        "ko": "[속보]美매체 “이란과 휴전 60일 연장 합의…트럼프 승인 남아” - 동아일보",
+        "en": "[속보]美매체 “이란과 휴전 60일 연장 합의…트럼프 승인 남아” - 동아일보",
+        "zh": "[속보]美매체 “이란과 휴전 60일 연장 합의…트럼프 승인 남아” - 동아일보"
       }
     },
     {
@@ -110,6 +62,30 @@
       }
     },
     {
+      "title": "정청래, 김어준 유튜브에서 \"이번 선거 잘못되면 李에 큰일\" - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/05/28/3KPGFCX2WZDAJKOLBNT7BBVXBA/",
+      "source": "조선일보",
+      "pubDate": "Thu, 28 May 2026 05:45:04 GMT",
+      "image": "https://www.chosun.com/resizer/v2/45UAQK64TBIRLBDACFGMPBSWQY.JPG?auth=4b7d83abed572b3bcce1f7d2e6c05242bd40d9b7212dcb559781c2d9ff5cb6af&width=1200&height=630&focal=1143,1714",
+      "summaries": {
+        "ko": "정청래, 김어준 유튜브에서 \"이번 선거 잘못되면 李에 큰일\" - 조선일보",
+        "en": "정청래, 김어준 유튜브에서 \"이번 선거 잘못되면 李에 큰일\" - 조선일보",
+        "zh": "정청래, 김어준 유튜브에서 \"이번 선거 잘못되면 李에 큰일\" - 조선일보"
+      }
+    },
+    {
+      "title": "이 대통령 “원래 시장에서 밥 먹는 거 좋아해”···야당 “시장투어 선거 개입” 주장에 직접 반박 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605281428001",
+      "source": "경향신문",
+      "pubDate": "Thu, 28 May 2026 05:28:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/28/rcv.YNA.20260528.PYH2026052813040001300_P1.jpg",
+      "summaries": {
+        "ko": "이 대통령 “원래 시장에서 밥 먹는 거 좋아해”···야당 “시장투어 선거 개입” 주장에 직접 반박 - 경향신문",
+        "en": "이 대통령 “원래 시장에서 밥 먹는 거 좋아해”···야당 “시장투어 선거 개입” 주장에 직접 반박 - 경향신문",
+        "zh": "이 대통령 “원래 시장에서 밥 먹는 거 좋아해”···야당 “시장투어 선거 개입” 주장에 직접 반박 - 경향신문"
+      }
+    },
+    {
       "title": "'탄핵 대통령' 박근혜 뜨자…尹어게인 전한길·김현태 등장 - 노컷뉴스",
       "link": "https://www.nocutnews.co.kr/news/6524400",
       "source": "노컷뉴스",
@@ -119,6 +95,30 @@
         "ko": "'탄핵 대통령' 박근혜 뜨자…尹어게인 전한길·김현태 등장 - 노컷뉴스",
         "en": "'탄핵 대통령' 박근혜 뜨자…尹어게인 전한길·김현태 등장 - 노컷뉴스",
         "zh": "'탄핵 대통령' 박근혜 뜨자…尹어게인 전한길·김현태 등장 - 노컷뉴스"
+      }
+    },
+    {
+      "title": "하정우 33.8% 박민식 17.9% 한동훈 40.2%… 1, 2위 오차범위 내 경쟁 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260528/134006208/2",
+      "source": "동아일보",
+      "pubDate": "Wed, 27 May 2026 19:32:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/28/134006443.1.jpg",
+      "summaries": {
+        "ko": "하정우 33.8% 박민식 17.9% 한동훈 40.2%… 1, 2위 오차범위 내 경쟁 - 동아일보",
+        "en": "하정우 33.8% 박민식 17.9% 한동훈 40.2%… 1, 2위 오차범위 내 경쟁 - 동아일보",
+        "zh": "하정우 33.8% 박민식 17.9% 한동훈 40.2%… 1, 2위 오차범위 내 경쟁 - 동아일보"
+      }
+    },
+    {
+      "title": "“한국은 중국 겨눈 단검” 브런슨에 중 대사관 “선 넘었다” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260821.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 28 May 2026 07:05:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0528/20260528502714.webp",
+      "summaries": {
+        "ko": "“한국은 중국 겨눈 단검” 브런슨에 중 대사관 “선 넘었다” - 한겨레",
+        "en": "“한국은 중국 겨눈 단검” 브런슨에 중 대사관 “선 넘었다” - 한겨레",
+        "zh": "“한국은 중국 겨눈 단검” 브런슨에 중 대사관 “선 넘었다” - 한겨레"
       }
     }
   ]
