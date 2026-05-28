@@ -1,52 +1,28 @@
 {
-  "lastUpdate": "2026-05-28T22:51:26.167833",
+  "lastUpdate": "2026-05-28T23:59:48.162571",
   "items": [
     {
-      "title": "[6·3 지방선거]29일부터 이틀간 사전투표…민주당 ‘정부 지원’ 국힘 ‘정부 견제’ 막판 호소 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605282150005",
-      "source": "경향신문",
-      "pubDate": "Thu, 28 May 2026 12:50:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/28/l_2026052901000859500084541.jpg",
-      "summaries": {
-        "ko": "6·3 지방선거 사전투표가 시작되자 더불어민주당은 '이재명 대통령 지원과 내란 심판'을, 국민의힘은 '이재명 정부 견제와 심판'을 내세우며 유권자들에게 막판 지지를 호소했다.",
-        "en": "As early voting for the 6·3 local elections begins, the Democratic Party urged support for 'President Lee Jae-myung's administration and judgment of internal rebellion,' while the People Power Party called for 'checking and judging the Lee Jae-myung government,' making their final appeals to voters.",
-        "zh": "随着6·3地方选举提前投票的开始，民主党呼吁支持“李在明政府并审判内乱”，而国民力量党则呼吁“牵制和审判李在明政府”，向选民进行最后呼吁。"
-      }
-    },
-    {
-      "title": "[단독] 승객 탄 열차 59대, 붕괴 직전 서소문 고가 통과…12시간 무방비 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1260809.html",
+      "title": "“미-이란 ‘종전 합의’ 트럼프 승인만 남았다”…미 매체 보도 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1260936.html",
       "source": "한겨레",
-      "pubDate": "Thu, 28 May 2026 13:16:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/860/573/imgdb/original/2026/0528/20260528502385.webp",
+      "pubDate": "Thu, 28 May 2026 15:39:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/690/imgdb/original/2026/0529/20260529500014.webp",
       "summaries": {
-        "ko": "[단독] 승객 탄 열차 59대, 붕괴 직전 서소문 고가 통과…12시간 무방비 - 한겨레",
-        "en": "[단독] 승객 탄 열차 59대, 붕괴 직전 서소문 고가 통과…12시간 무방비 - 한겨레",
-        "zh": "[단독] 승객 탄 열차 59대, 붕괴 직전 서소문 고가 통과…12시간 무방비 - 한겨레"
+        "ko": "미국과 이란 간 전쟁 종결 양해각서가 양국 협상단 합의와 이란 최고지도자의 승인을 거쳤으나, 도널드 트럼프 미국 대통령의 최종 승인만을 남겨두고 있다는 보도가 나왔다.",
+        "en": "Reports indicate that a memorandum of understanding (MOU) to end the conflict between the U.S. and Iran has been agreed upon by negotiators and approved by Iran's supreme leader, but is now only awaiting final approval from U.S. President Donald Trump.",
+        "zh": "据报道，美国与伊朗之间结束战争的谅解备忘录已获得两国谈判代表的同意和伊朗最高领导人的批准，目前只待美国总统唐纳德·特朗普的最终批准。"
       }
     },
     {
-      "title": "처음이자 마지막 서울시장 TV토론... 鄭 \"10년 무능 심판\" 吳 \"세계 톱3 도시로\" - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/05/28/EXW2PNDI5BDL5KFISJT5FKBSYM/",
-      "source": "조선일보",
-      "pubDate": "Thu, 28 May 2026 14:43:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/WGCHLCUN5RHFNFCEOFHPOIMZ3Q.JPG?auth=64cd4b3fa891fc76ed19942cb22eb34c910bf32fe6a06e379a738b5538a49ec6&width=1200&height=630&focal=1925,658",
+      "title": "정원오 \"철근누락 현장 안가본 후보\"…오세훈 \"말려들지 않겠다\"(종합) - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260529000651001",
+      "source": "연합뉴스",
+      "pubDate": "Thu, 28 May 2026 23:16:45 GMT",
+      "image": "https://img6.yna.co.kr/photo/yna/YH/2026/05/28/PYH2026052823710001300_P4.jpg",
       "summaries": {
-        "ko": "처음이자 마지막 서울시장 TV토론... 鄭 \"10년 무능 심판\" 吳 \"세계 톱3 도시로\" - 조선일보",
-        "en": "처음이자 마지막 서울시장 TV토론... 鄭 \"10년 무능 심판\" 吳 \"세계 톱3 도시로\" - 조선일보",
-        "zh": "처음이자 마지막 서울시장 TV토론... 鄭 \"10년 무능 심판\" 吳 \"세계 톱3 도시로\" - 조선일보"
-      }
-    },
-    {
-      "title": "[속보]美매체 “이란과 휴전 60일 연장 합의…트럼프 승인 남아” - 동아일보",
-      "link": "https://www.donga.com/news/Inter/article/all/20260528/134013649/2",
-      "source": "동아일보",
-      "pubDate": "Thu, 28 May 2026 14:33:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/28/134013646.3.jpg",
-      "summaries": {
-        "ko": "[속보]美매체 “이란과 휴전 60일 연장 합의…트럼프 승인 남아” - 동아일보",
-        "en": "[속보]美매체 “이란과 휴전 60일 연장 합의…트럼프 승인 남아” - 동아일보",
-        "zh": "[속보]美매체 “이란과 휴전 60일 연장 합의…트럼프 승인 남아” - 동아일보"
+        "ko": "정원오 \"철근누락 현장 안가본 후보\"…오세훈 \"말려들지 않겠다\"(종합) - 연합뉴스",
+        "en": "정원오 \"철근누락 현장 안가본 후보\"…오세훈 \"말려들지 않겠다\"(종합) - 연합뉴스",
+        "zh": "정원오 \"철근누락 현장 안가본 후보\"…오세훈 \"말려들지 않겠다\"(종합) - 연합뉴스"
       }
     },
     {
@@ -62,39 +38,63 @@
       }
     },
     {
-      "title": "김상욱, 민주·진보 울산시장 단일화 후보…평택을 단일화 논의는 난망 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260907.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 28 May 2026 13:16:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/618/imgdb/original/2026/0528/20260528503579.webp",
+      "title": "오늘부터 사전투표 시작…이시각 사전 투표소 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8572947",
+      "source": "KBS 뉴스",
+      "pubDate": "Thu, 28 May 2026 22:03:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza/2026/05/29/20_8572947.jpg",
       "summaries": {
-        "ko": "김상욱, 민주·진보 울산시장 단일화 후보…평택을 단일화 논의는 난망 - 한겨레",
-        "en": "김상욱, 민주·진보 울산시장 단일화 후보…평택을 단일화 논의는 난망 - 한겨레",
-        "zh": "김상욱, 민주·진보 울산시장 단일화 후보…평택을 단일화 논의는 난망 - 한겨레"
+        "ko": "오늘부터 사전투표 시작…이시각 사전 투표소 - KBS 뉴스",
+        "en": "오늘부터 사전투표 시작…이시각 사전 투표소 - KBS 뉴스",
+        "zh": "오늘부터 사전투표 시작…이시각 사전 투표소 - KBS 뉴스"
       }
     },
     {
-      "title": "[부산시장 여론조사] MBC, 전재수 47%·박형준 34%…JTBC, 전재수 46%·박형준 37% - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605282017001",
-      "source": "경향신문",
-      "pubDate": "Thu, 28 May 2026 11:17:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/28/news-p.v1.20260524.9909b25d322a4f1a8501ebe264fdb16c_P1.jpg",
-      "summaries": {
-        "ko": "[부산시장 여론조사] MBC, 전재수 47%·박형준 34%…JTBC, 전재수 46%·박형준 37% - 경향신문",
-        "en": "[부산시장 여론조사] MBC, 전재수 47%·박형준 34%…JTBC, 전재수 46%·박형준 37% - 경향신문",
-        "zh": "[부산시장 여론조사] MBC, 전재수 47%·박형준 34%…JTBC, 전재수 46%·박형준 37% - 경향신문"
-      }
-    },
-    {
-      "title": "\"늘 바른말 해온 사람\"... 이준석, 국힘 유의동 지지 선언 - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/05/28/C4PAZSOR5ZFHVGB3SJQAUI3WUI/",
+      "title": "한동훈 \"李 공소 취소 찬성하냐\" 하정우 \"검사 습관 못버렸냐\" 박민식 \"진짜 북구 사람은 나\" - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/05/28/JR3HAWKMVRCJNELICJYIZIBTAA/",
       "source": "조선일보",
-      "pubDate": "Thu, 28 May 2026 12:13:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/YBTYXRBOQFBCBH2MHR3NBWMPM4.jpg?auth=a867c848d8b18aa17689d2d478ec23737baf6721c30f3424a8a72bb00530bc15&width=1200&height=630&focal=2394,930",
+      "pubDate": "Thu, 28 May 2026 11:17:59 GMT",
+      "image": "https://www.chosun.com/resizer/v2/EM2IW4PGRNAUBAQWIBM4F5WJ44.JPG?auth=59f5e38687e07c0cc393e100da6b3a7afe57e5ea8df3f4fa09fd7ed82cf85d46&width=1200&height=630&focal=1286,441",
       "summaries": {
-        "ko": "\"늘 바른말 해온 사람\"... 이준석, 국힘 유의동 지지 선언 - 조선일보",
-        "en": "\"늘 바른말 해온 사람\"... 이준석, 국힘 유의동 지지 선언 - 조선일보",
-        "zh": "\"늘 바른말 해온 사람\"... 이준석, 국힘 유의동 지지 선언 - 조선일보"
+        "ko": "한동훈 \"李 공소 취소 찬성하냐\" 하정우 \"검사 습관 못버렸냐\" 박민식 \"진짜 북구 사람은 나\" - 조선일보",
+        "en": "한동훈 \"李 공소 취소 찬성하냐\" 하정우 \"검사 습관 못버렸냐\" 박민식 \"진짜 북구 사람은 나\" - 조선일보",
+        "zh": "한동훈 \"李 공소 취소 찬성하냐\" 하정우 \"검사 습관 못버렸냐\" 박민식 \"진짜 북구 사람은 나\" - 조선일보"
+      }
+    },
+    {
+      "title": "비구름 물러나고 ‘낮 최고 28도’ 초여름 날씨 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1260966.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 28 May 2026 23:13:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/680/485/imgdb/original/2026/0529/20260529500201.webp",
+      "summaries": {
+        "ko": "비구름 물러나고 ‘낮 최고 28도’ 초여름 날씨 - 한겨레",
+        "en": "비구름 물러나고 ‘낮 최고 28도’ 초여름 날씨 - 한겨레",
+        "zh": "비구름 물러나고 ‘낮 최고 28도’ 초여름 날씨 - 한겨레"
+      }
+    },
+    {
+      "title": "정청래 “평택을 김용남·조국 단일화, 현실적으로 어렵게 됐다” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605281108001",
+      "source": "경향신문",
+      "pubDate": "Thu, 28 May 2026 02:08:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/28/news-p.v1.20260528.9f706561355c4f8ca9f52f090ff4b34b_P1.jpeg",
+      "summaries": {
+        "ko": "정청래 “평택을 김용남·조국 단일화, 현실적으로 어렵게 됐다” - 경향신문",
+        "en": "정청래 “평택을 김용남·조국 단일화, 현실적으로 어렵게 됐다” - 경향신문",
+        "zh": "정청래 “평택을 김용남·조국 단일화, 현실적으로 어렵게 됐다” - 경향신문"
+      }
+    },
+    {
+      "title": "서소문고가 철거 조건부 재개…30일 경의중앙선 첫차 운행 목표(종합) - 뉴스1",
+      "link": "https://www.news1.kr/society/incident-accident/6180870",
+      "source": "뉴스1",
+      "pubDate": "Thu, 28 May 2026 11:40:55 GMT",
+      "image": "https://i3n.news1.kr/system/photos/2026/5/28/7929460/high.jpg",
+      "summaries": {
+        "ko": "서소문고가 철거 조건부 재개…30일 경의중앙선 첫차 운행 목표(종합) - 뉴스1",
+        "en": "서소문고가 철거 조건부 재개…30일 경의중앙선 첫차 운행 목표(종합) - 뉴스1",
+        "zh": "서소문고가 철거 조건부 재개…30일 경의중앙선 첫차 운행 목표(종합) - 뉴스1"
       }
     },
     {
@@ -102,7 +102,7 @@
       "link": "https://www.chosun.com/politics/election2026/2026/05/29/A5UKEXHGLZEL5KJIIX6ZGNP5JM/",
       "source": "조선일보",
       "pubDate": "Thu, 28 May 2026 15:58:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MCHYOMIFPFFOXEPHFQIVJYYUWY.JPG?auth=9a4eeb49adde7c5f5d542a773fb15b3d2254dea30dccbf1dd2292851b9fd2445&width=1200&height=630&smart=true",
+      "image": "https://www.chosun.com/resizer/v2/CUM2PQ7NKJMVPAHXG2RVCKEPQQ.JPG?auth=6feae7c5165898492450a29df2bffed1d478772579719f197363f5d858d350c4&width=1200&height=630&smart=true",
       "summaries": {
         "ko": "피말리는 접전지 투표율이 가른다 - 조선일보",
         "en": "피말리는 접전지 투표율이 가른다 - 조선일보",
@@ -110,15 +110,15 @@
       }
     },
     {
-      "title": "정청래, 김어준 유튜브에서 \"이번 선거 잘못되면 李에 큰일\" - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/05/28/3KPGFCX2WZDAJKOLBNT7BBVXBA/",
-      "source": "조선일보",
-      "pubDate": "Thu, 28 May 2026 05:45:04 GMT",
-      "image": "https://www.chosun.com/resizer/v2/45UAQK64TBIRLBDACFGMPBSWQY.JPG?auth=4b7d83abed572b3bcce1f7d2e6c05242bd40d9b7212dcb559781c2d9ff5cb6af&width=1200&height=630&focal=1143,1714",
+      "title": "민주·진보당, 울산시장 후보 민주 김상욱으로 단일화 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260528/134011937/1",
+      "source": "동아일보",
+      "pubDate": "Thu, 28 May 2026 09:06:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/28/134011919.1.jpg",
       "summaries": {
-        "ko": "정청래, 김어준 유튜브에서 \"이번 선거 잘못되면 李에 큰일\" - 조선일보",
-        "en": "정청래, 김어준 유튜브에서 \"이번 선거 잘못되면 李에 큰일\" - 조선일보",
-        "zh": "정청래, 김어준 유튜브에서 \"이번 선거 잘못되면 李에 큰일\" - 조선일보"
+        "ko": "민주·진보당, 울산시장 후보 민주 김상욱으로 단일화 - 동아일보",
+        "en": "민주·진보당, 울산시장 후보 민주 김상욱으로 단일화 - 동아일보",
+        "zh": "민주·진보당, 울산시장 후보 민주 김상욱으로 단일화 - 동아일보"
       }
     }
   ]
