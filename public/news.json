@@ -1,16 +1,28 @@
 {
-  "lastUpdate": "2026-05-28T19:23:31.169449",
+  "lastUpdate": "2026-05-28T21:28:04.329437",
   "items": [
     {
-      "title": "서울·대구는 접전, 부산은 전재수 우세 흐름…‘블랙아웃’ 전 마지막 여론조사 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260916.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 28 May 2026 13:29:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/343/imgdb/original/2026/0528/20260528503655.webp",
+      "title": "[6·3 지방선거]29일부터 이틀간 사전투표…민주당 ‘정부 지원’ 국힘 ‘정부 견제’ 막판 호소 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605282150005",
+      "source": "경향신문",
+      "pubDate": "Thu, 28 May 2026 12:50:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/28/l_2026052901000859500084541.jpg",
       "summaries": {
-        "ko": "'블랙아웃' 기간 직전 마지막 여론조사에서 서울과 대구 시장 선거는 접전 양상을 보인 반면, 부산 시장 선거에서는 더불어민주당 후보가 우세한 흐름을 나타냈다.",
-        "en": "The final polls before the 'blackout' period indicated tight mayoral races in Seoul and Daegu, while the Democratic Party candidate showed a widening lead in Busan.",
-        "zh": "在民意调查“禁声期”前的最后一次民调中，首尔和大邱市长选举呈现胶着状态，而釜山市长选举中民主党候选人则显示出扩大优势的局面。"
+        "ko": "6·3 지방선거 사전투표가 시작되면서, 더불어민주당은 '일 잘하는 이재명 정부 지원과 국가 정상화'를, 국민의힘은 '이재명 정부 견제와 헌법 정신 수호'를 내세워 유권자들에게 마지막 지지를 호소했다.",
+        "en": "As early voting for the 6·3 local elections begins, South Korea's major political parties made their final appeals, with the Democratic Party emphasizing support for 'Lee Jae-myung and government normalization,' while the People Power Party urged voters to 'check the Lee Jae-myung government' and uphold freedom and the rule of law.",
+        "zh": "在6月3日地方选举提前投票开始之际，韩国主要政党纷纷进行最后呼吁，共同民主党主张支持“能干的李在明政府并实现国家正常化”，而国民力量党则号召选民“牵制李在明政府”并捍卫自由与法治精神。"
+      }
+    },
+    {
+      "title": "정원오 \"철근누락 현장 안가본 후보\"…오세훈 \"말려들지 않겠다\"(종합) - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260529000651001",
+      "source": "연합뉴스",
+      "pubDate": "Thu, 28 May 2026 17:33:11 GMT",
+      "image": "https://img5.yna.co.kr/photo/yna/YH/2026/05/28/PYH2026052823780001300_P4.jpg",
+      "summaries": {
+        "ko": "정원오 \"철근누락 현장 안가본 후보\"…오세훈 \"말려들지 않겠다\"(종합) - 연합뉴스",
+        "en": "정원오 \"철근누락 현장 안가본 후보\"…오세훈 \"말려들지 않겠다\"(종합) - 연합뉴스",
+        "zh": "정원오 \"철근누락 현장 안가본 후보\"…오세훈 \"말려들지 않겠다\"(종합) - 연합뉴스"
       }
     },
     {
@@ -20,57 +32,45 @@
       "pubDate": "Thu, 28 May 2026 11:17:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/05/28/news-p.v1.20260524.9909b25d322a4f1a8501ebe264fdb16c_P1.jpg",
       "summaries": {
-        "ko": "최근 여론조사 결과, 서울시장과 대구시장 선거는 오차범위 내 초접전을 벌이는 반면, 부산시장 선거에서는 전재수 더불어민주당 후보가 박형준 국민의힘 후보를 오차범위 밖에서 앞서는 것으로 나타났다.",
-        "en": "Recent public opinion polls indicate that the Seoul and Daegu mayoral races are too close to call within the margin of error, while Democratic Party candidate Jeon Jae-soo leads People Power Party candidate Park Hyung-joon outside the margin of error in the Busan mayoral election.",
-        "zh": "最新民意调查显示，首尔市长和大邱市长的选举在误差范围内处于胶着状态，而釜山市长选举中，共同民主党候选人全在秀以超出误差范围的优势领先国民力量党候选人朴亨埈。"
+        "ko": "[부산시장 여론조사] MBC, 전재수 47%·박형준 34%…JTBC, 전재수 46%·박형준 37% - 경향신문",
+        "en": "[부산시장 여론조사] MBC, 전재수 47%·박형준 34%…JTBC, 전재수 46%·박형준 37% - 경향신문",
+        "zh": "[부산시장 여론조사] MBC, 전재수 47%·박형준 34%…JTBC, 전재수 46%·박형준 37% - 경향신문"
       }
     },
     {
-      "title": "서소문 고가차도 철거 재개... 노동부 조건부 승인, 서울시 \"30일 첫차 운행 목표\" - 조선일보",
-      "link": "https://www.chosun.com/national/labor/2026/05/28/SJPGYEDVYVCVRHSLEA6BIO3LMU/",
-      "source": "조선일보",
-      "pubDate": "Thu, 28 May 2026 12:54:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/G5RTENRTGI2TEZRWHBRTSZJVMY.jpg?auth=7ca5c92116f5d055182cb21334d8c74e1d75f041dad4bc472d91284a0767082f&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "서소문 고가차도 철거 재개... 노동부 조건부 승인, 서울시 \"30일 첫차 운행 목표\" - 조선일보",
-        "en": "서소문 고가차도 철거 재개... 노동부 조건부 승인, 서울시 \"30일 첫차 운행 목표\" - 조선일보",
-        "zh": "서소문 고가차도 철거 재개... 노동부 조건부 승인, 서울시 \"30일 첫차 운행 목표\" - 조선일보"
-      }
-    },
-    {
-      "title": "[속보]美매체 “이란과 휴전 60일 연장 합의…트럼프 승인 남아” - 동아일보",
-      "link": "https://www.donga.com/news/Inter/article/all/20260528/134013649/2",
-      "source": "동아일보",
-      "pubDate": "Thu, 28 May 2026 14:33:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/28/134013646.3.jpg",
-      "summaries": {
-        "ko": "[속보]美매체 “이란과 휴전 60일 연장 합의…트럼프 승인 남아” - 동아일보",
-        "en": "[속보]美매체 “이란과 휴전 60일 연장 합의…트럼프 승인 남아” - 동아일보",
-        "zh": "[속보]美매체 “이란과 휴전 60일 연장 합의…트럼프 승인 남아” - 동아일보"
-      }
-    },
-    {
-      "title": "김상욱, 민주·진보 울산시장 단일화 후보…평택을 단일화 논의는 난망 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260907.html",
+      "title": "[단독] 승객 탄 열차 59대, 붕괴 직전 서소문 고가 통과…12시간 무방비 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1260809.html",
       "source": "한겨레",
       "pubDate": "Thu, 28 May 2026 13:16:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/618/imgdb/original/2026/0528/20260528503579.webp",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/860/573/imgdb/original/2026/0528/20260528502385.webp",
       "summaries": {
-        "ko": "김상욱, 민주·진보 울산시장 단일화 후보…평택을 단일화 논의는 난망 - 한겨레",
-        "en": "김상욱, 민주·진보 울산시장 단일화 후보…평택을 단일화 논의는 난망 - 한겨레",
-        "zh": "김상욱, 민주·진보 울산시장 단일화 후보…평택을 단일화 논의는 난망 - 한겨레"
+        "ko": "[단독] 승객 탄 열차 59대, 붕괴 직전 서소문 고가 통과…12시간 무방비 - 한겨레",
+        "en": "[단독] 승객 탄 열차 59대, 붕괴 직전 서소문 고가 통과…12시간 무방비 - 한겨레",
+        "zh": "[단독] 승객 탄 열차 59대, 붕괴 직전 서소문 고가 통과…12시간 무방비 - 한겨레"
       }
     },
     {
-      "title": "정청래, 김어준 유튜브에서 \"이번 선거 잘못되면 李에 큰일\" - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/05/28/3KPGFCX2WZDAJKOLBNT7BBVXBA/",
-      "source": "조선일보",
-      "pubDate": "Thu, 28 May 2026 05:45:04 GMT",
-      "image": "https://www.chosun.com/resizer/v2/45UAQK64TBIRLBDACFGMPBSWQY.JPG?auth=4b7d83abed572b3bcce1f7d2e6c05242bd40d9b7212dcb559781c2d9ff5cb6af&width=1200&height=630&focal=1143,1714",
+      "title": "이란 매체 ″이란군, 특정 표적에 미사일 발사″ - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260529055420NAK",
+      "source": "연합뉴스TV",
+      "pubDate": "Thu, 28 May 2026 20:54:21 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260528/AKR20260529055420NAK_01_i.jpg",
       "summaries": {
-        "ko": "정청래, 김어준 유튜브에서 \"이번 선거 잘못되면 李에 큰일\" - 조선일보",
-        "en": "정청래, 김어준 유튜브에서 \"이번 선거 잘못되면 李에 큰일\" - 조선일보",
-        "zh": "정청래, 김어준 유튜브에서 \"이번 선거 잘못되면 李에 큰일\" - 조선일보"
+        "ko": "이란 매체 ″이란군, 특정 표적에 미사일 발사″ - 연합뉴스TV",
+        "en": "이란 매체 ″이란군, 특정 표적에 미사일 발사″ - 연합뉴스TV",
+        "zh": "이란 매체 ″이란군, 특정 표적에 미사일 발사″ - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "미국·이란, ’60일 휴전 및 핵 협상' 잠정 합의…트럼프 최종 승인 대기 - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/05/29/NICOQ5AJYVE3VFSP2APDRHBQ3E/",
+      "source": "조선일보",
+      "pubDate": "Thu, 28 May 2026 17:27:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/JLIQYTSWANE3LCOUYJHQM333ME.jpg?auth=9d8c65be5b75f7029c57aa2e521869715153ed7f3248cf18487b4e5e3894b8dd&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "미국·이란, ’60일 휴전 및 핵 협상' 잠정 합의…트럼프 최종 승인 대기 - 조선일보",
+        "en": "미국·이란, ’60일 휴전 및 핵 협상' 잠정 합의…트럼프 최종 승인 대기 - 조선일보",
+        "zh": "미국·이란, ’60일 휴전 및 핵 협상' 잠정 합의…트럼프 최종 승인 대기 - 조선일보"
       }
     },
     {
@@ -86,6 +86,30 @@
       }
     },
     {
+      "title": "평택乙 보수 단일화 난항…유의동 \"힘 모아야\" 황교안 \"사퇴하라\" - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/05/28/JQHW32GDZFHRBKC32LOLEB24JA/",
+      "source": "조선일보",
+      "pubDate": "Thu, 28 May 2026 12:19:41 GMT",
+      "image": "https://www.chosun.com/resizer/v2/6ZELOLMDXBEQNOGZFGITTJDJ5M.jpg?auth=78a7a497d96d9cbb5f313c713005cc423b2da8abb7636fefc3bd0728be1e89b5&width=1024&height=537&smart=true",
+      "summaries": {
+        "ko": "평택乙 보수 단일화 난항…유의동 \"힘 모아야\" 황교안 \"사퇴하라\" - 조선일보",
+        "en": "평택乙 보수 단일화 난항…유의동 \"힘 모아야\" 황교안 \"사퇴하라\" - 조선일보",
+        "zh": "평택乙 보수 단일화 난항…유의동 \"힘 모아야\" 황교안 \"사퇴하라\" - 조선일보"
+      }
+    },
+    {
+      "title": "미 국무부 “한국 핵추진 잠수함 프로그램 지원…미한 핵협력, 강력한 비확산 기준 유지” - VOA 한국어 홈페이지",
+      "link": "https://www.voakorea.com/a/state-department-u-s-supports-south-korea-s-nuclear-powered-submarine-program-052826/8154841.html",
+      "source": "VOA 한국어 홈페이지",
+      "pubDate": "Thu, 28 May 2026 14:32:10 GMT",
+      "image": "https://gdb.voanews.com/4b587b8b-6ffd-480a-fc50-08debaf56c80_cx0_cy4_cw0_w1200_h630.jpg",
+      "summaries": {
+        "ko": "미 국무부 “한국 핵추진 잠수함 프로그램 지원…미한 핵협력, 강력한 비확산 기준 유지” - VOA 한국어 홈페이지",
+        "en": "미 국무부 “한국 핵추진 잠수함 프로그램 지원…미한 핵협력, 강력한 비확산 기준 유지” - VOA 한국어 홈페이지",
+        "zh": "미 국무부 “한국 핵추진 잠수함 프로그램 지원…미한 핵협력, 강력한 비확산 기준 유지” - VOA 한국어 홈페이지"
+      }
+    },
+    {
       "title": "'탄핵 대통령' 박근혜 뜨자…尹어게인 전한길·김현태 등장 - 노컷뉴스",
       "link": "https://www.nocutnews.co.kr/news/6524400",
       "source": "노컷뉴스",
@@ -95,30 +119,6 @@
         "ko": "'탄핵 대통령' 박근혜 뜨자…尹어게인 전한길·김현태 등장 - 노컷뉴스",
         "en": "'탄핵 대통령' 박근혜 뜨자…尹어게인 전한길·김현태 등장 - 노컷뉴스",
         "zh": "'탄핵 대통령' 박근혜 뜨자…尹어게인 전한길·김현태 등장 - 노컷뉴스"
-      }
-    },
-    {
-      "title": "하정우 33.8% 박민식 17.9% 한동훈 40.2%… 1, 2위 오차범위 내 경쟁 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260528/134006208/2",
-      "source": "동아일보",
-      "pubDate": "Wed, 27 May 2026 19:32:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/28/134006443.1.jpg",
-      "summaries": {
-        "ko": "하정우 33.8% 박민식 17.9% 한동훈 40.2%… 1, 2위 오차범위 내 경쟁 - 동아일보",
-        "en": "하정우 33.8% 박민식 17.9% 한동훈 40.2%… 1, 2위 오차범위 내 경쟁 - 동아일보",
-        "zh": "하정우 33.8% 박민식 17.9% 한동훈 40.2%… 1, 2위 오차범위 내 경쟁 - 동아일보"
-      }
-    },
-    {
-      "title": "“한국은 중국 겨눈 단검” 브런슨에 중 대사관 “선 넘었다” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1260821.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 28 May 2026 07:05:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0528/20260528502714.webp",
-      "summaries": {
-        "ko": "“한국은 중국 겨눈 단검” 브런슨에 중 대사관 “선 넘었다” - 한겨레",
-        "en": "“한국은 중국 겨눈 단검” 브런슨에 중 대사관 “선 넘었다” - 한겨레",
-        "zh": "“한국은 중국 겨눈 단검” 브런슨에 중 대사관 “선 넘었다” - 한겨레"
       }
     }
   ]
