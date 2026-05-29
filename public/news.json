@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-05-29T22:46:43.393612",
+  "lastUpdate": "2026-05-29T23:54:28.692219",
   "items": [
+    {
+      "title": "경의선 운행 재개…강릉·중앙선 KTX-이음 서울~청량리 구간도 정상화 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605300802001",
+      "source": "경향신문",
+      "pubDate": "Fri, 29 May 2026 23:02:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/30/news-p.v1.20260530.d2749d9e12bb49a8bc7633b90101573a_P1.jpeg",
+      "summaries": {
+        "ko": "서소문 고가차도 붕괴 사고로 중단됐던 경의선 및 강릉·중앙선 KTX-이음 서울~청량리 구간 운행이 재개되어 철도 운행 체계가 빠르게 회복될 전망이다.",
+        "en": "Train services on the Gyeongui Line and the Seoul-Cheongnyangni section of Gangneung/Jungang Line KTX-Eum have resumed after being suspended due to the Seosomun overpass collapse, with the railway operating system expected to recover quickly.",
+        "zh": "因西小门高架桥坍塌事故中断的京义线及江陵·中央线KTX-Eum首尔至清凉里区段的列车运行已恢复，预计铁路运行系统将迅速恢复正常。"
+      }
+    },
     {
       "title": "트럼프 “최종 결정 위해 백악관서 회의”…‘휴전 MOU’ 합의 임박한 듯 - 한겨레",
       "link": "https://www.hani.co.kr/arti/international/america/1261132.html",
@@ -8,9 +20,9 @@
       "pubDate": "Fri, 29 May 2026 16:37:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/958/575/imgdb/child/2026/0530/53_17800695341986_20260529500014.webp",
       "summaries": {
-        "ko": "트럼프 미국 대통령이 이란과의 60일 휴전 연장을 위한 최종 결정 회의를 개최한다고 밝히며 이란의 핵 프로그램 제한과 호르무즈 해협 개방 등 요구 사항을 제시했으나, 이란은 트럼프의 일부 주장에 대해 사실과 다르다고 반박했다.",
-        "en": "U.S. President Trump announced a final decision meeting on a potential 60-day ceasefire extension with Iran, outlining demands for Iran's nuclear program and free passage through the Strait of Hormuz, though Iran disputes some of his claims.",
-        "zh": "美国总统特朗普宣布将举行会议，就与伊朗为期60天的停火延期做出最终决定，并提出了关于伊朗核计划和霍尔木兹海峡自由通行的要求，尽管伊朗对此提出异议。"
+        "ko": "트럼프 “최종 결정 위해 백악관서 회의”…‘휴전 MOU’ 합의 임박한 듯 - 한겨레",
+        "en": "트럼프 “최종 결정 위해 백악관서 회의”…‘휴전 MOU’ 합의 임박한 듯 - 한겨레",
+        "zh": "트럼프 “최종 결정 위해 백악관서 회의”…‘휴전 MOU’ 합의 임박한 듯 - 한겨레"
       }
     },
     {
@@ -26,30 +38,6 @@
       }
     },
     {
-      "title": "서소문 고가, 철거 완료…30일 경의선 첫차부터 운행 재개 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/area_general/1261130.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 29 May 2026 16:22:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/672/403/imgdb/child/2026/0529/53_17800617851736_20260529502675.webp",
-      "summaries": {
-        "ko": "서소문 고가, 철거 완료…30일 경의선 첫차부터 운행 재개 - 한겨레",
-        "en": "서소문 고가, 철거 완료…30일 경의선 첫차부터 운행 재개 - 한겨레",
-        "zh": "서소문 고가, 철거 완료…30일 경의선 첫차부터 운행 재개 - 한겨레"
-      }
-    },
-    {
-      "title": "李, 기표한 투표지 들고나와 “반만 찍혔는데 괜찮나” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260529/134019912/2",
-      "source": "동아일보",
-      "pubDate": "Fri, 29 May 2026 16:40:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/29/134019798.4.jpg",
-      "summaries": {
-        "ko": "李, 기표한 투표지 들고나와 “반만 찍혔는데 괜찮나” - 동아일보",
-        "en": "李, 기표한 투표지 들고나와 “반만 찍혔는데 괜찮나” - 동아일보",
-        "zh": "李, 기표한 투표지 들고나와 “반만 찍혔는데 괜찮나” - 동아일보"
-      }
-    },
-    {
       "title": "[르포] \"김부겸이 돼야\" vs \"그래도 추경호\"…대구시장 선거 민심 팽팽 - 연합뉴스",
       "link": "https://www.yna.co.kr/view/AKR20260529135600053",
       "source": "연합뉴스",
@@ -62,39 +50,27 @@
       }
     },
     {
-      "title": "사전투표 첫날 승합차에서 우르르 내린 어르신들?···김부겸 캠프 “불법 실어나르기 포착” 신고 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605291849001",
-      "source": "경향신문",
-      "pubDate": "Fri, 29 May 2026 09:49:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/29/news-p.v1.20260529.168aa60d268249318d8fc5ca9edc9118_P1.jpg",
+      "title": "의협, 수가협상 결렬...병협·약사회·치협·한의협은 타결 - 의학신문",
+      "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3005384",
+      "source": "의학신문",
+      "pubDate": "Fri, 29 May 2026 22:50:51 GMT",
+      "image": "https://cdn.bosa.co.kr/news/photo/202605/3005384_405716_4742.jpg",
       "summaries": {
-        "ko": "사전투표 첫날 승합차에서 우르르 내린 어르신들?···김부겸 캠프 “불법 실어나르기 포착” 신고 - 경향신문",
-        "en": "사전투표 첫날 승합차에서 우르르 내린 어르신들?···김부겸 캠프 “불법 실어나르기 포착” 신고 - 경향신문",
-        "zh": "사전투표 첫날 승합차에서 우르르 내린 어르신들?···김부겸 캠프 “불법 실어나르기 포착” 신고 - 경향신문"
+        "ko": "의협, 수가협상 결렬...병협·약사회·치협·한의협은 타결 - 의학신문",
+        "en": "의협, 수가협상 결렬...병협·약사회·치협·한의협은 타결 - 의학신문",
+        "zh": "의협, 수가협상 결렬...병협·약사회·치협·한의협은 타결 - 의학신문"
       }
     },
     {
-      "title": "정원오 “철근누락 현장 안 가본 후보”…오세훈 “말려들지 않겠다”[서울시장 TV토론] - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605290759001",
-      "source": "경향신문",
-      "pubDate": "Thu, 28 May 2026 22:59:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/29/rcv.YNA.20260528.PYH2026052823780001300_P1.jpg",
+      "title": "사전투표 첫날 승합차에서 우르르 내린 어르신들?···김부겸 캠프 “불법 실어나르기 포착” 신고 - v.daum.net",
+      "link": "https://v.daum.net/v/20260529185115161",
+      "source": "v.daum.net",
+      "pubDate": "Fri, 29 May 2026 09:51:15 GMT",
+      "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/29/khan/20260529185117090orde.jpg",
       "summaries": {
-        "ko": "정원오 “철근누락 현장 안 가본 후보”…오세훈 “말려들지 않겠다”[서울시장 TV토론] - 경향신문",
-        "en": "정원오 “철근누락 현장 안 가본 후보”…오세훈 “말려들지 않겠다”[서울시장 TV토론] - 경향신문",
-        "zh": "정원오 “철근누락 현장 안 가본 후보”…오세훈 “말려들지 않겠다”[서울시장 TV토론] - 경향신문"
-      }
-    },
-    {
-      "title": "사전투표일 터진 박완수 측 '딥페이크'에 발칵…김경수 \"사퇴해야\" - 노컷뉴스",
-      "link": "https://www.nocutnews.co.kr/news/6524972",
-      "source": "노컷뉴스",
-      "pubDate": "Fri, 29 May 2026 07:36:00 GMT",
-      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/05/29/202605291617421273_0.jpg",
-      "summaries": {
-        "ko": "사전투표일 터진 박완수 측 '딥페이크'에 발칵…김경수 \"사퇴해야\" - 노컷뉴스",
-        "en": "사전투표일 터진 박완수 측 '딥페이크'에 발칵…김경수 \"사퇴해야\" - 노컷뉴스",
-        "zh": "사전투표일 터진 박완수 측 '딥페이크'에 발칵…김경수 \"사퇴해야\" - 노컷뉴스"
+        "ko": "사전투표 첫날 승합차에서 우르르 내린 어르신들?···김부겸 캠프 “불법 실어나르기 포착” 신고 - v.daum.net",
+        "en": "사전투표 첫날 승합차에서 우르르 내린 어르신들?···김부겸 캠프 “불법 실어나르기 포착” 신고 - v.daum.net",
+        "zh": "사전투표 첫날 승합차에서 우르르 내린 어르신들?···김부겸 캠프 “불법 실어나르기 포착” 신고 - v.daum.net"
       }
     },
     {
@@ -110,6 +86,30 @@
       }
     },
     {
+      "title": "정원오·오세훈 여기선 13%p차, 저기선 동률 - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/05/29/ZNGGHN5CXRE3DERCFLKURCX4EA/",
+      "source": "조선일보",
+      "pubDate": "Thu, 28 May 2026 15:56:50 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GIYTANZVGJRGGNJRGRQTENJXGI.jpg?auth=387e48e3e70585c347594d6d288d64651291d7a2552e66294a3a727bbe5635a5&width=1200&height=630&focal=2922,45",
+      "summaries": {
+        "ko": "정원오·오세훈 여기선 13%p차, 저기선 동률 - 조선일보",
+        "en": "정원오·오세훈 여기선 13%p차, 저기선 동률 - 조선일보",
+        "zh": "정원오·오세훈 여기선 13%p차, 저기선 동률 - 조선일보"
+      }
+    },
+    {
+      "title": "李, 회색 넥타이 매고 靑인근서 사전투표…김혜경 여사 동행 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260529/134015683/2",
+      "source": "동아일보",
+      "pubDate": "Fri, 29 May 2026 03:42:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/29/134015721.1.jpg",
+      "summaries": {
+        "ko": "李, 회색 넥타이 매고 靑인근서 사전투표…김혜경 여사 동행 - 동아일보",
+        "en": "李, 회색 넥타이 매고 靑인근서 사전투표…김혜경 여사 동행 - 동아일보",
+        "zh": "李, 회색 넥타이 매고 靑인근서 사전투표…김혜경 여사 동행 - 동아일보"
+      }
+    },
+    {
       "title": "하정우 “부산 유일 여당 의원” 박민식 “결국 기호 2번” 한동훈 “여론조사 앞서” - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1261039.html",
       "source": "한겨레",
@@ -119,6 +119,18 @@
         "ko": "하정우 “부산 유일 여당 의원” 박민식 “결국 기호 2번” 한동훈 “여론조사 앞서” - 한겨레",
         "en": "하정우 “부산 유일 여당 의원” 박민식 “결국 기호 2번” 한동훈 “여론조사 앞서” - 한겨레",
         "zh": "하정우 “부산 유일 여당 의원” 박민식 “결국 기호 2번” 한동훈 “여론조사 앞서” - 한겨레"
+      }
+    },
+    {
+      "title": "종합특검, 이상민 내달 4일 소환…관저 이전 의혹",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260530084109gxd",
+      "source": "Breaking News",
+      "pubDate": "Sat, 30 May 2026 08:41:12 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260529/MYH20260530084109gxd.jpg",
+      "summaries": {
+        "ko": "종합특검, 이상민 내달 4일 소환…관저 이전 의혹",
+        "en": "종합특검, 이상민 내달 4일 소환…관저 이전 의혹",
+        "zh": "종합특검, 이상민 내달 4일 소환…관저 이전 의혹"
       }
     }
   ]
