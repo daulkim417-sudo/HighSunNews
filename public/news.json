@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-29T23:54:28.692219",
+  "lastUpdate": "2026-05-30T01:47:37.533625",
   "items": [
     {
       "title": "경의선 운행 재개…강릉·중앙선 KTX-이음 서울~청량리 구간도 정상화 - 경향신문",
@@ -8,21 +8,9 @@
       "pubDate": "Fri, 29 May 2026 23:02:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/05/30/news-p.v1.20260530.d2749d9e12bb49a8bc7633b90101573a_P1.jpeg",
       "summaries": {
-        "ko": "서소문 고가차도 붕괴 사고로 중단됐던 경의선 및 강릉·중앙선 KTX-이음 서울~청량리 구간 운행이 재개되어 철도 운행 체계가 빠르게 회복될 전망이다.",
-        "en": "Train services on the Gyeongui Line and the Seoul-Cheongnyangni section of Gangneung/Jungang Line KTX-Eum have resumed after being suspended due to the Seosomun overpass collapse, with the railway operating system expected to recover quickly.",
-        "zh": "因西小门高架桥坍塌事故中断的京义线及江陵·中央线KTX-Eum首尔至清凉里区段的列车运行已恢复，预计铁路运行系统将迅速恢复正常。"
-      }
-    },
-    {
-      "title": "트럼프 “최종 결정 위해 백악관서 회의”…‘휴전 MOU’ 합의 임박한 듯 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1261132.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 29 May 2026 16:37:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/958/575/imgdb/child/2026/0530/53_17800695341986_20260529500014.webp",
-      "summaries": {
-        "ko": "트럼프 “최종 결정 위해 백악관서 회의”…‘휴전 MOU’ 합의 임박한 듯 - 한겨레",
-        "en": "트럼프 “최종 결정 위해 백악관서 회의”…‘휴전 MOU’ 합의 임박한 듯 - 한겨레",
-        "zh": "트럼프 “최종 결정 위해 백악관서 회의”…‘휴전 MOU’ 합의 임박한 듯 - 한겨레"
+        "ko": "서소문 고가차도 붕괴 사고로 중단됐던 경의선과 강릉·중앙선 KTX-이음의 서울~청량리 구간 운행이 나흘 만인 30일 재개되며 철도 운행 체계가 정상화 단계에 접어들었다.",
+        "en": "Train services on the Gyeongui Line and the Seoul-Cheongnyangni section of Gangneung/Jungang Line KTX-Eum, which were halted for four days due to the Seosomun overpass collapse, resumed on the 30th, with the overall railway system now entering a phase of rapid normalization.",
+        "zh": "因西小门高架桥坍塌事故中断的京义线及江陵·中央线KTX-Eum首尔至清凉里区段的列车服务在停运四天后于30日恢复，铁路运行系统正迅速恢复正常。"
       }
     },
     {
@@ -32,9 +20,33 @@
       "pubDate": "Fri, 29 May 2026 13:12:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0529/53_17800543603148_20260529502314.webp",
       "summaries": {
-        "ko": "역대 최고 첫날 사전투표율, 여야 모두 ‘신중’…“3일 투표 익숙해져” - 한겨레",
-        "en": "역대 최고 첫날 사전투표율, 여야 모두 ‘신중’…“3일 투표 익숙해져” - 한겨레",
-        "zh": "역대 최고 첫날 사전투표율, 여야 모두 ‘신중’…“3일 투표 익숙해져” - 한겨레"
+        "ko": "6·3 지방선거 사전투표 첫날 역대 최고 투표율을 기록했으나, 여야는 그 정치적 유불리 해석에 신중한 태도를 보이며 사전투표가 유권자들에게 익숙해진 현상으로 분석했다.",
+        "en": "Despite record-high first-day early voting for the 6/3 local elections, both major parties remain cautious about its political implications, attributing the high turnout to the public's increasing familiarity with early voting.",
+        "zh": "尽管6月3日地方选举的提前投票首日投票率创历史新高，但执政党和反对党均对其政治影响持谨慎态度，认为这反映了选民对提前投票的日益熟悉。"
+      }
+    },
+    {
+      "title": "장동혁, \"이 대통령 '투표지 노출'‥불법 선거 운동은 탄핵 사유\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6826299_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Fri, 29 May 2026 11:30:08 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/29/hye_20260529_29.jpg",
+      "summaries": {
+        "ko": "장동혁, \"이 대통령 '투표지 노출'‥불법 선거 운동은 탄핵 사유\" - MBC 뉴스",
+        "en": "장동혁, \"이 대통령 '투표지 노출'‥불법 선거 운동은 탄핵 사유\" - MBC 뉴스",
+        "zh": "장동혁, \"이 대통령 '투표지 노출'‥불법 선거 운동은 탄핵 사유\" - MBC 뉴스"
+      }
+    },
+    {
+      "title": "“이번 주말, 다시 무더위가 찾아온다” [정동길 옆 사진관] - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605300900011",
+      "source": "경향신문",
+      "pubDate": "Sat, 30 May 2026 00:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/30/news-p.v1.20260529.adf71659ffdd437fb8497097a037c4da_P1.jpg",
+      "summaries": {
+        "ko": "“이번 주말, 다시 무더위가 찾아온다” [정동길 옆 사진관] - 경향신문",
+        "en": "“이번 주말, 다시 무더위가 찾아온다” [정동길 옆 사진관] - 경향신문",
+        "zh": "“이번 주말, 다시 무더위가 찾아온다” [정동길 옆 사진관] - 경향신문"
       }
     },
     {
@@ -50,87 +62,75 @@
       }
     },
     {
-      "title": "의협, 수가협상 결렬...병협·약사회·치협·한의협은 타결 - 의학신문",
-      "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3005384",
-      "source": "의학신문",
-      "pubDate": "Fri, 29 May 2026 22:50:51 GMT",
-      "image": "https://cdn.bosa.co.kr/news/photo/202605/3005384_405716_4742.jpg",
+      "title": "[단독]약물 의심 성폭력 피해자 김지현씨, 경찰에 추가 고소한다…재판소원은 각하 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605300900031",
+      "source": "경향신문",
+      "pubDate": "Sat, 30 May 2026 00:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/30/news-p.v1.20260529.954ac3612990483dad7fbe9e7b74b720_P1.png",
       "summaries": {
-        "ko": "의협, 수가협상 결렬...병협·약사회·치협·한의협은 타결 - 의학신문",
-        "en": "의협, 수가협상 결렬...병협·약사회·치협·한의협은 타결 - 의학신문",
-        "zh": "의협, 수가협상 결렬...병협·약사회·치협·한의협은 타결 - 의학신문"
+        "ko": "약물 의심 성폭력 피해자 김지현씨가 법원과 헌법재판소의 기각 및 각하 결정에도 불구하고, 경찰에 추가 고소장을 제출하여 미재생 영상 파일의 디지털 포렌식 및 약물 구매 이력 재수사를 요구했다.",
+        "en": "Kim Ji-hyun (pseudonym), a victim of alleged drug-facilitated sexual assault, plans to file an additional complaint with the police, demanding a re-investigation including digital forensics of an unplayable video file and scrutiny of drug purchase history, after courts dismissed her appeals and the Constitutional Court rejected her petition.",
+        "zh": "药驾性侵受害者金智贤（化名）在法院驳回其上诉且宪法裁判所驳回其宪法诉愿后，仍将向警方追加控告，要求对无法播放的视频文件进行数字取证并重新调查毒品购买记录。"
       }
     },
     {
-      "title": "사전투표 첫날 승합차에서 우르르 내린 어르신들?···김부겸 캠프 “불법 실어나르기 포착” 신고 - v.daum.net",
-      "link": "https://v.daum.net/v/20260529185115161",
-      "source": "v.daum.net",
-      "pubDate": "Fri, 29 May 2026 09:51:15 GMT",
-      "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/29/khan/20260529185117090orde.jpg",
+      "title": "사전투표일 터진 박완수 측 '딥페이크'에 발칵…김경수 \"사퇴해야\" - 노컷뉴스",
+      "link": "https://www.nocutnews.co.kr/news/6524972",
+      "source": "노컷뉴스",
+      "pubDate": "Fri, 29 May 2026 07:36:00 GMT",
+      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/05/29/202605291617421273_0.jpg",
       "summaries": {
-        "ko": "사전투표 첫날 승합차에서 우르르 내린 어르신들?···김부겸 캠프 “불법 실어나르기 포착” 신고 - v.daum.net",
-        "en": "사전투표 첫날 승합차에서 우르르 내린 어르신들?···김부겸 캠프 “불법 실어나르기 포착” 신고 - v.daum.net",
-        "zh": "사전투표 첫날 승합차에서 우르르 내린 어르신들?···김부겸 캠프 “불법 실어나르기 포착” 신고 - v.daum.net"
+        "ko": "사전투표일 터진 박완수 측 '딥페이크'에 발칵…김경수 \"사퇴해야\" - 노컷뉴스",
+        "en": "사전투표일 터진 박완수 측 '딥페이크'에 발칵…김경수 \"사퇴해야\" - 노컷뉴스",
+        "zh": "사전투표일 터진 박완수 측 '딥페이크'에 발칵…김경수 \"사퇴해야\" - 노컷뉴스"
       }
     },
     {
-      "title": "'LG마곡센터 흉기난동' 60대 피의자 구속‥\"도주 우려\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6826270_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Fri, 29 May 2026 09:46:39 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/05/29/hye_20260529_14.jpg",
+      "title": "임신부·태아 숨진 의정부 화물차 사고…50대 기사 금고형 집유 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260529106700060",
+      "source": "연합뉴스",
+      "pubDate": "Fri, 29 May 2026 22:17:01 GMT",
+      "image": "https://img3.yna.co.kr/photo/cms/2024/12/10/17/PCM20241210000117990_P4.jpg",
       "summaries": {
-        "ko": "'LG마곡센터 흉기난동' 60대 피의자 구속‥\"도주 우려\" - MBC 뉴스",
-        "en": "'LG마곡센터 흉기난동' 60대 피의자 구속‥\"도주 우려\" - MBC 뉴스",
-        "zh": "'LG마곡센터 흉기난동' 60대 피의자 구속‥\"도주 우려\" - MBC 뉴스"
+        "ko": "임신부·태아 숨진 의정부 화물차 사고…50대 기사 금고형 집유 - 연합뉴스",
+        "en": "임신부·태아 숨진 의정부 화물차 사고…50대 기사 금고형 집유 - 연합뉴스",
+        "zh": "임신부·태아 숨진 의정부 화물차 사고…50대 기사 금고형 집유 - 연합뉴스"
       }
     },
     {
-      "title": "정원오·오세훈 여기선 13%p차, 저기선 동률 - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/05/29/ZNGGHN5CXRE3DERCFLKURCX4EA/",
-      "source": "조선일보",
-      "pubDate": "Thu, 28 May 2026 15:56:50 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GIYTANZVGJRGGNJRGRQTENJXGI.jpg?auth=387e48e3e70585c347594d6d288d64651291d7a2552e66294a3a727bbe5635a5&width=1200&height=630&focal=2922,45",
-      "summaries": {
-        "ko": "정원오·오세훈 여기선 13%p차, 저기선 동률 - 조선일보",
-        "en": "정원오·오세훈 여기선 13%p차, 저기선 동률 - 조선일보",
-        "zh": "정원오·오세훈 여기선 13%p차, 저기선 동률 - 조선일보"
-      }
-    },
-    {
-      "title": "李, 회색 넥타이 매고 靑인근서 사전투표…김혜경 여사 동행 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260529/134015683/2",
-      "source": "동아일보",
-      "pubDate": "Fri, 29 May 2026 03:42:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/29/134015721.1.jpg",
-      "summaries": {
-        "ko": "李, 회색 넥타이 매고 靑인근서 사전투표…김혜경 여사 동행 - 동아일보",
-        "en": "李, 회색 넥타이 매고 靑인근서 사전투표…김혜경 여사 동행 - 동아일보",
-        "zh": "李, 회색 넥타이 매고 靑인근서 사전투표…김혜경 여사 동행 - 동아일보"
-      }
-    },
-    {
-      "title": "하정우 “부산 유일 여당 의원” 박민식 “결국 기호 2번” 한동훈 “여론조사 앞서” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261039.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 29 May 2026 13:12:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/481/imgdb/original/2026/0529/20260529501790.webp",
-      "summaries": {
-        "ko": "하정우 “부산 유일 여당 의원” 박민식 “결국 기호 2번” 한동훈 “여론조사 앞서” - 한겨레",
-        "en": "하정우 “부산 유일 여당 의원” 박민식 “결국 기호 2번” 한동훈 “여론조사 앞서” - 한겨레",
-        "zh": "하정우 “부산 유일 여당 의원” 박민식 “결국 기호 2번” 한동훈 “여론조사 앞서” - 한겨레"
-      }
-    },
-    {
-      "title": "종합특검, 이상민 내달 4일 소환…관저 이전 의혹",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260530084109gxd",
+      "title": "미, 브라질 범죄조직 테러단체 지정…룰라 \"어린애 취급\" 반발",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260530104549mXq",
       "source": "Breaking News",
-      "pubDate": "Sat, 30 May 2026 08:41:12 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260529/MYH20260530084109gxd.jpg",
+      "pubDate": "Sat, 30 May 2026 10:45:51 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260530/AKR20260530104549mXq_01_i.jpg",
       "summaries": {
-        "ko": "종합특검, 이상민 내달 4일 소환…관저 이전 의혹",
-        "en": "종합특검, 이상민 내달 4일 소환…관저 이전 의혹",
-        "zh": "종합특검, 이상민 내달 4일 소환…관저 이전 의혹"
+        "ko": "미, 브라질 범죄조직 테러단체 지정…룰라 \"어린애 취급\" 반발",
+        "en": "미, 브라질 범죄조직 테러단체 지정…룰라 \"어린애 취급\" 반발",
+        "zh": "미, 브라질 범죄조직 테러단체 지정…룰라 \"어린애 취급\" 반발"
+      }
+    },
+    {
+      "title": "[6·3 격전지] \"전재수로 바꿔야\"·\"박형준 한번 더\"…부산 표심 어디로",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260530104039ZQs",
+      "source": "Breaking News",
+      "pubDate": "Sat, 30 May 2026 10:40:41 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260530/MYH20260530104039ZQs.jpg",
+      "summaries": {
+        "ko": "[6·3 격전지] \"전재수로 바꿔야\"·\"박형준 한번 더\"…부산 표심 어디로",
+        "en": "[6·3 격전지] \"전재수로 바꿔야\"·\"박형준 한번 더\"…부산 표심 어디로",
+        "zh": "[6·3 격전지] \"전재수로 바꿔야\"·\"박형준 한번 더\"…부산 표심 어디로"
+      }
+    },
+    {
+      "title": "[속보] 미 국방 \"한국 등 동맹의 군 작전통제권 신속 주도 고무적\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260530103224VbK",
+      "source": "Breaking News",
+      "pubDate": "Sat, 30 May 2026 10:32:26 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260530/AKR20260530103224VbK_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] 미 국방 \"한국 등 동맹의 군 작전통제권 신속 주도 고무적\"",
+        "en": "[속보] 미 국방 \"한국 등 동맹의 군 작전통제권 신속 주도 고무적\"",
+        "zh": "[속보] 미 국방 \"한국 등 동맹의 군 작전통제권 신속 주도 고무적\""
       }
     }
   ]
