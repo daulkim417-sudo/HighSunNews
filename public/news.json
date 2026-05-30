@@ -1,148 +1,124 @@
 {
-  "lastUpdate": "2026-05-30T05:35:41.872464",
+  "lastUpdate": "2026-05-30T08:05:12.035512",
   "items": [
     {
-      "title": "높은 사전투표율 놓고 해석 ‘동상이몽’…민주 “관심 반영” 국힘 “분노 표출” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605301229001",
-      "source": "경향신문",
-      "pubDate": "Sat, 30 May 2026 03:29:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/30/news-p.v1.20260530.1f90b04aa7b44dc189b20e166f4464ab_P1.jpeg",
-      "summaries": {
-        "ko": "6·3 지방선거 사전투표율이 높게 나오자 여야는 이를 각각 선거에 대한 관심과 변화 요구, 또는 현 정부에 대한 견제 심리의 반영으로 해석하며 대립하고 있다.",
-        "en": "With a high early voting turnout for the 6.3 local elections, the ruling and opposition parties are clashing, each interpreting it as a sign of either strong public interest and a demand for change or a desire to check the current government.",
-        "zh": "随着6·3地方选举提前投票率达到较高水平，执政党和在野党就此展开争论，各自将其解读为反映了民众的高度关注和求变愿望，或对现任政府的制约心理。"
-      }
-    },
-    {
-      "title": "이 대통령 “투표 포기, 내 삶 해치는 그들 편드는 것” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1261149.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 30 May 2026 04:25:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0530/20260530500198.webp",
-      "summaries": {
-        "ko": "이 대통령 “투표 포기, 내 삶 해치는 그들 편드는 것” - 한겨레",
-        "en": "이 대통령 “투표 포기, 내 삶 해치는 그들 편드는 것” - 한겨레",
-        "zh": "이 대통령 “투표 포기, 내 삶 해치는 그들 편드는 것” - 한겨레"
-      }
-    },
-    {
-      "title": "美국방 \"한국 전작권 전환 논의 고무적\" - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/05/30/P3EVQ4NUPVAJFDIJEHZFWHG53Q/",
+      "title": "높은 사전투표율에…여야 모두 \"우리에게 유리\" - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/05/30/P5ZUTE3GCBDTBMY4CRYOYXGNCQ/",
       "source": "조선일보",
-      "pubDate": "Sat, 30 May 2026 01:05:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/FWNK7RSKZJEWLERIE4AXANFUTY.jpg?auth=45af18e2bbf5706ba3ad484246903bb553727d0682bb53f4689452828bea3e57&width=1200&height=630&focal=4440,1993",
+      "pubDate": "Sat, 30 May 2026 04:08:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GE47LYCZJNCWZGQSHPSRCFEO4U.gif?auth=c8e5bb6f3fa76d035c2edfeda885ca6a3b2b07490397f35ed4e6be5e323d7bf5&width=751&height=394&focal=351,123",
       "summaries": {
-        "ko": "美국방 \"한국 전작권 전환 논의 고무적\" - 조선일보",
-        "en": "美국방 \"한국 전작권 전환 논의 고무적\" - 조선일보",
-        "zh": "美국방 \"한국 전작권 전환 논의 고무적\" - 조선일보"
+        "ko": "높은 사전투표율에…여야 모두 \"우리에게 유리\" - 조선일보",
+        "en": "높은 사전투표율에…여야 모두 \"우리에게 유리\" - 조선일보",
+        "zh": "높은 사전투표율에…여야 모두 \"우리에게 유리\" - 조선일보"
       }
     },
     {
-      "title": "[단독] 서소문 고가 철거, ‘구조 안전성 보강 계획’ 수차례 요청받았다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/area_general/1261136.html",
+      "title": "지방선거 D-4…정청래 “이 대통령에 힘을” 장동혁 “독재 멈춰세워야” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261158.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 30 May 2026 07:39:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2026/0530/20260530500422.webp",
+      "summaries": {
+        "ko": "지방선거를 나흘 앞두고, 정청래 더불어민주당 대표는 '이재명 대통령'에게 힘을 실어주고 '내란'을 청산하자고 호소했으며, 장동혁 국민의힘 대표는 이 대통령의 선거중립 위반을 비판하며 '이재명의 독재'를 멈춰 세워야 한다고 촉구했다.",
+        "en": "With four days remaining until the local elections, Democratic Party leader Jung Cheong-rae appealed for support to strengthen 'President Lee Jae-myung' and clear 'rebellion,' while People Power Party leader Jang Dong-hyuk criticized 'President Lee's' alleged election neutrality violation and urged voters to halt his 'dictatorship.'",
+        "zh": "在地方选举前四天，共同民主党代表郑清来呼吁支持“李在明总统”以实现稳定执政并肃清“叛乱”，而国民力量党代表张东赫则批评“李总统”涉嫌违反选举中立原则，并敦促选民阻止“李在明的独裁”。"
+      }
+    },
+    {
+      "title": "이명박 부산 방문 앞두고 여야 격돌…전재수 측 “해수부 폐지 책임” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605301525001",
+      "source": "경향신문",
+      "pubDate": "Sat, 30 May 2026 06:25:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/30/news-p.v1.20260530.6075289ea704404e9b6009d820357000_P1.jpg",
+      "summaries": {
+        "ko": "이명박 전 대통령의 부산 방문을 앞두고 여야는 해양수산부 폐지 책임과 부산 발전 전략을 놓고 격돌했으며, 민주당은 이명박 정부와 박형준 후보를 비판했고 국민의힘은 '낡은 프레임'이라며 맞섰다.",
+        "en": "Ahead of former President Lee Myung-bak's visit to Busan, the ruling and opposition parties clashed over the responsibility for the abolition of the Ministry of Maritime Affairs and Fisheries and Busan's development strategy, with the Democratic Party criticizing the Lee Myung-bak administration and candidate Park Hyeong-jun, while the People Power Party countered, calling it an 'old frame'.",
+        "zh": "在前总统李明博访问釜山前夕，朝野双方就海洋水产部废除责任和釜山发展战略展开激烈冲突，民主党批评李明博政府和候选人朴亨埈，而国民力量党则反驳称其为“过时框架”。"
+      }
+    },
+    {
+      "title": "트럼프, 이란 휴전안 최종 결정 유보…“레드라인 충족하는 합의만” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/america/1261146.html",
       "source": "한겨레",
       "pubDate": "Sat, 30 May 2026 04:24:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/701/443/imgdb/original/2026/0529/20260529502712.webp",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0529/20260529501273.webp",
       "summaries": {
-        "ko": "[단독] 서소문 고가 철거, ‘구조 안전성 보강 계획’ 수차례 요청받았다 - 한겨레",
-        "en": "[단독] 서소문 고가 철거, ‘구조 안전성 보강 계획’ 수차례 요청받았다 - 한겨레",
-        "zh": "[단독] 서소문 고가 철거, ‘구조 안전성 보강 계획’ 수차례 요청받았다 - 한겨레"
+        "ko": "트럼프 대통령이 이란과의 잠정 휴전 합의안 최종 결정을 유보하며 이란의 핵무기 포기와 호르무즈해협 재개방 등 자신의 '레드라인' 충족을 강조했지만, 이란은 핵 문제 제외와 해협 관리·재개방에 대한 이견을 고수하며 최종 합의에 이르지 못했다.",
+        "en": "President Trump deferred a final decision on a provisional ceasefire deal with Iran, insisting that any agreement must meet his 'red lines' concerning nuclear weapons and the immediate reopening of the Strait of Hormuz, while Iran maintained that the nuclear issue is not currently negotiable and expressed differing views on the strait's management, preventing a final agreement.",
+        "zh": "特朗普总统推迟了对与伊朗临时停火协议的最终决定，强调任何协议都必须满足他在核武器和霍尔木兹海峡立即重新开放方面的“红线”，而伊朗则表示核问题不属于当前谈判范围，并在海峡管理上存在分歧，导致最终协议未能达成。"
       }
     },
     {
-      "title": "민주당 텃밭도 불안?…정청래, 호남 돌며 “무소속 말고 민주당” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605301409001",
+      "title": "[속보] 코레일 “내일부터 모든 열차 정상 운행” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1261160.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 30 May 2026 06:51:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/573/imgdb/original/2026/0530/20260530500462.webp",
+      "summaries": {
+        "ko": "코레일은 서소문 고가차도 붕괴 사고 여파로 운행에 차질을 빚었던 모든 열차가 내일(31일)부터 정상 운행을 재개한다고 밝혔다.",
+        "en": "Korail announced that all train services, which had been disrupted due to the Seo-somun overpass collapse, will resume normal operation starting tomorrow (the 31st).",
+        "zh": "韩国铁道公社（Korail）宣布，因西小门高架桥坍塌事故而中断的所有列车服务将从明天（31日）起恢复正常运行。"
+      }
+    },
+    {
+      "title": "미 국방, 한국 전작권 의지에 ″고무적″…′균형′ 강조도 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260530150101Zd0",
+      "source": "연합뉴스TV",
+      "pubDate": "Sat, 30 May 2026 06:01:01 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260530/AKR20260530150101Zd0_01_i.jpg",
+      "summaries": {
+        "ko": "미 국방, 한국 전작권 의지에 ″고무적″…′균형′ 강조도 - 연합뉴스TV",
+        "en": "미 국방, 한국 전작권 의지에 ″고무적″…′균형′ 강조도 - 연합뉴스TV",
+        "zh": "미 국방, 한국 전작권 의지에 ″고무적″…′균형′ 강조도 - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "李 기표소 논란…與 “단순 해프닝” 野 “경찰 고발” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260530/134020692/1",
+      "source": "동아일보",
+      "pubDate": "Sat, 30 May 2026 04:22:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/30/134020732.1.jpg",
+      "summaries": {
+        "ko": "李 기표소 논란…與 “단순 해프닝” 野 “경찰 고발” - 동아일보",
+        "en": "李 기표소 논란…與 “단순 해프닝” 野 “경찰 고발” - 동아일보",
+        "zh": "李 기표소 논란…與 “단순 해프닝” 野 “경찰 고발” - 동아일보"
+      }
+    },
+    {
+      "title": "장동혁 “이재명, 투표소서 선거운동” 주장…강원서 정권심판론 총공세 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605301415001",
       "source": "경향신문",
-      "pubDate": "Sat, 30 May 2026 05:09:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/30/news-p.v1.20260530.b277a0facb254ba593a00f14a1d87424_P1.jpg",
+      "pubDate": "Sat, 30 May 2026 05:15:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/30/news-p.v1.20260530.97a80b76d90b4641aeabb64cd19df2a6_P1.jpg",
       "summaries": {
-        "ko": "민주당 텃밭도 불안?…정청래, 호남 돌며 “무소속 말고 민주당” - 경향신문",
-        "en": "민주당 텃밭도 불안?…정청래, 호남 돌며 “무소속 말고 민주당” - 경향신문",
-        "zh": "민주당 텃밭도 불안?…정청래, 호남 돌며 “무소속 말고 민주당” - 경향신문"
+        "ko": "장동혁 “이재명, 투표소서 선거운동” 주장…강원서 정권심판론 총공세 - 경향신문",
+        "en": "장동혁 “이재명, 투표소서 선거운동” 주장…강원서 정권심판론 총공세 - 경향신문",
+        "zh": "장동혁 “이재명, 투표소서 선거운동” 주장…강원서 정권심판론 총공세 - 경향신문"
       }
     },
     {
-      "title": "‘승인만 남았다’더니…트럼프, 이란 협상 막판 고심 왜 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605301157001",
-      "source": "경향신문",
-      "pubDate": "Sat, 30 May 2026 02:57:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/30/news-p.v1.20260530.c290a9f0ee774285a540389df977fe1b_P1.jpg",
+      "title": "주말 전국 ‘30도’ 넘는 초여름 더위…강한 자외선 주의 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1261151.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 30 May 2026 04:25:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/639/imgdb/original/2026/0530/20260530500210.webp",
       "summaries": {
-        "ko": "‘승인만 남았다’더니…트럼프, 이란 협상 막판 고심 왜 - 경향신문",
-        "en": "‘승인만 남았다’더니…트럼프, 이란 협상 막판 고심 왜 - 경향신문",
-        "zh": "‘승인만 남았다’더니…트럼프, 이란 협상 막판 고심 왜 - 경향신문"
+        "ko": "주말 전국 ‘30도’ 넘는 초여름 더위…강한 자외선 주의 - 한겨레",
+        "en": "주말 전국 ‘30도’ 넘는 초여름 더위…강한 자외선 주의 - 한겨레",
+        "zh": "주말 전국 ‘30도’ 넘는 초여름 더위…강한 자외선 주의 - 한겨레"
       }
     },
     {
-      "title": "정원오·오세훈 여기선 13%p차, 저기선 동률 - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/05/29/ZNGGHN5CXRE3DERCFLKURCX4EA/",
-      "source": "조선일보",
-      "pubDate": "Thu, 28 May 2026 15:56:50 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GIYTANZVGJRGGNJRGRQTENJXGI.jpg?auth=387e48e3e70585c347594d6d288d64651291d7a2552e66294a3a727bbe5635a5&width=1200&height=630&focal=2922,45",
+      "title": "용적률 1300%·권한 이양 ... 서울시장 공약 속 부동산 계산법 - 매일경제",
+      "link": "https://www.mk.co.kr/news/realestate/12061121",
+      "source": "매일경제",
+      "pubDate": "Fri, 29 May 2026 19:00:00 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202605/29/news-p.v1.20260529.27d6f046c19f41af85235dfec3b5ac00_R.png",
       "summaries": {
-        "ko": "정원오·오세훈 여기선 13%p차, 저기선 동률 - 조선일보",
-        "en": "정원오·오세훈 여기선 13%p차, 저기선 동률 - 조선일보",
-        "zh": "정원오·오세훈 여기선 13%p차, 저기선 동률 - 조선일보"
-      }
-    },
-    {
-      "title": "與野 지도부, 6·3 선거 마지막 주말 남부·강원서 총력전 - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/05/30/AK7NLDBX2NGH7DNQXRLQM6JZF4/",
-      "source": "조선일보",
-      "pubDate": "Sat, 30 May 2026 02:05:47 GMT",
-      "image": "https://www.chosun.com/resizer/v2/TBFFXS6OQVC6DM6YMCEKUD4JHM.JPG?auth=470713a2236e4c4dbd761f6d65521edf5a21d9ce1e97e1ea0b8a7774aea38fb5&width=1024&height=537&smart=true",
-      "summaries": {
-        "ko": "與野 지도부, 6·3 선거 마지막 주말 남부·강원서 총력전 - 조선일보",
-        "en": "與野 지도부, 6·3 선거 마지막 주말 남부·강원서 총력전 - 조선일보",
-        "zh": "與野 지도부, 6·3 선거 마지막 주말 남부·강원서 총력전 - 조선일보"
-      }
-    },
-    {
-      "title": "김용남 지원 나선 與 \"혁신당과 합당 안 해‥가짜 민주당 안돼\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6826378_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sat, 30 May 2026 02:21:08 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/30/ggm_20260530_26.jpg",
-      "summaries": {
-        "ko": "김용남 지원 나선 與 \"혁신당과 합당 안 해‥가짜 민주당 안돼\" - MBC 뉴스",
-        "en": "김용남 지원 나선 與 \"혁신당과 합당 안 해‥가짜 민주당 안돼\" - MBC 뉴스",
-        "zh": "김용남 지원 나선 與 \"혁신당과 합당 안 해‥가짜 민주당 안돼\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "[단독]약물 의심 성폭력 피해자 김지현씨, 경찰에 추가 고소한다…재판소원은 각하 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605300900031",
-      "source": "경향신문",
-      "pubDate": "Sat, 30 May 2026 00:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/30/news-p.v1.20260529.954ac3612990483dad7fbe9e7b74b720_P1.png",
-      "summaries": {
-        "ko": "[단독]약물 의심 성폭력 피해자 김지현씨, 경찰에 추가 고소한다…재판소원은 각하 - 경향신문",
-        "en": "[단독]약물 의심 성폭력 피해자 김지현씨, 경찰에 추가 고소한다…재판소원은 각하 - 경향신문",
-        "zh": "[단독]약물 의심 성폭력 피해자 김지현씨, 경찰에 추가 고소한다…재판소원은 각하 - 경향신문"
-      }
-    },
-    {
-      "title": "정청래, 호남서 텃밭 민심 사수…\"무소속보다 與 후보 나아\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260530142730H3m",
-      "source": "Breaking News",
-      "pubDate": "Sat, 30 May 2026 14:27:30 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260530/AKR20260530142730H3m_01_i.jpg",
-      "summaries": {
-        "ko": "정청래, 호남서 텃밭 민심 사수…\"무소속보다 與 후보 나아\"",
-        "en": "정청래, 호남서 텃밭 민심 사수…\"무소속보다 與 후보 나아\"",
-        "zh": "정청래, 호남서 텃밭 민심 사수…\"무소속보다 與 후보 나아\""
-      }
-    },
-    {
-      "title": "이란 \"최종합의는 아직\"…전 최고지도자 장례 준비",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260530142228axv",
-      "source": "Breaking News",
-      "pubDate": "Sat, 30 May 2026 14:22:29 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260530/MYH20260530142228axv.jpg",
-      "summaries": {
-        "ko": "이란 \"최종합의는 아직\"…전 최고지도자 장례 준비",
-        "en": "이란 \"최종합의는 아직\"…전 최고지도자 장례 준비",
-        "zh": "이란 \"최종합의는 아직\"…전 최고지도자 장례 준비"
+        "ko": "용적률 1300%·권한 이양 ... 서울시장 공약 속 부동산 계산법 - 매일경제",
+        "en": "용적률 1300%·권한 이양 ... 서울시장 공약 속 부동산 계산법 - 매일경제",
+        "zh": "용적률 1300%·권한 이양 ... 서울시장 공약 속 부동산 계산법 - 매일경제"
       }
     }
   ]
