@@ -1,100 +1,76 @@
 {
-  "lastUpdate": "2026-05-31T12:03:46.223970",
+  "lastUpdate": "2026-05-31T14:06:49.511228",
   "items": [
     {
-      "title": "송영길 ‘김관영 옹호’ 발언에 조승래 “당 돌아가는 사정 몰라…현금 살포 용인하자는 것이냐” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605311908001",
+      "title": "정청래, 호남서 “미우나 고우나 1번”…장동혁, 서울서 ‘커피 한 잔의 자유’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261241.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 31 May 2026 11:02:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2026/0531/20260531501683.webp",
+      "summaries": {
+        "ko": "6.3 지방선거를 앞두고, 정청래 더불어민주당 대표는 호남과 충청에서 지역 발전을 위한 여당 후보 지지를 호소했으며, 장동혁 국민의힘 대표는 서울에서 청년층을 공략하며 '커피 한 잔의 자유'를 강조하고 야당 대표를 비판했다.",
+        "en": "Ahead of the 6.3 local elections, Democratic Party leader Jeong Cheong-rae campaigned in Honam and Chungcheong, appealing for support for ruling party candidates for regional development, while People Power Party leader Jang Dong-hyuk targeted young voters in Seoul, emphasizing 'a cup of coffee's freedom' and criticizing the opposition leader.",
+        "zh": "在6.3地方选举前夕，民主党代表郑清来在湖南和忠清地区呼吁支持执政党候选人以促进地区发展，而国民力量党代表张东赫则在首尔针对青年选民，强调“一杯咖啡的自由”并批评反对党领袖。"
+      }
+    },
+    {
+      "title": "‘격전지’ 영남권 보수 재결집 나선 ‘이명박근혜’ - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605312126015",
       "source": "경향신문",
-      "pubDate": "Sun, 31 May 2026 10:08:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/31/rcv.YNA.20260531.PYH2026053109150001300_P1.jpg",
+      "pubDate": "Sun, 31 May 2026 12:26:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/31/l_2026060101000022700088313.jpg",
       "summaries": {
-        "ko": "송영길 후보가 민주당에서 제명된 김관영 후보를 옹호하자, 조승래 민주당 사무총장이 송 후보가 당의 사정을 모른다며 김 후보의 불법 현금 살포를 용인하려는 것이냐고 비판했다.",
-        "en": "After candidate Song Young-gil defended Kim Kwan-young, who was expelled from the Democratic Party, Democratic Party Secretary-General Jo Seung-rae criticized Song, stating he was unaware of the party's situation and questioning if he was condoning Kim's illegal cash distribution.",
-        "zh": "宋永吉候选人拥护被民主党开除党籍的金宽永候选人，对此，民主党事务总长赵承来批评宋永吉不了解党内情况，并质疑其是否在容忍金宽永的非法散发现金行为。"
+        "ko": "이명박 전 대통령과 박근혜 전 대통령이 각각 부산과 대구에서 국민의힘 후보 지원 유세에 나서 보수층 결집을 시도했지만, 더불어민주당과 홍준표 전 시장으로부터 강한 비판을 받았다.",
+        "en": "Former Presidents Lee Myung-bak and Park Geun-hye separately campaigned in Busan and Daegu to support People Power Party candidates for the upcoming local elections, aiming to rally conservative voters, but faced strong criticism from the Democratic Party of Korea and former mayor Hong Joon-pyo.",
+        "zh": "前总统李明博和朴槿惠分别在釜山和大邱为国民力量党候选人助选，试图团结保守派选民，但遭到执执政党和前市长洪准杓的强烈批评。"
       }
     },
     {
-      "title": "이 대통령, 사회적 참사 모욕에 “인면수심도 유분수지…엄단” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261251.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 31 May 2026 09:57:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/619/imgdb/original/2026/0531/20260531501766.webp",
+      "title": "프로포폴 중독 환자에게 “명의 빌려오면 더 줄게” 6명 사망 이르게 한 ‘매드’ 닥터···검찰 “범죄수익 수십억” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605311759001",
+      "source": "경향신문",
+      "pubDate": "Sun, 31 May 2026 08:59:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/31/news-p.v1.20260531.73ef2264414747f187c43f4e0a39614d_P1.png",
       "summaries": {
-        "ko": "이재명 대통령이 세월호, 이태원 등 사회적 참사 피해자와 유가족을 모욕하는 허위 정보를 유포한 피의자 구속 보도를 공유하며, 앞으로 이 같은 행위를 철저히 수사하고 엄단하겠다고 밝혔다.",
-        "en": "President Lee Jae-myung, sharing news of an arrest for spreading false information insulting victims and families of social disasters like the Sewol ferry and Itaewon tragedies, vowed to thoroughly investigate and strictly punish such acts.",
-        "zh": "李在明总统在分享了一名嫌疑人因散布侮辱世越号、梨泰院等社会灾难受害者及家属的虚假信息而被捕的报道后表示，将对此类行为进行彻底调查并严厉惩罚。"
+        "ko": "프로포폴 중독 환자에게 “명의 빌려오면 더 줄게” 6명 사망 이르게 한 ‘매드’ 닥터···검찰 “범죄수익 수십억” - 경향신문",
+        "en": "프로포폴 중독 환자에게 “명의 빌려오면 더 줄게” 6명 사망 이르게 한 ‘매드’ 닥터···검찰 “범죄수익 수십억” - 경향신문",
+        "zh": "프로포폴 중독 환자에게 “명의 빌려오면 더 줄게” 6명 사망 이르게 한 ‘매드’ 닥터···검찰 “범죄수익 수십억” - 경향신문"
       }
     },
     {
-      "title": "부산 시장서 마이크 잡은 MB \"박형준 선택해 달라\" - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/05/31/5G4HSJBAJ5DUJGFTOPO2I5YBPY/",
+      "title": "송영길 ‘김관영 옹호’ 발언에... 이원택 “해당행위” 金 “도민 마음 담겨” - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/05/31/EUA37DYEVRHYDKEMCYHBWHIUYU/",
       "source": "조선일보",
-      "pubDate": "Sun, 31 May 2026 08:13:05 GMT",
-      "image": "https://www.chosun.com/resizer/v2/VD2TB2FW65ATZCJI32UUQTRX4Y.jpg?auth=11206fabfb4eff08e6183bfda1848c245a54449c0404f1212f720ac6d86b4603&width=1200&height=630&smart=true",
+      "pubDate": "Sun, 31 May 2026 05:31:22 GMT",
+      "image": "https://www.chosun.com/resizer/v2/JUJLITSSUVD7FG35STEACJ7EWA.jpg?auth=8f0eb0747a7e3124da1156f710f730db6e64d6e74690423dd5f58636dee9271a&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "부산 시장서 마이크 잡은 MB \"박형준 선택해 달라\" - 조선일보",
-        "en": "부산 시장서 마이크 잡은 MB \"박형준 선택해 달라\" - 조선일보",
-        "zh": "부산 시장서 마이크 잡은 MB \"박형준 선택해 달라\" - 조선일보"
+        "ko": "송영길 ‘김관영 옹호’ 발언에... 이원택 “해당행위” 金 “도민 마음 담겨” - 조선일보",
+        "en": "송영길 ‘김관영 옹호’ 발언에... 이원택 “해당행위” 金 “도민 마음 담겨” - 조선일보",
+        "zh": "송영길 ‘김관영 옹호’ 발언에... 이원택 “해당행위” 金 “도민 마음 담겨” - 조선일보"
       }
     },
     {
-      "title": "부산 센텀 롯데百 식품관 천장 무너져…150여명 대피 - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260531/134023943/1",
+      "title": "이 대통령, 각종 참사 관련 3천 건 '허위 글' 남성에 \"인면수심도 유분수\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6826544_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 31 May 2026 09:43:51 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/31/lyj_260531_4.jpg",
+      "summaries": {
+        "ko": "이 대통령, 각종 참사 관련 3천 건 '허위 글' 남성에 \"인면수심도 유분수\" - MBC 뉴스",
+        "en": "이 대통령, 각종 참사 관련 3천 건 '허위 글' 남성에 \"인면수심도 유분수\" - MBC 뉴스",
+        "zh": "이 대통령, 각종 참사 관련 3천 건 '허위 글' 남성에 \"인면수심도 유분수\" - MBC 뉴스"
+      }
+    },
+    {
+      "title": "트럼프, 종전 MOU 승인 거부…“양보성 합의” 비판에 수정 지시 - 동아일보",
+      "link": "https://www.donga.com/news/Inter/article/all/20260531/134023356/1",
       "source": "동아일보",
-      "pubDate": "Sun, 31 May 2026 08:18:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/31/134024334.1.jpg",
+      "pubDate": "Sun, 31 May 2026 10:18:25 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/31/134025214.1.jpg",
       "summaries": {
-        "ko": "부산 센텀 롯데百 식품관 천장 무너져…150여명 대피 - 동아일보",
-        "en": "부산 센텀 롯데百 식품관 천장 무너져…150여명 대피 - 동아일보",
-        "zh": "부산 센텀 롯데百 식품관 천장 무너져…150여명 대피 - 동아일보"
-      }
-    },
-    {
-      "title": "종전합의 “안 급해” 트럼프…끝날 때까지 끝난 게 아닌 이란전 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1261221.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 31 May 2026 11:14:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0531/20260531501428.webp",
-      "summaries": {
-        "ko": "도널드 트럼프 미국 대통령이 이란과의 거의 성사 직전이었던 합의에 대해 핵물질, 호르무즈해협 재개방, 동결 자금 해제 등에 더 강경한 조건을 요구하며 협상을 지연시키고 있으며, 이란의 반발에도 불구하고 서두르지 않겠다는 입장을 밝혔다.",
-        "en": "US President Donald Trump has stalled a near-final agreement with Iran by demanding stricter terms on nuclear material, the reopening of the Strait of Hormuz, and asset unfreezing, stating he is not in a hurry to finalize the deal despite Iranian protests.",
-        "zh": "美国总统唐纳德·特朗普要求伊朗在核材料、霍尔木兹海峡重新开放以及解冻资产方面接受更严格的条件，从而推迟了一项即将达成的协议，尽管伊朗对此表示反对，但特朗普表示不急于最终敲定协议。"
-      }
-    },
-    {
-      "title": "“쌍둥이 안고 한 표” 사전투표소 ‘북적’ - 경남일보",
-      "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=637986",
-      "source": "경남일보",
-      "pubDate": "Sun, 31 May 2026 10:21:10 GMT",
-      "image": "https://cdn.gnnews.co.kr/news/photo/202605/637986_438606_2110.jpg",
-      "summaries": {
-        "ko": "제9회 전국동시지방선거 경남 사전투표소가 출근 등 개인 사정 및 지역 발전 염원 등 다양한 이유로 투표한 유권자들, 특히 쌍둥이 부부 등으로 북적이며 지난 선거보다 높은 투표율을 기록했다.",
-        "en": "Gyeongnam's early voting centers for the 9th National Simultaneous Local Elections were bustling with various voters, including a couple with twins, who cast their ballots due to personal circumstances like work or hopes for regional development, resulting in a higher turnout than the previous election.",
-        "zh": "第9届全国同时地方选举期间，庆南地区的提前投票站人头攒动，包括一对抱着双胞胎的夫妇在内的众多选民，因工作等个人原因及对地区发展的期望而投票，投票率高于上次选举。"
-      }
-    },
-    {
-      "title": "중독자들에 프로포폴 18만㎖ 투약한 의사 구속 기소 - YTN",
-      "link": "https://www.ytn.co.kr/_ln/0103_202605311143311842",
-      "source": "YTN",
-      "pubDate": "Sun, 31 May 2026 02:43:00 GMT",
-      "image": "https://image.ytn.co.kr/general/jpg/2026/0531/202605311143311842_t.jpg",
-      "summaries": {
-        "ko": "중독자 32명에게 가족, 지인, 외국인 명의를 도용해 5년간 18만㎖의 프로포폴을 4,700회 이상 반복 투약하고 이로 인해 6명이 극단적 선택을 한 의사가 구속 기소되었다.",
-        "en": "A doctor was arrested and indicted for repeatedly administering 180,000ml of propofol over 4,700 times to 32 addicts over five years, using stolen identities of family, acquaintances, and foreigners, a practice that led to six addicts committing suicide.",
-        "zh": "一名医生因在五年内冒用家人、熟人及外国人身份，向32名吸毒者非法反复注射18万毫升异丙酚超过4700次，并导致其中6人自杀身亡而被逮捕起诉。"
-      }
-    },
-    {
-      "title": "대구경북 출신 ‘서울 사람들’, 기득권 지키려 지역감정 이용했다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261181.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 31 May 2026 09:44:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/618/418/imgdb/original/2026/0531/8817801919903696.png",
-      "summaries": {
-        "ko": "이 기사는 대구경북(TK) 지역이 박정희 정권 이후 기득권 유지를 위해 호남 등 타 지역을 차별하며 패권적 지역주의를 형성했고, 현 대구시장 선거가 이러한 지역갈등의 굴레에서 벗어날 기회라고 주장한다.",
-        "en": "This article argues that the Daegu-Gyeongbuk (TK) region formed a hegemonic regionalism since the Park Chung-hee administration, discriminating against other regions like Honam to maintain its vested interests, and that the current Daegu mayoral election is an opportunity to break free from this cycle of regional conflict.",
-        "zh": "这篇文章指出，大邱庆北（TK）地区自朴正熙政权以来，为了维护其既得利益，通过歧视湖南等其他地区形成了霸权主义的地域主义，并认为当前的大邱市长选举是摆脱这种地域冲突桎梏的机会。"
+        "ko": "트럼프, 종전 MOU 승인 거부…“양보성 합의” 비판에 수정 지시 - 동아일보",
+        "en": "트럼프, 종전 MOU 승인 거부…“양보성 합의” 비판에 수정 지시 - 동아일보",
+        "zh": "트럼프, 종전 MOU 승인 거부…“양보성 합의” 비판에 수정 지시 - 동아일보"
       }
     },
     {
@@ -110,15 +86,39 @@
       }
     },
     {
-      "title": "박근혜, 서문시장서 추경호 지원…\"대구경제 살릴 적임자\"(종합) - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260531040951053",
-      "source": "연합뉴스",
-      "pubDate": "Sun, 31 May 2026 11:20:34 GMT",
-      "image": "https://img2.yna.co.kr/photo/yna/YH/2026/05/31/PYH2026053109860005300_P4.jpg",
+      "title": "서울시, 서소문 고가 2.9㎝ 단차 알고도 통보 안 했나…붕괴 사고 쟁점 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1261220.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 31 May 2026 10:55:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0531/20260531501402.webp",
       "summaries": {
-        "ko": "박근혜, 서문시장서 추경호 지원…\"대구경제 살릴 적임자\"(종합) - 연합뉴스",
-        "en": "박근혜, 서문시장서 추경호 지원…\"대구경제 살릴 적임자\"(종합) - 연합뉴스",
-        "zh": "박근혜, 서문시장서 추경호 지원…\"대구경제 살릴 적임자\"(종합) - 연합뉴스"
+        "ko": "서울시, 서소문 고가 2.9㎝ 단차 알고도 통보 안 했나…붕괴 사고 쟁점 - 한겨레",
+        "en": "서울시, 서소문 고가 2.9㎝ 단차 알고도 통보 안 했나…붕괴 사고 쟁점 - 한겨레",
+        "zh": "서울시, 서소문 고가 2.9㎝ 단차 알고도 통보 안 했나…붕괴 사고 쟁점 - 한겨레"
+      }
+    },
+    {
+      "title": "페이커 조모 살해협박·일원역 흉기난동 예고글…경찰 수사 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260531054300004",
+      "source": "연합뉴스",
+      "pubDate": "Sun, 31 May 2026 11:39:50 GMT",
+      "image": "https://img2.yna.co.kr/photo/yna/YH/2026/03/26/PYH2026032617450001300_P4.jpg",
+      "summaries": {
+        "ko": "페이커 조모 살해협박·일원역 흉기난동 예고글…경찰 수사 - 연합뉴스",
+        "en": "페이커 조모 살해협박·일원역 흉기난동 예고글…경찰 수사 - 연합뉴스",
+        "zh": "페이커 조모 살해협박·일원역 흉기난동 예고글…경찰 수사 - 연합뉴스"
+      }
+    },
+    {
+      "title": "서울시장 막판 쟁점 떠오른 ‘아기씨당’ 의혹 뭐길래? - 조선일보",
+      "link": "https://www.chosun.com/politics/2026/05/31/UQHETEGPWBDQHITATXMLVP6ZJA/",
+      "source": "조선일보",
+      "pubDate": "Sat, 30 May 2026 20:30:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MRSTEYJQG42WMYZSMVRTSMLCMY.gif?auth=9a403c583bcd66a7c50d8a1115cdcbd8aa9b2e58116a5f783e0da5fefb36a9e7&width=800&height=420&smart=true",
+      "summaries": {
+        "ko": "서울시장 막판 쟁점 떠오른 ‘아기씨당’ 의혹 뭐길래? - 조선일보",
+        "en": "서울시장 막판 쟁점 떠오른 ‘아기씨당’ 의혹 뭐길래? - 조선일보",
+        "zh": "서울시장 막판 쟁점 떠오른 ‘아기씨당’ 의혹 뭐길래? - 조선일보"
       }
     }
   ]
