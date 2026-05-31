@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-31T17:42:36.556908",
+  "lastUpdate": "2026-05-31T18:50:49.907483",
   "items": [
     {
       "title": "‘이명박근혜’ 선거 전면에…국힘서도 “중도층 악영향” - 한겨레",
@@ -8,9 +8,45 @@
       "pubDate": "Sun, 31 May 2026 15:19:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/715/imgdb/original/2026/0531/20260531501857.webp",
       "summaries": {
-        "ko": "이명박·박근혜 전 대통령이 6·3 지방선거 국민의힘 후보 지원 유세에 나섰지만, 보수층 결집을 노린 행보가 중도층에 악영향을 미치고 당의 장기적 재건에 좋지 않을 것이라는 당 안팎의 비판에 직면하고 있다.",
-        "en": "Former Presidents Lee Myung-bak and Park Geun-hye are actively campaigning for People Power Party candidates in the June 3 local elections, aiming to consolidate conservative support, but this move faces criticism both within and outside the party for potentially alienating swing voters and hindering the party's long-term reconstruction.",
-        "zh": "前总统李明博和朴槿惠在6月3日地方选举前积极为国民力量党候选人助选，旨在凝聚保守派支持，但此举正面临党内外批评，认为其可能对中间选民产生负面影响，不利于党的长期重建。"
+        "ko": "이명박·박근혜 전 대통령이 6·3 지방선거 국민의힘 후보 지원 유세에 나서 보수층 결집을 노리고 있으나, 당 안팎에서는 중도층 이탈과 당의 장기적 이미지에 악영향을 줄 수 있다는 비판이 제기되고 있다.",
+        "en": "Former Presidents Lee Myung-bak and Park Geun-hye are actively campaigning for People Power Party candidates in the 6/3 local elections, aiming to consolidate conservative support, but this is drawing criticism from within the party and from the opposition for potentially alienating swing voters and harming the party's long-term image.",
+        "zh": "前总统李明博和朴槿惠积极参与6月3日地方选举的国民力量党候选人助选活动，旨在巩固保守派支持，但此举正受到党内外批评，认为可能对中间选民和该党的长期形象产生负面影响。"
+      }
+    },
+    {
+      "title": "지선 사전투표율 역대 최고 찍자…여야 모두 “우리 찍은 표” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605312143005",
+      "source": "경향신문",
+      "pubDate": "Sun, 31 May 2026 12:43:00 GMT",
+      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
+      "summaries": {
+        "ko": "지선 사전투표율 역대 최고 찍자…여야 모두 “우리 찍은 표” - 경향신문",
+        "en": "지선 사전투표율 역대 최고 찍자…여야 모두 “우리 찍은 표” - 경향신문",
+        "zh": "지선 사전투표율 역대 최고 찍자…여야 모두 “우리 찍은 표” - 경향신문"
+      }
+    },
+    {
+      "title": "트럼프, 종전 MOU 승인 막판 거부…더 센 수정안 다시 보내 - 동아일보",
+      "link": "https://www.donga.com/news/Inter/article/all/20260531/134023356/1",
+      "source": "동아일보",
+      "pubDate": "Sun, 31 May 2026 10:18:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/31/134025214.1.jpg",
+      "summaries": {
+        "ko": "트럼프, 종전 MOU 승인 막판 거부…더 센 수정안 다시 보내 - 동아일보",
+        "en": "트럼프, 종전 MOU 승인 막판 거부…더 센 수정안 다시 보내 - 동아일보",
+        "zh": "트럼프, 종전 MOU 승인 막판 거부…더 센 수정안 다시 보내 - 동아일보"
+      }
+    },
+    {
+      "title": "7~8월엔 어쩌려고... 강릉은 벌써 열대야 - 조선일보",
+      "link": "https://www.chosun.com/national/transport-environment/2026/05/31/2L6SFM3EFJGKRI5BDNC6EWVMXE/",
+      "source": "조선일보",
+      "pubDate": "Sun, 31 May 2026 11:33:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/OQ24AM4XR5DXRATMZCZPKNVRBM.jpg?auth=9a309ec47723ecc1b2bf8fa54441e8eb9a867c400204ebff8bb5fabf193ab7ec&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "7~8월엔 어쩌려고... 강릉은 벌써 열대야 - 조선일보",
+        "en": "7~8월엔 어쩌려고... 강릉은 벌써 열대야 - 조선일보",
+        "zh": "7~8월엔 어쩌려고... 강릉은 벌써 열대야 - 조선일보"
       }
     },
     {
@@ -38,63 +74,27 @@
       }
     },
     {
-      "title": "지선 사전투표율 역대 최고 찍자…여야 모두 “우리 찍은 표” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605312143005",
-      "source": "경향신문",
-      "pubDate": "Sun, 31 May 2026 12:43:00 GMT",
-      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
+      "title": "안규백, 미 의회 대표단에 전작권 환수 강조…헤그세스도 “환영” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/defense/1261264.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 31 May 2026 10:59:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/645/imgdb/original/2026/0531/20260531501854.webp",
       "summaries": {
-        "ko": "지선 사전투표율 역대 최고 찍자…여야 모두 “우리 찍은 표” - 경향신문",
-        "en": "지선 사전투표율 역대 최고 찍자…여야 모두 “우리 찍은 표” - 경향신문",
-        "zh": "지선 사전투표율 역대 최고 찍자…여야 모두 “우리 찍은 표” - 경향신문"
+        "ko": "안규백, 미 의회 대표단에 전작권 환수 강조…헤그세스도 “환영” - 한겨레",
+        "en": "안규백, 미 의회 대표단에 전작권 환수 강조…헤그세스도 “환영” - 한겨레",
+        "zh": "안규백, 미 의회 대표단에 전작권 환수 강조…헤그세스도 “환영” - 한겨레"
       }
     },
     {
-      "title": "선거 시작되자 움직이는 ‘부정선거 음모론자’ 전한길·모스 탄 - 미디어오늘",
-      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=334825",
-      "source": "미디어오늘",
-      "pubDate": "Sun, 31 May 2026 06:30:54 GMT",
-      "image": "https://cdn.mediatoday.co.kr/news/thumbnail/202605/334825_479325_2337_v150.jpg",
-      "summaries": {
-        "ko": "선거 시작되자 움직이는 ‘부정선거 음모론자’ 전한길·모스 탄 - 미디어오늘",
-        "en": "선거 시작되자 움직이는 ‘부정선거 음모론자’ 전한길·모스 탄 - 미디어오늘",
-        "zh": "선거 시작되자 움직이는 ‘부정선거 음모론자’ 전한길·모스 탄 - 미디어오늘"
-      }
-    },
-    {
-      "title": "7~8월엔 어쩌려고... 강릉은 벌써 열대야 - 조선일보",
-      "link": "https://www.chosun.com/national/transport-environment/2026/05/31/2L6SFM3EFJGKRI5BDNC6EWVMXE/",
+      "title": "정청래는 ‘캐스팅 보트’ 충청행... 장동혁, 오세훈과 따로 서울 공략 - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/05/31/ZZBSJSNXA5HLXJ736U4KRH4TR4/",
       "source": "조선일보",
-      "pubDate": "Sun, 31 May 2026 11:33:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/OQ24AM4XR5DXRATMZCZPKNVRBM.jpg?auth=9a309ec47723ecc1b2bf8fa54441e8eb9a867c400204ebff8bb5fabf193ab7ec&width=1200&height=630&smart=true",
+      "pubDate": "Sun, 31 May 2026 02:07:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/Z33WM5WDE5B4PGVAB4PPAHWXRQ.jpg?auth=6abc9a4473631f48fb8ae962753d552b890501c4398cce3c1afbb757694170aa&width=610&height=320&smart=true",
       "summaries": {
-        "ko": "7~8월엔 어쩌려고... 강릉은 벌써 열대야 - 조선일보",
-        "en": "7~8월엔 어쩌려고... 강릉은 벌써 열대야 - 조선일보",
-        "zh": "7~8월엔 어쩌려고... 강릉은 벌써 열대야 - 조선일보"
-      }
-    },
-    {
-      "title": "안규백 ″한일 국방회담서 상호군수지원협정 논의…신중 기해야″ - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260531145234sLf",
-      "source": "연합뉴스TV",
-      "pubDate": "Sun, 31 May 2026 05:52:35 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260531/AKR20260531145234sLf_01_i.jpg",
-      "summaries": {
-        "ko": "안규백 ″한일 국방회담서 상호군수지원협정 논의…신중 기해야″ - 연합뉴스TV",
-        "en": "안규백 ″한일 국방회담서 상호군수지원협정 논의…신중 기해야″ - 연합뉴스TV",
-        "zh": "안규백 ″한일 국방회담서 상호군수지원협정 논의…신중 기해야″ - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "“명의 빌려오면 프로포폴 더 줄게” 6명 사망 이르게 한 의사···검찰 “범죄수익 수십억” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605311759001",
-      "source": "경향신문",
-      "pubDate": "Sun, 31 May 2026 08:59:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/31/news-p.v1.20260531.73ef2264414747f187c43f4e0a39614d_P1.png",
-      "summaries": {
-        "ko": "“명의 빌려오면 프로포폴 더 줄게” 6명 사망 이르게 한 의사···검찰 “범죄수익 수십억” - 경향신문",
-        "en": "“명의 빌려오면 프로포폴 더 줄게” 6명 사망 이르게 한 의사···검찰 “범죄수익 수십억” - 경향신문",
-        "zh": "“명의 빌려오면 프로포폴 더 줄게” 6명 사망 이르게 한 의사···검찰 “범죄수익 수십억” - 경향신문"
+        "ko": "정청래는 ‘캐스팅 보트’ 충청행... 장동혁, 오세훈과 따로 서울 공략 - 조선일보",
+        "en": "정청래는 ‘캐스팅 보트’ 충청행... 장동혁, 오세훈과 따로 서울 공략 - 조선일보",
+        "zh": "정청래는 ‘캐스팅 보트’ 충청행... 장동혁, 오세훈과 따로 서울 공략 - 조선일보"
       }
     },
     {
@@ -110,15 +110,15 @@
       }
     },
     {
-      "title": "호남 간 정청래 “윤·이·박 돌아다녀…김대중 벌떡 일어날 일” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260531/134021868/1",
-      "source": "동아일보",
-      "pubDate": "Sun, 31 May 2026 01:47:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/31/134021869.1.jpg",
+      "title": "선거 시작되자 움직이는 ‘부정선거 음모론자’ 전한길·모스 탄 - 미디어오늘",
+      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=334825",
+      "source": "미디어오늘",
+      "pubDate": "Sun, 31 May 2026 06:30:54 GMT",
+      "image": "https://cdn.mediatoday.co.kr/news/thumbnail/202605/334825_479325_2337_v150.jpg",
       "summaries": {
-        "ko": "호남 간 정청래 “윤·이·박 돌아다녀…김대중 벌떡 일어날 일” - 동아일보",
-        "en": "호남 간 정청래 “윤·이·박 돌아다녀…김대중 벌떡 일어날 일” - 동아일보",
-        "zh": "호남 간 정청래 “윤·이·박 돌아다녀…김대중 벌떡 일어날 일” - 동아일보"
+        "ko": "선거 시작되자 움직이는 ‘부정선거 음모론자’ 전한길·모스 탄 - 미디어오늘",
+        "en": "선거 시작되자 움직이는 ‘부정선거 음모론자’ 전한길·모스 탄 - 미디어오늘",
+        "zh": "선거 시작되자 움직이는 ‘부정선거 음모론자’ 전한길·모스 탄 - 미디어오늘"
       }
     }
   ]
