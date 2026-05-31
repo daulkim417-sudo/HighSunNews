@@ -1,16 +1,28 @@
 {
-  "lastUpdate": "2026-05-30T23:38:47.984822",
+  "lastUpdate": "2026-05-31T01:37:35.701362",
   "items": [
     {
-      "title": "지방선거 최종 사전투표율 23.51%, 역대 최고…부산 북갑, 보궐선거구 ‘1위’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261170.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 30 May 2026 13:02:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0530/53_17801354356188_20260530500608.webp",
+      "title": "역대 최고 찍은 전북 사전투표율···본투표 열기 이어질까 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605311011001",
+      "source": "경향신문",
+      "pubDate": "Sun, 31 May 2026 01:11:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/31/news-p.v1.20260530.22b7341ef6c34b048c258e8d3dcd796c_P1.png",
       "summaries": {
-        "ko": "6월 3일 지방선거의 최종 사전투표율이 23.51%로 역대 지방선거 중 최고치를 기록했으며, 국회의원 재보궐선거구 중에서는 부산 북갑의 투표율이 가장 높았다.",
-        "en": "The final early voting rate for the June 3 local elections reached 23.51%, setting a new record for local elections, with Busan Buk-gap recording the highest turnout among National Assembly by-election districts.",
-        "zh": "6月3日地方选举的最终提前投票率为23.51%，创下历届地方选举最高纪录，其中釜山北甲在国会议员补选区中投票率最高。"
+        "ko": "전북 6·3 지방선거 사전투표율이 역대 최고인 35.05%를 기록하며 전국 평균을 크게 웃돌아 높은 선거 관심을 보였으나, 이것이 최종 투표율 상승으로 이어질지, 특히 접전 중인 전북지사 선거에 어떤 영향을 미칠지 주목된다.",
+        "en": "Jeonbuk's early voting rate for the 6·3 local elections reached an all-time high of 35.05%, significantly surpassing the national average and indicating strong public interest, but it remains to be seen whether this will lead to a higher final voter turnout and how it will impact the closely contested Jeonbuk gubernatorial race.",
+        "zh": "全北地区6·3地方选举的提前投票率达到35.05%，创历史新高，远超全国平均水平，显示出民众对选举的高度关注，但这一高投票率是否会促使最终投票率上升，以及将如何影响竞争激烈的全北知事选举，备受瞩目。"
+      }
+    },
+    {
+      "title": "미 국방 “트럼프, 이란 합의에 인내심…공격 재개 능력 충분” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1261178.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 30 May 2026 22:41:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/600/imgdb/original/2026/0530/20260530500375.webp",
+      "summaries": {
+        "ko": "미 국방 “트럼프, 이란 합의에 인내심…공격 재개 능력 충분” - 한겨레",
+        "en": "미 국방 “트럼프, 이란 합의에 인내심…공격 재개 능력 충분” - 한겨레",
+        "zh": "미 국방 “트럼프, 이란 합의에 인내심…공격 재개 능력 충분” - 한겨레"
       }
     },
     {
@@ -26,6 +38,18 @@
       }
     },
     {
+      "title": "“없느니만 못하다”…안갯속 지방선거 판세 흔드는 ‘여야 대표 리스크’ - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605311000011",
+      "source": "경향신문",
+      "pubDate": "Sun, 31 May 2026 01:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/31/news-p.v1.20260528.1f3881faa993460b9158dbf5e36b399c_P1.jpeg",
+      "summaries": {
+        "ko": "“없느니만 못하다”…안갯속 지방선거 판세 흔드는 ‘여야 대표 리스크’ - 경향신문",
+        "en": "“없느니만 못하다”…안갯속 지방선거 판세 흔드는 ‘여야 대표 리스크’ - 경향신문",
+        "zh": "“없느니만 못하다”…안갯속 지방선거 판세 흔드는 ‘여야 대표 리스크’ - 경향신문"
+      }
+    },
+    {
       "title": "서소문 사고전 열차차단 '필요없음'…특이사항 통보 요구도 무시 - 연합뉴스",
       "link": "https://www.yna.co.kr/view/AKR20260530041700003",
       "source": "연합뉴스",
@@ -38,87 +62,63 @@
       }
     },
     {
-      "title": "‘韓은 中에 단검’ 발언 브런슨 “작전 환경 설명한 것” 해명 - 동아일보",
-      "link": "https://www.donga.com/news/Inter/article/all/20260530/134021157/2",
-      "source": "동아일보",
-      "pubDate": "Sat, 30 May 2026 11:24:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/30/134021158.2.jpg",
-      "summaries": {
-        "ko": "‘韓은 中에 단검’ 발언 브런슨 “작전 환경 설명한 것” 해명 - 동아일보",
-        "en": "‘韓은 中에 단검’ 발언 브런슨 “작전 환경 설명한 것” 해명 - 동아일보",
-        "zh": "‘韓은 中에 단검’ 발언 브런슨 “작전 환경 설명한 것” 해명 - 동아일보"
-      }
-    },
-    {
-      "title": "[오늘 날씨] 대구·경북 맑고 무더위 이어져...낮 최고 33도 - 경북신문",
-      "link": "https://www.kbsm.net/news/view.php?idx=521222",
-      "source": "경북신문",
-      "pubDate": "Sat, 30 May 2026 21:45:00 GMT",
-      "image": "https://www.kbsm.net/data/newsThumb/1780177702ADD_thumb780.jpg",
-      "summaries": {
-        "ko": "[오늘 날씨] 대구·경북 맑고 무더위 이어져...낮 최고 33도 - 경북신문",
-        "en": "[오늘 날씨] 대구·경북 맑고 무더위 이어져...낮 최고 33도 - 경북신문",
-        "zh": "[오늘 날씨] 대구·경북 맑고 무더위 이어져...낮 최고 33도 - 경북신문"
-      }
-    },
-    {
-      "title": "美 중부사령부 \"오만만서 봉쇄 위반 감비아 국적 선박 미사일 발사로 무력화\" - SPN 서울평양뉴스",
-      "link": "https://www.spnews.co.kr/news/articleView.html?idxno=107663",
-      "source": "SPN 서울평양뉴스",
-      "pubDate": "Sat, 30 May 2026 21:53:57 GMT",
-      "image": "https://cdn.spnews.co.kr/news/photo/202605/107663_109189_4213.jpeg",
-      "summaries": {
-        "ko": "美 중부사령부 \"오만만서 봉쇄 위반 감비아 국적 선박 미사일 발사로 무력화\" - SPN 서울평양뉴스",
-        "en": "美 중부사령부 \"오만만서 봉쇄 위반 감비아 국적 선박 미사일 발사로 무력화\" - SPN 서울평양뉴스",
-        "zh": "美 중부사령부 \"오만만서 봉쇄 위반 감비아 국적 선박 미사일 발사로 무력화\" - SPN 서울평양뉴스"
-      }
-    },
-    {
-      "title": "박완수 캠프 악재 '딥페이크 무더기 수사 대상'…민주 \"사퇴가 도리\" - 노컷뉴스",
-      "link": "https://www.nocutnews.co.kr/news/6525229",
-      "source": "노컷뉴스",
-      "pubDate": "Sat, 30 May 2026 06:46:00 GMT",
-      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/05/30/202605301529503460_0.jpg",
-      "summaries": {
-        "ko": "박완수 캠프 악재 '딥페이크 무더기 수사 대상'…민주 \"사퇴가 도리\" - 노컷뉴스",
-        "en": "박완수 캠프 악재 '딥페이크 무더기 수사 대상'…민주 \"사퇴가 도리\" - 노컷뉴스",
-        "zh": "박완수 캠프 악재 '딥페이크 무더기 수사 대상'…민주 \"사퇴가 도리\" - 노컷뉴스"
-      }
-    },
-    {
-      "title": "정청래 “이 대통령에 힘을” 장동혁 “독재 멈춰세워야”…막판 표심 호소 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261158.html",
+      "title": "대구 경북 출신 ‘서울사람들’ 기득권 지키려 지역감정 자극 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261181.html",
       "source": "한겨레",
-      "pubDate": "Sat, 30 May 2026 07:39:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2026/0530/20260530500422.webp",
+      "pubDate": "Sun, 31 May 2026 01:10:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0531/20260531500259.webp",
       "summaries": {
-        "ko": "정청래 “이 대통령에 힘을” 장동혁 “독재 멈춰세워야”…막판 표심 호소 - 한겨레",
-        "en": "정청래 “이 대통령에 힘을” 장동혁 “독재 멈춰세워야”…막판 표심 호소 - 한겨레",
-        "zh": "정청래 “이 대통령에 힘을” 장동혁 “독재 멈춰세워야”…막판 표심 호소 - 한겨레"
+        "ko": "대구 경북 출신 ‘서울사람들’ 기득권 지키려 지역감정 자극 - 한겨레",
+        "en": "대구 경북 출신 ‘서울사람들’ 기득권 지키려 지역감정 자극 - 한겨레",
+        "zh": "대구 경북 출신 ‘서울사람들’ 기득권 지키려 지역감정 자극 - 한겨레"
       }
     },
     {
-      "title": "장수 변전소 공사현장서 60대 중장비에 깔려 중상 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260530042500055",
-      "source": "연합뉴스",
-      "pubDate": "Sat, 30 May 2026 06:32:30 GMT",
-      "image": "https://img7.yna.co.kr/etc/inner/KR/2026/05/30/AKR20260530042500055_01_i_P4.jpg",
+      "title": "“한국은 단검”...주한미군 사령관 발언에 청와대 사실상 유감 표명 - 매일경제",
+      "link": "https://www.mk.co.kr/news/politics/12061883",
+      "source": "매일경제",
+      "pubDate": "Sat, 30 May 2026 05:22:25 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202605/30/news-p.v1.20260530.3f83639b22b94635a43ea76ae4766381_R.jpg",
       "summaries": {
-        "ko": "장수 변전소 공사현장서 60대 중장비에 깔려 중상 - 연합뉴스",
-        "en": "장수 변전소 공사현장서 60대 중장비에 깔려 중상 - 연합뉴스",
-        "zh": "장수 변전소 공사현장서 60대 중장비에 깔려 중상 - 연합뉴스"
+        "ko": "“한국은 단검”...주한미군 사령관 발언에 청와대 사실상 유감 표명 - 매일경제",
+        "en": "“한국은 단검”...주한미군 사령관 발언에 청와대 사실상 유감 표명 - 매일경제",
+        "zh": "“한국은 단검”...주한미군 사령관 발언에 청와대 사실상 유감 표명 - 매일경제"
       }
     },
     {
-      "title": "선거 직전에 ‘주권’ ‘자주’ 깃발 올린 李 대통령 - 조선일보",
-      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/05/31/SLMW5QQG5VFTXOQXONFM6AQ53Q/",
-      "source": "조선일보",
-      "pubDate": "Sat, 30 May 2026 20:30:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/W4OQLBAJUFP5FABKLMEBGPWD3Q.jpg?auth=a5ecef957bc264cf2a0c7a3c14e7cd921d4d981698eee69f4527913c5921d4fe&width=1200&height=630&smart=true",
+      "title": "사전투표일 터진 박완수 측 '딥페이크'에 발칵…김경수 \"사퇴해야\" - 노컷뉴스",
+      "link": "https://www.nocutnews.co.kr/news/6524972",
+      "source": "노컷뉴스",
+      "pubDate": "Fri, 29 May 2026 07:36:00 GMT",
+      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/05/29/202605291617421273_0.jpg",
       "summaries": {
-        "ko": "선거 직전에 ‘주권’ ‘자주’ 깃발 올린 李 대통령 - 조선일보",
-        "en": "선거 직전에 ‘주권’ ‘자주’ 깃발 올린 李 대통령 - 조선일보",
-        "zh": "선거 직전에 ‘주권’ ‘자주’ 깃발 올린 李 대통령 - 조선일보"
+        "ko": "사전투표일 터진 박완수 측 '딥페이크'에 발칵…김경수 \"사퇴해야\" - 노컷뉴스",
+        "en": "사전투표일 터진 박완수 측 '딥페이크'에 발칵…김경수 \"사퇴해야\" - 노컷뉴스",
+        "zh": "사전투표일 터진 박완수 측 '딥페이크'에 발칵…김경수 \"사퇴해야\" - 노컷뉴스"
+      }
+    },
+    {
+      "title": "주말 전국 ‘30도’ 넘는 초여름 더위…강한 자외선 주의 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1261151.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 30 May 2026 04:25:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/639/imgdb/original/2026/0530/20260530500210.webp",
+      "summaries": {
+        "ko": "주말 전국 ‘30도’ 넘는 초여름 더위…강한 자외선 주의 - 한겨레",
+        "en": "주말 전국 ‘30도’ 넘는 초여름 더위…강한 자외선 주의 - 한겨레",
+        "zh": "주말 전국 ‘30도’ 넘는 초여름 더위…강한 자외선 주의 - 한겨레"
+      }
+    },
+    {
+      "title": "\"짜고 친 대국민 사기극\"‥세월호·이태원·여객기 참사 '2차 가해' 피의자 구속 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6826483_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 31 May 2026 00:00:41 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/05/31/sa_20260531_7.jpg",
+      "summaries": {
+        "ko": "\"짜고 친 대국민 사기극\"‥세월호·이태원·여객기 참사 '2차 가해' 피의자 구속 - MBC 뉴스",
+        "en": "\"짜고 친 대국민 사기극\"‥세월호·이태원·여객기 참사 '2차 가해' 피의자 구속 - MBC 뉴스",
+        "zh": "\"짜고 친 대국민 사기극\"‥세월호·이태원·여객기 참사 '2차 가해' 피의자 구속 - MBC 뉴스"
       }
     }
   ]
