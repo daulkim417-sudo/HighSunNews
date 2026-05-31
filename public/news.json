@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-05-31T21:42:28.689899",
+  "lastUpdate": "2026-05-31T22:41:27.065262",
   "items": [
+    {
+      "title": "‘이명박근혜’ 선거 전면에…국힘서도 “중도층 악영향” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261265.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 31 May 2026 15:19:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/715/imgdb/original/2026/0531/20260531501857.webp",
+      "summaries": {
+        "ko": "이명박·박근혜 전 대통령이 6·3 지방선거에서 국민의힘 후보 지원 유세에 나서 보수층 결집을 노리고 있으나, 당내에서는 중도층 악영향 우려가, 야당에서는 강한 비판이 나오고 있다.",
+        "en": "Former Presidents Lee Myung-bak and Park Geun-hye are actively campaigning for People Power Party candidates in the June 3 local elections to rally conservative support, but this move is drawing concerns within the party about negatively affecting swing voters and strong criticism from the opposition.",
+        "zh": "前总统李明博和朴槿惠积极参与6月3日地方选举，为国民力量党候选人助选，旨在凝聚保守派支持，但此举引发党内对中立选民产生负面影响的担忧，并遭到在野党的强烈批评。"
+      }
+    },
     {
       "title": "안규백, 미 의회 대표단에 전작권 환수 강조…헤그세스도 “환영” - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/defense/1261264.html",
@@ -14,39 +26,27 @@
       }
     },
     {
-      "title": "트럼프 이어 이란도 MOU 수정안 제시 예정…“노딜도 대비” - 경향신문",
+      "title": "트럼프 이어 이란도 ‘종전 MOU 수정안’ 제시 예정···“노딜도 대비” - 경향신문",
       "link": "https://www.khan.co.kr/article/202606010624001",
       "source": "경향신문",
       "pubDate": "Sun, 31 May 2026 21:24:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/06/01/news-p.v1.20260601.334e850f049044d5b3363ab6771e6739_P1.png",
       "summaries": {
-        "ko": "트럼프 이어 이란도 MOU 수정안 제시 예정…“노딜도 대비” - 경향신문",
-        "en": "트럼프 이어 이란도 MOU 수정안 제시 예정…“노딜도 대비” - 경향신문",
-        "zh": "트럼프 이어 이란도 MOU 수정안 제시 예정…“노딜도 대비” - 경향신문"
+        "ko": "트럼프 이어 이란도 ‘종전 MOU 수정안’ 제시 예정···“노딜도 대비” - 경향신문",
+        "en": "트럼프 이어 이란도 ‘종전 MOU 수정안’ 제시 예정···“노딜도 대비” - 경향신문",
+        "zh": "트럼프 이어 이란도 ‘종전 MOU 수정안’ 제시 예정···“노딜도 대비” - 경향신문"
       }
     },
     {
-      "title": "지선 사전투표율 역대 최고 찍자…여야 모두 “우리 찍은 표” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605312143005",
-      "source": "경향신문",
-      "pubDate": "Sun, 31 May 2026 12:43:00 GMT",
-      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
+      "title": "지선 최고 사전투표율에, 與 “내란심판 의지” 野 “정권심판 경고” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260601/134026003/2",
+      "source": "동아일보",
+      "pubDate": "Sun, 31 May 2026 19:30:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/30/134021081.1.jpg",
       "summaries": {
-        "ko": "지선 사전투표율 역대 최고 찍자…여야 모두 “우리 찍은 표” - 경향신문",
-        "en": "지선 사전투표율 역대 최고 찍자…여야 모두 “우리 찍은 표” - 경향신문",
-        "zh": "지선 사전투표율 역대 최고 찍자…여야 모두 “우리 찍은 표” - 경향신문"
-      }
-    },
-    {
-      "title": "이 대통령 “투표로 구태 기득권 극복”에 국힘 “선거 개입” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605312126005",
-      "source": "경향신문",
-      "pubDate": "Sun, 31 May 2026 12:26:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/31/l_2026060101000015800088032.jpg",
-      "summaries": {
-        "ko": "이 대통령 “투표로 구태 기득권 극복”에 국힘 “선거 개입” - 경향신문",
-        "en": "이 대통령 “투표로 구태 기득권 극복”에 국힘 “선거 개입” - 경향신문",
-        "zh": "이 대통령 “투표로 구태 기득권 극복”에 국힘 “선거 개입” - 경향신문"
+        "ko": "지선 최고 사전투표율에, 與 “내란심판 의지” 野 “정권심판 경고” - 동아일보",
+        "en": "지선 최고 사전투표율에, 與 “내란심판 의지” 野 “정권심판 경고” - 동아일보",
+        "zh": "지선 최고 사전투표율에, 與 “내란심판 의지” 野 “정권심판 경고” - 동아일보"
       }
     },
     {
@@ -74,15 +74,27 @@
       }
     },
     {
-      "title": "오세훈 \"당선되면 국무회의서 정부 견제‥'공소 취소' 대통령 설득할 것\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6826492_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sun, 31 May 2026 01:53:05 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/31/chhh_20260531_15.jpg",
+      "title": "민주당 양천구청장 후보, 유세장 아기에 “뽀뽀” 논란 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260601/134026005/2",
+      "source": "동아일보",
+      "pubDate": "Sun, 31 May 2026 19:30:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/01/134026410.1.jpg",
       "summaries": {
-        "ko": "오세훈 \"당선되면 국무회의서 정부 견제‥'공소 취소' 대통령 설득할 것\" - MBC 뉴스",
-        "en": "오세훈 \"당선되면 국무회의서 정부 견제‥'공소 취소' 대통령 설득할 것\" - MBC 뉴스",
-        "zh": "오세훈 \"당선되면 국무회의서 정부 견제‥'공소 취소' 대통령 설득할 것\" - MBC 뉴스"
+        "ko": "민주당 양천구청장 후보, 유세장 아기에 “뽀뽀” 논란 - 동아일보",
+        "en": "민주당 양천구청장 후보, 유세장 아기에 “뽀뽀” 논란 - 동아일보",
+        "zh": "민주당 양천구청장 후보, 유세장 아기에 “뽀뽀” 논란 - 동아일보"
+      }
+    },
+    {
+      "title": "李 대통령 ‘투표지 노출’ 논란… 시민단체, 중앙선관위원장 등 경찰 고발 - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/05/30/SJA7IACRCFHHHLOQGDTHLC34NU/",
+      "source": "조선일보",
+      "pubDate": "Sat, 30 May 2026 12:43:03 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GZSDSYRWMQZDOMZSGYYTSZJSHE.jpg?auth=549083257a2e3d3f31160b1219276b416c9f4c9f34682c6f20fb0f354ee879e5&width=1200&height=630&focal=2733,788",
+      "summaries": {
+        "ko": "李 대통령 ‘투표지 노출’ 논란… 시민단체, 중앙선관위원장 등 경찰 고발 - 조선일보",
+        "en": "李 대통령 ‘투표지 노출’ 논란… 시민단체, 중앙선관위원장 등 경찰 고발 - 조선일보",
+        "zh": "李 대통령 ‘투표지 노출’ 논란… 시민단체, 중앙선관위원장 등 경찰 고발 - 조선일보"
       }
     },
     {
@@ -92,21 +104,9 @@
       "pubDate": "Sun, 31 May 2026 14:38:40 GMT",
       "image": "https://wimg.munhwa.com/news/cms/2026/05/31/news-p.v1.20260531.efb182a1036640d49b5a0f019bde8a76_R.jpg",
       "summaries": {
-        "ko": "병원 입원실 남녀 구분 폐지 논란에…복지부 “현행 유지” - 문화일보",
-        "en": "병원 입원실 남녀 구분 폐지 논란에…복지부 “현행 유지” - 문화일보",
-        "zh": "병원 입원실 남녀 구분 폐지 논란에…복지부 “현행 유지” - 문화일보"
-      }
-    },
-    {
-      "title": "박근혜·이명박 ‘동시 등판’…“감옥 3인방” “이 대통령이 선거 개입” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8574369",
-      "source": "KBS 뉴스",
-      "pubDate": "Sun, 31 May 2026 12:06:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/05/31/20260531_oQ1UiD.png",
-      "summaries": {
-        "ko": "박근혜·이명박 ‘동시 등판’…“감옥 3인방” “이 대통령이 선거 개입” - KBS 뉴스",
-        "en": "박근혜·이명박 ‘동시 등판’…“감옥 3인방” “이 대통령이 선거 개입” - KBS 뉴스",
-        "zh": "박근혜·이명박 ‘동시 등판’…“감옥 3인방” “이 대통령이 선거 개입” - KBS 뉴스"
+        "ko": "병원 입원실 남녀 구별 의무 폐지 논란이 확산하자 복지부가 현행 규정을 유지하되, 부부나 가족 등이 2인실을 사용하는 경우 등 특정 상황에 한해 예외를 인정하는 단서 규정을 추가하겠다고 밝혔다.",
+        "en": "Following widespread controversy over the proposed abolition of mandatory male and female segregation in hospital rooms, the Ministry of Health and Welfare announced it will maintain the current regulation while adding an exception clause for specific situations such as couples or families sharing a two-person room or in ICUs.",
+        "zh": "在废除医院病房男女分开强制规定的争议扩大后，韩国福利部宣布将维持现有规定，但将增加一项但书条款，允许夫妻或家人共用双人病房等特定情况下的例外。"
       }
     },
     {
