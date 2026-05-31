@@ -1,6 +1,66 @@
 {
-  "lastUpdate": "2026-05-31T05:59:52.018911",
+  "lastUpdate": "2026-05-31T08:41:51.572878",
   "items": [
+    {
+      "title": "트럼프 “급할 것 없다”…이란과 잠정 합의안에 수정 요구 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/america/1261221.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 31 May 2026 07:19:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0531/20260531501428.webp",
+      "summaries": {
+        "ko": "트럼프 미국 대통령이 이란과의 잠정 합의안에 핵물질 처리, 호르무즈 해협 재개방, 핵무기 구매 금지 조항 강화 등 여러 수정을 요구하며 협상이 지연되고 이란은 반발하고 있다.",
+        "en": "U.S. President Trump has demanded several revisions to the provisional agreement with Iran, including strengthening clauses on nuclear material disposal, reopening the Strait of Hormuz, and prohibiting the purchase of nuclear weapons, leading to delays in negotiations and pushback from Iran.",
+        "zh": "美国总统特朗普要求修改与伊朗的临时协议，包括加强核材料处理、霍尔木兹海峡重新开放以及禁止购买核武器等条款，导致谈判延迟并遭到伊朗的反对。"
+      }
+    },
+    {
+      "title": "'지선 D-3' 전남 간 정청래 \"호남 효도정치‥미우나 고우나 민주당\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6826516_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 31 May 2026 04:37:48 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/31/sa_20260531_22.jpg",
+      "summaries": {
+        "ko": "더불어민주당 정청래 총괄상임선대위원장이 호남에서 지방선거 민주당 지지를 호소하며 '호남 효도 정치'를 약속하고 '미우나 고우나' 민주당에 힘을 실어달라고 강조했으며, 전직 대통령들의 유세 활동을 비판했습니다.",
+        "en": "Democratic Party's Chung Cheong-rae, head of the general election committee, campaigned in the Honam region for local elections, appealing for support for the Democratic Party, promising 'filial piety politics' for Honam, emphasizing support for the party 'whether you love it or hate it,' and criticizing the campaign activities of former presidents.",
+        "zh": "共同民主党总括常任选举对策委员长郑清来在湖南地区为地方选举呼吁支持民主党，承诺对湖南实施‘孝道政治’，并强调‘不管喜欢与否’都应支持民主党，同时批评了前总统们的助选活动。"
+      }
+    },
+    {
+      "title": "이 대통령 “주권자, 투표로 구태 기득권 극복”···국민의힘 “대통령발 총동원령” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202605311606001",
+      "source": "경향신문",
+      "pubDate": "Sun, 31 May 2026 07:06:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/05/31/rcv.YNA.20260529.PYH2026052913060001300_P1.jpg",
+      "summaries": {
+        "ko": "이재명 대통령이 6.3 지방선거를 앞두고 '구태 기득권'을 비판하며 투표 참여를 독려하자, 국민의힘은 이를 노골적인 선거 개입이자 '대통령발 총동원령'으로 규정하며 강하게 비판했다.",
+        "en": "President Lee Jae-myung urged active participation in the upcoming 6.3 local elections, criticizing \"old-fashioned vested interests,\" which the People Power Party condemned as blatant election interference and a \"total mobilization order\" from the president.",
+        "zh": "在6.3地方选举前夕，总统李在明呼吁民众积极投票，并批评“陈旧的既得利益者”，对此，国民力量党谴责其为公然干预选举，是“总统发出的总动员令”。"
+      }
+    },
+    {
+      "title": "‘서소문 고가 붕괴’ 앞으로 규명해야 할 쟁점은 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1261220.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 31 May 2026 08:01:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0531/20260531501402.webp",
+      "summaries": {
+        "ko": "서소문 고가차도 붕괴 사고 후 열차 운행이 재개된 가운데, 국토부와 경찰, 노동부는 철거 과정의 적법성, 이상 징후 보고 및 열차 통제 여부, 안전 조치 미흡 등을 핵심 쟁점으로 삼아 원인 규명에 나섰다.",
+        "en": "Following the Seosomun overpass collapse accident, with train operations now resumed, the Ministry of Land, Infrastructure and Transport, police, and the Ministry of Labor are intensely investigating the cause, focusing on the legality of demolition procedures, whether abnormal signs were reported and train traffic controlled, and if safety measures were insufficient.",
+        "zh": "西小门高架桥坍塌事故发生后，列车运行已恢复，韩国国土交通部、警方和劳动部正深入调查事故原因，核心争议点包括拆除程序的合法性、异常征兆是否及时报告并控制列车运行、以及安全措施是否不足。"
+      }
+    },
+    {
+      "title": "전국 낮 기온 30도 이상 …강릉엔 올해 첫 ‘열대야’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1261180.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 31 May 2026 01:10:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/590/imgdb/original/2026/0531/20260531500192.webp",
+      "summaries": {
+        "ko": "5월 31일, 전국 대부분 지역의 낮 기온이 30도 이상으로 오르고 강원 강릉에서는 올해 첫 열대야가 관측되는 등 더운 날씨가 이어질 전망이어서 온열질환 발생에 유의해야 한다.",
+        "en": "On May 31st, many areas across South Korea are expected to see daytime temperatures rise above 30 degrees Celsius, and Gangneung in Gangwon Province has already recorded its first tropical night of the year, with warnings issued to be cautious of heat-related illnesses due to the continued hot weather.",
+        "zh": "5月31日，韩国全国大部分地区预计白天气温将升至30摄氏度以上，江原道江陵已出现今年首个热带夜，预计炎热天气将持续，提醒民众注意预防中暑等热相关疾病。"
+      }
+    },
     {
       "title": "대구경북 출신 ‘서울 사람들’, 기득권 지키려 지역감정 이용했다 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1261181.html",
@@ -8,117 +68,57 @@
       "pubDate": "Sun, 31 May 2026 01:47:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/618/418/imgdb/original/2026/0531/8817801919903696.png",
       "summaries": {
-        "ko": "이 글은 대구시장 선거가 대구가 기득권 유지를 위해 타 지역을 차별하며 패권적 지역주의를 촉발했던 역사적 역할에서 벗어나 새로운 전환점을 맞이할 중요한 기회라고 주장한다.",
-        "en": "The article argues that the Daegu mayoral election is a crucial opportunity for Daegu to break free from its historical role as the starting point of hegemonic regionalism, where Daegu-Gyeongbuk elites used regionalism to protect their vested interests and discriminate against other regions.",
-        "zh": "这篇文章指出，大邱市长选举是大邱摆脱其作为霸权地域主义发源地的历史角色、迎来新转折点的关键机会，因为大邱庆北地区的精英曾利用地域主义维护自身既得利益并歧视其他地区。"
+        "ko": "한겨레 기사는 대구경북(TK) 출신들이 역사적으로 기득권을 지키기 위해 지역감정을 이용하며 타 지역을 차별했고, 대구시장 선거가 이러한 지역 갈등에서 벗어나 경제를 살릴 기회라고 주장한다.",
+        "en": "The Hankyoreh article argues that individuals from Daegu-Gyeongbuk (TK) have historically exploited regional sentiment to protect their vested interests and discriminate against other regions, viewing the Daegu mayoral election as an opportunity to break free from such regional conflict and revive the economy.",
+        "zh": "《韩民族日报》文章指出，大邱庆北（TK）出身者历史上曾利用地域情感维护既得利益并歧视其他地区，而大邱市长选举是摆脱这种地域冲突、振兴经济的机会。"
       }
     },
     {
-      "title": "“없느니만 못하다”…안갯속 지방선거 판세 흔드는 ‘여야 대표 리스크’ - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605311000011",
-      "source": "경향신문",
-      "pubDate": "Sun, 31 May 2026 01:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/31/news-p.v1.20260528.1f3881faa993460b9158dbf5e36b399c_P1.jpeg",
+      "title": "부산 찾은 이명박 \"박형준, 일 계속하게 뽑아달라\"‥박근혜, 대구서 추경호 지원 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6826520_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 31 May 2026 05:08:38 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/31/ljh_20260531_16.jpg",
       "summaries": {
-        "ko": "“없느니만 못하다”…안갯속 지방선거 판세 흔드는 ‘여야 대표 리스크’ - 경향신문",
-        "en": "“없느니만 못하다”…안갯속 지방선거 판세 흔드는 ‘여야 대표 리스크’ - 경향신문",
-        "zh": "“없느니만 못하다”…안갯속 지방선거 판세 흔드는 ‘여야 대표 리스크’ - 경향신문"
+        "ko": "이명박 전 대통령이 부산에서 박형준 국민의힘 부산시장 후보에 대한 지지를 호소했으며, 박근혜 전 대통령은 대구에서 추경호 후보 지원 유세를 펼칠 예정이다.",
+        "en": "Former President Lee Myung-bak appealed for support for People Power Party candidate Park Hyeong-joon in Busan, while former President Park Geun-hye is scheduled to campaign for candidate Choo Kyung-ho in Daegu.",
+        "zh": "韩国前总统李明博在釜山呼吁支持国民力量党釜山市长候选人朴亨埈，而前总统朴槿惠则计划在大邱为秋庆镐候选人助选。"
       }
     },
     {
-      "title": "미-이란 치열한 기싸움…“이란 정부 제공 통항서비스 등 모든 서비스 이용해선 안돼” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8574297",
-      "source": "KBS 뉴스",
-      "pubDate": "Sun, 31 May 2026 03:06:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/title_image/newsmp4/news12/2026/05/31/80_8574297.jpg",
+      "title": "부산 롯데백화점 센텀시티점 식품관 천장 일부 무너져…고객·직원 대피 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202605311711178aO",
+      "source": "연합뉴스TV",
+      "pubDate": "Sun, 31 May 2026 08:11:18 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260531/AKR202605311711178aO_01_i.jpg",
       "summaries": {
-        "ko": "미-이란 치열한 기싸움…“이란 정부 제공 통항서비스 등 모든 서비스 이용해선 안돼” - KBS 뉴스",
-        "en": "미-이란 치열한 기싸움…“이란 정부 제공 통항서비스 등 모든 서비스 이용해선 안돼” - KBS 뉴스",
-        "zh": "미-이란 치열한 기싸움…“이란 정부 제공 통항서비스 등 모든 서비스 이용해선 안돼” - KBS 뉴스"
+        "ko": "부산 롯데백화점 센텀시티점 식품관 천장 일부 무너져…고객·직원 대피 - 연합뉴스TV",
+        "en": "부산 롯데백화점 센텀시티점 식품관 천장 일부 무너져…고객·직원 대피 - 연합뉴스TV",
+        "zh": "부산 롯데백화점 센텀시티점 식품관 천장 일부 무너져…고객·직원 대피 - 연합뉴스TV"
       }
     },
     {
-      "title": "사전투표율 오른 충청권···대전·세종·충남 표심 어디로 향하나 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605311317001",
-      "source": "경향신문",
-      "pubDate": "Sun, 31 May 2026 04:17:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/31/news-p.v1.20260530.5ba405de488b4ebe80bec91ba2a0c0f0_P1.jpeg",
-      "summaries": {
-        "ko": "사전투표율 오른 충청권···대전·세종·충남 표심 어디로 향하나 - 경향신문",
-        "en": "사전투표율 오른 충청권···대전·세종·충남 표심 어디로 향하나 - 경향신문",
-        "zh": "사전투표율 오른 충청권···대전·세종·충남 표심 어디로 향하나 - 경향신문"
-      }
-    },
-    {
-      "title": "‘종전 MOU 불승인’···합의 문턱서 돌아선 트럼프, 이란에 더 강한 조건 제시 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605311332001",
-      "source": "경향신문",
-      "pubDate": "Sun, 31 May 2026 04:32:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/31/news-p.v1.20260531.b3733e414f89411e8664cc29ef64fc32_P1.png",
-      "summaries": {
-        "ko": "‘종전 MOU 불승인’···합의 문턱서 돌아선 트럼프, 이란에 더 강한 조건 제시 - 경향신문",
-        "en": "‘종전 MOU 불승인’···합의 문턱서 돌아선 트럼프, 이란에 더 강한 조건 제시 - 경향신문",
-        "zh": "‘종전 MOU 불승인’···합의 문턱서 돌아선 트럼프, 이란에 더 강한 조건 제시 - 경향신문"
-      }
-    },
-    {
-      "title": "이 대통령 “투표 적극 참여···이 말이 불편한 정치인은 구태 기득권자” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202605310934001",
-      "source": "경향신문",
-      "pubDate": "Sun, 31 May 2026 00:34:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/05/31/news-p.v1.20260529.e3a27d80c2624dc38db06ef3396404bf_P1.jpeg",
-      "summaries": {
-        "ko": "이 대통령 “투표 적극 참여···이 말이 불편한 정치인은 구태 기득권자” - 경향신문",
-        "en": "이 대통령 “투표 적극 참여···이 말이 불편한 정치인은 구태 기득권자” - 경향신문",
-        "zh": "이 대통령 “투표 적극 참여···이 말이 불편한 정치인은 구태 기득권자” - 경향신문"
-      }
-    },
-    {
-      "title": "정청래는 ‘캐스팅 보트’ 충청행... 장동혁, 오세훈과 따로 서울 공략 - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/05/31/ZZBSJSNXA5HLXJ736U4KRH4TR4/",
+      "title": "정원오, 마지막 사흘 ‘유세 총력전’ 돌입… “오세훈 시민 안전 무책임 비판할 것” - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/05/31/MW6X3JHGYBDOFK4C7K4T236OUM/",
       "source": "조선일보",
-      "pubDate": "Sun, 31 May 2026 00:49:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/Z33WM5WDE5B4PGVAB4PPAHWXRQ.jpg?auth=6abc9a4473631f48fb8ae962753d552b890501c4398cce3c1afbb757694170aa&width=610&height=320&smart=true",
+      "pubDate": "Sun, 31 May 2026 02:24:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/BQONUJJNZZMKJLLVKGCTRJS5DE.jpg?auth=12a3a0f625c5226174ee071bad4471608fc7e6ddae6dd20425e958a436d42284&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "정청래는 ‘캐스팅 보트’ 충청행... 장동혁, 오세훈과 따로 서울 공략 - 조선일보",
-        "en": "정청래는 ‘캐스팅 보트’ 충청행... 장동혁, 오세훈과 따로 서울 공략 - 조선일보",
-        "zh": "정청래는 ‘캐스팅 보트’ 충청행... 장동혁, 오세훈과 따로 서울 공략 - 조선일보"
+        "ko": "정원오, 마지막 사흘 ‘유세 총력전’ 돌입… “오세훈 시민 안전 무책임 비판할 것” - 조선일보",
+        "en": "정원오, 마지막 사흘 ‘유세 총력전’ 돌입… “오세훈 시민 안전 무책임 비판할 것” - 조선일보",
+        "zh": "정원오, 마지막 사흘 ‘유세 총력전’ 돌입… “오세훈 시민 안전 무책임 비판할 것” - 조선일보"
       }
     },
     {
-      "title": "경의선 운행 재개…서소문 고가 붕괴 사고 나흘 만에 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1261147.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 30 May 2026 04:25:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/618/imgdb/original/2026/0530/20260530500173.webp",
+      "title": "'초박빙' 김경수·박완수 승부처 총력전…결국 검찰로 간 '딥페이크' - 노컷뉴스",
+      "link": "https://www.nocutnews.co.kr/news/6525413",
+      "source": "노컷뉴스",
+      "pubDate": "Sun, 31 May 2026 06:51:00 GMT",
+      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/05/31/202605311530325170_0.jpg",
       "summaries": {
-        "ko": "경의선 운행 재개…서소문 고가 붕괴 사고 나흘 만에 - 한겨레",
-        "en": "경의선 운행 재개…서소문 고가 붕괴 사고 나흘 만에 - 한겨레",
-        "zh": "경의선 운행 재개…서소문 고가 붕괴 사고 나흘 만에 - 한겨레"
-      }
-    },
-    {
-      "title": "혁신당, 김용남-임태희 선거운동원 사진 공개‥\"보수 본색 숨길 수 없어\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6826491_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sun, 31 May 2026 01:50:29 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/05/31/sa_20260531_9.jpg",
-      "summaries": {
-        "ko": "혁신당, 김용남-임태희 선거운동원 사진 공개‥\"보수 본색 숨길 수 없어\" - MBC 뉴스",
-        "en": "혁신당, 김용남-임태희 선거운동원 사진 공개‥\"보수 본색 숨길 수 없어\" - MBC 뉴스",
-        "zh": "혁신당, 김용남-임태희 선거운동원 사진 공개‥\"보수 본색 숨길 수 없어\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "어젯밤 강릉서 올해 첫 열대야‥지난해보다 19일 빨라 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6826488_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sun, 31 May 2026 01:27:04 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/05/31/chhh_20260531_11.jpg",
-      "summaries": {
-        "ko": "어젯밤 강릉서 올해 첫 열대야‥지난해보다 19일 빨라 - MBC 뉴스",
-        "en": "어젯밤 강릉서 올해 첫 열대야‥지난해보다 19일 빨라 - MBC 뉴스",
-        "zh": "어젯밤 강릉서 올해 첫 열대야‥지난해보다 19일 빨라 - MBC 뉴스"
+        "ko": "'초박빙' 김경수·박완수 승부처 총력전…결국 검찰로 간 '딥페이크' - 노컷뉴스",
+        "en": "'초박빙' 김경수·박완수 승부처 총력전…결국 검찰로 간 '딥페이크' - 노컷뉴스",
+        "zh": "'초박빙' 김경수·박완수 승부처 총력전…결국 검찰로 간 '딥페이크' - 노컷뉴스"
       }
     }
   ]
