@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-01T21:48:43.312432",
+  "lastUpdate": "2026-06-01T23:18:30.391274",
   "items": [
     {
       "title": "[한국은 지금] 한화 방산업체 공장 폭발로 5명 사망 - VOA 한국어 홈페이지",
@@ -8,16 +8,28 @@
       "pubDate": "Mon, 01 Jun 2026 16:27:11 GMT",
       "image": "https://gdb.voanews.com/0f493c6e-5ff9-46b4-fc89-08debaf56c80_w1200_h630.jpg",
       "summaries": {
-        "ko": "한화에어로스페이스 대전공장에서 로켓추진체 세척 중 폭발 사고가 발생해 5명이 사망했으며, 이는 8년 새 이 사업장에서 13명이 사망한 세 번째 중대 사고로 한국 방산업체의 고질적인 안전불감증 문제를 드러냈습니다.",
-        "en": "A fatal explosion occurred during rocket propellant cleaning at Hanwha Aerospace's Daejeon factory, killing 5 people, marking the third major accident at the facility in 8 years with a total of 13 deaths, highlighting persistent safety negligence in South Korea's defense industry.",
-        "zh": "韩国韩华航空航天公司大田工厂在火箭推进器清洗过程中发生爆炸，造成5人死亡，这是该工厂8年内发生的第三次重大事故，共导致13人死亡，凸显了韩国国防工业长期存在的安全疏忽问题。"
+        "ko": "한화 방산업체 공장에서 로켓추진체 세척 공정 중 폭발 사고가 발생해 5명이 사망하고 2명이 부상당했으며, 이는 해당 공장에서의 반복적인 인명 피해와 한국 산업 전반의 고질적인 안전불감증 문제를 다시금 부각시켰습니다.",
+        "en": "Five people were killed and two injured in an explosion during the rocket propellant cleaning process at a Hanwha defense contractor factory, re-emphasizing the recurring fatalities at the plant and the persistent safety negligence issues across South Korea's industrial sector.",
+        "zh": "韩国韩华防务承包商工厂在火箭推进剂清洗过程中发生爆炸，造成5人死亡、2人受伤，再次凸显了该工厂反复发生的致命事故以及韩国工业界长期存在的安全疏忽问题。"
+      }
+    },
+    {
+      "title": "트럼프 \"이스라엘과 헤즈볼라, 교전 멈출 것\"… 협상 중단 우려 진화 나서 - 조선일보",
+      "link": "https://www.chosun.com/international/us/2026/06/02/N62CWQ3W6VB7ZLOWQOSTD4H6SA/",
+      "source": "조선일보",
+      "pubDate": "Mon, 01 Jun 2026 20:38:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/NTTOIS2GHJI2NK55BVOLLZZGCM.jpg?auth=36b7c713d9fda3f5863928db39e9df1febca79e568743d732a73bf76727d255d&width=1200&height=630&focal=2938,1370",
+      "summaries": {
+        "ko": "트럼프 \"이스라엘과 헤즈볼라, 교전 멈출 것\"… 협상 중단 우려 진화 나서 - 조선일보",
+        "en": "트럼프 \"이스라엘과 헤즈볼라, 교전 멈출 것\"… 협상 중단 우려 진화 나서 - 조선일보",
+        "zh": "트럼프 \"이스라엘과 헤즈볼라, 교전 멈출 것\"… 협상 중단 우려 진화 나서 - 조선일보"
       }
     },
     {
       "title": "‘중원 바람몰이’ 충청 총력전…정청래·장동혁, 부산엔 안갔다 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1261458.html",
       "source": "한겨레",
-      "pubDate": "Mon, 01 Jun 2026 20:00:00 GMT",
+      "pubDate": "Mon, 01 Jun 2026 21:54:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0602/53_17803491055639_20260601503585.webp",
       "summaries": {
         "ko": "‘중원 바람몰이’ 충청 총력전…정청래·장동혁, 부산엔 안갔다 - 한겨레",
@@ -26,39 +38,15 @@
       }
     },
     {
-      "title": "네타냐후 “헤즈볼라가 공격 안 멈추면 베이루트 공습” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8575541",
-      "source": "KBS 뉴스",
-      "pubDate": "Mon, 01 Jun 2026 20:34:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/06/02/20260602_MvJk5k.jpg",
-      "summaries": {
-        "ko": "네타냐후 “헤즈볼라가 공격 안 멈추면 베이루트 공습” - KBS 뉴스",
-        "en": "네타냐후 “헤즈볼라가 공격 안 멈추면 베이루트 공습” - KBS 뉴스",
-        "zh": "네타냐후 “헤즈볼라가 공격 안 멈추면 베이루트 공습” - KBS 뉴스"
-      }
-    },
-    {
-      "title": "민주 “내란 세력 완전한 청산” 국힘 “권력 도취한 여당 견제” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606012119015",
+      "title": "김민석, 지선 후 사의 ‘당대표 출마할 결심’···후임 총리로 강훈식·김용범·김정관·홍준표 거론 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606011116001",
       "source": "경향신문",
-      "pubDate": "Mon, 01 Jun 2026 12:19:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/01/l_2026060201000065500003991.jpg",
+      "pubDate": "Mon, 01 Jun 2026 02:16:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/01/rcv.YNA.20260529.PYH2026052915260001300_P1.jpg",
       "summaries": {
-        "ko": "민주 “내란 세력 완전한 청산” 국힘 “권력 도취한 여당 견제” - 경향신문",
-        "en": "민주 “내란 세력 완전한 청산” 국힘 “권력 도취한 여당 견제” - 경향신문",
-        "zh": "민주 “내란 세력 완전한 청산” 국힘 “권력 도취한 여당 견제” - 경향신문"
-      }
-    },
-    {
-      "title": "이란 \"美와 종전 협상 중단... 이스라엘이 레바논 공습\" - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/06/02/LZXTESHU2JCW7E57QIIHAR2LYU/",
-      "source": "조선일보",
-      "pubDate": "Mon, 01 Jun 2026 16:27:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/VYKEUTLSYFM7ZDFGEC2ZBZDB74.jpg?auth=fd4ab7016ed4e33bc1718eced5ac91e9c13ea07973cb1bf7ca7852d1d1388ae5&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "이란 \"美와 종전 협상 중단... 이스라엘이 레바논 공습\" - 조선일보",
-        "en": "이란 \"美와 종전 협상 중단... 이스라엘이 레바논 공습\" - 조선일보",
-        "zh": "이란 \"美와 종전 협상 중단... 이스라엘이 레바논 공습\" - 조선일보"
+        "ko": "김민석, 지선 후 사의 ‘당대표 출마할 결심’···후임 총리로 강훈식·김용범·김정관·홍준표 거론 - 경향신문",
+        "en": "김민석, 지선 후 사의 ‘당대표 출마할 결심’···후임 총리로 강훈식·김용범·김정관·홍준표 거론 - 경향신문",
+        "zh": "김민석, 지선 후 사의 ‘당대표 출마할 결심’···후임 총리로 강훈식·김용범·김정관·홍준표 거론 - 경향신문"
       }
     },
     {
@@ -74,51 +62,75 @@
       }
     },
     {
-      "title": "남해동부먼바다 태풍경보…6호 ′장미′ 역대 세 번째 이른 영향 태풍 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260602062534QUW",
+      "title": "쿠웨이트, 나흘 만에 또 이란에 피격…″모든 책임 이란에″ - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260601233601vWN",
       "source": "연합뉴스TV",
-      "pubDate": "Mon, 01 Jun 2026 21:25:34 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260601/AKR20260602062534QUW_01_i.jpg",
+      "pubDate": "Mon, 01 Jun 2026 14:36:03 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260601/AKR20260601233601vWN_01_i.jpg",
       "summaries": {
-        "ko": "남해동부먼바다 태풍경보…6호 ′장미′ 역대 세 번째 이른 영향 태풍 - 연합뉴스TV",
-        "en": "남해동부먼바다 태풍경보…6호 ′장미′ 역대 세 번째 이른 영향 태풍 - 연합뉴스TV",
-        "zh": "남해동부먼바다 태풍경보…6호 ′장미′ 역대 세 번째 이른 영향 태풍 - 연합뉴스TV"
+        "ko": "쿠웨이트, 나흘 만에 또 이란에 피격…″모든 책임 이란에″ - 연합뉴스TV",
+        "en": "쿠웨이트, 나흘 만에 또 이란에 피격…″모든 책임 이란에″ - 연합뉴스TV",
+        "zh": "쿠웨이트, 나흘 만에 또 이란에 피격…″모든 책임 이란에″ - 연합뉴스TV"
       }
     },
     {
-      "title": "보훈공단, 창립 45주년 맞아 전국서 보훈행사…영웅 존중 일상화 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260601143700062",
-      "source": "연합뉴스",
-      "pubDate": "Mon, 01 Jun 2026 08:14:14 GMT",
-      "image": "https://img5.yna.co.kr/etc/inner/KR/2026/06/01/AKR20260601143700062_01_i_P4.jpg",
+      "title": "1%라도 더… 여야 ‘지방선거 D-1’ 총력전 - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/06/02/JZXJPWXY4NCOXAAVGQZ4UELVYM/",
+      "source": "조선일보",
+      "pubDate": "Mon, 01 Jun 2026 15:57:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GRSTEYZZHBSTMMZVGUYGKMZQMI.jpg?auth=d97e4f921a6d6c8a026da80843194d0dc2fd65ccc684179cfc027057674b1139&width=600&height=315&focal=304,137",
       "summaries": {
-        "ko": "보훈공단, 창립 45주년 맞아 전국서 보훈행사…영웅 존중 일상화 - 연합뉴스",
-        "en": "보훈공단, 창립 45주년 맞아 전국서 보훈행사…영웅 존중 일상화 - 연합뉴스",
-        "zh": "보훈공단, 창립 45주년 맞아 전국서 보훈행사…영웅 존중 일상화 - 연합뉴스"
+        "ko": "1%라도 더… 여야 ‘지방선거 D-1’ 총력전 - 조선일보",
+        "en": "1%라도 더… 여야 ‘지방선거 D-1’ 총력전 - 조선일보",
+        "zh": "1%라도 더… 여야 ‘지방선거 D-1’ 총력전 - 조선일보"
       }
     },
     {
-      "title": "노동부, 서소문 사고 시공사 대표 중처법 위반 입건 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260601139000530",
-      "source": "연합뉴스",
-      "pubDate": "Mon, 01 Jun 2026 08:03:36 GMT",
-      "image": "https://img1.yna.co.kr/photo/yna/YH/2026/05/29/PYH2026052907720001300_P4.jpg",
+      "title": "정청래 “‘감옥 3인방’ 尹·李·朴 등판은 국민 무시...역사 속으로 보내자” - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/06/01/UKIV6VZ2HFFFHPQ5Q2GJ36CQ6E/",
+      "source": "조선일보",
+      "pubDate": "Mon, 01 Jun 2026 02:20:18 GMT",
+      "image": "https://www.chosun.com/resizer/v2/OBOTD3TWCNOEJNS2DZ2LY5HTXU.JPG?auth=cddf9097aa204c0c237e652aa7947abe30fa08bf2a6a89d8a2649999ca92b0d3&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "노동부, 서소문 사고 시공사 대표 중처법 위반 입건 - 연합뉴스",
-        "en": "노동부, 서소문 사고 시공사 대표 중처법 위반 입건 - 연합뉴스",
-        "zh": "노동부, 서소문 사고 시공사 대표 중처법 위반 입건 - 연합뉴스"
+        "ko": "정청래 “‘감옥 3인방’ 尹·李·朴 등판은 국민 무시...역사 속으로 보내자” - 조선일보",
+        "en": "정청래 “‘감옥 3인방’ 尹·李·朴 등판은 국민 무시...역사 속으로 보내자” - 조선일보",
+        "zh": "정청래 “‘감옥 3인방’ 尹·李·朴 등판은 국민 무시...역사 속으로 보내자” - 조선일보"
       }
     },
     {
-      "title": "김부겸 대구시장 후보 “공소취소 특검법, 막겠다…민주당 제어·보수 재건 등 1타3피” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606011521001",
-      "source": "경향신문",
-      "pubDate": "Mon, 01 Jun 2026 06:21:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/01/rcv.YNA.20260601.PYH2026060108500005300_P1.jpg",
+      "title": "장윤기에 살해 당한 광주 여고생은 \"17살 이채원양\"...부모 \"이런 비극 없길\" 신상 공개 - 파이낸셜뉴스",
+      "link": "https://www.fnnews.com/news/202606010635322810",
+      "source": "파이낸셜뉴스",
+      "pubDate": "Sun, 31 May 2026 21:47:46 GMT",
+      "image": "https://image.fnnews.com/resource/media/image/2026/06/01/202606010638493684_l.jpg",
       "summaries": {
-        "ko": "김부겸 대구시장 후보 “공소취소 특검법, 막겠다…민주당 제어·보수 재건 등 1타3피” - 경향신문",
-        "en": "김부겸 대구시장 후보 “공소취소 특검법, 막겠다…민주당 제어·보수 재건 등 1타3피” - 경향신문",
-        "zh": "김부겸 대구시장 후보 “공소취소 특검법, 막겠다…민주당 제어·보수 재건 등 1타3피” - 경향신문"
+        "ko": "장윤기에 살해 당한 광주 여고생은 \"17살 이채원양\"...부모 \"이런 비극 없길\" 신상 공개 - 파이낸셜뉴스",
+        "en": "장윤기에 살해 당한 광주 여고생은 \"17살 이채원양\"...부모 \"이런 비극 없길\" 신상 공개 - 파이낸셜뉴스",
+        "zh": "장윤기에 살해 당한 광주 여고생은 \"17살 이채원양\"...부모 \"이런 비극 없길\" 신상 공개 - 파이낸셜뉴스"
+      }
+    },
+    {
+      "title": "태풍 ′장미′ 일본 향하지만…제주·남해안 호우, 중부 폭염급 더위 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260601122553HuR",
+      "source": "연합뉴스TV",
+      "pubDate": "Mon, 01 Jun 2026 03:25:55 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260601/AKR20260601122553HuR_01_i.jpg",
+      "summaries": {
+        "ko": "태풍 ′장미′ 일본 향하지만…제주·남해안 호우, 중부 폭염급 더위 - 연합뉴스TV",
+        "en": "태풍 ′장미′ 일본 향하지만…제주·남해안 호우, 중부 폭염급 더위 - 연합뉴스TV",
+        "zh": "태풍 ′장미′ 일본 향하지만…제주·남해안 호우, 중부 폭염급 더위 - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "[속보] 지난달 물가 3.1% 상승…26개월 만 3%대",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260602080555bKc",
+      "source": "Breaking News",
+      "pubDate": "Tue, 02 Jun 2026 08:05:55 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260601/MYH20260602080555bKc.jpg",
+      "summaries": {
+        "ko": "[속보] 지난달 물가 3.1% 상승…26개월 만 3%대",
+        "en": "[속보] 지난달 물가 3.1% 상승…26개월 만 3%대",
+        "zh": "[속보] 지난달 물가 3.1% 상승…26개월 만 3%대"
       }
     }
   ]
