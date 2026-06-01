@@ -1,136 +1,124 @@
 {
-  "lastUpdate": "2026-06-01T07:16:00.585219",
+  "lastUpdate": "2026-06-01T12:50:17.728894",
   "items": [
     {
-      "title": "[속보] 대전 한화에어로스페이스 폭발, 5명 사망·2명 부상 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/area_general/1261340.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 01 Jun 2026 05:47:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/989/imgdb/child/2026/0601/17802928042174_7117802927705387.webp",
-      "summaries": {
-        "ko": "[속보] 대전 한화에어로스페이스 폭발, 5명 사망·2명 부상 - 한겨레",
-        "en": "[속보] 대전 한화에어로스페이스 폭발, 5명 사망·2명 부상 - 한겨레",
-        "zh": "[속보] 대전 한화에어로스페이스 폭발, 5명 사망·2명 부상 - 한겨레"
-      }
-    },
-    {
-      "title": "휴전 MOU 막판 진통…이란 ‘노딜 가능성’ 언급에 미 ‘군사행동’ 경고 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1261291.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 01 Jun 2026 01:36:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0601/53_17802731017225_20260313500904.webp",
-      "summaries": {
-        "ko": "휴전 MOU 막판 진통…이란 ‘노딜 가능성’ 언급에 미 ‘군사행동’ 경고 - 한겨레",
-        "en": "휴전 MOU 막판 진통…이란 ‘노딜 가능성’ 언급에 미 ‘군사행동’ 경고 - 한겨레",
-        "zh": "휴전 MOU 막판 진통…이란 ‘노딜 가능성’ 언급에 미 ‘군사행동’ 경고 - 한겨레"
-      }
-    },
-    {
-      "title": "SK하이닉스 청주공장 화재… 가스 누출로 7명 병원 이송 - 조선일보",
-      "link": "https://www.chosun.com/national/regional/chungcheong/2026/06/01/PBKJJM7HCFC7FDAGJORRAJ5UOA/",
-      "source": "조선일보",
-      "pubDate": "Mon, 01 Jun 2026 05:55:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/TX4HNQGU4BGJTFATMOWTV67DQY.JPG?auth=23c65e88e77fc6a2f5910d27a2f3fe61a8ac6e6b29282e1665cf0d9bbff45891&width=560&height=294&smart=true",
-      "summaries": {
-        "ko": "SK하이닉스 청주공장 화재… 가스 누출로 7명 병원 이송 - 조선일보",
-        "en": "SK하이닉스 청주공장 화재… 가스 누출로 7명 병원 이송 - 조선일보",
-        "zh": "SK하이닉스 청주공장 화재… 가스 누출로 7명 병원 이송 - 조선일보"
-      }
-    },
-    {
-      "title": "장동혁 당대표 제주 지원 오는데 정작 문성유 후보는 불참 - 제주의소리",
-      "link": "https://www.jejusori.net/news/articleView.html?idxno=503481",
-      "source": "제주의소리",
-      "pubDate": "Mon, 01 Jun 2026 00:19:38 GMT",
-      "image": "https://cdn.jejusori.net/news/photo/202606/503481_505387_1925.jpg",
-      "summaries": {
-        "ko": "장동혁 당대표 제주 지원 오는데 정작 문성유 후보는 불참 - 제주의소리",
-        "en": "장동혁 당대표 제주 지원 오는데 정작 문성유 후보는 불참 - 제주의소리",
-        "zh": "장동혁 당대표 제주 지원 오는데 정작 문성유 후보는 불참 - 제주의소리"
-      }
-    },
-    {
-      "title": "6월 첫날, 30도 안팎 무더위…제주·남해안 강한 비 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1261288.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 31 May 2026 23:38:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0601/20260601500212.webp",
-      "summaries": {
-        "ko": "6월 첫날, 30도 안팎 무더위…제주·남해안 강한 비 - 한겨레",
-        "en": "6월 첫날, 30도 안팎 무더위…제주·남해안 강한 비 - 한겨레",
-        "zh": "6월 첫날, 30도 안팎 무더위…제주·남해안 강한 비 - 한겨레"
-      }
-    },
-    {
-      "title": "'계엄 정당화 메시지' 조태용 전 국정원장, 종합특검 첫 출석 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6826673_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Mon, 01 Jun 2026 01:27:42 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/06/01/chhh_20260601_10.jpg",
-      "summaries": {
-        "ko": "'계엄 정당화 메시지' 조태용 전 국정원장, 종합특검 첫 출석 - MBC 뉴스",
-        "en": "'계엄 정당화 메시지' 조태용 전 국정원장, 종합특검 첫 출석 - MBC 뉴스",
-        "zh": "'계엄 정당화 메시지' 조태용 전 국정원장, 종합특검 첫 출석 - MBC 뉴스"
-      }
-    },
-    {
-      "title": "'아무리 치열하지만'…김관영 유세차 아래 누운 이원택 운동원 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260601045300055",
-      "source": "연합뉴스",
-      "pubDate": "Mon, 01 Jun 2026 00:58:48 GMT",
-      "image": "https://img6.yna.co.kr/photo/yna/YH/2026/06/01/PYH2026060103930005500_P4.jpg",
-      "summaries": {
-        "ko": "'아무리 치열하지만'…김관영 유세차 아래 누운 이원택 운동원 - 연합뉴스",
-        "en": "'아무리 치열하지만'…김관영 유세차 아래 누운 이원택 운동원 - 연합뉴스",
-        "zh": "'아무리 치열하지만'…김관영 유세차 아래 누운 이원택 운동원 - 연합뉴스"
-      }
-    },
-    {
-      "title": "정청래 \"감옥 3인방이 대통령 흔들고 대한민국 과거 후진시키려 해\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6826682_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Mon, 01 Jun 2026 02:16:30 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/06/01/yh_20260601-15.jpg",
-      "summaries": {
-        "ko": "정청래 \"감옥 3인방이 대통령 흔들고 대한민국 과거 후진시키려 해\" - MBC 뉴스",
-        "en": "정청래 \"감옥 3인방이 대통령 흔들고 대한민국 과거 후진시키려 해\" - MBC 뉴스",
-        "zh": "정청래 \"감옥 3인방이 대통령 흔들고 대한민국 과거 후진시키려 해\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "[속보] 5월 한국 수출액 ‘877억5000만달러’ 월 기준 역대 최대 실적…석 달 연속 800억달러 돌파 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606010900001",
+      "title": "‘국가보안시설’ 방산공장 한화에어로 폭발 사고 7명 사상…노조 “같은 사고 반복, 예견된 일” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606012108005",
       "source": "경향신문",
-      "pubDate": "Mon, 01 Jun 2026 00:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/01/news-p.v1.20260601.d254ed4a36164441bd8ae3a31cf28704_P1.jpg",
+      "pubDate": "Mon, 01 Jun 2026 12:08:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/01/l_2026060201000069200003861.jpg",
       "summaries": {
-        "ko": "[속보] 5월 한국 수출액 ‘877억5000만달러’ 월 기준 역대 최대 실적…석 달 연속 800억달러 돌파 - 경향신문",
-        "en": "[속보] 5월 한국 수출액 ‘877억5000만달러’ 월 기준 역대 최대 실적…석 달 연속 800억달러 돌파 - 경향신문",
-        "zh": "[속보] 5월 한국 수출액 ‘877억5000만달러’ 월 기준 역대 최대 실적…석 달 연속 800억달러 돌파 - 경향신문"
+        "ko": "국가보안시설인 한화에어로스페이스 대전 방산공장에서 로켓 추진체 부품 세척 중 폭발 사고가 발생해 5명이 사망하고 2명이 부상했으며, 노조는 유사 사고 반복으로 예견된 일이었다고 비판했다.",
+        "en": "An explosion at Hanwha Aerospace's Daejeon defense plant, a national security facility, during rocket propellant component cleaning, resulted in 5 deaths and 2 injuries, with the labor union criticizing it as a foreseeable and repeated accident.",
+        "zh": "韩国国防安全设施韩华航空航天大田军工厂在火箭推进剂部件清洗过程中发生爆炸，造成5人死亡、2人受伤，工会批评这是预料之中的重复事故。"
       }
     },
     {
-      "title": "[단독] 경찰, 허위사실 유포 '부정선거론자' 모스 탄 출국정지 신청 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6826739_36918.html",
+      "title": "김민석, 선거 후 사의 표명 가닥…당대표 출마 결심 굳혔다 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606012110015",
+      "source": "경향신문",
+      "pubDate": "Mon, 01 Jun 2026 12:10:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/01/l_2026060201000044400003891.jpg",
+      "summaries": {
+        "ko": "김민석 국무총리가 6·3 지방선거 직후 사의를 표명하고 더불어민주당 당대표 출마를 결심한 것으로 알려졌으며, 이는 이재명 정부 2기 내각 개편을 본격화할 것으로 예상된다.",
+        "en": "Prime Minister Kim Min-seok is reportedly planning to resign after the June 3 local elections to run for the leader of the Democratic Party, a move expected to trigger a major cabinet reshuffle for the Lee Jae-myung administration's second term.",
+        "zh": "据报道，国务总理金民锡计划在6月3日地方选举后辞职，以参选共同民主党党首，此举预计将启动李在明政府第二任期内阁的全面改组。"
+      }
+    },
+    {
+      "title": "경찰, 서소문 고가 차도 시공사 책임자 4명 입건…책임 규명 착수 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1261335.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 01 Jun 2026 08:10:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0601/20260601501535.webp",
+      "summaries": {
+        "ko": "경찰이 서소문 고가차도 붕괴 사고와 관련하여 시공사 안전관리 책임자 4명을 입건하고 수사를 진행 중이며, 사전투표 첫날 압수수색에 대한 선거 개입 논란에 대해서는 부인했다.",
+        "en": "Police have charged four safety managers from the construction company in connection with the Seosomun overpass collapse and are proceeding with the investigation, denying claims of election interference regarding the search conducted on the first day of early voting.",
+        "zh": "警方已就西小门高架桥坍塌事故起诉施工公司四名安全管理负责人并展开调查，同时否认了关于在提前投票首日进行搜查涉嫌干预选举的争议。"
+      }
+    },
+    {
+      "title": "태풍 ‘장미’ 북상... 내일 남부·제주 ‘폭우’ 중부 ‘폭염’ - 조선일보",
+      "link": "https://www.chosun.com/national/transport-environment/2026/06/01/2ZMOF2OIZRBDVHWPIGY6YKQZ2A/",
+      "source": "조선일보",
+      "pubDate": "Mon, 01 Jun 2026 08:25:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/YKLWHMM3FP6S7C3YLZPHQQJJIQ.jpg?auth=fc7bd7583b9c25fa37ef3bbe48cb9b5c8388e30bee84fa2701ee96b8546ebf51&width=1200&height=630&focal=1076,757",
+      "summaries": {
+        "ko": "태풍 ‘장미’ 북상... 내일 남부·제주 ‘폭우’ 중부 ‘폭염’ - 조선일보",
+        "en": "태풍 ‘장미’ 북상... 내일 남부·제주 ‘폭우’ 중부 ‘폭염’ - 조선일보",
+        "zh": "태풍 ‘장미’ 북상... 내일 남부·제주 ‘폭우’ 중부 ‘폭염’ - 조선일보"
+      }
+    },
+    {
+      "title": "미군 \"이란 군시설 공습\"‥이란 \"미국 공격 원점에 보복 타격\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6826756_36925.html",
       "source": "MBC 뉴스",
-      "pubDate": "Mon, 01 Jun 2026 05:07:08 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/06/01/lyj_260601_3.jpg",
+      "pubDate": "Mon, 01 Jun 2026 06:26:18 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/06/01/ggm_20260601_9.jpg",
       "summaries": {
-        "ko": "[단독] 경찰, 허위사실 유포 '부정선거론자' 모스 탄 출국정지 신청 - MBC 뉴스",
-        "en": "[단독] 경찰, 허위사실 유포 '부정선거론자' 모스 탄 출국정지 신청 - MBC 뉴스",
-        "zh": "[단독] 경찰, 허위사실 유포 '부정선거론자' 모스 탄 출국정지 신청 - MBC 뉴스"
+        "ko": "미국이 이란 군사시설을 공습한 것에 대한 보복으로 이란이 쿠웨이트 내 미군 공군기지를 타격하며 양국 간 무력 충돌이 격화되고 있습니다.",
+        "en": "Following US airstrikes on Iranian military facilities, Iran retaliated by attacking a US airbase in Kuwait, escalating armed clashes between the two countries.",
+        "zh": "在美国空袭伊朗军事设施后，伊朗为报复袭击了科威特境内的美军空军基地，导致两国武装冲突升级。"
       }
     },
     {
-      "title": "종합특검, 6일 尹 첫 소환 공개…사복 차림·포승줄 예상",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202606011551344yG",
-      "source": "Breaking News",
-      "pubDate": "Mon, 01 Jun 2026 15:51:36 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260601/AKR202606011551344yG_01_i.jpg",
+      "title": "특검 “윤석열, 2023년 11월부터 계엄 준비…합참 의장에 무조건 충성 요구” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1261379.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 01 Jun 2026 11:21:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/426/imgdb/original/2026/0601/20260601502785.webp",
       "summaries": {
-        "ko": "종합특검, 6일 尹 첫 소환 공개…사복 차림·포승줄 예상",
-        "en": "종합특검, 6일 尹 첫 소환 공개…사복 차림·포승줄 예상",
-        "zh": "종합특검, 6일 尹 첫 소환 공개…사복 차림·포승줄 예상"
+        "ko": "특검 “윤석열, 2023년 11월부터 계엄 준비…합참 의장에 무조건 충성 요구” - 한겨레",
+        "en": "특검 “윤석열, 2023년 11월부터 계엄 준비…합참 의장에 무조건 충성 요구” - 한겨레",
+        "zh": "특검 “윤석열, 2023년 11월부터 계엄 준비…합참 의장에 무조건 충성 요구” - 한겨레"
+      }
+    },
+    {
+      "title": "[단독]“후원 의사 있나” 연락 받고 52명이 같은날 10만원씩 국힘 의원에 송금···영주농협 ‘쪼개기 후원’? - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606011649001",
+      "source": "경향신문",
+      "pubDate": "Mon, 01 Jun 2026 07:49:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/01/news-p.v1.20260531.00607b35eac44cc0b933132305101094_P1.jpg",
+      "summaries": {
+        "ko": "[단독]“후원 의사 있나” 연락 받고 52명이 같은날 10만원씩 국힘 의원에 송금···영주농협 ‘쪼개기 후원’? - 경향신문",
+        "en": "[단독]“후원 의사 있나” 연락 받고 52명이 같은날 10만원씩 국힘 의원에 송금···영주농협 ‘쪼개기 후원’? - 경향신문",
+        "zh": "[단독]“후원 의사 있나” 연락 받고 52명이 같은날 10만원씩 국힘 의원에 송금···영주농협 ‘쪼개기 후원’? - 경향신문"
+      }
+    },
+    {
+      "title": "SK하이닉스 청주공장서 3천600명 대피소동…7명 병원 이송(종합2보) - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260601062753064",
+      "source": "연합뉴스",
+      "pubDate": "Mon, 01 Jun 2026 03:05:21 GMT",
+      "image": "https://img5.yna.co.kr/photo/cms/2022/01/25/65/PCM20220125000165064_P4.jpg",
+      "summaries": {
+        "ko": "SK하이닉스 청주공장서 3천600명 대피소동…7명 병원 이송(종합2보) - 연합뉴스",
+        "en": "SK하이닉스 청주공장서 3천600명 대피소동…7명 병원 이송(종합2보) - 연합뉴스",
+        "zh": "SK하이닉스 청주공장서 3천600명 대피소동…7명 병원 이송(종합2보) - 연합뉴스"
+      }
+    },
+    {
+      "title": "김부겸 대구시장 후보 “공소취소 특검법, 막겠다…민주당 제어·보수 재건 등 1타3피” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606011521001",
+      "source": "경향신문",
+      "pubDate": "Mon, 01 Jun 2026 06:21:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/01/rcv.YNA.20260601.PYH2026060108500005300_P1.jpg",
+      "summaries": {
+        "ko": "김부겸 대구시장 후보 “공소취소 특검법, 막겠다…민주당 제어·보수 재건 등 1타3피” - 경향신문",
+        "en": "김부겸 대구시장 후보 “공소취소 특검법, 막겠다…민주당 제어·보수 재건 등 1타3피” - 경향신문",
+        "zh": "김부겸 대구시장 후보 “공소취소 특검법, 막겠다…민주당 제어·보수 재건 등 1타3피” - 경향신문"
+      }
+    },
+    {
+      "title": "\"채원이 살해범 엄벌해달라\" 유족, 광주 여고생 얼굴 공개 - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/06/01/AABJQ7BNL5DSFD6VW6AIIGXTPA/",
+      "source": "조선일보",
+      "pubDate": "Mon, 01 Jun 2026 07:28:14 GMT",
+      "image": "https://www.chosun.com/resizer/v2/DKFIE5EI5FCQHEWB63373BT5XA.png?auth=c958a2df5015add8ab4b3fbd628cdcf7484f8e12ba902bc2bb0a13c8523ca492&width=398&height=208&smart=true",
+      "summaries": {
+        "ko": "\"채원이 살해범 엄벌해달라\" 유족, 광주 여고생 얼굴 공개 - 조선일보",
+        "en": "\"채원이 살해범 엄벌해달라\" 유족, 광주 여고생 얼굴 공개 - 조선일보",
+        "zh": "\"채원이 살해범 엄벌해달라\" 유족, 광주 여고생 얼굴 공개 - 조선일보"
       }
     }
   ]
