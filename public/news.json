@@ -1,16 +1,16 @@
 {
-  "lastUpdate": "2026-06-02T14:41:56.389944",
+  "lastUpdate": "2026-06-02T18:24:41.890564",
   "items": [
     {
-      "title": "이름 대신 ‘1번’…20대 희생자 2명, 입사 석달밖에 안된 계약직이었다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1261613.html",
+      "title": "한화에어로 폭발 사고 전 배기장치 교체 요구해왔다 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/chungcheong/1261631.html",
       "source": "한겨레",
-      "pubDate": "Tue, 02 Jun 2026 13:15:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0602/3317804017969506.webp",
+      "pubDate": "Tue, 02 Jun 2026 13:00:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0602/831780405084229.webp",
       "summaries": {
-        "ko": "한화에어로스페이스 대전사업장 폭발 사고로 5명이 숨진 가운데, 심하게 훼손된 시신 때문에 신원 확인이 늦어져 '1번' 등으로 안치되었으며, 희생자 중에는 입사 석 달 된 20대 계약직 두 명도 포함되어 안타까움을 더하고 있다.",
-        "en": "Five people died in an explosion at Hanwha Aerospace's Daejeon plant, with their severely damaged bodies remaining unidentified and marked '1번,' a tragedy compounded by the fact that two of the victims were 20-year-old contract workers who had joined only three months prior.",
-        "zh": "韩华航空航天大田事业场发生爆炸，造成5人死亡，由于遗体严重损毁，身份确认受阻，遇难者被标记为“1号”，其中两名逝者是仅入职三个月的20多岁合同工，令悲剧更添心碎。"
+        "ko": "한화에어로스페이스 대전사업장 폭발 사고가 발생한 세척공실에서 작업자들이 사고 전부터 배기장치 교체를 지속적으로 요구해왔던 사실이 드러나 회사의 부실한 위험 관리가 도마 위에 올랐다.",
+        "en": "An explosion at Hanwha Aerospace's Daejeon plant occurred in a cleaning area where workers had repeatedly requested the replacement of exhaust ventilation systems due to safety concerns, highlighting the company's inadequate risk management.",
+        "zh": "韩华航空航天大田工厂爆炸事故发生地清洁室的工人，在事故发生前曾多次要求更换排气装置，暴露出该公司风险管理不力。"
       }
     },
     {
@@ -20,9 +20,21 @@
       "pubDate": "Tue, 02 Jun 2026 09:26:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/06/02/news-p.v1.20260602.09b1ac91bf3b488ead967f88e5ba0fc9_P1.jpg",
       "summaries": {
-        "ko": "보수의 심장 대구에서 민주당 김부겸 후보와 국민의힘 추경호 후보가 전례 없는 초접전 대구시장 선거를 치르며 지역주의 타파와 대구 경제의 미래를 위한 중대한 시험대에 올랐다.",
-        "en": "In Daegu, the \"heart of conservatism,\" the mayoral election sees an unprecedentedly close race between the Democratic Party's Kim Boo-kyum and the People Power Party's Choo Kyung-ho, becoming a crucial test for overcoming regionalism and determining Daegu's economic future.",
-        "zh": "在素有“保守心脏”之称的大邱，民主党候选人金富谦和国民力量党候选人秋庆镐正在进行一场前所未有的市长选举焦灼战，这被视为克服地域主义和决定大邱经济未来的重要考验。"
+        "ko": "보수의 심장 대구에서 더불어민주당 김부겸 후보와 국민의힘 추경호 후보가 이례적인 초접전을 벌이며, 이번 대구시장 선거 결과가 지역주의 타파 또는 보수 재결집의 중대한 시험대가 될 것으로 주목받고 있다.",
+        "en": "In Daegu, traditionally a conservative stronghold, the mayoral race between Democratic Party candidate Kim Boo-kyum and People Power Party candidate Choo Kyung-ho is surprisingly neck-and-neck, drawing attention to whether the election outcome will be a significant test for breaking regionalism or reconsolidating conservative politics.",
+        "zh": "在韩国保守派的传统重镇大邱，民主党候选人金富谦与国民力量党候选人秋庆镐的大邱市长选举出人意料地陷入胶着战，此次选举结果备受关注，它将成为打破地域主义或巩固保守政治的重要试金石。"
+      }
+    },
+    {
+      "title": "정용진 사과, 스타벅스에 도움 됐나?…결제 추정치 보니 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8575544",
+      "source": "KBS 뉴스",
+      "pubDate": "Mon, 01 Jun 2026 21:03:00 GMT",
+      "image": "http://news.kbs.co.kr/data/fckeditor/new/image/2026/06/01/312591780292415665.jpg",
+      "summaries": {
+        "ko": "정용진 신세계 회장의 스타벅스 '5·18 탱크 데이' 행사 사과에도 불구하고, 스타벅스의 추정 결제금액은 사과 당일 최저치를 기록하며 추가 하락했지만 이후 소폭 반등하는 모습을 보였다.",
+        "en": "Despite Shinsegae Chairman Chung Yong-jin's apology for Starbucks Korea's '5·18 Tank Day' event, Starbucks' estimated payment amount initially dropped further, hitting its lowest point on the day of the apology, but then showed a slight rebound in the following days.",
+        "zh": "尽管新世界集团会长郑溶镇就星巴克韩国‘5·18坦克日’事件道歉，星巴克的估计结算金额在道歉当日跌至最低点并进一步下降，但在随后的几天里略有回升。"
       }
     },
     {
@@ -32,33 +44,9 @@
       "pubDate": "Tue, 02 Jun 2026 13:17:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/640/370/imgdb/original/2026/0602/20260602503323.webp",
       "summaries": {
-        "ko": "6월 3일 지방선거 및 재보궐선거 본투표를 하루 앞두고, 더불어민주당은 이재명 정부 지원을 호소하며 야당을 '내란 옹호'로 비판했고, 국민의힘은 '이재명 정부의 오만 심판'을 외치며 지지를 호소했으며, 소수 정당들은 양당 독점 체제 타파를 강조했다.",
-        "en": "A day before the June 3rd local and by-elections, the Democratic Party called for support for the \"Lee Jae-myung government\" and criticized the opposition for \"condoning rebellion,\" while the People Power Party urged a \"judgment of the Lee Jae-myung government's arrogance,\" and minor parties appealed to break the two-party monopoly.",
-        "zh": "在6月3日地方和补选投票前一天，共同民主党呼吁支持“李在明政府”并批评反对党“纵容内乱”，而国民力量党则要求“审判李在明政府的傲慢”，同时小党呼吁打破两党垄断。"
-      }
-    },
-    {
-      "title": "국민의힘, 이 대통령 국무회의 발언에 \"대놓고 '재판취소' 겁박\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6827080_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 02 Jun 2026 08:15:24 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/06/02/jh_20260602_27.jpg",
-      "summaries": {
-        "ko": "국민의힘은 이재명 대통령이 국무회의에서 검찰총장 대행에게 '잘못하면 취소해야 한다'고 언급한 것을 자신의 '재판취소'를 겁박한 것으로 비판하며, 언론 비난에 대해서도 '오만하고 위험천만하다'고 지적했다.",
-        "en": "The People Power Party criticized President Lee Jae-myung's remarks in a Cabinet meeting, where he told the acting Prosecutor General that \"if you make a mistake, you should cancel it,\" as an open threat to cancel his own trials, and also condemned his criticism of media as \"arrogant and extremely dangerous.\"",
-        "zh": "国民力量党批评李在明总统在国务会议上对检察总长代行提及“犯错就应取消”的言论，认为这是公然威胁取消其自身审判，并指责他对媒体的批评“傲慢且极其危险”。"
-      }
-    },
-    {
-      "title": "검찰, 여고생 살인범 장윤기에... \"성폭행 목적 납치하려다 살해\" - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/06/02/ZJHMSHHQK5HBPIVNM4BHIKCRIM/",
-      "source": "조선일보",
-      "pubDate": "Tue, 02 Jun 2026 09:27:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/PJTPOJMZEFBUHE6XNWQMMZQWQA.JPG?auth=6d18a0944f491dc8d6a3a3292e1cdf1e29c72aa984bb959790c1f349644d1fd2&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "검찰, 여고생 살인범 장윤기에... \"성폭행 목적 납치하려다 살해\" - 조선일보",
-        "en": "검찰, 여고생 살인범 장윤기에... \"성폭행 목적 납치하려다 살해\" - 조선일보",
-        "zh": "검찰, 여고생 살인범 장윤기에... \"성폭행 목적 납치하려다 살해\" - 조선일보"
+        "ko": "6·3 지방선거 및 재보궐선거 본투표 하루 전, 더불어민주당 정청래는 이재명 정부 지원과 '내란 옹호 세력' 심판을, 국민의힘 장동혁은 '이재명 정부의 오만' 심판을 호소했으며, 소수 정당들은 양당 독점 체제 타파를 강조했다.",
+        "en": "On the eve of the 6·3 local elections and by-elections, Jung Chung-rae of the Democratic Party appealed for support for the Lee Jae-myung government and a judgment against \"those condoning rebellion,\" while Jang Dong-hyuk of the People Power Party called for a judgment against \"the arrogance of the Lee Jae-myung government,\" and minor parties emphasized breaking the two-party monopoly.",
+        "zh": "在6月3日地方选举和补选投票前夕，共同民主党郑清来呼吁支持李在明政府并审判“拥护内乱势力”，而国民力量党张东赫则呼吁审判“李在明政府的傲慢”，小党派则强调打破两大党垄断。"
       }
     },
     {
@@ -68,21 +56,9 @@
       "pubDate": "Tue, 02 Jun 2026 05:46:03 GMT",
       "image": "https://pimg.mk.co.kr/news/cms/202606/02/rcv.NEWS1.NEWS1.20260602.2026-06-02T143338_1007937995_LOCAL_I_R.jpg",
       "summaries": {
-        "ko": "이번 지방선거에서는 유권자들이 최대 8장의 투표용지를 받으며, 각 용지당 반드시 한 명의 후보자에게만 공식 기표용구로 투표해야 무효표를 방지할 수 있다.",
-        "en": "In the upcoming local elections, voters will receive up to eight ballot papers and must carefully mark only one candidate per ballot using the official stamping tool to ensure their vote is valid.",
-        "zh": "在即将到来的地方选举中，选民将收到最多八张选票，为避免作废，必须使用官方盖章工具，在每张选票上只选择一位候选人进行投票。"
-      }
-    },
-    {
-      "title": "[단독] 종합특검, 이창수 전 중앙지검장 다음 주 첫 소환 통보‥허위공문서 작성 혐의 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6827092_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 02 Jun 2026 09:41:02 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/06/02/ggm_20260602_21.jpg",
-      "summaries": {
-        "ko": "종합특검이 김건희 씨의 도이치모터스 주가조작 사건 무혐의 처분 과정에서 허위 공문서 작성 및 직권남용 혐의로 이창수 전 서울중앙지검장과 최재훈 전 반부패수사2부장에게 다음 주 첫 소환을 통보했습니다.",
-        "en": "The special prosecutor has notified former Seoul Central District Prosecutor Lee Chang-soo and former Deputy Chief of Anti-Corruption Investigation Division 2 Choi Jae-hoon to appear for their first questioning next week on charges of fabricating official documents and abuse of power during the process of acquitting Kim Keon-hee in the Deutsch Motors stock manipulation case.",
-        "zh": "特别检察官已通知前首尔中央地方检察官李昌洙和前反腐败调查第二部部长崔在勋下周首次传唤，罪名是在金建希女士的Deutsch Motors股价操纵案无嫌疑处理过程中涉嫌伪造公务文件和滥用职权。"
+        "ko": "이번 지방선거는 최대 8장의 투표용지를 두 차례에 걸쳐 교부하며, 유효표를 위해 한 용지당 반드시 한 후보자에게만 기표용구를 사용하여 투표해야 한다.",
+        "en": "The local election features up to eight ballots distributed in two stages, and voters must carefully use the designated stamp to mark only one candidate per ballot to ensure their vote is valid.",
+        "zh": "本次地方选举最多将分两批发放八张选票，选民必须使用指定工具，每张选票仅投给一位候选人，以确保选票有效。"
       }
     },
     {
@@ -98,27 +74,51 @@
       }
     },
     {
-      "title": "정원오 \"무능 10년 준엄한 심판\" 오세훈 \"정권 견제 최후의 보루는 서울\" - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/06/02/JX3QMXXDUZB4RLQS2RCJ3QO6Y4/",
-      "source": "조선일보",
-      "pubDate": "Tue, 02 Jun 2026 03:33:26 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MI2DEYLDMVSWCOBYMM2GINRZMI.jpg?auth=ab0fbef8723fe336756afc1c8292faaa182cb133b466701f0e1c44d59fbb6a4d&width=1200&height=630&focal=1849,507",
+      "title": "고교생 성폭행 하려다 살해…장윤기 ‘강간 살인’ 혐의 구속기소 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/honam/1261554.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 02 Jun 2026 15:57:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/431/imgdb/original/2026/0602/20260602502721.webp",
       "summaries": {
-        "ko": "정원오 \"무능 10년 준엄한 심판\" 오세훈 \"정권 견제 최후의 보루는 서울\" - 조선일보",
-        "en": "정원오 \"무능 10년 준엄한 심판\" 오세훈 \"정권 견제 최후의 보루는 서울\" - 조선일보",
-        "zh": "정원오 \"무능 10년 준엄한 심판\" 오세훈 \"정권 견제 최후의 보루는 서울\" - 조선일보"
+        "ko": "고교생 성폭행 하려다 살해…장윤기 ‘강간 살인’ 혐의 구속기소 - 한겨레",
+        "en": "고교생 성폭행 하려다 살해…장윤기 ‘강간 살인’ 혐의 구속기소 - 한겨레",
+        "zh": "고교생 성폭행 하려다 살해…장윤기 ‘강간 살인’ 혐의 구속기소 - 한겨레"
       }
     },
     {
-      "title": "[날씨] 지방선거일 때이른 더위…내륙 곳곳 소나기",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260602233147Hkr",
-      "source": "Breaking News",
-      "pubDate": "Tue, 02 Jun 2026 23:31:47 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260602/MYH20260602233147Hkr.jpg",
+      "title": "제주, 사전투표 관리하러 가던 읍사무소 공무원 음주운전 적발 - 헤드라인제주",
+      "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=593835",
+      "source": "헤드라인제주",
+      "pubDate": "Tue, 02 Jun 2026 04:26:59 GMT",
+      "image": "https://www.headlinejeju.co.kr/news/photo/202606/593835_488919_2656.jpg",
       "summaries": {
-        "ko": "지방선거일, 전국적으로 때이른 더위가 이어지고 내륙 곳곳 소나기 예보와 함께 태풍 '장미'의 간접 영향으로 해상 안전에 주의가 필요하며, 주말부터 더위가 다소 누그러질 전망이다.",
-        "en": "On Local Election Day, early summer heat continues nationwide with scattered showers expected inland, and caution is advised for maritime safety due to the indirect effects of Typhoon 'Jangmi', with temperatures expected to slightly subside from the weekend.",
-        "zh": "地方选举日，全国各地将持续提前到来的高温，内陆部分地区预计有阵雨，同时受台风“蔷薇”间接影响，需注意海上安全，预计周末起气温将有所缓解。"
+        "ko": "제주, 사전투표 관리하러 가던 읍사무소 공무원 음주운전 적발 - 헤드라인제주",
+        "en": "제주, 사전투표 관리하러 가던 읍사무소 공무원 음주운전 적발 - 헤드라인제주",
+        "zh": "제주, 사전투표 관리하러 가던 읍사무소 공무원 음주운전 적발 - 헤드라인제주"
+      }
+    },
+    {
+      "title": "한·미, 팩트시트 안보분야 협상 시작…첫날 핵잠 건조·연료조달 방안 논의 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261594.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 02 Jun 2026 11:44:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0602/20260602503208.webp",
+      "summaries": {
+        "ko": "한·미, 팩트시트 안보분야 협상 시작…첫날 핵잠 건조·연료조달 방안 논의 - 한겨레",
+        "en": "한·미, 팩트시트 안보분야 협상 시작…첫날 핵잠 건조·연료조달 방안 논의 - 한겨레",
+        "zh": "한·미, 팩트시트 안보분야 협상 시작…첫날 핵잠 건조·연료조달 방안 논의 - 한겨레"
+      }
+    },
+    {
+      "title": "트럼프 \"이란과 대화중단은 가짜 뉴스…오늘도 대화중\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260603025323iiJ",
+      "source": "Breaking News",
+      "pubDate": "Wed, 03 Jun 2026 02:53:23 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260602/AKR20260603025323iiJ_01_i.jpg",
+      "summaries": {
+        "ko": "트럼프 \"이란과 대화중단은 가짜 뉴스…오늘도 대화중\"",
+        "en": "트럼프 \"이란과 대화중단은 가짜 뉴스…오늘도 대화중\"",
+        "zh": "트럼프 \"이란과 대화중단은 가짜 뉴스…오늘도 대화중\""
       }
     }
   ]
