@@ -1,16 +1,52 @@
 {
-  "lastUpdate": "2026-06-01T23:18:30.391274",
+  "lastUpdate": "2026-06-02T01:38:31.568300",
   "items": [
     {
-      "title": "[한국은 지금] 한화 방산업체 공장 폭발로 5명 사망 - VOA 한국어 홈페이지",
-      "link": "https://www.voakorea.com/a/now-in-korea-060126/8156120.html",
-      "source": "VOA 한국어 홈페이지",
-      "pubDate": "Mon, 01 Jun 2026 16:27:11 GMT",
-      "image": "https://gdb.voanews.com/0f493c6e-5ff9-46b4-fc89-08debaf56c80_w1200_h630.jpg",
+      "title": "한화에어로 ‘반복된 참사’ 희생자 13명째…“폭발 원인 모르겠다” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/chungcheong/1261455.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 01 Jun 2026 22:03:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/701/462/imgdb/original/2026/0601/20260601503478.webp",
       "summaries": {
-        "ko": "한화 방산업체 공장에서 로켓추진체 세척 공정 중 폭발 사고가 발생해 5명이 사망하고 2명이 부상당했으며, 이는 해당 공장에서의 반복적인 인명 피해와 한국 산업 전반의 고질적인 안전불감증 문제를 다시금 부각시켰습니다.",
-        "en": "Five people were killed and two injured in an explosion during the rocket propellant cleaning process at a Hanwha defense contractor factory, re-emphasizing the recurring fatalities at the plant and the persistent safety negligence issues across South Korea's industrial sector.",
-        "zh": "韩国韩华防务承包商工厂在火箭推进剂清洗过程中发生爆炸，造成5人死亡、2人受伤，再次凸显了该工厂反复发生的致命事故以及韩国工业界长期存在的安全疏忽问题。"
+        "ko": "한화에어로스페이스 대전사업장에서 1일 또다시 폭발 사고로 5명이 숨지면서 2018년, 2019년 사고를 포함해 총 13명의 희생자가 발생했고, 회사는 원인을 모른다고 밝혀 반복되는 안전 관리 부실 문제가 지적되고 있다.",
+        "en": "Five people died in another explosion at Hanwha Aerospace's Daejeon plant on October 1st, bringing the total fatalities from repeated incidents since 2018 to 13, with the company stating the cause is unknown, highlighting ongoing failures in safety management.",
+        "zh": "韩华航空航天大田工厂于10月1日再次发生爆炸，造成5人死亡，使得自2018年以来重复事故的遇难者总数达到13人，该公司称爆炸原因不明，引发了对其安全管理不善的持续质疑。"
+      }
+    },
+    {
+      "title": "트럼프 “내 중재로 이스라엘·헤즈볼라 교전 빠르게 멈춰···다음 주 내 이란과 협상 타결 예상” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606020703001",
+      "source": "경향신문",
+      "pubDate": "Mon, 01 Jun 2026 22:03:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/02/news-p.v1.20260602.e8d4a9ec777c448b82a079afa1d8a964_P1.png",
+      "summaries": {
+        "ko": "트럼프 “내 중재로 이스라엘·헤즈볼라 교전 빠르게 멈춰···다음 주 내 이란과 협상 타결 예상” - 경향신문",
+        "en": "트럼프 “내 중재로 이스라엘·헤즈볼라 교전 빠르게 멈춰···다음 주 내 이란과 협상 타결 예상” - 경향신문",
+        "zh": "트럼프 “내 중재로 이스라엘·헤즈볼라 교전 빠르게 멈춰···다음 주 내 이란과 협상 타결 예상” - 경향신문"
+      }
+    },
+    {
+      "title": "안 가거나 못 가서, 결국 충청 총력전?…정청래·장동혁의 12일 선거운동 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261458.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 02 Jun 2026 00:17:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0602/53_17803491055639_20260601503585.webp",
+      "summaries": {
+        "ko": "안 가거나 못 가서, 결국 충청 총력전?…정청래·장동혁의 12일 선거운동 - 한겨레",
+        "en": "안 가거나 못 가서, 결국 충청 총력전?…정청래·장동혁의 12일 선거운동 - 한겨레",
+        "zh": "안 가거나 못 가서, 결국 충청 총력전?…정청래·장동혁의 12일 선거운동 - 한겨레"
+      }
+    },
+    {
+      "title": "[단독]“선거 현수막에 바람구멍 뚫어라” 수차례 공문에도 모두 묵살…“홍보 효과에 집착해 시민 안전은 뒷전” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606020600071",
+      "source": "경향신문",
+      "pubDate": "Tue, 02 Jun 2026 01:13:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/02/news-p.v1.20260521.2111e4ff2c5f4a7eac0919a57934491b_P1.jpeg",
+      "summaries": {
+        "ko": "[단독]“선거 현수막에 바람구멍 뚫어라” 수차례 공문에도 모두 묵살…“홍보 효과에 집착해 시민 안전은 뒷전” - 경향신문",
+        "en": "[단독]“선거 현수막에 바람구멍 뚫어라” 수차례 공문에도 모두 묵살…“홍보 효과에 집착해 시민 안전은 뒷전” - 경향신문",
+        "zh": "[단독]“선거 현수막에 바람구멍 뚫어라” 수차례 공문에도 모두 묵살…“홍보 효과에 집착해 시민 안전은 뒷전” - 경향신문"
       }
     },
     {
@@ -26,27 +62,27 @@
       }
     },
     {
-      "title": "‘중원 바람몰이’ 충청 총력전…정청래·장동혁, 부산엔 안갔다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261458.html",
+      "title": "이 대통령, 마약 사범에 “돈 쓰면서 교도소가지 말고, 치료받길” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1261480.html",
       "source": "한겨레",
-      "pubDate": "Mon, 01 Jun 2026 21:54:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0602/53_17803491055639_20260601503585.webp",
+      "pubDate": "Tue, 02 Jun 2026 00:37:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/409/imgdb/original/2026/0602/20260602500602.webp",
       "summaries": {
-        "ko": "‘중원 바람몰이’ 충청 총력전…정청래·장동혁, 부산엔 안갔다 - 한겨레",
-        "en": "‘중원 바람몰이’ 충청 총력전…정청래·장동혁, 부산엔 안갔다 - 한겨레",
-        "zh": "‘중원 바람몰이’ 충청 총력전…정청래·장동혁, 부산엔 안갔다 - 한겨레"
+        "ko": "이 대통령, 마약 사범에 “돈 쓰면서 교도소가지 말고, 치료받길” - 한겨레",
+        "en": "이 대통령, 마약 사범에 “돈 쓰면서 교도소가지 말고, 치료받길” - 한겨레",
+        "zh": "이 대통령, 마약 사범에 “돈 쓰면서 교도소가지 말고, 치료받길” - 한겨레"
       }
     },
     {
-      "title": "김민석, 지선 후 사의 ‘당대표 출마할 결심’···후임 총리로 강훈식·김용범·김정관·홍준표 거론 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606011116001",
-      "source": "경향신문",
-      "pubDate": "Mon, 01 Jun 2026 02:16:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/01/rcv.YNA.20260529.PYH2026052915260001300_P1.jpg",
+      "title": "남해동부먼바다 태풍경보…6호 ′장미′ 역대 세 번째 이른 영향 태풍 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260602062534QUW",
+      "source": "연합뉴스TV",
+      "pubDate": "Mon, 01 Jun 2026 21:25:34 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260602/AKR20260602062534QUW_01_i.jpg",
       "summaries": {
-        "ko": "김민석, 지선 후 사의 ‘당대표 출마할 결심’···후임 총리로 강훈식·김용범·김정관·홍준표 거론 - 경향신문",
-        "en": "김민석, 지선 후 사의 ‘당대표 출마할 결심’···후임 총리로 강훈식·김용범·김정관·홍준표 거론 - 경향신문",
-        "zh": "김민석, 지선 후 사의 ‘당대표 출마할 결심’···후임 총리로 강훈식·김용범·김정관·홍준표 거론 - 경향신문"
+        "ko": "남해동부먼바다 태풍경보…6호 ′장미′ 역대 세 번째 이른 영향 태풍 - 연합뉴스TV",
+        "en": "남해동부먼바다 태풍경보…6호 ′장미′ 역대 세 번째 이른 영향 태풍 - 연합뉴스TV",
+        "zh": "남해동부먼바다 태풍경보…6호 ′장미′ 역대 세 번째 이른 영향 태풍 - 연합뉴스TV"
       }
     },
     {
@@ -62,75 +98,27 @@
       }
     },
     {
-      "title": "쿠웨이트, 나흘 만에 또 이란에 피격…″모든 책임 이란에″ - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260601233601vWN",
-      "source": "연합뉴스TV",
-      "pubDate": "Mon, 01 Jun 2026 14:36:03 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260601/AKR20260601233601vWN_01_i.jpg",
-      "summaries": {
-        "ko": "쿠웨이트, 나흘 만에 또 이란에 피격…″모든 책임 이란에″ - 연합뉴스TV",
-        "en": "쿠웨이트, 나흘 만에 또 이란에 피격…″모든 책임 이란에″ - 연합뉴스TV",
-        "zh": "쿠웨이트, 나흘 만에 또 이란에 피격…″모든 책임 이란에″ - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "1%라도 더… 여야 ‘지방선거 D-1’ 총력전 - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/06/02/JZXJPWXY4NCOXAAVGQZ4UELVYM/",
+      "title": "SK하이닉스 청주공장 화재… 가스 누출로 7명 병원 이송 - 조선일보",
+      "link": "https://www.chosun.com/national/regional/chungcheong/2026/06/01/PBKJJM7HCFC7FDAGJORRAJ5UOA/",
       "source": "조선일보",
-      "pubDate": "Mon, 01 Jun 2026 15:57:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GRSTEYZZHBSTMMZVGUYGKMZQMI.jpg?auth=d97e4f921a6d6c8a026da80843194d0dc2fd65ccc684179cfc027057674b1139&width=600&height=315&focal=304,137",
+      "pubDate": "Mon, 01 Jun 2026 06:18:52 GMT",
+      "image": "https://www.chosun.com/resizer/v2/TX4HNQGU4BGJTFATMOWTV67DQY.JPG?auth=23c65e88e77fc6a2f5910d27a2f3fe61a8ac6e6b29282e1665cf0d9bbff45891&width=560&height=294&smart=true",
       "summaries": {
-        "ko": "1%라도 더… 여야 ‘지방선거 D-1’ 총력전 - 조선일보",
-        "en": "1%라도 더… 여야 ‘지방선거 D-1’ 총력전 - 조선일보",
-        "zh": "1%라도 더… 여야 ‘지방선거 D-1’ 총력전 - 조선일보"
+        "ko": "SK하이닉스 청주공장 화재… 가스 누출로 7명 병원 이송 - 조선일보",
+        "en": "SK하이닉스 청주공장 화재… 가스 누출로 7명 병원 이송 - 조선일보",
+        "zh": "SK하이닉스 청주공장 화재… 가스 누출로 7명 병원 이송 - 조선일보"
       }
     },
     {
-      "title": "정청래 “‘감옥 3인방’ 尹·李·朴 등판은 국민 무시...역사 속으로 보내자” - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/06/01/UKIV6VZ2HFFFHPQ5Q2GJ36CQ6E/",
+      "title": "교육장관, 또 중립 의무 깼다... 진보 교육감 후보 지지 댓글 - 조선일보",
+      "link": "https://www.chosun.com/national/education/2026/06/01/BLPYBTIQPJGWNNWAD5EME5ERIU/",
       "source": "조선일보",
-      "pubDate": "Mon, 01 Jun 2026 02:20:18 GMT",
-      "image": "https://www.chosun.com/resizer/v2/OBOTD3TWCNOEJNS2DZ2LY5HTXU.JPG?auth=cddf9097aa204c0c237e652aa7947abe30fa08bf2a6a89d8a2649999ca92b0d3&width=1200&height=630&smart=true",
+      "pubDate": "Mon, 01 Jun 2026 10:39:42 GMT",
+      "image": "https://www.chosun.com/resizer/v2/RJJ6W6TETVBD5BEHEEV245ARJQ.webp?auth=c335e002e0ea918b61e27a75de0c11d90b90b938b6f4c4f6107f5cb5c2e23516&width=1200&height=630&focal=683,59",
       "summaries": {
-        "ko": "정청래 “‘감옥 3인방’ 尹·李·朴 등판은 국민 무시...역사 속으로 보내자” - 조선일보",
-        "en": "정청래 “‘감옥 3인방’ 尹·李·朴 등판은 국민 무시...역사 속으로 보내자” - 조선일보",
-        "zh": "정청래 “‘감옥 3인방’ 尹·李·朴 등판은 국민 무시...역사 속으로 보내자” - 조선일보"
-      }
-    },
-    {
-      "title": "장윤기에 살해 당한 광주 여고생은 \"17살 이채원양\"...부모 \"이런 비극 없길\" 신상 공개 - 파이낸셜뉴스",
-      "link": "https://www.fnnews.com/news/202606010635322810",
-      "source": "파이낸셜뉴스",
-      "pubDate": "Sun, 31 May 2026 21:47:46 GMT",
-      "image": "https://image.fnnews.com/resource/media/image/2026/06/01/202606010638493684_l.jpg",
-      "summaries": {
-        "ko": "장윤기에 살해 당한 광주 여고생은 \"17살 이채원양\"...부모 \"이런 비극 없길\" 신상 공개 - 파이낸셜뉴스",
-        "en": "장윤기에 살해 당한 광주 여고생은 \"17살 이채원양\"...부모 \"이런 비극 없길\" 신상 공개 - 파이낸셜뉴스",
-        "zh": "장윤기에 살해 당한 광주 여고생은 \"17살 이채원양\"...부모 \"이런 비극 없길\" 신상 공개 - 파이낸셜뉴스"
-      }
-    },
-    {
-      "title": "태풍 ′장미′ 일본 향하지만…제주·남해안 호우, 중부 폭염급 더위 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260601122553HuR",
-      "source": "연합뉴스TV",
-      "pubDate": "Mon, 01 Jun 2026 03:25:55 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260601/AKR20260601122553HuR_01_i.jpg",
-      "summaries": {
-        "ko": "태풍 ′장미′ 일본 향하지만…제주·남해안 호우, 중부 폭염급 더위 - 연합뉴스TV",
-        "en": "태풍 ′장미′ 일본 향하지만…제주·남해안 호우, 중부 폭염급 더위 - 연합뉴스TV",
-        "zh": "태풍 ′장미′ 일본 향하지만…제주·남해안 호우, 중부 폭염급 더위 - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "[속보] 지난달 물가 3.1% 상승…26개월 만 3%대",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260602080555bKc",
-      "source": "Breaking News",
-      "pubDate": "Tue, 02 Jun 2026 08:05:55 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260601/MYH20260602080555bKc.jpg",
-      "summaries": {
-        "ko": "[속보] 지난달 물가 3.1% 상승…26개월 만 3%대",
-        "en": "[속보] 지난달 물가 3.1% 상승…26개월 만 3%대",
-        "zh": "[속보] 지난달 물가 3.1% 상승…26개월 만 3%대"
+        "ko": "교육장관, 또 중립 의무 깼다... 진보 교육감 후보 지지 댓글 - 조선일보",
+        "en": "교육장관, 또 중립 의무 깼다... 진보 교육감 후보 지지 댓글 - 조선일보",
+        "zh": "교육장관, 또 중립 의무 깼다... 진보 교육감 후보 지지 댓글 - 조선일보"
       }
     }
   ]
