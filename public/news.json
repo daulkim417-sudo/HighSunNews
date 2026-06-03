@@ -1,16 +1,112 @@
 {
-  "lastUpdate": "2026-06-03T06:33:21.494176",
+  "lastUpdate": "2026-06-03T11:30:55.461606",
   "items": [
     {
-      "title": "[속보] 지방선거 투표율 오후 3시 현재 51.9%…4년 전보다 8.8%P↑ - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606031509001",
-      "source": "경향신문",
-      "pubDate": "Wed, 03 Jun 2026 06:09:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/03/news-p.v1.20260603.fda0fab89c494ebf9822ed3cbb2c8563_P1.jpeg",
+      "title": "[속보] 민주 11곳 국힘 1곳 우세…접전 4곳 [출구조사] - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261738.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 03 Jun 2026 10:38:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/610/imgdb/original/2026/0603/20260603502145.webp",
       "summaries": {
-        "ko": "제9회 전국동시지방선거의 오후 3시 기준 투표율이 51.9%를 기록하며, 2022년 제8회 지방선거 같은 시간대보다 8.8%포인트 높은 수치를 보였다.",
-        "en": "The voter turnout for the 9th nationwide local elections reached 51.9% as of 3 PM, marking an 8.8 percentage point increase compared to the 8th local elections in 2022 at the same time.",
-        "zh": "截至下午3时，第九届韩国全国同步地方选举的投票率达到51.9%，比2022年第八届地方选举同期高出8.8个百分点。"
+        "ko": "지상파 3사의 6·3 지방선거 출구조사 결과, 더불어민주당이 16곳의 광역단체장 중 11곳에서 우세하고 국민의힘은 1곳에서 우세하며, 4곳은 접전으로 나타났다.",
+        "en": "Exit polls for the June 3rd local elections by the three terrestrial broadcasters show the Democratic Party leading in 11 out of 16 provincial/metropolitan head races, the People Power Party leading in 1, and 4 races being too close to call.",
+        "zh": "据三大地面广播公司的6月3日地方选举出口民调显示，共同民主党在16个广域地方政府首长竞选中领先11个，国民力量党领先1个，另有4个为胶着战。"
+      }
+    },
+    {
+      "title": "오후 5시 투표율 57.4% 역대 최고…최종 60% 넘을까 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261718.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 03 Jun 2026 08:11:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/852/imgdb/original/2026/0603/20260603501129.webp",
+      "summaries": {
+        "ko": "6·3 지방선거의 오후 5시 기준 투표율은 57.4%로 역대 지방선거 동시간대 최고치를 기록했으며, 최종 투표율이 60%를 넘어설지 주목된다.",
+        "en": "As of 5 PM on June 3rd, the 6·3 local elections recorded a voter turnout of 57.4%, marking the highest ever for local elections at that time, with attention focused on whether the final turnout will exceed 60%.",
+        "zh": "截至6月3日下午5时，6·3地方选举投票率为57.4%，创下历届地方选举同期最高纪录，最终投票率能否突破60%备受关注。"
+      }
+    },
+    {
+      "title": "[속보]민주당 11곳, 경합 4곳, 국민의힘 1곳…방송 3사 출구조사[6·3 지방선거] - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606031815001",
+      "source": "경향신문",
+      "pubDate": "Wed, 03 Jun 2026 09:15:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/03/news-p.v1.20260601.57937b6f06054a36b745e288c9681484_P1.jpg",
+      "summaries": {
+        "ko": "6·3 지방선거 지상파 3사 출구조사 결과 더불어민주당이 16개 광역단체장 중 11곳에서 우세하고 국민의힘은 1곳에서 앞섰으며, 부산·대구 등 4곳은 경합 지역으로 예측됐다.",
+        "en": "Exit polls from three major broadcasters for the 6·3 local elections project the Democratic Party to win 11 out of 16 metropolitan mayoral/gubernatorial races, with the People Power Party leading in one and four regions, including Busan and Daegu, being highly competitive.",
+        "zh": "根据三大电视台对6·3地方选举的出口民调结果，共同民主党预计在16个广域地方首长中赢得11个，国民力量党领先1个，而釜山、大邱等4个地区则被预测为竞争激烈的胶着区。"
+      }
+    },
+    {
+      "title": "[개표방송] KBS ‘디시전K+’ 본격 가동…“모든 선거 100% 정확도” - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8577208",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 03 Jun 2026 10:49:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/06/03/20260603_GHtCD4.png",
+      "summaries": {
+        "ko": "KBS의 당선인 예측 시스템 '디시전K+'가 제9회 전국동시지방선거에 본격 가동되었으며, 2002년 도입 이래 모든 선거에서 100% 예측 정확도를 기록하고 있습니다.",
+        "en": "KBS's candidate prediction system 'DecisionK+', which has maintained 100% prediction accuracy in all elections since its introduction in 2002, is now fully operational for the 9th nationwide simultaneous local election.",
+        "zh": "KBS的当选人预测系统“DecisionK+”已为第九届全国同步地方选举全面启动，该系统自2002年推出以来，在所有选举中均保持100%的预测准确率。"
+      }
+    },
+    {
+      "title": "부산 북갑 하정우 42.6%-한동훈 41.6%…평택을 3인 초접전 [출구조사] - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261748.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 03 Jun 2026 10:30:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/923/554/imgdb/child/2026/0603/53_17804820070028_20260603502333.webp",
+      "summaries": {
+        "ko": "방송 3사 공동 출구조사 결과, 부산 북갑 보궐선거는 하정우(42.6%)와 한동훈(41.6%)이 초접전을 벌이고 있으며, 경기 평택을 재선거는 조국(31.1%), 유의동(30.6%), 김용남(30.3%) 세 후보가 박빙 승부를 펼치고 있는 것으로 나타났다.",
+        "en": "According to joint exit polls from three major broadcasters, the Busan Buk-gap by-election shows an ultra-close race between Ha Jung-woo (42.6%) and Han Dong-hoon (41.6%), while the Gyeonggi Pyeongtaek-eul re-election features a tight three-way contest among Cho Kuk (31.1%), Yoo Ui-dong (30.6%), and Kim Yong-nam (30.3%).",
+        "zh": "根据三大广播公司联合出口民调，釜山北甲补选显示河正宇（42.6%）和韩东勋（41.6%）之间竞争异常激烈，而京畿平泽乙再选则呈现曹国（31.1%）、柳义东（30.6%）和金容男（30.3%）三位候选人之间的胶着战。"
+      }
+    },
+    {
+      "title": "선관위, 오늘밤 9시 ‘투표용지 부족 사태’ 대국민 사과 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8577225",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 03 Jun 2026 11:07:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/06/03/20260603_VyadOx.png",
+      "summaries": {
+        "ko": "선관위, 오늘밤 9시 ‘투표용지 부족 사태’ 대국민 사과 - KBS 뉴스",
+        "en": "선관위, 오늘밤 9시 ‘투표용지 부족 사태’ 대국민 사과 - KBS 뉴스",
+        "zh": "선관위, 오늘밤 9시 ‘투표용지 부족 사태’ 대국민 사과 - KBS 뉴스"
+      }
+    },
+    {
+      "title": "[속보]추경호 49.9% 김부겸 49.1%, 전재수 50.2% 박형준 48.3%…지상파 3사 출구조사 대구·부산시장 초접전 [6·3 지방선거] - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606031825001",
+      "source": "경향신문",
+      "pubDate": "Wed, 03 Jun 2026 09:25:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/03/news-p.v1.20260603.5ad7f962f53f4cb79337fa718481cde2_P1.png",
+      "summaries": {
+        "ko": "[속보]추경호 49.9% 김부겸 49.1%, 전재수 50.2% 박형준 48.3%…지상파 3사 출구조사 대구·부산시장 초접전 [6·3 지방선거] - 경향신문",
+        "en": "[속보]추경호 49.9% 김부겸 49.1%, 전재수 50.2% 박형준 48.3%…지상파 3사 출구조사 대구·부산시장 초접전 [6·3 지방선거] - 경향신문",
+        "zh": "[속보]추경호 49.9% 김부겸 49.1%, 전재수 50.2% 박형준 48.3%…지상파 3사 출구조사 대구·부산시장 초접전 [6·3 지방선거] - 경향신문"
+      }
+    },
+    {
+      "title": "정원오 \"안전한 서울 만들겠다\" 오세훈 \"서울의 미래 지키겠다\" - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/06/03/YLBD6EMFP5HXZLXXQ4CDLZL5HI/",
+      "source": "조선일보",
+      "pubDate": "Wed, 03 Jun 2026 03:01:48 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MVTGCMTGMZQWGMBVGNRDGMRYMI.jpg?auth=d99be617e4bd54087620eb37dba92e079d460cd4702f5eeb1a9c813e713af70e&width=1200&height=630&focal=2014,857",
+      "summaries": {
+        "ko": "정원오 \"안전한 서울 만들겠다\" 오세훈 \"서울의 미래 지키겠다\" - 조선일보",
+        "en": "정원오 \"안전한 서울 만들겠다\" 오세훈 \"서울의 미래 지키겠다\" - 조선일보",
+        "zh": "정원오 \"안전한 서울 만들겠다\" 오세훈 \"서울의 미래 지키겠다\" - 조선일보"
+      }
+    },
+    {
+      "title": "\"나쁜 사람 아니고서야\"…이 대통령, '투표 독려' 野 비판 반박 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR2026060314371007q",
+      "source": "연합뉴스TV",
+      "pubDate": "Wed, 03 Jun 2026 05:37:12 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260603/AKR2026060314371007q_01_i.jpg",
+      "summaries": {
+        "ko": "\"나쁜 사람 아니고서야\"…이 대통령, '투표 독려' 野 비판 반박 - 연합뉴스TV",
+        "en": "\"나쁜 사람 아니고서야\"…이 대통령, '투표 독려' 野 비판 반박 - 연합뉴스TV",
+        "zh": "\"나쁜 사람 아니고서야\"…이 대통령, '투표 독려' 野 비판 반박 - 연합뉴스TV"
       }
     },
     {
@@ -26,111 +122,15 @@
       }
     },
     {
-      "title": "李대통령 \"최악 저질에게 지배당하지 않기 위해 투표하셨나\" - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/06/03/BYUK7EZ57BA2NIRN2RTWMLBILM/",
-      "source": "조선일보",
-      "pubDate": "Wed, 03 Jun 2026 01:24:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/FY46ETBTQ5BANN35J3V5SMJP7A.jpg?auth=af74364fb4356f9779484bd550e7dca203ce75aa5ecb0f0c8ac528b05fe17478&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "李대통령 \"최악 저질에게 지배당하지 않기 위해 투표하셨나\" - 조선일보",
-        "en": "李대통령 \"최악 저질에게 지배당하지 않기 위해 투표하셨나\" - 조선일보",
-        "zh": "李대통령 \"최악 저질에게 지배당하지 않기 위해 투표하셨나\" - 조선일보"
-      }
-    },
-    {
-      "title": "정원오 “오세훈의 무능 10년 심판” 오세훈 “최후 보루 서울 남겨달라” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260603/134039613/2",
-      "source": "동아일보",
-      "pubDate": "Tue, 02 Jun 2026 19:30:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/03/134039827.1.jpg",
-      "summaries": {
-        "ko": "정원오 “오세훈의 무능 10년 심판” 오세훈 “최후 보루 서울 남겨달라” - 동아일보",
-        "en": "정원오 “오세훈의 무능 10년 심판” 오세훈 “최후 보루 서울 남겨달라” - 동아일보",
-        "zh": "정원오 “오세훈의 무능 10년 심판” 오세훈 “최후 보루 서울 남겨달라” - 동아일보"
-      }
-    },
-    {
-      "title": "경찰 \"한화에어로 대전공장 폭발 사고 사망자 5명 모두 신원 확인‥인도 예정\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6827230_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Wed, 03 Jun 2026 00:14:06 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/06/03/sa_20260603_23.jpg",
-      "summaries": {
-        "ko": "경찰 \"한화에어로 대전공장 폭발 사고 사망자 5명 모두 신원 확인‥인도 예정\" - MBC 뉴스",
-        "en": "경찰 \"한화에어로 대전공장 폭발 사고 사망자 5명 모두 신원 확인‥인도 예정\" - MBC 뉴스",
-        "zh": "경찰 \"한화에어로 대전공장 폭발 사고 사망자 5명 모두 신원 확인‥인도 예정\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "이란 ″미군기지 타격″ 주장…미 ″공격 실패″ - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260603130342eSV",
-      "source": "연합뉴스TV",
-      "pubDate": "Wed, 03 Jun 2026 04:03:43 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260603/AKR20260603130342eSV_01_i.jpg",
-      "summaries": {
-        "ko": "이란 ″미군기지 타격″ 주장…미 ″공격 실패″ - 연합뉴스TV",
-        "en": "이란 ″미군기지 타격″ 주장…미 ″공격 실패″ - 연합뉴스TV",
-        "zh": "이란 ″미군기지 타격″ 주장…미 ″공격 실패″ - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "지방선거 최대 승부처 ‘보수의 심장’ 대구, 투표소마다 긴 줄···시장 당선인 전망 ‘팽팽’ [6·3 지방선거] - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606031104001",
-      "source": "경향신문",
-      "pubDate": "Wed, 03 Jun 2026 02:04:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/03/news-p.v1.20260603.5f2b1dc24dd946c7bd759f4905bfeb07_P1.jpg",
-      "summaries": {
-        "ko": "지방선거 최대 승부처 ‘보수의 심장’ 대구, 투표소마다 긴 줄···시장 당선인 전망 ‘팽팽’ [6·3 지방선거] - 경향신문",
-        "en": "지방선거 최대 승부처 ‘보수의 심장’ 대구, 투표소마다 긴 줄···시장 당선인 전망 ‘팽팽’ [6·3 지방선거] - 경향신문",
-        "zh": "지방선거 최대 승부처 ‘보수의 심장’ 대구, 투표소마다 긴 줄···시장 당선인 전망 ‘팽팽’ [6·3 지방선거] - 경향신문"
-      }
-    },
-    {
-      "title": "[속보]조갑제 “장동혁패배, 李상처승리, 한동훈소생” - 문화일보",
-      "link": "https://www.munhwa.com/article/11593063",
-      "source": "문화일보",
-      "pubDate": "Wed, 03 Jun 2026 04:25:43 GMT",
-      "image": "https://wimg.munhwa.com/news/cms/2026/06/03/news-p.v1.20260603.3b4272ee8d4f4f058446ac78579b9f74_R.png",
-      "summaries": {
-        "ko": "[속보]조갑제 “장동혁패배, 李상처승리, 한동훈소생” - 문화일보",
-        "en": "[속보]조갑제 “장동혁패배, 李상처승리, 한동훈소생” - 문화일보",
-        "zh": "[속보]조갑제 “장동혁패배, 李상처승리, 한동훈소생” - 문화일보"
-      }
-    },
-    {
-      "title": "장동혁 \"투표 포기는 이재명 재판 지울 기회 주는 것\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6827258_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Wed, 03 Jun 2026 01:57:56 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/06/03/yh_20260603-5.jpg",
-      "summaries": {
-        "ko": "장동혁 \"투표 포기는 이재명 재판 지울 기회 주는 것\" - MBC 뉴스",
-        "en": "장동혁 \"투표 포기는 이재명 재판 지울 기회 주는 것\" - MBC 뉴스",
-        "zh": "장동혁 \"투표 포기는 이재명 재판 지울 기회 주는 것\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "루비오 \"이란 제재완화는 핵포기에 연계‥협상 성공 가능성\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/world/article/6827221_36925.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 02 Jun 2026 22:38:50 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/06/03/sa_20260603_20.jpg",
-      "summaries": {
-        "ko": "루비오 \"이란 제재완화는 핵포기에 연계‥협상 성공 가능성\" - MBC 뉴스",
-        "en": "루비오 \"이란 제재완화는 핵포기에 연계‥협상 성공 가능성\" - MBC 뉴스",
-        "zh": "루비오 \"이란 제재완화는 핵포기에 연계‥협상 성공 가능성\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "[속보] 쿠웨이트 항공당국 \"이란 공격에 인명 부상, 시설 심각 피해\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260603145543Um7",
+      "title": "[속보] 선관위, 오후 9시 '투표지 부족' 대국민 사과",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260603195521WZk",
       "source": "Breaking News",
-      "pubDate": "Wed, 03 Jun 2026 14:55:44 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260603/AKR20260603145543Um7_01_i.jpg",
+      "pubDate": "Wed, 03 Jun 2026 19:55:21 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260603/MYH20260603195521WZk.jpg",
       "summaries": {
-        "ko": "[속보] 쿠웨이트 항공당국 \"이란 공격에 인명 부상, 시설 심각 피해\"",
-        "en": "[속보] 쿠웨이트 항공당국 \"이란 공격에 인명 부상, 시설 심각 피해\"",
-        "zh": "[속보] 쿠웨이트 항공당국 \"이란 공격에 인명 부상, 시설 심각 피해\""
+        "ko": "[속보] 선관위, 오후 9시 '투표지 부족' 대국민 사과",
+        "en": "[속보] 선관위, 오후 9시 '투표지 부족' 대국민 사과",
+        "zh": "[속보] 선관위, 오후 9시 '투표지 부족' 대국민 사과"
       }
     }
   ]
