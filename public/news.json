@@ -1,112 +1,88 @@
 {
-  "lastUpdate": "2026-06-03T16:00:06.680852",
+  "lastUpdate": "2026-06-03T19:45:55.688529",
   "items": [
     {
-      "title": "출구조사에 고개 떨구던 국힘, 투표지 부족에 “선거 무효” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606040042005",
-      "source": "경향신문",
-      "pubDate": "Wed, 03 Jun 2026 15:42:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/04/l_2026060401000144500011241.jpg",
+      "title": "[속보] ‘투표용지 부족사태’ 선관위 “선거 연기나 재선거 사유 해당 안돼” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261808.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 03 Jun 2026 19:10:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/607/imgdb/original/2026/0604/6517805144561318.webp",
       "summaries": {
-        "ko": "출구조사 참패 예상에 침묵하던 국민의힘이 송파구 등 일부 지역의 투표용지 부족 사태를 문제 삼아 개표 중단 및 재선거를 요구했으나, 민주당은 \"일고의 가치도 없다\"고 일축했다.",
-        "en": "Initially silent after dismal exit poll predictions, the People Power Party demanded a suspension of vote counting and a re-election, citing ballot paper shortages in some Seoul polling stations, a demand the Democratic Party dismissed as \"worthless.\"",
-        "zh": "在出口民调预示惨败后一度沉默的国民力量党，以首尔部分投票站出现选票短缺为由，要求停止计票并举行重选，但民主党对此不屑一顾，称其“毫无价值”。"
+        "ko": "중앙선거관리위원회는 6·3 지방선거 본투표일 투표용지 부족 사태에 대해 사과하며, 이는 선거 연기나 재선거 사유에 해당하지 않으며 개표 종료 후 진상 규명 및 재발 방지 대책을 마련하겠다고 밝혔다.",
+        "en": "The National Election Commission apologized for the ballot paper shortage during the June 3 local elections, stating that it does not constitute grounds for postponing or re-running the election, and pledged to investigate the matter and implement preventive measures after vote counting concludes.",
+        "zh": "中央选举管理委员会就6月3日地方选举投票日出现的选票短缺事件致歉，并表示这不构成推迟或重新选举的理由，承诺在计票结束后立即查明真相并制定再发防止对策。"
       }
     },
     {
-      "title": "공들인 충청 4곳 모두 열세…장동혁, 40분만에 자리 떠 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260603/134044302/2",
+      "title": "[속보]대구시장 추경호 당선 유력 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260604/134045737/1",
       "source": "동아일보",
-      "pubDate": "Wed, 03 Jun 2026 11:58:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/03/134044371.2.jpg",
+      "pubDate": "Wed, 03 Jun 2026 16:55:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/04/134046121.1.jpg",
       "summaries": {
-        "ko": "공들인 충청 4곳 모두 열세…장동혁, 40분만에 자리 떠 - 동아일보",
-        "en": "공들인 충청 4곳 모두 열세…장동혁, 40분만에 자리 떠 - 동아일보",
-        "zh": "공들인 충청 4곳 모두 열세…장동혁, 40분만에 자리 떠 - 동아일보"
+        "ko": "[속보]대구시장 추경호 당선 유력 - 동아일보",
+        "en": "[속보]대구시장 추경호 당선 유력 - 동아일보",
+        "zh": "[속보]대구시장 추경호 당선 유력 - 동아일보"
       }
     },
     {
-      "title": "전국 투표율 잠정 61.0%…4년 전 지방선거보다 10.1%p↑ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261782.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 03 Jun 2026 15:28:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0603/7217804531317684.webp",
+      "title": "당선 예측 족집게 ‘디시전K+’ 비결은? - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8577316",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 03 Jun 2026 12:57:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/06/03/20260603_5t8JHy.png",
       "summaries": {
-        "ko": "전국 6·3 지방선거 투표율이 잠정 61.0%로 집계되며 역대 지방선거 중 두 번째로 높았고, 4년 전 지방선거보다 10.1%포인트 상승했다.",
-        "en": "The national voter turnout for the June 3 local elections was tentatively recorded at 61.0%, marking the second-highest turnout in local election history and a 10.1 percentage point increase compared to the local elections four years ago.",
-        "zh": "韩国6月3日地方选举的全国投票率暂定为61.0%，创下地方选举史上第二高纪录，比四年前的地方选举投票率高出10.1个百分点。"
+        "ko": "KBS의 당선 예측 시스템 '디시전K+'는 20년 넘게 알고리즘을 고도화하고 사전투표율 등 상세 데이터를 반영하며 선거 결과의 윤곽을 빠르고 정확하게 예측해왔습니다.",
+        "en": "KBS's election prediction system 'DecisionK+' has accurately and quickly predicted the outlines of election results for over 20 years by continuously refining its algorithms and reflecting detailed data such as advance voting rates.",
+        "zh": "KBS的选举预测系统“DecisionK+”在过去20多年中，通过持续改进算法并反映提前投票率等详细数据，一直快速准确地预测选举结果的轮廓。"
       }
     },
     {
-      "title": "대구시장, 김부겸 49.1%-추경호 49.9% 초접전 [출구조사] - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261740.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 03 Jun 2026 13:14:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/545/imgdb/original/2026/0603/20260603502167.webp",
-      "summaries": {
-        "ko": "방송 3사 공동 출구조사 결과, 대구시장 선거에서 김부겸 더불어민주당 후보가 49.1%, 추경호 국민의힘 후보가 49.9%를 얻어 초접전을 벌이는 것으로 나타났다.",
-        "en": "Joint exit polls by the three major broadcasters show a neck-and-neck race for Daegu mayor between Kim Boo-kyum (Democratic Party) with 49.1% and Choo Kyung-ho (People Power Party) with 49.9%.",
-        "zh": "根据三大广播公司的联合出口民调，大邱市长选举中，共同民主党候选人金富谦以49.1%的支持率，与国民力量党候选人秋庆镐的49.9%支持率展开激烈竞争，选情胶着。"
-      }
-    },
-    {
-      "title": "지상파 ‘초접전’·JTBC ‘한동훈 우세’… 엇갈린 출구·예측조사 - 미디어오늘",
-      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=334917",
-      "source": "미디어오늘",
-      "pubDate": "Wed, 03 Jun 2026 11:09:22 GMT",
-      "image": "https://cdn.mediatoday.co.kr/news/thumbnail/202606/334917_479482_4911_v150.jpg",
-      "summaries": {
-        "ko": "제9회 전국동시지방선거 출구·예측조사에서 지상파 3사는 여러 선거구에서 초접전을 예상한 반면 JTBC는 특정 후보의 우세를 예측하는 등 엇갈린 결과를 보였다.",
-        "en": "In the exit and prediction polls for the 9th National Simultaneous Local Elections, the three terrestrial broadcasters predicted neck-and-neck races in several constituencies, while JTBC predicted a lead for specific candidates, showing conflicting results.",
-        "zh": "在第九届全国同步地方选举的出口民调和预测调查中，三大地面电视台在多个选区预测为胶着战，而JTBC则预测特定候选人领先，结果出现分歧。"
-      }
-    },
-    {
-      "title": "부산시장 선거 민주 전재수, 밤 10시 현재 국힘 박형준에 9%포인트 앞서 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/yeongnam/1261769.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 03 Jun 2026 14:12:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/701/467/imgdb/original/2026/0603/20260603502890.webp",
-      "summaries": {
-        "ko": "6월 3일 밤 10시 현재, 부산시장 선거 개표율 14.4% 상황에서 민주당 전재수 후보가 국민의힘 박형준 후보를 9%포인트 앞서고 있다.",
-        "en": "As of 10 PM on June 3rd, with 14.4% of votes counted in the Busan mayoral election, Democratic Party candidate Jeon Jae-soo is leading National Power Party candidate Park Hyeong-jun by 9 percentage points.",
-        "zh": "截至6月3日晚10时，在釜山市长选举中，民主党候选人全在秀在计票率达14.4%时，以9个百分点的优势领先国民力量党候选人朴亨埈。"
-      }
-    },
-    {
-      "title": "[속보] 서울시장 정원오 53.5%, 오세훈 42.9%…JTBC 예측조사 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260603061700001",
+      "title": "[6·3 지선] 승패 가른 핵심 요인은…견제론 누른 내란청산론 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260602111200001",
       "source": "연합뉴스",
-      "pubDate": "Wed, 03 Jun 2026 09:02:29 GMT",
-      "image": "https://img5.yna.co.kr/photo/cms/2026/06/02/10/PCM20260602000110990_P4.jpg",
+      "pubDate": "Wed, 03 Jun 2026 19:01:34 GMT",
+      "image": "https://img4.yna.co.kr/photo/yna/YH/2026/06/03/PYH2026060303900005400_P4.jpg",
       "summaries": {
-        "ko": "JTBC 예측조사에서 서울시장 후보 정원오가 53.5%를 기록하며 42.9%의 오세훈 후보를 앞섰다.",
-        "en": "A JTBC prediction poll shows Seoul mayoral candidate Jeong Won-oh leading with 53.5% of support over Oh Se-hoon, who has 42.9%.",
-        "zh": "根据JTBC预测调查，首尔市长候选人郑元午以53.5%的支持率领先获得42.9%支持的吴世勋。"
+        "ko": "6·3 지방선거의 승패를 가른 핵심 요인은 이재명 대통령의 높은 지지율에 기반한 정권 안정론과 12·3 비상계엄의 잔상에 따른 '계엄 청산론'이 작용하여 야당의 정권 심판론이 힘을 받지 못했기 때문으로 분석된다.",
+        "en": "The outcome of the 6·3 local elections was determined by the prevailing government stability theory, fueled by President Lee Jae-myung's high approval ratings, and a strong sentiment for addressing the legacy of the 12·3 martial law, which together overshadowed the opposition's calls for government accountability.",
+        "zh": "6·3地方选举的胜败因素在于，李在明总统高支持率支撑的政权稳定论和12·3紧急戒严的余波引发的“戒严清算论”占据了上风，从而压倒了在野党的政权审判论。"
       }
     },
     {
-      "title": "개표 끝날 때까지 피 말린다…평택을 3인 초접전, 하정우·한동훈 ′박빙′ - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260603194531R7z",
-      "source": "연합뉴스TV",
-      "pubDate": "Wed, 03 Jun 2026 10:47:24 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260603/AKR20260603194531R7z_01_i.jpg",
-      "summaries": {
-        "ko": "개표 끝날 때까지 피 말린다…평택을 3인 초접전, 하정우·한동훈 ′박빙′ - 연합뉴스TV",
-        "en": "개표 끝날 때까지 피 말린다…평택을 3인 초접전, 하정우·한동훈 ′박빙′ - 연합뉴스TV",
-        "zh": "개표 끝날 때까지 피 말린다…평택을 3인 초접전, 하정우·한동훈 ′박빙′ - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "추미애, 경기지사 당선 ‘확실’…사상 첫 여성 광역단체장 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261774.html",
+      "title": "부산북갑 한동훈·평택을 유의동 ‘신승’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261803.html",
       "source": "한겨레",
-      "pubDate": "Wed, 03 Jun 2026 15:41:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/693/imgdb/child/2026/0604/17805012402389_4517805012192203.webp",
+      "pubDate": "Wed, 03 Jun 2026 18:37:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/818/imgdb/original/2026/0604/9717805120154719.webp",
       "summaries": {
-        "ko": "추미애, 경기지사 당선 ‘확실’…사상 첫 여성 광역단체장 - 한겨레",
-        "en": "추미애, 경기지사 당선 ‘확실’…사상 첫 여성 광역단체장 - 한겨레",
-        "zh": "추미애, 경기지사 당선 ‘확실’…사상 첫 여성 광역단체장 - 한겨레"
+        "ko": "6·3 국회의원 재보궐선거에서 무소속 한동훈 후보가 부산 북갑에서, 국민의힘 유의동 후보가 평택을에서 각각 신승했으며, 민주당 송영길 후보 등 주요 후보들이 당선됐다.",
+        "en": "In the June 3 parliamentary by-elections and re-elections, independent candidate Han Dong-hoon secured a narrow victory in Busan Buk-gap, People Power Party's Yoo Eui-dong won in Pyeongtaek-eul, and other key candidates including Democratic Party's Song Young-gil were elected.",
+        "zh": "在6月3日国会议员补选和重选中，无党派候选人韩东勋在釜山北甲险胜，国民力量党候选人柳义东在平泽乙获胜，共同民主党候选人宋永吉等主要候选人也纷纷当选。"
+      }
+    },
+    {
+      "title": "6·3 지방선거 전국 최종 투표율 61%‥지선 기준 역대 두 번째 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6827503_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Wed, 03 Jun 2026 14:55:34 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/06/03/kds_20260603_1.jpg",
+      "summaries": {
+        "ko": "6월 3일 지방선거의 최종 투표율이 61%로 집계되어 역대 지방선거 사상 두 번째로 높은 기록을 세웠으며, 이는 지난 2022년 제8회 지방선거보다 10.1%p 높은 수치입니다.",
+        "en": "The final turnout for the June 3rd local election was recorded at 61%, marking it as the second-highest in the history of local elections and 10.1 percentage points higher than the 8th local election in 2022.",
+        "zh": "6月3日地方选举的最终投票率为61%，创下了地方选举史上第二高的记录，比2022年第八届地方选举高出10.1个百分点。"
+      }
+    },
+    {
+      "title": "국힘 유의동, 조국·김용남 꺾고 평택을 국회의원 당선 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261794.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 03 Jun 2026 18:33:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/676/imgdb/original/2026/0604/1417805090856122.webp",
+      "summaries": {
+        "ko": "국민의힘 유의동 후보가 평택을 국회의원 재선거에서 더불어민주당 김용남 후보와 조국혁신당 조국 후보를 꺾고 당선됐다.",
+        "en": "People Power Party candidate Yoo Eui-dong won the Pyeongtaek-eul National Assembly by-election, defeating Democratic Party candidate Kim Yong-nam and Cho Kuk Innovation Party candidate Cho Kuk.",
+        "zh": "国民力量党候选人柳义东在平泽乙国会议员补选中击败共同民主党候选人金容男和祖国革新党候选人曹国，成功当选。"
       }
     },
     {
@@ -122,27 +98,39 @@
       }
     },
     {
-      "title": "[속보] 靑 \"선관위, 투표권 행사ㆍ개표관리 차질없게 해야\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260604000416gXX",
-      "source": "Breaking News",
-      "pubDate": "Thu, 04 Jun 2026 00:04:17 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260603/MYH20260604000416gXX.jpg",
+      "title": "[속보]하정우 “노력과 준비 부족 인정…한동훈 축하” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606040220001",
+      "source": "경향신문",
+      "pubDate": "Wed, 03 Jun 2026 17:20:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/04/rcv.YNA.20260602.PYH2026060219590005100_P1.jpg",
       "summaries": {
-        "ko": "[속보] 靑 \"선관위, 투표권 행사ㆍ개표관리 차질없게 해야\"",
-        "en": "[속보] 靑 \"선관위, 투표권 행사ㆍ개표관리 차질없게 해야\"",
-        "zh": "[속보] 靑 \"선관위, 투표권 행사ㆍ개표관리 차질없게 해야\""
+        "ko": "[속보]하정우 “노력과 준비 부족 인정…한동훈 축하” - 경향신문",
+        "en": "[속보]하정우 “노력과 준비 부족 인정…한동훈 축하” - 경향신문",
+        "zh": "[속보]하정우 “노력과 준비 부족 인정…한동훈 축하” - 경향신문"
       }
     },
     {
-      "title": "[속보] 6·3 지방선거 잠정투표율 61.0%…4년 전보다 10.1%p↑",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260603235554L1y",
+      "title": "선관위, 투표지 부족 사태에 \"선거 연기·재선거 사유 해당안돼\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260604044344Nvx",
       "source": "Breaking News",
-      "pubDate": "Wed, 03 Jun 2026 23:55:55 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260603/AKR20260603235554L1y_01_i.jpg",
+      "pubDate": "Thu, 04 Jun 2026 04:43:45 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260603/AKR20260604044344Nvx_01_i.jpg",
       "summaries": {
-        "ko": "[속보] 6·3 지방선거 잠정투표율 61.0%…4년 전보다 10.1%p↑",
-        "en": "[속보] 6·3 지방선거 잠정투표율 61.0%…4년 전보다 10.1%p↑",
-        "zh": "[속보] 6·3 지방선거 잠정투표율 61.0%…4년 전보다 10.1%p↑"
+        "ko": "선관위, 투표지 부족 사태에 \"선거 연기·재선거 사유 해당안돼\"",
+        "en": "선관위, 투표지 부족 사태에 \"선거 연기·재선거 사유 해당안돼\"",
+        "zh": "선관위, 투표지 부족 사태에 \"선거 연기·재선거 사유 해당안돼\""
+      }
+    },
+    {
+      "title": "[속보] 선관위 \"투표 용지 부족 재선거 사유 아냐\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260604041024ePn",
+      "source": "Breaking News",
+      "pubDate": "Thu, 04 Jun 2026 04:10:24 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260603/MYH20260604041024ePn.jpg",
+      "summaries": {
+        "ko": "[속보] 선관위 \"투표 용지 부족 재선거 사유 아냐\"",
+        "en": "[속보] 선관위 \"투표 용지 부족 재선거 사유 아냐\"",
+        "zh": "[속보] 선관위 \"투표 용지 부족 재선거 사유 아냐\""
       }
     }
   ]
