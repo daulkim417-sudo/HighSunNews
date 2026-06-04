@@ -1,28 +1,52 @@
 {
-  "lastUpdate": "2026-06-04T00:02:14.512162",
+  "lastUpdate": "2026-06-04T04:59:43.777131",
   "items": [
     {
-      "title": "[속보]서울 개표 95%…오세훈 48.8% 정원오 48.2% - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261827.html",
+      "title": "오세훈, 서울시장 5선 성공…정원오에 막판 역전승 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261847.html",
       "source": "한겨레",
-      "pubDate": "Wed, 03 Jun 2026 22:47:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/745/351/imgdb/original/2026/0604/7517805282939279.webp",
+      "pubDate": "Thu, 04 Jun 2026 00:36:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/628/imgdb/original/2026/0604/9717805357328491.webp",
       "summaries": {
-        "ko": "서울시장 개표율 95.1% 상황에서 국민의힘 오세훈 후보가 48.8%를 얻어 더불어민주당 정원오 후보(48.5%)를 1만1727표 차이로 처음 앞섰다.",
-        "en": "With 95.1% of the Seoul mayoral election votes counted, People Power Party candidate Oh Se-hoon has for the first time taken a lead over Democratic Party candidate Jung Won-oh, with 48.8% to 48.5%.",
-        "zh": "在首尔市长选举95.1%的计票完成后，国民力量党候选人吴世勋首次以48.8%的得票率领先共同民主党候选人郑元吾（48.5%）。"
+        "ko": "국민의힘 오세훈 후보가 제9회 전국동시지방선거에서 정원오 더불어민주당 후보를 막판 역전승으로 꺾고 서울시장 최초 5선에 성공했다.",
+        "en": "Oh Se-hoon of the People Power Party successfully secured an unprecedented fifth term as Seoul Mayor, achieving a last-minute comeback victory over Jeong Won-oh of the Democratic Party in the 9th nationwide local elections.",
+        "zh": "国民力量党候选人吴世勋在第九届全国同步地方选举中，以最后一刻的逆转胜击败共同民主党候选人郑元吾，成功当选首尔市长，实现史无前例的五连任。"
       }
     },
     {
-      "title": "선관위 몰려간 부정선거 주장 시위대 밤샘 집회···한때 1200명까지 늘어 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606040821001",
+      "title": "[속보]‘이 대통령 소년범’ 모스 탄 출국정지 유지···법원, 집행정지 신청 기각 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606041014001",
       "source": "경향신문",
-      "pubDate": "Wed, 03 Jun 2026 23:21:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/04/rcv.YNA.20260604.PYH2026060403020001300_P1.jpg",
+      "pubDate": "Thu, 04 Jun 2026 01:14:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/04/news-p.v1.20260602.160945fc30ce498296fff4145359bfb8_P1.jpg",
       "summaries": {
-        "ko": "선관위 몰려간 부정선거 주장 시위대 밤샘 집회···한때 1200명까지 늘어 - 경향신문",
-        "en": "선관위 몰려간 부정선거 주장 시위대 밤샘 집회···한때 1200명까지 늘어 - 경향신문",
-        "zh": "선관위 몰려간 부정선거 주장 시위대 밤샘 집회···한때 1200명까지 늘어 - 경향신문"
+        "ko": "[속보]‘이 대통령 소년범’ 모스 탄 출국정지 유지···법원, 집행정지 신청 기각 - 경향신문",
+        "en": "[속보]‘이 대통령 소년범’ 모스 탄 출국정지 유지···법원, 집행정지 신청 기각 - 경향신문",
+        "zh": "[속보]‘이 대통령 소년범’ 모스 탄 출국정지 유지···법원, 집행정지 신청 기각 - 경향신문"
+      }
+    },
+    {
+      "title": "\"투표권 침해당했다\" 잠실 주민들, 투표소 앞 이틀째 농성 - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/06/04/QGYNQ47FDJH2HI7CSZTXTCWC2E/",
+      "source": "조선일보",
+      "pubDate": "Thu, 04 Jun 2026 00:37:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GU4DMMBZHFTGKMZSMZTDAZLDGQ.jpg?auth=bbd3af3401321ed676b726764a45457131f6d4d3b2b52e033ac595738b87d643&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "\"투표권 침해당했다\" 잠실 주민들, 투표소 앞 이틀째 농성 - 조선일보",
+        "en": "\"투표권 침해당했다\" 잠실 주민들, 투표소 앞 이틀째 농성 - 조선일보",
+        "zh": "\"투표권 침해당했다\" 잠실 주민들, 투표소 앞 이틀째 농성 - 조선일보"
+      }
+    },
+    {
+      "title": "정청래 “큰 승리, 국민께 감사…서울 탈환 못해 아파” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/election/1261863.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 04 Jun 2026 01:30:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/434/imgdb/original/2026/0604/20260604501792.webp",
+      "summaries": {
+        "ko": "정청래 “큰 승리, 국민께 감사…서울 탈환 못해 아파” - 한겨레",
+        "en": "정청래 “큰 승리, 국민께 감사…서울 탈환 못해 아파” - 한겨레",
+        "zh": "정청래 “큰 승리, 국민께 감사…서울 탈환 못해 아파” - 한겨레"
       }
     },
     {
@@ -38,99 +62,63 @@
       }
     },
     {
-      "title": "與, 지방 권력도 장악… 한동훈 당선, 조국 낙선 - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/06/04/MZ6MBYTYL5EOJJCRXQCF26VNTA/",
+      "title": "與 12곳 vs 野 4곳, 서울 내줘 절반의 승리…재보선은 9 대 4 - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/06/04/TAELD64HTRDGTGMPJVTN2G55XQ/",
       "source": "조선일보",
-      "pubDate": "Wed, 03 Jun 2026 19:37:00 GMT",
+      "pubDate": "Thu, 04 Jun 2026 00:44:00 GMT",
       "image": "https://www.chosun.com/resizer/v2/FN4BPQXF75HQZKL3GMNO6U4BUU.png?auth=af8ae8ab80263af0ff8d8ab72f2c0f1cda6b4b10bc3c9ca24f386e49cf008232&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "與, 지방 권력도 장악… 한동훈 당선, 조국 낙선 - 조선일보",
-        "en": "與, 지방 권력도 장악… 한동훈 당선, 조국 낙선 - 조선일보",
-        "zh": "與, 지방 권력도 장악… 한동훈 당선, 조국 낙선 - 조선일보"
+        "ko": "與 12곳 vs 野 4곳, 서울 내줘 절반의 승리…재보선은 9 대 4 - 조선일보",
+        "en": "與 12곳 vs 野 4곳, 서울 내줘 절반의 승리…재보선은 9 대 4 - 조선일보",
+        "zh": "與 12곳 vs 野 4곳, 서울 내줘 절반의 승리…재보선은 9 대 4 - 조선일보"
       }
     },
     {
-      "title": "[인터뷰] 추경호 대구시장 당선인 \"돈·사람 모이는 도시…경제시장 되겠다\" - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260604016900053",
-      "source": "연합뉴스",
-      "pubDate": "Wed, 03 Jun 2026 17:57:50 GMT",
-      "image": "https://img0.yna.co.kr/etc/inner/KR/2026/06/04/AKR20260604016900053_01_i_P4.jpg",
-      "summaries": {
-        "ko": "[인터뷰] 추경호 대구시장 당선인 \"돈·사람 모이는 도시…경제시장 되겠다\" - 연합뉴스",
-        "en": "[인터뷰] 추경호 대구시장 당선인 \"돈·사람 모이는 도시…경제시장 되겠다\" - 연합뉴스",
-        "zh": "[인터뷰] 추경호 대구시장 당선인 \"돈·사람 모이는 도시…경제시장 되겠다\" - 연합뉴스"
-      }
-    },
-    {
-      "title": "당선 예측 족집게 ‘디시전K+’ 비결은? - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8577316",
-      "source": "KBS 뉴스",
-      "pubDate": "Wed, 03 Jun 2026 12:57:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/06/03/20260603_5t8JHy.png",
-      "summaries": {
-        "ko": "당선 예측 족집게 ‘디시전K+’ 비결은? - KBS 뉴스",
-        "en": "당선 예측 족집게 ‘디시전K+’ 비결은? - KBS 뉴스",
-        "zh": "당선 예측 족집게 ‘디시전K+’ 비결은? - KBS 뉴스"
-      }
-    },
-    {
-      "title": "추미애, 경기지사 당선 ‘확실’…사상 첫 여성 광역단체장 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261774.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 03 Jun 2026 18:15:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/693/imgdb/child/2026/0604/17805012402389_4517805012192203.webp",
-      "summaries": {
-        "ko": "추미애, 경기지사 당선 ‘확실’…사상 첫 여성 광역단체장 - 한겨레",
-        "en": "추미애, 경기지사 당선 ‘확실’…사상 첫 여성 광역단체장 - 한겨레",
-        "zh": "추미애, 경기지사 당선 ‘확실’…사상 첫 여성 광역단체장 - 한겨레"
-      }
-    },
-    {
-      "title": "조국 “평택서 ‘국힘 제로’ 완수 못해...제 개인의 실패” - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/06/04/U7OV3QOBJBDM3ISZJ2K4C234RA/",
-      "source": "조선일보",
-      "pubDate": "Wed, 03 Jun 2026 18:00:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/VLY7ZMG64VPZDIIRSQ4CSZPG5Y.JPG?auth=e6af2653a9d18035c9026fca597626c11cfbc6e7349c2f5f59f57662a843908d&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "조국 “평택서 ‘국힘 제로’ 완수 못해...제 개인의 실패” - 조선일보",
-        "en": "조국 “평택서 ‘국힘 제로’ 완수 못해...제 개인의 실패” - 조선일보",
-        "zh": "조국 “평택서 ‘국힘 제로’ 완수 못해...제 개인의 실패” - 조선일보"
-      }
-    },
-    {
-      "title": "6·3 지방선거 전국 최종 투표율 61%‥지선 기준 역대 두 번째 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6827503_36911.html",
+      "title": "경찰, 지방선거 선거사범 4천여 명 적발‥260여 명 송치 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6827706_36918.html",
       "source": "MBC 뉴스",
-      "pubDate": "Wed, 03 Jun 2026 14:55:34 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/06/03/kds_20260603_1.jpg",
+      "pubDate": "Thu, 04 Jun 2026 02:33:44 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/06/04/ljm_20260604_8.jpg",
       "summaries": {
-        "ko": "6·3 지방선거 전국 최종 투표율 61%‥지선 기준 역대 두 번째 - MBC 뉴스",
-        "en": "6·3 지방선거 전국 최종 투표율 61%‥지선 기준 역대 두 번째 - MBC 뉴스",
-        "zh": "6·3 지방선거 전국 최종 투표율 61%‥지선 기준 역대 두 번째 - MBC 뉴스"
+        "ko": "경찰, 지방선거 선거사범 4천여 명 적발‥260여 명 송치 - MBC 뉴스",
+        "en": "경찰, 지방선거 선거사범 4천여 명 적발‥260여 명 송치 - MBC 뉴스",
+        "zh": "경찰, 지방선거 선거사범 4천여 명 적발‥260여 명 송치 - MBC 뉴스"
       }
     },
     {
-      "title": "[속보]하정우 “노력과 준비 부족 인정…한동훈 축하” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606040220001",
-      "source": "경향신문",
-      "pubDate": "Wed, 03 Jun 2026 17:20:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/04/rcv.YNA.20260602.PYH2026060219590005100_P1.jpg",
+      "title": "‘낙선’ 김용남 “다음엔 깨끗한 선거 되길”…조국 “통합정치 절실” - v.daum.net",
+      "link": "https://v.daum.net/v/20260604033354844",
+      "source": "v.daum.net",
+      "pubDate": "Wed, 03 Jun 2026 18:33:54 GMT",
+      "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/04/kbs/20260604033554826otmx.jpg",
       "summaries": {
-        "ko": "[속보]하정우 “노력과 준비 부족 인정…한동훈 축하” - 경향신문",
-        "en": "[속보]하정우 “노력과 준비 부족 인정…한동훈 축하” - 경향신문",
-        "zh": "[속보]하정우 “노력과 준비 부족 인정…한동훈 축하” - 경향신문"
+        "ko": "‘낙선’ 김용남 “다음엔 깨끗한 선거 되길”…조국 “통합정치 절실” - v.daum.net",
+        "en": "‘낙선’ 김용남 “다음엔 깨끗한 선거 되길”…조국 “통합정치 절실” - v.daum.net",
+        "zh": "‘낙선’ 김용남 “다음엔 깨끗한 선거 되길”…조국 “통합정치 절실” - v.daum.net"
       }
     },
     {
-      "title": "[단독] '남양주 스토킹 살인' 부실대응 경찰관 3명 중징계",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260604085657agf",
+      "title": "미군 ″이란, 쿠웨이트 민간공항에 의도적 드론 공격″ - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260604055250Vlf",
+      "source": "연합뉴스TV",
+      "pubDate": "Wed, 03 Jun 2026 20:52:51 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260603/AKR20260604055250Vlf_01_i.jpg",
+      "summaries": {
+        "ko": "미군 ″이란, 쿠웨이트 민간공항에 의도적 드론 공격″ - 연합뉴스TV",
+        "en": "미군 ″이란, 쿠웨이트 민간공항에 의도적 드론 공격″ - 연합뉴스TV",
+        "zh": "미군 ″이란, 쿠웨이트 민간공항에 의도적 드론 공격″ - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "'투표지 부족' 사태 파장…선관위 앞에서도 시위",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260604135536uha",
       "source": "Breaking News",
-      "pubDate": "Thu, 04 Jun 2026 08:56:59 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260603/AKR20260604085657agf_01_i.jpg",
+      "pubDate": "Thu, 04 Jun 2026 13:55:38 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260604/MYH20260604135536uha.jpg",
       "summaries": {
-        "ko": "[단독] '남양주 스토킹 살인' 부실대응 경찰관 3명 중징계",
-        "en": "[단독] '남양주 스토킹 살인' 부실대응 경찰관 3명 중징계",
-        "zh": "[단독] '남양주 스토킹 살인' 부실대응 경찰관 3명 중징계"
+        "ko": "'투표지 부족' 사태 파장…선관위 앞에서도 시위",
+        "en": "'투표지 부족' 사태 파장…선관위 앞에서도 시위",
+        "zh": "'투표지 부족' 사태 파장…선관위 앞에서도 시위"
       }
     }
   ]
