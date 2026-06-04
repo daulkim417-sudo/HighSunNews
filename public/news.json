@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-04T22:46:04.285165",
+  "lastUpdate": "2026-06-04T23:51:29.602590",
   "items": [
     {
       "title": "사상 초유 ‘투표용지 부족’ 사태···선관위 처벌 가능한가, 선거 무효되나 - 경향신문",
@@ -8,9 +8,21 @@
       "pubDate": "Thu, 04 Jun 2026 21:00:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/06/05/news-p.v1.20260604.092600f038c847f486a2e8681574a128_P1.jpg",
       "summaries": {
-        "ko": "6·3 지방선거에서 발생한 사상 초유의 투표용지 부족 사태로 참정권 침해 논란과 함께 선거 무효 소송 가능성이 제기되지만, 선관위 관계자에 대한 형사처벌은 고의성 입증의 어려움으로 힘들 것이라는 법조계의 의견이 나왔다.",
-        "en": "An unprecedented ballot paper shortage during the 6.3 local elections in South Korea has sparked controversy over the infringement of voting rights and raised the possibility of an election invalidation lawsuit, though legal experts believe criminal charges against election officials will be difficult due to the challenge of proving intent.",
-        "zh": "韩国6·3地方选举中发生的史无前例的选票不足事件引发了侵犯投票权争议，并可能导致选举无效诉讼，但法律界普遍认为，由于难以证明故意，对选举委员会官员的刑事处罚将面临困难。"
+        "ko": "사상 초유의 6·3 지방선거 투표용지 부족 사태로 서울 일부 지역에서 선거무효 소송 가능성이 제기되는 가운데, 선관위 관계자들의 고의성 입증이 어려워 형사처벌은 어렵지만, 피해 유권자들의 손해배상 민사소송은 가능할 것으로 보인다.",
+        "en": "An unprecedented ballot paper shortage during the 6.3 local election in parts of Seoul has raised the possibility of election nullification lawsuits, with criminal charges against election officials deemed unlikely without proof of intent, while civil lawsuits for damages remain an option for affected voters.",
+        "zh": "首尔部分地区在6·3地方选举中发生史无前例的选票短缺事件，引发了选举无效诉讼的可能性，但由于难以证明选举官员的故意行为，刑事指控不太可能成立，而受影响选民仍可提起民事赔偿诉讼。"
+      }
+    },
+    {
+      "title": "‘오세훈’ 뽑은 서울시민, 구청장은 반대로 민주당 찍어…교차투표 왜? - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/area_general/1262032.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 04 Jun 2026 20:00:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0604/20260604504767.webp",
+      "summaries": {
+        "ko": "‘오세훈’ 뽑은 서울시민, 구청장은 반대로 민주당 찍어…교차투표 왜? - 한겨레",
+        "en": "‘오세훈’ 뽑은 서울시민, 구청장은 반대로 민주당 찍어…교차투표 왜? - 한겨레",
+        "zh": "‘오세훈’ 뽑은 서울시민, 구청장은 반대로 민주당 찍어…교차투표 왜? - 한겨레"
       }
     },
     {
@@ -26,39 +38,27 @@
       }
     },
     {
-      "title": "친명 \"서울, 정청래 책임\" 친청 \"누구 때문에 졌는데…\" - 조선일보",
-      "link": "https://www.chosun.com/politics/election2026/2026/06/05/EOULXI2DTFBIJDSPXMCLTTFOWQ/",
+      "title": "차기 국무총리에 정성호 유력 - 조선일보",
+      "link": "https://www.chosun.com/politics/blue_house/2026/06/05/76TDPMBBNND7BBYB7XYJZOFASY/",
       "source": "조선일보",
-      "pubDate": "Thu, 04 Jun 2026 15:50:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MRRGGZLCGNSGGZRQGY4WMZRZGM.jpg?auth=e84d49ffa94c083b266e5487402d5b23f63297c2535249696210374d371d38ca&width=600&height=315&smart=true",
+      "pubDate": "Thu, 04 Jun 2026 15:56:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GJOHTNYW3RJ5JPHVPPFSNVHOSE.jpg?auth=fd658d4e259c37863a027253d12f6bc0414878a8dac79c469fac09cacbf9d232&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "친명 \"서울, 정청래 책임\" 친청 \"누구 때문에 졌는데…\" - 조선일보",
-        "en": "친명 \"서울, 정청래 책임\" 친청 \"누구 때문에 졌는데…\" - 조선일보",
-        "zh": "친명 \"서울, 정청래 책임\" 친청 \"누구 때문에 졌는데…\" - 조선일보"
+        "ko": "차기 국무총리에 정성호 유력 - 조선일보",
+        "en": "차기 국무총리에 정성호 유력 - 조선일보",
+        "zh": "차기 국무총리에 정성호 유력 - 조선일보"
       }
     },
     {
-      "title": "김부겸 ‘대구 변화론’ 막판 보수 결집엔 역부족…박근혜도 한몫 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261953.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 04 Jun 2026 13:16:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/605/404/imgdb/original/2026/0604/20260604503854.webp",
+      "title": "[점선면]‘철옹성’ 대구도 디비질 뻔했다…김부겸의 ‘도전’ - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606050700001",
+      "source": "경향신문",
+      "pubDate": "Thu, 04 Jun 2026 22:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/05/news-p.v1.20260604.0c1f84b1355d4df7ac65d4b13e7ee5e2_P1.jpeg",
       "summaries": {
-        "ko": "김부겸 ‘대구 변화론’ 막판 보수 결집엔 역부족…박근혜도 한몫 - 한겨레",
-        "en": "김부겸 ‘대구 변화론’ 막판 보수 결집엔 역부족…박근혜도 한몫 - 한겨레",
-        "zh": "김부겸 ‘대구 변화론’ 막판 보수 결집엔 역부족…박근혜도 한몫 - 한겨레"
-      }
-    },
-    {
-      "title": "‘당권 사수’ 장동혁에…한동훈 “품격·실력 없다” 직격 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1262001.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 04 Jun 2026 16:25:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0604/53_17805685506342_3817805685286691.png",
-      "summaries": {
-        "ko": "‘당권 사수’ 장동혁에…한동훈 “품격·실력 없다” 직격 - 한겨레",
-        "en": "‘당권 사수’ 장동혁에…한동훈 “품격·실력 없다” 직격 - 한겨레",
-        "zh": "‘당권 사수’ 장동혁에…한동훈 “품격·실력 없다” 직격 - 한겨레"
+        "ko": "[점선면]‘철옹성’ 대구도 디비질 뻔했다…김부겸의 ‘도전’ - 경향신문",
+        "en": "[점선면]‘철옹성’ 대구도 디비질 뻔했다…김부겸의 ‘도전’ - 경향신문",
+        "zh": "[점선면]‘철옹성’ 대구도 디비질 뻔했다…김부겸의 ‘도전’ - 경향신문"
       }
     },
     {
@@ -74,51 +74,75 @@
       }
     },
     {
-      "title": "차기 국무총리에 정성호 유력 - 조선일보",
-      "link": "https://www.chosun.com/politics/blue_house/2026/06/05/76TDPMBBNND7BBYB7XYJZOFASY/",
+      "title": "‘평택을 당선’ 유의동 “장동혁 거취 결단 안하면 당원과 긴밀 상의” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260604/134049522/2",
+      "source": "동아일보",
+      "pubDate": "Thu, 04 Jun 2026 06:08:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/04/134049524.2.jpg",
+      "summaries": {
+        "ko": "‘평택을 당선’ 유의동 “장동혁 거취 결단 안하면 당원과 긴밀 상의” - 동아일보",
+        "en": "‘평택을 당선’ 유의동 “장동혁 거취 결단 안하면 당원과 긴밀 상의” - 동아일보",
+        "zh": "‘평택을 당선’ 유의동 “장동혁 거취 결단 안하면 당원과 긴밀 상의” - 동아일보"
+      }
+    },
+    {
+      "title": "서울·부산서 ‘명픽’ 꺾은 오세훈·한동훈, 보수 재건의 투톱으로 - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/06/05/CQRNLDUKPRBO5OSY364UZ75MIE/",
       "source": "조선일보",
-      "pubDate": "Thu, 04 Jun 2026 15:56:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GJOHTNYW3RJ5JPHVPPFSNVHOSE.jpg?auth=fd658d4e259c37863a027253d12f6bc0414878a8dac79c469fac09cacbf9d232&width=1200&height=630&smart=true",
+      "pubDate": "Thu, 04 Jun 2026 15:52:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/ACOKSYHODBGOXDLRGMIINB6B4E.jpg?auth=d51b093f6f97b3552388a59d3b48194c02a5b84cfdc8b3abbcf4a578921376cd&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "차기 국무총리에 정성호 유력 - 조선일보",
-        "en": "차기 국무총리에 정성호 유력 - 조선일보",
-        "zh": "차기 국무총리에 정성호 유력 - 조선일보"
+        "ko": "서울·부산서 ‘명픽’ 꺾은 오세훈·한동훈, 보수 재건의 투톱으로 - 조선일보",
+        "en": "서울·부산서 ‘명픽’ 꺾은 오세훈·한동훈, 보수 재건의 투톱으로 - 조선일보",
+        "zh": "서울·부산서 ‘명픽’ 꺾은 오세훈·한동훈, 보수 재건의 투톱으로 - 조선일보"
       }
     },
     {
-      "title": "민주당 지역구이던 13곳, 이번 선거서 4곳 잃었다 - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/06/04/FL3UZETNGRGUJGWC365RGHXURI/",
-      "source": "조선일보",
-      "pubDate": "Thu, 04 Jun 2026 11:32:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/J2RIUBR7ONAVVGQACIDENGMNUI.JPG?auth=5b59f4cce0f9f79391b0f8352fdd6446357b5995086b03713192d690032c1c4e&width=1200&height=630&focal=1551,822",
+      "title": "‘평택을 낙선’ 조국 “선거 결과에 책임지고 당대표직 사퇴” - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8578012",
+      "source": "KBS 뉴스",
+      "pubDate": "Thu, 04 Jun 2026 07:42:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/06/04/20260604_3XEOr3.png",
       "summaries": {
-        "ko": "민주당 지역구이던 13곳, 이번 선거서 4곳 잃었다 - 조선일보",
-        "en": "민주당 지역구이던 13곳, 이번 선거서 4곳 잃었다 - 조선일보",
-        "zh": "민주당 지역구이던 13곳, 이번 선거서 4곳 잃었다 - 조선일보"
+        "ko": "‘평택을 낙선’ 조국 “선거 결과에 책임지고 당대표직 사퇴” - KBS 뉴스",
+        "en": "‘평택을 낙선’ 조국 “선거 결과에 책임지고 당대표직 사퇴” - KBS 뉴스",
+        "zh": "‘평택을 낙선’ 조국 “선거 결과에 책임지고 당대표직 사퇴” - KBS 뉴스"
       }
     },
     {
-      "title": "[단독]한숨 쉬는데 홍어 형상이?···선관위 홍보 영상에 ‘일베 상징물’ 노출 논란 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606041923001",
-      "source": "경향신문",
-      "pubDate": "Thu, 04 Jun 2026 10:23:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/04/news-p.v1.20260604.3abf6c3963664d3a9fcc4deeae612d93_P1.png",
+      "title": "합수본, '신천지 국민의힘 집단 입당 의혹' 이만희 총회장 첫 소환 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6827738_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Thu, 04 Jun 2026 05:16:08 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/06/04/ggm_20260604_1.jpg",
       "summaries": {
-        "ko": "[단독]한숨 쉬는데 홍어 형상이?···선관위 홍보 영상에 ‘일베 상징물’ 노출 논란 - 경향신문",
-        "en": "[단독]한숨 쉬는데 홍어 형상이?···선관위 홍보 영상에 ‘일베 상징물’ 노출 논란 - 경향신문",
-        "zh": "[단독]한숨 쉬는데 홍어 형상이?···선관위 홍보 영상에 ‘일베 상징물’ 노출 논란 - 경향신문"
+        "ko": "합수본, '신천지 국민의힘 집단 입당 의혹' 이만희 총회장 첫 소환 - MBC 뉴스",
+        "en": "합수본, '신천지 국민의힘 집단 입당 의혹' 이만희 총회장 첫 소환 - MBC 뉴스",
+        "zh": "합수본, '신천지 국민의힘 집단 입당 의혹' 이만희 총회장 첫 소환 - MBC 뉴스"
       }
     },
     {
-      "title": "‘3위 낙선’ 조국 치명상…민주당과 합당론 동력 잃었다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/election/1261947.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 04 Jun 2026 08:58:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/589/imgdb/child/2026/0604/17805597420703_20260604503734.webp",
+      "title": "[속보] 잠실투표소 기동대 투입에 시위대 반발…물리적 충돌",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260605084115ogs",
+      "source": "Breaking News",
+      "pubDate": "Fri, 05 Jun 2026 08:41:16 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260604/MYH20260605084115ogs.jpg",
       "summaries": {
-        "ko": "‘3위 낙선’ 조국 치명상…민주당과 합당론 동력 잃었다 - 한겨레",
-        "en": "‘3위 낙선’ 조국 치명상…민주당과 합당론 동력 잃었다 - 한겨레",
-        "zh": "‘3위 낙선’ 조국 치명상…민주당과 합당론 동력 잃었다 - 한겨레"
+        "ko": "[속보] 잠실투표소 기동대 투입에 시위대 반발…물리적 충돌",
+        "en": "[속보] 잠실투표소 기동대 투입에 시위대 반발…물리적 충돌",
+        "zh": "[속보] 잠실투표소 기동대 투입에 시위대 반발…물리적 충돌"
+      }
+    },
+    {
+      "title": "[속보] 경찰, '잠실7동투표소 봉쇄' 시위대 해산 명령",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260605082450SJD",
+      "source": "Breaking News",
+      "pubDate": "Fri, 05 Jun 2026 08:24:51 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260604/MYH20260605082450SJD.jpg",
+      "summaries": {
+        "ko": "[속보] 경찰, '잠실7동투표소 봉쇄' 시위대 해산 명령",
+        "en": "[속보] 경찰, '잠실7동투표소 봉쇄' 시위대 해산 명령",
+        "zh": "[속보] 경찰, '잠실7동투표소 봉쇄' 시위대 해산 명령"
       }
     }
   ]
