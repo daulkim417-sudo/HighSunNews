@@ -1,76 +1,88 @@
 {
-  "lastUpdate": "2026-06-04T19:35:21.714792",
+  "lastUpdate": "2026-06-04T21:15:20.417307",
   "items": [
     {
-      "title": "선관위 ‘부정선거 의혹’ 제기에 투표용지 줄였다니… - 한겨레",
+      "title": "‘정청래 책임론’ 꿈틀…송영길 “실용노선 대신 내란종식만 외쳐” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260604/134050215/1",
+      "source": "동아일보",
+      "pubDate": "Thu, 04 Jun 2026 10:56:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/04/134052772.1.jpg",
+      "summaries": {
+        "ko": "지방선거 후 민주당 차기 당권 경쟁이 본격화된 가운데 정청래 대표는 전국적 승리를 주장하며 연임 의지를 보였으나, 송영길 전 대표는 서울 패배 등을 거론하며 당 대표의 책임론을 제기했다.",
+        "en": "Following the local elections, the Democratic Party's leadership race has begun, with Chairman Chung Cheong-rae claiming a nationwide victory and hinting at a re-election bid, while former Chairman Song Young-gil criticized him, raising the issue of the party leader's responsibility for losses like in Seoul.",
+        "zh": "地方选举结束后，民主党下届党权之争正式开始，郑清来代表声称全国性胜利并暗示寻求连任，而前代表宋永吉则批评其应为首尔等地的失利承担党代表责任。"
+      }
+    },
+    {
+      "title": "선관위, 부정선거 의혹 제기에 투표용지 줄였다니… - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/society_general/1262020.html",
       "source": "한겨레",
       "pubDate": "Thu, 04 Jun 2026 16:21:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0604/53_17805776313383_20260604504411.webp",
       "summaries": {
-        "ko": "선관위가 반복되는 부정선거 의혹에 대한 부담으로 투표용지 인쇄량을 줄인 것이 일부 투표소의 용지 부족 사태로 이어졌고, 이 사태가 오히려 부정선거론자들의 투표함 반출 저지 시위를 촉발해 개표가 지연되고 있다.",
-        "en": "The National Election Commission, burdened by repeated election fraud allegations, reduced the ballot printing quantity, which ironically led to a ballot shortage at some polling stations, prompting election fraud proponents to block the transfer of ballot boxes and delay vote counting.",
-        "zh": "选举委员会因担忧重复出现的选举舞弊指控而减少了选票印制量，结果讽刺性地导致部分投票站出现选票不足，进而引发了舞弊论支持者阻止投票箱运出并延迟计票的事件。"
+        "ko": "6·3 지방선거 잠실투표소의 투표용지 부족 사태가 부정선거 의혹 제기로 이어져 투표함 반출이 막혔는데, 이는 선관위가 기존의 부정선거 의혹을 의식해 투표용지 인쇄량을 줄인 데다가 현장 대응 부실까지 겹쳐 발생했다.",
+        "en": "The ballot paper shortage at Jamsil polling station during the 6·3 local election, which sparked fraud allegations and blocked ballot box removal, ironically resulted from the National Election Commission reducing print quantities due to past fraud suspicions, compounded by poor on-site management.",
+        "zh": "6·3地方选举蚕室投票站发生的选票短缺事件引发了舞弊选举质疑，导致投票箱被阻挠运出，讽刺的是，这部分是由于选举委员会为避免此前舞弊质疑而减少了选票印刷量，再加上现场应对不足所致。"
       }
     },
     {
-      "title": "“희망의 불씨 지켜냈다”…장동혁, 대표직 유지 뜻 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606042123005",
-      "source": "경향신문",
-      "pubDate": "Thu, 04 Jun 2026 12:23:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/04/l_2026060501000177800016151.jpg",
-      "summaries": {
-        "ko": "“희망의 불씨 지켜냈다”…장동혁, 대표직 유지 뜻 - 경향신문",
-        "en": "“희망의 불씨 지켜냈다”…장동혁, 대표직 유지 뜻 - 경향신문",
-        "zh": "“희망의 불씨 지켜냈다”…장동혁, 대표직 유지 뜻 - 경향신문"
-      }
-    },
-    {
-      "title": "한동훈, 국힘 복당 가능성에 \"반드시 돌아간다... 이번 승리도 그 과정\" - 조선일보",
+      "title": "한동훈 \"국힘 반드시 돌아갈 것... 방향 바로잡아야\" - 조선일보",
       "link": "https://www.chosun.com/politics/election2026/2026/06/04/P7WMLSEBZVH3XI7AH5HSSLAY24/",
       "source": "조선일보",
-      "pubDate": "Thu, 04 Jun 2026 08:14:30 GMT",
+      "pubDate": "Thu, 04 Jun 2026 08:11:00 GMT",
       "image": "https://www.chosun.com/resizer/v2/XVW3ZHM3AZAT7GRE7VR643CUIQ.JPG?auth=d7aba62be3ed5dd6be498db98aafb70ee24089f8a9076397d4b75d74c5afbca0&width=1200&height=630&focal=1302,513",
       "summaries": {
-        "ko": "한동훈, 국힘 복당 가능성에 \"반드시 돌아간다... 이번 승리도 그 과정\" - 조선일보",
-        "en": "한동훈, 국힘 복당 가능성에 \"반드시 돌아간다... 이번 승리도 그 과정\" - 조선일보",
-        "zh": "한동훈, 국힘 복당 가능성에 \"반드시 돌아간다... 이번 승리도 그 과정\" - 조선일보"
+        "ko": "한동훈 \"국힘 반드시 돌아갈 것... 방향 바로잡아야\" - 조선일보",
+        "en": "한동훈 \"국힘 반드시 돌아갈 것... 방향 바로잡아야\" - 조선일보",
+        "zh": "한동훈 \"국힘 반드시 돌아갈 것... 방향 바로잡아야\" - 조선일보"
       }
     },
     {
-      "title": "‘독자 노선’ 오세훈, 사상 첫 5선 서울시장…대권 발판 굳히나 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/election/1262007.html",
+      "title": "‘당권 사수’ 장동혁에…한동훈 “품격·실력 없다” 직격 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1262001.html",
       "source": "한겨레",
-      "pubDate": "Thu, 04 Jun 2026 16:24:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0604/53_17805698916266_20260604504373.webp",
+      "pubDate": "Thu, 04 Jun 2026 16:25:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0604/53_17805685506342_3817805685286691.png",
       "summaries": {
-        "ko": "‘독자 노선’ 오세훈, 사상 첫 5선 서울시장…대권 발판 굳히나 - 한겨레",
-        "en": "‘독자 노선’ 오세훈, 사상 첫 5선 서울시장…대권 발판 굳히나 - 한겨레",
-        "zh": "‘독자 노선’ 오세훈, 사상 첫 5선 서울시장…대권 발판 굳히나 - 한겨레"
+        "ko": "‘당권 사수’ 장동혁에…한동훈 “품격·실력 없다” 직격 - 한겨레",
+        "en": "‘당권 사수’ 장동혁에…한동훈 “품격·실력 없다” 직격 - 한겨레",
+        "zh": "‘당권 사수’ 장동혁에…한동훈 “품격·실력 없다” 직격 - 한겨레"
       }
     },
     {
-      "title": "김부겸 ‘대구 변화론’ 막판 보수 결집엔 역부족…박근혜도 한몫 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1261953.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 04 Jun 2026 13:16:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/605/404/imgdb/original/2026/0604/20260604503854.webp",
+      "title": "대구시장 ‘졌잘싸’ 김부겸, ‘보수의 심장’서 이례적 접전…지역 구도에 균열 냈다 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606042112005",
+      "source": "경향신문",
+      "pubDate": "Thu, 04 Jun 2026 12:12:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/04/l_2026060501000184400016021.jpg",
       "summaries": {
-        "ko": "김부겸 ‘대구 변화론’ 막판 보수 결집엔 역부족…박근혜도 한몫 - 한겨레",
-        "en": "김부겸 ‘대구 변화론’ 막판 보수 결집엔 역부족…박근혜도 한몫 - 한겨레",
-        "zh": "김부겸 ‘대구 변화론’ 막판 보수 결집엔 역부족…박근혜도 한몫 - 한겨레"
+        "ko": "대구시장 ‘졌잘싸’ 김부겸, ‘보수의 심장’서 이례적 접전…지역 구도에 균열 냈다 - 경향신문",
+        "en": "대구시장 ‘졌잘싸’ 김부겸, ‘보수의 심장’서 이례적 접전…지역 구도에 균열 냈다 - 경향신문",
+        "zh": "대구시장 ‘졌잘싸’ 김부겸, ‘보수의 심장’서 이례적 접전…지역 구도에 균열 냈다 - 경향신문"
       }
     },
     {
-      "title": "민주당 지역구이던 13곳, 이번 선거서 4곳 잃었다 - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/06/04/FL3UZETNGRGUJGWC365RGHXURI/",
-      "source": "조선일보",
-      "pubDate": "Thu, 04 Jun 2026 11:32:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/J2RIUBR7ONAVVGQACIDENGMNUI.JPG?auth=5b59f4cce0f9f79391b0f8352fdd6446357b5995086b03713192d690032c1c4e&width=1200&height=630&focal=1551,822",
+      "title": "개각 준비중 李정부…차기 총리 후보에 강훈식·정성호·한성숙 - 매일경제",
+      "link": "https://www.mk.co.kr/news/politics/12065692",
+      "source": "매일경제",
+      "pubDate": "Thu, 04 Jun 2026 02:03:28 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202606/04/rcv.YNA.20260602.PYH2026060208860001300_R.jpg",
       "summaries": {
-        "ko": "민주당 지역구이던 13곳, 이번 선거서 4곳 잃었다 - 조선일보",
-        "en": "민주당 지역구이던 13곳, 이번 선거서 4곳 잃었다 - 조선일보",
-        "zh": "민주당 지역구이던 13곳, 이번 선거서 4곳 잃었다 - 조선일보"
+        "ko": "개각 준비중 李정부…차기 총리 후보에 강훈식·정성호·한성숙 - 매일경제",
+        "en": "개각 준비중 李정부…차기 총리 후보에 강훈식·정성호·한성숙 - 매일경제",
+        "zh": "개각 준비중 李정부…차기 총리 후보에 강훈식·정성호·한성숙 - 매일경제"
+      }
+    },
+    {
+      "title": "서울시장 선거 초박빙·개표 막판 오세훈, 정원오에 첫 역전 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260604074254P6G",
+      "source": "연합뉴스TV",
+      "pubDate": "Wed, 03 Jun 2026 22:42:55 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260603/AKR20260604074254P6G_01_i.jpg",
+      "summaries": {
+        "ko": "서울시장 선거 초박빙·개표 막판 오세훈, 정원오에 첫 역전 - 연합뉴스TV",
+        "en": "서울시장 선거 초박빙·개표 막판 오세훈, 정원오에 첫 역전 - 연합뉴스TV",
+        "zh": "서울시장 선거 초박빙·개표 막판 오세훈, 정원오에 첫 역전 - 연합뉴스TV"
       }
     },
     {
@@ -86,39 +98,27 @@
       }
     },
     {
-      "title": "합수본, '신천지 국민의힘 집단 입당 의혹' 이만희 총회장 첫 소환 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6827738_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Thu, 04 Jun 2026 05:16:08 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/06/04/ggm_20260604_1.jpg",
+      "title": "與, 재보선 아쉬운 성적표… 13곳 가지고 있다가 4곳 잃어 - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/06/04/FL3UZETNGRGUJGWC365RGHXURI/",
+      "source": "조선일보",
+      "pubDate": "Thu, 04 Jun 2026 11:32:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/J2RIUBR7ONAVVGQACIDENGMNUI.JPG?auth=5b59f4cce0f9f79391b0f8352fdd6446357b5995086b03713192d690032c1c4e&width=1200&height=630&focal=1551,822",
       "summaries": {
-        "ko": "합수본, '신천지 국민의힘 집단 입당 의혹' 이만희 총회장 첫 소환 - MBC 뉴스",
-        "en": "합수본, '신천지 국민의힘 집단 입당 의혹' 이만희 총회장 첫 소환 - MBC 뉴스",
-        "zh": "합수본, '신천지 국민의힘 집단 입당 의혹' 이만희 총회장 첫 소환 - MBC 뉴스"
+        "ko": "與, 재보선 아쉬운 성적표… 13곳 가지고 있다가 4곳 잃어 - 조선일보",
+        "en": "與, 재보선 아쉬운 성적표… 13곳 가지고 있다가 4곳 잃어 - 조선일보",
+        "zh": "與, 재보선 아쉬운 성적표… 13곳 가지고 있다가 4곳 잃어 - 조선일보"
       }
     },
     {
-      "title": "휴전 두 달 ‘최대 충돌’…트럼프 “미군 사망 없으면 전면전 안 해” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1261915.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 04 Jun 2026 11:00:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0604/20260604503178.webp",
+      "title": "투표율 왜 높았나?…여야 모두 “우리 지지층 나왔다” - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8577609",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 03 Jun 2026 22:38:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza/2026/06/04/140_8577609.jpg",
       "summaries": {
-        "ko": "휴전 두 달 ‘최대 충돌’…트럼프 “미군 사망 없으면 전면전 안 해” - 한겨레",
-        "en": "휴전 두 달 ‘최대 충돌’…트럼프 “미군 사망 없으면 전면전 안 해” - 한겨레",
-        "zh": "휴전 두 달 ‘최대 충돌’…트럼프 “미군 사망 없으면 전면전 안 해” - 한겨레"
-      }
-    },
-    {
-      "title": "미 국무, 쿠웨이트 외무장관과 회담…이란군 '공항 공격' 규탄",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202606050356308zQ",
-      "source": "Breaking News",
-      "pubDate": "Fri, 05 Jun 2026 03:56:30 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260604/AKR202606050356308zQ_01_i.jpg",
-      "summaries": {
-        "ko": "미 국무, 쿠웨이트 외무장관과 회담…이란군 '공항 공격' 규탄",
-        "en": "미 국무, 쿠웨이트 외무장관과 회담…이란군 '공항 공격' 규탄",
-        "zh": "미 국무, 쿠웨이트 외무장관과 회담…이란군 '공항 공격' 규탄"
+        "ko": "투표율 왜 높았나?…여야 모두 “우리 지지층 나왔다” - KBS 뉴스",
+        "en": "투표율 왜 높았나?…여야 모두 “우리 지지층 나왔다” - KBS 뉴스",
+        "zh": "투표율 왜 높았나?…여야 모두 “우리 지지층 나왔다” - KBS 뉴스"
       }
     }
   ]
