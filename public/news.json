@@ -1,40 +1,52 @@
 {
-  "lastUpdate": "2026-06-04T23:51:29.602590",
+  "lastUpdate": "2026-06-05T01:56:00.168722",
   "items": [
     {
-      "title": "사상 초유 ‘투표용지 부족’ 사태···선관위 처벌 가능한가, 선거 무효되나 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606050600081",
-      "source": "경향신문",
-      "pubDate": "Thu, 04 Jun 2026 21:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/05/news-p.v1.20260604.092600f038c847f486a2e8681574a128_P1.jpg",
-      "summaries": {
-        "ko": "사상 초유의 6·3 지방선거 투표용지 부족 사태로 서울 일부 지역에서 선거무효 소송 가능성이 제기되는 가운데, 선관위 관계자들의 고의성 입증이 어려워 형사처벌은 어렵지만, 피해 유권자들의 손해배상 민사소송은 가능할 것으로 보인다.",
-        "en": "An unprecedented ballot paper shortage during the 6.3 local election in parts of Seoul has raised the possibility of election nullification lawsuits, with criminal charges against election officials deemed unlikely without proof of intent, while civil lawsuits for damages remain an option for affected voters.",
-        "zh": "首尔部分地区在6·3地方选举中发生史无前例的选票短缺事件，引发了选举无效诉讼的可能性，但由于难以证明选举官员的故意行为，刑事指控不太可能成立，而受影响选民仍可提起民事赔偿诉讼。"
-      }
-    },
-    {
-      "title": "‘오세훈’ 뽑은 서울시민, 구청장은 반대로 민주당 찍어…교차투표 왜? - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/area_general/1262032.html",
+      "title": "[속보] ‘투표함 봉쇄’ 잠실 투표소 기동대 투입…시위대 해산 시도 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1262049.html",
       "source": "한겨레",
-      "pubDate": "Thu, 04 Jun 2026 20:00:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0604/20260604504767.webp",
+      "pubDate": "Thu, 04 Jun 2026 23:46:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/568/imgdb/original/2026/0605/20260605500243.webp",
       "summaries": {
-        "ko": "‘오세훈’ 뽑은 서울시민, 구청장은 반대로 민주당 찍어…교차투표 왜? - 한겨레",
-        "en": "‘오세훈’ 뽑은 서울시민, 구청장은 반대로 민주당 찍어…교차투표 왜? - 한겨레",
-        "zh": "‘오세훈’ 뽑은 서울시민, 구청장은 반대로 민주당 찍어…교차투표 왜? - 한겨레"
+        "ko": "경찰 기동대가 잠실 투표소에 투입되어 3일간 투표함 이송을 막아왔던 부정선거론 지지자 시위대를 해산시키고 투표함을 마침내 이송했다.",
+        "en": "Police riot forces were deployed to the Jamsil polling station, dispersing protesters supporting election fraud theories who had been blocking the transfer of ballot boxes for three days, and the ballot boxes were finally transported.",
+        "zh": "警方机动队被派往蚕室投票站，驱散了三天来一直阻止投票箱运送的选举舞弊论支持者示威者，投票箱最终被运走。"
       }
     },
     {
-      "title": "한동훈 복당 의지…“천년만년 무소속이면 이렇게 모이셨겠나” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260604/134049640/2",
-      "source": "동아일보",
-      "pubDate": "Thu, 04 Jun 2026 06:30:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/04/134050083.1.jpg",
+      "title": "친명 \"서울, 정청래 책임\" 친청 \"누구 때문에 졌는데…\" - 조선일보",
+      "link": "https://www.chosun.com/politics/election2026/2026/06/05/EOULXI2DTFBIJDSPXMCLTTFOWQ/",
+      "source": "조선일보",
+      "pubDate": "Thu, 04 Jun 2026 15:50:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MRRGGZLCGNSGGZRQGY4WMZRZGM.jpg?auth=e84d49ffa94c083b266e5487402d5b23f63297c2535249696210374d371d38ca&width=600&height=315&smart=true",
       "summaries": {
-        "ko": "한동훈 복당 의지…“천년만년 무소속이면 이렇게 모이셨겠나” - 동아일보",
-        "en": "한동훈 복당 의지…“천년만년 무소속이면 이렇게 모이셨겠나” - 동아일보",
-        "zh": "한동훈 복당 의지…“천년만년 무소속이면 이렇게 모이셨겠나” - 동아일보"
+        "ko": "친명 \"서울, 정청래 책임\" 친청 \"누구 때문에 졌는데…\" - 조선일보",
+        "en": "친명 \"서울, 정청래 책임\" 친청 \"누구 때문에 졌는데…\" - 조선일보",
+        "zh": "친명 \"서울, 정청래 책임\" 친청 \"누구 때문에 졌는데…\" - 조선일보"
+      }
+    },
+    {
+      "title": "한동훈 “보수 재건” 일성…향후 야권 재편 과정 핵심축 부상 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606042113025",
+      "source": "경향신문",
+      "pubDate": "Thu, 04 Jun 2026 12:13:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/04/l_2026060501000163900016061.jpg",
+      "summaries": {
+        "ko": "한동훈 “보수 재건” 일성…향후 야권 재편 과정 핵심축 부상 - 경향신문",
+        "en": "한동훈 “보수 재건” 일성…향후 야권 재편 과정 핵심축 부상 - 경향신문",
+        "zh": "한동훈 “보수 재건” 일성…향후 야권 재편 과정 핵심축 부상 - 경향신문"
+      }
+    },
+    {
+      "title": "친한계 “장동혁 당장 물러나야”…사퇴 요구 봇물 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1262063.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 05 Jun 2026 01:28:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/695/imgdb/original/2026/0605/20260605500626.webp",
+      "summaries": {
+        "ko": "친한계 “장동혁 당장 물러나야”…사퇴 요구 봇물 - 한겨레",
+        "en": "친한계 “장동혁 당장 물러나야”…사퇴 요구 봇물 - 한겨레",
+        "zh": "친한계 “장동혁 당장 물러나야”…사퇴 요구 봇물 - 한겨레"
       }
     },
     {
@@ -50,15 +62,15 @@
       }
     },
     {
-      "title": "[점선면]‘철옹성’ 대구도 디비질 뻔했다…김부겸의 ‘도전’ - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606050700001",
+      "title": "[점선면] 🟦김부겸의 도전, '철옹성'도 디비질 뻔했다 - 경향신문",
+      "link": "https://www.khan.co.kr/newsletter/cube/article/202606050700121",
       "source": "경향신문",
-      "pubDate": "Thu, 04 Jun 2026 22:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/05/news-p.v1.20260604.0c1f84b1355d4df7ac65d4b13e7ee5e2_P1.jpeg",
+      "pubDate": "Fri, 05 Jun 2026 00:06:37 GMT",
+      "image": "https://img.khan.co.kr/newsletter/228606/2026/3423517/83757_3423517_1780549244812468169.jpeg",
       "summaries": {
-        "ko": "[점선면]‘철옹성’ 대구도 디비질 뻔했다…김부겸의 ‘도전’ - 경향신문",
-        "en": "[점선면]‘철옹성’ 대구도 디비질 뻔했다…김부겸의 ‘도전’ - 경향신문",
-        "zh": "[점선면]‘철옹성’ 대구도 디비질 뻔했다…김부겸의 ‘도전’ - 경향신문"
+        "ko": "[점선면] 🟦김부겸의 도전, '철옹성'도 디비질 뻔했다 - 경향신문",
+        "en": "[점선면] 🟦김부겸의 도전, '철옹성'도 디비질 뻔했다 - 경향신문",
+        "zh": "[점선면] 🟦김부겸의 도전, '철옹성'도 디비질 뻔했다 - 경향신문"
       }
     },
     {
@@ -74,15 +86,15 @@
       }
     },
     {
-      "title": "‘평택을 당선’ 유의동 “장동혁 거취 결단 안하면 당원과 긴밀 상의” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260604/134049522/2",
-      "source": "동아일보",
-      "pubDate": "Thu, 04 Jun 2026 06:08:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/04/134049524.2.jpg",
+      "title": "[단독]“여인형, ‘합수부 훈련, 경찰 등 불러 리허설하라’ 지시···실무진은 ‘못한다’ 반발” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606050600031",
+      "source": "경향신문",
+      "pubDate": "Thu, 04 Jun 2026 21:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/05/news-p.v1.20251127.57c902e7743c427e9bf7019bd83f7106_P1.jpg",
       "summaries": {
-        "ko": "‘평택을 당선’ 유의동 “장동혁 거취 결단 안하면 당원과 긴밀 상의” - 동아일보",
-        "en": "‘평택을 당선’ 유의동 “장동혁 거취 결단 안하면 당원과 긴밀 상의” - 동아일보",
-        "zh": "‘평택을 당선’ 유의동 “장동혁 거취 결단 안하면 당원과 긴밀 상의” - 동아일보"
+        "ko": "[단독]“여인형, ‘합수부 훈련, 경찰 등 불러 리허설하라’ 지시···실무진은 ‘못한다’ 반발” - 경향신문",
+        "en": "[단독]“여인형, ‘합수부 훈련, 경찰 등 불러 리허설하라’ 지시···실무진은 ‘못한다’ 반발” - 경향신문",
+        "zh": "[단독]“여인형, ‘합수부 훈련, 경찰 등 불러 리허설하라’ 지시···실무진은 ‘못한다’ 반발” - 경향신문"
       }
     },
     {
@@ -110,39 +122,27 @@
       }
     },
     {
-      "title": "합수본, '신천지 국민의힘 집단 입당 의혹' 이만희 총회장 첫 소환 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6827738_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Thu, 04 Jun 2026 05:16:08 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/06/04/ggm_20260604_1.jpg",
+      "title": "[속보] 노태악 선관위원장, 오후 4시 대국민 사과",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260605103847PkF",
+      "source": "Breaking News",
+      "pubDate": "Fri, 05 Jun 2026 10:38:48 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260605/MYH20260605103847PkF.jpg",
       "summaries": {
-        "ko": "합수본, '신천지 국민의힘 집단 입당 의혹' 이만희 총회장 첫 소환 - MBC 뉴스",
-        "en": "합수본, '신천지 국민의힘 집단 입당 의혹' 이만희 총회장 첫 소환 - MBC 뉴스",
-        "zh": "합수본, '신천지 국민의힘 집단 입당 의혹' 이만희 총회장 첫 소환 - MBC 뉴스"
+        "ko": "[속보] 노태악 선관위원장, 오후 4시 대국민 사과",
+        "en": "[속보] 노태악 선관위원장, 오후 4시 대국민 사과",
+        "zh": "[속보] 노태악 선관위원장, 오후 4시 대국민 사과"
       }
     },
     {
-      "title": "[속보] 잠실투표소 기동대 투입에 시위대 반발…물리적 충돌",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260605084115ogs",
+      "title": "[속보] 노태악 중앙선관위원장, 오늘 오후 4시 대국민 사과",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260605103711kBm",
       "source": "Breaking News",
-      "pubDate": "Fri, 05 Jun 2026 08:41:16 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260604/MYH20260605084115ogs.jpg",
+      "pubDate": "Fri, 05 Jun 2026 10:37:13 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260605/AKR20260605103711kBm_01_i.jpg",
       "summaries": {
-        "ko": "[속보] 잠실투표소 기동대 투입에 시위대 반발…물리적 충돌",
-        "en": "[속보] 잠실투표소 기동대 투입에 시위대 반발…물리적 충돌",
-        "zh": "[속보] 잠실투표소 기동대 투입에 시위대 반발…물리적 충돌"
-      }
-    },
-    {
-      "title": "[속보] 경찰, '잠실7동투표소 봉쇄' 시위대 해산 명령",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260605082450SJD",
-      "source": "Breaking News",
-      "pubDate": "Fri, 05 Jun 2026 08:24:51 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260604/MYH20260605082450SJD.jpg",
-      "summaries": {
-        "ko": "[속보] 경찰, '잠실7동투표소 봉쇄' 시위대 해산 명령",
-        "en": "[속보] 경찰, '잠실7동투표소 봉쇄' 시위대 해산 명령",
-        "zh": "[속보] 경찰, '잠실7동투표소 봉쇄' 시위대 해산 명령"
+        "ko": "[속보] 노태악 중앙선관위원장, 오늘 오후 4시 대국민 사과",
+        "en": "[속보] 노태악 중앙선관위원장, 오늘 오후 4시 대국민 사과",
+        "zh": "[속보] 노태악 중앙선관위원장, 오늘 오후 4시 대국민 사과"
       }
     }
   ]
