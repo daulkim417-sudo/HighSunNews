@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-06-06T20:03:50.977554",
+  "lastUpdate": "2026-06-06T21:14:13.074097",
   "items": [
+    {
+      "title": "김 총리, 지선 결과 언급하며 “긴장하고 혁신할 때” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606062114001",
+      "source": "경향신문",
+      "pubDate": "Sat, 06 Jun 2026 12:14:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/06/rcv.YNA.20260606.PYH2026060604480005400_P1.jpg",
+      "summaries": {
+        "ko": "김민석 국무총리가 6·3 지방선거 결과에 대해 “지금은 다시 긴장하고 혁신할 때”라고 평가하며, 당권 도전을 앞두고 호남에서 당의 승리 공식을 재점검하고 민생 실용 확장 노선을 강조하며 차별화를 꾀했다.",
+        "en": "Prime Minister Kim Min-seok, ahead of his anticipated bid for party leadership, assessed the 6·3 local election results as a time for \"vigilance and innovation,\" emphasizing the need to re-examine the party's winning formula in Honam and pursue a pragmatic expansionist line for people's livelihoods, thereby setting a differentiated tone.",
+        "zh": "国务总理金民锡在展望即将竞选党魁之际，对6·3地方选举结果评价称“是时候重新警惕并进行革新”，强调需在湖南重新审视党的胜利公式并推行民生实用扩张路线，以此展现其差异化主张。"
+      }
+    },
     {
       "title": "전한길, 대국본 집회서 “부정선거 꼬리 잡혀…이 대통령 하야해야” - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/society_general/1262217.html",
@@ -14,39 +26,27 @@
       }
     },
     {
-      "title": "김 총리, 지선 결과 언급하며 “긴장하고 혁신할 때” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606062114001",
-      "source": "경향신문",
-      "pubDate": "Sat, 06 Jun 2026 12:14:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/06/rcv.YNA.20260606.PYH2026060604480005400_P1.jpg",
+      "title": "콩가루 산 뒤 냉면 ‘맛점’…李대통령 부부, 강동 전통시장 깜짝 방문 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260606/134061310/2",
+      "source": "동아일보",
+      "pubDate": "Sat, 06 Jun 2026 09:21:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/06/134061340.1.jpg",
       "summaries": {
-        "ko": "김 총리, 지선 결과 언급하며 “긴장하고 혁신할 때” - 경향신문",
-        "en": "김 총리, 지선 결과 언급하며 “긴장하고 혁신할 때” - 경향신문",
-        "zh": "김 총리, 지선 결과 언급하며 “긴장하고 혁신할 때” - 경향신문"
+        "ko": "콩가루 산 뒤 냉면 ‘맛점’…李대통령 부부, 강동 전통시장 깜짝 방문 - 동아일보",
+        "en": "콩가루 산 뒤 냉면 ‘맛점’…李대통령 부부, 강동 전통시장 깜짝 방문 - 동아일보",
+        "zh": "콩가루 산 뒤 냉면 ‘맛점’…李대통령 부부, 강동 전통시장 깜짝 방문 - 동아일보"
       }
     },
     {
-      "title": "李대통령, 강동구 전통시장 ‘깜짝방문’… 보훈병원 위문후 인근 시장行 - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/06/06/PM4SI5SMDZFZNGX6QAK6YWQNNI/",
+      "title": "차기 대표로 김민석 미는 친명계 \"정청래 연임 막아야\" - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/06/06/D6J6DKB7V5DJRFN5L4DYNXQZDA/",
       "source": "조선일보",
-      "pubDate": "Sat, 06 Jun 2026 08:17:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MY3TSMTBHE2GIMBVGQZTQNLDMY.jpg?auth=94763c6fb162766936adc9787c1bc5e9611f3587b20c29d891f4b0967bcfd9dc&width=1200&height=630&smart=true",
+      "pubDate": "Fri, 05 Jun 2026 15:55:18 GMT",
+      "image": "https://www.chosun.com/resizer/v2/3T45KUIJJZHJHEBYFSLTNOES64.jpg?auth=8740d96e57efe1e35e8bc193b742c238763a368e87e4c7e69e80269efea3ded8&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "李대통령, 강동구 전통시장 ‘깜짝방문’… 보훈병원 위문후 인근 시장行 - 조선일보",
-        "en": "李대통령, 강동구 전통시장 ‘깜짝방문’… 보훈병원 위문후 인근 시장行 - 조선일보",
-        "zh": "李대통령, 강동구 전통시장 ‘깜짝방문’… 보훈병원 위문후 인근 시장行 - 조선일보"
-      }
-    },
-    {
-      "title": "“대통령 덕분에 이겼다”는 정청래…민주당이 이긴 게 맞을까 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606061300001",
-      "source": "경향신문",
-      "pubDate": "Sat, 06 Jun 2026 04:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/06/news-p.v1.20260604.40e0669d17b14c0bbc9e4f0f3dfce529_P1.jpeg",
-      "summaries": {
-        "ko": "“대통령 덕분에 이겼다”는 정청래…민주당이 이긴 게 맞을까 - 경향신문",
-        "en": "“대통령 덕분에 이겼다”는 정청래…민주당이 이긴 게 맞을까 - 경향신문",
-        "zh": "“대통령 덕분에 이겼다”는 정청래…민주당이 이긴 게 맞을까 - 경향신문"
+        "ko": "차기 대표로 김민석 미는 친명계 \"정청래 연임 막아야\" - 조선일보",
+        "en": "차기 대표로 김민석 미는 친명계 \"정청래 연임 막아야\" - 조선일보",
+        "zh": "차기 대표로 김민석 미는 친명계 \"정청래 연임 막아야\" - 조선일보"
       }
     },
     {
@@ -62,27 +62,15 @@
       }
     },
     {
-      "title": "이란 “호르무즈 유조선 4척-美 5함대 타격”…美 “미사일 모두 요격” - 동아일보",
-      "link": "https://www.donga.com/news/Inter/article/all/20260606/134060937/2",
-      "source": "동아일보",
-      "pubDate": "Sat, 06 Jun 2026 03:04:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/06/134060943.3.jpg",
+      "title": "정성호 \"투표용지 부족 진상규명…부정선거 음모론은 용납안돼\" - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260606050000004",
+      "source": "연합뉴스",
+      "pubDate": "Sat, 06 Jun 2026 14:03:35 GMT",
+      "image": "https://img2.yna.co.kr/photo/yna/YH/2026/05/20/PYH2026052007830001301_P4.jpg",
       "summaries": {
-        "ko": "이란 “호르무즈 유조선 4척-美 5함대 타격”…美 “미사일 모두 요격” - 동아일보",
-        "en": "이란 “호르무즈 유조선 4척-美 5함대 타격”…美 “미사일 모두 요격” - 동아일보",
-        "zh": "이란 “호르무즈 유조선 4척-美 5함대 타격”…美 “미사일 모두 요격” - 동아일보"
-      }
-    },
-    {
-      "title": "‘개표소 시위’ 찾은 모스 탄 “부정선거 배후에 중국” 황당 주장 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1262225.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 06 Jun 2026 11:34:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/600/imgdb/original/2026/0606/20260606500527.webp",
-      "summaries": {
-        "ko": "‘개표소 시위’ 찾은 모스 탄 “부정선거 배후에 중국” 황당 주장 - 한겨레",
-        "en": "‘개표소 시위’ 찾은 모스 탄 “부정선거 배후에 중국” 황당 주장 - 한겨레",
-        "zh": "‘개표소 시위’ 찾은 모스 탄 “부정선거 배후에 중국” 황당 주장 - 한겨레"
+        "ko": "정성호 \"투표용지 부족 진상규명…부정선거 음모론은 용납안돼\" - 연합뉴스",
+        "en": "정성호 \"투표용지 부족 진상규명…부정선거 음모론은 용납안돼\" - 연합뉴스",
+        "zh": "정성호 \"투표용지 부족 진상규명…부정선거 음모론은 용납안돼\" - 연합뉴스"
       }
     },
     {
@@ -98,6 +86,18 @@
       }
     },
     {
+      "title": "'부정선거론자' 모스 탄 \"북중, 총칼로 못 이기니 투표로 이기려 한다\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6828254_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sat, 06 Jun 2026 12:40:54 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/06/06/lyj_260606_10.jpg",
+      "summaries": {
+        "ko": "'부정선거론자' 모스 탄 \"북중, 총칼로 못 이기니 투표로 이기려 한다\" - MBC 뉴스",
+        "en": "'부정선거론자' 모스 탄 \"북중, 총칼로 못 이기니 투표로 이기려 한다\" - MBC 뉴스",
+        "zh": "'부정선거론자' 모스 탄 \"북중, 총칼로 못 이기니 투표로 이기려 한다\" - MBC 뉴스"
+      }
+    },
+    {
       "title": "개인정보위 “선관위, 선거인명부 대조전표 유출신고 접수…사실관계 파악” - 매일경제",
       "link": "https://www.mk.co.kr/news/politics/12067480",
       "source": "매일경제",
@@ -110,15 +110,15 @@
       }
     },
     {
-      "title": "민주, 장동혁·오세훈 ‘투표지 공세’에 “국민 자극…구태정치” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/assembly/1262224.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 06 Jun 2026 11:45:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/665/imgdb/original/2026/0605/20260605502146.webp",
+      "title": "“우리 아들도 20대 연구원” 한화에어로 참사 희생자 합동분향소 ‘눈물바다’ - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606051138001",
+      "source": "경향신문",
+      "pubDate": "Fri, 05 Jun 2026 02:38:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/05/news-p.v1.20260605.ffb26a2df0794e19aa4dd77428b551ca_P1.jpg",
       "summaries": {
-        "ko": "민주, 장동혁·오세훈 ‘투표지 공세’에 “국민 자극…구태정치” - 한겨레",
-        "en": "민주, 장동혁·오세훈 ‘투표지 공세’에 “국민 자극…구태정치” - 한겨레",
-        "zh": "민주, 장동혁·오세훈 ‘투표지 공세’에 “국민 자극…구태정치” - 한겨레"
+        "ko": "“우리 아들도 20대 연구원” 한화에어로 참사 희생자 합동분향소 ‘눈물바다’ - 경향신문",
+        "en": "“우리 아들도 20대 연구원” 한화에어로 참사 희생자 합동분향소 ‘눈물바다’ - 경향신문",
+        "zh": "“우리 아들도 20대 연구원” 한화에어로 참사 희생자 합동분향소 ‘눈물바다’ - 경향신문"
       }
     },
     {
