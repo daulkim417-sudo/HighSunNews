@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-06-06T10:22:48.228021",
+  "lastUpdate": "2026-06-06T11:51:26.590724",
   "items": [
-    {
-      "title": "[단독]윤석열 “검사가 조사해야” 주장해 오후부터 조사 시작…진술거부 안 해 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1262223.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 06 Jun 2026 09:19:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/598/imgdb/original/2026/0606/161780735087654.webp",
-      "summaries": {
-        "ko": "윤석열 전 대통령은 종합특검팀 조사에서 경찰이 아닌 검사의 조사를 요구하며 한때 조사를 거부했으나 오후부터 협조하여 비상계엄 정당화 메시지 해외 전달 지시 혐의를 부인했다.",
-        "en": "Former President Yoon Seok-yeol initially delayed his special prosecution investigation by demanding a prosecutor, not a police officer, conduct the questioning, but later cooperated in the afternoon, denying charges of instructing messages to allies to justify emergency martial law.",
-        "zh": "前总统尹锡悦在特别检察组调查中，最初因要求检察官而非警察进行调查而拒绝配合，但下午开始合作，否认了指示向盟友传递信息以证明紧急戒严正当性的指控。"
-      }
-    },
     {
       "title": "‘3선 성동구청장’ 내세운 정원오…정작 성동구는 ‘몰표’ 안 줬다 - 동아일보",
       "link": "https://www.donga.com/news/Politics/article/all/20260606/134061102/2",
@@ -20,9 +8,21 @@
       "pubDate": "Sat, 06 Jun 2026 08:26:00 GMT",
       "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/06/134061195.3.jpg",
       "summaries": {
-        "ko": "3선 성동구청장으로서 지역 치적을 내세워 서울시장 선거에 출마한 정원오 후보가 정작 자신의 텃밭인 성동구에서 '몰표'를 받지 못하고, 심지어 핵심 지지기반인 성수동에서도 오세훈 후보에게 패배했다.",
-        "en": "Jung Won-oh, a three-term Seongdong-gu mayor, despite campaigning on his local achievements, unexpectedly failed to secure overwhelming support in his home district during the Seoul mayoral election, even losing key areas like Seongsu-dong to rival Oh Se-hoon.",
-        "zh": "担任三届城东区长的郑元吴在首尔市长选举中，尽管以其在当地的政绩为竞选卖点，却出人意料地未能在家乡城东区获得压倒性支持，甚至在核心区域圣水洞败给了对手吴世勋。"
+        "ko": "3선 성동구청장 출신 정원오 후보가 자신의 정치적 고향인 성동구를 무기로 내세웠으나, 예상과 달리 오세훈 시장에게 근소한 차이로 승리하고 핵심 지역인 성수동에서는 패배하며 텃밭 지지에 균열이 생겼다는 분석이 나왔다.",
+        "en": "Jung Won-oh, a three-term Seongdong-gu mayor, campaigned on his achievements in his political hometown but surprisingly won by only a narrow margin against Oh Se-hoon in Seongdong-gu and even lost key areas like Seongsu-dong, indicating a weakening of his support base.",
+        "zh": "曾担任三届城东区长的郑元吾候选人，虽然以其政治故乡城东区的政绩作为主要竞选优势，但出乎意料地仅以微弱优势战胜了吴世勋市长，并在核心地区圣水洞落败，显示其根据地支持出现裂痕。"
+      }
+    },
+    {
+      "title": "잠실개표소 밖 이틀째 대치…선관위 직원들은 빠져나간 듯 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260606014652004",
+      "source": "연합뉴스",
+      "pubDate": "Sat, 06 Jun 2026 09:23:22 GMT",
+      "image": "https://img3.yna.co.kr/etc/inner/KR/2026/06/06/AKR20260606014652004_02_i_P4.jpg",
+      "summaries": {
+        "ko": "투표지 부족 사태를 규탄하며 재선거를 요구하는 잠실 개표소 봉쇄 시위가 이틀째 이어지는 가운데, 선관위 직원들이 빠져나가 투표함 관리 공백 우려가 제기되고 있다.",
+        "en": "A two-day protest demanding a new election due to an alleged ballot shortage continues to blockade the Jamsil vote counting station, raising concerns about unattended ballot boxes as election commission staff have reportedly left.",
+        "zh": "因“选票不足事件”而要求重新选举的蚕室计票站封锁示威已持续两天，随着选举委员会工作人员据报已撤离，引发了对投票箱无人看管的担忧。"
       }
     },
     {
@@ -32,57 +32,33 @@
       "pubDate": "Sat, 06 Jun 2026 04:00:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/06/06/news-p.v1.20260604.40e0669d17b14c0bbc9e4f0f3dfce529_P1.jpeg",
       "summaries": {
-        "ko": "이번 6·3 지방선거에서 당선인들은 막판 네거티브 공세와 여론조사 '깜깜이 기간'의 불확실성 속에서도 정책과 비전에 집중하거나 전략적 인내를 통해 승리했다고 회고하며 선거 과정을 조명했다.",
-        "en": "Winning candidates in the recent 6·3 local elections reflected on their victories, highlighting their focus on policy and vision or strategic patience amidst last-minute negative attacks and the uncertainty of the 'blackout period' for opinion polls.",
-        "zh": "在最近的6·3地方选举中，当选者们回顾了他们的胜利，强调了他们在最后一刻的负面攻击和民意调查“静默期”的不确定性中，通过专注于政策和愿景或采取战略性忍耐而获胜的选举过程。"
+        "ko": "6·3 지방선거 당선인들은 여론조사 우위에도 깜깜이 기간 막판 네거티브 공세에 고전했으며, 정책과 전략적 인내로 승리했다고 회고했다.",
+        "en": "Winning candidates in the 6·3 local elections reflected on struggling with last-minute negative campaigning during the \"blackout period\" despite leading in polls, and ultimately winning through policy and strategic patience.",
+        "zh": "6·3地方选举的当选人回顾称，尽管在民意调查中领先，但他们在“缄默期”末期仍面临负面宣传的困扰，最终通过政策和战略耐心取得了胜利。"
       }
     },
     {
-      "title": "이 대통령 내외, 중앙보훈병원 찾아 국가유공자 위로 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606061521001",
-      "source": "경향신문",
-      "pubDate": "Sat, 06 Jun 2026 06:21:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/06/rcv.YNA.20260606.PYH2026060601750001300_P1.jpg",
-      "summaries": {
-        "ko": "이재명 대통령 내외가 현충일 중앙보훈병원을 방문해 입원 치료 중인 국가유공자들을 위문하고 감사의 마음을 전했으며, 전국 유공자들에게 홍삼 선물 세트를 전달했다.",
-        "en": "President Lee Jae-myung and First Lady Kim Hye-kyung visited Jungang Veterans Hospital on Memorial Day to comfort national merit awardees receiving treatment, express gratitude for their sacrifice, and delivered ginseng gift sets to veterans nationwide.",
-        "zh": "李在明总统夫妇在显忠日访问了中央报勋医院，慰问了住院治疗的国家有功者，表达了感谢之情，并向全国有功者赠送了红参礼盒。"
-      }
-    },
-    {
-      "title": "이란 “호르무즈 유조선 4척-美 5함대 타격”…美 “미사일 모두 요격” - 동아일보",
-      "link": "https://www.donga.com/news/Inter/article/all/20260606/134060937/2",
-      "source": "동아일보",
-      "pubDate": "Sat, 06 Jun 2026 03:04:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/06/134060943.3.jpg",
-      "summaries": {
-        "ko": "이란 “호르무즈 유조선 4척-美 5함대 타격”…美 “미사일 모두 요격” - 동아일보",
-        "en": "이란 “호르무즈 유조선 4척-美 5함대 타격”…美 “미사일 모두 요격” - 동아일보",
-        "zh": "이란 “호르무즈 유조선 4척-美 5함대 타격”…美 “미사일 모두 요격” - 동아일보"
-      }
-    },
-    {
-      "title": "\"李정부가 무모한 강경 좌파?\" 靑, WSJ 칼럼에 반박 기고 - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/06/06/XU65KCI7X5A5HK2KLBY3YRS72M/",
-      "source": "조선일보",
-      "pubDate": "Sat, 06 Jun 2026 04:44:31 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GVRTCN3GHAZDGZTFHE4DENTCMY.jpg?auth=1f98f028e00076119317082db4db34b553eaa796a37e574de7c44c71b504ee95&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "\"李정부가 무모한 강경 좌파?\" 靑, WSJ 칼럼에 반박 기고 - 조선일보",
-        "en": "\"李정부가 무모한 강경 좌파?\" 靑, WSJ 칼럼에 반박 기고 - 조선일보",
-        "zh": "\"李정부가 무모한 강경 좌파?\" 靑, WSJ 칼럼에 반박 기고 - 조선일보"
-      }
-    },
-    {
-      "title": "사진 찍다 덮친 파도에…강릉 해변서 여성 2명 휩쓸려 1명 숨져 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/gangwon/1262216.html",
+      "title": "이 대통령 “배신 단죄해야 정의로운 통합…친일 부당 재산 환수” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1262205.html",
       "source": "한겨레",
-      "pubDate": "Sat, 06 Jun 2026 07:27:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/625/362/imgdb/original/2026/0606/20260606500396.webp",
+      "pubDate": "Sat, 06 Jun 2026 07:26:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/704/imgdb/original/2026/0606/20260606500243.webp",
       "summaries": {
-        "ko": "강릉 영진해변에서 사진을 찍던 20~30대 여성 2명이 파도에 휩쓸려 1명이 숨지고 1명이 저체온증으로 병원에 이송됐다.",
-        "en": "Two women in their 20s and 30s were swept away by waves while taking photos on Yeongjin Beach in Gangneung, resulting in one death and one being hospitalized with hypothermia.",
-        "zh": "在江陵市的盈津海滩，两名20至30多岁的女性在拍照时被海浪卷走，导致一人死亡，另一人因体温过低被送往医院。"
+        "ko": "이재명 대통령은 현충일 추념사에서 공동체를 지킨 이들을 예우하고 배신자들을 단죄해야 정의로운 통합이 가능하다며, 친일 반민족 행위자가 부당 축적한 재산을 환수해 재발 방지의 본보기를 마련하겠다고 강조했다.",
+        "en": "In his Memorial Day address, President Lee Jae-myung emphasized that righteous integration is achievable by honoring those who protected the community and punishing betrayers, pledging to set an example by reclaiming illegally acquired pro-Japanese assets from anti-national collaborators.",
+        "zh": "李在明总统在显忠日致辞中强调，只有尊敬守护共同体者并惩罚背叛者，才能实现正义的整合，并承诺将通过追缴亲日反民族行为者非法积累的财产来树立榜样。"
+      }
+    },
+    {
+      "title": "[단독] 윤석열, 경찰 신문에 “검사가 해야” 종합특검 오전 조사 거부 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1262223.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 06 Jun 2026 09:19:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/598/imgdb/original/2026/0606/161780735087654.webp",
+      "summaries": {
+        "ko": "윤석열 전 대통령이 종합특검팀 조사를 경찰이 진행하려 하자 검사 조사를 주장하며 오전 조사를 거부했으나, 오후에는 특검보 입회하에 협조하며 직권남용 혐의를 부인했다.",
+        "en": "Former President Yoon Seok-yeol initially refused a comprehensive special prosecutor's investigation on December 6th, insisting on being questioned by a prosecutor instead of a police officer, but later cooperated in the afternoon under the presence of a special prosecutor's assistant, denying charges of abuse of power.",
+        "zh": "韩国前总统尹锡悦于12月6日拒绝了由警方进行的特别检察组调查，坚持要求由检察官审问，但最终于下午在特检助手的陪同下配合调查，并否认了滥用职权的指控。"
       }
     },
     {
@@ -98,6 +74,30 @@
       }
     },
     {
+      "title": "\"李정부가 무모한 강경 좌파?\" 靑, WSJ 칼럼에 반박 기고 - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/06/06/XU65KCI7X5A5HK2KLBY3YRS72M/",
+      "source": "조선일보",
+      "pubDate": "Sat, 06 Jun 2026 04:44:31 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GVRTCN3GHAZDGZTFHE4DENTCMY.jpg?auth=1f98f028e00076119317082db4db34b553eaa796a37e574de7c44c71b504ee95&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "\"李정부가 무모한 강경 좌파?\" 靑, WSJ 칼럼에 반박 기고 - 조선일보",
+        "en": "\"李정부가 무모한 강경 좌파?\" 靑, WSJ 칼럼에 반박 기고 - 조선일보",
+        "zh": "\"李정부가 무모한 강경 좌파?\" 靑, WSJ 칼럼에 반박 기고 - 조선일보"
+      }
+    },
+    {
+      "title": "정청래 비판글에 ‘좋아요’ 눌리자…김 총리 “페북 비정상, 당분간 사용 중단” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260606/134061074/2",
+      "source": "동아일보",
+      "pubDate": "Sat, 06 Jun 2026 05:05:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/06/134061075.2.jpg",
+      "summaries": {
+        "ko": "정청래 비판글에 ‘좋아요’ 눌리자…김 총리 “페북 비정상, 당분간 사용 중단” - 동아일보",
+        "en": "정청래 비판글에 ‘좋아요’ 눌리자…김 총리 “페북 비정상, 당분간 사용 중단” - 동아일보",
+        "zh": "정청래 비판글에 ‘좋아요’ 눌리자…김 총리 “페북 비정상, 당분간 사용 중단” - 동아일보"
+      }
+    },
+    {
       "title": "\"나름 선전\" \"지도부 도움 안돼\" 국힘 당권파·비당권파 충돌 - 조선일보",
       "link": "https://www.chosun.com/politics/politics_general/2026/06/06/66I33MIJWVFURIT3BDXB5LGBHI/",
       "source": "조선일보",
@@ -110,15 +110,27 @@
       }
     },
     {
-      "title": "'당 복귀 임박' 김민석 총리…광주서 지선 평가 \"혁신해야\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260606190936ADc",
-      "source": "Breaking News",
-      "pubDate": "Sat, 06 Jun 2026 19:09:36 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260606/AKR20260606190936ADc_01_i.jpg",
+      "title": "\"좋은 이웃·친구·동지\"…中, 시진핑 방북 분위기 띄우기(종합) - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260606021451083",
+      "source": "연합뉴스",
+      "pubDate": "Sat, 06 Jun 2026 06:43:42 GMT",
+      "image": "https://img7.yna.co.kr/photo/ap/2024/10/06/PAP20241006207201009_P4.jpg",
       "summaries": {
-        "ko": "당 복귀가 임박한 김민석 국무총리는 광주에서 6·3 지방선거 결과에 대한 양면적 평가를 언급하며 '혁신'을 강조했고, 당권 도전을 앞두고 호남에 대한 전폭적 지원을 약속했다.",
-        "en": "Prime Minister Kim Min-seok, expected to soon return to politics for a party leadership bid, emphasized the need for 'innovation' while discussing the mixed evaluations of the June 3rd local election results in Gwangju, and pledged full support for the Honam region.",
-        "zh": "即将重返政坛角逐党权的国务总理金民锡在光州提及对6月3日地方选举结果的褒贬不一的评价，强调需要“创新”，并承诺全力支持湖南地区。"
+        "ko": "시진핑 중국 국가주석의 방북을 앞두고, 중국은 주북대사의 기고문과 관영매체를 통해 '좋은 이웃, 좋은 친구, 좋은 동지' 관계의 전략적 중요성을 강조하며 양국 관계의 새 장을 열기 위해 적극적으로 분위기를 띄우고 있다.",
+        "en": "Ahead of Chinese President Xi Jinping's state visit to North Korea, China is actively promoting the trip through its ambassador's op-ed and state media, emphasizing the strategic importance of the 'good neighbors, good friends, good comrades' relationship to open a new chapter in bilateral ties.",
+        "zh": "在中国国家主席习近平即将对朝鲜进行国事访问之际，中方正通过驻朝大使的署名文章和官方媒体积极宣传此次访问，强调“好邻居、好朋友、好同志”关系的战略重要性，旨在开启两国关系新篇章。"
+      }
+    },
+    {
+      "title": "종합특검, 尹 첫 피의자 조사 6시간 반만에 종료",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260606193714hG8",
+      "source": "Breaking News",
+      "pubDate": "Sat, 06 Jun 2026 19:37:15 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260606/MYH20260606193714hG8.jpg",
+      "summaries": {
+        "ko": "종합특검, 尹 첫 피의자 조사 6시간 반만에 종료",
+        "en": "종합특검, 尹 첫 피의자 조사 6시간 반만에 종료",
+        "zh": "종합특검, 尹 첫 피의자 조사 6시간 반만에 종료"
       }
     }
   ]
