@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-06-06T12:58:05.123658",
+  "lastUpdate": "2026-06-06T14:24:49.442743",
   "items": [
-    {
-      "title": "[단독] 윤석열, 경찰 신문에 “검사가 해야” 종합특검 오전 조사 거부 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1262223.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 06 Jun 2026 11:46:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/598/imgdb/original/2026/0606/161780735087654.webp",
-      "summaries": {
-        "ko": "윤석열 전 대통령이 6일 종합특검팀의 오전 조사를 거부하며 '검사가 해야 한다'고 주장해 조사가 지연되다 오후부터 진술거부 없이 협조했다.",
-        "en": "Former President Yoon Suk-yeol initially refused the special prosecution team's morning investigation on the 6th, insisting on a prosecutor's involvement, which delayed the probe until the afternoon when he cooperated without refusing to testify.",
-        "zh": "前总统尹锡悦于6日上午拒绝了综合特检组的调查，坚持应由检察官而非警员审讯，导致调查推迟至下午，之后他开始配合，未拒绝作证。"
-      }
-    },
     {
       "title": "‘3선 성동구청장’ 내세운 정원오…정작 성동구는 ‘몰표’ 안 줬다 - 동아일보",
       "link": "https://www.donga.com/news/Politics/article/all/20260606/134061102/2",
@@ -20,57 +8,45 @@
       "pubDate": "Sat, 06 Jun 2026 08:26:00 GMT",
       "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/06/134061195.3.jpg",
       "summaries": {
-        "ko": "3선 성동구청장으로서 지역 기반을 강조하며 서울시장 선거에 출마한 정원오 후보가 자신의 정치적 고향인 성동구에서 오세훈 후보에게 근소한 차이로 승리하고 핵심 지역인 성수동과 옥수동에서는 패배하며 예상보다 저조한 득표율을 보였다.",
-        "en": "Jung Won-oh, a three-term Seongdong-gu mayor who leveraged his local success for his Seoul mayoral bid, surprisingly underperformed in his stronghold, winning Seongdong-gu by a narrow margin against Oh Se-hoon and losing key areas like Seongsu-dong and Oksu-dong.",
-        "zh": "三届城东区区长郑元吾以其在当地的成功为竞选首尔市长的主要资本，却出人意料地在他的根据地表现不佳，仅以微弱优势击败吴世勋，并在圣水洞和玉水洞等关键区域落败。"
+        "ko": "3선 성동구청장 출신 정원오 후보가 자신의 정치적 기반인 성동구에서 오세훈 후보에게 6천여 표 차이로 근소하게 승리했으나, 특히 핵심 지역인 성수동에서는 오히려 패배하여 '몰표'를 얻지 못했음이 드러났다.",
+        "en": "Jung Won-oh, a three-term mayor of Seongdong-gu, despite campaigning on his local success, secured only a narrow victory of 6,532 votes against Oh Se-hoon in his home district and even lost in key areas like Seongsu-dong, failing to garner overwhelming local support.",
+        "zh": "曾担任三届城东区长的郑元吾，尽管以其在当地的政绩为竞选优势，却未能在家乡城东区获得压倒性支持，仅以6532票的微弱优势战胜吴世勋，甚至在核心区域圣水洞败北。"
       }
     },
     {
-      "title": "잠실개표소 밖 이틀째 대치…선관위 직원들은 빠져나간 듯 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260606014652004",
-      "source": "연합뉴스",
-      "pubDate": "Sat, 06 Jun 2026 09:23:22 GMT",
-      "image": "https://img3.yna.co.kr/etc/inner/KR/2026/06/06/AKR20260606014652004_02_i_P4.jpg",
-      "summaries": {
-        "ko": "잠실 개표소 밖에서 '투표지 부족 사태' 규탄 및 재선거 요구 시위가 이틀째 계속되는 가운데, 고립됐던 선관위 직원들이 시위대를 피해 빠져나갔다는 보도가 나왔으나 선관위는 이를 확인해주지 않고 있다.",
-        "en": "A protest demanding a rerun election over 'ballot shortage' issues has continued for a second day outside the Jamsil ballot counting station, with election commission staff reportedly having evacuated to avoid protesters, though the commission refuses to confirm.",
-        "zh": "在蚕室计票站外，因“选票不足事件”要求重选的示威活动已持续两天，据报此前被困的选举委员会工作人员已撤离以避开示威者，但选举委员会拒绝证实。"
-      }
-    },
-    {
-      "title": "“대통령 덕분에 이겼다”는 정청래…민주당이 이긴 게 맞을까 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606061300001",
-      "source": "경향신문",
-      "pubDate": "Sat, 06 Jun 2026 04:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/06/news-p.v1.20260604.40e0669d17b14c0bbc9e4f0f3dfce529_P1.jpeg",
-      "summaries": {
-        "ko": "6·3 지방선거 당선인 측은 선거 막판 네거티브 공세와 깜깜이 기간의 긴장감 속에서 정책과 비전으로 승부하며 승리를 이끌어냈다고 회고했다.",
-        "en": "Campaigns of the winning candidates in the 6·3 local elections recalled overcoming last-minute negative campaigns and the \"dark period\" tensions by focusing on policy and vision, ultimately securing their victories.",
-        "zh": "6·3地方选举的当选人阵营回顾称，他们在选举最后阶段的负面宣传攻势和“暗访期”的紧张局势中，通过专注于政策和愿景最终赢得了胜利。"
-      }
-    },
-    {
-      "title": "이 대통령 “배신 단죄해야 정의로운 통합…친일 부당 재산 환수” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1262205.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 06 Jun 2026 11:48:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/704/imgdb/original/2026/0606/20260606500243.webp",
-      "summaries": {
-        "ko": "이 대통령 “배신 단죄해야 정의로운 통합…친일 부당 재산 환수” - 한겨레",
-        "en": "이 대통령 “배신 단죄해야 정의로운 통합…친일 부당 재산 환수” - 한겨레",
-        "zh": "이 대통령 “배신 단죄해야 정의로운 통합…친일 부당 재산 환수” - 한겨레"
-      }
-    },
-    {
-      "title": "사진 찍다 덮친 파도에…강릉 해변서 여성 2명 휩쓸려 1명 숨져 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/gangwon/1262216.html",
+      "title": "전한길, 대국본 집회서 “부정선거 꼬리 잡혀…이 대통령 하야해야” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1262217.html",
       "source": "한겨레",
       "pubDate": "Sat, 06 Jun 2026 11:46:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/625/362/imgdb/original/2026/0606/20260606500396.webp",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/961/577/imgdb/child/2026/0606/53_17807279944601_20260605502268.webp",
       "summaries": {
-        "ko": "사진 찍다 덮친 파도에…강릉 해변서 여성 2명 휩쓸려 1명 숨져 - 한겨레",
-        "en": "사진 찍다 덮친 파도에…강릉 해변서 여성 2명 휩쓸려 1명 숨져 - 한겨레",
-        "zh": "사진 찍다 덮친 파도에…강릉 해변서 여성 2명 휩쓸려 1명 숨져 - 한겨레"
+        "ko": "전한길, 대국본 집회서 “부정선거 꼬리 잡혀…이 대통령 하야해야” - 한겨레",
+        "en": "전한길, 대국본 집회서 “부정선거 꼬리 잡혀…이 대통령 하야해야” - 한겨레",
+        "zh": "전한길, 대국본 집회서 “부정선거 꼬리 잡혀…이 대통령 하야해야” - 한겨레"
+      }
+    },
+    {
+      "title": "[단독] 윤석열, 경찰 신문에 “검사가 해야” 종합특검 오전 조사 거부 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1262223.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 06 Jun 2026 11:46:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/598/imgdb/original/2026/0606/161780735087654.webp",
+      "summaries": {
+        "ko": "[단독] 윤석열, 경찰 신문에 “검사가 해야” 종합특검 오전 조사 거부 - 한겨레",
+        "en": "[단독] 윤석열, 경찰 신문에 “검사가 해야” 종합특검 오전 조사 거부 - 한겨레",
+        "zh": "[단독] 윤석열, 경찰 신문에 “검사가 해야” 종합특검 오전 조사 거부 - 한겨레"
+      }
+    },
+    {
+      "title": "서울 놓친 민주당, 지켜낸 국민의힘… 이제는 당권 전쟁 - 세계일보",
+      "link": "https://www.segye.com/newsView/20260606504739",
+      "source": "세계일보",
+      "pubDate": "Sat, 06 Jun 2026 06:26:05 GMT",
+      "image": "https://www.segye.com/content/image/2026/06/06/20260606504939.jpg",
+      "summaries": {
+        "ko": "서울 놓친 민주당, 지켜낸 국민의힘… 이제는 당권 전쟁 - 세계일보",
+        "en": "서울 놓친 민주당, 지켜낸 국민의힘… 이제는 당권 전쟁 - 세계일보",
+        "zh": "서울 놓친 민주당, 지켜낸 국민의힘… 이제는 당권 전쟁 - 세계일보"
       }
     },
     {
@@ -86,39 +62,63 @@
       }
     },
     {
-      "title": "“중국과 북한이 투표로 이기려”…‘봉쇄시위’ 나타난 모스 탄 황당 주장 - 한겨레",
+      "title": "미국·이란 ‘아슬아슬 휴전’···선박 공격, 주변국 공습 이어져 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606061412001",
+      "source": "경향신문",
+      "pubDate": "Sat, 06 Jun 2026 05:12:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/06/rcv.YNA.20260605.PAP20260605250401009_P1.jpg",
+      "summaries": {
+        "ko": "미국·이란 ‘아슬아슬 휴전’···선박 공격, 주변국 공습 이어져 - 경향신문",
+        "en": "미국·이란 ‘아슬아슬 휴전’···선박 공격, 주변국 공습 이어져 - 경향신문",
+        "zh": "미국·이란 ‘아슬아슬 휴전’···선박 공격, 주변국 공습 이어져 - 경향신문"
+      }
+    },
+    {
+      "title": "강릉 영진해변서 사진찍던 여성 2명 파도 휩쓸려... 30대 숨져 - 조선일보",
+      "link": "https://www.chosun.com/national/regional/2026/06/06/SMX42I4XIVDYZLPAHRNQTDRTQA/",
+      "source": "조선일보",
+      "pubDate": "Sat, 06 Jun 2026 00:40:17 GMT",
+      "image": "https://www.chosun.com/resizer/v2/HFSWMZJRGAZDOZJXHAYTMOBYMI.jpg?auth=cac5a608d7ec94b882dfbe0b52c9d0d2b79d4b8be928d9704adc2c75a3700e79&width=560&height=294&smart=true",
+      "summaries": {
+        "ko": "강릉 영진해변서 사진찍던 여성 2명 파도 휩쓸려... 30대 숨져 - 조선일보",
+        "en": "강릉 영진해변서 사진찍던 여성 2명 파도 휩쓸려... 30대 숨져 - 조선일보",
+        "zh": "강릉 영진해변서 사진찍던 여성 2명 파도 휩쓸려... 30대 숨져 - 조선일보"
+      }
+    },
+    {
+      "title": "[속보] 李대통령 \"배신 단죄할 때 정의로운 통합…친일 부당재산 환수\" - 연합뉴스",
+      "link": "https://www.yna.co.kr/amp/view/AKR20260606022100001",
+      "source": "연합뉴스",
+      "pubDate": "Sat, 06 Jun 2026 01:26:22 GMT",
+      "image": "https://img2.yna.co.kr/photo/yna/YH/2026/06/06/PYH2026060602230001300_P4.jpg",
+      "summaries": {
+        "ko": "[속보] 李대통령 \"배신 단죄할 때 정의로운 통합…친일 부당재산 환수\" - 연합뉴스",
+        "en": "[속보] 李대통령 \"배신 단죄할 때 정의로운 통합…친일 부당재산 환수\" - 연합뉴스",
+        "zh": "[속보] 李대통령 \"배신 단죄할 때 정의로운 통합…친일 부당재산 환수\" - 연합뉴스"
+      }
+    },
+    {
+      "title": "‘개표소 시위’ 찾은 모스 탄 “부정선거 배후에 중국” 황당 주장 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/society_general/1262225.html",
       "source": "한겨레",
       "pubDate": "Sat, 06 Jun 2026 11:34:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/800/600/imgdb/original/2026/0606/20260606500527.webp",
       "summaries": {
-        "ko": "“중국과 북한이 투표로 이기려”…‘봉쇄시위’ 나타난 모스 탄 황당 주장 - 한겨레",
-        "en": "“중국과 북한이 투표로 이기려”…‘봉쇄시위’ 나타난 모스 탄 황당 주장 - 한겨레",
-        "zh": "“중국과 북한이 투표로 이기려”…‘봉쇄시위’ 나타난 모스 탄 황당 주장 - 한겨레"
+        "ko": "‘개표소 시위’ 찾은 모스 탄 “부정선거 배후에 중국” 황당 주장 - 한겨레",
+        "en": "‘개표소 시위’ 찾은 모스 탄 “부정선거 배후에 중국” 황당 주장 - 한겨레",
+        "zh": "‘개표소 시위’ 찾은 모스 탄 “부정선거 배후에 중국” 황당 주장 - 한겨레"
       }
     },
     {
-      "title": "미-이란 휴전 속 충돌…쿠웨이트·바레인 미군 기지 겨냥 공격 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1262210.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 06 Jun 2026 11:47:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/649/432/imgdb/original/2026/0606/20260606500335.webp",
+      "title": "크렘린궁 \"김정은, 언제나 환영받는 손님\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260606223127RfV",
+      "source": "Breaking News",
+      "pubDate": "Sat, 06 Jun 2026 22:31:29 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260606/AKR20260606223127RfV_01_i.jpg",
       "summaries": {
-        "ko": "미-이란 휴전 속 충돌…쿠웨이트·바레인 미군 기지 겨냥 공격 - 한겨레",
-        "en": "미-이란 휴전 속 충돌…쿠웨이트·바레인 미군 기지 겨냥 공격 - 한겨레",
-        "zh": "미-이란 휴전 속 충돌…쿠웨이트·바레인 미군 기지 겨냥 공격 - 한겨레"
-      }
-    },
-    {
-      "title": "\"시진핑, 북러밀착 약화하려 트럼프-김정은 만나게 할수도\" - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260606020109htL",
-      "source": "연합뉴스TV",
-      "pubDate": "Fri, 05 Jun 2026 17:01:10 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260605/AKR20260606020109htL_01_i.jpg",
-      "summaries": {
-        "ko": "\"시진핑, 북러밀착 약화하려 트럼프-김정은 만나게 할수도\" - 연합뉴스TV",
-        "en": "\"시진핑, 북러밀착 약화하려 트럼프-김정은 만나게 할수도\" - 연합뉴스TV",
-        "zh": "\"시진핑, 북러밀착 약화하려 트럼프-김정은 만나게 할수도\" - 연합뉴스TV"
+        "ko": "크렘린궁 \"김정은, 언제나 환영받는 손님\"",
+        "en": "크렘린궁 \"김정은, 언제나 환영받는 손님\"",
+        "zh": "크렘린궁 \"김정은, 언제나 환영받는 손님\""
       }
     },
     {
