@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-06-06T23:18:21.777263",
+  "lastUpdate": "2026-06-07T00:19:43.976790",
   "items": [
+    {
+      "title": "한동훈 \"선관위 국민 위에 군림해 와… 당장 국정조사 실시\" - 한국일보",
+      "link": "https://www.hankookilbo.com/news/article/A2026060619030000319",
+      "source": "한국일보",
+      "pubDate": "Sat, 06 Jun 2026 10:29:00 GMT",
+      "image": "https://newsimg.hankookilbo.com/2026/06/06/f963c312-b0fa-477e-8340-29a2b8c9319a.jpg",
+      "summaries": {
+        "ko": "한동훈 의원은 6·3 지방선거 투표용지 부족 사태와 관련해 선관위의 '부실 선거'와 '국민 위에 군림'하는 태도를 규탄하며 즉각적인 국정조사 및 특검 실시를 요구했고, 이재명 대통령의 미온적 태도도 비판했다.",
+        "en": "Han Dong-hoon criticized the National Election Commission for 'shoddy elections' and 'reigning over the public' in response to the 6.3 local election ballot paper shortage, demanding an immediate parliamentary investigation and special prosecutor, while also faulting President Lee Jae-myung for his 'lukewarm' stance.",
+        "zh": "韩国会议员韩东勋就6·3地方选举投票用纸短缺事件，谴责选举委员会的“粗糙选举”和“凌驾于国民之上”，要求立即进行国政调查和特别检察，并批评李在明总统态度“不温不火”。"
+      }
+    },
     {
       "title": "김 총리, 지선 결과 언급하며 “긴장하고 혁신할 때” - 경향신문",
       "link": "https://www.khan.co.kr/article/202606062114001",
@@ -26,39 +38,15 @@
       }
     },
     {
-      "title": "전한길, 대국본 집회서 “부정선거 꼬리 잡혀…이 대통령 하야해야” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1262217.html",
+      "title": "미-이란 휴전 속 충돌…쿠웨이트·바레인 미군 기지 겨냥 공격 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1262210.html",
       "source": "한겨레",
-      "pubDate": "Sat, 06 Jun 2026 11:46:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/961/577/imgdb/child/2026/0606/53_17807279944601_20260605502268.webp",
+      "pubDate": "Sat, 06 Jun 2026 11:47:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/649/432/imgdb/original/2026/0606/20260606500335.webp",
       "summaries": {
-        "ko": "전한길, 대국본 집회서 “부정선거 꼬리 잡혀…이 대통령 하야해야” - 한겨레",
-        "en": "전한길, 대국본 집회서 “부정선거 꼬리 잡혀…이 대통령 하야해야” - 한겨레",
-        "zh": "전한길, 대국본 집회서 “부정선거 꼬리 잡혀…이 대통령 하야해야” - 한겨레"
-      }
-    },
-    {
-      "title": "콩가루 산 뒤 냉면 ‘맛점’…李대통령 부부, 강동 전통시장 깜짝 방문 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260606/134061310/2",
-      "source": "동아일보",
-      "pubDate": "Sat, 06 Jun 2026 09:21:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/06/134061340.1.jpg",
-      "summaries": {
-        "ko": "콩가루 산 뒤 냉면 ‘맛점’…李대통령 부부, 강동 전통시장 깜짝 방문 - 동아일보",
-        "en": "콩가루 산 뒤 냉면 ‘맛점’…李대통령 부부, 강동 전통시장 깜짝 방문 - 동아일보",
-        "zh": "콩가루 산 뒤 냉면 ‘맛점’…李대통령 부부, 강동 전통시장 깜짝 방문 - 동아일보"
-      }
-    },
-    {
-      "title": "한화, 과거 폭발사고 작업중지에 \"위법처분…납품지연 정부책임\" - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260606042500003",
-      "source": "연합뉴스",
-      "pubDate": "Sat, 06 Jun 2026 21:03:00 GMT",
-      "image": "https://img9.yna.co.kr/photo/yna/YH/2026/06/05/PYH2026060503680006300_P4.jpg",
-      "summaries": {
-        "ko": "한화, 과거 폭발사고 작업중지에 \"위법처분…납품지연 정부책임\" - 연합뉴스",
-        "en": "한화, 과거 폭발사고 작업중지에 \"위법처분…납품지연 정부책임\" - 연합뉴스",
-        "zh": "한화, 과거 폭발사고 작업중지에 \"위법처분…납품지연 정부책임\" - 연합뉴스"
+        "ko": "미-이란 휴전 속 충돌…쿠웨이트·바레인 미군 기지 겨냥 공격 - 한겨레",
+        "en": "미-이란 휴전 속 충돌…쿠웨이트·바레인 미군 기지 겨냥 공격 - 한겨레",
+        "zh": "미-이란 휴전 속 충돌…쿠웨이트·바레인 미군 기지 겨냥 공격 - 한겨레"
       }
     },
     {
@@ -68,33 +56,45 @@
       "pubDate": "Sat, 06 Jun 2026 22:07:00 GMT",
       "image": "https://img7.yna.co.kr/etc/inner/KR/2026/06/05/AKR20260605136500546_02_i_P4.jpg",
       "summaries": {
-        "ko": "[글로컬] 북한이 두만강 통한 중국의 동해 진출로 허용하면 - 연합뉴스",
-        "en": "[글로컬] 북한이 두만강 통한 중국의 동해 진출로 허용하면 - 연합뉴스",
-        "zh": "[글로컬] 북한이 두만강 통한 중국의 동해 진출로 허용하면 - 연합뉴스"
+        "ko": "중국이 동북지역 경제 발전과 북극항로 시대 대비를 위해 북한과 러시아의 협력을 얻어 두만강을 통한 동해 진출을 적극 추진하고 있다.",
+        "en": "China is actively pursuing access to the East Sea via the Tumen River with the cooperation of North Korea and Russia, aiming to develop its Northeast region and prepare for the Arctic sea route era.",
+        "zh": "中国正积极寻求通过图们江进入日本海，以开发其东北地区并为北极航线时代做准备，这需要朝鲜和俄罗斯的合作。"
       }
     },
     {
-      "title": "종합특검, 윤석열 첫 조사 6시간25분 만에 마무리 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1262221.html",
+      "title": "[단독] 윤석열, 경찰 신문에 “검사가 해야” 종합특검 오전 조사 거부 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1262223.html",
       "source": "한겨레",
-      "pubDate": "Sat, 06 Jun 2026 11:05:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0606/20260606500438.webp",
+      "pubDate": "Sat, 06 Jun 2026 11:46:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/598/imgdb/original/2026/0606/161780735087654.webp",
       "summaries": {
-        "ko": "종합특검, 윤석열 첫 조사 6시간25분 만에 마무리 - 한겨레",
-        "en": "종합특검, 윤석열 첫 조사 6시간25분 만에 마무리 - 한겨레",
-        "zh": "종합특검, 윤석열 첫 조사 6시간25분 만에 마무리 - 한겨레"
+        "ko": "[단독] 윤석열, 경찰 신문에 “검사가 해야” 종합특검 오전 조사 거부 - 한겨레",
+        "en": "[단독] 윤석열, 경찰 신문에 “검사가 해야” 종합특검 오전 조사 거부 - 한겨레",
+        "zh": "[단독] 윤석열, 경찰 신문에 “검사가 해야” 종합특검 오전 조사 거부 - 한겨레"
       }
     },
     {
-      "title": "홍준표 “공소 취소 특검이 민심 흔들어…민주당 역풍 불렀다” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1262134.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 06 Jun 2026 07:31:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/591/imgdb/original/2026/0605/20260605501803.webp",
+      "title": "국립발레단장에 李 사람? 단원들이 들고 일어났다 - 조선일보",
+      "link": "https://www.chosun.com/culture-life/performance-arts/2026/06/06/K2M2X3V32FF3LOCWHUCMB4LBOA/",
+      "source": "조선일보",
+      "pubDate": "Sat, 06 Jun 2026 04:43:54 GMT",
+      "image": "https://www.chosun.com/resizer/v2/N4MCXT7Q25FELCXVLUWMJKMFUE.jpg?auth=f336ecc26cc475af4dc89f0ccdfe48212998a8e04436177aba3a1312df85bc49&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "홍준표 “공소 취소 특검이 민심 흔들어…민주당 역풍 불렀다” - 한겨레",
-        "en": "홍준표 “공소 취소 특검이 민심 흔들어…민주당 역풍 불렀다” - 한겨레",
-        "zh": "홍준표 “공소 취소 특검이 민심 흔들어…민주당 역풍 불렀다” - 한겨레"
+        "ko": "국립발레단장에 李 사람? 단원들이 들고 일어났다 - 조선일보",
+        "en": "국립발레단장에 李 사람? 단원들이 들고 일어났다 - 조선일보",
+        "zh": "국립발레단장에 李 사람? 단원들이 들고 일어났다 - 조선일보"
+      }
+    },
+    {
+      "title": "[속보] 이 대통령 “배신 단죄할 때 정의로운 통합…친일 부당재산 환수” - 매일경제",
+      "link": "https://www.mk.co.kr/news/politics/12067416",
+      "source": "매일경제",
+      "pubDate": "Sat, 06 Jun 2026 01:29:11 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202606/06/rcv.YNA.20260606.PYH2026060601760001300_R.jpg",
+      "summaries": {
+        "ko": "[속보] 이 대통령 “배신 단죄할 때 정의로운 통합…친일 부당재산 환수” - 매일경제",
+        "en": "[속보] 이 대통령 “배신 단죄할 때 정의로운 통합…친일 부당재산 환수” - 매일경제",
+        "zh": "[속보] 이 대통령 “배신 단죄할 때 정의로운 통합…친일 부당재산 환수” - 매일경제"
       }
     },
     {
@@ -110,27 +110,15 @@
       }
     },
     {
-      "title": "李대통령 \"배신 단죄해야 정의로운 통합…친일 부당재산 환수\" - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260606023200001",
+      "title": "'금배지' 한동훈 \"형극의 길 걷다 시민 힘으로 복귀…보수 재건\" - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260605088100001",
       "source": "연합뉴스",
-      "pubDate": "Sat, 06 Jun 2026 01:30:37 GMT",
-      "image": "https://img2.yna.co.kr/photo/yna/YH/2026/06/06/PYH2026060602230001300_P4.jpg",
+      "pubDate": "Fri, 05 Jun 2026 05:32:44 GMT",
+      "image": "https://img4.yna.co.kr/photo/yna/YH/2026/06/05/PYH2026060507620001300_P4.jpg",
       "summaries": {
-        "ko": "李대통령 \"배신 단죄해야 정의로운 통합…친일 부당재산 환수\" - 연합뉴스",
-        "en": "李대통령 \"배신 단죄해야 정의로운 통합…친일 부당재산 환수\" - 연합뉴스",
-        "zh": "李대통령 \"배신 단죄해야 정의로운 통합…친일 부당재산 환수\" - 연합뉴스"
-      }
-    },
-    {
-      "title": "[속보] 北김여정 \"핵보유 지위 절대불퇴…어떤 위협도 용납안해\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260607061652Ezf",
-      "source": "Breaking News",
-      "pubDate": "Sun, 07 Jun 2026 06:16:53 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260606/AKR20260607061652Ezf_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 北김여정 \"핵보유 지위 절대불퇴…어떤 위협도 용납안해\"",
-        "en": "[속보] 北김여정 \"핵보유 지위 절대불퇴…어떤 위협도 용납안해\"",
-        "zh": "[속보] 北김여정 \"핵보유 지위 절대불퇴…어떤 위협도 용납안해\""
+        "ko": "'금배지' 한동훈 \"형극의 길 걷다 시민 힘으로 복귀…보수 재건\" - 연합뉴스",
+        "en": "'금배지' 한동훈 \"형극의 길 걷다 시민 힘으로 복귀…보수 재건\" - 연합뉴스",
+        "zh": "'금배지' 한동훈 \"형극의 길 걷다 시민 힘으로 복귀…보수 재건\" - 연합뉴스"
       }
     }
   ]
