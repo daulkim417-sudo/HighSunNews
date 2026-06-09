@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-06-09T20:33:06.210661",
+  "lastUpdate": "2026-06-09T22:11:33.079224",
   "items": [
+    {
+      "title": "트럼프, 이란에 ‘헬기 격추’ 보복 예고···위태로운 휴전 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606100629001",
+      "source": "경향신문",
+      "pubDate": "Tue, 09 Jun 2026 21:29:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/10/news-p.v1.20260610.5e47aed1a7b944f98ed07c4e8b1812dd_P1.png",
+      "summaries": {
+        "ko": "미국이 이란의 헬기 격추에 대한 보복 공습을 시작했으나 이란은 고의 공격을 부인하며 맞대응을 경고했고, 백악관은 협상 지속 의사를 밝히며 위태로운 휴전 상황을 이어가고 있다.",
+        "en": "The U.S. launched retaliatory airstrikes following Iran's alleged downing of a helicopter, but Iran denied intentional attack and warned of counteraction, while the White House expressed a desire to continue negotiations, maintaining a precarious truce.",
+        "zh": "美国对伊朗击落直升机采取报复性空袭，但伊朗否认是蓄意袭击并警告将采取反制措施，白宫则表示愿继续谈判，使得脆弱的休战状态持续。"
+      }
+    },
     {
       "title": "[한국은 지금] 6.3 지방선거 투표용지 부족 사태 수사 검경 합동본부 설치. 전쟁기념관 해설 프로그램 논란 - VOA 한국어 홈페이지",
       "link": "https://www.voakorea.com/a/8158991.html",
@@ -8,9 +20,9 @@
       "pubDate": "Tue, 09 Jun 2026 17:52:01 GMT",
       "image": "https://gdb.voanews.com/4040c738-9260-4e1d-dffd-08debaf557a0_w1200_h630.jpg",
       "summaries": {
-        "ko": "6.3 지방선거 투표용지 부족 사태가 계속되자 검경 합동수사본부가 설치되고 대통령 등 4부 요인들이 선관위 개혁 및 책임 추궁을 논의했으며, 여야는 해결 방안에 대해 다른 입장을 보이고 있습니다.",
-        "en": "As the fallout from the 6.3 local election's ballot shortage continues, a joint prosecution-police investigation task force has been established, the President and four key officials have discussed Election Commission reforms and accountability, and political parties remain divided on resolution.",
-        "zh": "随着6.3地方选举投票用纸短缺事件的持续发酵，检警联合调查本部已成立，总统和四位高级官员讨论了选举委员会的改革和问责，而执政党和在野党在解决方案上仍存在分歧。"
+        "ko": "[한국은 지금] 6.3 지방선거 투표용지 부족 사태 수사 검경 합동본부 설치. 전쟁기념관 해설 프로그램 논란 - VOA 한국어 홈페이지",
+        "en": "[한국은 지금] 6.3 지방선거 투표용지 부족 사태 수사 검경 합동본부 설치. 전쟁기념관 해설 프로그램 논란 - VOA 한국어 홈페이지",
+        "zh": "[한국은 지금] 6.3 지방선거 투표용지 부족 사태 수사 검경 합동본부 설치. 전쟁기념관 해설 프로그램 논란 - VOA 한국어 홈페이지"
       }
     },
     {
@@ -20,33 +32,9 @@
       "pubDate": "Tue, 09 Jun 2026 12:18:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/06/09/l_2026061001000295200027971.jpg",
       "summaries": {
-        "ko": "국민의힘 장동혁 대표가 사전투표에서 일부 후보 득표수 일치를 근거로 부정선거 의혹을 제기하며 특검 도입과 재선거를 주장했으나 선관위는 \"우연의 일치\"로 반박했고 당내에서도 비판이 일었다.",
-        "en": "People Power Party interim leader Jang Dong-hyeok raised election fraud suspicions based on identical candidate vote counts in some advance polls, calling for a special prosecutor and re-election, but the National Election Commission refuted it as \"mere coincidence\" and internal party criticism emerged.",
-        "zh": "韩国执政党国民力量党临时代表张东赫以提前投票中部分候选人得票数一致为由，提出选举舞弊质疑并要求引入特检和重新选举，但选举委员会反驳称其为“偶然巧合”，党内也出现批评声音。"
-      }
-    },
-    {
-      "title": "[사설]정부의 부동산 추가 대책, 세제·공급 균형 맞춰야 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606091838001",
-      "source": "경향신문",
-      "pubDate": "Tue, 09 Jun 2026 09:38:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/09/news-p.v1.20260609.24b162df5cf94c448ffc222c6cfab16c_P1.jpg",
-      "summaries": {
-        "ko": "[사설]정부의 부동산 추가 대책, 세제·공급 균형 맞춰야 - 경향신문",
-        "en": "[사설]정부의 부동산 추가 대책, 세제·공급 균형 맞춰야 - 경향신문",
-        "zh": "[사설]정부의 부동산 추가 대책, 세제·공급 균형 맞춰야 - 경향신문"
-      }
-    },
-    {
-      "title": "이스라엘, 종전 논의에도 레바논 무차별 폭격…40명 넘게 사상 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1262734.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 09 Jun 2026 13:37:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0609/20260609503470.webp",
-      "summaries": {
-        "ko": "이스라엘, 종전 논의에도 레바논 무차별 폭격…40명 넘게 사상 - 한겨레",
-        "en": "이스라엘, 종전 논의에도 레바논 무차별 폭격…40명 넘게 사상 - 한겨레",
-        "zh": "이스라엘, 종전 논의에도 레바논 무차별 폭격…40명 넘게 사상 - 한겨레"
+        "ko": "‘부정선거’로 판 키우는 장동혁…당내선 “사퇴론 시선 돌리나” - 경향신문",
+        "en": "‘부정선거’로 판 키우는 장동혁…당내선 “사퇴론 시선 돌리나” - 경향신문",
+        "zh": "‘부정선거’로 판 키우는 장동혁…당내선 “사퇴론 시선 돌리나” - 경향신문"
       }
     },
     {
@@ -62,75 +50,99 @@
       }
     },
     {
-      "title": "김 총리 “경제지표 개선, 국민 실생활로 이어져야”…한성숙 총리 후보자 참석 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8581613",
-      "source": "KBS 뉴스",
-      "pubDate": "Tue, 09 Jun 2026 05:01:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/06/09/20260609_wg9aSR.png",
+      "title": "[사설] 부동산 ‘기대수익률 낮추기’, 흔들림 없이 추진을 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/opinion/editorial/1262689.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 09 Jun 2026 11:29:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/859/589/imgdb/original/2026/0609/20260609503127.webp",
       "summaries": {
-        "ko": "김 총리 “경제지표 개선, 국민 실생활로 이어져야”…한성숙 총리 후보자 참석 - KBS 뉴스",
-        "en": "김 총리 “경제지표 개선, 국민 실생활로 이어져야”…한성숙 총리 후보자 참석 - KBS 뉴스",
-        "zh": "김 총리 “경제지표 개선, 국민 실생활로 이어져야”…한성숙 총리 후보자 참석 - KBS 뉴스"
+        "ko": "[사설] 부동산 ‘기대수익률 낮추기’, 흔들림 없이 추진을 - 한겨레",
+        "en": "[사설] 부동산 ‘기대수익률 낮추기’, 흔들림 없이 추진을 - 한겨레",
+        "zh": "[사설] 부동산 ‘기대수익률 낮추기’, 흔들림 없이 추진을 - 한겨레"
       }
     },
     {
-      "title": "李대통령, 벨기에로 출국…G7 정상회의 계기 유럽 순방 시작열흘간 정상외교 일정 - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/06/09/OMMUBSXXBZFT5DO5CEQCIZGPRQ/",
+      "title": "\"비핵화 빠진 회담…中은 美 견제, 北은 핵보유국 부각\" - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260610061513omx",
+      "source": "연합뉴스TV",
+      "pubDate": "Tue, 09 Jun 2026 21:15:15 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260609/AKR20260610061513omx_01_i.jpg",
+      "summaries": {
+        "ko": "\"비핵화 빠진 회담…中은 美 견제, 北은 핵보유국 부각\" - 연합뉴스TV",
+        "en": "\"비핵화 빠진 회담…中은 美 견제, 北은 핵보유국 부각\" - 연합뉴스TV",
+        "zh": "\"비핵화 빠진 회담…中은 美 견제, 北은 핵보유국 부각\" - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "국힘 새 원내대표 후보들, 장동혁 사퇴 ‘온도차’·한동훈 복귀 ‘천천히’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1262683.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 09 Jun 2026 11:06:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0609/53_17809947064116_2117809946556425.webp",
+      "summaries": {
+        "ko": "국힘 새 원내대표 후보들, 장동혁 사퇴 ‘온도차’·한동훈 복귀 ‘천천히’ - 한겨레",
+        "en": "국힘 새 원내대표 후보들, 장동혁 사퇴 ‘온도차’·한동훈 복귀 ‘천천히’ - 한겨레",
+        "zh": "국힘 새 원내대표 후보들, 장동혁 사퇴 ‘온도차’·한동훈 복귀 ‘천천히’ - 한겨레"
+      }
+    },
+    {
+      "title": "총리·후보자가 국무회의에 나란히… 金 \"적임자\" 韓 \"잘하겠다\" - 조선일보",
+      "link": "https://www.chosun.com/politics/goverment/2026/06/09/W2O4JMDFXFCPPMG6FTBCVZB6MA/",
       "source": "조선일보",
-      "pubDate": "Tue, 09 Jun 2026 00:38:07 GMT",
-      "image": "https://www.chosun.com/resizer/v2/R2AFMAJSXROQRANDI6BR2YBQ7I.jpg?auth=5c96be1d21ae2885148983151a1ddfb03d5abf46dbe32a6aaa9b656b8178e731&width=1200&height=630&focal=2080,1004",
+      "pubDate": "Tue, 09 Jun 2026 06:36:03 GMT",
+      "image": "https://www.chosun.com/resizer/v2/CWNNGA5GDJPU7B3CYZLTNJYDGA.jpg?auth=6940901bc8f3aab2e99ca03afdb917c333bd6ce90ae6eb841b8c3b79536f4d32&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "李대통령, 벨기에로 출국…G7 정상회의 계기 유럽 순방 시작열흘간 정상외교 일정 - 조선일보",
-        "en": "李대통령, 벨기에로 출국…G7 정상회의 계기 유럽 순방 시작열흘간 정상외교 일정 - 조선일보",
-        "zh": "李대통령, 벨기에로 출국…G7 정상회의 계기 유럽 순방 시작열흘간 정상외교 일정 - 조선일보"
+        "ko": "총리·후보자가 국무회의에 나란히… 金 \"적임자\" 韓 \"잘하겠다\" - 조선일보",
+        "en": "총리·후보자가 국무회의에 나란히… 金 \"적임자\" 韓 \"잘하겠다\" - 조선일보",
+        "zh": "총리·후보자가 국무회의에 나란히… 金 \"적임자\" 韓 \"잘하겠다\" - 조선일보"
       }
     },
     {
-      "title": "[1보] 법원, 잠실 투표용지 보관상자 등 증거 보전 명령 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260609157200004",
-      "source": "연합뉴스",
-      "pubDate": "Tue, 09 Jun 2026 08:50:35 GMT",
-      "image": "https://img5.yna.co.kr/photo/yna/YH/2026/06/05/PYH2026060506410000401_P4.jpg",
+      "title": "법원, 잠실 투표용지 보관상자 등 증거 보전 명령 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6828903_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Tue, 09 Jun 2026 08:56:00 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/06/09/joo260609_13.jpg",
       "summaries": {
-        "ko": "[1보] 법원, 잠실 투표용지 보관상자 등 증거 보전 명령 - 연합뉴스",
-        "en": "[1보] 법원, 잠실 투표용지 보관상자 등 증거 보전 명령 - 연합뉴스",
-        "zh": "[1보] 법원, 잠실 투표용지 보관상자 등 증거 보전 명령 - 연합뉴스"
+        "ko": "법원, 잠실 투표용지 보관상자 등 증거 보전 명령 - MBC 뉴스",
+        "en": "법원, 잠실 투표용지 보관상자 등 증거 보전 명령 - MBC 뉴스",
+        "zh": "법원, 잠실 투표용지 보관상자 등 증거 보전 명령 - MBC 뉴스"
       }
     },
     {
-      "title": "'업무 마비' 체육단체 경기장 진입 실패… '국대' 월급도 못 준다 - 한국일보",
-      "link": "https://www.hankookilbo.com/news/article/A2026060919160003723",
-      "source": "한국일보",
-      "pubDate": "Tue, 09 Jun 2026 11:00:00 GMT",
-      "image": "https://newsimg.hankookilbo.com/2026/06/09/28e6a8db-54de-4777-b959-f4012b0f8854.png",
+      "title": "피해자가 수십번 거부했는데 성폭력 “무죄” 판결···재판소원 간다 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606091940001",
+      "source": "경향신문",
+      "pubDate": "Tue, 09 Jun 2026 10:40:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/09/news-p.v1.20260609.fe790639525b4cea9f77fbdbd85b4a41_P1.jpeg",
       "summaries": {
-        "ko": "시위대가 선거 부정 의혹을 제기하며 스포츠 경기장 진입을 닷새째 막아 그곳에 사무실을 둔 체육단체들이 업무 마비로 국가대표 선수들의 월급 지급마저 어렵게 됐다.",
-        "en": "Protesters, alleging election fraud, have blocked access to a sports arena for five days, paralyzing sports organizations housed there and potentially preventing national athletes from receiving their salaries.",
-        "zh": "示威者以选举舞弊为由，持续封锁体育场入口五天，导致场内体育团体的业务停摆，国家队运动员的工资也面临无法支付的危机。"
+        "ko": "피해자가 수십번 거부했는데 성폭력 “무죄” 판결···재판소원 간다 - 경향신문",
+        "en": "피해자가 수십번 거부했는데 성폭력 “무죄” 판결···재판소원 간다 - 경향신문",
+        "zh": "피해자가 수십번 거부했는데 성폭력 “무죄” 판결···재판소원 간다 - 경향신문"
       }
     },
     {
-      "title": "'언론사 단전·단수' 이상민, 상고심 배당…주심 이흥구 대법관\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260610053026eRf",
+      "title": "[속보] 미 당국자 \"호르무즈 일대 이란 방공·레이더망 타격\"\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202606100659114tL",
       "source": "Breaking News",
-      "pubDate": "Wed, 10 Jun 2026 05:30:28 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260609/MYH20260610053026eRf.jpg",
+      "pubDate": "Wed, 10 Jun 2026 06:59:12 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260609/AKR202606100659114tL_01_i.jpg",
       "summaries": {
-        "ko": "'언론사 단전·단수' 이상민, 상고심 배당…주심 이흥구 대법관\"",
-        "en": "'언론사 단전·단수' 이상민, 상고심 배당…주심 이흥구 대법관\"",
-        "zh": "'언론사 단전·단수' 이상민, 상고심 배당…주심 이흥구 대법관\""
+        "ko": "[속보] 미 당국자 \"호르무즈 일대 이란 방공·레이더망 타격\"\"",
+        "en": "[속보] 미 당국자 \"호르무즈 일대 이란 방공·레이더망 타격\"\"",
+        "zh": "[속보] 미 당국자 \"호르무즈 일대 이란 방공·레이더망 타격\"\""
       }
     },
     {
-      "title": "[단독] 송파경찰서장 면직 신청…서울청 공안차장 '잠실 시위' 관리\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260610052852Jhx",
+      "title": "[속보] 이란 매체 \"시리크 · 케슘서 발사체 피격 확인\"\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260610065129NzZ",
       "source": "Breaking News",
-      "pubDate": "Wed, 10 Jun 2026 05:28:54 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260609/MYH20260610052852Jhx.jpg",
+      "pubDate": "Wed, 10 Jun 2026 06:51:30 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260609/MYH20260610065129NzZ.jpg",
       "summaries": {
-        "ko": "[단독] 송파경찰서장 면직 신청…서울청 공안차장 '잠실 시위' 관리\"",
-        "en": "[단독] 송파경찰서장 면직 신청…서울청 공안차장 '잠실 시위' 관리\"",
-        "zh": "[단독] 송파경찰서장 면직 신청…서울청 공안차장 '잠실 시위' 관리\""
+        "ko": "[속보] 이란 매체 \"시리크 · 케슘서 발사체 피격 확인\"\"",
+        "en": "[속보] 이란 매체 \"시리크 · 케슘서 발사체 피격 확인\"\"",
+        "zh": "[속보] 이란 매체 \"시리크 · 케슘서 발사체 피격 확인\"\""
       }
     }
   ]
