@@ -1,83 +1,95 @@
 {
-  "lastUpdate": "2026-06-10T06:10:52.479558",
+  "lastUpdate": "2026-06-10T10:20:57.433618",
   "items": [
     {
-      "title": "공식회의 없이…선관위 ‘투표지 줄이기’ 사무총장 전결로 결정 - 한겨레",
+      "title": "법원, ‘투표용지 부족’ 잠실7동 제2투표소 현장 검증··· 투표용지 보관 상자 확보 실패 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606101710011",
+      "source": "경향신문",
+      "pubDate": "Wed, 10 Jun 2026 08:10:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/10/news-p.v1.20260610.15fadf79f0be45d8a91974ce2f1dd9c2_P1.jpeg",
+      "summaries": {
+        "ko": "법원이 '투표용지 부족' 사태가 발생했던 투표소 현장 검증에서 투표용지 보관 상자를 확보하지 못하고 돌아갔으며, 신청인은 추가 증거보전 신청과 선거 무효 소청을 예고했다.",
+        "en": "A court's on-site verification at a polling station, where a ballot shortage occurred, failed to secure ballot storage boxes, leading the claimant to announce plans for additional evidence preservation requests and an election invalidation appeal.",
+        "zh": "法院在对发生“选票不足”事件的投票站进行现场核查时，未能找到选票保管箱而空手而归，对此，申请人预告将追加证据保全申请并提出选举无效诉讼。"
+      }
+    },
+    {
+      "title": "이 대통령, 지지율 급락에 “겸허히 받아들여”…9.4%p 하락 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1262860.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 10 Jun 2026 09:30:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/783/470/imgdb/child/2026/0610/53_17810811489679_20260608501659.webp",
+      "summaries": {
+        "ko": "이재명 대통령은 6·3 지방선거 직후 지지율이 9.4%p 급락하여 50.4%를 기록하자 \"국민의 평가를 겸허히 받아들인다\"며 사과했고, 이는 국정 동력 약화에 대한 위기감으로 해석되고 있다.",
+        "en": "President Lee Jae-myung apologized, stating he \"humbly accepts the people's assessment,\" after his approval rating sharply dropped by 9.4 percentage points to 50.4% following the 6·3 local elections, a reaction interpreted as a sense of crisis regarding weakened national governance.",
+        "zh": "在6·3地方选举之后，李在明总统的支持率急剧下降9.4个百分点至50.4%，他为此道歉并表示“虚心接受国民的评价”，此举被解读为对国家施政动力减弱的危机感。"
+      }
+    },
+    {
+      "title": "청와대, 김 총리 순방 환송 관련 “정치적 의미 해석 적절치 않아” - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8582900",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 10 Jun 2026 08:35:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/06/10/20260610_AYPEJH.png",
+      "summaries": {
+        "ko": "청와대는 이재명 대통령 순방 환송식에 민주당 지도부 불참 및 김민석 총리 참석을 두고 정치적 해석이 나오자, 국내외 여건 고려 및 내각 차원 업무 지시를 위한 최소화였다고 해명했습니다.",
+        "en": "Cheong Wa Dae explained that the absence of Democratic Party leadership and the presence of Prime Minister Kim Min-seok at President Lee Jae-myung's departure ceremony, which led to political interpretations, was a minimization due to domestic and international conditions and for the Prime Minister to deliver cabinet-level instructions.",
+        "zh": "青瓦台解释称，针对总统李在明出访送行仪式上民主党领导层缺席、金旻奭总理出席引发的政治解读，这是综合考虑国内外情况以及总理为内阁层面指示而进行的最小化安排。"
+      }
+    },
+    {
+      "title": "국힘 신임 원내대표에 정점식... \"특정세력에 휘둘리지 않겠다\" - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/06/10/EOYPILQGLNDVDD5NZBORUO54SA/",
+      "source": "조선일보",
+      "pubDate": "Wed, 10 Jun 2026 03:06:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/4ZWEKAWUTBCOROLHU7CXVV47RI.jpg?auth=a6b12888f65c75d50f67dabb2b96e4a7d25d865996fc668d84971a11c6d3880d&width=1200&height=630&focal=2788,1210",
+      "summaries": {
+        "ko": "국힘 신임 원내대표에 정점식... \"특정세력에 휘둘리지 않겠다\" - 조선일보",
+        "en": "국힘 신임 원내대표에 정점식... \"특정세력에 휘둘리지 않겠다\" - 조선일보",
+        "zh": "국힘 신임 원내대표에 정점식... \"특정세력에 휘둘리지 않겠다\" - 조선일보"
+      }
+    },
+    {
+      "title": "이지은 與대변인 “李대통령, 尹처럼 하시나”…논란 일자 사퇴 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260610/134084291/2",
+      "source": "동아일보",
+      "pubDate": "Wed, 10 Jun 2026 04:45:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/10/134084280.3.jpg",
+      "summaries": {
+        "ko": "이지은 與대변인 “李대통령, 尹처럼 하시나”…논란 일자 사퇴 - 동아일보",
+        "en": "이지은 與대변인 “李대통령, 尹처럼 하시나”…논란 일자 사퇴 - 동아일보",
+        "zh": "이지은 與대변인 “李대통령, 尹처럼 하시나”…논란 일자 사퇴 - 동아일보"
+      }
+    },
+    {
+      "title": "공식 회의도 없이…선관위 ‘투표지 줄이기’ 사무총장 임의로 결정 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1262786.html",
       "source": "한겨레",
-      "pubDate": "Wed, 10 Jun 2026 05:19:00 GMT",
+      "pubDate": "Wed, 10 Jun 2026 06:22:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/607/imgdb/original/2026/0604/6517805144561318.webp",
       "summaries": {
-        "ko": "공식회의 없이…선관위 ‘투표지 줄이기’ 사무총장 전결로 결정 - 한겨레",
-        "en": "공식회의 없이…선관위 ‘투표지 줄이기’ 사무총장 전결로 결정 - 한겨레",
-        "zh": "공식회의 없이…선관위 ‘투표지 줄이기’ 사무총장 전결로 결정 - 한겨레"
+        "ko": "6·3 지방선거 투표용지 부족 사태를 야기한 투표용지 인쇄비율 축소(60%→50%) 결정이 중앙선관위 사무총장 전결로 이뤄졌으며, 관련 비상 가이드라인조차 없었던 것으로 드러났다.",
+        "en": "It was revealed that the decision to reduce the ballot paper printing ratio from 60% to 50%, which caused shortages in the 6.3 local elections, was made solely by the National Election Commission's Secretary-General without a commission resolution, and no emergency guidelines for such shortages existed.",
+        "zh": "据透露，导致6·3地方选举投票纸短缺的印刷比例从60%降至50%的决定，是由中央选举管理委员会秘书长一人批准，而非委员会全体决议，且没有任何应对短缺的紧急指导方针。"
       }
     },
     {
-      "title": "이 대통령, 지지율 급락에 “국민 여러분 죄송…냉정한 평가 겸허히 받아들여” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606101354011",
-      "source": "경향신문",
-      "pubDate": "Wed, 10 Jun 2026 04:54:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/10/rcv.YNA.20260608.PYH2026060815740001300_P1.jpg",
-      "summaries": {
-        "ko": "이 대통령, 지지율 급락에 “국민 여러분 죄송…냉정한 평가 겸허히 받아들여” - 경향신문",
-        "en": "이 대통령, 지지율 급락에 “국민 여러분 죄송…냉정한 평가 겸허히 받아들여” - 경향신문",
-        "zh": "이 대통령, 지지율 급락에 “국민 여러분 죄송…냉정한 평가 겸허히 받아들여” - 경향신문"
-      }
-    },
-    {
-      "title": "국민의힘 신임 원내대표 선거, 김도읍·정점식 결선 진출 - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/06/10/UX6EKSAFSVFA3F34M57X6UB2IU/",
-      "source": "조선일보",
-      "pubDate": "Wed, 10 Jun 2026 02:41:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/OZCJADC5VRE5NLWLXEFE4UB26U.png?auth=f46b7318e4d3b7fa17f47c4a0bca0e0590cc332096061b0f78205042f410c971&width=675&height=354&focal=335,115",
-      "summaries": {
-        "ko": "국민의힘 신임 원내대표 선거, 김도읍·정점식 결선 진출 - 조선일보",
-        "en": "국민의힘 신임 원내대표 선거, 김도읍·정점식 결선 진출 - 조선일보",
-        "zh": "국민의힘 신임 원내대표 선거, 김도읍·정점식 결선 진출 - 조선일보"
-      }
-    },
-    {
-      "title": "정청래 “국민은 영원하고 정권은 짧다, 여당다울 때 국민 지지”···친명계 당권도전 포기 압박에 우회적 대응? - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606101130001",
-      "source": "경향신문",
-      "pubDate": "Wed, 10 Jun 2026 02:30:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/10/news-p.v1.20260610.388b61dc8f9b4be89aafdff8327fcf95_P1.jpeg",
-      "summaries": {
-        "ko": "정청래 “국민은 영원하고 정권은 짧다, 여당다울 때 국민 지지”···친명계 당권도전 포기 압박에 우회적 대응? - 경향신문",
-        "en": "정청래 “국민은 영원하고 정권은 짧다, 여당다울 때 국민 지지”···친명계 당권도전 포기 압박에 우회적 대응? - 경향신문",
-        "zh": "정청래 “국민은 영원하고 정권은 짧다, 여당다울 때 국민 지지”···친명계 당권도전 포기 압박에 우회적 대응? - 경향신문"
-      }
-    },
-    {
-      "title": "아파치 격추에 美-이란 군사 충돌 격화...월드컵 개막 전 협상 타결 난항 우려 - 서울신문",
-      "link": "https://www.seoul.co.kr/news/international/2026/06/10/20260610500151",
-      "source": "서울신문",
-      "pubDate": "Wed, 10 Jun 2026 05:35:07 GMT",
-      "image": "https://img.seoul.co.kr//img/upload/2026/06/10/SSC_20260610143501_O2.jpg.webp",
-      "summaries": {
-        "ko": "아파치 격추에 美-이란 군사 충돌 격화...월드컵 개막 전 협상 타결 난항 우려 - 서울신문",
-        "en": "아파치 격추에 美-이란 군사 충돌 격화...월드컵 개막 전 협상 타결 난항 우려 - 서울신문",
-        "zh": "아파치 격추에 美-이란 군사 충돌 격화...월드컵 개막 전 협상 타결 난항 우려 - 서울신문"
-      }
-    },
-    {
-      "title": "시위대에 조롱 당한 경찰, 내부망에 글‥\"멸시 심각‥우리는 상처받고 있다\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6829115_36918.html",
+      "title": "방첩사 49년 만에 해체‥동향조사·인사첩보 수집 기능 전면 폐지 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6829159_36911.html",
       "source": "MBC 뉴스",
-      "pubDate": "Wed, 10 Jun 2026 03:32:06 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/06/10/yh_20260610-7.jpg",
+      "pubDate": "Wed, 10 Jun 2026 06:00:23 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/06/10/ggm_20260610_8_1.jpg",
       "summaries": {
-        "ko": "시위대에 조롱 당한 경찰, 내부망에 글‥\"멸시 심각‥우리는 상처받고 있다\" - MBC 뉴스",
-        "en": "시위대에 조롱 당한 경찰, 내부망에 글‥\"멸시 심각‥우리는 상처받고 있다\" - MBC 뉴스",
-        "zh": "시위대에 조롱 당한 경찰, 내부망에 글‥\"멸시 심각‥우리는 상처받고 있다\" - MBC 뉴스"
+        "ko": "국방부가 12·3 비상계엄에 가담했던 방첩사를 해체하고 동향조사 등 권력형 임무를 전면 폐지하는 한편, 새로운 방첩기관이 권력기관화되는 것을 막기 위한 개편안을 발표했다.",
+        "en": "The Ministry of National Defense announced a reform plan to disband the Defense Security Command, which was involved in the December 3 martial law, completely abolish power-oriented tasks such as current situation investigations, and prevent the new counterintelligence agency from becoming a powerful institution.",
+        "zh": "国防部宣布了一项改革方案，解散了曾参与12月3日紧急戒严的防谍司令部，全面废除动向调查等权力型任务，并防止新的反间谍机构成为权力机关。"
       }
     },
     {
       "title": "장동혁, 결국 “부정선거” 팻말…사퇴 압박 속 “끝까지 싸울 것” - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1262777.html",
       "source": "한겨레",
-      "pubDate": "Wed, 10 Jun 2026 03:06:00 GMT",
+      "pubDate": "Wed, 10 Jun 2026 06:45:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/832/499/imgdb/original/2026/0610/20260610501124.webp",
       "summaries": {
         "ko": "장동혁, 결국 “부정선거” 팻말…사퇴 압박 속 “끝까지 싸울 것” - 한겨레",
@@ -86,39 +98,39 @@
       }
     },
     {
-      "title": "[포토] 이 대통령, 유럽 순방 첫 일정은 ‘동포 간담회’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1262760.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 10 Jun 2026 04:30:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0610/53_17810506703764_20260610500518.webp",
-      "summaries": {
-        "ko": "[포토] 이 대통령, 유럽 순방 첫 일정은 ‘동포 간담회’ - 한겨레",
-        "en": "[포토] 이 대통령, 유럽 순방 첫 일정은 ‘동포 간담회’ - 한겨레",
-        "zh": "[포토] 이 대통령, 유럽 순방 첫 일정은 ‘동포 간담회’ - 한겨레"
-      }
-    },
-    {
-      "title": "“이재명 소년원 출신” 주장 모스 탄, 출금 유지한 판사 고발…재판부 기피 신청도 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606101225001",
+      "title": "[속보]“들여보내야 ‘폭도’아닌 게 돼” “부정선거 협상 없어” “너가 뭔데”···잠실 개표소 엿새째 출입 봉쇄 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606100952001",
       "source": "경향신문",
-      "pubDate": "Wed, 10 Jun 2026 03:25:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/10/rcv.YNA.20260529.PYH2026052910630001301_P1.jpg",
+      "pubDate": "Wed, 10 Jun 2026 00:52:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/10/rcv.YNA.20260609.PYH2026060913990001300_P1.jpg",
       "summaries": {
-        "ko": "“이재명 소년원 출신” 주장 모스 탄, 출금 유지한 판사 고발…재판부 기피 신청도 - 경향신문",
-        "en": "“이재명 소년원 출신” 주장 모스 탄, 출금 유지한 판사 고발…재판부 기피 신청도 - 경향신문",
-        "zh": "“이재명 소년원 출신” 주장 모스 탄, 출금 유지한 판사 고발…재판부 기피 신청도 - 경향신문"
+        "ko": "[속보]“들여보내야 ‘폭도’아닌 게 돼” “부정선거 협상 없어” “너가 뭔데”···잠실 개표소 엿새째 출입 봉쇄 - 경향신문",
+        "en": "[속보]“들여보내야 ‘폭도’아닌 게 돼” “부정선거 협상 없어” “너가 뭔데”···잠실 개표소 엿새째 출입 봉쇄 - 경향신문",
+        "zh": "[속보]“들여보내야 ‘폭도’아닌 게 돼” “부정선거 협상 없어” “너가 뭔데”···잠실 개표소 엿새째 출입 봉쇄 - 경향신문"
       }
     },
     {
-      "title": "‘극우 낙인에 분노, 극우는 ‘프락치’ 몰이’…참정권 외친 2030 목소리 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1262749.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 10 Jun 2026 02:48:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/764/509/imgdb/original/2026/0609/20260609503556.webp",
+      "title": "\"쌍둥이 득표, 수학적으로 가능\"… '필즈상 허준이 父' 허명회 교수의 평가 - 한국일보",
+      "link": "https://www.hankookilbo.com/news/article/A2026061009160005594",
+      "source": "한국일보",
+      "pubDate": "Wed, 10 Jun 2026 02:30:00 GMT",
+      "image": "https://newsimg.hankookilbo.com/2026/06/10/c7004243-aa4e-4bd9-8017-4031ec25df08.jpg",
       "summaries": {
-        "ko": "‘극우 낙인에 분노, 극우는 ‘프락치’ 몰이’…참정권 외친 2030 목소리 - 한겨레",
-        "en": "‘극우 낙인에 분노, 극우는 ‘프락치’ 몰이’…참정권 외친 2030 목소리 - 한겨레",
-        "zh": "‘극우 낙인에 분노, 극우는 ‘프락치’ 몰이’…참정권 외친 2030 목소리 - 한겨레"
+        "ko": "\"쌍둥이 득표, 수학적으로 가능\"… '필즈상 허준이 父' 허명회 교수의 평가 - 한국일보",
+        "en": "\"쌍둥이 득표, 수학적으로 가능\"… '필즈상 허준이 父' 허명회 교수의 평가 - 한국일보",
+        "zh": "\"쌍둥이 득표, 수학적으로 가능\"… '필즈상 허준이 父' 허명회 교수의 평가 - 한국일보"
+      }
+    },
+    {
+      "title": "[단독] 한성숙 후보자 인사청문요청안, 이 대통령 재가…국회 접수 예정",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260610185746XYC",
+      "source": "Breaking News",
+      "pubDate": "Wed, 10 Jun 2026 18:57:47 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260610/AKR20260610185746XYC_01_i.jpg",
+      "summaries": {
+        "ko": "[단독] 한성숙 후보자 인사청문요청안, 이 대통령 재가…국회 접수 예정",
+        "en": "[단독] 한성숙 후보자 인사청문요청안, 이 대통령 재가…국회 접수 예정",
+        "zh": "[단독] 한성숙 후보자 인사청문요청안, 이 대통령 재가…국회 접수 예정"
       }
     }
   ]
