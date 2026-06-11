@@ -1,28 +1,40 @@
 {
-  "lastUpdate": "2026-06-11T14:51:14.102546",
+  "lastUpdate": "2026-06-11T17:57:58.596963",
   "items": [
     {
-      "title": "[속보] 김민석 “이럴 거면 선관위 차라리 해체하는 게 낫지 않나”…참정권 침해 관계장관회의 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606112119001",
-      "source": "경향신문",
-      "pubDate": "Thu, 11 Jun 2026 12:19:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/11/rcv.YNA.20260611.PYH2026061120730001300_P1.jpg",
+      "title": "트럼프 “오늘 밤 이란 강하게 타격…머잖아 석유 거점 장악” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1263161.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 11 Jun 2026 15:52:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/429/imgdb/original/2026/0611/20260611504142.webp",
       "summaries": {
-        "ko": "김민석 국무총리는 6·3 지방선거 투표용지 부족 및 증거 파괴 사태와 관련해 선관위 해체를 시사하며 강하게 비판했고, 국정조사와 엄정한 수사를 촉구하는 한편, 민주질서를 파괴하는 행위도 용납하지 않겠다고 밝혔다.",
-        "en": "Prime Minister Kim Min-seok strongly criticized the National Election Commission (NEC) for the ballot paper shortage and evidence destruction during the 6.3 local elections, suggesting its dissolution and calling for a parliamentary inquiry and strict investigation, while also condemning acts disrupting democratic order under the guise of protest.",
-        "zh": "韩国总理金珉锡就6·3地方选举中投票箱短缺和证据销毁事件严厉批评国家选举委员会，暗示其应解散，并呼吁进行国会调查和严格侦查，同时谴责借抗议之名破坏民主秩序的行为。"
+        "ko": "도널드 트럼프 미국 대통령이 오늘 밤 이란을 강하게 타격하고 석유 거점을 장악할 것이라 경고하며 미국-이란 간 휴전이 위태로워졌다고 한겨레가 전했다.",
+        "en": "According to Hankyoreh, Donald Trump warned of a strong strike on Iran tonight and the seizure of its oil infrastructure, jeopardizing the ceasefire between the US and Iran.",
+        "zh": "据韩民族日报报道，唐纳德·特朗普总统警告称今晚将强烈打击伊朗并夺取其石油枢纽，使美伊之间的停火面临危机。"
       }
     },
     {
-      "title": "트럼프 “오늘밤 이란을 매우 강하게 타격”…휴전 위태 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1263161.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 11 Jun 2026 13:53:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/429/imgdb/original/2026/0611/20260611504142.webp",
+      "title": "[속보] 합수본, 중앙선관위 등 7곳 압수수색 13시간 만에 종료‥\"진상 엄정 규명\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6829593_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Thu, 11 Jun 2026 13:05:58 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/06/11/jh_20260611_32.jpg",
       "summaries": {
-        "ko": "도널드 트럼프 미국 대통령이 '오늘 밤 이란을 매우 강하게 타격'하고 이란 석유 인프라를 장악할 것이라고 밝히면서, 4월부터 이어져 온 미국-이란 간 휴전이 위태로워졌다.",
-        "en": "US President Donald Trump announced that the US would 'strike Iran very strongly tonight' and seize its oil infrastructure, threatening the US-Iran ceasefire that has been in place since April.",
-        "zh": "美国总统唐纳德·特朗普宣布美国将“今晚非常强力地打击伊朗”并占领其石油基础设施，此举危及了自四月以来维系的美国与伊朗之间的停火协议。"
+        "ko": "합동수사본부가 6·3 지방선거 투표용지 부족 사태 수사를 위해 중앙선관위 등 7곳을 13시간 동안 압수수색한 뒤 진상 규명을 약속했다.",
+        "en": "The Joint Investigation Headquarters concluded a 13-hour search and seizure operation at the Central National Election Commission and six other sites as part of its investigation into the ballot paper shortage during the June 3 local elections, vowing to uncover the truth.",
+        "zh": "联合调查本部对中央选举管理委员会等7处地点就6月3日地方选举投票用纸短缺事件进行了长达13小时的搜查扣押，并承诺将查明真相。"
+      }
+    },
+    {
+      "title": "與, 정청래 사퇴론 쏟아졌다... \"선거, 심리적으로 참패 이상\" - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/06/11/2FXWRMI4L5EM7JXRSG3LA5R464/",
+      "source": "조선일보",
+      "pubDate": "Thu, 11 Jun 2026 07:59:25 GMT",
+      "image": "https://www.chosun.com/resizer/v2/7KTKPQEV2VDHLI3NVBATP4JAJQ.jpg?auth=3c318fa3ec0b431c2341e35cc38bb486c336eba39d858b5ad5f39d75de426fab&width=1200&height=630&focal=1923,888",
+      "summaries": {
+        "ko": "與, 정청래 사퇴론 쏟아졌다... \"선거, 심리적으로 참패 이상\" - 조선일보",
+        "en": "與, 정청래 사퇴론 쏟아졌다... \"선거, 심리적으로 참패 이상\" - 조선일보",
+        "zh": "與, 정청래 사퇴론 쏟아졌다... \"선거, 심리적으로 참패 이상\" - 조선일보"
       }
     },
     {
@@ -38,10 +50,22 @@
       }
     },
     {
+      "title": "“부정선거에 당 오염” 사퇴론 분출…장동혁은 ‘버티기’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1263077.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 11 Jun 2026 10:07:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/605/imgdb/original/2026/0611/20260611503225.webp",
+      "summaries": {
+        "ko": "국민의힘 장동혁 대표가 6·3 지방선거 패배 책임으로 사퇴 압박을 받으면서도 '투표용지 부족 사태' 해결을 내세워 버티는 가운데, 당내에서는 그가 '부정선거 음모론'으로 당을 오염시킨다는 비판과 함께 갈등이 심화되고 있다.",
+        "en": "Facing resignation calls for the 6·3 local election defeat, People Power Party interim leader Jang Dong-hyuk is resisting by prioritizing the \"lack of ballot papers\" issue, intensifying internal party conflict and drawing criticism that he is \"contaminating\" the party with election fraud conspiracy theories.",
+        "zh": "韩国国民力量党临时代表张东赫因6·3地方选举失利面临辞职压力，但他以解决“选票不足事件”为由拒绝下台，此举激化了党内矛盾，并引发了他将党派“污染”为舞弊选举阴谋论的批评。"
+      }
+    },
+    {
       "title": "\"소맥 4잔, 팀장이 노래방 강요...\" 광주 20대 女소방관 극단선택 감찰 - 조선일보",
       "link": "https://www.chosun.com/national/national_general/2026/06/11/5QS7BSDGEJGI3PEF7IICZQHIFU/",
       "source": "조선일보",
-      "pubDate": "Thu, 11 Jun 2026 14:15:00 GMT",
+      "pubDate": "Thu, 11 Jun 2026 14:16:21 GMT",
       "image": "https://www.chosun.com/resizer/v2/PRY4EGB6QZFZRP4GMBIF25JT6U.jpg?auth=3439a2406fc912cbd21d26e2c60027e61fd1eea9bbc1fcecd89577b4516840be&width=1200&height=630&focal=813,497",
       "summaries": {
         "ko": "\"소맥 4잔, 팀장이 노래방 강요...\" 광주 20대 女소방관 극단선택 감찰 - 조선일보",
@@ -50,27 +74,15 @@
       }
     },
     {
-      "title": "“부정선거에 당 오염” 사퇴론 분출…장동혁은 ‘버티기’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1263077.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 11 Jun 2026 10:07:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/605/imgdb/original/2026/0611/20260611503225.webp",
+      "title": "'개표소 봉쇄시위' 일주일째…체육단체들 \"공권력 투입해달라\"(종합) - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260611054101004",
+      "source": "연합뉴스",
+      "pubDate": "Thu, 11 Jun 2026 02:06:07 GMT",
+      "image": "https://img0.yna.co.kr/photo/yna/YH/2026/06/11/PYH2026061105750001300_P4.jpg",
       "summaries": {
-        "ko": "국민의힘 장동혁 대표가 지방선거 패배 책임을 이유로 사퇴 압박을 받고 있으나, 투표용지 부족 사태를 들어 버티는 가운데 이를 '부정선거 음모론'으로 오염시킨다는 비판이 제기되며 당내 갈등이 고조되고 있다.",
-        "en": "People Power Party leader Jang Dong-hyeok is facing increasing calls to resign following a local election defeat, but he is resisting by highlighting a \"ballot paper shortage\" incident, which critics accuse him of using to contaminate the party with \"election fraud conspiracy theories,\" intensifying internal conflict.",
-        "zh": "国民力量党代表张东赫因地方选举失利面临辞职压力，但他以“选票不足事件”为由拒绝辞职，并被批评利用该事件散布“选举舞弊阴谋论”污染党派，导致党内矛盾日益加剧。"
-      }
-    },
-    {
-      "title": "정청래 “단결” 수습 나섰지만…의총서 “당장 사퇴” 분출 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1263155.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 11 Jun 2026 13:20:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/473/imgdb/original/2026/0611/20260611503968.webp",
-      "summaries": {
-        "ko": "6·3 지방선거 패배 책임론 속에 더불어민주당 의원총회에서 정청래 대표의 즉각 사퇴 요구가 분출했지만, 정 대표는 내부 단결을 강조하며 직접적인 답변을 피했다.",
-        "en": "Amid calls for accountability following the 6.3 local election defeat, demands for Representative Jeong Cheong-rae's immediate resignation erupted at the Democratic Party's general meeting, but Jeong emphasized internal unity and avoided directly addressing the resignation calls.",
-        "zh": "在6·3地方选举失败的问责声中，共同民主党议员大会上爆发了要求党代表郑清来立即辞职的呼声，但郑代表强调内部团结，未直接回应辞职要求。"
+        "ko": "6·3 지방선거 투표용지 부족 사태로 올림픽공원 핸드볼경기장이 일주일째 봉쇄되면서 입주한 체육단체들이 업무 마비를 호소하며 정부와 경찰의 공권력 투입을 촉구하고 있다.",
+        "en": "Sports organizations housed in the Olympic Park Handball Arena, which has been blockaded for a week by protesters over a ballot shortage in the 6/3 local election, are appealing for government and police intervention due to severe disruption of their operations.",
+        "zh": "由于6月3日地方选举选票不足引发的抗议，奥林匹克公园手球馆已被封锁一周，入驻的体育团体因运营瘫痪而呼吁政府和警方介入。"
       }
     },
     {
@@ -80,57 +92,45 @@
       "pubDate": "Thu, 11 Jun 2026 07:55:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/06/11/rcv.YNA.20260603.PYH2026060304900001300_P1.jpg",
       "summaries": {
-        "ko": "“출구조사 재계산해보니 서울 30대 여성 ‘정원오 지지’ 더 많았다”···방송협회 산하 기관, 데이터 오류 공식 사과 - 경향신문",
-        "en": "“출구조사 재계산해보니 서울 30대 여성 ‘정원오 지지’ 더 많았다”···방송협회 산하 기관, 데이터 오류 공식 사과 - 경향신문",
-        "zh": "“출구조사 재계산해보니 서울 30대 여성 ‘정원오 지지’ 더 많았다”···방송협회 산하 기관, 데이터 오류 공식 사과 - 경향신문"
+        "ko": "방송협회 산하 공동예측조사위원회가 제6.3 지방선거 출구조사 데이터 오류에 대해 사과하며, 특정 조사기관이 사전투표자 예측 데이터를 누락하여 서울 30대 여성 등 유권자 성향이 오세훈에서 정원오 지지로 잘못 보고되었음을 인정했다.",
+        "en": "Korea's Broadcast Association apologized for errors in 6.3 local election exit poll data, admitting a research firm's omission of early voting data misrepresented demographic support, such as Seoul's 30s women initially favoring Oh Se-hoon but actually supporting Jung Won-oh.",
+        "zh": "韩国广播协会就6·3地方选举出口民调数据错误致歉，承认某调查机构遗漏了提前投票数据，导致首尔30多岁女性等选民倾向被错误报道，例如原报告支持吴世勋，实际为支持郑元吾。"
       }
     },
     {
-      "title": "김민석 “참정권 침해 용납 안돼…민주 질서 파괴엔 무관용 대응” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1263158.html",
+      "title": "李대통령 지지율 9%p 하락… 민주 41% 국힘 25% [NBS] - 조선일보",
+      "link": "https://www.chosun.com/politics/opinion-poll/2026/06/11/H346YHL2EZF6ZHQQL2GULX7KAE/",
+      "source": "조선일보",
+      "pubDate": "Thu, 11 Jun 2026 02:27:28 GMT",
+      "image": "https://www.chosun.com/resizer/v2/ITFO4Q4OYBPSLIT5ITQMSSHYFM.jpg?auth=7a076ec31cc65e365cad230a74e1a5a20479f643152d898320f670d748f550bf&width=1200&height=630&focal=1122,515",
+      "summaries": {
+        "ko": "李대통령 지지율 9%p 하락… 민주 41% 국힘 25% [NBS] - 조선일보",
+        "en": "李대통령 지지율 9%p 하락… 민주 41% 국힘 25% [NBS] - 조선일보",
+        "zh": "李대통령 지지율 9%p 하락… 민주 41% 국힘 25% [NBS] - 조선일보"
+      }
+    },
+    {
+      "title": "한성숙, 재산 250억원 신고…집 2채·예금 103억·주식 20억 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1263157.html",
       "source": "한겨레",
-      "pubDate": "Thu, 11 Jun 2026 13:06:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0611/20260611504070.webp",
+      "pubDate": "Thu, 11 Jun 2026 15:48:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/628/377/imgdb/child/2026/0611/53_17811800390039_20260611503991.webp",
       "summaries": {
-        "ko": "김민석 “참정권 침해 용납 안돼…민주 질서 파괴엔 무관용 대응” - 한겨레",
-        "en": "김민석 “참정권 침해 용납 안돼…민주 질서 파괴엔 무관용 대응” - 한겨레",
-        "zh": "김민석 “참정권 침해 용납 안돼…민주 질서 파괴엔 무관용 대응” - 한겨레"
+        "ko": "한성숙 국무총리 후보자가 주택 2채, 예금 103억 원, 주식 20억 원 등 본인과 어머니 명의로 총 253억 9천만 원의 재산을 신고했으며, 과거 정보통신망법 위반으로 벌금형을 받은 이력도 공개됐다.",
+        "en": "Prime Minister nominee Han Seong-sook declared total assets of 25.39 billion KRW under her and her mother's names, including two houses, 10.3 billion KRW in deposits, and 2 billion KRW in stocks, and her past criminal record for violating the information network law was also revealed.",
+        "zh": "韩国国务总理提名人韩圣淑申报了其本人及母亲名下总计253.9亿韩元的财产，其中包括两套住房、103亿韩元存款和20亿韩元股票，其过去因违反信息通信网络法而被罚款的记录也随之公开。"
       }
     },
     {
-      "title": "장동혁, 투표지 상자 폐기에 \"증거인멸…특검·전국 재선거해야\" - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260611051400001",
-      "source": "연합뉴스",
-      "pubDate": "Thu, 11 Jun 2026 00:52:25 GMT",
-      "image": "https://img4.yna.co.kr/photo/yna/YH/2026/06/11/PYH2026061104320001300_P4.jpg",
-      "summaries": {
-        "ko": "장동혁, 투표지 상자 폐기에 \"증거인멸…특검·전국 재선거해야\" - 연합뉴스",
-        "en": "장동혁, 투표지 상자 폐기에 \"증거인멸…특검·전국 재선거해야\" - 연합뉴스",
-        "zh": "장동혁, 투표지 상자 폐기에 \"증거인멸…특검·전국 재선거해야\" - 연합뉴스"
-      }
-    },
-    {
-      "title": "李대통령 지지율 57%…지선 전보다 9%P 급락 [NBS] - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260611/134091112/2",
-      "source": "동아일보",
-      "pubDate": "Thu, 11 Jun 2026 02:36:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/11/134091119.3.jpg",
-      "summaries": {
-        "ko": "李대통령 지지율 57%…지선 전보다 9%P 급락 [NBS] - 동아일보",
-        "en": "李대통령 지지율 57%…지선 전보다 9%P 급락 [NBS] - 동아일보",
-        "zh": "李대통령 지지율 57%…지선 전보다 9%P 급락 [NBS] - 동아일보"
-      }
-    },
-    {
-      "title": "[단독] 경찰버스 들이받은 운전자 체포…\"일부러 그랬다\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260611231214Wnl",
+      "title": "[속보] 트럼프 \"오늘 저녁 이란 공습 취소…서명식 일시·장소 곧 발표\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260612024454Gvc",
       "source": "Breaking News",
-      "pubDate": "Thu, 11 Jun 2026 23:12:15 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260611/MYH20260611231214Wnl.jpg",
+      "pubDate": "Fri, 12 Jun 2026 02:44:55 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260611/AKR20260612024454Gvc_01_i.jpg",
       "summaries": {
-        "ko": "[단독] 경찰버스 들이받은 운전자 체포…\"일부러 그랬다\"",
-        "en": "[단독] 경찰버스 들이받은 운전자 체포…\"일부러 그랬다\"",
-        "zh": "[단독] 경찰버스 들이받은 운전자 체포…\"일부러 그랬다\""
+        "ko": "[속보] 트럼프 \"오늘 저녁 이란 공습 취소…서명식 일시·장소 곧 발표\"",
+        "en": "[속보] 트럼프 \"오늘 저녁 이란 공습 취소…서명식 일시·장소 곧 발표\"",
+        "zh": "[속보] 트럼프 \"오늘 저녁 이란 공습 취소…서명식 일시·장소 곧 발표\""
       }
     }
   ]
