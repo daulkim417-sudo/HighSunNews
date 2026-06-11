@@ -1,136 +1,124 @@
 {
-  "lastUpdate": "2026-06-11T20:10:08.145027",
+  "lastUpdate": "2026-06-11T22:12:14.351615",
   "items": [
     {
-      "title": "검경, 중앙·지역선관위 7곳 압수수색…직무유기·선거법 위반 수사 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606112227005",
-      "source": "경향신문",
-      "pubDate": "Thu, 11 Jun 2026 13:27:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/11/l_2026061201000377200037121.jpg",
-      "summaries": {
-        "ko": "경찰과 검찰이 6·3 지방선거 투표용지 부족 사태와 관련해 직무유기 및 선거법 위반 혐의로 중앙 및 지역선관위 7곳을 압수수색하며 노태악 전 중앙선관위원장 등을 피의자로 적시하고 본격적인 수사에 착수했다.",
-        "en": "Police and prosecutors have launched a full-scale investigation, including raiding the National Election Commission (NEC) and seven regional election commissions, on suspicion of dereliction of duty and election law violations related to the ballot paper shortage during the 6·3 local elections, naming former NEC Chairman Noh Tae-ak and others as suspects.",
-        "zh": "韩国警方和检方就6月3日地方选举的选票短缺事件，以渎职和违反选举法嫌疑，对中央选举管理委员会及7个地方选举委员会进行了搜查，并将前中央选举管理委员会委员长卢泰岳等人列为嫌疑人，正式展开调查。"
-      }
-    },
-    {
-      "title": "트럼프 “오늘 밤 이란 강하게 타격…머잖아 석유 거점 장악” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1263161.html",
+      "title": "트럼프 “주말 유럽서 이란 종전 서명식 가능”…월드컵 개막일에 공습 취소하며 급반전 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1263188.html",
       "source": "한겨레",
-      "pubDate": "Thu, 11 Jun 2026 15:52:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/429/imgdb/original/2026/0611/20260611504142.webp",
+      "pubDate": "Thu, 11 Jun 2026 20:58:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0612/53_17812127025338_20260612500145.webp",
       "summaries": {
-        "ko": "트럼프 미국 대통령이 이란에 대한 강력한 추가 타격을 예고하며 석유 거점 장악과 시장 통제를 위협해, 4월부터 이어지던 미국-이란 간 휴전이 위태로워졌습니다.",
-        "en": "U.S. President Trump announced a strong additional attack on Iran tonight, threatening to seize its oil infrastructure and control its market, thereby jeopardizing the U.S.-Iran ceasefire that had been in place since April.",
-        "zh": "美国总统特朗普预告今晚将对伊朗发动强力追加打击，并威胁将掌控伊朗石油据点及市场，导致自4月以来维系的美国与伊朗停火协议面临危机。"
+        "ko": "도널드 트럼프 미국 대통령이 이란과의 '종전' 합의가 임박했으며, 이번 주말 유럽에서 서명식이 열리면 해상 봉쇄 해제와 이란의 핵무기 개발 금지가 이루어질 것이라고 밝히며 급격한 긴장 완화를 알렸다.",
+        "en": "U.S. President Donald Trump announced a nearing 'end of war' agreement with Iran, stating that a signing ceremony could occur in Europe this weekend, which would lift the naval blockade and prevent Iran from developing nuclear weapons, signaling a rapid de-escalation from recent tensions.",
+        "zh": "美国总统唐纳德·特朗普宣布与伊朗的“终战”协议即将达成，称本周末可能在欧洲举行签署仪式，届时将解除海上封锁并禁止伊朗发展核武器，标志着紧张局势迅速降级。"
       }
     },
     {
-      "title": "면전서 “물러나라” 직격…정청래-장동혁 ‘사퇴론’ 불붙었다 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260611/134091593/2",
-      "source": "동아일보",
-      "pubDate": "Thu, 11 Jun 2026 05:05:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/11/134091666.3.jpg",
-      "summaries": {
-        "ko": "면전서 “물러나라” 직격…정청래-장동혁 ‘사퇴론’ 불붙었다 - 동아일보",
-        "en": "면전서 “물러나라” 직격…정청래-장동혁 ‘사퇴론’ 불붙었다 - 동아일보",
-        "zh": "면전서 “물러나라” 직격…정청래-장동혁 ‘사퇴론’ 불붙었다 - 동아일보"
-      }
-    },
-    {
-      "title": "트럼프 급반전‥\"이란공습 취소, 곧 서명식 시간·장소 발표\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/world/article/6829613_36925.html",
+      "title": "[속보] 합수본, 중앙선관위 등 7곳 압수수색 13시간 만에 종료‥\"진상 엄정 규명\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6829593_36918.html",
       "source": "MBC 뉴스",
-      "pubDate": "Thu, 11 Jun 2026 17:46:13 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/06/12/s260612_0007.jpg",
+      "pubDate": "Thu, 11 Jun 2026 13:05:58 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/06/11/jh_20260611_32.jpg",
       "summaries": {
-        "ko": "트럼프 급반전‥\"이란공습 취소, 곧 서명식 시간·장소 발표\" - MBC 뉴스",
-        "en": "트럼프 급반전‥\"이란공습 취소, 곧 서명식 시간·장소 발표\" - MBC 뉴스",
-        "zh": "트럼프 급반전‥\"이란공습 취소, 곧 서명식 시간·장소 발표\" - MBC 뉴스"
+        "ko": "[속보] 합수본, 중앙선관위 등 7곳 압수수색 13시간 만에 종료‥\"진상 엄정 규명\" - MBC 뉴스",
+        "en": "[속보] 합수본, 중앙선관위 등 7곳 압수수색 13시간 만에 종료‥\"진상 엄정 규명\" - MBC 뉴스",
+        "zh": "[속보] 합수본, 중앙선관위 등 7곳 압수수색 13시간 만에 종료‥\"진상 엄정 규명\" - MBC 뉴스"
       }
     },
     {
-      "title": "전북 이어 경기 선관위도 개표 오류…서울, 무번호 투표지 규정 위반 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/election/1263160.html",
+      "title": "트럼프 “오늘밤 이란 강하게 타격…베네수엘라처럼 석유 차지” - 동아일보",
+      "link": "https://www.donga.com/news/Inter/article/all/20260611/134091243/1",
+      "source": "동아일보",
+      "pubDate": "Thu, 11 Jun 2026 13:26:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/11/134096954.1.jpg",
+      "summaries": {
+        "ko": "트럼프 “오늘밤 이란 강하게 타격…베네수엘라처럼 석유 차지” - 동아일보",
+        "en": "트럼프 “오늘밤 이란 강하게 타격…베네수엘라처럼 석유 차지” - 동아일보",
+        "zh": "트럼프 “오늘밤 이란 강하게 타격…베네수엘라처럼 석유 차지” - 동아일보"
+      }
+    },
+    {
+      "title": "정청래 “단결” 수습 나섰지만…의총서 “당장 사퇴” 분출 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1263155.html",
       "source": "한겨레",
-      "pubDate": "Thu, 11 Jun 2026 15:48:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/357/imgdb/original/2026/0611/20260611504093.webp",
+      "pubDate": "Thu, 11 Jun 2026 15:49:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/473/imgdb/original/2026/0611/20260611503968.webp",
       "summaries": {
-        "ko": "전북 이어 경기 선관위도 개표 오류…서울, 무번호 투표지 규정 위반 - 한겨레",
-        "en": "전북 이어 경기 선관위도 개표 오류…서울, 무번호 투표지 규정 위반 - 한겨레",
-        "zh": "전북 이어 경기 선관위도 개표 오류…서울, 무번호 투표지 규정 위반 - 한겨레"
+        "ko": "정청래 “단결” 수습 나섰지만…의총서 “당장 사퇴” 분출 - 한겨레",
+        "en": "정청래 “단결” 수습 나섰지만…의총서 “당장 사퇴” 분출 - 한겨레",
+        "zh": "정청래 “단결” 수습 나섰지만…의총서 “당장 사퇴” 분출 - 한겨레"
       }
     },
     {
-      "title": "“부정선거에 당 오염” 사퇴론 분출…장동혁은 ‘버티기’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1263077.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 11 Jun 2026 10:07:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/605/imgdb/original/2026/0611/20260611503225.webp",
-      "summaries": {
-        "ko": "“부정선거에 당 오염” 사퇴론 분출…장동혁은 ‘버티기’ - 한겨레",
-        "en": "“부정선거에 당 오염” 사퇴론 분출…장동혁은 ‘버티기’ - 한겨레",
-        "zh": "“부정선거에 당 오염” 사퇴론 분출…장동혁은 ‘버티기’ - 한겨레"
-      }
-    },
-    {
-      "title": "'개표소 봉쇄시위' 일주일째…체육단체들 \"공권력 투입해달라\"(종합) - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260611054101004",
-      "source": "연합뉴스",
-      "pubDate": "Thu, 11 Jun 2026 02:06:07 GMT",
-      "image": "https://img0.yna.co.kr/photo/yna/YH/2026/06/11/PYH2026061105750001300_P4.jpg",
-      "summaries": {
-        "ko": "'개표소 봉쇄시위' 일주일째…체육단체들 \"공권력 투입해달라\"(종합) - 연합뉴스",
-        "en": "'개표소 봉쇄시위' 일주일째…체육단체들 \"공권력 투입해달라\"(종합) - 연합뉴스",
-        "zh": "'개표소 봉쇄시위' 일주일째…체육단체들 \"공권력 투입해달라\"(종합) - 연합뉴스"
-      }
-    },
-    {
-      "title": "한성숙 총리 후보자, 재산 250억 신고… 집 3채, 예금 100억, 美주식 20억 - 조선일보",
-      "link": "https://www.chosun.com/politics/goverment/2026/06/11/I3UWDN7NUZA7TJHCM34F5FRCIE/",
-      "source": "조선일보",
-      "pubDate": "Thu, 11 Jun 2026 09:54:06 GMT",
-      "image": "https://www.chosun.com/resizer/v2/HS2HP72XTZPGDASNMJ4NY3CVPA.JPG?auth=8705b900ee48a6356b4cf5e0109de2f15ef7283d7aacce0613d415180ad9d62a&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "한성숙 총리 후보자, 재산 250억 신고… 집 3채, 예금 100억, 美주식 20억 - 조선일보",
-        "en": "한성숙 총리 후보자, 재산 250억 신고… 집 3채, 예금 100억, 美주식 20억 - 조선일보",
-        "zh": "한성숙 총리 후보자, 재산 250억 신고… 집 3채, 예금 100억, 美주식 20억 - 조선일보"
-      }
-    },
-    {
-      "title": "이 대통령 지지율 잇따라 9%p대 급락…“선거 부진·여권 갈등 영향” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1263069.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 11 Jun 2026 10:07:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/634/imgdb/original/2026/0611/20260611503116.webp",
-      "summaries": {
-        "ko": "이 대통령 지지율 잇따라 9%p대 급락…“선거 부진·여권 갈등 영향” - 한겨레",
-        "en": "이 대통령 지지율 잇따라 9%p대 급락…“선거 부진·여권 갈등 영향” - 한겨레",
-        "zh": "이 대통령 지지율 잇따라 9%p대 급락…“선거 부진·여권 갈등 영향” - 한겨레"
-      }
-    },
-    {
-      "title": "‘월 15만원’ 농어촌 기본소득 시범지역, 강원 화천 등 7개 더 추가된다 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606111729001",
+      "title": "또 터진 교육감 선거 ‘득표수 오류’···전북 이어 경기도선관위도 ‘대국민 사과’ - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606111958001",
       "source": "경향신문",
-      "pubDate": "Thu, 11 Jun 2026 10:10:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/11/rcv.YNA.20260226.PYH2026022614800005500_P1.jpg",
+      "pubDate": "Thu, 11 Jun 2026 10:58:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/11/news-p.v1.20260611.957c7813b09143cd81374bcb668b946d_P1.png",
       "summaries": {
-        "ko": "‘월 15만원’ 농어촌 기본소득 시범지역, 강원 화천 등 7개 더 추가된다 - 경향신문",
-        "en": "‘월 15만원’ 농어촌 기본소득 시범지역, 강원 화천 등 7개 더 추가된다 - 경향신문",
-        "zh": "‘월 15만원’ 농어촌 기본소득 시범지역, 강원 화천 등 7개 더 추가된다 - 경향신문"
+        "ko": "또 터진 교육감 선거 ‘득표수 오류’···전북 이어 경기도선관위도 ‘대국민 사과’ - 경향신문",
+        "en": "또 터진 교육감 선거 ‘득표수 오류’···전북 이어 경기도선관위도 ‘대국민 사과’ - 경향신문",
+        "zh": "또 터진 교육감 선거 ‘득표수 오류’···전북 이어 경기도선관위도 ‘대국민 사과’ - 경향신문"
       }
     },
     {
-      "title": "[속보] 트럼프 \"이란과 문서 최종조율 단계…아마도 주말 유럽서 서명식\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260612043909oo0",
-      "source": "Breaking News",
-      "pubDate": "Fri, 12 Jun 2026 04:39:09 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260611/AKR20260612043909oo0_01_i.jpg",
+      "title": "李대통령 \"韓-伊，특별전략적동반자 격상…AI·반도체·우주협력 확대\" - 연합인포맥스",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419600",
+      "source": "연합인포맥스",
+      "pubDate": "Thu, 11 Jun 2026 21:03:32 GMT",
+      "image": "https://cdn.news.einfomax.co.kr/news/thumbnail/202606/4419600_321743_42_v150.jpg",
       "summaries": {
-        "ko": "[속보] 트럼프 \"이란과 문서 최종조율 단계…아마도 주말 유럽서 서명식\"",
-        "en": "[속보] 트럼프 \"이란과 문서 최종조율 단계…아마도 주말 유럽서 서명식\"",
-        "zh": "[속보] 트럼프 \"이란과 문서 최종조율 단계…아마도 주말 유럽서 서명식\""
+        "ko": "李대통령 \"韓-伊，특별전략적동반자 격상…AI·반도체·우주협력 확대\" - 연합인포맥스",
+        "en": "李대통령 \"韓-伊，특별전략적동반자 격상…AI·반도체·우주협력 확대\" - 연합인포맥스",
+        "zh": "李대통령 \"韓-伊，특별전략적동반자 격상…AI·반도체·우주협력 확대\" - 연합인포맥스"
+      }
+    },
+    {
+      "title": "국힘 소장파, 장동혁 사퇴 공개 요구…\"지선 참패 책임져야\" - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260611077700001",
+      "source": "연합뉴스",
+      "pubDate": "Thu, 11 Jun 2026 02:27:55 GMT",
+      "image": "https://img0.yna.co.kr/photo/yna/YH/2026/06/11/PYH2026061108470001300_P4.jpg",
+      "summaries": {
+        "ko": "국힘 소장파, 장동혁 사퇴 공개 요구…\"지선 참패 책임져야\" - 연합뉴스",
+        "en": "국힘 소장파, 장동혁 사퇴 공개 요구…\"지선 참패 책임져야\" - 연합뉴스",
+        "zh": "국힘 소장파, 장동혁 사퇴 공개 요구…\"지선 참패 책임져야\" - 연합뉴스"
+      }
+    },
+    {
+      "title": "송파경찰서장에 이어…′투표용지 부족′ 송파구 선관위원장 사임 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202606102349151tC",
+      "source": "연합뉴스TV",
+      "pubDate": "Wed, 10 Jun 2026 14:49:17 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260610/AKR202606102349151tC_01_i.jpg",
+      "summaries": {
+        "ko": "송파경찰서장에 이어…′투표용지 부족′ 송파구 선관위원장 사임 - 연합뉴스TV",
+        "en": "송파경찰서장에 이어…′투표용지 부족′ 송파구 선관위원장 사임 - 연합뉴스TV",
+        "zh": "송파경찰서장에 이어…′투표용지 부족′ 송파구 선관위원장 사임 - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "광주대표도서관 붕괴사고 6개월 만에 주요 피의자 4명 구속 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260612010400054",
+      "source": "연합뉴스",
+      "pubDate": "Thu, 11 Jun 2026 20:19:01 GMT",
+      "image": "https://img9.yna.co.kr/photo/yna/YH/2025/12/11/PYH2025121115670001301_P4.jpg",
+      "summaries": {
+        "ko": "광주대표도서관 붕괴사고 6개월 만에 주요 피의자 4명 구속 - 연합뉴스",
+        "en": "광주대표도서관 붕괴사고 6개월 만에 주요 피의자 4명 구속 - 연합뉴스",
+        "zh": "광주대표도서관 붕괴사고 6개월 만에 주요 피의자 4명 구속 - 연합뉴스"
+      }
+    },
+    {
+      "title": "제주 대체로 맑음…낮 최고 24∼25도 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260612014400056",
+      "source": "연합뉴스",
+      "pubDate": "Thu, 11 Jun 2026 21:16:32 GMT",
+      "image": "https://img1.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911120005600_P4.jpg",
+      "summaries": {
+        "ko": "제주 대체로 맑음…낮 최고 24∼25도 - 연합뉴스",
+        "en": "제주 대체로 맑음…낮 최고 24∼25도 - 연합뉴스",
+        "zh": "제주 대체로 맑음…낮 최고 24∼25도 - 연합뉴스"
       }
     }
   ]
