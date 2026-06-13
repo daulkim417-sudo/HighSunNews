@@ -1,40 +1,16 @@
 {
-  "lastUpdate": "2026-06-13T13:02:19.962667",
+  "lastUpdate": "2026-06-13T15:06:00.926013",
   "items": [
     {
-      "title": "청와대 “미국·이란 휴전 합의로 접근해 가고 있는 정황” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1263372.html",
+      "title": "파키스탄 총리 “미·이란 종전 합의 24시간 내 타결 전망” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1263396.html",
       "source": "한겨레",
-      "pubDate": "Sat, 13 Jun 2026 03:23:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0613/20260613500345.webp",
+      "pubDate": "Sat, 13 Jun 2026 11:55:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/896/587/imgdb/original/2026/0613/20260613500627.webp",
       "summaries": {
-        "ko": "청와대는 미국과 이란이 핵 프로그램 해체, 호르무즈해협 문제 등을 망라한 종전 양해각서에 잠정 합의하며 휴전 합의 쪽으로 접근하고 있는 정황을 느끼고 있다고 밝혔다.",
-        "en": "The Blue House stated that it senses signs of the U.S. and Iran approaching a ceasefire agreement, having provisionally agreed on a memorandum of understanding for ending the war that covers issues such as nuclear program dismantlement and the Strait of Hormuz.",
-        "zh": "青瓦台表示，感受到美国和伊朗正朝着停火协议的方向迈进，双方已就涵盖核计划拆除和霍尔木兹海峡问题等的终战谅解备忘录达成初步协议。"
-      }
-    },
-    {
-      "title": "[현장] 성소수자·종교계·시민 5만명 “다름을 연결로”…서울 도심서 ‘환대의 공간’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1263392.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 13 Jun 2026 10:48:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/600/imgdb/original/2026/0613/20260613500580.webp",
-      "summaries": {
-        "ko": "“다름을 연결로”를 구호로 내건 제27회 서울퀴어문화축제가 수만 명의 참가자와 조계종, 일부 개신교 등 다양한 연대자, 인권위 관계자들의 참여 속에 환대의 분위기 속에서 열렸으며, 반대 시위에도 불구하고 다름을 연결하는 순간들을 만들었다.",
-        "en": "The 27th Seoul Queer Culture Festival, themed 'Connecting Differences,' attracted tens of thousands of participants and diverse allies, including supportive religious groups and Human Rights Commission staff, fostering an atmosphere of welcome despite counter-protests.",
-        "zh": "以“连接差异”为主题的第27届首尔同志文化节吸引了数万名参与者，与曹溪宗、部分新教教会、人权委盟友等多元支持者共同营造了欢迎氛围，尽管有反对示威，但依然促成了差异连接的瞬间。"
-      }
-    },
-    {
-      "title": "이 대통령, '기자 선행매매' 겨냥해 \"패가망신하는 주가조작, 구시대의 비정상\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6829978_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sat, 13 Jun 2026 10:20:32 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/06/13/jh_20260613_9.jpg",
-      "summaries": {
-        "ko": "이재명 대통령은 주식 선행매매를 통한 언론인의 부당 이득 취득 행위를 '구시대의 비정상'으로 규정하며 강하게 경고하고 자수를 촉구했습니다.",
-        "en": "President Lee Jae-myung strongly warned against journalists' illicit gains through stock front-running, labeling it an \"abnormality of an old era\" and urging self-reporting.",
-        "zh": "李在明总统强烈警告记者通过股票先行交易获取不正当利益的行为是“旧时代的异常”，并敦促其自首。"
+        "ko": "파키스탄 셰바즈 샤리프 총리가 미국과 이란 간 종전 합의가 향후 24시간 내 타결될 가능성이 높으며 파키스탄이 전자 서명을 준비 중이라고 밝혔다.",
+        "en": "Pakistan's Prime Minister Shehbaz Sharif announced that a peace agreement between the United States and Iran is likely to be finalized within the next 24 hours, with Pakistan preparing for its electronic signing.",
+        "zh": "巴基斯坦总理夏巴兹·谢里夫表示，美国和伊朗之间的和平协议预计将在未来24小时内达成，巴基斯坦正准备进行电子签署。"
       }
     },
     {
@@ -44,81 +20,105 @@
       "pubDate": "Sat, 13 Jun 2026 07:33:20 GMT",
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260613/AKR20260613112017Yv4_01_i.jpg",
       "summaries": {
-        "ko": "미국과 이란이 종전 MOU에 잠정 합의한 후에도 호르무즈 해협에서 이란 드론을 미국이 격추하며 충돌이 이어졌고, 이란이 해협 통제권 유지와 사실상의 통행료 징수를 주장하며 양측의 갈등이 고조되고 있다.",
-        "en": "Even after the US and Iran provisionally agreed on a ceasefire MOU, clashes continued in the Strait of Hormuz as the US shot down Iranian drones, with Iran escalating tensions by asserting control over the strait and demanding de facto tolls.",
-        "zh": "尽管美伊已就停战备忘录达成初步协议，霍尔木兹海峡的冲突仍在持续，美国击落了伊朗无人机，而伊朗则主张维持海峡控制权并收取实际上的通行费，导致双方紧张局势加剧。"
+        "ko": "美, 이란 드론 격추…종전 직전까지도 호르무즈 공방전 - 연합뉴스TV",
+        "en": "美, 이란 드론 격추…종전 직전까지도 호르무즈 공방전 - 연합뉴스TV",
+        "zh": "美, 이란 드론 격추…종전 직전까지도 호르무즈 공방전 - 연합뉴스TV"
       }
     },
     {
-      "title": "민주당, 국힘 향해 \"투표용지 부족, 정쟁 악용 말라\"‥특검·국정조사 병행 추진 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6829961_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sat, 13 Jun 2026 06:26:03 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/06/13/jh_20260613_7.jpg",
+      "title": "일주일째 잠실개표소 지킨 대학생들 \"참정권 박탈, 말도 안돼 … 국민으로서 당연히 참여\" - 뉴데일리",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/06/12/2026061200242.html",
+      "source": "뉴데일리",
+      "pubDate": "Sat, 13 Jun 2026 03:00:00 GMT",
+      "image": "https://image.newdaily.co.kr/site/data/img/2026/06/12/2026061200242_0.jpg",
       "summaries": {
-        "ko": "민주당, 국힘 향해 \"투표용지 부족, 정쟁 악용 말라\"‥특검·국정조사 병행 추진 - MBC 뉴스",
-        "en": "민주당, 국힘 향해 \"투표용지 부족, 정쟁 악용 말라\"‥특검·국정조사 병행 추진 - MBC 뉴스",
-        "zh": "민주당, 국힘 향해 \"투표용지 부족, 정쟁 악용 말라\"‥특검·국정조사 병행 추진 - MBC 뉴스"
+        "ko": "일주일째 잠실개표소 지킨 대학생들 \"참정권 박탈, 말도 안돼 … 국민으로서 당연히 참여\" - 뉴데일리",
+        "en": "일주일째 잠실개표소 지킨 대학생들 \"참정권 박탈, 말도 안돼 … 국민으로서 당연히 참여\" - 뉴데일리",
+        "zh": "일주일째 잠실개표소 지킨 대학생들 \"참정권 박탈, 말도 안돼 … 국민으로서 당연히 참여\" - 뉴데일리"
       }
     },
     {
-      "title": "“어서 온나 아미!”… BTS 공연에 보랏빛 물든 부산 전역 - 부산일보",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026061109345336741",
-      "source": "부산일보",
-      "pubDate": "Fri, 12 Jun 2026 13:19:41 GMT",
-      "image": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/06/12/2026061222161933670_l.jpg",
+      "title": "李대통령, 민주당에 \"여당 열정, 진영 아닌 국민 전체 향해야\" - 조선일보",
+      "link": "https://www.chosun.com/politics/blue_house/2026/06/13/OALZS342G5BLJEF6O3XNR3R4HM/",
+      "source": "조선일보",
+      "pubDate": "Sat, 13 Jun 2026 11:06:54 GMT",
+      "image": "https://www.chosun.com/resizer/v2/HU6ZV6MEX5JD5DWL2O4HG5XTAI.jpg?auth=3ac8a655225dd708347f0e4bf5ba5c1d00cda25a3fd9ed8a52449962480208bf&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "“어서 온나 아미!”… BTS 공연에 보랏빛 물든 부산 전역 - 부산일보",
-        "en": "“어서 온나 아미!”… BTS 공연에 보랏빛 물든 부산 전역 - 부산일보",
-        "zh": "“어서 온나 아미!”… BTS 공연에 보랏빛 물든 부산 전역 - 부산일보"
+        "ko": "李대통령, 민주당에 \"여당 열정, 진영 아닌 국민 전체 향해야\" - 조선일보",
+        "en": "李대통령, 민주당에 \"여당 열정, 진영 아닌 국민 전체 향해야\" - 조선일보",
+        "zh": "李대통령, 민주당에 \"여당 열정, 진영 아닌 국민 전체 향해야\" - 조선일보"
       }
     },
     {
-      "title": "\"선관위 관리 미흡\"...대전서 재선거 촉구 집회 - YTN",
-      "link": "https://www.ytn.co.kr/_ln/0115_202606131758290187",
-      "source": "YTN",
-      "pubDate": "Sat, 13 Jun 2026 08:58:00 GMT",
-      "image": "https://image.ytn.co.kr/general/jpg/2026/0613/202606131758290187_t.jpg",
-      "summaries": {
-        "ko": "\"선관위 관리 미흡\"...대전서 재선거 촉구 집회 - YTN",
-        "en": "\"선관위 관리 미흡\"...대전서 재선거 촉구 집회 - YTN",
-        "zh": "\"선관위 관리 미흡\"...대전서 재선거 촉구 집회 - YTN"
-      }
-    },
-    {
-      "title": "대전교도소 실탄 100발 사라졌나···법무부, 장부보다 수량 적어 진상 파악 중 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606131636001",
-      "source": "경향신문",
-      "pubDate": "Sat, 13 Jun 2026 07:36:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/13/news-p.v1.20260410.b67b148d9fa04a5da0a971c26ff15e9c_P1.jpg",
-      "summaries": {
-        "ko": "대전교도소 실탄 100발 사라졌나···법무부, 장부보다 수량 적어 진상 파악 중 - 경향신문",
-        "en": "대전교도소 실탄 100발 사라졌나···법무부, 장부보다 수량 적어 진상 파악 중 - 경향신문",
-        "zh": "대전교도소 실탄 100발 사라졌나···법무부, 장부보다 수량 적어 진상 파악 중 - 경향신문"
-      }
-    },
-    {
-      "title": "이 와중에…대구 선관위 직원, 청사서 골프채 들고 ‘스윙 연습’ - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260612/134101954/2",
-      "source": "동아일보",
-      "pubDate": "Fri, 12 Jun 2026 08:33:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/12/134101878.3.jpg",
-      "summaries": {
-        "ko": "이 와중에…대구 선관위 직원, 청사서 골프채 들고 ‘스윙 연습’ - 동아일보",
-        "en": "이 와중에…대구 선관위 직원, 청사서 골프채 들고 ‘스윙 연습’ - 동아일보",
-        "zh": "이 와중에…대구 선관위 직원, 청사서 골프채 들고 ‘스윙 연습’ - 동아일보"
-      }
-    },
-    {
-      "title": "이준석, 윤석열 징역 30년에 “이 대통령도 법정서 끝을 봐야” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1263378.html",
+      "title": "[현장] 성소수자·종교계·시민 5만명 “다름을 연결로”…서울 도심서 ‘환대의 공간’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1263392.html",
       "source": "한겨레",
-      "pubDate": "Sat, 13 Jun 2026 05:22:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/737/imgdb/original/2026/0613/20260613500413.webp",
+      "pubDate": "Sat, 13 Jun 2026 10:48:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/600/imgdb/original/2026/0613/20260613500580.webp",
       "summaries": {
-        "ko": "이준석, 윤석열 징역 30년에 “이 대통령도 법정서 끝을 봐야” - 한겨레",
-        "en": "이준석, 윤석열 징역 30년에 “이 대통령도 법정서 끝을 봐야” - 한겨레",
-        "zh": "이준석, 윤석열 징역 30년에 “이 대통령도 법정서 끝을 봐야” - 한겨레"
+        "ko": "[현장] 성소수자·종교계·시민 5만명 “다름을 연결로”…서울 도심서 ‘환대의 공간’ - 한겨레",
+        "en": "[현장] 성소수자·종교계·시민 5만명 “다름을 연결로”…서울 도심서 ‘환대의 공간’ - 한겨레",
+        "zh": "[현장] 성소수자·종교계·시민 5만명 “다름을 연결로”…서울 도심서 ‘환대의 공간’ - 한겨레"
+      }
+    },
+    {
+      "title": "일요일 전국 곳곳 소나기…수도권 시간당 20㎜ 강한 비 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1263395.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 13 Jun 2026 11:38:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/891/527/imgdb/original/2026/0613/20260613500612.webp",
+      "summaries": {
+        "ko": "일요일 전국 곳곳 소나기…수도권 시간당 20㎜ 강한 비 - 한겨레",
+        "en": "일요일 전국 곳곳 소나기…수도권 시간당 20㎜ 강한 비 - 한겨레",
+        "zh": "일요일 전국 곳곳 소나기…수도권 시간당 20㎜ 강한 비 - 한겨레"
+      }
+    },
+    {
+      "title": "이 와중에도 여유? 대구 선관위 직원, 청사서 골프 연습 - 조선일보",
+      "link": "https://www.chosun.com/national/incident/2026/06/13/7KLXXSK565CATGWDWOK2GIMA64/",
+      "source": "조선일보",
+      "pubDate": "Fri, 12 Jun 2026 15:49:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/SLAQUWFB6FDAHCNPQBTMIQRBZ4.gif?auth=5c211ce9e7e5e8d82d44d8d4f835b4ce9de0c02f0ffafce0daaa7694d1364466&width=474&height=248&focal=226,208",
+      "summaries": {
+        "ko": "이 와중에도 여유? 대구 선관위 직원, 청사서 골프 연습 - 조선일보",
+        "en": "이 와중에도 여유? 대구 선관위 직원, 청사서 골프 연습 - 조선일보",
+        "zh": "이 와중에도 여유? 대구 선관위 직원, 청사서 골프 연습 - 조선일보"
+      }
+    },
+    {
+      "title": "‘소쿠리 투표’ 해놓고 83억원 성과급 챙겼다…‘돈 잔치’ 선관위 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260613/134105320/2",
+      "source": "동아일보",
+      "pubDate": "Sat, 13 Jun 2026 08:15:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/13/134105323.3.jpg",
+      "summaries": {
+        "ko": "‘소쿠리 투표’ 해놓고 83억원 성과급 챙겼다…‘돈 잔치’ 선관위 - 동아일보",
+        "en": "‘소쿠리 투표’ 해놓고 83억원 성과급 챙겼다…‘돈 잔치’ 선관위 - 동아일보",
+        "zh": "‘소쿠리 투표’ 해놓고 83억원 성과급 챙겼다…‘돈 잔치’ 선관위 - 동아일보"
+      }
+    },
+    {
+      "title": "장동혁, 김민석·정청래에 '3자 회동' 제안‥\"재선거·특검 논의하자\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6829960_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sat, 13 Jun 2026 06:25:00 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/06/13/jh_20260613_2.jpg",
+      "summaries": {
+        "ko": "장동혁, 김민석·정청래에 '3자 회동' 제안‥\"재선거·특검 논의하자\" - MBC 뉴스",
+        "en": "장동혁, 김민석·정청래에 '3자 회동' 제안‥\"재선거·특검 논의하자\" - MBC 뉴스",
+        "zh": "장동혁, 김민석·정청래에 '3자 회동' 제안‥\"재선거·특검 논의하자\" - MBC 뉴스"
+      }
+    },
+    {
+      "title": "일본 후쿠시마 오염수 방류 재개…\"순간 정전 펌프 유량 저하\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260613235450ghx",
+      "source": "Breaking News",
+      "pubDate": "Sat, 13 Jun 2026 23:54:52 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260613/AKR20260613235450ghx_01_i.jpg",
+      "summaries": {
+        "ko": "일본 후쿠시마 오염수 방류 재개…\"순간 정전 펌프 유량 저하\"",
+        "en": "일본 후쿠시마 오염수 방류 재개…\"순간 정전 펌프 유량 저하\"",
+        "zh": "일본 후쿠시마 오염수 방류 재개…\"순간 정전 펌프 유량 저하\""
       }
     }
   ]
