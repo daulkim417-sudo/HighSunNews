@@ -1,16 +1,88 @@
 {
-  "lastUpdate": "2026-06-17T07:25:58.507328",
+  "lastUpdate": "2026-06-17T12:00:30.341150",
   "items": [
     {
-      "title": "[속보] 특검, 오세훈에 1년6개월 구형…‘명태균 여론조사비 대납’ 의혹 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1263973.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 17 Jun 2026 06:35:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/844/506/imgdb/child/2026/0617/53_17816780158858_20260617502303.webp",
+      "title": "국민의힘, 서울 등 7개 지역 소청…장동혁 거취 두고 “총선 못 치러” vs “대안과미래 해체하라” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606171843001",
+      "source": "경향신문",
+      "pubDate": "Wed, 17 Jun 2026 09:43:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/17/news-p.v1.20260617.3522674f6ed341a49adca48cdcb2d90d_P1.jpeg",
       "summaries": {
-        "ko": "특검이 오세훈 서울시장에게 '명태균 여론조사비 대납' 의혹과 관련하여 징역 1년 6개월을 구형했다.",
-        "en": "The Special Prosecutor's Office has sought a sentence of 1 year and 6 months in prison for Seoul Mayor Oh Se-hoon, who is accused of having a third party pay for opinion poll fees received from Myung Tae-kyun.",
-        "zh": "特别检察组就首尔市长吴世勋涉嫌由他人代付明泰均民意调查费用的指控，求刑1年6个月有期徒刑。"
+        "ko": "국민의힘은 전면 재선거 부담 등으로 장동혁 대표의 16개 전 지역 소청 주장 대신 7개 지역에 한정해 선거 소청을 제기하기로 결정했으며, 이 과정에서 장 대표 거취를 두고 당내 갈등이 심화되었다.",
+        "en": "The People Power Party decided to file election appeals for only 7 regions, citing concerns over a full re-election, rejecting leader Jang Dong-hyuk's proposal for all 16 regions, which intensified internal conflict over Jang's leadership.",
+        "zh": "国民力量党决定仅对7个存在投票问题的地区提起选举申诉，而非党首张东赫提议的全部16个地区，此举是出于对全面重选的担忧，并导致党内围绕张东赫去留的内部冲突加剧。"
+      }
+    },
+    {
+      "title": "李대통령, G7 둘째날 공급망·에너지 논의...브라질 룰라와 대화도 - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/06/17/TBMUJRL64ZEA5PRBP33YP3CHCQ/",
+      "source": "조선일보",
+      "pubDate": "Wed, 17 Jun 2026 09:11:57 GMT",
+      "image": "https://www.chosun.com/resizer/v2/V2ENQGTADNCKBBEY3JX4K5GJXI.jpg?auth=d70364640c156ba38d64eeecfbec6143fb1a80ca06637a2bb3936797f605762d&width=1100&height=577&focal=554,269",
+      "summaries": {
+        "ko": "李대통령, G7 둘째날 공급망·에너지 논의...브라질 룰라와 대화도 - 조선일보",
+        "en": "李대통령, G7 둘째날 공급망·에너지 논의...브라질 룰라와 대화도 - 조선일보",
+        "zh": "李대통령, G7 둘째날 공급망·에너지 논의...브라질 룰라와 대화도 - 조선일보"
+      }
+    },
+    {
+      "title": "대형 원전 영덕에, 국내 첫 SMR은 기장에 짓는다 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606171959001",
+      "source": "경향신문",
+      "pubDate": "Wed, 17 Jun 2026 10:59:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/17/news-p.v1.20260617.11ce06a7e972417fb4802ec6b4c9c5b0_P1.jpg",
+      "summaries": {
+        "ko": "한국수력원자력은 신규 대형 원전 부지로 경북 영덕군을, 국내 첫 SMR 부지로는 부산 기장군을 선정했으며, 이는 부지 적정성과 주민 수용성 평가에서 높은 점수를 받았기 때문이다.",
+        "en": "Korea Hydro & Nuclear Power has selected Yeongdeok-gun as the site for a new large nuclear power plant and Gijang-gun for the nation's first SMR, attributing the decision to their higher scores in site suitability and public acceptance evaluations.",
+        "zh": "韩国水电与核电公司已选定庆北盈德郡为新建大型核电站厂址，釜山机张郡为韩国首个小型模块化反应堆(SMR)厂址，主要原因是它们在场地适宜性和居民接受度评估中得分较高。"
+      }
+    },
+    {
+      "title": "미국이 부순 이란, 재건은 동맹에 떠넘기나…‘453조원 기금’ 논란 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/america/1263975.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 17 Jun 2026 06:29:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0617/53_17816775265214_20260617502327.webp",
+      "summaries": {
+        "ko": "미국이 주도한 이란과의 종전 합의와 관련해 3천억 달러 규모의 이란 재건기금 조성을 두고 미국이 동맹국에 비용을 전가한다는 비판과 함께 미국 내에서도 이란에 막대한 자본 유입을 허용하는 것에 대한 논란이 커지고 있다.",
+        "en": "Amid a US-led peace agreement with Iran, a controversial $300 billion Iran reconstruction fund is sparking criticism that the US is shifting reconstruction costs to its allies, while also facing growing domestic backlash for allowing massive capital inflows to Iran.",
+        "zh": "随着美伊推进和平协议，一项备受争议的3000亿美元伊朗重建基金引发批评，指责美国将重建成本转嫁给盟友，同时美国国内也因允许大量资金流入伊朗而面临日益增多的反对。"
+      }
+    },
+    {
+      "title": "정청래 “민주당은 모두 친명…1인 1표제로 계파 소멸” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1263924.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 17 Jun 2026 01:32:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/691/imgdb/original/2026/0617/20260617500923.webp",
+      "summaries": {
+        "ko": "정청래 “민주당은 모두 친명…1인 1표제로 계파 소멸” - 한겨레",
+        "en": "정청래 “민주당은 모두 친명…1인 1표제로 계파 소멸” - 한겨레",
+        "zh": "정청래 “민주당은 모두 친명…1인 1표제로 계파 소멸” - 한겨레"
+      }
+    },
+    {
+      "title": "[속보]‘여론조사비 대납’ 오세훈 서울시장에 징역 1년6개월 구형···오 “검사들에 떳떳하냐 묻고싶다” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606171512001",
+      "source": "경향신문",
+      "pubDate": "Wed, 17 Jun 2026 06:12:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/17/rcv.YNA.20260617.PYH2026061703800001300_P1.jpg",
+      "summaries": {
+        "ko": "[속보]‘여론조사비 대납’ 오세훈 서울시장에 징역 1년6개월 구형···오 “검사들에 떳떳하냐 묻고싶다” - 경향신문",
+        "en": "[속보]‘여론조사비 대납’ 오세훈 서울시장에 징역 1년6개월 구형···오 “검사들에 떳떳하냐 묻고싶다” - 경향신문",
+        "zh": "[속보]‘여론조사비 대납’ 오세훈 서울시장에 징역 1년6개월 구형···오 “검사들에 떳떳하냐 묻고싶다” - 경향신문"
+      }
+    },
+    {
+      "title": "안민석 ‘특전사 출신 교권보호국’ 구상…“얄팍한 교육관 경악” 비판 거세 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/schooling/1263941.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 17 Jun 2026 08:06:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/581/348/imgdb/child/2026/0617/53_17816643593616_20260617501391.webp",
+      "summaries": {
+        "ko": "안민석 ‘특전사 출신 교권보호국’ 구상…“얄팍한 교육관 경악” 비판 거세 - 한겨레",
+        "en": "안민석 ‘특전사 출신 교권보호국’ 구상…“얄팍한 교육관 경악” 비판 거세 - 한겨레",
+        "zh": "안민석 ‘특전사 출신 교권보호국’ 구상…“얄팍한 교육관 경악” 비판 거세 - 한겨레"
       }
     },
     {
@@ -20,129 +92,57 @@
       "pubDate": "Wed, 17 Jun 2026 02:11:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/06/17/rcv.YNA.20260617.PYH2026061706080001301_P1.jpg",
       "summaries": {
-        "ko": "민주당 의원들이 잠실 개표소 봉쇄 시위 현장을 방문하여 대한체육회 관계자들의 통행 보장을 요청하고 국정조사 추진 합의를 강조했으나, 부정선거를 주장하는 시위대의 반발로 발길을 돌렸다.",
-        "en": "Democratic Party lawmakers visited the Jamsil ballot counting station blockade protest site to request free passage for Korean Sport & Olympic Committee officials and emphasize the agreement to conduct a parliamentary investigation, but they turned back due to opposition from protesters claiming election fraud.",
-        "zh": "民主党议员访问了蚕室计票站封锁示威现场，请求保障大韩体育会相关人员的通行并强调已就推动国政调查达成一致，但因主张选举舞弊的示威者反对而返回。"
+        "ko": "[속보]민주당 의원들, 잠실 시위 현장 방문…“부정선거” 시위대 반발에 돌아가 - 경향신문",
+        "en": "[속보]민주당 의원들, 잠실 시위 현장 방문…“부정선거” 시위대 반발에 돌아가 - 경향신문",
+        "zh": "[속보]민주당 의원들, 잠실 시위 현장 방문…“부정선거” 시위대 반발에 돌아가 - 경향신문"
       }
     },
     {
-      "title": "강득구 \"'당원 영원, 당권 유한\" 정청래 직격‥친청 지도부는 옹호 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6830839_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Wed, 17 Jun 2026 04:59:12 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/06/17/jh_20260617_1.jpg",
-      "summaries": {
-        "ko": "더불어민주당 강득구 최고위원이 지방선거 평가 방식에 대한 비판과 함께 \"당원은 영원하지만, 당권은 유한하다\"며 정청래 대표를 직격하자, 친정청래계 최고위원들은 당원 주권과 선거 성과를 옹호하며 맞섰다.",
-        "en": "In the Democratic Party of Korea, Supreme Council member Kang Deuk-gu criticized the local election evaluation method and directly targeted party leader Jeong Cheong-rae, stating \"party members are eternal, but party power is finite,\" while pro-Jeong Cheong-rae supreme council members defended party member sovereignty and the election's outcome.",
-        "zh": "韩国共同民主党最高委员姜得求就地方选举评价方式提出批评，并直指党代表郑清来，称“党员是永恒的，但党权是有限的”，而亲郑清来派系最高委员则捍卫党员主权和选举成果。"
-      }
-    },
-    {
-      "title": "안민석 ‘특전사 출신 교권보호국’ 구상…“얄팍한 교육관 경악” 비판 거세 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/schooling/1263941.html",
+      "title": "잠실 대기표 받은 12명 투표 안 해…선관위 쪽 “참정권 침해 맞다” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1264002.html",
       "source": "한겨레",
-      "pubDate": "Wed, 17 Jun 2026 03:22:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/581/348/imgdb/child/2026/0617/53_17816643593616_20260617501391.webp",
+      "pubDate": "Wed, 17 Jun 2026 10:27:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/631/imgdb/original/2026/0617/20260617502900.webp",
       "summaries": {
-        "ko": "안민석 경기도교육감 당선인이 특전사 출신 교사를 학교에 투입하는 ‘교권보호국’ 구상을 밝히자, 교육계와 시민단체가 이를 군대식 위계와 무력에 의존하는 '파시즘적' 발상이라며 강하게 비판하고 있다.",
-        "en": "An Min-seok's proposal to establish a 'Teacher Rights Protection Bureau' by deploying teachers with special forces backgrounds to schools is drawing strong criticism from the education sector and civic groups, who denounce it as a 'fascist' idea that relies on military hierarchy and force.",
-        "zh": "安敏硕京畿道教育监当选人提议设立“教师权利保护局”，部署特种部队出身的教师以维持学校秩序，此构想遭到教育界和市民团体的强烈批评，他们认为这是一种依赖军队式等级和武力的“法西斯主义”思想。"
+        "ko": "잠실 대기표 받은 12명 투표 안 해…선관위 쪽 “참정권 침해 맞다” - 한겨레",
+        "en": "잠실 대기표 받은 12명 투표 안 해…선관위 쪽 “참정권 침해 맞다” - 한겨레",
+        "zh": "잠실 대기표 받은 12명 투표 안 해…선관위 쪽 “참정권 침해 맞다” - 한겨레"
       }
     },
     {
-      "title": "여야, 25~26일 한성숙 국무총리 후보자 인사청문회 개최 합의 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8588588",
-      "source": "KBS 뉴스",
-      "pubDate": "Wed, 17 Jun 2026 06:48:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/06/17/20260617_16YIgL.png",
-      "summaries": {
-        "ko": "여야는 한성숙 국무총리 후보자에 대한 인사청문회를 오는 25일과 26일 개최하기로 합의했습니다.",
-        "en": "The ruling and opposition parties have agreed to hold a confirmation hearing for Prime Minister nominee Han Seong-sook on the 25th and 26th.",
-        "zh": "执政党和在野党已同意于25日和26日举行总理提名人韩成淑的听证会。"
-      }
-    },
-    {
-      "title": "‘핵 보유’ 이란, ‘판 깨기’ 이스라엘…양해각서로 해결된 문제가 없다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1263915.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 17 Jun 2026 05:31:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0617/20260617500493.webp",
-      "summaries": {
-        "ko": "‘핵 보유’ 이란, ‘판 깨기’ 이스라엘…양해각서로 해결된 문제가 없다 - 한겨레",
-        "en": "‘핵 보유’ 이란, ‘판 깨기’ 이스라엘…양해각서로 해결된 문제가 없다 - 한겨레",
-        "zh": "‘핵 보유’ 이란, ‘판 깨기’ 이스라엘…양해각서로 해결된 문제가 없다 - 한겨레"
-      }
-    },
-    {
-      "title": "[2026 경향포럼]이재명 대통령 “재편되는 국제질서 진단하고 대응하는 것은 생존 위한 필수 과제” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606171103011",
-      "source": "경향신문",
-      "pubDate": "Wed, 17 Jun 2026 02:03:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/17/news-p.v1.20260617.cdec4fe92839465d8c3666b6889db5ca_P1.jpeg",
-      "summaries": {
-        "ko": "[2026 경향포럼]이재명 대통령 “재편되는 국제질서 진단하고 대응하는 것은 생존 위한 필수 과제” - 경향신문",
-        "en": "[2026 경향포럼]이재명 대통령 “재편되는 국제질서 진단하고 대응하는 것은 생존 위한 필수 과제” - 경향신문",
-        "zh": "[2026 경향포럼]이재명 대통령 “재편되는 국제질서 진단하고 대응하는 것은 생존 위한 필수 과제” - 경향신문"
-      }
-    },
-    {
-      "title": "조현욱 \"대기표 받은 12명 결국 투표 안 해‥참정권 침해\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6830842_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Wed, 17 Jun 2026 05:02:25 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/06/17/jh_20260617_2.jpg",
-      "summaries": {
-        "ko": "조현욱 \"대기표 받은 12명 결국 투표 안 해‥참정권 침해\" - MBC 뉴스",
-        "en": "조현욱 \"대기표 받은 12명 결국 투표 안 해‥참정권 침해\" - MBC 뉴스",
-        "zh": "조현욱 \"대기표 받은 12명 결국 투표 안 해‥참정권 침해\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "국힘 5선 윤상현, 국회 ‘선관위 국조특위’ 위원장 내정 - 한겨레",
+      "title": "‘선관위 국조특위’ 위원장에 국힘 윤상현…이준석도 참여 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1263963.html",
       "source": "한겨레",
-      "pubDate": "Wed, 17 Jun 2026 05:58:00 GMT",
+      "pubDate": "Wed, 17 Jun 2026 08:02:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/852/511/imgdb/child/2026/0617/53_17816758620621_20260617502040.webp",
       "summaries": {
-        "ko": "국힘 5선 윤상현, 국회 ‘선관위 국조특위’ 위원장 내정 - 한겨레",
-        "en": "국힘 5선 윤상현, 국회 ‘선관위 국조특위’ 위원장 내정 - 한겨레",
-        "zh": "국힘 5선 윤상현, 국회 ‘선관위 국조특위’ 위원장 내정 - 한겨레"
+        "ko": "‘선관위 국조특위’ 위원장에 국힘 윤상현…이준석도 참여 - 한겨레",
+        "en": "‘선관위 국조특위’ 위원장에 국힘 윤상현…이준석도 참여 - 한겨레",
+        "zh": "‘선관위 국조특위’ 위원장에 국힘 윤상현…이준석도 참여 - 한겨레"
       }
     },
     {
-      "title": "민통선 평균 2㎞ ’북상’…’여의도 150배’ 보호구역 해제 추진 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202606171041434pb",
-      "source": "연합뉴스TV",
-      "pubDate": "Wed, 17 Jun 2026 02:36:29 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260617/AKR202606171041434pb_01_i.jpg",
-      "summaries": {
-        "ko": "민통선 평균 2㎞ ’북상’…’여의도 150배’ 보호구역 해제 추진 - 연합뉴스TV",
-        "en": "민통선 평균 2㎞ ’북상’…’여의도 150배’ 보호구역 해제 추진 - 연합뉴스TV",
-        "zh": "민통선 평균 2㎞ ’북상’…’여의도 150배’ 보호구역 해제 추진 - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "[단독] 치안감 연구위원직 또 제동…\"좌천성 보직 우려\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260617160108tyu",
+      "title": "[속보] 靑 \"트럼프, 한반도 문제 진전 위해 역할 하겠단 의지 표명\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260617203556viy",
       "source": "Breaking News",
-      "pubDate": "Wed, 17 Jun 2026 16:01:11 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260617/MYH20260617160108tyu.jpg",
+      "pubDate": "Wed, 17 Jun 2026 20:35:58 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260617/AKR20260617203556viy_01_i.jpg",
       "summaries": {
-        "ko": "[단독] 치안감 연구위원직 또 제동…\"좌천성 보직 우려\"",
-        "en": "[단독] 치안감 연구위원직 또 제동…\"좌천성 보직 우려\"",
-        "zh": "[단독] 치안감 연구위원직 또 제동…\"좌천성 보직 우려\""
+        "ko": "[속보] 靑 \"트럼프, 한반도 문제 진전 위해 역할 하겠단 의지 표명\"",
+        "en": "[속보] 靑 \"트럼프, 한반도 문제 진전 위해 역할 하겠단 의지 표명\"",
+        "zh": "[속보] 靑 \"트럼프, 한반도 문제 진전 위해 역할 하겠단 의지 표명\""
       }
     },
     {
-      "title": "[속보] 靑 \"내일 대통령 귀국 행사에 정청래·김민석 참석\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260617155554CIt",
+      "title": "[속보] 靑 \"한미정상, 조선 분야 등 호혜적 협력 확대 방안 논의\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260617203118JQt",
       "source": "Breaking News",
-      "pubDate": "Wed, 17 Jun 2026 15:55:55 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260617/MYH20260617155554CIt.jpg",
+      "pubDate": "Wed, 17 Jun 2026 20:31:18 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260617/AKR20260617203118JQt_01_i.jpg",
       "summaries": {
-        "ko": "[속보] 靑 \"내일 대통령 귀국 행사에 정청래·김민석 참석\"",
-        "en": "[속보] 靑 \"내일 대통령 귀국 행사에 정청래·김민석 참석\"",
-        "zh": "[속보] 靑 \"내일 대통령 귀국 행사에 정청래·김민석 참석\""
+        "ko": "[속보] 靑 \"한미정상, 조선 분야 등 호혜적 협력 확대 방안 논의\"",
+        "en": "[속보] 靑 \"한미정상, 조선 분야 등 호혜적 협력 확대 방안 논의\"",
+        "zh": "[속보] 靑 \"한미정상, 조선 분야 등 호혜적 협력 확대 방안 논의\""
       }
     }
   ]
