@@ -1,28 +1,64 @@
 {
-  "lastUpdate": "2026-06-19T11:47:20.946211",
+  "lastUpdate": "2026-06-19T14:30:21.821308",
   "items": [
     {
-      "title": "노태악, 선관위원장 수당만 1억7천만원…출근 관계 없이 받아 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1264412.html",
+      "title": "[단독] 전국 투표소 1398곳, 본투표 용지 50%도 안 갖고 있었다 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1264431.html",
       "source": "한겨레",
-      "pubDate": "Fri, 19 Jun 2026 09:56:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/860/516/imgdb/original/2026/0619/20260619502204.webp",
+      "pubDate": "Fri, 19 Jun 2026 13:16:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0619/20260619502414.webp",
       "summaries": {
-        "ko": "노태악 전 중앙선관위원장이 4년간 비상근으로 일하며 출근과 무관하게 1억7910만원의 수당을 받았고, 이 중 법적 근거 없이 지급되거나 셀프 인상된 부분이 확인되자 진상규명위가 수사 의뢰를 권고했다.",
-        "en": "Former National Election Commission Chairman Noh Tae-ak received 179.1 million won in allowances over four years while working part-time, often regardless of attendance, including payments made without legal basis or self-increased, leading the fact-finding committee to recommend a criminal investigation.",
-        "zh": "前中央选举管理委员会委员长卢泰岳在四年兼职期间，不顾实际出勤情况，收取了1.791亿韩元的津贴，其中包含缺乏法律依据或自行提高的款项，导致真相查明委员会建议对其进行调查。"
+        "ko": "6·3 지방선거 당시 전국 1398곳 투표소가 선거인 수의 50% 미만 투표용지를 배부받았고, 이에 투표용지 부족사태 진상규명위원회는 참정권 보장을 위해 투표용지 인쇄 비율을 70% 이상으로 상향할 필요가 있다고 밝혔다.",
+        "en": "During the 6.3 local election, 1,398 polling stations nationwide received less than 50% of the required ballot papers, prompting the ballot paper shortage investigation committee to state the need to increase the ballot paper printing ratio to over 70% to guarantee voter rights.",
+        "zh": "在6月3日地方选举中，全国1398个投票站收到的选票数量不足选民人数的50%，为此，选票不足事态真相查明委员会表示，有必要将选票印刷比例提高到70%以上，以保障选民的投票权。"
       }
     },
     {
-      "title": "이스라엘, ‘종전 본협상’ 직전 레바논 공습…미·이란 대표단 스위스행 유보 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1264397.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 19 Jun 2026 08:10:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0619/20260619502093.webp",
+      "title": "[사설] 이 대통령, 당·청 갈등 조기 매듭짓고 국정 성과로 지지받길 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606191830001",
+      "source": "경향신문",
+      "pubDate": "Fri, 19 Jun 2026 09:30:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/19/rcv.YNA.20260619.PYH2026061916560001301_P1.jpg",
       "summaries": {
-        "ko": "이스라엘의 레바논 남부 공습 지속으로 미국과 이란의 종전 본협상이 시작도 전에 연기되었다.",
-        "en": "The main peace talks between the U.S. and Iran have been postponed even before they began, due to Israel's continued airstrikes in southern Lebanon.",
-        "zh": "由于以色列持续空袭黎巴嫩南部，美国和伊朗原定举行的停战主谈在开始前就被推迟。"
+        "ko": "이재명 대통령은 당·청 갈등을 조속히 매듭짓고 집권 2년차 국정 운영에 집중해 성과로 국민 지지를 얻어야 한다.",
+        "en": "President Lee Jae-myung must swiftly resolve the party-government conflict and focus on state affairs in his second year in office to earn public support through tangible achievements.",
+        "zh": "李在明总统应迅速化解党政矛盾，集中精力于执政第二年的国家事务，并通过政绩赢得民众支持。"
+      }
+    },
+    {
+      "title": "李 대통령, 트럼프 '美 군함 10척 건조' 요청에 \"가능\" … 선관위 '원포인트 개헌' 시사 - 뉴데일리",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/06/19/2026061900214.html",
+      "source": "뉴데일리",
+      "pubDate": "Fri, 19 Jun 2026 07:34:03 GMT",
+      "image": "https://image.newdaily.co.kr/site/data/img/2026/06/19/2026061900214_0.jpg",
+      "summaries": {
+        "ko": "이재명 대통령은 유럽 순방 중 도널드 트럼프 전 미국 대통령의 미군 군함 10척 신속 건조 요청에 \"가능하다\"고 답했으며, 북핵 문제에 단계적 접근을 제안하고 한반도 방위는 스스로 책임지겠다고 밝혔다.",
+        "en": "President Lee Jae-myung announced that during his European tour, he agreed to former U.S. President Donald Trump's request for South Korea to swiftly build 10 U.S. warships, proposed a phased approach to the North Korean nuclear issue, and affirmed South Korea's responsibility for its own defense.",
+        "zh": "李在明总统在欧洲访问期间透露，他已同意美国前总统唐纳德·特朗普关于韩国迅速建造10艘美国军舰的请求，并就朝鲜核问题提出了分阶段解决方案，同时强调韩国将自行承担半岛防御责任。"
+      }
+    },
+    {
+      "title": "[단독]노태악, 선관위서 수당 4년간 1.8억 받아…3배 ‘셀프 증액’도 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260619/134144567/1",
+      "source": "동아일보",
+      "pubDate": "Fri, 19 Jun 2026 07:21:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134144622.1.jpg",
+      "summaries": {
+        "ko": "[단독]노태악, 선관위서 수당 4년간 1.8억 받아…3배 ‘셀프 증액’도 - 동아일보",
+        "en": "[단독]노태악, 선관위서 수당 4년간 1.8억 받아…3배 ‘셀프 증액’도 - 동아일보",
+        "zh": "[단독]노태악, 선관위서 수당 4년간 1.8억 받아…3배 ‘셀프 증액’도 - 동아일보"
+      }
+    },
+    {
+      "title": "“이란도 미사일 가질 수 있어야” 트럼프 말에 걸프 국가 ‘발칵’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1264421.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 19 Jun 2026 13:31:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/822/590/imgdb/original/2026/0619/20260619502285.webp",
+      "summaries": {
+        "ko": "미국-이란 종전 양해각서에 이란 미사일·드론 제한이 빠지고 트럼프 대통령이 이란의 미사일 보유를 옹호하는 발언을 하자, 걸프 국가들이 자국 안보에 대한 우려와 미국의 안보 보장 신뢰에 의구심을 표하며 반발하고 있다.",
+        "en": "Gulf states are expressing alarm and questioning the reliability of U.S. security guarantees after the U.S.-Iran armistice MOU omitted restrictions on Iranian missiles and drones, and President Trump advocated for Iran's right to possess missiles.",
+        "zh": "在美国-伊朗停战谅解备忘录未限制伊朗导弹和无人机，且特朗普总统主张伊朗拥有导弹权利后，海湾国家对自身安全保障以及美国安全承诺的可靠性表示担忧和质疑。"
       }
     },
     {
@@ -38,42 +74,6 @@
       }
     },
     {
-      "title": "종전 합의 후 이스라엘·헤즈볼라 충돌‥이스라엘군 4명 사망 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/world/article/6831502_36925.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Fri, 19 Jun 2026 08:51:28 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/06/19/ggm_20260619_31.jpg",
-      "summaries": {
-        "ko": "미국과 이란 간 종전 합의 후 이스라엘과 헤즈볼라의 충돌이 격화하여 이스라엘군 4명이 사망하고 레바논에서 최소 16명이 사망했으며, 이는 종전 합의 후속 협상에 악영향을 끼칠 것으로 우려된다.",
-        "en": "Following the US-Iran \"end-of-war agreement,\" renewed clashes between Israel and Hezbollah have resulted in the deaths of four Israeli soldiers and at least 16 in Lebanon, raising concerns about adverse effects on follow-up negotiations for the agreement.",
-        "zh": "美伊“终战协议”签署后，以色列与真主党冲突升级，造成4名以色列士兵死亡、黎巴嫩至少16人死亡，引发对后续谈判产生不利影响的担忧。"
-      }
-    },
-    {
-      "title": "\"선거관리 해체 수준 개혁\"…李대통령의 '선관위 개헌' 구상은 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260619159500001",
-      "source": "연합뉴스",
-      "pubDate": "Fri, 19 Jun 2026 10:47:45 GMT",
-      "image": "https://img4.yna.co.kr/photo/yna/YH/2026/06/19/PYH2026061919720001300_P4.jpg",
-      "summaries": {
-        "ko": "이재명 대통령은 현 선거관리위원회 문제를 해결하기 위해 감사원의 직무감찰 허용과 위원 임명 방식 개혁을 포함한 '해체 수준'의 근본적인 개혁, 나아가 '원포인트 개헌'까지 제안했다.",
-        "en": "President Lee Jae-myung proposed a \"dismantling-level reform\" for the National Election Commission, including a \"one-point constitutional amendment\" to allow external oversight by the Audit Board and restructure the appointment of commissioners and chairman, to address current issues.",
-        "zh": "韩国总统李在明提议对中央选举管理委员会进行“解体级别”的根本性改革，包括“单一重点修宪”，以允许监查院进行外部监督并改革委员及委员长的任命方式，以解决当前问题。"
-      }
-    },
-    {
-      "title": "[사설] 이 대통령, 당·청 갈등 조기 매듭짓고 국정 성과로 지지받길 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606191830001",
-      "source": "경향신문",
-      "pubDate": "Fri, 19 Jun 2026 09:30:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/19/rcv.YNA.20260619.PYH2026061916560001301_P1.jpg",
-      "summaries": {
-        "ko": "이재명 대통령은 당·청 갈등을 조속히 해결하고 국정 운영에 집중해 성과로 국민 지지를 회복해야 한다.",
-        "en": "President Lee Jae-myung must swiftly resolve the party-government conflict and focus on state affairs to regain public support through tangible achievements.",
-        "zh": "李在明总统必须迅速解决党政矛盾，集中精力于国政运营，通过取得成果来恢复国民支持。"
-      }
-    },
-    {
       "title": "요양병원서 잘못 버린 사람 다리… 경찰, 절단 수술.의료 폐기물 처리 위반 수사 - 조선일보",
       "link": "https://www.chosun.com/national/incident/2026/06/19/3BSBKZVBCRFLBK66DSBFQOJCDM/",
       "source": "조선일보",
@@ -86,39 +86,51 @@
       }
     },
     {
-      "title": "선관위 진상규명위, 노태악 등 12명 수사 의뢰 권고 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1264336.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 19 Jun 2026 05:17:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/616/imgdb/original/2026/0619/20260619501054.webp",
+      "title": "정청래, 李와 다른 목소리…“보완수사권 전면 폐지는 너무 당연” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260619/134146480/1",
+      "source": "동아일보",
+      "pubDate": "Fri, 19 Jun 2026 10:39:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134147034.1.jpg",
       "summaries": {
-        "ko": "중앙선관위 투표용지 부족 사태 진상규명위가 졸속 결정과 투표용지 축소 인쇄로 인한 사태의 책임을 물어 노태악 전 중앙선관위원장 등 12명에 대한 수사 의뢰와 관련 실무자 6명에 대한 징계를 중앙선관위에 권고했다.",
-        "en": "The Central Election Commission Ballot Paper Shortage Incident Fact-Finding Committee recommended to the CEC that 12 individuals, including former Chairman Noh Tae-ak, be investigated and 6 working-level officials be disciplined, holding them accountable for the hastily decided ballot paper reduction directive and the resulting shortage.",
-        "zh": "中央选举管理委员会选票短缺事件真相查明委员会建议中央选管委对包括前委员长卢泰愚在内的12人进行调查，并对6名相关工作人员进行纪律处分，以追究他们因仓促决定减少选票印刷及由此造成的选票短缺事件的责任。"
+        "ko": "정청래, 李와 다른 목소리…“보완수사권 전면 폐지는 너무 당연” - 동아일보",
+        "en": "정청래, 李와 다른 목소리…“보완수사권 전면 폐지는 너무 당연” - 동아일보",
+        "zh": "정청래, 李와 다른 목소리…“보완수사권 전면 폐지는 너무 당연” - 동아일보"
       }
     },
     {
-      "title": "경찰 \"잠실개표소 지하 무단침입 3명 신원 확인\" - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260619175129R9g",
-      "source": "연합뉴스TV",
-      "pubDate": "Fri, 19 Jun 2026 09:27:47 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260619/AKR20260619175129R9g_01_i.jpg",
-      "summaries": {
-        "ko": "경찰 \"잠실개표소 지하 무단침입 3명 신원 확인\" - 연합뉴스TV",
-        "en": "경찰 \"잠실개표소 지하 무단침입 3명 신원 확인\" - 연합뉴스TV",
-        "zh": "경찰 \"잠실개표소 지하 무단침입 3명 신원 확인\" - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "'올림픽공원서 업무방해·폭행' 시위대 신원 추가 특정 - MBC 뉴스",
+      "title": "'업무방해·폭행·무단침입' 시위대 신원 특정‥출석 요구 - MBC 뉴스",
       "link": "https://imnews.imbc.com/news/2026/society/article/6831508_36918.html",
       "source": "MBC 뉴스",
       "pubDate": "Fri, 19 Jun 2026 09:41:02 GMT",
       "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/06/19/hye_20260619_4.jpg",
       "summaries": {
-        "ko": "'올림픽공원서 업무방해·폭행' 시위대 신원 추가 특정 - MBC 뉴스",
-        "en": "'올림픽공원서 업무방해·폭행' 시위대 신원 추가 특정 - MBC 뉴스",
-        "zh": "'올림픽공원서 업무방해·폭행' 시위대 신원 추가 특정 - MBC 뉴스"
+        "ko": "경찰이 개표소 봉쇄 시위 과정에서 발생한 업무방해, 폭행, 무단침입 등 불법행위에 가담한 시위대 다수의 신원을 특정하고 출석을 요구했습니다.",
+        "en": "Police have identified numerous protestors involved in illegal acts such as obstruction of business, assault, and illegal trespassing during the ballot counting station blockade protest, and have requested their appearance for questioning.",
+        "zh": "警方已确定在计票站封锁示威过程中参与妨碍公务、殴打、非法入侵等非法行为的多名示威者的身份，并要求他们到案接受调查。"
+      }
+    },
+    {
+      "title": "이 대통령 “개표소 폭력 사태, 용인 어려운 한계 도달…엄정 대응” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1264401.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 19 Jun 2026 08:52:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/673/imgdb/original/2026/0619/20260619502118.webp",
+      "summaries": {
+        "ko": "이재명 대통령은 6·3 지방선거 투표용지 부족 사태 관련 봉쇄시위 중 잠실 개표소 폭력 등 불법 행위에 엄정 대응을 지시하며, 선관위의 총체적 무능을 지적하고 선거관리 체제 개혁을 넘어 헌법 개정까지 검토하겠다고 밝혔다.",
+        "en": "President Lee Jae-myung ordered strict action against illegal acts, including violence at the Jamsil ballot counting station during protests over the 6·3 local election ballot shortage, while criticizing the Election Commission's incompetence and proposing a comprehensive reform of the election management system, even considering constitutional amendments.",
+        "zh": "李在明总统就6·3地方选举选票不足引发的封锁示威中发生的蚕室计票所暴力等非法行为，指示将严厉应对，同时批评选举管理委员会的全面无能，并表示将推动选举管理体系改革，甚至考虑修宪。"
+      }
+    },
+    {
+      "title": "[단독] 정청래 민주당 대표 전북 비공식 방문…이원택 등 만나",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260619225849Gnw",
+      "source": "Breaking News",
+      "pubDate": "Fri, 19 Jun 2026 22:58:50 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260619/MYH20260619225849Gnw.jpg",
+      "summaries": {
+        "ko": "[단독] 정청래 민주당 대표 전북 비공식 방문…이원택 등 만나",
+        "en": "[단독] 정청래 민주당 대표 전북 비공식 방문…이원택 등 만나",
+        "zh": "[단독] 정청래 민주당 대표 전북 비공식 방문…이원택 등 만나"
       }
     }
   ]
