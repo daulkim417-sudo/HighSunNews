@@ -1,124 +1,148 @@
 {
-  "lastUpdate": "2026-06-18T23:26:41.852648",
+  "lastUpdate": "2026-06-19T02:11:37.650405",
   "items": [
     {
-      "title": "돌아온 이 대통령, 집 나간 국정동력 찾는다···순방 성과 직접 설명, 지지율 회복 시동 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606190601001",
+      "title": "‘정청래 90도 인사’에 “한동훈 떠올라” “이 대통령은 싫어해” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1264329.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 19 Jun 2026 02:00:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0619/20260619500939.webp",
+      "summaries": {
+        "ko": "정청래 더불어민주당 대표가 이재명 대통령 귀국 시 90도 인사를 한 것에 대해 한동훈 전 비대위원장의 과거 인사에 비유되며 '정치적 의도가 담긴 행동'이라는 비판과 논란이 불거졌다.",
+        "en": "Democratic Party leader Jung Chung-rae's 90-degree bow to President Lee Jae-myung upon his return from Europe drew comparisons to former interim leader Han Dong-hoon's past similar gesture, sparking criticism and debate that it was a 'politically motivated act.'",
+        "zh": "民主党代表郑清来在李在明总统回国时行90度鞠躬礼，此举被比作前紧急对策委员长韩东勋过去的类似举动，引发了对其“带有政治意图的行为”的批评和争议。"
+      }
+    },
+    {
+      "title": "낮 최고 33도 ‘한여름 무더위’…밤부터는 큰비 소식 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1264304.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 19 Jun 2026 01:33:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/556/imgdb/original/2026/0619/7617818277117367.webp",
+      "summaries": {
+        "ko": "19일 전국 대부분 지역에 낮 최고 30도 이상의 한여름 무더위와 폭염주의보가 이어지는 가운데, 밤부터는 전국적으로 강한 비와 함께 돌풍, 천둥·번개가 예상되어 건강 관리 및 재해 예방에 각별한 주의가 요구된다.",
+        "en": "On June 19th, most regions nationwide will experience mid-summer heat with daytime highs over 30°C and heatwave advisories in some areas, while from the evening, heavy rain accompanied by strong winds, thunder, and lightning is expected across the entire country, necessitating special attention to health management and disaster prevention.",
+        "zh": "6月19日，韩国大部分地区将经历白天最高气温超过30°C的盛夏酷暑，部分地区发布高温预警，而从当晚开始，全国范围预计将有强降雨并伴有强风、雷电，需特别注意健康管理和防灾。"
+      }
+    },
+    {
+      "title": "밴스 부통령 “하룻밤 새 원유 1천250만 배럴 호르무즈 통과”…미·이란 평화 합의 효과 - VOA 한국어 홈페이지",
+      "link": "https://www.voakorea.com/a/8162350.html",
+      "source": "VOA 한국어 홈페이지",
+      "pubDate": "Thu, 18 Jun 2026 20:45:35 GMT",
+      "image": "https://gdb.voanews.com/d8aaaa9a-2261-4cb2-8795-0fa124bd030d_w1200_h630.jpg",
+      "summaries": {
+        "ko": "밴스 부통령 “하룻밤 새 원유 1천250만 배럴 호르무즈 통과”…미·이란 평화 합의 효과 - VOA 한국어 홈페이지",
+        "en": "밴스 부통령 “하룻밤 새 원유 1천250만 배럴 호르무즈 통과”…미·이란 평화 합의 효과 - VOA 한국어 홈페이지",
+        "zh": "밴스 부통령 “하룻밤 새 원유 1천250만 배럴 호르무즈 통과”…미·이란 평화 합의 효과 - VOA 한국어 홈페이지"
+      }
+    },
+    {
+      "title": "절단한 다리 재활용품으로 버린 인천 요양병원···경찰 “ 불법 수술·폐기물관리법” 수사 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606190947001",
       "source": "경향신문",
-      "pubDate": "Thu, 18 Jun 2026 21:01:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/19/rcv.YNA.20260618.PYH2026061810380001300_P1.jpg",
+      "pubDate": "Fri, 19 Jun 2026 00:47:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/19/news-p.v1.20260619.1a8249d5ac444097ad67da7ca3aa8945_P1.jpg",
       "summaries": {
-        "ko": "이재명 대통령이 유럽 순방을 마치고 귀국해 순방 성과를 직접 설명하며 6·3 지방선거 후 하락한 지지율과 당·청 갈등을 수습하고 국정 동력을 회복할 방침이다.",
-        "en": "Upon returning from his European tour, President Lee Jae-myung will directly brief on its achievements, aiming to address declining approval ratings and party-government conflict following the June 3 local elections and regain national governance momentum.",
-        "zh": "李在明总统结束欧洲访问回国后，将亲自说明访问成果，旨在解决6月3日地方选举后支持率下降和党政冲突的局面，以恢复国家执政动力。"
+        "ko": "절단한 다리 재활용품으로 버린 인천 요양병원···경찰 “ 불법 수술·폐기물관리법” 수사 - 경향신문",
+        "en": "절단한 다리 재활용품으로 버린 인천 요양병원···경찰 “ 불법 수술·폐기물관리법” 수사 - 경향신문",
+        "zh": "절단한 다리 재활용품으로 버린 인천 요양병원···경찰 “ 불법 수술·폐기물관리법” 수사 - 경향신문"
       }
     },
     {
-      "title": "낮 최고 30도 넘어가는 더위··· 밤부터 강한 비 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606190724001",
+      "title": "[단독]“CIA 접촉 구두보고” “조태용에게 패싱”··· 계엄 다음날 홍장원의 진실은 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606190600001",
       "source": "경향신문",
-      "pubDate": "Thu, 18 Jun 2026 22:24:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/19/news-p.v1.20260619.67271d86c7574861839b85f590696cc9_P1.jpeg",
+      "pubDate": "Thu, 18 Jun 2026 21:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/19/rcv.YNA.20260611.PYH2026061106650001300_P1.jpg",
       "summaries": {
-        "ko": "낮 최고 30도 넘어가는 더위··· 밤부터 강한 비 - 경향신문",
-        "en": "낮 최고 30도 넘어가는 더위··· 밤부터 강한 비 - 경향신문",
-        "zh": "낮 최고 30도 넘어가는 더위··· 밤부터 강한 비 - 경향신문"
+        "ko": "[단독]“CIA 접촉 구두보고” “조태용에게 패싱”··· 계엄 다음날 홍장원의 진실은 - 경향신문",
+        "en": "[단독]“CIA 접촉 구두보고” “조태용에게 패싱”··· 계엄 다음날 홍장원의 진실은 - 경향신문",
+        "zh": "[단독]“CIA 접촉 구두보고” “조태용에게 패싱”··· 계엄 다음날 홍장원의 진실은 - 경향신문"
       }
     },
     {
-      "title": "밴스 “‘종전 MOU’ 60일 협상 시작”…미, 이란 해상봉쇄 해제 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1264298.html",
+      "title": "경찰, 잠실개표소 지하로 무단침입 정황 수사 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260619104341d4H",
+      "source": "연합뉴스TV",
+      "pubDate": "Fri, 19 Jun 2026 01:43:41 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260619/AKR20260619104341d4H_01_i.jpg",
+      "summaries": {
+        "ko": "경찰은 시위가 진행 중인 잠실개표소(올림픽공원 핸드볼경기장)에서 지난 7일 밤 누군가 지하 출입문 잠금장치를 훼손하고 무단 침입한 정황에 대해 관리업체의 고소로 수사에 착수했습니다.",
+        "en": "Police have launched an investigation following a complaint from the management company of the Jamsil vote-counting station (Olympic Park Handball Stadium), where protests are ongoing, regarding suspicions that someone damaged a basement entrance lock and trespassed on the night of June 7.",
+        "zh": "警方已开始调查针对蚕室计票站（奥林匹克公园手球馆）的投诉，该投诉指出在持续抗议期间，有人于6月7日晚损坏了地下入口锁并擅自闯入。"
+      }
+    },
+    {
+      "title": "[단독] 투표지 부족 2022년부터였다…3번 겪고도 대책 없는 선관위 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1264152.html",
       "source": "한겨레",
-      "pubDate": "Thu, 18 Jun 2026 22:02:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0619/20260619500139.webp",
+      "pubDate": "Thu, 18 Jun 2026 11:21:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/560/imgdb/child/2026/0618/17817602648595_20260618502033.webp",
       "summaries": {
-        "ko": "밴스 “‘종전 MOU’ 60일 협상 시작”…미, 이란 해상봉쇄 해제 - 한겨레",
-        "en": "밴스 “‘종전 MOU’ 60일 협상 시작”…미, 이란 해상봉쇄 해제 - 한겨레",
-        "zh": "밴스 “‘종전 MOU’ 60일 협상 시작”…미, 이란 해상봉쇄 해제 - 한겨레"
+        "ko": "[단독] 투표지 부족 2022년부터였다…3번 겪고도 대책 없는 선관위 - 한겨레",
+        "en": "[단독] 투표지 부족 2022년부터였다…3번 겪고도 대책 없는 선관위 - 한겨레",
+        "zh": "[단독] 투표지 부족 2022년부터였다…3번 겪고도 대책 없는 선관위 - 한겨레"
       }
     },
     {
-      "title": "선관위 국정조사 국회 통과... 투표용지 부족 45일간 진상규명 - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/06/18/3ZMGE2OMOZAZFN4WG3P5OG7AOI/",
-      "source": "조선일보",
-      "pubDate": "Thu, 18 Jun 2026 06:19:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/OIGEPDEUS5M37EWEUQ5AK4474Q.JPG?auth=3f8163ac21538f4241d4f0264125d7b030cadc497c744c39b8d4d23ab2839d87&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "선관위 국정조사 국회 통과... 투표용지 부족 45일간 진상규명 - 조선일보",
-        "en": "선관위 국정조사 국회 통과... 투표용지 부족 45일간 진상규명 - 조선일보",
-        "zh": "선관위 국정조사 국회 통과... 투표용지 부족 45일간 진상규명 - 조선일보"
-      }
-    },
-    {
-      "title": "“국조만 하고 물러나라” 장동혁 향해 ‘수정 사퇴론’…당권파는 반발 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1264215.html",
+      "title": "‘장동혁 사퇴 촉구’ 회견 1시간 전 취소한 국힘 경기 의원들 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1264124.html",
       "source": "한겨레",
-      "pubDate": "Thu, 18 Jun 2026 10:06:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/914/548/imgdb/child/2026/0618/53_17817715434535_20260618503241.webp",
+      "pubDate": "Thu, 18 Jun 2026 07:25:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/654/imgdb/original/2026/0618/20260618501393.webp",
       "summaries": {
-        "ko": "“국조만 하고 물러나라” 장동혁 향해 ‘수정 사퇴론’…당권파는 반발 - 한겨레",
-        "en": "“국조만 하고 물러나라” 장동혁 향해 ‘수정 사퇴론’…당권파는 반발 - 한겨레",
-        "zh": "“국조만 하고 물러나라” 장동혁 향해 ‘수정 사퇴론’…당권파는 반발 - 한겨레"
+        "ko": "‘장동혁 사퇴 촉구’ 회견 1시간 전 취소한 국힘 경기 의원들 - 한겨레",
+        "en": "‘장동혁 사퇴 촉구’ 회견 1시간 전 취소한 국힘 경기 의원들 - 한겨레",
+        "zh": "‘장동혁 사퇴 촉구’ 회견 1시간 전 취소한 국힘 경기 의원들 - 한겨레"
       }
     },
     {
-      "title": "인천서 발견된 사람 다리···경찰 “요양병원 80대 환자 신체 일부” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606181803001",
-      "source": "경향신문",
-      "pubDate": "Thu, 18 Jun 2026 09:03:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/18/news-p.v1.20260618.fb3be9bc86f3444081e77665487d5927_P1.jpg",
+      "title": "김창민 감독 살인 사건 피고인들, 첫 재판서 \"살해 의도 없었다\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6831360_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Fri, 19 Jun 2026 00:32:16 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/06/19/sa_20260619_2.jpg",
       "summaries": {
-        "ko": "인천서 발견된 사람 다리···경찰 “요양병원 80대 환자 신체 일부” - 경향신문",
-        "en": "인천서 발견된 사람 다리···경찰 “요양병원 80대 환자 신체 일부” - 경향신문",
-        "zh": "인천서 발견된 사람 다리···경찰 “요양병원 80대 환자 신체 일부” - 경향신문"
+        "ko": "김창민 감독을 폭행해 숨지게 한 혐의로 재판에 넘겨진 피고인 2명이 첫 공판에서 살해 고의는 없었으며 장애인복지법 위반 혐의도 몰랐다며 살인 및 장애인복지법 위반 혐의를 모두 부인했다.",
+        "en": "Two defendants indicted for beating director Kim Chang-min to death denied all charges of murder and violating the Disability Welfare Act in their first trial, claiming they had no intent to kill and were unaware of the circumstances constituting the disability welfare charge.",
+        "zh": "涉嫌殴打导演金昌民致死的两名被告在首次庭审中，否认了杀人罪及违反《残疾人福利法》的指控，声称没有杀人故意，并且不了解构成违反《残疾人福利法》指控的情况。"
       }
     },
     {
-      "title": "‘꿀보직' 17개 시·도 선관위원장, 한달에 하루꼴로 출근 - 대전일보",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2282653",
-      "source": "대전일보",
-      "pubDate": "Thu, 18 Jun 2026 13:44:00 GMT",
-      "image": "https://cdn.daejonilbo.com/news/photo/202606/2282653_717588_4457.jpg",
-      "summaries": {
-        "ko": "‘꿀보직' 17개 시·도 선관위원장, 한달에 하루꼴로 출근 - 대전일보",
-        "en": "‘꿀보직' 17개 시·도 선관위원장, 한달에 하루꼴로 출근 - 대전일보",
-        "zh": "‘꿀보직' 17개 시·도 선관위원장, 한달에 하루꼴로 출근 - 대전일보"
-      }
-    },
-    {
-      "title": "법원, ‘관저 이전 감사서류 허위 작성’ 혐의 감사원 간부 구속영장 기각 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1264275.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 18 Jun 2026 16:22:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/489/imgdb/original/2026/0619/20260619500007.webp",
-      "summaries": {
-        "ko": "법원, ‘관저 이전 감사서류 허위 작성’ 혐의 감사원 간부 구속영장 기각 - 한겨레",
-        "en": "법원, ‘관저 이전 감사서류 허위 작성’ 혐의 감사원 간부 구속영장 기각 - 한겨레",
-        "zh": "법원, ‘관저 이전 감사서류 허위 작성’ 혐의 감사원 간부 구속영장 기각 - 한겨레"
-      }
-    },
-    {
-      "title": "‘연어 술파티’는 정말 있었나?…이화영 국민참여재판 결론 임박 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/capital/1264223.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 18 Jun 2026 14:37:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/701/509/imgdb/original/2026/0618/20260618503335.webp",
-      "summaries": {
-        "ko": "‘연어 술파티’는 정말 있었나?…이화영 국민참여재판 결론 임박 - 한겨레",
-        "en": "‘연어 술파티’는 정말 있었나?…이화영 국민참여재판 결론 임박 - 한겨레",
-        "zh": "‘연어 술파티’는 정말 있었나?…이화영 국민참여재판 결론 임박 - 한겨레"
-      }
-    },
-    {
-      "title": "[날씨] 월드컵 열기만큼 뜨거운 날씨…서울 한낮 33도",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260619082217vkz",
+      "title": "김 총리, 다음 주 중국 방문…하계 다보스포럼·고위급 회담",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202606191109030CU",
       "source": "Breaking News",
-      "pubDate": "Fri, 19 Jun 2026 08:22:19 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260618/MYH20260619082217vkz.jpg",
+      "pubDate": "Fri, 19 Jun 2026 11:09:05 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260619/AKR202606191109030CU_01_i.jpg",
       "summaries": {
-        "ko": "[날씨] 월드컵 열기만큼 뜨거운 날씨…서울 한낮 33도",
-        "en": "[날씨] 월드컵 열기만큼 뜨거운 날씨…서울 한낮 33도",
-        "zh": "[날씨] 월드컵 열기만큼 뜨거운 날씨…서울 한낮 33도"
+        "ko": "김민석 국무총리가 다음 주 2박 3일간 중국 베이징과 다롄을 방문하여 하계 다보스포럼에서 특별 연설을 하고 중국 고위급 인사들과 양국 현안을 논의할 예정이다.",
+        "en": "Prime Minister Kim Min-seok will visit Beijing and Dalian, China, for three days next week to deliver a special speech at the Summer Davos Forum and hold talks with high-ranking Chinese officials on bilateral issues.",
+        "zh": "韩国国务总理金珉锡将于下周对中国北京和大连进行为期三天的访问，期间将在夏季达沃斯论坛发表特别演讲，并与中国高级官员举行会谈，讨论两国悬而未决的问题。"
+      }
+    },
+    {
+      "title": "[속보] 경찰, 잠실개표소 지하로 무단침입 정황 수사",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260619110603FbE",
+      "source": "Breaking News",
+      "pubDate": "Fri, 19 Jun 2026 11:06:04 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260619/MYH20260619110603FbE.jpg",
+      "summaries": {
+        "ko": "[속보] 경찰, 잠실개표소 지하로 무단침입 정황 수사",
+        "en": "[속보] 경찰, 잠실개표소 지하로 무단침입 정황 수사",
+        "zh": "[속보] 경찰, 잠실개표소 지하로 무단침입 정황 수사"
+      }
+    },
+    {
+      "title": "[속보] 한국, 멕시코와 2차전 득점 없이 전반 종료 0-0",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260619110431bYP",
+      "source": "Breaking News",
+      "pubDate": "Fri, 19 Jun 2026 11:04:33 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260619/MYH20260619110431bYP.jpg",
+      "summaries": {
+        "ko": "[속보] 한국, 멕시코와 2차전 득점 없이 전반 종료 0-0",
+        "en": "[속보] 한국, 멕시코와 2차전 득점 없이 전반 종료 0-0",
+        "zh": "[속보] 한국, 멕시코와 2차전 득점 없이 전반 종료 0-0"
       }
     }
   ]
