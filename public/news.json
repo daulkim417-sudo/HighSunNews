@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-20T20:46:22.850143",
+  "lastUpdate": "2026-06-20T21:53:46.757331",
   "items": [
     {
       "title": "이란 봉쇄 선언에 미국 “군 움직임 없다”…협상 국면 이어져 - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Sat, 20 Jun 2026 16:09:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0620/20260620500724.webp",
       "summaries": {
-        "ko": "이란이 호르무즈해협 봉쇄를 선언했음에도 미국은 실제 군사적 움직임은 없다고 밝히며, 긴장이 고조되는 가운데 양국 간 스위스 협상은 계속될 예정이다.",
-        "en": "Despite Iran's declaration of a Strait of Hormuz blockade, the U.S. denies any actual military movement, and negotiations between the two nations are set to continue in Switzerland amid rising tensions.",
-        "zh": "尽管伊朗宣布封锁霍尔木兹海峡，美国否认有实际军事行动，两国在紧张局势加剧之际仍将在瑞士继续谈判。"
+        "ko": "이란이 호르무즈해협 봉쇄를 선언했지만 미국은 실제 군사적 움직임은 없다고 밝히며 양측의 협상 국면이 스위스에서 이어질 것으로 보인다.",
+        "en": "Despite Iran's declaration to block the Strait of Hormuz, the U.S. reported no actual military movements corresponding to the blockade and confirmed that negotiations between the two sides are set to continue in Switzerland.",
+        "zh": "尽管伊朗宣布封锁霍尔木兹海峡，美国表示尚未发现实际军事行动，并确认双方将在瑞士继续谈判。"
       }
     },
     {
@@ -44,9 +44,9 @@
       "pubDate": "Fri, 19 Jun 2026 08:08:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/06/19/rcv.YNA.20260619.PYH2026061916560001301_P1.jpg",
       "summaries": {
-        "ko": "유럽 순방을 마친 이재명 대통령이 귀국 브리핑에서 도널드 트럼프 전 미국 대통령과의 북핵 문제 논의 등 외교 성과를 설명하고 당청 갈등 및 보완수사권 등 국내 현안에 대한 입장도 밝혔다.",
-        "en": "President Lee Jae-myung, returning from his European tour, held a briefing to explain diplomatic achievements, including discussions with former U.S. President Donald Trump on North Korea's nuclear issue, and also addressed domestic concerns such as party-presidential office conflict and supplementary investigation powers.",
-        "zh": "韩国总统李在明在结束欧洲巡访回国后举行新闻发布会，阐述了与美国前总统特朗普就朝核问题进行的讨论等外交成果，并就执政党与总统办公室的矛盾以及补充侦查权等国内问题表明了立场。"
+        "ko": "갤럭시·현대차 쓰는 교황, 트럼프 옆 앉게 해준 마크롱…이 대통령, 90분간 유럽 순방 브리핑 - 경향신문",
+        "en": "갤럭시·현대차 쓰는 교황, 트럼프 옆 앉게 해준 마크롱…이 대통령, 90분간 유럽 순방 브리핑 - 경향신문",
+        "zh": "갤럭시·현대차 쓰는 교황, 트럼프 옆 앉게 해준 마크롱…이 대통령, 90분간 유럽 순방 브리핑 - 경향신문"
       }
     },
     {
@@ -62,15 +62,15 @@
       }
     },
     {
-      "title": "\"올다르크 수사? 개표소 진입 적법성부터 따져야 … 경찰도 선관위 요청 없이 못 들어가\" - 뉴데일리",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/06/19/2026061900053.html",
-      "source": "뉴데일리",
-      "pubDate": "Sat, 20 Jun 2026 10:30:00 GMT",
-      "image": "https://image.newdaily.co.kr/site/data/img/2026/06/19/2026061900053_0.jpg",
+      "title": "인천 '흉기난동' 피해자에 국가·경찰관 3억5천만원 배상 판결 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260620038400065",
+      "source": "연합뉴스",
+      "pubDate": "Sat, 20 Jun 2026 09:08:14 GMT",
+      "image": "https://img8.yna.co.kr/etc/inner/KR/2026/06/20/AKR20260620038400065_01_i_P4.jpg",
       "summaries": {
-        "ko": "\"올다르크 수사? 개표소 진입 적법성부터 따져야 … 경찰도 선관위 요청 없이 못 들어가\" - 뉴데일리",
-        "en": "\"올다르크 수사? 개표소 진입 적법성부터 따져야 … 경찰도 선관위 요청 없이 못 들어가\" - 뉴데일리",
-        "zh": "\"올다르크 수사? 개표소 진입 적법성부터 따져야 … 경찰도 선관위 요청 없이 못 들어가\" - 뉴데일리"
+        "ko": "인천 '흉기난동' 피해자에 국가·경찰관 3억5천만원 배상 판결 - 연합뉴스",
+        "en": "인천 '흉기난동' 피해자에 국가·경찰관 3억5천만원 배상 판결 - 연합뉴스",
+        "zh": "인천 '흉기난동' 피해자에 국가·경찰관 3억5천만원 배상 판결 - 연합뉴스"
       }
     },
     {
@@ -86,30 +86,6 @@
       }
     },
     {
-      "title": "인천 '흉기난동' 피해자에 국가·경찰관 3억5천만원 배상 판결 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260620038400065",
-      "source": "연합뉴스",
-      "pubDate": "Sat, 20 Jun 2026 09:08:14 GMT",
-      "image": "https://img8.yna.co.kr/etc/inner/KR/2026/06/20/AKR20260620038400065_01_i_P4.jpg",
-      "summaries": {
-        "ko": "인천 '흉기난동' 피해자에 국가·경찰관 3억5천만원 배상 판결 - 연합뉴스",
-        "en": "인천 '흉기난동' 피해자에 국가·경찰관 3억5천만원 배상 판결 - 연합뉴스",
-        "zh": "인천 '흉기난동' 피해자에 국가·경찰관 3억5천만원 배상 판결 - 연합뉴스"
-      }
-    },
-    {
-      "title": "일본인 관광객 위해 바닥에 드러누운 편의점 직원…\"가슴이 뜨거워졌다\" - 조선일보",
-      "link": "http://weekly.chosun.com/news/articleView.html?idxno=52732",
-      "source": "조선일보",
-      "pubDate": "Fri, 19 Jun 2026 02:51:02 GMT",
-      "image": "https://cdn.weekly.chosun.com/news/thumbnail/202606/52732_82146_491_v150.jpg",
-      "summaries": {
-        "ko": "일본인 관광객 위해 바닥에 드러누운 편의점 직원…\"가슴이 뜨거워졌다\" - 조선일보",
-        "en": "일본인 관광객 위해 바닥에 드러누운 편의점 직원…\"가슴이 뜨거워졌다\" - 조선일보",
-        "zh": "일본인 관광객 위해 바닥에 드러누운 편의점 직원…\"가슴이 뜨거워졌다\" - 조선일보"
-      }
-    },
-    {
       "title": "가스총 들고 잠실개표소 시위 참여하려던 80대, 경찰에 제지당해 - 연합뉴스",
       "link": "https://www.yna.co.kr/view/AKR20260620040500004",
       "source": "연합뉴스",
@@ -122,15 +98,27 @@
       }
     },
     {
-      "title": "[속보] 美밴스, 21일 이란 대면협상 참석 위해 스위스로 출발",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260621054421PC5",
-      "source": "Breaking News",
-      "pubDate": "Sun, 21 Jun 2026 05:44:23 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260620/AKR20260621054421PC5_01_i.jpg",
+      "title": "인천공항 편의점 바닥에 엎드린 직원… 日 여행객 “가슴 뜨거운 친절” - 동아일보",
+      "link": "https://www.donga.com/news/Society/article/all/20260620/134148466/1",
+      "source": "동아일보",
+      "pubDate": "Sat, 20 Jun 2026 01:10:23 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/20/134148467.1.jpg",
       "summaries": {
-        "ko": "[속보] 美밴스, 21일 이란 대면협상 참석 위해 스위스로 출발",
-        "en": "[속보] 美밴스, 21일 이란 대면협상 참석 위해 스위스로 출발",
-        "zh": "[속보] 美밴스, 21일 이란 대면협상 참석 위해 스위스로 출발"
+        "ko": "인천공항 편의점 바닥에 엎드린 직원… 日 여행객 “가슴 뜨거운 친절” - 동아일보",
+        "en": "인천공항 편의점 바닥에 엎드린 직원… 日 여행객 “가슴 뜨거운 친절” - 동아일보",
+        "zh": "인천공항 편의점 바닥에 엎드린 직원… 日 여행객 “가슴 뜨거운 친절” - 동아일보"
+      }
+    },
+    {
+      "title": "인천 발칵 뒤집은 ‘사람 다리’... 요양병원 병실서 무슨 일이 - 조선일보",
+      "link": "https://www.chosun.com/national/welfare-medical/2026/06/20/LIK3N5WFJRFITIIZWAFQ4RIVT4/",
+      "source": "조선일보",
+      "pubDate": "Sat, 20 Jun 2026 03:42:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/ILIISCJ5W5ALZHSDAJ7URAU77U.jpg?auth=dbf57fb2b8b59db3d184c5cf2816a40178e231fe3c296599d724b4e00d279799&width=1200&height=630&focal=1689,1135",
+      "summaries": {
+        "ko": "인천 발칵 뒤집은 ‘사람 다리’... 요양병원 병실서 무슨 일이 - 조선일보",
+        "en": "인천 발칵 뒤집은 ‘사람 다리’... 요양병원 병실서 무슨 일이 - 조선일보",
+        "zh": "인천 발칵 뒤집은 ‘사람 다리’... 요양병원 병실서 무슨 일이 - 조선일보"
       }
     }
   ]
