@@ -1,64 +1,88 @@
 {
-  "lastUpdate": "2026-06-22T12:57:17.599314",
+  "lastUpdate": "2026-06-22T17:24:45.726150",
   "items": [
     {
-      "title": "‘내란 가담’ 박성재 1심 징역 25년…법원 “윤석열 반대 세력 제압에 도움” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606221729001",
-      "source": "경향신문",
-      "pubDate": "Mon, 22 Jun 2026 08:29:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/22/rcv.YNA.20260622.PYH2026062214190001300_P1.jpg",
+      "title": "밴스 “이란, IAEA 사찰단 접근 허용”…동결자금 용도는 이견 - 동아일보",
+      "link": "https://www.donga.com/news/Inter/article/all/20260622/134156122/1",
+      "source": "동아일보",
+      "pubDate": "Mon, 22 Jun 2026 11:56:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/22/134161467.1.jpg",
       "summaries": {
-        "ko": "박성재 전 법무부 장관이 윤석열 전 대통령의 12·3 불법계엄 가담 혐의로 1심에서 징역 25년형을 선고받고 법정 구속되었으며, 재판부는 그의 행위가 윤 전 대통령의 반대 세력 제압 등 내란의 핵심 전제 조건 달성에 필수적이었다고 판단했다.",
-        "en": "Former Justice Minister Park Seong-jae was sentenced to 25 years in prison and immediately taken into custody in his first trial for participating in former President Yoon Suk-yeol's 'December 3rd illegal martial law,' which the court deemed a critical act for suppressing opposition and achieving a core prerequisite for the coup.",
-        "zh": "前法务部长官朴成宰因参与前总统尹锡悦的“12·3非法戒严”，在一审中被判处25年有期徒刑并当庭逮捕，法院裁定其行为对镇压反对势力、达成政变核心前提条件至关重要。"
+        "ko": "밴스 “이란, IAEA 사찰단 접근 허용”…동결자금 용도는 이견 - 동아일보",
+        "en": "밴스 “이란, IAEA 사찰단 접근 허용”…동결자금 용도는 이견 - 동아일보",
+        "zh": "밴스 “이란, IAEA 사찰단 접근 허용”…동결자금 용도는 이견 - 동아일보"
       }
     },
     {
-      "title": "전대 앞 멸칭 조롱…여 중진들, 과열 경쟁 자제론 - 한겨레",
+      "title": "“박성재, ‘명태균 사건 무마용’ 계엄 인식…실패 뒤 수사 대응 위해 직권남용” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1264786.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 22 Jun 2026 12:57:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/691/imgdb/original/2026/0622/20260622503480.webp",
+      "summaries": {
+        "ko": "박성재 전 법무부 장관이 윤석열 전 대통령의 ‘명태균 사건 무마용’ 계엄임을 인식하고 12·3 비상계엄에 가담했으며, 계엄 실패 후 수사 대응을 위해 직권을 남용한 혐의로 징역 25년을 선고받았다.",
+        "en": "Former Minister of Justice Park Sung-jae was sentenced to 25 years in prison for his recognized involvement in the 12.3 martial law, which aimed to cover up the 'Myeongtaegyun incident' linked to former President Yoon Seok-yeol's judicial risks, and for abusing his power to respond to investigations following the martial law's failure.",
+        "zh": "前法务部长官朴成宰因认识到12·3紧急戒严旨在平息与前总统尹锡悦司法风险相关的‘明太均事件’并积极参与其中，且在戒严失败后为应对调查而滥用职权，被判处25年有期徒刑。"
+      }
+    },
+    {
+      "title": "[단독]“신천지 신도 최소 5만6472명, 2021∼2024년 국힘 당원 가입” - 동아일보",
+      "link": "https://www.donga.com/news/Society/article/all/20260622/134155939/1",
+      "source": "동아일보",
+      "pubDate": "Mon, 22 Jun 2026 06:31:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/22/134157752.1.jpg",
+      "summaries": {
+        "ko": "[단독]“신천지 신도 최소 5만6472명, 2021∼2024년 국힘 당원 가입” - 동아일보",
+        "en": "[단독]“신천지 신도 최소 5만6472명, 2021∼2024년 국힘 당원 가입” - 동아일보",
+        "zh": "[단독]“신천지 신도 최소 5만6472명, 2021∼2024년 국힘 당원 가입” - 동아일보"
+      }
+    },
+    {
+      "title": "서울시 '지하철 무임 70세·버스로 확대' 공청회…사회적합의 이룰까(종합) - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260622128251004",
+      "source": "연합뉴스",
+      "pubDate": "Mon, 22 Jun 2026 08:33:36 GMT",
+      "image": "https://img6.yna.co.kr/etc/inner/KR/2026/06/22/AKR20260622128251004_04_i_P4.jpg",
+      "summaries": {
+        "ko": "서울시가 지하철 무임 연령을 70세로 상향하고 버스 무임 혜택을 도입하는 노인 대중교통 정책 개편을 논의하기 위해 공청회를 개최한다.",
+        "en": "Seoul City will hold a public hearing to discuss reforms to senior public transport policies, including raising the free subway age to 70 and introducing free bus benefits.",
+        "zh": "首尔市将举行听证会，讨论老年人公共交通政策改革，包括将地铁免费乘车年龄提高至70岁并引入免费公交福利。"
+      }
+    },
+    {
+      "title": "이 대통령 지지율 ‘데드크로스’ 첫 40%대…“국정 동력 떨어질라” 우려 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1264729.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 22 Jun 2026 11:11:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/444/imgdb/original/2026/0622/20260622502984.webp",
+      "summaries": {
+        "ko": "이재명 대통령의 국정 수행 지지율이 취임 후 처음으로 40%대로 하락하며 부정평가가 긍정평가를 앞지르는 ‘데드크로스’를 기록했는데, 이는 선관위 투표용지 부족 사태와 민주당 내 갈등 등이 복합적으로 작용한 결과로 분석된다.",
+        "en": "President Lee Jae-myung's approval rating has fallen to the 40s for the first time since taking office, marking a 'dead cross' where negative evaluations surpassed positive ones, attributed to complex factors like the Central Election Commission's ballot shortage and internal Democratic Party conflicts.",
+        "zh": "李在明总统的施政支持率就任后首次跌至40%区间，负面评价超过正面评价，出现“死亡交叉”，分析认为这受中央选举管理委员会选票不足事件和民主党内部矛盾等多种因素的综合影响。"
+      }
+    },
+    {
+      "title": "정청래·김민석 지지층 ‘멸칭 비방전’ 과열…중진들 “분열 키워 뭐가 남나” - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1264781.html",
       "source": "한겨레",
-      "pubDate": "Mon, 22 Jun 2026 11:46:00 GMT",
+      "pubDate": "Mon, 22 Jun 2026 13:32:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0621/53_17820444943815_20260621502074.webp",
       "summaries": {
-        "ko": "더불어민주당 전당대회를 앞두고 잠재적 당대표 후보들을 향한 멸칭 사용과 과열된 경쟁 양상에 대해 남인순 의원 등 당내 중진들이 우려를 표하며 자제를 촉구했다.",
-        "en": "Ahead of the Democratic Party's national convention, senior party members, including Rep. Nam In-soon, expressed concern over the use of derogatory terms against potential party leader candidates and the overheated competition, urging restraint.",
-        "zh": "民主党全国代表大会前夕，包括南仁顺议员在内的党内资深成员对潜在党魁候选人使用贬损性称谓和过度竞争表示担忧，并敦促各方保持克制。"
+        "ko": "더불어민주당 전당대회를 앞두고 정청래·김민석 지지층의 멸칭 비방전이 과열되자 중진 의원들이 당의 분열을 우려하며 자제를 촉구하는 가운데, 두 잠재적 후보의 출마가 임박했다.",
+        "en": "As the derogatory name-calling battle between supporters of Jeong Cheong-rae and Kim Min-seok heats up ahead of the Democratic Party's national convention, senior party members are urging restraint due to concerns about party division, while the two potential candidates are expected to announce their bids soon.",
+        "zh": "在共同民主党全国代表大会前夕，郑清来和金民锡支持者之间的贬称诽谤战日益激烈，资深议员们对党派分裂表示担忧并呼吁克制，同时两位潜在候选人也即将宣布参选。"
       }
     },
     {
-      "title": "서울시, 지하철 무임승차 70세로 상향·버스도 포함 추진 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/06/22/KU6XUUCJWVCWNHLJNTDUGMXSCY/",
-      "source": "조선일보",
-      "pubDate": "Mon, 22 Jun 2026 08:46:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/2V3TYTFSRZHXZPBVAG4K7FWSLM.jpg?auth=7c7585ab8fc0290eaf47a0f0b1bfca0e22e2425fde8e6f8e4e98d246063a77ab&width=1200&height=630&smart=true",
+      "title": "124표에 당락 갈린 충주시장 선거, 재검표 한다···선관위, 맹정섭 후보 요청 수용 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606221556011",
+      "source": "경향신문",
+      "pubDate": "Mon, 22 Jun 2026 06:56:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/22/news-p.v1.20260603.57c34a24fd5b4c2690d7531f0a9b13b8_P1.png",
       "summaries": {
-        "ko": "서울시, 지하철 무임승차 70세로 상향·버스도 포함 추진 - 조선일보",
-        "en": "서울시, 지하철 무임승차 70세로 상향·버스도 포함 추진 - 조선일보",
-        "zh": "서울시, 지하철 무임승차 70세로 상향·버스도 포함 추진 - 조선일보"
-      }
-    },
-    {
-      "title": "‘124표차’ 충주시장 재검표한다…與후보 “입력 오류 가능성 제보받아” - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260622/134157779/1",
-      "source": "동아일보",
-      "pubDate": "Mon, 22 Jun 2026 07:18:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/22/134158351.1.jpg",
-      "summaries": {
-        "ko": "‘124표차’ 충주시장 재검표한다…與후보 “입력 오류 가능성 제보받아” - 동아일보",
-        "en": "‘124표차’ 충주시장 재검표한다…與후보 “입력 오류 가능성 제보받아” - 동아일보",
-        "zh": "‘124표차’ 충주시장 재검표한다…與후보 “입력 오류 가능성 제보받아” - 동아일보"
-      }
-    },
-    {
-      "title": "“‘연어 술파티’, 장소·음주량 등 진술 일관성 없어”…이화영 ‘유죄’ 판결문 보니 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/capital/1264691.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 22 Jun 2026 06:52:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/483/imgdb/original/2026/0622/20260622502443.webp",
-      "summaries": {
-        "ko": "이화영 전 경기도 평화부지사가 ‘연어 술파티’ 위증 의혹과 관련해 장소·음주량 진술의 일관성이 없어 징역 4개월을 선고받았으며, 재판부는 다른 혐의에 대해 검찰의 공소권 남용을 지적했다.",
-        "en": "Former Gyeonggi Province Vice Governor Lee Hwa-young was sentenced to four months in prison for perjury in the 'salmon sool party' controversy due to inconsistencies in his statements regarding the venue and drinking amount, while the court also pointed out prosecutorial abuse of power in another charge.",
-        "zh": "前京畿道副知事李华泳因在“三文鱼酒会”伪证案中，就聚会地点和饮酒量陈述不一，被判处有期徒刑四个月，同时法院还指出检方在另一项指控中存在滥用公诉权的行为。"
+        "ko": "124표 차이로 당락이 결정된 충주시장 선거에서 낙선한 맹정섭 후보의 요청을 선관위가 수용하여 다음 달 15일 재검표를 진행하기로 했다.",
+        "en": "The Election Commission has accepted the request from losing candidate Maeng Jeong-seop for a recount in the Chungju mayoral election, which was decided by a 124-vote margin, and will proceed with it on July 15.",
+        "zh": "忠州市长选举以124票之差决定胜负，选举委员会已接受落选候选人孟正燮的请求，决定于下个月15日进行重新计票。"
       }
     },
     {
@@ -68,57 +92,33 @@
       "pubDate": "Mon, 22 Jun 2026 05:17:21 GMT",
       "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/06/22/jhp_20260622_4.jpg",
       "summaries": {
-        "ko": "민주당은 검찰 출신인 한찬식 신임 민정수석이 윤석열 검찰과 거리가 멀고 검찰개혁에 대한 소신을 밝힌 인물이라며, 개혁을 수행할 적임자로 보고 임명을 환영했습니다.",
-        "en": "The Democratic Party welcomed the appointment of former prosecutor Han Chan-sik as the new Senior Secretary for Civil Affairs, stating that he is suitable for carrying out prosecutorial reform given his distance from Yoon Seok-yeol's prosecution and his past convictions for reform.",
-        "zh": "民主党欢迎前检察官韩瓒植被任命为新任民政首席秘书，称其与尹锡悦检察系统保持距离并曾表明改革信念，是执行检察改革的合适人选。"
+        "ko": "민주당은 한찬식 신임 민정수석이 윤석열 검찰과 거리가 멀고 검찰개혁에 대한 소신을 밝힌 합리적인 인물이라며, 그를 검찰개혁을 수행할 적임자로 환영했습니다.",
+        "en": "The Democratic Party welcomed the appointment of Han Chan-sik as the new Senior Secretary to the President for Civil Affairs, hailing him as the right person for prosecutorial reform, citing his distance from the \"Yoon Seok-yeol prosecution\" and his reform-minded, pragmatic approach.",
+        "zh": "民主党对新任民政首席秘书韩灿植的任命表示欢迎，称他与“尹锡悦检察机构”保持距离，并持务实的改革立场，是推进检察改革的合适人选。"
       }
     },
     {
-      "title": "‘95세’ 이만희 신천지 총회장, 법원서 구속 심사 받는다 - 조선일보",
-      "link": "https://www.chosun.com/national/court_law/2026/06/22/WCOK2GHSHNDTVKD7O3BVRB3X3Q/",
-      "source": "조선일보",
-      "pubDate": "Mon, 22 Jun 2026 02:43:12 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GE2GMYJWGIZWEMJZGMYWCYLDG4.jpg?auth=65d4bb9433c2693a2e1a9213b41d7129c457aa7fd7020a3ffa734f1ebdbb6012&width=1200&height=630&smart=true",
+      "title": "이화영, ‘연어 술파티 위증 유죄’ 1심 불복 항소···직권남용 공소기각은 수용 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606221241001",
+      "source": "경향신문",
+      "pubDate": "Mon, 22 Jun 2026 03:41:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/06/22/news-p.v1.20260621.328065384e2248f1a62cb7cf2f71aead_P1.jpeg",
       "summaries": {
-        "ko": "‘95세’ 이만희 신천지 총회장, 법원서 구속 심사 받는다 - 조선일보",
-        "en": "‘95세’ 이만희 신천지 총회장, 법원서 구속 심사 받는다 - 조선일보",
-        "zh": "‘95세’ 이만희 신천지 총회장, 법원서 구속 심사 받는다 - 조선일보"
+        "ko": "이화영 전 경기도 평화부지사가 검찰 술파티 위증 의혹과 관련해 유죄를 선고한 1심 판결 중 위증 혐의에만 불복해 항소하고, 직권남용 혐의에 대한 공소기각 결정은 수용했다.",
+        "en": "Lee Hwa-young, former Gyeonggi Province Vice Governor, appealed only the perjury conviction from the first-instance ruling regarding the 'prosecutor's alcohol party' perjury allegations, while accepting the dismissal of charges for abuse of power.",
+        "zh": "前京畿道和平副知事李华泳就“检方酒会作伪证”嫌疑的一审有罪判决中的作伪证部分提起上诉，同时接受了滥用职权嫌疑的驳回公诉决定。"
       }
     },
     {
-      "title": "추경호 대구시장 당선인 \"관사 사용 안 한다\" - 조선일보",
-      "link": "https://www.chosun.com/national/regional/2026/06/22/DEFMQE7CVZFZXOUFRX23VUMVUU/",
-      "source": "조선일보",
-      "pubDate": "Mon, 22 Jun 2026 06:56:29 GMT",
-      "image": "https://www.chosun.com/resizer/v2/FWECA3VNDVBNJO37QPOHX6BOVQ.jpg?auth=ca00ccf78a32d6fd82d65588da243ed93e5208a34e48e405fa987ddf8e9f158f&width=1200&height=630&focal=2280,1560",
+      "title": "한성숙, ’모두의 창업’ 정보유출에 “책임 통감…개선대책 마련“ - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260622093728bsY",
+      "source": "연합뉴스TV",
+      "pubDate": "Mon, 22 Jun 2026 00:37:30 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260622/AKR20260622093728bsY_01_i.jpg",
       "summaries": {
-        "ko": "추경호 대구시장 당선인 \"관사 사용 안 한다\" - 조선일보",
-        "en": "추경호 대구시장 당선인 \"관사 사용 안 한다\" - 조선일보",
-        "zh": "추경호 대구시장 당선인 \"관사 사용 안 한다\" - 조선일보"
-      }
-    },
-    {
-      "title": "고교생 살해→미용실 간 장윤기 “수감 중 자격증 따겠다”…유족 반발 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/honam/1264652.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 22 Jun 2026 07:17:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/407/imgdb/child/2026/0622/17821122648532_20260622501366.webp",
-      "summaries": {
-        "ko": "고교생 살해 등 혐의로 첫 공판에 선 장윤기가 성폭행 시도를 부인하고 수감 중 자격증 취득을 계획한다는 의견서를 제출해 유족과 변호인의 강한 반발을 샀다.",
-        "en": "During his first trial for the murder of a high school student and other charges, Jang Yoon-ki denied attempted sexual assault and submitted an opinion expressing his plan to acquire qualifications while imprisoned, drawing strong condemnation from the victim's family and lawyer.",
-        "zh": "因涉嫌杀害高中生等罪名首次出庭受审的张允基否认性侵意图，并提交意见书称计划在服刑期间考取资格证，此举引发了受害者家属和律师的强烈抗议。"
-      }
-    },
-    {
-      "title": "이 대통령 부부, 오늘 민주당 의원 배우자 靑 초청 오찬",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260622214330NoC",
-      "source": "Breaking News",
-      "pubDate": "Mon, 22 Jun 2026 21:43:30 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260622/AKR20260622214330NoC_01_i.jpg",
-      "summaries": {
-        "ko": "이 대통령 부부, 오늘 민주당 의원 배우자 靑 초청 오찬",
-        "en": "이 대통령 부부, 오늘 민주당 의원 배우자 靑 초청 오찬",
-        "zh": "이 대통령 부부, 오늘 민주당 의원 배우자 靑 초청 오찬"
+        "ko": "한성숙 국무총리 후보자가 중소벤처기업부의 '모두의 창업' 개인정보 유출 사고에 대해 \"책임을 통감한다\"며 사과하고 개선 대책 마련을 약속했습니다.",
+        "en": "Prime Minister nominee Han Sung-sook, also serving as Minister of SMEs and Startups, apologized for the 'Modu-ui Changup' (Everyone's Startup) personal information leak from the Ministry, stating she \"deeply feels the responsibility\" and promised to implement improvement measures.",
+        "zh": "国务总理提名人兼中小风险企业部长韩成淑对中小风险企业部“大家的创业”个人信息泄露事件表示“深感责任”，并致歉，承诺将制定改进措施。"
       }
     }
   ]
