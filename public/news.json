@@ -1,71 +1,47 @@
 {
-  "lastUpdate": "2026-06-24T01:32:40.362359",
+  "lastUpdate": "2026-06-24T05:46:56.146102",
   "items": [
     {
-      "title": "반성은커녕 지원 더 해달라는 선관위 - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/06/24/FX6FZZEXKZGM3NKC7OBHGNYHME/",
-      "source": "조선일보",
-      "pubDate": "Tue, 23 Jun 2026 15:56:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/WURSHR4E5NGMNKEA7EUQ6ODLCA.jpg?auth=8371059dc6c4492fc4e98ed1372c18c827572d26086c9bf4d5bcc6e191e0db99&width=1200&height=630&focal=863,377",
-      "summaries": {
-        "ko": "반성은커녕 지원 더 해달라는 선관위 - 조선일보",
-        "en": "반성은커녕 지원 더 해달라는 선관위 - 조선일보",
-        "zh": "반성은커녕 지원 더 해달라는 선관위 - 조선일보"
-      }
-    },
-    {
-      "title": "정부 “한국 선박 4척, 24일 호르무즈 통과해 정상 항해 중” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/yeongnam/1265031.html",
+      "title": "정청래, 연임 도전 위한 사퇴…“대통령 끝까지 지킬 사람은 저” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1265034.html",
       "source": "한겨레",
-      "pubDate": "Wed, 24 Jun 2026 00:45:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/802/481/imgdb/child/2026/0624/53_17822618567697_20260624500730.webp",
+      "pubDate": "Wed, 24 Jun 2026 04:48:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0624/6617822630140305.webp",
       "summaries": {
-        "ko": "해양수산부는 24일 한국 선박 4척이 호르무즈 해협을 통과해 정상 항해 중이며, 이로써 해협 내 한국 선박이 18척으로 줄었다고 밝혔다.",
-        "en": "The Ministry of Oceans and Fisheries announced on the 24th that four South Korean ships passed through the Strait of Hormuz and are now navigating normally, reducing the number of South Korean ships remaining inside the strait to 18.",
-        "zh": "韩国海洋水产部24日表示，又有4艘韩国船只通过霍尔木兹海峡并正常航行，使留在海峡内的韩国船只数量减少到18艘。"
+        "ko": "정청래 더불어민주당 대표가 전당대회 출마와 연임 도전을 위해 당 대표직에서 사퇴하며, 이재명에 대한 굳건한 충성을 표명했다.",
+        "en": "Democratic Party of Korea representative Jeong Cheong-rae resigned from his party leadership position to run for re-election in the upcoming party convention, expressing steadfast loyalty to Lee Jae-myung.",
+        "zh": "韩国共同民主党代表郑清来为参加党代会并寻求连任而辞去党代表职务，并表达了对李在明的坚定忠诚。"
       }
     },
     {
-      "title": "이 대통령 귀국날 송영길 만찬... \"전대 얘기 충분히 나눴다더라\" - 오마이뉴스",
-      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003245560",
-      "source": "오마이뉴스",
-      "pubDate": "Tue, 23 Jun 2026 02:35:00 GMT",
-      "image": "https://ojsfile.ohmynews.com/CRI_T_IMG/2026/0623/A0003245560_T.jpg",
+      "title": "[속보] 합참 \"어제 밤 중부전선에서 북한군 1명 신병 확보\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6832486_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Wed, 24 Jun 2026 02:44:07 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/06/24/sa_20260624_33.jpg",
       "summaries": {
-        "ko": "이 대통령 귀국날 송영길 만찬... \"전대 얘기 충분히 나눴다더라\" - 오마이뉴스",
-        "en": "이 대통령 귀국날 송영길 만찬... \"전대 얘기 충분히 나눴다더라\" - 오마이뉴스",
-        "zh": "이 대통령 귀국날 송영길 만찬... \"전대 얘기 충분히 나눴다더라\" - 오마이뉴스"
+        "ko": "합동참모본부는 어제 밤 중부전선에서 귀순 의사를 밝힌 북한군 1명의 신병을 확보했다고 밝혔습니다.",
+        "en": "The Joint Chiefs of Staff announced that a North Korean soldier who expressed intent to defect was secured on the central front line last night.",
+        "zh": "韩国联合参谋本部表示，昨晚在中部战线发现并控制了一名表明投诚意愿的朝鲜士兵。"
       }
     },
     {
-      "title": "대포통장 신고했더니 되레 소송… 피해자 90%가 패소[히어로콘텐츠/히든③-上] - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260624/134169417/1",
+      "title": "정책실장 “닥치고 주택 공급”…“진보 정부 부동산 급등? 게으른 관찰” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260624/134172571/1",
       "source": "동아일보",
-      "pubDate": "Tue, 23 Jun 2026 19:30:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134170034.1.jpg",
+      "pubDate": "Wed, 24 Jun 2026 03:14:30 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134172590.1.jpg",
       "summaries": {
-        "ko": "대포통장 신고했더니 되레 소송… 피해자 90%가 패소[히어로콘텐츠/히든③-上] - 동아일보",
-        "en": "대포통장 신고했더니 되레 소송… 피해자 90%가 패소[히어로콘텐츠/히든③-上] - 동아일보",
-        "zh": "대포통장 신고했더니 되레 소송… 피해자 90%가 패소[히어로콘텐츠/히든③-上] - 동아일보"
-      }
-    },
-    {
-      "title": "한반도 유사시 미 지상군 1%뿐…한국, 자주국방력 이미 갖췄다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/defense/1265012.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 23 Jun 2026 22:04:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/874/583/imgdb/original/2025/1002/20251002502147.webp",
-      "summaries": {
-        "ko": "한반도 유사시 미 지상군 1%뿐…한국, 자주국방력 이미 갖췄다 - 한겨레",
-        "en": "한반도 유사시 미 지상군 1%뿐…한국, 자주국방력 이미 갖췄다 - 한겨레",
-        "zh": "한반도 유사시 미 지상군 1%뿐…한국, 자주국방력 이미 갖췄다 - 한겨레"
+        "ko": "정책실장 “닥치고 주택 공급”…“진보 정부 부동산 급등? 게으른 관찰” - 동아일보",
+        "en": "정책실장 “닥치고 주택 공급”…“진보 정부 부동산 급등? 게으른 관찰” - 동아일보",
+        "zh": "정책실장 “닥치고 주택 공급”…“진보 정부 부동산 급등? 게으른 관찰” - 동아일보"
       }
     },
     {
       "title": "트럼프 “이란, 100% 핵사찰 합의…거부하면 협상 취소” - 한겨레",
       "link": "https://www.hani.co.kr/arti/international/arabafrica/1265003.html",
       "source": "한겨레",
-      "pubDate": "Tue, 23 Jun 2026 21:41:00 GMT",
+      "pubDate": "Wed, 24 Jun 2026 01:38:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2026/0624/20260624500063.webp",
       "summaries": {
         "ko": "트럼프 “이란, 100% 핵사찰 합의…거부하면 협상 취소” - 한겨레",
@@ -74,75 +50,87 @@
       }
     },
     {
-      "title": "‘이 대통령 명예훼손’ 혐의 모스 탄, 내일 경찰 조사 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606231552001",
-      "source": "경향신문",
-      "pubDate": "Tue, 23 Jun 2026 06:52:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/23/news-p.v1.20260602.160945fc30ce498296fff4145359bfb8_P1.jpg",
+      "title": "장동혁, 오늘 엿새 만에 퇴원‥오후 기자회견 예정 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6832475_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Wed, 24 Jun 2026 01:53:15 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/06/24/sa_20260624_23.jpg",
       "summaries": {
-        "ko": "‘이 대통령 명예훼손’ 혐의 모스 탄, 내일 경찰 조사 - 경향신문",
-        "en": "‘이 대통령 명예훼손’ 혐의 모스 탄, 내일 경찰 조사 - 경향신문",
-        "zh": "‘이 대통령 명예훼손’ 혐의 모스 탄, 내일 경찰 조사 - 경향신문"
+        "ko": "장동혁, 오늘 엿새 만에 퇴원‥오후 기자회견 예정 - MBC 뉴스",
+        "en": "장동혁, 오늘 엿새 만에 퇴원‥오후 기자회견 예정 - MBC 뉴스",
+        "zh": "장동혁, 오늘 엿새 만에 퇴원‥오후 기자회견 예정 - MBC 뉴스"
       }
     },
     {
-      "title": "북한, 5000톤급 구축함 최현호 취역…김정은 “전투력 경이적” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606240724011",
-      "source": "경향신문",
-      "pubDate": "Tue, 23 Jun 2026 22:24:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/24/news-p.v1.20260624.2c0e455c983b4bf7a802b18931aadd4e_P1.png",
+      "title": "[단독] 종합특검 '통일교 수사 정보 유출' 권성동 의원 소환 통보 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6832516_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Wed, 24 Jun 2026 04:40:55 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/06/24/sa_20260624_36.jpg",
       "summaries": {
-        "ko": "북한, 5000톤급 구축함 최현호 취역…김정은 “전투력 경이적” - 경향신문",
-        "en": "북한, 5000톤급 구축함 최현호 취역…김정은 “전투력 경이적” - 경향신문",
-        "zh": "북한, 5000톤급 구축함 최현호 취역…김정은 “전투력 경이적” - 경향신문"
+        "ko": "[단독] 종합특검 '통일교 수사 정보 유출' 권성동 의원 소환 통보 - MBC 뉴스",
+        "en": "[단독] 종합특검 '통일교 수사 정보 유출' 권성동 의원 소환 통보 - MBC 뉴스",
+        "zh": "[단독] 종합특검 '통일교 수사 정보 유출' 권성동 의원 소환 통보 - MBC 뉴스"
       }
     },
     {
-      "title": "국힘 김성태 “장동혁, 전혀 사퇴 의지 안 보인다더라” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1264910.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 23 Jun 2026 07:30:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0623/20260623502970.webp",
+      "title": "[속보] 투표용지 합수본, 선관위 관계자 12명 압수수색 - 조선일보",
+      "link": "https://www.chosun.com/national/court_law/2026/06/24/3K3P7NX6WRCYVLWP4WW4WY2D5I/",
+      "source": "조선일보",
+      "pubDate": "Wed, 24 Jun 2026 02:16:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MEYTKZTEGJTGGNLGGI3TOMTCMU.jpg?auth=cf065659b76f8363b809ce5595bad5f68c93a8a0e19b7f1f766ee105d77e2991&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "국힘 김성태 “장동혁, 전혀 사퇴 의지 안 보인다더라” - 한겨레",
-        "en": "국힘 김성태 “장동혁, 전혀 사퇴 의지 안 보인다더라” - 한겨레",
-        "zh": "국힘 김성태 “장동혁, 전혀 사퇴 의지 안 보인다더라” - 한겨레"
+        "ko": "[속보] 투표용지 합수본, 선관위 관계자 12명 압수수색 - 조선일보",
+        "en": "[속보] 투표용지 합수본, 선관위 관계자 12명 압수수색 - 조선일보",
+        "zh": "[속보] 투표용지 합수본, 선관위 관계자 12명 압수수색 - 조선일보"
       }
     },
     {
-      "title": "몸 푸는 송영길, 김민석과 손 잡나…‘정청래 견제’ 연대 가능성 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1264954.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 23 Jun 2026 12:55:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/746/448/imgdb/original/2026/0623/20260623503422.webp",
+      "title": "김용범 “李지지율 하락, 부동산-세제 때문 아냐…정책기조 큰 전환 없을 것” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260624/134172258/1",
+      "source": "동아일보",
+      "pubDate": "Wed, 24 Jun 2026 02:28:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134172586.1.jpg",
       "summaries": {
-        "ko": "몸 푸는 송영길, 김민석과 손 잡나…‘정청래 견제’ 연대 가능성 - 한겨레",
-        "en": "몸 푸는 송영길, 김민석과 손 잡나…‘정청래 견제’ 연대 가능성 - 한겨레",
-        "zh": "몸 푸는 송영길, 김민석과 손 잡나…‘정청래 견제’ 연대 가능성 - 한겨레"
+        "ko": "김용범 “李지지율 하락, 부동산-세제 때문 아냐…정책기조 큰 전환 없을 것” - 동아일보",
+        "en": "김용범 “李지지율 하락, 부동산-세제 때문 아냐…정책기조 큰 전환 없을 것” - 동아일보",
+        "zh": "김용범 “李지지율 하락, 부동산-세제 때문 아냐…정책기조 큰 전환 없을 것” - 동아일보"
       }
     },
     {
-      "title": "[현장연결] 심우정 전 총장 종합특검 출석…'내란가담' 조사",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH2026062410232496X",
+      "title": "박지원 “송영길, 이 대통령에 출마 결심 이야기…’잘하라’ 말씀“ - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202606241101307sx",
+      "source": "연합뉴스TV",
+      "pubDate": "Wed, 24 Jun 2026 02:01:32 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260624/AKR202606241101307sx_01_i.jpg",
+      "summaries": {
+        "ko": "박지원 “송영길, 이 대통령에 출마 결심 이야기…’잘하라’ 말씀“ - 연합뉴스TV",
+        "en": "박지원 “송영길, 이 대통령에 출마 결심 이야기…’잘하라’ 말씀“ - 연합뉴스TV",
+        "zh": "박지원 “송영길, 이 대통령에 출마 결심 이야기…’잘하라’ 말씀“ - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "서울 ’70세 이상 버스 무임승차’ 조례안, 오늘 오후 시의회 표결 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202606240837287UZ",
+      "source": "연합뉴스TV",
+      "pubDate": "Tue, 23 Jun 2026 23:37:29 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260623/AKR202606240837287UZ_01_i.jpg",
+      "summaries": {
+        "ko": "서울 ’70세 이상 버스 무임승차’ 조례안, 오늘 오후 시의회 표결 - 연합뉴스TV",
+        "en": "서울 ’70세 이상 버스 무임승차’ 조례안, 오늘 오후 시의회 표결 - 연합뉴스TV",
+        "zh": "서울 ’70세 이상 버스 무임승차’ 조례안, 오늘 오후 시의회 표결 - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "[속보] '70세 이상 버스요금 지원' 조례 서울시의회 통과",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260624144118sti",
       "source": "Breaking News",
-      "pubDate": "Wed, 24 Jun 2026 10:23:25 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260624/MYH2026062410232496X.jpg",
+      "pubDate": "Wed, 24 Jun 2026 14:41:20 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260624/MYH20260624144118sti.jpg",
       "summaries": {
-        "ko": "[현장연결] 심우정 전 총장 종합특검 출석…'내란가담' 조사",
-        "en": "[현장연결] 심우정 전 총장 종합특검 출석…'내란가담' 조사",
-        "zh": "[현장연결] 심우정 전 총장 종합특검 출석…'내란가담' 조사"
-      }
-    },
-    {
-      "title": "[속보] 감사원장 \"선관위 회계감사 위한 자료수집 시작…7월 실지감사\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260624101910ayj",
-      "source": "Breaking News",
-      "pubDate": "Wed, 24 Jun 2026 10:19:12 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260624/AKR20260624101910ayj_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 감사원장 \"선관위 회계감사 위한 자료수집 시작…7월 실지감사\"",
-        "en": "[속보] 감사원장 \"선관위 회계감사 위한 자료수집 시작…7월 실지감사\"",
-        "zh": "[속보] 감사원장 \"선관위 회계감사 위한 자료수집 시작…7월 실지감사\""
+        "ko": "[속보] '70세 이상 버스요금 지원' 조례 서울시의회 통과",
+        "en": "[속보] '70세 이상 버스요금 지원' 조례 서울시의회 통과",
+        "zh": "[속보] '70세 이상 버스요금 지원' 조례 서울시의회 통과"
       }
     }
   ]
