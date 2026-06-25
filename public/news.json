@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-25T21:54:52.150930",
+  "lastUpdate": "2026-06-25T23:05:02.767155",
   "items": [
     {
       "title": "공휴일 덮친 126년 만의 대지진…베네수 흙벽돌집 많아 피해 커질 듯 - 한겨레",
@@ -8,21 +8,21 @@
       "pubDate": "Thu, 25 Jun 2026 15:42:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/957/638/imgdb/original/2026/0625/20260625503396.webp",
       "summaries": {
-        "ko": "공휴일에 베네수엘라 북서부를 강타한 규모 7.2와 7.5의 강력한 지진으로 수십 명 사망, 수백 명 부상, 수천 명 실종 신고 및 광범위한 기반 시설 마비가 발생했으며, 취약한 흙벽돌 주택 구조로 인해 피해가 더욱 커질 것으로 예상된다.",
-        "en": "A powerful 7.2 and 7.5 magnitude earthquake struck northwestern Venezuela on a public holiday, causing dozens of deaths, hundreds of injuries, thousands of missing reports, and widespread infrastructure paralysis, with vulnerable adobe housing structures exacerbating the damage.",
-        "zh": "一场7.2级和7.5级的强烈地震在公共假日袭击了委内瑞拉西北部，造成数十人死亡、数百人受伤、数千人失踪，并导致基础设施大面积瘫痪，脆弱的土坯房结构预计将加剧灾情。"
+        "ko": "10월 24일 베네수엘라 북서부에서 발생한 규모 7.2와 7.5의 강력한 지진으로 수도 카라카스를 포함한 전역에서 수십 명의 사망자와 수백 명의 부상자가 발생하고 기반 시설이 마비되었으며, 공휴일과 취약한 주택 구조로 인해 피해가 커질 것으로 예상된다.",
+        "en": "On October 24, two powerful earthquakes of magnitude 7.2 and 7.5 struck northwestern Venezuela, causing dozens of deaths, hundreds of injuries, and infrastructure paralysis across the country, including the capital Caracas, with damage exacerbated by a public holiday and vulnerable housing structures.",
+        "zh": "10月24日，委内瑞拉西北部发生7.2级和7.5级两次强烈地震，造成包括首都加拉加斯在内的全国数十人死亡、数百人受伤、基础设施瘫痪，预计由于公共假期和脆弱的房屋结构，损失将进一步扩大。"
       }
     },
     {
-      "title": "與 당권 경쟁에 사라진 ‘보완수사권 숙의’… 결국 강경파 뜻대로 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260626/134185808/2",
+      "title": "김민석 “檢 보완수사권 폐지, 정부 입장으로 최종 정리” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260626/134185823/2",
       "source": "동아일보",
       "pubDate": "Thu, 25 Jun 2026 19:30:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/26/134186051.1.jpg",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/22/134156014.1.jpg",
       "summaries": {
-        "ko": "與 당권 경쟁에 사라진 ‘보완수사권 숙의’… 결국 강경파 뜻대로 - 동아일보",
-        "en": "與 당권 경쟁에 사라진 ‘보완수사권 숙의’… 결국 강경파 뜻대로 - 동아일보",
-        "zh": "與 당권 경쟁에 사라진 ‘보완수사권 숙의’… 결국 강경파 뜻대로 - 동아일보"
+        "ko": "김민석 “檢 보완수사권 폐지, 정부 입장으로 최종 정리” - 동아일보",
+        "en": "김민석 “檢 보완수사권 폐지, 정부 입장으로 최종 정리” - 동아일보",
+        "zh": "김민석 “檢 보완수사권 폐지, 정부 입장으로 최종 정리” - 동아일보"
       }
     },
     {
@@ -38,18 +38,6 @@
       }
     },
     {
-      "title": "국방부, 4~5년 복무 ‘사이버·AI 부사관’ 추진…선택적 모병제 속도 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/defense/1265400.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 25 Jun 2026 15:41:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/615/imgdb/original/2026/0625/20260625503659.webp",
-      "summaries": {
-        "ko": "국방부, 4~5년 복무 ‘사이버·AI 부사관’ 추진…선택적 모병제 속도 - 한겨레",
-        "en": "국방부, 4~5년 복무 ‘사이버·AI 부사관’ 추진…선택적 모병제 속도 - 한겨레",
-        "zh": "국방부, 4~5년 복무 ‘사이버·AI 부사관’ 추진…선택적 모병제 속도 - 한겨레"
-      }
-    },
-    {
       "title": "日 해역서도 규모 7.2 지진… 외벽 떨어져나가 주민 공포 - 조선일보",
       "link": "https://www.chosun.com/international/international_general/2026/06/25/ALSPXQBPPBF3BCJJNT6LCDCEVA/",
       "source": "조선일보",
@@ -62,63 +50,75 @@
       }
     },
     {
-      "title": "한성숙 인사청문회…국힘 “권력 마귀” 민주 “인신공격” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1265377.html",
+      "title": "국방부, 4~5년 복무 ‘사이버·AI 부사관’ 추진…선택적 모병제 속도 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/defense/1265400.html",
       "source": "한겨레",
-      "pubDate": "Thu, 25 Jun 2026 11:13:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/651/imgdb/original/2026/0625/20260625503448.webp",
+      "pubDate": "Thu, 25 Jun 2026 15:41:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/615/imgdb/original/2026/0625/20260625503659.webp",
       "summaries": {
-        "ko": "한성숙 인사청문회…국힘 “권력 마귀” 민주 “인신공격” - 한겨레",
-        "en": "한성숙 인사청문회…국힘 “권력 마귀” 민주 “인신공격” - 한겨레",
-        "zh": "한성숙 인사청문회…국힘 “권력 마귀” 민주 “인신공격” - 한겨레"
+        "ko": "국방부, 4~5년 복무 ‘사이버·AI 부사관’ 추진…선택적 모병제 속도 - 한겨레",
+        "en": "국방부, 4~5년 복무 ‘사이버·AI 부사관’ 추진…선택적 모병제 속도 - 한겨레",
+        "zh": "국방부, 4~5년 복무 ‘사이버·AI 부사관’ 추진…선택적 모병제 속도 - 한겨레"
       }
     },
     {
-      "title": "미 동아태차관보 “전작권 조건, 가능한한 빨리 충족되도록 집중” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8595194",
-      "source": "KBS 뉴스",
-      "pubDate": "Thu, 25 Jun 2026 19:05:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/06/26/20260626_aq3OYy.jpg",
+      "title": "미국·이란, 30일 전후로 실무 협상 재개 - 서울신문",
+      "link": "https://www.seoul.co.kr/news/international/2026/06/26/20260626010006",
+      "source": "서울신문",
+      "pubDate": "Thu, 25 Jun 2026 14:58:00 GMT",
+      "image": "https://img.seoul.co.kr//img/upload/2026/06/25/SSC_20260625235852_O2.jpg.webp",
       "summaries": {
-        "ko": "미 동아태차관보 “전작권 조건, 가능한한 빨리 충족되도록 집중” - KBS 뉴스",
-        "en": "미 동아태차관보 “전작권 조건, 가능한한 빨리 충족되도록 집중” - KBS 뉴스",
-        "zh": "미 동아태차관보 “전작권 조건, 가능한한 빨리 충족되도록 집중” - KBS 뉴스"
+        "ko": "미국·이란, 30일 전후로 실무 협상 재개 - 서울신문",
+        "en": "미국·이란, 30일 전후로 실무 협상 재개 - 서울신문",
+        "zh": "미국·이란, 30일 전후로 실무 협상 재개 - 서울신문"
       }
     },
     {
-      "title": "[날씨] 다시 30도 안팎 낮 더위…동쪽 중심 소나기 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260626055221LvY",
-      "source": "연합뉴스TV",
-      "pubDate": "Thu, 25 Jun 2026 20:52:23 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260625/MYH20260626055221LvY.jpg",
+      "title": "美동아태차관보 \"전작권 조건, 가능한한 빨리 충족되도록 집중\"(종합) - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260626000851071",
+      "source": "연합뉴스",
+      "pubDate": "Thu, 25 Jun 2026 15:59:07 GMT",
+      "image": "https://img3.yna.co.kr/photo/etc/ta/2025/10/27/PTA20251027065301009_P4.jpg",
       "summaries": {
-        "ko": "[날씨] 다시 30도 안팎 낮 더위…동쪽 중심 소나기 - 연합뉴스TV",
-        "en": "[날씨] 다시 30도 안팎 낮 더위…동쪽 중심 소나기 - 연합뉴스TV",
-        "zh": "[날씨] 다시 30도 안팎 낮 더위…동쪽 중심 소나기 - 연합뉴스TV"
+        "ko": "美동아태차관보 \"전작권 조건, 가능한한 빨리 충족되도록 집중\"(종합) - 연합뉴스",
+        "en": "美동아태차관보 \"전작권 조건, 가능한한 빨리 충족되도록 집중\"(종합) - 연합뉴스",
+        "zh": "美동아태차관보 \"전작권 조건, 가능한한 빨리 충족되도록 집중\"(종합) - 연합뉴스"
       }
     },
     {
-      "title": "박규환 “정청래, 업적만 보면 이 대통령 버금가…연임 명분 충분” - 매일경제",
-      "link": "https://www.mk.co.kr/news/politics/12083135",
-      "source": "매일경제",
-      "pubDate": "Thu, 25 Jun 2026 08:02:55 GMT",
-      "image": "https://pimg.mk.co.kr/news/cms/202606/25/rcv.NEWSIS.NEWSIS.20260225.NISI20260225_0021187465_R.jpg",
-      "summaries": {
-        "ko": "박규환 “정청래, 업적만 보면 이 대통령 버금가…연임 명분 충분” - 매일경제",
-        "en": "박규환 “정청래, 업적만 보면 이 대통령 버금가…연임 명분 충분” - 매일경제",
-        "zh": "박규환 “정청래, 업적만 보면 이 대통령 버금가…연임 명분 충분” - 매일경제"
-      }
-    },
-    {
-      "title": "張 퇴원 하루만에 의원들 “사퇴하라”... ‘재신임 투표’ 주장도 나와 - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/06/25/WICKSHOVBJELHH7O5JG36DYMFY/",
+      "title": "한성숙, ‘주적 어디냐’ 물음에 “北은 위협이자 동포” - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/06/25/OXTSSSJW5NAARH6JL5X7NS6DSM/",
       "source": "조선일보",
-      "pubDate": "Thu, 25 Jun 2026 08:02:30 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GRQWCMLDMNTDIY3DGUYTEMRZGY.jpg?auth=e63fb0e0885cc51a7f6d0c4ae1b412cd204726916539d164492b23177459ec4b&width=720&height=378&smart=true",
+      "pubDate": "Thu, 25 Jun 2026 08:47:42 GMT",
+      "image": "https://www.chosun.com/resizer/v2/RTOVW4ECWFBIHHUK4Q6XYD65T4.jpg?auth=c1274a0afe87cf87d363010842dfa67fc5add69a4a1af6a59757c6cdeb7f14b0&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "張 퇴원 하루만에 의원들 “사퇴하라”... ‘재신임 투표’ 주장도 나와 - 조선일보",
-        "en": "張 퇴원 하루만에 의원들 “사퇴하라”... ‘재신임 투표’ 주장도 나와 - 조선일보",
-        "zh": "張 퇴원 하루만에 의원들 “사퇴하라”... ‘재신임 투표’ 주장도 나와 - 조선일보"
+        "ko": "한성숙, ‘주적 어디냐’ 물음에 “北은 위협이자 동포” - 조선일보",
+        "en": "한성숙, ‘주적 어디냐’ 물음에 “北은 위협이자 동포” - 조선일보",
+        "zh": "한성숙, ‘주적 어디냐’ 물음에 “北은 위협이자 동포” - 조선일보"
+      }
+    },
+    {
+      "title": "국힘 쇄신파 “장동혁 사퇴” 당권파 “외계어로 흔들기”…징계전 번지나 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1265349.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 25 Jun 2026 10:17:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0625/53_17823753113001_6517823752922287.webp",
+      "summaries": {
+        "ko": "국민의힘 장동혁 대표가 자신에게 사퇴를 요구하는 쇄신파 의원들을 향해 '당 기강 확립'을 내세우며 징계 절차 재개를 시사해 당내 갈등이 '징계 정국'으로 번질 조짐을 보이고 있다.",
+        "en": "Jang Dong-hyuk, leader of South Korea's People Power Party, is pushing for 'party discipline' and hinting at reactivating disciplinary procedures against reformist lawmakers demanding his resignation, escalating internal conflict and potentially leading to a new 'disciplinary situation' within the party.",
+        "zh": "韩国国民力量党代表张东赫因改革派议员要求其辞职，而提出“确立党纪”，并暗示将重启纪律程序，使党内冲突升级，或将再次进入“惩戒局面”。"
+      }
+    },
+    {
+      "title": "김용범 “李지지율 하락, 부동산-세제 때문 아냐…정책기조 큰 전환 없을 것” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260624/134172258/1",
+      "source": "동아일보",
+      "pubDate": "Wed, 24 Jun 2026 02:28:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134172586.1.jpg",
+      "summaries": {
+        "ko": "김용범 “李지지율 하락, 부동산-세제 때문 아냐…정책기조 큰 전환 없을 것” - 동아일보",
+        "en": "김용범 “李지지율 하락, 부동산-세제 때문 아냐…정책기조 큰 전환 없을 것” - 동아일보",
+        "zh": "김용범 “李지지율 하락, 부동산-세제 때문 아냐…정책기조 큰 전환 없을 것” - 동아일보"
       }
     }
   ]
