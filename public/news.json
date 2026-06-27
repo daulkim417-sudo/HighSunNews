@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-27T07:29:12.136132",
+  "lastUpdate": "2026-06-27T09:37:54.414046",
   "items": [
     {
       "title": "베네수엘라 지진 사망자 920명으로 급증…“실종자 5만명 넘어” - 한겨레",
@@ -8,9 +8,45 @@
       "pubDate": "Sat, 27 Jun 2026 01:32:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/767/460/imgdb/child/2026/0627/53_17825237911852_20260627500250.webp",
       "summaries": {
-        "ko": "베네수엘라 연쇄 강진으로 사망자가 920명으로 급증하고 5만명 이상이 실종된 가운데, 피해 병원 포화와 약화된 재난 대응 능력이 문제로 지적되며 미국으로부터 구조 및 인도적 지원을 약속받았다.",
-        "en": "As the death toll from Venezuela's series of strong earthquakes rapidly surged to 920 with over 50,000 missing, overwhelmed hospitals and weakened disaster response capabilities were highlighted as issues, while the US pledged rescue teams and humanitarian aid.",
-        "zh": "委内瑞拉系列强震导致死亡人数迅速增至920人，超过5万人失踪，受损医院不堪重负以及灾难应对能力减弱的问题凸显，同时美国承诺提供救援队和人道主义援助。"
+        "ko": "베네수엘라 강진 사망자가 920명으로 급증하고 5만여 명이 실종된 가운데, 병원 포화와 재난 대응 능력 약화로 피해가 심화되고 있으며, 미국이 인도적 지원을 약속했다.",
+        "en": "The death toll from Venezuela's strong earthquakes has surged to 920 with over 50,000 missing, exacerbating the disaster due to overwhelmed hospitals and weakened response capabilities, though the U.S. has pledged humanitarian aid.",
+        "zh": "委内瑞拉强震死亡人数已飙升至920人，逾5万人失踪，医院不堪重负及灾害应对能力薄弱加剧了灾情，美国已承诺提供人道主义援助。"
+      }
+    },
+    {
+      "title": "김민석 \"내가 대통령 만들었다는 과잉 자신감 절제돼야\"‥유시민 겨냥? - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6833312_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sat, 27 Jun 2026 07:16:12 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/06/27/jhp_20260627_1.jpg",
+      "summaries": {
+        "ko": "김민석 국무총리는 '대통령을 만들었다는 과잉 자신감으로 비판하는 태도'를 절제해야 한다고 강조하며 유시민 작가의 '이재명 대통령' 관련 발언을 겨냥한 듯했고, 당내 갈등과 선거 결과에 대한 우려 속에 '다시 이기는 민주당'을 만들자고 촉구했다.",
+        "en": "Prime Minister Kim Min-seok emphasized that an attitude of criticizing 'the president' with overconfidence, claiming to have 'made' them, should be moderated, seemingly targeting writer Yu Si-min's remarks about 'President Lee Jae-myung,' while also expressing concerns over intra-party conflicts and election results, urging the creation of a 'Democratic Party that wins again.'",
+        "zh": "金敏锡国务总理强调，应克制“因自认为造就了总统而过度自信地批评总统”的态度，此言似乎针对了作家柳时敏关于“李在明总统”的言论，同时在对党内矛盾和选举结果的担忧中，呼吁打造一个“再次获胜的民主党”。"
+      }
+    },
+    {
+      "title": "정성호 “김건희 징역 7년, 무혐의 했던 정치검찰 심판” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1265612.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 27 Jun 2026 05:50:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/591/354/imgdb/child/2026/0627/53_17825392777906_20260627500393.webp",
+      "summaries": {
+        "ko": "정성호 법무부 장관이 김건희 여사의 1심 징역 7년 선고를 과거 무혐의 처분을 내린 '정치검찰에 대한 심판'으로 평가하며 강하게 비판했다.",
+        "en": "Justice Minister Jeong Seong-ho criticized Kim Keon-hee's first-instance sentencing to 7 years in prison, calling it a \"judgment against political prosecutors\" who had previously issued a clean bill of health.",
+        "zh": "法务部长官郑成浩就金建希女士一审被判7年有期徒刑一事发表评论，称这是对此前曾宣判其无嫌疑的“政治检察官的审判”，并予以严厉批评。"
+      }
+    },
+    {
+      "title": "유시민 \"이 대통령, 자신감 지나쳐‥ 지지층 증축 원하는데 재건축\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6833273_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sat, 27 Jun 2026 00:47:40 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/06/27/yh_20260627-6_1.jpg",
+      "summaries": {
+        "ko": "유시민 작가는 이재명 대통령이 지나친 자신감으로 지지층의 '증축' 대신 '재건축'을 시도하며 핵심 지지층을 공격해 국정수행 지지율 하락을 초래했다고 비판했습니다.",
+        "en": "Author Yoo Si-min criticized President Lee Jae-myung, stating that his excessive confidence led him to attempt a 'reconstruction' instead of an 'expansion' of his support base and attack core supporters, resulting in a decline in his approval rating.",
+        "zh": "作家柳时敏批评李在明总统自信心过强，试图对其支持基础进行“重建”而非“增建”，并攻击核心支持者，导致其国政执行支持率下降。"
       }
     },
     {
@@ -26,63 +62,27 @@
       }
     },
     {
-      "title": "김 총리 \"과한 언어로 대통령 비판, 자칫 '난'으로 연결될 수도\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6833275_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sat, 27 Jun 2026 00:52:07 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/06/27/jse_20260627_9.jpg",
+      "title": "정말 하늘이 '한국 축구'를 버린건가… 스페인·이집트마저 외면하면 '진짜 짐싼다' [2026 월드컵] - 파이낸셜뉴스",
+      "link": "https://www.fnnews.com/news/202606270708069780",
+      "source": "파이낸셜뉴스",
+      "pubDate": "Fri, 26 Jun 2026 23:55:00 GMT",
+      "image": "https://image.fnnews.com/resource/media/image/2026/06/25/202606251458147259_l.jpg",
       "summaries": {
-        "ko": "김 총리는 대통령에 대한 과도한 비판이 '난'으로 이어질 수 있다고 경고하며 민주당의 대대적 변화와 내부 소통 개선을 촉구했고, '당원주권주의'의 잠재적 위험성을 지적하며 진정한 당원주권을 위한 제도 개혁을 강조했다.",
-        "en": "Prime Minister Kim Min-seok warned that excessive criticism of the president could lead to 'rebellion', urged significant reform and improved internal communication within the Democratic Party, and highlighted the potential pitfalls of \"party member sovereignty\" while emphasizing institutional reform for true member participation.",
-        "zh": "金民锡总理警告称，过度批评总统可能导致“叛乱”，并呼吁民主党进行重大改革和改善内部沟通，同时指出“党员主权主义”的潜在弊端，强调为实现真正党员主权而进行制度改革。"
+        "ko": "홍명보호가 2026 월드컵 32강 진출을 위해 타 구장 경기 결과에 전적으로 의존하는 절체절명의 위기에 처했으며, 특히 27일 스페인-우루과이전과 이집트-이란전의 승패에 따라 운명이 결정된다.",
+        "en": "The Hong Myung-bo led Korean national football team is in a desperate situation, entirely dependent on results from other matches to qualify for the 2026 World Cup Round of 32, with their fate hinging on the outcomes of the Spain-Uruguay and Egypt-Iran games on the 27th.",
+        "zh": "韩国国家足球队在洪明甫的带领下，晋级2026年世界杯32强命悬一线，完全依赖其他赛场的结果，其命运尤其取决于27日西班牙对乌拉圭以及埃及对伊朗比赛的胜负。"
       }
     },
     {
-      "title": "청 “문 전 대통령과 오찬, 취임 직후부터 추진”…‘추측’ 차단 나서 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1265605.html",
+      "title": "“물 공급 검토도 안 했겠나”…이 대통령, ‘호남 반도체 용수 부족’ 반박 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1265609.html",
       "source": "한겨레",
-      "pubDate": "Sat, 27 Jun 2026 02:54:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/546/327/imgdb/child/2026/0627/53_17825281240383_20260627500303.webp",
+      "pubDate": "Sat, 27 Jun 2026 05:47:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0627/53_17825391832046_3917825391481283.png",
       "summaries": {
-        "ko": "청와대는 이재명 대통령과 문재인 전 대통령의 오찬이 계파 갈등 수습이 아닌 취임 직후부터 추진된 국정 논의 자리라고 밝혔다.",
-        "en": "The presidential office announced that the luncheon between President Lee Jae-myung and former President Moon Jae-in is a meeting for discussing state affairs, which has been pursued since the inauguration, rather than for resolving factional conflicts as rumored.",
-        "zh": "韩国总统府表示，李在明总统与文在寅前总统的午餐会是自就任初期便开始推动的国政讨论，而非为平息派系冲突。"
-      }
-    },
-    {
-      "title": "이재명, ‘반도체 투자’ 호남권 물부족 반박하며 “돼지 눈에는 돼지 보여” - 한국일보",
-      "link": "https://www.hankookilbo.com/news/article/A2026062712120001711",
-      "source": "한국일보",
-      "pubDate": "Sat, 27 Jun 2026 03:25:00 GMT",
-      "image": "https://newsimg.hankookilbo.com/2026/06/27/dc35afba-d728-4222-be63-d802c49b788d.jpg",
-      "summaries": {
-        "ko": "이재명 대통령은 호남권 반도체 클러스터의 물 부족 우려를 일축하며 호남은 충분한 수자원을 가졌으나 관리 부재로 방치되었을 뿐이라고 반박하고, 반대 의견에 대해 “돼지 눈에는 돼지가 보인다”고 비판했다.",
-        "en": "President Lee Jae-myung dismissed concerns about water shortages for a semiconductor cluster in the Honam region, asserting that the area has sufficient water resources merely neglected due to poor management, and criticized opposing views with the proverb, \"A pig sees a pig.\"",
-        "zh": "李在明总统驳斥了对湖南地区半导体产业集群水资源短缺的担忧，称该地区水资源充足但因管理不善而被忽视，并以“猪眼看猪”的比喻批评了反对意见。"
-      }
-    },
-    {
-      "title": "정성호 “한줌 정치검사로 ‘사법 정의 신뢰’ 지하까지 추락”···김건희 7년형 선고에 “정치검찰 무혐의 처분도 심판” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606271146001",
-      "source": "경향신문",
-      "pubDate": "Sat, 27 Jun 2026 02:46:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/27/news-p.v1.20260627.6d1445a69c76410c8f3faf9a308d3cc9_P1.jpg",
-      "summaries": {
-        "ko": "정성호 법무부 장관은 김건희씨의 7년형 선고에 대해 '권력 눈치 본 정치검찰의 무혐의 처분도 심판받았다'고 비판하며, 소수 정치검사들이 국민의 사법 신뢰를 지하까지 추락시켰다고 강조하고 검찰 개혁을 촉구했다.",
-        "en": "Following Kim Kun-hee's 7-year prison sentence, Justice Minister Jung Seong-ho criticized it as a judgment on the 'no-indictment decision by political prosecutors who bowed to power,' emphasizing that a few political prosecutors have plummeted public trust in judicial justice and called for strong prosecutorial reform.",
-        "zh": "针对金建希被判7年有期徒刑，韩国法务部长官郑圣镐批评称，此判决也审判了“看权力脸色行事的政治检察官此前作出的无嫌疑处理”，并强调少数政治检察官已使国民对司法正义的信任跌入谷底，呼吁检察机关进行强力改革。"
-      }
-    },
-    {
-      "title": "'일본인 아기 사망' 중앙선 침범사고 70대 택시기사 집행유예 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260627023300004",
-      "source": "연합뉴스",
-      "pubDate": "Sat, 27 Jun 2026 01:12:17 GMT",
-      "image": "https://img8.yna.co.kr/photo/cms/2015/10/11/01/C0A8CA3C00000150555FBE4E0001AF2A_P4.jpeg",
-      "summaries": {
-        "ko": "중앙선 침범 사고로 일본인 아기를 숨지게 하고 승객 부부에게 중상을 입힌 70대 택시기사가 1심에서 금고 2년에 집행유예 3년을 선고받았다.",
-        "en": "A 70-year-old taxi driver who caused a head-on collision by crossing the center line, leading to the death of a Japanese baby and serious injuries to the passenger couple, was sentenced to two years in prison, suspended for three years, in the first trial.",
-        "zh": "一名70多岁的出租车司机因闯越中央线引发事故，导致一名日本婴儿死亡、乘客夫妇重伤，在一审中被判处有期徒刑两年，缓刑三年。"
+        "ko": "이재명 대통령은 호남 지역 대규모 반도체 시설의 용수 부족 우려에 대해 적절한 관리를 통해 충분한 산업용수 공급이 가능하며, 대기업들이 검토 없이 투자하지 않을 것이라고 반박했다.",
+        "en": "President Lee Jae-myung refuted concerns about water shortages for proposed semiconductor facilities in the Honam region, stating that sufficient industrial water is available with proper management and that top companies would not invest without prior review.",
+        "zh": "李在明总统反驳了对湖南地区大型半导体设施可能面临用水短缺的担忧，称通过适当管理可提供充足的工业用水，且顶级企业在投资前会进行充分评估。"
       }
     },
     {
@@ -92,33 +92,33 @@
       "pubDate": "Sat, 27 Jun 2026 00:30:07 GMT",
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260627/AKR20260627093006Ung_01_i.jpg",
       "summaries": {
-        "ko": "호르무즈 발 묶였던 한국 선박 2척 추가 통과…3척 남아 - 연합뉴스TV",
-        "en": "호르무즈 발 묶였던 한국 선박 2척 추가 통과…3척 남아 - 연합뉴스TV",
-        "zh": "호르무즈 발 묶였던 한국 선박 2척 추가 통과…3척 남아 - 연합뉴스TV"
+        "ko": "중동 전쟁으로 호르무즈 해협에 발 묶였던 한국 선박 2척이 추가로 해협을 통과했으며, 현재 수리 중인 1척을 포함해 총 3척의 선박이 남아 있습니다.",
+        "en": "Two more South Korean ships, previously stranded in the Strait of Hormuz due to the Middle East conflict, have successfully passed through, leaving a total of three ships, including one under repair, still in the strait.",
+        "zh": "因中东战争滞留在霍尔木兹海峡的2艘韩国船只已成功通过，目前仍有包括1艘维修船在内的共3艘船只留在海峡内。"
       }
     },
     {
-      "title": "호주, 16세 미만 SNS 차단 강화…\"다수 청소년 여전히 이용\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202606271610501k8",
-      "source": "Breaking News",
-      "pubDate": "Sat, 27 Jun 2026 16:10:51 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260627/AKR202606271610501k8_01_i.jpg",
+      "title": "민주, ‘보완수사권 폐지’ 8월 전당대회 전 처리 가닥 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1265565.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 26 Jun 2026 10:05:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/580/imgdb/original/2026/0626/20260626502418.webp",
       "summaries": {
-        "ko": "호주, 16세 미만 SNS 차단 강화…\"다수 청소년 여전히 이용\"",
-        "en": "호주, 16세 미만 SNS 차단 강화…\"다수 청소년 여전히 이용\"",
-        "zh": "호주, 16세 미만 SNS 차단 강화…\"다수 청소년 여전히 이용\""
+        "ko": "더불어민주당이 검찰의 보완수사권 폐지를 담은 형사소송법 개정안을 8월 17일 전당대회 이전에 처리하여 사법 개혁을 마무리하고 당내 시점 쟁점화를 차단할 방침이다.",
+        "en": "The Democratic Party plans to pass an amendment to the Criminal Procedure Act, which includes abolishing the prosecution's supplementary investigative power, before its August 17th national convention to complete judicial reform and prevent internal disputes over the timing.",
+        "zh": "共同民主党计划在其8月17日全国代表大会之前，通过修订刑事诉讼法以废除检察机关的补充侦查权，旨在完成司法改革并避免党内就处理时机产生的争议。"
       }
     },
     {
-      "title": "\"우리 멍멍이 대여 비용은…\" 中 반려견 대여서비스 [지구촌톡톡]",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260627160844lAs",
+      "title": "콘텐츠와 대화하고 피부도 진단…생활 속 AI 확산",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260627182320v7d",
       "source": "Breaking News",
-      "pubDate": "Sat, 27 Jun 2026 16:08:45 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260627/MYH20260627160844lAs.jpg",
+      "pubDate": "Sat, 27 Jun 2026 18:23:21 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260627/MYH20260627182320v7d.jpg",
       "summaries": {
-        "ko": "\"우리 멍멍이 대여 비용은…\" 中 반려견 대여서비스 [지구촌톡톡]",
-        "en": "\"우리 멍멍이 대여 비용은…\" 中 반려견 대여서비스 [지구촌톡톡]",
-        "zh": "\"우리 멍멍이 대여 비용은…\" 中 반려견 대여서비스 [지구촌톡톡]"
+        "ko": "인공지능이 놀이, 쇼핑, 뷰티 등 일상생활 전반에 걸쳐 확산되며 실시간 대화 및 피부 진단, 맞춤형 제품 추천 등을 통해 소비자 경험의 새로운 기준을 제시하고 있다.",
+        "en": "Artificial intelligence is rapidly expanding into various aspects of daily life, including entertainment, shopping, and beauty, transforming consumer experiences by enabling real-time conversations, skin diagnostics, and personalized product recommendations.",
+        "zh": "人工智能正迅速融入日常生活，包括娱乐、购物和美容等领域，通过实时对话、皮肤诊断和个性化产品推荐等方式，改变着消费者的体验。"
       }
     }
   ]
