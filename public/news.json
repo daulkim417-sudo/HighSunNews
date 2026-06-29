@@ -1,76 +1,88 @@
 {
-  "lastUpdate": "2026-06-29T11:26:57.617226",
+  "lastUpdate": "2026-06-29T14:55:24.585952",
   "items": [
     {
-      "title": "유시민 재건축론 여진…홍익표 “재개발 결정은 국민” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1265913.html",
+      "title": "청 “증축·재건축? 재개발도 가능…결정은 국민이 하는 것” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202606292125005",
+      "source": "경향신문",
+      "pubDate": "Mon, 29 Jun 2026 12:25:00 GMT",
+      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
+      "summaries": {
+        "ko": "청와대 홍익표 정무수석은 이재명 대통령의 국정 운영을 '재건축'에 비유하며 비판한 유시민 작가에게 '재개발도 가능하며 결정은 정치권이 아닌 국민의 몫'이라고 반박했다.",
+        "en": "Cheong Wa Dae's Chief Secretary for Political Affairs Hong Ik-pyo countered author Yoo Si-min's criticism of President Lee Jae-myung's state management direction as 'reconstruction,' stating that 'redevelopment is also possible, and the decision rests with the people, not politicians.'",
+        "zh": "青瓦台政务首席秘书洪翼杓反驳了作家柳时敏将李在明总统的国政运营比作“重建”的批评，称“拆迁重建也是可能的，并且决定权在于国民而非政界”。"
+      }
+    },
+    {
+      "title": "미 “30일 도하서 고위급 회담”…이란은 확인 안 해 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/america/1265924.html",
       "source": "한겨레",
-      "pubDate": "Mon, 29 Jun 2026 10:52:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/549/imgdb/original/2026/0629/20260629503360.webp",
+      "pubDate": "Mon, 29 Jun 2026 13:30:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0629/20260629503507.webp",
       "summaries": {
-        "ko": "유시민 작가의 '민주당 재건축론' 발언에 홍익표 정무수석이 '재개발도 있고 결정은 국민의 몫'이라고 반박했으며, 당내에서는 외연 확장 필요성과 유 작가의 비평 방식에 대한 논란이 이어지고 있다.",
-        "en": "Following Yoo Si-min's 'Democratic Party reconstruction theory' remarks, Chief of Staff for Political Affairs Hong Ik-pyo countered that 'redevelopment also exists, and the decision rests with the people,' while debates within the party continue regarding the necessity of expanding outreach and criticism of Yoo's commentary style.",
-        "zh": "在柳时敏作家提出‘民主党重建论’后，政务首席秘书洪翼杓反驳称‘还有再开发，决定权在于国民’，党内就扩大外延的必要性以及对柳时敏评论方式的争议持续不断。"
+        "ko": "미국은 최근 군사 충돌 완화와 호르무즈 해협 논의를 위해 30일 카타르 도하에서 이란과의 고위급 회담을 발표했지만, 이란은 이를 확인하지 않고 있다.",
+        "en": "The US announced high-level talks with Iran will be held in Doha, Qatar, on the 30th to de-escalate recent military clashes and discuss the Strait of Hormuz, although Iran has not confirmed its attendance.",
+        "zh": "美国宣布将于30日在卡塔尔多哈与伊朗举行高级别会谈，以缓和近期军事冲突并讨论霍尔木兹海峡问题，尽管伊朗尚未证实此事。"
       }
     },
     {
-      "title": "민주 “내일 상임위원장 선출”·국힘 “법사위 포기 못 해”…여야 원구성 협상 또 결렬 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8597338",
-      "source": "KBS 뉴스",
-      "pubDate": "Mon, 29 Jun 2026 08:43:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/06/29/20260629_fN7Ril.png",
+      "title": "“배현진-진종오-김종혁 등 조치 있어야” 문자…국힘, 친한계 징계? - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260629/134202275/1",
+      "source": "동아일보",
+      "pubDate": "Mon, 29 Jun 2026 09:24:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/29/134204309.1.jpg",
       "summaries": {
-        "ko": "여야는 국회 원 구성을 위한 협상에서 법제사법위원장 자리를 두고 또다시 이견을 좁히지 못해 결렬됐으며, 민주당은 내일 상임위원장 선출을 강행하겠다고 밝힌 반면 국민의힘은 이를 저지하겠다고 맞섰다.",
-        "en": "Negotiations between the ruling and opposition parties for the formation of the National Assembly's standing committees again collapsed due to an unresolved dispute over the chairmanship of the Legislation and Judiciary Committee, with the Democratic Party vowing to unilaterally proceed with chair selection tomorrow while the People Power Party pledged to block it.",
-        "zh": "执政党和在野党为组建国会常任委员会进行的协商再次破裂，双方未能就法制司法委员会委员长职位达成一致，民主党表示将于明日强行选举常任委员长，而国民力量党则表示将阻止。"
+        "ko": "“배현진-진종오-김종혁 등 조치 있어야” 문자…국힘, 친한계 징계? - 동아일보",
+        "en": "“배현진-진종오-김종혁 등 조치 있어야” 문자…국힘, 친한계 징계? - 동아일보",
+        "zh": "“배현진-진종오-김종혁 등 조치 있어야” 문자…국힘, 친한계 징계? - 동아일보"
       }
     },
     {
-      "title": "‘7만 실종’ 베네수엘라 강진에 정국 요동…마차도 귀환 카드 꺼냈다 - 한겨레",
+      "title": "'기수 돌려' 베이징 108층 '쾅'‥숨진 조종사 대체 왜? - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6833627_36925.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Mon, 29 Jun 2026 05:16:46 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/06/29/joo260629_vo1.jpg",
+      "summaries": {
+        "ko": "베이징 도심의 랜드마크인 108층 시틱타워에 경비행기가 충돌하여 조종사가 사망했으며, 중국 당국이 정보 통제와 엄격한 조사를 하는 가운데 정치적 동기 가능성까지 제기되고 있습니다.",
+        "en": "A light aircraft crashed into Beijing's 108-story CITIC Tower, killing the pilot, while Chinese authorities are controlling information and conducting strict investigations amidst speculation of political motives.",
+        "zh": "一架轻型飞机撞上北京市中心108层的中信大厦，造成飞行员死亡，中国当局正在控制信息并进行严格调查，同时引发了政治动机的猜测。"
+      }
+    },
+    {
+      "title": "‘6만 실종’ 베네수엘라 강진에 정국 요동…마차도 귀환 카드 꺼냈다 - 한겨레",
       "link": "https://www.hani.co.kr/arti/international/america/1265825.html",
       "source": "한겨레",
-      "pubDate": "Mon, 29 Jun 2026 09:08:00 GMT",
+      "pubDate": "Mon, 29 Jun 2026 11:59:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/640/360/imgdb/original/2026/0629/20260629502351.webp",
       "summaries": {
-        "ko": "베네수엘라 야권 지도자 마리아 코리나 마차도가 강진 피해와 현 정부의 미흡한 재난 대응으로 인한 정국 불안을 틈타 귀국하여 정치적 재등판을 시도하고 있다.",
-        "en": "Venezuelan opposition leader Maria Corina Machado plans to return to Venezuela amidst severe earthquake damage and political instability, aiming to capitalize on public discontent over the current government's inadequate disaster response.",
-        "zh": "委内瑞拉反对派领导人玛丽亚·科里娜·马查多计划在严重地震破坏和政治动荡中返回委内瑞拉，旨在利用民众对现政府救灾不力的不满，重新登上政治舞台。"
+        "ko": "베네수엘라 야권 지도자 마리아 코리나 마차도가 강진 피해와 정부의 미흡한 대응으로 현 정권의 입지가 흔들리는 틈을 타 귀국하여 정치적 재등판을 시도하고 있으나, 정부 불허 및 미국과의 이견 등으로 난항을 겪고 있다.",
+        "en": "Venezuelan opposition leader María Corina Machado plans to return home and re-enter politics, aiming to leverage the acting president's weakened position due to a devastating earthquake and the government's poor response, but faces challenges like government disapproval and U.S. reluctance.",
+        "zh": "委内瑞拉反对派领导人玛丽亚·科里娜·马查多计划在毁灭性地震和政府应对不力导致代理总统支持率下降之际回国重返政坛，但面临政府不批准和美国不情愿等障碍。"
       }
     },
     {
-      "title": "조선일보 ‘용수 부족’ 비판에 강훈식 “그 정도로 실력 없는 말씀 안 드린다” - 미디어오늘",
-      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=335464",
-      "source": "미디어오늘",
-      "pubDate": "Mon, 29 Jun 2026 08:49:51 GMT",
-      "image": "https://cdn.mediatoday.co.kr/news/thumbnail/202606/335464_480438_3347_v150.jpg",
+      "title": "국힘 “법사위장 못 가지면 18개 상임위원장 모두 포기” - v.daum.net",
+      "link": "https://v.daum.net/v/20260629161804629",
+      "source": "v.daum.net",
+      "pubDate": "Mon, 29 Jun 2026 07:18:04 GMT",
+      "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/29/donga/20260629162706969glgb.png",
       "summaries": {
-        "ko": "강훈식 대통령비서실장이 조선일보의 호남 반도체 클러스터 ‘용수 부족’ 비판에 대해 정부가 충분한 용수 공급 방안을 확인했다고 반박하며, 기존 댐 여유분, 하수 재이용 등 100만 톤 이상의 구체적인 공급 계획을 밝혔다.",
-        "en": "Presidential Chief of Staff Kang Hoon-sik refuted Chosun Ilbo's criticism of a 'water shortage' for the Honam semiconductor cluster, detailing over one million tons of specific water supply solutions from existing dams and wastewater reuse, asserting the government's thorough planning.",
-        "zh": "韩国总统秘书室长姜勋植反驳了《朝鲜日报》关于湖南半导体集群“用水不足”的批评，详细列举了包括现有水坝盈余和废水再利用在内的超过100万吨的具体供水方案，强调政府已对此进行充分核实。"
+        "ko": "국민의힘은 법제사법위원장 자리를 확보하지 못할 경우 18개 상임위원장 자리를 모두 포기해 더불어민주당이 무한 책임을 지도록 하겠다고 밝혔다.",
+        "en": "The People Power Party announced that if they fail to secure the chairmanship of the Legislation and Judiciary Committee, they will forfeit all 18 standing committee chairmanships to make the Democratic Party of Korea take full responsibility.",
+        "zh": "国民力量党表示，如果无法获得国会法制司法委员会委员长一职，他们将放弃所有18个常任委员会委员长职位，以让共同民主党承担全部责任。"
       }
     },
     {
-      "title": "[뉴스깊이보기] ‘폭염 대책’ vs ‘기후대응’···유럽 정치권 달구는 에어컨 논쟁 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606291756001",
-      "source": "경향신문",
-      "pubDate": "Mon, 29 Jun 2026 08:56:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/29/rcv.YNA.20260628.PAF20260628202501009_P1.jpg",
+      "title": "이 대통령, 오늘 국민보고회…‘대한민국 대도약 3대 메가프로젝트’ 발표 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8597156",
+      "source": "KBS 뉴스",
+      "pubDate": "Mon, 29 Jun 2026 03:16:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/06/29/20260629_Q4ldDD.jpg",
       "summaries": {
-        "ko": "유럽의 기록적인 폭염과 인명 피해 증가 속에서 에어컨 등 냉방 시설 확대를 통한 즉각적인 폭염 대책과 기후변화 대응 사이의 논쟁이 격화되고 있으며, 일부 우파 정치 세력은 이를 환경 정책 비판과 지지층 결집의 수단으로 활용하고 있다.",
-        "en": "Amid record heatwaves and rising deaths in Europe, a political debate intensifies between immediate heatwave relief, such as expanding air conditioning, and long-term climate action, with some right-wing politicians leveraging the issue to criticize environmental policies and mobilize supporters.",
-        "zh": "在欧洲创纪录的热浪和死亡人数不断上升的背景下，关于立即采取空调扩建等防暑措施与长期气候行动的政治辩论日益激烈，一些右翼政治势力正利用这一问题批评环保政策并争取支持者。"
-      }
-    },
-    {
-      "title": "“장동혁 내려와야” “우재준 사퇴하라”…국힘 최고위서 설전 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1265888.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 29 Jun 2026 09:22:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/633/imgdb/original/2026/0629/20260629503190.webp",
-      "summaries": {
-        "ko": "국민의힘 최고위원회의에서 장동혁 대표의 사퇴를 두고 공개 설전이 벌어졌으며, 장 대표는 사퇴 불가 입장을 재확인했고, 당 윤리위의 징계안 심의가 예고되면서 당내 갈등이 고조되고 있다.",
-        "en": "A public dispute erupted at the People Power Party's supreme council meeting over leader Jang Dong-hyuk's resignation, with Jang reaffirming his refusal to step down, and the impending review of disciplinary cases by the party's ethics committee is escalating internal conflict.",
-        "zh": "在国民力量党最高委员会议上，围绕党代表张东赫辞职问题爆发了公开争论，张代表重申拒绝辞职，而党伦理委员会即将审议惩戒议案，预计党内矛盾将进一步加剧。"
+        "ko": "이재명 대통령은 오늘 국민보고회에서 반도체 클러스터와 AI 데이터센터 등 '대한민국 대도약 3대 메가프로젝트'를 발표하며, 이재용 삼성전자 회장과 최태원 SK그룹 회장이 참석해 정부와 기업의 대규모 지방 투자 계획을 공개한다.",
+        "en": "President Lee Jae-myung will announce \"Korea's Great Leap Forward 3 Major Megaprojects,\" including semiconductor clusters and AI data centers, at today's public briefing, where Samsung Electronics Chairman Lee Jae-yong and SK Group Chairman Choi Tae-won will attend to unveil large-scale regional investment plans by the government and corporations.",
+        "zh": "李在明总统今天将在国民报告会上发布“大韩民国大飞跃3大兆头项目”，包括半导体集群和人工智能数据中心等，三星电子会长李在镕和SK集团会长崔泰源将出席并公布政府和企业的地区大规模投资计划。"
       }
     },
     {
@@ -80,45 +92,33 @@
       "pubDate": "Mon, 29 Jun 2026 11:00:00 GMT",
       "image": "https://img3.yna.co.kr/photo/yna/YH/2026/06/14/PYH2026061404640005500_P4.jpg",
       "summaries": {
-        "ko": "30일 화요일 오후부터 저녁 사이 서울·경기 등 전국 곳곳에 소나기가 내리겠다.",
-        "en": "On Tuesday, the 30th, scattered showers are expected across various inland regions including Seoul and Gyeonggi, from afternoon to evening.",
-        "zh": "30日星期二下午至傍晚，包括首尔和京畿在内的全国多地将有阵雨。"
+        "ko": "[날씨] 내일 오후 전국 곳곳 소나기…돌풍·천둥번개·우박 주의 - 연합뉴스",
+        "en": "[날씨] 내일 오후 전국 곳곳 소나기…돌풍·천둥번개·우박 주의 - 연합뉴스",
+        "zh": "[날씨] 내일 오후 전국 곳곳 소나기…돌풍·천둥번개·우박 주의 - 연합뉴스"
       }
     },
     {
-      "title": "[월드컵] 홍명보 감독, 32강 불발 책임지고 사퇴 \"모든 기준은 한국 축구였다\" - KBC광주방송",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202606290006",
-      "source": "KBC광주방송",
-      "pubDate": "Sun, 28 Jun 2026 21:57:29 GMT",
-      "image": "https://www.ikbc.co.kr/data/kbc/image/2026/06/29/kbc202606290007.jpg",
+      "title": "배재고 “스타벅스 가야지”…광주일고 상대 ‘5·18 폄훼 응원’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1265923.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 29 Jun 2026 13:15:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/532/imgdb/original/2026/0629/20260629503505.webp",
       "summaries": {
-        "ko": "[월드컵] 홍명보 감독, 32강 불발 책임지고 사퇴 \"모든 기준은 한국 축구였다\" - KBC광주방송",
-        "en": "[월드컵] 홍명보 감독, 32강 불발 책임지고 사퇴 \"모든 기준은 한국 축구였다\" - KBC광주방송",
-        "zh": "[월드컵] 홍명보 감독, 32강 불발 책임지고 사퇴 \"모든 기준은 한국 축구였다\" - KBC광주방송"
+        "ko": "배재고 “스타벅스 가야지”…광주일고 상대 ‘5·18 폄훼 응원’ - 한겨레",
+        "en": "배재고 “스타벅스 가야지”…광주일고 상대 ‘5·18 폄훼 응원’ - 한겨레",
+        "zh": "배재고 “스타벅스 가야지”…광주일고 상대 ‘5·18 폄훼 응원’ - 한겨레"
       }
     },
     {
-      "title": "“임은정 지검장이 누명 씌워” 명예훼손 고소인 박상용 검사, 경찰 출석 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202606291410001",
-      "source": "경향신문",
-      "pubDate": "Mon, 29 Jun 2026 05:10:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/06/29/news-p.v1.20260407.18898b42ad7044459dcd673d76e42873_P1.jpeg",
+      "title": "'마약 좀비' 영상 속 30대, 국과수 소변 정밀감정도 음성 - 조선일보",
+      "link": "https://weekly.chosun.com/news/articleView.html?idxno=53017",
+      "source": "조선일보",
+      "pubDate": "Mon, 29 Jun 2026 13:27:00 GMT",
+      "image": "https://cdn.weekly.chosun.com/news/thumbnail/202606/53017_82535_310_v150.jpg",
       "summaries": {
-        "ko": "“임은정 지검장이 누명 씌워” 명예훼손 고소인 박상용 검사, 경찰 출석 - 경향신문",
-        "en": "“임은정 지검장이 누명 씌워” 명예훼손 고소인 박상용 검사, 경찰 출석 - 경향신문",
-        "zh": "“임은정 지검장이 누명 씌워” 명예훼손 고소인 박상용 검사, 경찰 출석 - 경향신문"
-      }
-    },
-    {
-      "title": "행안부, 폭염 위기 경보 ’주의’로 상향…취약계층 예찰·냉방용품 지원 강화 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260629174728YzJ",
-      "source": "연합뉴스TV",
-      "pubDate": "Mon, 29 Jun 2026 08:47:28 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260629/AKR20260629174728YzJ_01_i.jpg",
-      "summaries": {
-        "ko": "행안부, 폭염 위기 경보 ’주의’로 상향…취약계층 예찰·냉방용품 지원 강화 - 연합뉴스TV",
-        "en": "행안부, 폭염 위기 경보 ’주의’로 상향…취약계층 예찰·냉방용품 지원 강화 - 연합뉴스TV",
-        "zh": "행안부, 폭염 위기 경보 ’주의’로 상향…취약계층 예찰·냉방용품 지원 강화 - 연합뉴스TV"
+        "ko": "'마약 좀비' 영상 속 30대, 국과수 소변 정밀감정도 음성 - 조선일보",
+        "en": "'마약 좀비' 영상 속 30대, 국과수 소변 정밀감정도 음성 - 조선일보",
+        "zh": "'마약 좀비' 영상 속 30대, 국과수 소변 정밀감정도 음성 - 조선일보"
       }
     }
   ]
