@@ -1,100 +1,76 @@
 {
-  "lastUpdate": "2026-07-02T11:13:02.066364",
+  "lastUpdate": "2026-07-02T13:07:50.350397",
   "items": [
     {
-      "title": "국조특위, ‘올공’ 개표소 “투표지 247만장 보존 확인”…검증 없이 조사 종료 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1266422.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 02 Jul 2026 10:09:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0702/20260702502895.webp",
-      "summaries": {
-        "ko": "국회 6·3 지방선거 투표용지 부족 사태 국정조사특별위원회가 올림픽공원 개표소 현장조사를 통해 투표지 247만장 보존을 육안으로 확인했으나 별도 검증 없이 조사를 종료했으며, 선관위의 무능을 질타했다.",
-        "en": "The National Assembly special committee investigating the 6.3 local election ballot shortage conducted an on-site inspection at the Olympic Park vote counting station, visually confirming the preservation of 2.47 million ballot papers but ending the investigation without independent verification, while criticizing the Election Commission's incompetence.",
-        "zh": "国会6·3地方选举投票纸短缺事态国政调查特别委员会对奥林匹克公园计票站进行了现场调查，肉眼确认了247万张选票的保存情况，但未进行独立验证便结束了调查，同时批评了选举管理委员会的无能。"
-      }
-    },
-    {
-      "title": "“배재고 앞 근조화환 발로 뻥…재학생 반성 안해” 주장글 확산 - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260702/134222819/2",
-      "source": "동아일보",
-      "pubDate": "Thu, 02 Jul 2026 02:14:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/02/134223034.1.jpg",
-      "summaries": {
-        "ko": "“배재고 앞 근조화환 발로 뻥…재학생 반성 안해” 주장글 확산 - 동아일보",
-        "en": "“배재고 앞 근조화환 발로 뻥…재학생 반성 안해” 주장글 확산 - 동아일보",
-        "zh": "“배재고 앞 근조화환 발로 뻥…재학생 반성 안해” 주장글 확산 - 동아일보"
-      }
-    },
-    {
-      "title": "\"선관위 직원이 위장\" 경찰관 때린 20대 남성 2명 구속 심사 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6834522_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Thu, 02 Jul 2026 06:16:19 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/02/joo260702_14.jpg",
-      "summaries": {
-        "ko": "잠실 개표소 봉쇄 시위 중 '경찰관이 위장했다'고 주장하며 경찰을 폭행한 20대 남성 2명이 특수공무집행방해치상 혐의로 구속 전 피의자 심문을 받고 있다.",
-        "en": "Two men in their 20s, who assaulted police officers during a protest claiming the officers were disguised Election Commission staff, are undergoing a warrant review for aggravated obstruction of justice causing injury.",
-        "zh": "两名20多岁男子在蚕室计票站封锁示威中，声称警察是伪装的选举委员会工作人员并殴打警察，目前正因涉嫌特殊妨碍公务致伤罪接受逮捕前嫌疑人审讯。"
-      }
-    },
-    {
-      "title": "육군 “예비군 사망사건 원인 ‘급성 췌장염’”…대규모 예비군 훈련 의무지원 한계 드러나 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607021637001",
+      "title": "국조특위, 투표함 등 부실관리 정황 확인…윤상현 “공개 재검표” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607022130005",
       "source": "경향신문",
-      "pubDate": "Thu, 02 Jul 2026 07:37:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/02/rcv.YNA.20260702.PYH2026070207050001300_P1.jpg",
+      "pubDate": "Thu, 02 Jul 2026 12:30:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/02/l_2026070301000115600009081.jpg",
       "summaries": {
-        "ko": "육군은 예비군 사망 원인이 급성 췌장염임을 확인했지만, 이번 사건을 통해 대규모 예비군 훈련의 의료지원 체계에 한계가 드러났음을 인정하고 개선을 약속했다.",
-        "en": "The Army announced that a reservist's death was caused by acute pancreatitis, but acknowledged the incident exposed limitations in medical support for large-scale reservist training and pledged to make improvements.",
-        "zh": "韩国陆军宣布，一名预备役士兵的死亡原因为急性胰腺炎，但此次事件也暴露出大规模预备役训练医疗支援体系的不足，军方承诺将进行改进。"
+        "ko": "국회 국정조사특별위원회가 올림픽공원 개표소에서 CCTV 없는 샤워실에 보관된 247만 장의 투표용지와 투표함의 부실 관리를 확인하고 송파구선관위를 질타했으며, 투표용지 부족 사태와 관련해 공개 재검표를 제안했다.",
+        "en": "The National Assembly's special committee investigating election issues confirmed poor management of 2.47 million ballots and ballot boxes stored in a CCTV-less shower room at the Olympic Park polling station, criticizing the Songpa-gu election commission for this and a ballot shortage, and proposing a public recount.",
+        "zh": "国会国政调查特别委员会在奥林匹克公园计票所确认了247万张选票和投票箱保管不当的问题，这些物品被存放在没有监控的淋浴间，委员会批评了松坡区选举管理委员会并就选票短缺事件提议公开重新计票。"
+      }
+    },
+    {
+      "title": "[단독] “배재고 5·18묘지 참배 제안”…서울교육감, 광주제일고에 사과 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/schooling/1266385.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 02 Jul 2026 11:12:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/627/376/imgdb/child/2026/0702/53_17829791969684_20260610502232.webp",
+      "summaries": {
+        "ko": "서울시 교육감이 배재고 학생들의 5·18 민주화운동 조롱 응원에 대해 광주제일고에 사과하고, 역사 교육 강화 및 두 학교 학생들의 5·18 민주묘지 공동 참배를 통한 화해를 제안했다.",
+        "en": "The Seoul Superintendent of Education apologized to Gwangju Jeil High School for Baejae High School students' mocking cheers of the 5.18 Democracy Movement, proposing to strengthen history education and foster reconciliation through joint visits to the 5.18 National Cemetery by students from both schools.",
+        "zh": "首尔市教育监就培材高中学生嘲讽5·18民主化运动的助威行为向光州第一高中道歉，并提议加强历史教育，以及通过两校学生共同参拜5·18民主墓地来促进和解。"
+      }
+    },
+    {
+      "title": "[단독] 민주 의원 대화방서 ‘보완수사권 완전 폐지 부작용’ 우려 목소리 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/assembly/1266489.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 02 Jul 2026 10:43:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0702/53_17829890279314_20260702503409.webp",
+      "summaries": {
+        "ko": "더불어민주당 의원 대화방에서 일부 의원들이 검찰 보완수사권의 완전 폐지에 따른 부작용을 우려하며 숙의 및 예외적 상황에서의 존치를 주장했으나, 당 지도부는 완전 폐지 추진 의지를 밝혔다.",
+        "en": "In a Democratic Party lawmaker chatroom, some members expressed concerns about the complete abolition of prosecutors' supplementary investigative powers, advocating for deliberation and retention in exceptional circumstances, while the party leadership affirmed its intent to pursue complete abolition.",
+        "zh": "在民主党议员聊天室中，部分议员对检察官补充侦查权的完全废除表示担忧，主张进行审议并在特殊情况下予以保留，但党领导层已明确表示将推进完全废除。"
+      }
+    },
+    {
+      "title": "與전준위, '鄭고향서 경선시작' 지적에 \"현재로선 결정된대로\" - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260702089900001",
+      "source": "연합뉴스",
+      "pubDate": "Thu, 02 Jul 2026 03:45:55 GMT",
+      "image": "https://img6.yna.co.kr/photo/yna/YH/2026/06/30/PYH2026063006540001300_P4.jpg",
+      "summaries": {
+        "ko": "더불어민주당 전당대회준비위원회는 순회경선 일정을 둘러싼 당내 논란에도 불구하고, 현재로서는 의결된 대로 진행하며 지도부의 최종 판단을 기다린다고 밝혔다.",
+        "en": "The Democratic Party of Korea's National Convention Preparatory Committee announced that it is currently proceeding with the controversial regional primary election schedule as decided, while awaiting the leadership's final judgment.",
+        "zh": "韩国共同民主党全国代表大会准备委员会表示，尽管党内对巡回竞选日程存在争议，但目前仍将按已决定的方案进行，并等待领导层的最终裁决。"
+      }
+    },
+    {
+      "title": "잠실 개표소 시위중 경찰관 때린 20대 남성들 구속영장 기각 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8600802",
+      "source": "KBS 뉴스",
+      "pubDate": "Thu, 02 Jul 2026 10:46:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/07/02/20260702_1G5UAx.jpg",
+      "summaries": {
+        "ko": "잠실 개표소 시위 현장에서 경찰관을 폭행한 혐의를 받는 20대 남성 2명에 대한 구속영장이 증거인멸 및 도주 우려가 없다는 이유로 기각되었습니다.",
+        "en": "The arrest warrants for two men in their 20s, accused of assaulting a police officer at the Jamsil vote counting station protest, were rejected by the court, citing no risk of evidence destruction or flight.",
+        "zh": "两名20多岁男子因在蚕室计票站示威现场袭击警察被捕，但法院以无毁灭证据或逃跑风险为由驳回了对他们的逮捕令申请。"
       }
     },
     {
       "title": "‘늦은 장마’ 일요일부터 호우특보 수준 큰비…다음주 화요일까지 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/environment/1266374.html",
       "source": "한겨레",
-      "pubDate": "Thu, 02 Jul 2026 07:27:00 GMT",
+      "pubDate": "Thu, 02 Jul 2026 09:54:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/800/491/imgdb/original/2026/0702/20260702501675.webp",
       "summaries": {
-        "ko": "장마철이 시작된 가운데, 일요일부터 화요일까지 전국적으로 호우특보 수준의 많은 비가 예상됩니다.",
-        "en": "As the rainy season begins, heavy rain, potentially reaching severe weather warning levels, is forecast nationwide from Sunday to Tuesday.",
-        "zh": "随着梅雨季节的开始，预计从周日到周二全国范围内将出现达到暴雨预警级别的强降雨。"
-      }
-    },
-    {
-      "title": "이 대통령 “3대 메가 프로젝트 예산, 최우선 순위에…국토 전체를 한국판 실리콘밸리로” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607021414001",
-      "source": "경향신문",
-      "pubDate": "Thu, 02 Jul 2026 05:14:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/02/rcv.PHOTOPOOL.20260702.kpa17829689300528_P1.jpg",
-      "summaries": {
-        "ko": "이재명 대통령은 '대한민국 대도약 3대 메가 프로젝트'를 국정 최우선 과제로 삼아 국토 전체를 한국판 실리콘밸리로 만들고 미래 세대 투자를 위해 초과세수를 활용하라고 지시했다.",
-        "en": "President Lee Jae-myung instructed that the 'Three Major Mega Projects for Korea's Great Leap' be made a top national priority, aiming to transform the entire country into a Korean version of Silicon Valley and utilizing excess tax revenues for future generation investments.",
-        "zh": "李在明总统指示，将‘大韩民国大飞跃三大超大型项目’列为国政最优先课题，旨在将全国打造成韩国版硅谷，并利用超额税收为子孙后代投资。"
-      }
-    },
-    {
-      "title": "李대통령 지지율 58％…민주 42％·국힘 20％[NBS] - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260702077000001",
-      "source": "연합뉴스",
-      "pubDate": "Thu, 02 Jul 2026 02:20:33 GMT",
-      "image": "https://img4.yna.co.kr/photo/yna/YH/2026/07/02/PYH2026070206250001300_P4.jpg",
-      "summaries": {
-        "ko": "최근 여론조사 결과 이재명 대통령의 국정운영 긍정 평가가 58%를 기록했으며, 정당 지지도는 더불어민주당이 42%, 국민의힘이 20%로 나타났다.",
-        "en": "According to a recent poll, President Lee Jae-myung's approval rating for state affairs management was 58%, while party support stood at 42% for the Democratic Party and 20% for the People Power Party.",
-        "zh": "一项最新民意调查结果显示，李在明总统的国政运营好评率为58%，政党支持率方面，共同民主党为42%，国民力量党为20%。"
-      }
-    },
-    {
-      "title": "'관저 예산 불법전용 지시' 김대기, 보석심사서 \"구속까지 갈 일인지 의문\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6834495_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Thu, 02 Jul 2026 04:48:44 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/02/yh_20260702-12.jpg",
-      "summaries": {
-        "ko": "'관저 예산 불법전용 지시' 김대기, 보석심사서 \"구속까지 갈 일인지 의문\" - MBC 뉴스",
-        "en": "'관저 예산 불법전용 지시' 김대기, 보석심사서 \"구속까지 갈 일인지 의문\" - MBC 뉴스",
-        "zh": "'관저 예산 불법전용 지시' 김대기, 보석심사서 \"구속까지 갈 일인지 의문\" - MBC 뉴스"
+        "ko": "‘늦은 장마’ 일요일부터 호우특보 수준 큰비…다음주 화요일까지 - 한겨레",
+        "en": "‘늦은 장마’ 일요일부터 호우특보 수준 큰비…다음주 화요일까지 - 한겨레",
+        "zh": "‘늦은 장마’ 일요일부터 호우특보 수준 큰비…다음주 화요일까지 - 한겨레"
       }
     },
     {
@@ -110,15 +86,39 @@
       }
     },
     {
-      "title": "베네수엘라 지진 7일째 2300명 사망…국가 애도 선포 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1266433.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 02 Jul 2026 08:12:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/700/448/imgdb/original/2026/0702/20260702502979.webp",
+      "title": "2차 종합특검, 김명수 전 합참의장 내란중요임무종사 혐의로 기소 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6834594_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Thu, 02 Jul 2026 09:37:25 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/02/kds_20260702_12.jpg",
       "summaries": {
-        "ko": "베네수엘라 지진 7일째 2300명 사망…국가 애도 선포 - 한겨레",
-        "en": "베네수엘라 지진 7일째 2300명 사망…국가 애도 선포 - 한겨레",
-        "zh": "베네수엘라 지진 7일째 2300명 사망…국가 애도 선포 - 한겨레"
+        "ko": "2차 종합특검, 김명수 전 합참의장 내란중요임무종사 혐의로 기소 - MBC 뉴스",
+        "en": "2차 종합특검, 김명수 전 합참의장 내란중요임무종사 혐의로 기소 - MBC 뉴스",
+        "zh": "2차 종합특검, 김명수 전 합참의장 내란중요임무종사 혐의로 기소 - MBC 뉴스"
+      }
+    },
+    {
+      "title": "외교부, '쿠팡' 미 의회 보고서에 \"유감‥사실과 다른 쿠팡 주장만\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6834547_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Thu, 02 Jul 2026 07:00:46 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/02/jh_20260702_11.jpg",
+      "summaries": {
+        "ko": "외교부, '쿠팡' 미 의회 보고서에 \"유감‥사실과 다른 쿠팡 주장만\" - MBC 뉴스",
+        "en": "외교부, '쿠팡' 미 의회 보고서에 \"유감‥사실과 다른 쿠팡 주장만\" - MBC 뉴스",
+        "zh": "외교부, '쿠팡' 미 의회 보고서에 \"유감‥사실과 다른 쿠팡 주장만\" - MBC 뉴스"
+      }
+    },
+    {
+      "title": "이 대통령, ‘태움 피해 간호사 사망’에 “끔찍한 폭력…불법행위 규명돼야” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607012232001",
+      "source": "경향신문",
+      "pubDate": "Wed, 01 Jul 2026 13:32:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/01/rcv.YNA.20260630.PYH2026063015770001300_P1.jpg",
+      "summaries": {
+        "ko": "이 대통령, ‘태움 피해 간호사 사망’에 “끔찍한 폭력…불법행위 규명돼야” - 경향신문",
+        "en": "이 대통령, ‘태움 피해 간호사 사망’에 “끔찍한 폭력…불법행위 규명돼야” - 경향신문",
+        "zh": "이 대통령, ‘태움 피해 간호사 사망’에 “끔찍한 폭력…불법행위 규명돼야” - 경향신문"
       }
     }
   ]
