@@ -1,16 +1,40 @@
 {
-  "lastUpdate": "2026-07-02T08:31:42.390474",
+  "lastUpdate": "2026-07-02T11:13:02.066364",
   "items": [
     {
-      "title": "‘배재고’ 선배 권영세 “동문으로 송구…‘철없는 실수’ 제재는 불공정” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1266415.html",
+      "title": "국조특위, ‘올공’ 개표소 “투표지 247만장 보존 확인”…검증 없이 조사 종료 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1266422.html",
       "source": "한겨레",
-      "pubDate": "Thu, 02 Jul 2026 07:29:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/650/imgdb/original/2026/0702/20260702502759.webp",
+      "pubDate": "Thu, 02 Jul 2026 10:09:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0702/20260702502895.webp",
       "summaries": {
-        "ko": "배재고 졸업생인 권영세 의원이 '스타벅스 응원가' 논란으로 야구부에 내려진 6개월 출전 정지 징계에 대해 \"일부 학생의 철없는 실수에 과한 집단 제재는 불공정하다\"며 철회를 주장했다.",
-        "en": "Baejae High School alumnus Rep. Kwon Young-se criticized the 6-month suspension imposed on the school's baseball team for the \"Starbucks cheer\" controversy, arguing that it is \"unfair to inflict excessive collective punishment for a thoughtless mistake by some students\" and called for its revocation.",
-        "zh": "培材高中校友、国会议员权宁世就其母校棒球队因“星巴克助威歌”争议被处以6个月禁赛的惩罚发表批评，称“对部分学生年幼无知的失误施加过度集体制裁是不公平的”，并呼吁撤销该惩罚。"
+        "ko": "국회 6·3 지방선거 투표용지 부족 사태 국정조사특별위원회가 올림픽공원 개표소 현장조사를 통해 투표지 247만장 보존을 육안으로 확인했으나 별도 검증 없이 조사를 종료했으며, 선관위의 무능을 질타했다.",
+        "en": "The National Assembly special committee investigating the 6.3 local election ballot shortage conducted an on-site inspection at the Olympic Park vote counting station, visually confirming the preservation of 2.47 million ballot papers but ending the investigation without independent verification, while criticizing the Election Commission's incompetence.",
+        "zh": "国会6·3地方选举投票纸短缺事态国政调查特别委员会对奥林匹克公园计票站进行了现场调查，肉眼确认了247万张选票的保存情况，但未进行独立验证便结束了调查，同时批评了选举管理委员会的无能。"
+      }
+    },
+    {
+      "title": "“배재고 앞 근조화환 발로 뻥…재학생 반성 안해” 주장글 확산 - 동아일보",
+      "link": "https://www.donga.com/news/Society/article/all/20260702/134222819/2",
+      "source": "동아일보",
+      "pubDate": "Thu, 02 Jul 2026 02:14:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/02/134223034.1.jpg",
+      "summaries": {
+        "ko": "“배재고 앞 근조화환 발로 뻥…재학생 반성 안해” 주장글 확산 - 동아일보",
+        "en": "“배재고 앞 근조화환 발로 뻥…재학생 반성 안해” 주장글 확산 - 동아일보",
+        "zh": "“배재고 앞 근조화환 발로 뻥…재학생 반성 안해” 주장글 확산 - 동아일보"
+      }
+    },
+    {
+      "title": "\"선관위 직원이 위장\" 경찰관 때린 20대 남성 2명 구속 심사 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6834522_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Thu, 02 Jul 2026 06:16:19 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/02/joo260702_14.jpg",
+      "summaries": {
+        "ko": "잠실 개표소 봉쇄 시위 중 '경찰관이 위장했다'고 주장하며 경찰을 폭행한 20대 남성 2명이 특수공무집행방해치상 혐의로 구속 전 피의자 심문을 받고 있다.",
+        "en": "Two men in their 20s, who assaulted police officers during a protest claiming the officers were disguised Election Commission staff, are undergoing a warrant review for aggravated obstruction of justice causing injury.",
+        "zh": "两名20多岁男子在蚕室计票站封锁示威中，声称警察是伪装的选举委员会工作人员并殴打警察，目前正因涉嫌特殊妨碍公务致伤罪接受逮捕前嫌疑人审讯。"
       }
     },
     {
@@ -20,57 +44,45 @@
       "pubDate": "Thu, 02 Jul 2026 07:37:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/07/02/rcv.YNA.20260702.PYH2026070207050001300_P1.jpg",
       "summaries": {
-        "ko": "육군은 예비군 사망 원인이 급성 췌장염임을 확인했으며, 대규모 훈련 시 의무지원 체계의 한계를 인정하고 모든 훈련장에 의무팀 상주 및 건강 문진표 개선 등 지원 강화를 약속했다.",
-        "en": "The Army announced that a reservist's death was caused by acute pancreatitis, acknowledging the limitations of medical support in large-scale drills and promising improvements such as stationing medical teams and enhancing health questionnaires.",
-        "zh": "韩国陆军宣布，一名预备役人员的死亡原因为急性胰腺炎，并承认大规模训练中医疗支援体系的不足，承诺将改进措施，包括在所有训练场派驻医疗队并完善健康问卷。"
+        "ko": "육군은 예비군 사망 원인이 급성 췌장염임을 확인했지만, 이번 사건을 통해 대규모 예비군 훈련의 의료지원 체계에 한계가 드러났음을 인정하고 개선을 약속했다.",
+        "en": "The Army announced that a reservist's death was caused by acute pancreatitis, but acknowledged the incident exposed limitations in medical support for large-scale reservist training and pledged to make improvements.",
+        "zh": "韩国陆军宣布，一名预备役士兵的死亡原因为急性胰腺炎，但此次事件也暴露出大规模预备役训练医疗支援体系的不足，军方承诺将进行改进。"
       }
     },
     {
-      "title": "李 \"반도체 투자는 박정희 중화학, 김대중 IT 이은 세번째 디딤돌\" - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/07/02/XSFBHEZK4RDWTMNSEZLYBFGLYM/",
-      "source": "조선일보",
-      "pubDate": "Thu, 02 Jul 2026 05:37:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/FC4B3T5IFRJ5JP34MKXKTGZACM.jpg?auth=03537cf471bd27d0af009cd29533fedae7d7a421b99e67e099aa47757b2389e0&width=1200&height=630&focal=2654,515",
-      "summaries": {
-        "ko": "李 \"반도체 투자는 박정희 중화학, 김대중 IT 이은 세번째 디딤돌\" - 조선일보",
-        "en": "李 \"반도체 투자는 박정희 중화학, 김대중 IT 이은 세번째 디딤돌\" - 조선일보",
-        "zh": "李 \"반도체 투자는 박정희 중화학, 김대중 IT 이은 세번째 디딤돌\" - 조선일보"
-      }
-    },
-    {
-      "title": "[속보]‘체포방해’ 윤석열, 9일 상고심 결론…2심 징역 7년 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607021603001",
-      "source": "경향신문",
-      "pubDate": "Thu, 02 Jul 2026 07:03:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/02/news-p.v1.20260612.88bac1f1afbe471698e6826706327002_P1.jpeg",
-      "summaries": {
-        "ko": "공수처 체포방해 및 불법계엄 선포 등 혐의로 2심에서 징역 7년을 선고받은 윤석열 전 대통령에 대한 상고심 결론이 오는 9일 내려진다.",
-        "en": "The Supreme Court will announce its final decision on the 9th for former President Yoon Suk-yeol, who was sentenced to seven years in prison in the appellate trial for charges including obstructing an arrest by the Corruption Investigation Office for High-ranking Officials (CIO) and declaring illegal martial law.",
-        "zh": "前总统尹锡悦因涉嫌妨碍高层公职人员犯罪调查处逮捕及宣布非法戒严等罪名，在二审中被判处有期徒刑7年，大法院将于9日对其上诉审作出最终裁决。"
-      }
-    },
-    {
-      "title": "‘지각 장마’ 일요일부터 호우특보 수준 큰비…다음주 화요일까지 - 한겨레",
+      "title": "‘늦은 장마’ 일요일부터 호우특보 수준 큰비…다음주 화요일까지 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/environment/1266374.html",
       "source": "한겨레",
-      "pubDate": "Thu, 02 Jul 2026 06:11:00 GMT",
+      "pubDate": "Thu, 02 Jul 2026 07:27:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/800/491/imgdb/original/2026/0702/20260702501675.webp",
       "summaries": {
-        "ko": "‘지각 장마’가 시작된 가운데, 오는 일요일부터 화요일까지 전국적으로 호우특보 수준의 강하고 많은 비가 내릴 것으로 예보되었다.",
-        "en": "As the 'delayed monsoon' has begun, strong and heavy rain, at the level of heavy rain warnings, is forecast nationwide from this Sunday to Tuesday.",
-        "zh": "随着“迟到梅雨”的开始，预计从本周日至下周二，全国范围将迎来暴雨预警级别的强降雨。"
+        "ko": "장마철이 시작된 가운데, 일요일부터 화요일까지 전국적으로 호우특보 수준의 많은 비가 예상됩니다.",
+        "en": "As the rainy season begins, heavy rain, potentially reaching severe weather warning levels, is forecast nationwide from Sunday to Tuesday.",
+        "zh": "随着梅雨季节的开始，预计从周日到周二全国范围内将出现达到暴雨预警级别的强降雨。"
       }
     },
     {
-      "title": "국조특위 ‘40분 현장검증’ 끝나자마자 다시 닫힌 개표소···봉쇄시위는 계속 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607021639001",
+      "title": "이 대통령 “3대 메가 프로젝트 예산, 최우선 순위에…국토 전체를 한국판 실리콘밸리로” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607021414001",
       "source": "경향신문",
-      "pubDate": "Thu, 02 Jul 2026 07:39:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/02/news-p.v1.20260702.8b4fd9db60fe4d51b7eab4ed119ffd40_P1.jpeg",
+      "pubDate": "Thu, 02 Jul 2026 05:14:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/02/rcv.PHOTOPOOL.20260702.kpa17829689300528_P1.jpg",
       "summaries": {
-        "ko": "국조특위 ‘40분 현장검증’ 끝나자마자 다시 닫힌 개표소···봉쇄시위는 계속 - 경향신문",
-        "en": "국조특위 ‘40분 현장검증’ 끝나자마자 다시 닫힌 개표소···봉쇄시위는 계속 - 경향신문",
-        "zh": "국조특위 ‘40분 현장검증’ 끝나자마자 다시 닫힌 개표소···봉쇄시위는 계속 - 경향신문"
+        "ko": "이재명 대통령은 '대한민국 대도약 3대 메가 프로젝트'를 국정 최우선 과제로 삼아 국토 전체를 한국판 실리콘밸리로 만들고 미래 세대 투자를 위해 초과세수를 활용하라고 지시했다.",
+        "en": "President Lee Jae-myung instructed that the 'Three Major Mega Projects for Korea's Great Leap' be made a top national priority, aiming to transform the entire country into a Korean version of Silicon Valley and utilizing excess tax revenues for future generation investments.",
+        "zh": "李在明总统指示，将‘大韩民国大飞跃三大超大型项目’列为国政最优先课题，旨在将全国打造成韩国版硅谷，并利用超额税收为子孙后代投资。"
+      }
+    },
+    {
+      "title": "李대통령 지지율 58％…민주 42％·국힘 20％[NBS] - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260702077000001",
+      "source": "연합뉴스",
+      "pubDate": "Thu, 02 Jul 2026 02:20:33 GMT",
+      "image": "https://img4.yna.co.kr/photo/yna/YH/2026/07/02/PYH2026070206250001300_P4.jpg",
+      "summaries": {
+        "ko": "최근 여론조사 결과 이재명 대통령의 국정운영 긍정 평가가 58%를 기록했으며, 정당 지지도는 더불어민주당이 42%, 국민의힘이 20%로 나타났다.",
+        "en": "According to a recent poll, President Lee Jae-myung's approval rating for state affairs management was 58%, while party support stood at 42% for the Democratic Party and 20% for the People Power Party.",
+        "zh": "一项最新民意调查结果显示，李在明总统的国政运营好评率为58%，政党支持率方面，共同民主党为42%，国民力量党为20%。"
       }
     },
     {
@@ -86,39 +98,27 @@
       }
     },
     {
-      "title": "장윤기 리얼돌 버리고, 폰 불태운 ‘경찰 아빠’…“친족특례 폐지 검토” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1266348.html",
+      "title": "여고생 살해 장윤기의 ‘리얼돌’... 경찰 아버지가 조각내 폐기, 왜? - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/07/02/TLC7RWXIXZAFJM7O4SIGFUG25Y/",
+      "source": "조선일보",
+      "pubDate": "Thu, 02 Jul 2026 04:26:53 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GIYGMYJZMIYWCOLCGE2TAMRZMY.jpg?auth=3a0087a23172023ca053921619534a051e0d7e7464fab22e624822cacc90b739&width=1200&height=630&focal=1190,685",
+      "summaries": {
+        "ko": "여고생 살해 장윤기의 ‘리얼돌’... 경찰 아버지가 조각내 폐기, 왜? - 조선일보",
+        "en": "여고생 살해 장윤기의 ‘리얼돌’... 경찰 아버지가 조각내 폐기, 왜? - 조선일보",
+        "zh": "여고생 살해 장윤기의 ‘리얼돌’... 경찰 아버지가 조각내 폐기, 왜? - 조선일보"
+      }
+    },
+    {
+      "title": "베네수엘라 지진 7일째 2300명 사망…국가 애도 선포 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1266433.html",
       "source": "한겨레",
-      "pubDate": "Thu, 02 Jul 2026 06:36:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/776/523/imgdb/resize/test/child/2026/0702/17829688810191_20260702500851.webp",
+      "pubDate": "Thu, 02 Jul 2026 08:12:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/700/448/imgdb/original/2026/0702/20260702502979.webp",
       "summaries": {
-        "ko": "장윤기 리얼돌 버리고, 폰 불태운 ‘경찰 아빠’…“친족특례 폐지 검토” - 한겨레",
-        "en": "장윤기 리얼돌 버리고, 폰 불태운 ‘경찰 아빠’…“친족특례 폐지 검토” - 한겨레",
-        "zh": "장윤기 리얼돌 버리고, 폰 불태운 ‘경찰 아빠’…“친족특례 폐지 검토” - 한겨레"
-      }
-    },
-    {
-      "title": "[속보]홍준표 “호남 반도체 반대, 옛 경부고속도로 반대와 같아” - 문화일보",
-      "link": "https://www.munhwa.com/article/11599868",
-      "source": "문화일보",
-      "pubDate": "Thu, 02 Jul 2026 03:53:53 GMT",
-      "image": "https://wimg.munhwa.com/news/cms/2026/07/02/news-p.v1.20260702.3b1098ab9b5c458198dd2b18abec6245_R.jpg",
-      "summaries": {
-        "ko": "[속보]홍준표 “호남 반도체 반대, 옛 경부고속도로 반대와 같아” - 문화일보",
-        "en": "[속보]홍준표 “호남 반도체 반대, 옛 경부고속도로 반대와 같아” - 문화일보",
-        "zh": "[속보]홍준표 “호남 반도체 반대, 옛 경부고속도로 반대와 같아” - 문화일보"
-      }
-    },
-    {
-      "title": "우크라 드론 정유시설 집중타격에 러 휘발유 비상...인도·카자흐서 수입 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260702134240WxS",
-      "source": "연합뉴스TV",
-      "pubDate": "Thu, 02 Jul 2026 04:42:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260702/AKR20260702134240WxS_01_i.jpg",
-      "summaries": {
-        "ko": "우크라 드론 정유시설 집중타격에 러 휘발유 비상...인도·카자흐서 수입 - 연합뉴스TV",
-        "en": "우크라 드론 정유시설 집중타격에 러 휘발유 비상...인도·카자흐서 수입 - 연합뉴스TV",
-        "zh": "우크라 드론 정유시설 집중타격에 러 휘발유 비상...인도·카자흐서 수입 - 연합뉴스TV"
+        "ko": "베네수엘라 지진 7일째 2300명 사망…국가 애도 선포 - 한겨레",
+        "en": "베네수엘라 지진 7일째 2300명 사망…국가 애도 선포 - 한겨레",
+        "zh": "베네수엘라 지진 7일째 2300명 사망…국가 애도 선포 - 한겨레"
       }
     }
   ]
