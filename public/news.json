@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-07-02T15:27:18.725254",
+  "lastUpdate": "2026-07-02T17:08:24.150685",
   "items": [
-    {
-      "title": "국조특위, 투표함 등 부실관리 정황 확인…윤상현 “공개 재검표” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607022130005",
-      "source": "경향신문",
-      "pubDate": "Thu, 02 Jul 2026 12:30:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/02/l_2026070301000115600009081.jpg",
-      "summaries": {
-        "ko": "국회 국조특위가 올림픽공원 개표소 현장조사를 통해 투표함과 투표용지의 샤워실 보관 등 부실 관리 정황을 확인하고 송파구선관위를 질타하며 공개 재검표를 제안했다.",
-        "en": "The National Assembly's special committee investigating ballot shortages confirmed poor management of ballot boxes and papers, including storage in a shower room without CCTV, at the Olympic Park counting station in Songpa-gu, criticizing the local election commission and proposing a public recount.",
-        "zh": "韩国国会国政调查特别委员会对松坡区奥林匹克公园计票站进行了现场调查，确认了投票箱和选票存在保管不善的情况，例如存放在没有监控的淋浴间，并对松坡区选举管理委员会提出强烈批评，同时提议进行公开重新计票。"
-      }
-    },
     {
       "title": "[단독] “배재고 5·18묘지 참배 제안”…서울교육감, 광주제일고에 사과 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/schooling/1266385.html",
@@ -20,33 +8,57 @@
       "pubDate": "Thu, 02 Jul 2026 13:10:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/627/376/imgdb/child/2026/0702/53_17829791969684_20260610502232.webp",
       "summaries": {
-        "ko": "정근식 서울시교육감은 고교 야구 경기 중 발생한 5·18 민주화운동 조롱 응원과 관련해 광주제일고에 사과하고, 역사교육 강화 및 두 학교 학생들의 5·18 민주묘지 공동 참배 등 화해 방안을 제안했다.",
-        "en": "Seoul Superintendent of Education Jeong Geun-sik apologized to Gwangju Jeil High School regarding derogatory cheers related to the May 18th Democratic Uprising during a high school baseball game and proposed reconciliation measures, including strengthening history education and a joint visit to the 5.18 National Cemetery by students from both schools.",
-        "zh": "首尔教育监郑根植就高中棒球比赛中出现的嘲讽5·18民主化运动的助威行为向光州第一高中道歉，并提出加强历史教育以及两校学生共同参拜5·18民主墓地等和解方案。"
+        "ko": "정근식 서울시교육감은 고교 야구 경기 중 발생한 배재고 학생들의 5·18 조롱 응원에 대해 광주제일고에 사과하고, 역사 교육 강화와 양교 학생들의 5·18 민주묘지 공동 참배를 통한 화해를 제안했다.",
+        "en": "Seoul Education Superintendent Jeong Geun-sik apologized to Gwangju Jeil High School for Baejae High School students' mockery of the May 18th Democratic Uprising during a high school baseball game, pledging to strengthen historical education and proposing a joint pilgrimage to the 5.18 Democratic Cemetery for reconciliation between the two schools.",
+        "zh": "首尔教育监郑根植就培材高中学生在高中棒球比赛中嘲讽5·18民主化运动一事向光州第一高中道歉，并承诺加强历史教育，提议两校学生共同参拜5·18民主墓地以实现和解。"
       }
     },
     {
-      "title": "\"저기 앉을 짬이냐, 말이 돼?\" 어이없던 '태움'의 시작 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6834588_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Thu, 02 Jul 2026 08:56:09 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/02/joo260702_vo2.jpg",
+      "title": "“진상 철저히 밝혀라” 대통령 지시에···경찰, ‘간호사 태움 사망 사건’ 전담수사팀 편성 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607021403001",
+      "source": "경향신문",
+      "pubDate": "Thu, 02 Jul 2026 05:03:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/02/news-p.v1.20260623.8105397c971840e5853a733d565c26c9_P1.png",
       "summaries": {
-        "ko": "병원 내 '태움' 괴롭힘을 겪던 간호사 강수빈 씨가 극단적 선택을 한 사건이 공론화되며 대통령 지시로 대규모 수사팀이 꾸려져 엄정 수사에 돌입했다.",
-        "en": "The tragic suicide of nurse Kang Su-bin, who endured severe workplace bullying ('tae-um') at a hospital, has led to public outcry, a presidential directive for strict action, and the formation of a large-scale dedicated police investigation team.",
-        "zh": "护士姜秀彬因在医院遭受严重“태움”（职场欺凌）后选择极端，此事被公开并引发总统指示严厉处理，目前已成立大规模专案调查组展开彻底调查。"
+        "ko": "“진상 철저히 밝혀라” 대통령 지시에···경찰, ‘간호사 태움 사망 사건’ 전담수사팀 편성 - 경향신문",
+        "en": "“진상 철저히 밝혀라” 대통령 지시에···경찰, ‘간호사 태움 사망 사건’ 전담수사팀 편성 - 경향신문",
+        "zh": "“진상 철저히 밝혀라” 대통령 지시에···경찰, ‘간호사 태움 사망 사건’ 전담수사팀 편성 - 경향신문"
       }
     },
     {
-      "title": "경찰 폭행 ‘개표소 시위대’ 2명 구속영장 기각…“도주 염려 없어” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1266493.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 02 Jul 2026 10:54:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0702/53_17829896515503_20260702503429.webp",
+      "title": "국조특위, 투표함 등 부실관리 정황 확인…윤상현 “공개 재검표” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607022130005",
+      "source": "경향신문",
+      "pubDate": "Thu, 02 Jul 2026 12:30:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/02/l_2026070301000115600009081.jpg",
       "summaries": {
-        "ko": "경찰 폭행 ‘개표소 시위대’ 2명 구속영장 기각…“도주 염려 없어” - 한겨레",
-        "en": "경찰 폭행 ‘개표소 시위대’ 2명 구속영장 기각…“도주 염려 없어” - 한겨레",
-        "zh": "경찰 폭행 ‘개표소 시위대’ 2명 구속영장 기각…“도주 염려 없어” - 한겨레"
+        "ko": "국조특위가 올림픽공원 개표소 현장 조사를 통해 투표함 부실 관리 정황을 확인하고 송파구선관위를 질타했으며, 윤상현 위원장은 보관된 투표용지의 공개 재검표를 제안했다.",
+        "en": "The National Assembly's special committee investigating election management confirmed evidence of poor ballot box management during an on-site inspection of the Olympic Park counting station, criticizing the Songpa-gu Election Commission, and Chairman Yoon Sang-hyun proposed a public recount of the preserved ballot papers.",
+        "zh": "国政调查特委对奥运公园计票所进行现场调查，确认了投票箱管理不善的情况，并谴责了松坡区选举管理委员会，委员长尹相铉提议公开重新清点保管的选票。"
+      }
+    },
+    {
+      "title": "거제 미용실서 80대男 흉기 난동… 2명 중·경상 - 조선일보",
+      "link": "https://www.chosun.com/national/2026/07/02/F554KVRBEND6BLAZ67VJK6KGSI/",
+      "source": "조선일보",
+      "pubDate": "Thu, 02 Jul 2026 07:40:22 GMT",
+      "image": "https://www.chosun.com/resizer/v2/XXVCKSRMG7AQADAQYMX7CPI5BE.jpg?auth=2953aa25757d98b3b8864ee379f3db85505fa0b4526083eba18b083750c3d085&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "거제 미용실서 80대男 흉기 난동… 2명 중·경상 - 조선일보",
+        "en": "거제 미용실서 80대男 흉기 난동… 2명 중·경상 - 조선일보",
+        "zh": "거제 미용실서 80대男 흉기 난동… 2명 중·경상 - 조선일보"
+      }
+    },
+    {
+      "title": "[베네수 강진] 건물 잔해서 8일 버텼다…40대 경비원 극적 구조(종합) - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260702171451079",
+      "source": "연합뉴스",
+      "pubDate": "Thu, 02 Jul 2026 16:47:26 GMT",
+      "image": "https://img2.yna.co.kr/photo/etc/af/2026/07/02/PAF20260702294801009_P4.jpg",
+      "summaries": {
+        "ko": "[베네수 강진] 건물 잔해서 8일 버텼다…40대 경비원 극적 구조(종합) - 연합뉴스",
+        "en": "[베네수 강진] 건물 잔해서 8일 버텼다…40대 경비원 극적 구조(종합) - 연합뉴스",
+        "zh": "[베네수 강진] 건물 잔해서 8일 버텼다…40대 경비원 극적 구조(종합) - 연합뉴스"
       }
     },
     {
@@ -62,18 +74,6 @@
       }
     },
     {
-      "title": "“이대로는 협조 못해”…국민의힘, 상임위원장 구성 ‘보이콧’ - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607022125025",
-      "source": "경향신문",
-      "pubDate": "Thu, 02 Jul 2026 12:25:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/02/l_2026070301000123000009061.jpg",
-      "summaries": {
-        "ko": "“이대로는 협조 못해”…국민의힘, 상임위원장 구성 ‘보이콧’ - 경향신문",
-        "en": "“이대로는 협조 못해”…국민의힘, 상임위원장 구성 ‘보이콧’ - 경향신문",
-        "zh": "“이대로는 협조 못해”…국민의힘, 상임위원장 구성 ‘보이콧’ - 경향신문"
-      }
-    },
-    {
       "title": "2차 종합특검, 김명수 전 합참의장 내란중요임무종사 혐의로 기소 - MBC 뉴스",
       "link": "https://imnews.imbc.com/news/2026/society/article/6834594_36918.html",
       "source": "MBC 뉴스",
@@ -83,6 +83,18 @@
         "ko": "2차 종합특검, 김명수 전 합참의장 내란중요임무종사 혐의로 기소 - MBC 뉴스",
         "en": "2차 종합특검, 김명수 전 합참의장 내란중요임무종사 혐의로 기소 - MBC 뉴스",
         "zh": "2차 종합특검, 김명수 전 합참의장 내란중요임무종사 혐의로 기소 - MBC 뉴스"
+      }
+    },
+    {
+      "title": "[속보] 잠실 시위 때 경찰 때린 20대 2명, 구속영장 기각…“증거인멸·도주염려 없어” - 매일경제",
+      "link": "https://www.mk.co.kr/news/society/12089291",
+      "source": "매일경제",
+      "pubDate": "Thu, 02 Jul 2026 11:02:37 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202607/02/news-p.v1.20260702.c1bf05a7826e48b3a493cfa5a803bdb2_R.jpg",
+      "summaries": {
+        "ko": "[속보] 잠실 시위 때 경찰 때린 20대 2명, 구속영장 기각…“증거인멸·도주염려 없어” - 매일경제",
+        "en": "[속보] 잠실 시위 때 경찰 때린 20대 2명, 구속영장 기각…“증거인멸·도주염려 없어” - 매일경제",
+        "zh": "[속보] 잠실 시위 때 경찰 때린 20대 2명, 구속영장 기각…“증거인멸·도주염려 없어” - 매일경제"
       }
     },
     {
@@ -98,27 +110,15 @@
       }
     },
     {
-      "title": "여고생 살해 장윤기의 ‘리얼돌’... 경찰 아버지가 조각내 폐기, 왜? - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/07/02/TLC7RWXIXZAFJM7O4SIGFUG25Y/",
+      "title": "국정원, 美하원 ‘쿠팡 보고서’에 “쿠팡의 일방적 허위사실” - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/07/02/NNWKZLL3YFEDRCZAZURDNCKK2M/",
       "source": "조선일보",
-      "pubDate": "Thu, 02 Jul 2026 04:26:53 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GIYGMYJZMIYWCOLCGE2TAMRZMY.jpg?auth=3a0087a23172023ca053921619534a051e0d7e7464fab22e624822cacc90b739&width=1200&height=630&focal=1190,685",
+      "pubDate": "Thu, 02 Jul 2026 11:08:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GI4GMNRRGY3TGNZWMYZWINBQME.jpg?auth=5545c131a8c908179f7acf80041b38995f81f54dde49c9ff202af3ab04066847&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "여고생 살해 장윤기의 ‘리얼돌’... 경찰 아버지가 조각내 폐기, 왜? - 조선일보",
-        "en": "여고생 살해 장윤기의 ‘리얼돌’... 경찰 아버지가 조각내 폐기, 왜? - 조선일보",
-        "zh": "여고생 살해 장윤기의 ‘리얼돌’... 경찰 아버지가 조각내 폐기, 왜? - 조선일보"
-      }
-    },
-    {
-      "title": "李, 박정희·DJ 언급하며 “3대 메가 프로젝트는 역사적 결단” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260702/134224056/2",
-      "source": "동아일보",
-      "pubDate": "Thu, 02 Jul 2026 05:34:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/02/134224057.2.jpg",
-      "summaries": {
-        "ko": "李, 박정희·DJ 언급하며 “3대 메가 프로젝트는 역사적 결단” - 동아일보",
-        "en": "李, 박정희·DJ 언급하며 “3대 메가 프로젝트는 역사적 결단” - 동아일보",
-        "zh": "李, 박정희·DJ 언급하며 “3대 메가 프로젝트는 역사적 결단” - 동아일보"
+        "ko": "국정원, 美하원 ‘쿠팡 보고서’에 “쿠팡의 일방적 허위사실” - 조선일보",
+        "en": "국정원, 美하원 ‘쿠팡 보고서’에 “쿠팡의 일방적 허위사실” - 조선일보",
+        "zh": "국정원, 美하원 ‘쿠팡 보고서’에 “쿠팡의 일방적 허위사실” - 조선일보"
       }
     }
   ]
