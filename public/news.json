@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-04T19:55:03.784419",
+  "lastUpdate": "2026-07-04T20:40:40.183970",
   "items": [
     {
       "title": "이병태 ‘표현의 자유’ 주장에, 최민희 “5·18 폄훼, 국민모독” - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Sat, 04 Jul 2026 12:58:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/594/imgdb/original/2026/0704/3017831684877963.webp",
       "summaries": {
-        "ko": "이병태 규제합리화위원회 부위원장이 5·18민주화운동에 대한 자신의 \"5·18이 성역이 됐다\"는 발언을 '표현의 자유'로 옹호하자, 최민희 더불어민주당 의원이 \"5·18 폄훼이자 국민 모독\"이라며 강하게 비판했고 청와대 또한 엄중 경고했다.",
-        "en": "Lee Byung-tae, Vice Chairman of the Regulatory Rationalization Committee, defended his controversial remark that \"5·18 has become a sanctuary\" as 'freedom of expression,' drawing strong criticism from Democratic Party lawmaker Choi Min-hee, who called it \"defamation of 5·18 and an insult to the nation,\" prompting a stern warning from the presidential office.",
-        "zh": "规制合理化委员会副委员长李炳泰将其关于“5·18已成圣地”的争议言论辩护为“言论自由”，引发共同民主党议员崔敏熙的强烈批评，称其为“亵渎5·18、侮辱国民”，青瓦台也对此发出了严重警告。"
+        "ko": "이병태 규제합리화위원회 부위원장이 '5·18은 성역이 됐다'는 발언을 '표현의 자유'로 옹호하자, 최민희 더불어민주당 의원은 이를 5·18 폄훼이자 '국민 모독'으로 규정하며 비판했고 청와대도 이 부위원장에게 부적절한 처신이라며 엄중 경고했다.",
+        "en": "After Lee Byung-tae, Vice Chairman of the Regulatory Rationalization Committee, defended his remark that '5·18 has become a sacred cow' as 'freedom of expression,' Democratic Party Rep. Choi Min-hee criticized it as defamation of 5·18 and 'national desecration,' while the Presidential Office also issued a stern warning to Lee for inappropriate conduct.",
+        "zh": "规制合理化委员会副委员长李秉泰将其关于“5·18已成为禁区”的言论辩称为“言论自由”后，共同民主党议员崔敏熙将其定性为贬低5·18和“侮辱国民”并进行批判，同时青瓦台也对李副委员长的不当行为发出了严厉警告。"
       }
     },
     {
@@ -38,18 +38,6 @@
       }
     },
     {
-      "title": "일요일 전국에 장맛비…전남 남해안·제주 산지 폭우 주의 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1266713.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 04 Jul 2026 11:27:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/871/572/imgdb/original/2026/0704/20260704500524.webp",
-      "summaries": {
-        "ko": "일요일 전국에 장맛비…전남 남해안·제주 산지 폭우 주의 - 한겨레",
-        "en": "일요일 전국에 장맛비…전남 남해안·제주 산지 폭우 주의 - 한겨레",
-        "zh": "일요일 전국에 장맛비…전남 남해안·제주 산지 폭우 주의 - 한겨레"
-      }
-    },
-    {
       "title": "베네수 강진 사망자 3천명 육박…추가 생존자 아직 - 연합뉴스TV",
       "link": "https://www.yonhapnewstv.co.kr/news/AKR20260705040523BYp",
       "source": "연합뉴스TV",
@@ -62,15 +50,39 @@
       }
     },
     {
-      "title": "정청래는 DJ 생가, 김민석은 익산 자택…주말 호남서 당심 잡기 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/assembly/1266711.html",
+      "title": "일요일 전국에 장맛비…전남 남해안·제주 산지 폭우 주의 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1266713.html",
       "source": "한겨레",
-      "pubDate": "Sat, 04 Jul 2026 11:25:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/403/imgdb/original/2026/0704/20260704500509.webp",
+      "pubDate": "Sat, 04 Jul 2026 11:27:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/871/572/imgdb/original/2026/0704/20260704500524.webp",
       "summaries": {
-        "ko": "정청래는 DJ 생가, 김민석은 익산 자택…주말 호남서 당심 잡기 - 한겨레",
-        "en": "정청래는 DJ 생가, 김민석은 익산 자택…주말 호남서 당심 잡기 - 한겨레",
-        "zh": "정청래는 DJ 생가, 김민석은 익산 자택…주말 호남서 당심 잡기 - 한겨레"
+        "ko": "일요일 전국에 장맛비…전남 남해안·제주 산지 폭우 주의 - 한겨레",
+        "en": "일요일 전국에 장맛비…전남 남해안·제주 산지 폭우 주의 - 한겨레",
+        "zh": "일요일 전국에 장맛비…전남 남해안·제주 산지 폭우 주의 - 한겨레"
+      }
+    },
+    {
+      "title": "장윤기의 휑한 자취방…\"훼손된 리얼돌만 덩그러니\" - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260705002057dP4",
+      "source": "연합뉴스TV",
+      "pubDate": "Sat, 04 Jul 2026 15:20:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260704/AKR20260705002057dP4_01_i.jpg",
+      "summaries": {
+        "ko": "장윤기의 휑한 자취방…\"훼손된 리얼돌만 덩그러니\" - 연합뉴스TV",
+        "en": "장윤기의 휑한 자취방…\"훼손된 리얼돌만 덩그러니\" - 연합뉴스TV",
+        "zh": "장윤기의 휑한 자취방…\"훼손된 리얼돌만 덩그러니\" - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "‘DJ 생가 방문’ 인증샷 정청래…“김대중처럼 생각, 행동하겠다” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260704/134235911/2",
+      "source": "동아일보",
+      "pubDate": "Sat, 04 Jul 2026 08:21:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/04/134235909.3.png",
+      "summaries": {
+        "ko": "‘DJ 생가 방문’ 인증샷 정청래…“김대중처럼 생각, 행동하겠다” - 동아일보",
+        "en": "‘DJ 생가 방문’ 인증샷 정청래…“김대중처럼 생각, 행동하겠다” - 동아일보",
+        "zh": "‘DJ 생가 방문’ 인증샷 정청래…“김대중처럼 생각, 행동하겠다” - 동아일보"
       }
     },
     {
@@ -107,18 +119,6 @@
         "ko": "이 대통령 \"메가프로젝트, 지지율 수단 아냐‥성과가 지지율 따라오게 할 것\" - MBC 뉴스",
         "en": "이 대통령 \"메가프로젝트, 지지율 수단 아냐‥성과가 지지율 따라오게 할 것\" - MBC 뉴스",
         "zh": "이 대통령 \"메가프로젝트, 지지율 수단 아냐‥성과가 지지율 따라오게 할 것\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "‘광주일고에 폭탄 설치’ 협박글…경찰 “수색 결과 폭발물 없어” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1266705.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 04 Jul 2026 07:31:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/447/imgdb/original/2026/0704/20260704500414.webp",
-      "summaries": {
-        "ko": "‘광주일고에 폭탄 설치’ 협박글…경찰 “수색 결과 폭발물 없어” - 한겨레",
-        "en": "‘광주일고에 폭탄 설치’ 협박글…경찰 “수색 결과 폭발물 없어” - 한겨레",
-        "zh": "‘광주일고에 폭탄 설치’ 협박글…경찰 “수색 결과 폭발물 없어” - 한겨레"
       }
     }
   ]
