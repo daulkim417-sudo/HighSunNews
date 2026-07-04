@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-04T16:46:54.966931",
+  "lastUpdate": "2026-07-04T17:45:53.534834",
   "items": [
     {
       "title": "이병태 ‘표현의 자유’ 주장에, 최민희 “5·18 폄훼, 국민모독” - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Sat, 04 Jul 2026 12:58:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/594/imgdb/original/2026/0704/3017831684877963.webp",
       "summaries": {
-        "ko": "이병태 규제합리화위원회 부위원장이 5·18 민주화운동을 조롱한 사건에 대해 '표현의 자유'를 주장하며 논란을 키우자, 최민희 더불어민주당 의원은 이를 \"5·18 폄훼이자 국민 모독\"이라고 직격하며 사과를 촉구했고, 청와대도 부적절한 처신이라며 엄중 경고했다.",
-        "en": "Lee Byung-tae, Vice Chairman of the Regulatory Rationalization Committee, escalated controversy by asserting \"freedom of expression\" regarding an incident of mocking the May 18th Democratic Uprising, prompting Democratic Party lawmaker Choi Min-hee to sharply criticize it as \"defamation of 5·18 and national mockery\" and demand an apology, while the Presidential Office also issued a severe warning for his inappropriate conduct.",
-        "zh": "规制合理化委员会副委员长李炳泰因嘲讽5·18民主化运动并主张“言论自由”引发争议，共同民主党议员崔敏熙直指其为“贬低5·18和侮辱国民”，敦促其道歉，青瓦台也以“不当行为”为由发出严厉警告。"
+        "ko": "이병태 규제합리화위원회 부위원장이 5·18 민주화운동에 대한 논란의 발언을 '표현의 자유'라고 주장하자, 최민희 의원은 이를 '국민 모독'이라며 강하게 비판했으며, 청와대도 이 부위원장에게 엄중 경고했다.",
+        "en": "As Lee Byung-tae, Vice Chairman of the Regulatory Rationalization Committee, defended his controversial remarks about the May 18 Gwangju Democratization Movement as 'freedom of expression,' Assemblywoman Choi Min-hee strongly criticized his stance as 'national insult,' prompting a stern warning from the presidential office.",
+        "zh": "规制合理化委员会副委员长李炳泰将他关于5·18民主化运动的争议言论辩护为“言论自由”，崔敏熙议员对此强烈批评为“国民侮辱”，同时青瓦台也对李副委员长发出了严厉警告。"
       }
     },
     {
@@ -26,18 +26,6 @@
       }
     },
     {
-      "title": "오세훈 “윤 지지 세력과 관계 유지해야…보수에 대한 시민들 기대 여전” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1266700.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 04 Jul 2026 06:02:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/431/imgdb/original/2026/0704/20260704500349.webp",
-      "summaries": {
-        "ko": "오세훈 “윤 지지 세력과 관계 유지해야…보수에 대한 시민들 기대 여전” - 한겨레",
-        "en": "오세훈 “윤 지지 세력과 관계 유지해야…보수에 대한 시민들 기대 여전” - 한겨레",
-        "zh": "오세훈 “윤 지지 세력과 관계 유지해야…보수에 대한 시민들 기대 여전” - 한겨레"
-      }
-    },
-    {
       "title": "일요일 전국에 장맛비…전남 남해안·제주 산지 폭우 주의 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/society_general/1266713.html",
       "source": "한겨레",
@@ -47,6 +35,18 @@
         "ko": "일요일 전국에 장맛비…전남 남해안·제주 산지 폭우 주의 - 한겨레",
         "en": "일요일 전국에 장맛비…전남 남해안·제주 산지 폭우 주의 - 한겨레",
         "zh": "일요일 전국에 장맛비…전남 남해안·제주 산지 폭우 주의 - 한겨레"
+      }
+    },
+    {
+      "title": "오세훈 “윤 지지 세력과 관계 유지해야…보수에 대한 시민들 기대 여전” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1266700.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 04 Jul 2026 06:02:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/431/imgdb/original/2026/0704/20260704500349.webp",
+      "summaries": {
+        "ko": "오세훈 “윤 지지 세력과 관계 유지해야…보수에 대한 시민들 기대 여전” - 한겨레",
+        "en": "오세훈 “윤 지지 세력과 관계 유지해야…보수에 대한 시민들 기대 여전” - 한겨레",
+        "zh": "오세훈 “윤 지지 세력과 관계 유지해야…보수에 대한 시민들 기대 여전” - 한겨레"
       }
     },
     {
@@ -62,30 +62,6 @@
       }
     },
     {
-      "title": "\"미·이란 협상, 11일 파키스탄서 재개 전망…핵 논의 포함\" - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202607042357201CL",
-      "source": "연합뉴스TV",
-      "pubDate": "Sat, 04 Jul 2026 14:57:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260704/AKR202607042357201CL_01_i.jpg",
-      "summaries": {
-        "ko": "\"미·이란 협상, 11일 파키스탄서 재개 전망…핵 논의 포함\" - 연합뉴스TV",
-        "en": "\"미·이란 협상, 11일 파키스탄서 재개 전망…핵 논의 포함\" - 연합뉴스TV",
-        "zh": "\"미·이란 협상, 11일 파키스탄서 재개 전망…핵 논의 포함\" - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "이재명 대통령 “3대 메가 프로젝트, 지지율 관리 수단이었다면 지방선거 전에 했을 것” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607041253001",
-      "source": "경향신문",
-      "pubDate": "Sat, 04 Jul 2026 03:53:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/04/rcv.YNA.20260703.PYH2026070311500001300_P1.jpg",
-      "summaries": {
-        "ko": "이재명 대통령 “3대 메가 프로젝트, 지지율 관리 수단이었다면 지방선거 전에 했을 것” - 경향신문",
-        "en": "이재명 대통령 “3대 메가 프로젝트, 지지율 관리 수단이었다면 지방선거 전에 했을 것” - 경향신문",
-        "zh": "이재명 대통령 “3대 메가 프로젝트, 지지율 관리 수단이었다면 지방선거 전에 했을 것” - 경향신문"
-      }
-    },
-    {
       "title": "‘올공’ 개표소 2번째 구속…국조특위 진입 막고 경찰 폭행한 60대 남성 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/society_general/1266712.html",
       "source": "한겨레",
@@ -95,6 +71,18 @@
         "ko": "‘올공’ 개표소 2번째 구속…국조특위 진입 막고 경찰 폭행한 60대 남성 - 한겨레",
         "en": "‘올공’ 개표소 2번째 구속…국조특위 진입 막고 경찰 폭행한 60대 남성 - 한겨레",
         "zh": "‘올공’ 개표소 2번째 구속…국조특위 진입 막고 경찰 폭행한 60대 남성 - 한겨레"
+      }
+    },
+    {
+      "title": "野 \"메가프로젝트, 국정지지율·與전대용\"…與 \"국운 건 대전환\" - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260704033100001",
+      "source": "연합뉴스",
+      "pubDate": "Sat, 04 Jul 2026 08:37:25 GMT",
+      "image": "https://img4.yna.co.kr/photo/yna/YH/2026/06/30/PYH2026063018210005400_P4.jpg",
+      "summaries": {
+        "ko": "野 \"메가프로젝트, 국정지지율·與전대용\"…與 \"국운 건 대전환\" - 연합뉴스",
+        "en": "野 \"메가프로젝트, 국정지지율·與전대용\"…與 \"국운 건 대전환\" - 연합뉴스",
+        "zh": "野 \"메가프로젝트, 국정지지율·與전대용\"…與 \"국운 건 대전환\" - 연합뉴스"
       }
     },
     {
@@ -119,6 +107,18 @@
         "ko": "與, “쿠팡 입장 받아쓰기한 美 하원 보고서 강력 유감” - 조선비즈 - Chosunbiz",
         "en": "與, “쿠팡 입장 받아쓰기한 美 하원 보고서 강력 유감” - 조선비즈 - Chosunbiz",
         "zh": "與, “쿠팡 입장 받아쓰기한 美 하원 보고서 강력 유감” - 조선비즈 - Chosunbiz"
+      }
+    },
+    {
+      "title": "'광주일고에 폭탄 설치' 협박글‥경찰 \"작성자 추적 중\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6834987_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sat, 04 Jul 2026 04:47:05 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/04/ljm_20260704_10.jpg",
+      "summaries": {
+        "ko": "'광주일고에 폭탄 설치' 협박글‥경찰 \"작성자 추적 중\" - MBC 뉴스",
+        "en": "'광주일고에 폭탄 설치' 협박글‥경찰 \"작성자 추적 중\" - MBC 뉴스",
+        "zh": "'광주일고에 폭탄 설치' 협박글‥경찰 \"작성자 추적 중\" - MBC 뉴스"
       }
     }
   ]
