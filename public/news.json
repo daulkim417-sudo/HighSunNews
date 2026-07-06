@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-06T22:53:16.039657",
+  "lastUpdate": "2026-07-06T23:54:22.420234",
   "items": [
     {
       "title": "이병태, 사퇴 권고 2시간 만에 물러나…5·18 발언 사과는 안 해 - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Mon, 06 Jul 2026 15:14:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/640/466/imgdb/original/2026/0706/20260706503428.webp",
       "summaries": {
-        "ko": "이병태 규제합리화위원회 부위원장이 5·18 민주화운동 관련 논란 발언에 대한 사과 없이 청와대의 사퇴 권고 2시간 만에 물러났다.",
-        "en": "Lee Byung-tae, Vice Chairman of the Presidential Regulatory Reform Committee, resigned just two hours after the Presidential Office recommended it, following controversial remarks about the 5·18 Gwangju Democratization Movement for which he refused to apologize.",
-        "zh": "总统直属规制合理化委员会副委员长李炳泰，因就5·18民主化运动发表争议言论并拒绝道歉，在青瓦台建议辞职两小时后便辞去了职务。"
+        "ko": "이병태 규제합리화위원회 부위원장이 5·18 민주화운동 관련 논란 발언으로 청와대의 사퇴 권고 2시간 만에 물러났으나, 자신의 발언에 대한 사과는 하지 않고 오히려 이를 '부당한 정치적 공세'라고 규정했다.",
+        "en": "Lee Byung-tae, Vice Chairman of the Regulatory Rationalization Committee, resigned two hours after the Blue House recommended his dismissal due to controversial remarks regarding the May 18th Democratic Uprising, but he did not apologize for his statements, instead characterizing the recommendation as an 'unjust political attack'.",
+        "zh": "規制合理化委員會副委員長李炳泰因發表關於5·18民主化運動的爭議言論，在青瓦臺建議其辭職兩小時後便辭職，但他並未為自己的言論道歉，反而將此建議定性為「不公正的政治攻勢」。"
       }
     },
     {
@@ -26,63 +26,63 @@
       }
     },
     {
-      "title": "김민석 “자기 정치로 당정 협력 혼선” 정청래 직격 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607062127015",
-      "source": "경향신문",
-      "pubDate": "Mon, 06 Jul 2026 12:27:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/06/l_2026070701000193300017011.jpg",
-      "summaries": {
-        "ko": "김민석 “자기 정치로 당정 협력 혼선” 정청래 직격 - 경향신문",
-        "en": "김민석 “자기 정치로 당정 협력 혼선” 정청래 직격 - 경향신문",
-        "zh": "김민석 “자기 정치로 당정 협력 혼선” 정청래 직격 - 경향신문"
-      }
-    },
-    {
-      "title": "[단독] 광주군공항, 반도체 부지 지정에 탄약고 이전 무산되나 - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/07/06/6MGQQ7JGRRAADIYFS23BVNK3NY/",
+      "title": "친청계, 출마 김민석에 반격 \"계엄 해제 표결 왜 불참했나\" - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/07/06/NAZIPLZCLNFHPCGOQ234KWKHYY/",
       "source": "조선일보",
-      "pubDate": "Mon, 06 Jul 2026 11:36:45 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GY2TGNBSMQ3WCMZTGY3DQOJXGE.jpg?auth=5044f2e068c896c35f0202ecdbee40141622c46e52c5ade74b3fcaaa46fed24c&width=1200&height=630&smart=true",
+      "pubDate": "Mon, 06 Jul 2026 07:15:39 GMT",
+      "image": "https://www.chosun.com/resizer/v2/EQS6YRLMBRGT7BXVLCES4VBOIQ.jpg?auth=59b36fb6a4da093a19584a53dcfd7a286d6a4ea9e60fd4dae87ab8e4b902ac17&width=1200&height=630&focal=2700,926",
       "summaries": {
-        "ko": "[단독] 광주군공항, 반도체 부지 지정에 탄약고 이전 무산되나 - 조선일보",
-        "en": "[단독] 광주군공항, 반도체 부지 지정에 탄약고 이전 무산되나 - 조선일보",
-        "zh": "[단독] 광주군공항, 반도체 부지 지정에 탄약고 이전 무산되나 - 조선일보"
+        "ko": "친청계, 출마 김민석에 반격 \"계엄 해제 표결 왜 불참했나\" - 조선일보",
+        "en": "친청계, 출마 김민석에 반격 \"계엄 해제 표결 왜 불참했나\" - 조선일보",
+        "zh": "친청계, 출마 김민석에 반격 \"계엄 해제 표결 왜 불참했나\" - 조선일보"
       }
     },
     {
-      "title": "[단독] 중앙선관위 \"올공 투표용지 재검표 하겠다\"‥국조특위 의결 후 실시 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6835443_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Mon, 06 Jul 2026 14:16:28 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/06/joo260706_d1.jpg",
-      "summaries": {
-        "ko": "[단독] 중앙선관위 \"올공 투표용지 재검표 하겠다\"‥국조특위 의결 후 실시 - MBC 뉴스",
-        "en": "[단독] 중앙선관위 \"올공 투표용지 재검표 하겠다\"‥국조특위 의결 후 실시 - MBC 뉴스",
-        "zh": "[단독] 중앙선관위 \"올공 투표용지 재검표 하겠다\"‥국조특위 의결 후 실시 - MBC 뉴스"
-      }
-    },
-    {
-      "title": "장윤기 사건 수사 초기 '강간살인' 혐의 검토했지만 반영 안돼 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260706155700054",
-      "source": "연합뉴스",
-      "pubDate": "Mon, 06 Jul 2026 14:21:57 GMT",
-      "image": "https://img4.yna.co.kr/photo/yna/YH/2026/05/14/PYH2026051401140005400_P4.jpg",
-      "summaries": {
-        "ko": "장윤기 사건 수사 초기 '강간살인' 혐의 검토했지만 반영 안돼 - 연합뉴스",
-        "en": "장윤기 사건 수사 초기 '강간살인' 혐의 검토했지만 반영 안돼 - 연합뉴스",
-        "zh": "장윤기 사건 수사 초기 '강간살인' 혐의 검토했지만 반영 안돼 - 연합뉴스"
-      }
-    },
-    {
-      "title": "“캐나다 잠수함 사업, 독일이 수주”…한국 막판까지 치열한 경쟁 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1267000.html",
+      "title": "‘소서’ 전국에 장맛비… 중부지방 시간당 20~30㎜ 강한 비 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1267021.html",
       "source": "한겨레",
-      "pubDate": "Mon, 06 Jul 2026 16:29:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/407/imgdb/original/2026/0706/20260706503394.webp",
+      "pubDate": "Mon, 06 Jul 2026 22:57:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/680/446/imgdb/original/2026/0707/20260707500398.webp",
       "summaries": {
-        "ko": "“캐나다 잠수함 사업, 독일이 수주”…한국 막판까지 치열한 경쟁 - 한겨레",
-        "en": "“캐나다 잠수함 사업, 독일이 수주”…한국 막판까지 치열한 경쟁 - 한겨레",
-        "zh": "“캐나다 잠수함 사업, 독일이 수주”…한국 막판까지 치열한 경쟁 - 한겨레"
+        "ko": "‘소서’ 전국에 장맛비… 중부지방 시간당 20~30㎜ 강한 비 - 한겨레",
+        "en": "‘소서’ 전국에 장맛비… 중부지방 시간당 20~30㎜ 강한 비 - 한겨레",
+        "zh": "‘소서’ 전국에 장맛비… 중부지방 시간당 20~30㎜ 강한 비 - 한겨레"
+      }
+    },
+    {
+      "title": "‘5·18 왜곡’ 가짜신문 AI로 만들어 유포…20대 등 6명 검거 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/honam/1266970.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 06 Jul 2026 09:50:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/715/457/imgdb/original/2026/0706/20260706503132.webp",
+      "summaries": {
+        "ko": "‘5·18 왜곡’ 가짜신문 AI로 만들어 유포…20대 등 6명 검거 - 한겨레",
+        "en": "‘5·18 왜곡’ 가짜신문 AI로 만들어 유포…20대 등 6명 검거 - 한겨레",
+        "zh": "‘5·18 왜곡’ 가짜신문 AI로 만들어 유포…20대 등 6명 검거 - 한겨레"
+      }
+    },
+    {
+      "title": "광주 군공항 평지에 국유지, 빠른 사업 기대… ‘비행단 이전’ 변수 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260707/134248020/2",
+      "source": "동아일보",
+      "pubDate": "Mon, 06 Jul 2026 19:30:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/07/134247820.5.jpg",
+      "summaries": {
+        "ko": "광주 군공항 평지에 국유지, 빠른 사업 기대… ‘비행단 이전’ 변수 - 동아일보",
+        "en": "광주 군공항 평지에 국유지, 빠른 사업 기대… ‘비행단 이전’ 변수 - 동아일보",
+        "zh": "광주 군공항 평지에 국유지, 빠른 사업 기대… ‘비행단 이전’ 변수 - 동아일보"
+      }
+    },
+    {
+      "title": "캐나다 매체 \"캐나다, 잠수함 건조업체로 독일 TKMS 선정\" - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260706205807qlf",
+      "source": "연합뉴스TV",
+      "pubDate": "Mon, 06 Jul 2026 12:15:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260706/AKR20260706205807qlf_01_i.jpg",
+      "summaries": {
+        "ko": "캐나다 매체 \"캐나다, 잠수함 건조업체로 독일 TKMS 선정\" - 연합뉴스TV",
+        "en": "캐나다 매체 \"캐나다, 잠수함 건조업체로 독일 TKMS 선정\" - 연합뉴스TV",
+        "zh": "캐나다 매체 \"캐나다, 잠수함 건조업체로 독일 TKMS 선정\" - 연합뉴스TV"
       }
     },
     {
@@ -98,27 +98,27 @@
       }
     },
     {
-      "title": "이 대통령 “국운 건 경쟁, 누가 빠르냐로 결판”…환경단체는 ‘우려’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1266997.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 06 Jul 2026 15:20:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0706/20260706503331.webp",
+      "title": "이 대통령 \"3대 메가프로젝트, 행정절차 동행·병행 추진\" - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260706104137CWq",
+      "source": "연합뉴스TV",
+      "pubDate": "Mon, 06 Jul 2026 01:41:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260706/AKR20260706104137CWq_01_i.jpg",
       "summaries": {
-        "ko": "이 대통령 “국운 건 경쟁, 누가 빠르냐로 결판”…환경단체는 ‘우려’ - 한겨레",
-        "en": "이 대통령 “국운 건 경쟁, 누가 빠르냐로 결판”…환경단체는 ‘우려’ - 한겨레",
-        "zh": "이 대통령 “국운 건 경쟁, 누가 빠르냐로 결판”…환경단체는 ‘우려’ - 한겨레"
+        "ko": "이 대통령 \"3대 메가프로젝트, 행정절차 동행·병행 추진\" - 연합뉴스TV",
+        "en": "이 대통령 \"3대 메가프로젝트, 행정절차 동행·병행 추진\" - 연합뉴스TV",
+        "zh": "이 대통령 \"3대 메가프로젝트, 행정절차 동행·병행 추진\" - 연합뉴스TV"
       }
     },
     {
-      "title": "리센느 원이 ‘무섭노’ 논란에…김시덕 “일베 프레임, 영 파이다” - 매일경제",
-      "link": "https://www.mk.co.kr/news/society/12090849",
-      "source": "매일경제",
-      "pubDate": "Sun, 05 Jul 2026 23:19:51 GMT",
-      "image": "https://pimg.mk.co.kr/news/cms/202607/06/news-p.v1.20260706.1fbe4649263040ffa43fc9b5bc0423a6_R.jpg",
+      "title": "'전과 6범 논란' 임성근, 대형 한식당 개업…\"최고의 맛으로 보답\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260707084934lC1",
+      "source": "Breaking News",
+      "pubDate": "Tue, 07 Jul 2026 08:49:34 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260706/AKR20260707084934lC1_01_i.jpg",
       "summaries": {
-        "ko": "리센느 원이 ‘무섭노’ 논란에…김시덕 “일베 프레임, 영 파이다” - 매일경제",
-        "en": "리센느 원이 ‘무섭노’ 논란에…김시덕 “일베 프레임, 영 파이다” - 매일경제",
-        "zh": "리센느 원이 ‘무섭노’ 논란에…김시덕 “일베 프레임, 영 파이다” - 매일경제"
+        "ko": "'전과 6범 논란' 임성근, 대형 한식당 개업…\"최고의 맛으로 보답\"",
+        "en": "'전과 6범 논란' 임성근, 대형 한식당 개업…\"최고의 맛으로 보답\"",
+        "zh": "'전과 6범 논란' 임성근, 대형 한식당 개업…\"최고의 맛으로 보답\""
       }
     },
     {
@@ -131,18 +131,6 @@
         "ko": "[속보] 삼성전자 2분기 영업이익 89조4천억원",
         "en": "[속보] 삼성전자 2분기 영업이익 89조4천억원",
         "zh": "[속보] 삼성전자 2분기 영업이익 89조4천억원"
-      }
-    },
-    {
-      "title": "[속보] 삼성전자 2분기 매출 171조…3분기 연속 최대 실적",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260707074407ucR",
-      "source": "Breaking News",
-      "pubDate": "Tue, 07 Jul 2026 07:44:07 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260706/AKR20260707074407ucR_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 삼성전자 2분기 매출 171조…3분기 연속 최대 실적",
-        "en": "[속보] 삼성전자 2분기 매출 171조…3분기 연속 최대 실적",
-        "zh": "[속보] 삼성전자 2분기 매출 171조…3분기 연속 최대 실적"
       }
     }
   ]
