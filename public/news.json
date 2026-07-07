@@ -1,28 +1,88 @@
 {
-  "lastUpdate": "2026-07-07T08:52:37.572003",
+  "lastUpdate": "2026-07-07T11:36:01.830735",
   "items": [
     {
-      "title": "정청래, 김민석 총리 때 겨냥 “당대표 로망 발언이 자기 정치” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/assembly/1267084.html",
+      "title": "광주일고, 배재고 ‘출전정지’ 재심 청구 길 열어줘…“품어 안겠다” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/honam/1267119.html",
       "source": "한겨레",
-      "pubDate": "Tue, 07 Jul 2026 05:39:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/525/315/imgdb/child/2026/0707/53_17834107794522_20260707502157.webp",
+      "pubDate": "Tue, 07 Jul 2026 09:24:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0707/541783416007988.webp",
       "summaries": {
-        "ko": "정청래 전 민주당 대표가 자신을 '자기 정치'했다고 비판한 김민석 전 총리에게, 오히려 김 전 총리의 '당대표 로망' 발언이 부적절한 자기 정치였다고 반박하며 자신의 재임 기간 행보를 해명했다.",
-        "en": "Former Democratic Party leader Jung Cheong-rae, in response to former Prime Minister Kim Min-seok's criticism of his 'self-serving politics,' retorted that Kim's own 'dream of becoming party leader' remark while serving as Prime Minister was an example of inappropriate self-serving politics, while also defending his past actions.",
-        "zh": "民主党前代表郑清来针对前总理金民锡批评他搞“个人政治”一事，反驳称金前总理在任期间发表的“党代表梦想”言论，反而是不合时宜的个人政治行为，并解释了自己任期内的行动。"
+        "ko": "광주일고가 5·18 조롱 응원으로 출전정지 징계를 받은 배재고 야구부에 대해 선처를 요청하며, 배재고가 부담 없이 재심을 청구할 수 있는 길을 열어주었다.",
+        "en": "Gwangju Jeil High School requested leniency for Baejae High School's baseball team, which was suspended for mocking the May 18th Gwangju Uprising, thereby allowing Baejae to comfortably request a re-evaluation of its disciplinary action.",
+        "zh": "光州第一高中请求对因嘲讽5·18光州事件而被禁赛的培材高中棒球队予以宽大处理，为其提供了申请复审的途径。"
       }
     },
     {
-      "title": "광주일고 “배재고 학생, 주홍글씨 원치 않아”···출전정지 재심 앞두고 선처 호소 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607071707011",
+      "title": "광주 반도체 클러스터는 ‘인재 남방한계선’을 돌파할 수 있을까 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607071708001",
       "source": "경향신문",
-      "pubDate": "Tue, 07 Jul 2026 08:07:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/07/news-p.v1.20260707.e41ad3891b9140c6ac28feeee5cbe991_P1.png",
+      "pubDate": "Tue, 07 Jul 2026 08:08:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/07/news-p.v1.20260707.94ad7e9d7890490191ba96b13bb989d8_P1.jpg",
       "summaries": {
-        "ko": "광주일고는 5·18민주화운동 조롱 응원으로 출전 정지 징계를 받은 배재고 야구부 학생들이 경기장에 복귀할 수 있도록 처벌 대신 교육적 회복에 무게를 둔 선처를 호소했다.",
-        "en": "Gwangju Jeil High School appealed for leniency for Baejae High School's baseball team, which was suspended for mocking the May 18th Democratization Movement, advocating for educational recovery over punishment to allow the students to return to the field.",
-        "zh": "光州第一高中呼吁对因嘲讽5·18民主化运动而受到禁赛处罚的培材高中棒球队予以宽大处理，主张应侧重教育性恢复而非惩罚，以让学生们重返赛场。"
+        "ko": "광주 반도체 클러스터의 성공 여부는 수도권 집중 현상과 청년층의 수도권 선호로 인한 ‘인재 남방한계선’을 넘어 우수 인력을 유치하고 정주시키는 데 달려 있다.",
+        "en": "The success of Gwangju's semiconductor cluster hinges on its ability to attract and retain high-quality talent, overcoming the 'talent southern limit line' driven by the concentration of talent in and young professionals' preference for the Seoul metropolitan area.",
+        "zh": "光州半导体集群能否成功，取决于其能否突破因首都圈人才集中和青年对首都圈偏好而形成的“人才南方限界线”，吸引并留住优秀人才。"
+      }
+    },
+    {
+      "title": "정청래 “총리가 TPO 안 맞는 ‘당대표 로망’ 발언해 평지풍파” - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/07/07/4GPZPPB5P5H3TPPEOEBO5YIXEE/",
+      "source": "조선일보",
+      "pubDate": "Tue, 07 Jul 2026 05:21:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/4H2FJLSVFFCSJEW5ZPQVEXN5YQ.JPG?auth=a1b706fb31346bae0c7a8ad69776665e4fd0e9f52809d4546192fe456fe07058&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "정청래 “총리가 TPO 안 맞는 ‘당대표 로망’ 발언해 평지풍파” - 조선일보",
+        "en": "정청래 “총리가 TPO 안 맞는 ‘당대표 로망’ 발언해 평지풍파” - 조선일보",
+        "zh": "정청래 “총리가 TPO 안 맞는 ‘당대표 로망’ 발언해 평지풍파” - 조선일보"
+      }
+    },
+    {
+      "title": "이 대통령, 오늘 ‘나토 방산포럼’ 참석…‘방위산업 파트너십 2.0’ 제안 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8604495",
+      "source": "KBS 뉴스",
+      "pubDate": "Tue, 07 Jul 2026 10:39:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/07/07/20260707_jiTocf.jpg",
+      "summaries": {
+        "ko": "이재명 대통령이 튀르키예 나토 방산포럼에 참석하여 나토와의 방산 협력을 단순 무기 거래를 넘어 공동 생산 및 활용하는 '방위산업 파트너십 2.0'으로 격상할 것을 제안했습니다.",
+        "en": "President Lee Jae-myung attended the NATO Defense Industry Forum in Turkey and proposed 'Defense Industry Partnership 2.0' to elevate defense cooperation with NATO beyond simple arms trade to co-production and co-utilization.",
+        "zh": "李在明总统出席在土耳其举行的北约国防工业论坛，提议将与北约的国防工业合作从单纯的武器交易提升为共同生产和利用的“国防工业伙伴关系2.0”。"
+      }
+    },
+    {
+      "title": "대법원, 9일 윤석열 ’체포방해’ 상고심 선고 생중계 결정 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260707172333lHU",
+      "source": "연합뉴스TV",
+      "pubDate": "Tue, 07 Jul 2026 08:31:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260707/AKR20260707172333lHU_01_i.jpg",
+      "summaries": {
+        "ko": "대법원, 9일 윤석열 ’체포방해’ 상고심 선고 생중계 결정 - 연합뉴스TV",
+        "en": "대법원, 9일 윤석열 ’체포방해’ 상고심 선고 생중계 결정 - 연합뉴스TV",
+        "zh": "대법원, 9일 윤석열 ’체포방해’ 상고심 선고 생중계 결정 - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "내일부터 큰 장마-폭염 연거푸…200㎜ 퍼붓고, 주말엔 34도 쩔쩔 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1267097.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 07 Jul 2026 08:51:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/938/563/imgdb/child/2026/0707/53_17834091615618_20260707502494.webp",
+      "summaries": {
+        "ko": "8~9일 최대 200mm의 폭우가 내린 뒤, 주말부터는 최고 34도까지 오르는 폭염과 열대야가 본격화하며 올해 첫 '열대야주의보'가 발령될 가능성이 있다.",
+        "en": "After heavy rainfall of up to 200mm on July 8-9, South Korea will face an intense heatwave starting this weekend, bringing temperatures up to 34 degrees Celsius, tropical nights, and the potential for the first 'tropical night advisory'.",
+        "zh": "韩国将在8日至9日迎来高达200毫米的强降雨，随后从本周末开始将面临酷热天气，气温将升至34摄氏度，并可能出现热带夜及首次发布‘热带夜注意报’。"
+      }
+    },
+    {
+      "title": "검찰, ’장윤기 부실수사’ 관련 광산서 압수수색 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260707100846NGI",
+      "source": "연합뉴스TV",
+      "pubDate": "Tue, 07 Jul 2026 01:08:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260707/AKR20260707100846NGI_01_i.jpeg",
+      "summaries": {
+        "ko": "광주지검이 '장윤기 부실수사' 의혹과 관련하여 경찰의 공무상비밀누설 및 증거인멸 혐의로 광산경찰서를 압수수색했습니다.",
+        "en": "The Gwangju District Prosecutor's Office raided Gwangsan Police Station in connection with the alleged 'Jang Yoon-gi botched investigation', on suspicion of police leaking official secrets and destroying evidence.",
+        "zh": "光州地方检察厅因涉嫌“张允基案件调查不力”以及警方泄露公务机密和销毁证据的指控，对光山警察署进行了扣押搜查。"
       }
     },
     {
@@ -38,70 +98,10 @@
       }
     },
     {
-      "title": "“샘, 부엉이 케이크 드릴까요?”…교사 10명 중 7명 혐오 표현 목격 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/schooling/1267102.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 07 Jul 2026 07:35:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0707/6817834062885245.webp",
-      "summaries": {
-        "ko": "전교조 설문조사 결과, 교사 10명 중 약 9명이 지난 1년간 학교 현장에서 학생들이 온라인 밈에서 유래한 혐오·차별·역사왜곡 표현을 사용하는 것을 목격했다고 답했다.",
-        "en": "A survey by the Korean Teachers and Educational Workers' Union (JeonGyoJo) revealed that nearly 9 out of 10 teachers witnessed students using hate speech, discriminatory, or historically distorting expressions, often derived from online memes, in schools over the past year.",
-        "zh": "据全国教职工工会（全教组）的一项调查显示，过去一年里，约十分之九的教师表示在学校里亲眼目睹学生使用源自网络迷因的仇恨、歧视或歪曲历史的言论。"
-      }
-    },
-    {
-      "title": "큰 장마-폭염 세트로…내일부터 200㎜ 퍼붓고, 주말엔 34도 쩔쩔 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1267097.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 07 Jul 2026 07:25:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/938/563/imgdb/child/2026/0707/53_17834091615618_20260707502494.webp",
-      "summaries": {
-        "ko": "8일부터 10일까지 전국적으로 최대 200mm의 강한 장맛비가 내린 뒤, 정체전선 북상으로 본격적인 무더위가 시작되어 주말에는 34도까지 오르고 열대야주의보가 발령될 가능성이 있다.",
-        "en": "South Korea will experience heavy monsoon rains of up to 200mm nationwide from July 8-10, primarily in central and Jeolla regions, followed by a full-scale heatwave with temperatures reaching 34 degrees and the potential issuance of the first tropical night advisories in southern areas.",
-        "zh": "韩国将从7月8日至10日迎来全国范围内的强降雨（最高200毫米），主要集中在中部和全罗地区，随后滞留锋面北移，全国将进入全面高温天气，周末气温可达34摄氏度，南部地区可能会首次发布热带夜预警。"
-      }
-    },
-    {
-      "title": "경찰, 고교생 살해 ‘장윤기 사건’ 수사팀장 구속영장 신청 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1267067.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 07 Jul 2026 04:48:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/650/imgdb/child/2026/0707/17833945544867_4516678868325597.webp",
-      "summaries": {
-        "ko": "경찰 특별수사팀이 '광주 고등학생 살인사건' 부실 수사 의혹과 관련하여 증거인멸 혐의를 받는 당시 수사팀장이었던 박 경감에 대해 구속영장을 신청했다.",
-        "en": "The police special investigation team has applied for an arrest warrant for Inspector Park, the former investigation team leader in the 'Gwangju high school student murder case,' on charges of destroying evidence related to alleged mishandling of the investigation.",
-        "zh": "警方特别调查组已就“光州高中生杀人案”调查不力嫌疑，以涉嫌销毁证据为由，申请逮捕当时调查组组长朴警监。"
-      }
-    },
-    {
-      "title": "한화오션, 캐나다 잠수함 수주 불발에 “나토 동맹의 벽 못 넘어···도약할 수 있는 길 찾겠다” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607071619001",
-      "source": "경향신문",
-      "pubDate": "Tue, 07 Jul 2026 07:19:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/07/news-p.v1.20260707.06cd8616db514f3189973b4b72d4fc6f_P1.jpg",
-      "summaries": {
-        "ko": "한화오션은 캐나다 잠수함 수주전에서 기술력은 인정받았으나 나토 동맹 및 공급망 문제로 불발되자, 향후 K방산의 글로벌 도약을 위한 새로운 대안을 강구하겠다고 밝혔다.",
-        "en": "Hanwha Ocean, despite its recognized technological prowess, lost the Canadian submarine bid primarily due to NATO alliance and supply chain issues, and announced plans to seek new alternatives for the global advancement of K-defense.",
-        "zh": "韩华海洋在加拿大潜艇竞标中，尽管技术实力获得认可，但因未能克服北约同盟和供应链壁垒而落选，并表示将寻求新的方案以推动K国防在全球市场进一步发展。"
-      }
-    },
-    {
-      "title": "[단독] 광주 군공항 이전 앞두고 투기 조짐…10건 중 6건 '지분 쪼개기' 거래 - 뉴스핌",
-      "link": "https://www.newspim.com/news/view/20260707000770",
-      "source": "뉴스핌",
-      "pubDate": "Tue, 07 Jul 2026 04:58:00 GMT",
-      "image": "https://img.newspim.com/news/2026/07/07/2607071314161810_433_tc.jpg",
-      "summaries": {
-        "ko": "[단독] 광주 군공항 이전 앞두고 투기 조짐…10건 중 6건 '지분 쪼개기' 거래 - 뉴스핌",
-        "en": "[단독] 광주 군공항 이전 앞두고 투기 조짐…10건 중 6건 '지분 쪼개기' 거래 - 뉴스핌",
-        "zh": "[단독] 광주 군공항 이전 앞두고 투기 조짐…10건 중 6건 '지분 쪼개기' 거래 - 뉴스핌"
-      }
-    },
-    {
       "title": "[단독] 조경태, 윤리위에 장동혁 제소한다…“윤석열 절연 거부로 선거 패배” - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1267046.html",
       "source": "한겨레",
-      "pubDate": "Tue, 07 Jul 2026 02:37:00 GMT",
+      "pubDate": "Tue, 07 Jul 2026 10:56:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/820/487/imgdb/original/2026/0707/20260707501346.webp",
       "summaries": {
         "ko": "[단독] 조경태, 윤리위에 장동혁 제소한다…“윤석열 절연 거부로 선거 패배” - 한겨레",
@@ -110,27 +110,27 @@
       }
     },
     {
-      "title": "경기 파주 와동동 아파트 화재‥2시간여 만에 초진 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6835568_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 07 Jul 2026 02:25:56 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/07/joo260707_6.jpg",
+      "title": "[속보] '장윤기 사건' 당시 광주광산경찰서장 등 대기발령",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260707203215dFf",
+      "source": "Breaking News",
+      "pubDate": "Tue, 07 Jul 2026 20:32:15 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260707/MYH20260707203215dFf.jpg",
       "summaries": {
-        "ko": "경기 파주 와동동 아파트 화재‥2시간여 만에 초진 - MBC 뉴스",
-        "en": "경기 파주 와동동 아파트 화재‥2시간여 만에 초진 - MBC 뉴스",
-        "zh": "경기 파주 와동동 아파트 화재‥2시간여 만에 초진 - MBC 뉴스"
+        "ko": "[속보] '장윤기 사건' 당시 광주광산경찰서장 등 대기발령",
+        "en": "[속보] '장윤기 사건' 당시 광주광산경찰서장 등 대기발령",
+        "zh": "[속보] '장윤기 사건' 당시 광주광산경찰서장 등 대기발령"
       }
     },
     {
-      "title": "[속보] 대법 \"9일 尹 체포방해 상고심 선고 생중계\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260707174409oWJ",
+      "title": "[속보] '장윤기 사건' 당시 광주광산경찰서장 등 6명 대기발령",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260707203033iUe",
       "source": "Breaking News",
-      "pubDate": "Tue, 07 Jul 2026 17:44:09 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260707/MYH20260707174409oWJ.jpg",
+      "pubDate": "Tue, 07 Jul 2026 20:30:35 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260707/AKR20260707203033iUe_01_i.jpg",
       "summaries": {
-        "ko": "[속보] 대법 \"9일 尹 체포방해 상고심 선고 생중계\"",
-        "en": "[속보] 대법 \"9일 尹 체포방해 상고심 선고 생중계\"",
-        "zh": "[속보] 대법 \"9일 尹 체포방해 상고심 선고 생중계\""
+        "ko": "[속보] '장윤기 사건' 당시 광주광산경찰서장 등 6명 대기발령",
+        "en": "[속보] '장윤기 사건' 당시 광주광산경찰서장 등 6명 대기발령",
+        "zh": "[속보] '장윤기 사건' 당시 광주광산경찰서장 등 6명 대기발령"
       }
     }
   ]
