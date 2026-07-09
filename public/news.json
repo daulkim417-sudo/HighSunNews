@@ -1,16 +1,64 @@
 {
-  "lastUpdate": "2026-07-09T18:21:05.800636",
+  "lastUpdate": "2026-07-09T20:10:04.991455",
   "items": [
     {
-      "title": "윤석열 전 한국 대통령 징역 7년 확정…계엄 583일 만 - VOA 한국어 홈페이지",
-      "link": "https://www.voakorea.com/a/skorea---yoon-ruling-070926/8169944.html",
-      "source": "VOA 한국어 홈페이지",
-      "pubDate": "Thu, 09 Jul 2026 15:49:23 GMT",
-      "image": "https://gdb.voanews.com/f4ce7bc2-fc53-46c3-615c-08decd2fb674_cx0_cy1_cw0_w1200_h630.jpg",
+      "title": "대법 “공수처 내란수사 적법”…체포방해 유죄 윤석열 남은 재판 7개 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1267558.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 09 Jul 2026 10:42:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/607/imgdb/original/2026/0709/20260709503374.webp",
       "summaries": {
-        "ko": "한국 대법원이 특수공무집행방해 및 직권남용 등의 혐의로 기소된 윤석열 전 대통령에게 비상계엄 선포 583일 만에 징역 7년 원심을 확정했습니다.",
-        "en": "South Korea's Supreme Court upheld the original sentence of 7 years in prison for former President Yoon Suk-yeol, who was indicted on charges including obstruction of special public duty and abuse of power, 583 days after the declaration of martial law.",
-        "zh": "韩国大法院在戒严令宣布583天后，维持了对因涉嫌妨碍特殊公务执行和滥用职权等罪名被起诉的前总统尹锡悦的7年有期徒刑原判。"
+        "ko": "윤석열 전 대통령이 공수처의 체포영장 집행을 방해한 혐의로 대법원에서 징역 7년의 실형을 확정받았으며, 대법원은 공수처의 내란 관련 수사 권한을 적법하다고 판단했다.",
+        "en": "Former President Yoon Suk-yeol received a final 7-year prison sentence from the Supreme Court for obstructing the High-ranking Officials' Corruption Investigation Office (CIO) from executing an arrest warrant, with the court affirming the CIO's authority to investigate insurrection-related crimes as lawful.",
+        "zh": "韩国前总统尹锡悦因妨碍公搜处（高层公职人员犯罪调查处）执行逮捕令，被大法院最终判处7年有期徒刑，大法院并确认了公搜处调查内乱罪的权限是合法的。"
+      }
+    },
+    {
+      "title": "與 “경찰 보완수사 거부땐 징계”… “사건 암장 막기엔 역부족” 지적도 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260710/134271253/2",
+      "source": "동아일보",
+      "pubDate": "Thu, 09 Jul 2026 19:30:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/10/134271053.4.jpg",
+      "summaries": {
+        "ko": "與 “경찰 보완수사 거부땐 징계”… “사건 암장 막기엔 역부족” 지적도 - 동아일보",
+        "en": "與 “경찰 보완수사 거부땐 징계”… “사건 암장 막기엔 역부족” 지적도 - 동아일보",
+        "zh": "與 “경찰 보완수사 거부땐 징계”… “사건 암장 막기엔 역부족” 지적도 - 동아일보"
+      }
+    },
+    {
+      "title": "여 전준위 “선호투표제 유지”…공은 ‘친청계 과반’ 최고위로 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607092137005",
+      "source": "경향신문",
+      "pubDate": "Thu, 09 Jul 2026 12:37:00 GMT",
+      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
+      "summaries": {
+        "ko": "여 전준위 “선호투표제 유지”…공은 ‘친청계 과반’ 최고위로 - 경향신문",
+        "en": "여 전준위 “선호투표제 유지”…공은 ‘친청계 과반’ 최고위로 - 경향신문",
+        "zh": "여 전준위 “선호투표제 유지”…공은 ‘친청계 과반’ 최고위로 - 경향신문"
+      }
+    },
+    {
+      "title": "이란은 말 안듣고 확전은 부담 크고…트럼프의 '진퇴양난' - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260710001600071",
+      "source": "연합뉴스",
+      "pubDate": "Thu, 09 Jul 2026 16:15:35 GMT",
+      "image": "https://img2.yna.co.kr/photo/ap/2026/07/09/PAP20260709161801009_P4.jpg",
+      "summaries": {
+        "ko": "이란은 말 안듣고 확전은 부담 크고…트럼프의 '진퇴양난' - 연합뉴스",
+        "en": "이란은 말 안듣고 확전은 부담 크고…트럼프의 '진퇴양난' - 연합뉴스",
+        "zh": "이란은 말 안듣고 확전은 부담 크고…트럼프의 '진퇴양난' - 연합뉴스"
+      }
+    },
+    {
+      "title": "車조명 끄고, 장갑 끼고, 흉기로... ‘여고생 살해’ 장윤기는 치밀했다 - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/07/09/W26KS4PJQRCSFGQTYZWCBWC42I/",
+      "source": "조선일보",
+      "pubDate": "Thu, 09 Jul 2026 13:38:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/TUPOXXE3HNHV5A76Z57UMMEIUY.jpg?auth=939298b1de5cec1b6a85397e192655ab4638067de0c04c8554cc988aa04c616b&width=600&height=315&smart=true",
+      "summaries": {
+        "ko": "車조명 끄고, 장갑 끼고, 흉기로... ‘여고생 살해’ 장윤기는 치밀했다 - 조선일보",
+        "en": "車조명 끄고, 장갑 끼고, 흉기로... ‘여고생 살해’ 장윤기는 치밀했다 - 조선일보",
+        "zh": "車조명 끄고, 장갑 끼고, 흉기로... ‘여고생 살해’ 장윤기는 치밀했다 - 조선일보"
       }
     },
     {
@@ -26,39 +74,39 @@
       }
     },
     {
-      "title": "민주당, ‘검찰 보완수사권 폐지’ 형사소송법 개정안 발의…장윤기 사건과 전당대회가 변수 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607091930001",
-      "source": "경향신문",
-      "pubDate": "Thu, 09 Jul 2026 10:30:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/09/rcv.YNA.20260709.PYH2026070918700001300_P1.jpg",
+      "title": "국토부, 반도체 산단 예정지 광주 군공항 인근 토지거래허가구역 지정 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/econo/article/6836269_36932.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Thu, 09 Jul 2026 07:37:11 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/econo/article/__icsFiles/afieldfile/2026/07/09/jh_20260709_28.jpg",
       "summaries": {
-        "ko": "민주당, ‘검찰 보완수사권 폐지’ 형사소송법 개정안 발의…장윤기 사건과 전당대회가 변수 - 경향신문",
-        "en": "민주당, ‘검찰 보완수사권 폐지’ 형사소송법 개정안 발의…장윤기 사건과 전당대회가 변수 - 경향신문",
-        "zh": "민주당, ‘검찰 보완수사권 폐지’ 형사소송법 개정안 발의…장윤기 사건과 전당대회가 변수 - 경향신문"
+        "ko": "국토부, 반도체 산단 예정지 광주 군공항 인근 토지거래허가구역 지정 - MBC 뉴스",
+        "en": "국토부, 반도체 산단 예정지 광주 군공항 인근 토지거래허가구역 지정 - MBC 뉴스",
+        "zh": "국토부, 반도체 산단 예정지 광주 군공항 인근 토지거래허가구역 지정 - MBC 뉴스"
       }
     },
     {
-      "title": "\"호르무즈 누가 통제할 지 규정 안 해\" 美·이란 휴전체제 뒤흔드는 뇌관으로 - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/07/10/KAY6LQL3TVH67GTYW37SWY36GY/",
-      "source": "조선일보",
-      "pubDate": "Thu, 09 Jul 2026 15:44:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/2MC6TNJVVVIVPMXUZTXECITSGQ.jpg?auth=43b6a469e797b73904f0d583cedab9304d35f58efb2dfeae2b7cbfaaf5ef054a&width=1200&height=630&focal=754,1228",
+      "title": "“아기 던져요”…긴박한 화재 현장서 ‘모포’로 아기 구조 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8606923",
+      "source": "KBS 뉴스",
+      "pubDate": "Thu, 09 Jul 2026 12:23:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/07/09/20260709_0Pw9Qt.png",
       "summaries": {
-        "ko": "\"호르무즈 누가 통제할 지 규정 안 해\" 美·이란 휴전체제 뒤흔드는 뇌관으로 - 조선일보",
-        "en": "\"호르무즈 누가 통제할 지 규정 안 해\" 美·이란 휴전체제 뒤흔드는 뇌관으로 - 조선일보",
-        "zh": "\"호르무즈 누가 통제할 지 규정 안 해\" 美·이란 휴전체제 뒤흔드는 뇌관으로 - 조선일보"
+        "ko": "“아기 던져요”…긴박한 화재 현장서 ‘모포’로 아기 구조 - KBS 뉴스",
+        "en": "“아기 던져요”…긴박한 화재 현장서 ‘모포’로 아기 구조 - KBS 뉴스",
+        "zh": "“아기 던져요”…긴박한 화재 현장서 ‘모포’로 아기 구조 - KBS 뉴스"
       }
     },
     {
-      "title": "[속보]반도체클러스터 광주 군공항 인근 토지거래허가구역 지정 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260709/134268417/1",
+      "title": "친명 김영진, 이성윤 직격 “심판이 특정선수 낙선운동”…김민석 비판에 일침 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260709/134265187/1",
       "source": "동아일보",
-      "pubDate": "Thu, 09 Jul 2026 07:48:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/09/134268403.1.jpg",
+      "pubDate": "Thu, 09 Jul 2026 01:04:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/24/133803751.1.jpg",
       "summaries": {
-        "ko": "[속보]반도체클러스터 광주 군공항 인근 토지거래허가구역 지정 - 동아일보",
-        "en": "[속보]반도체클러스터 광주 군공항 인근 토지거래허가구역 지정 - 동아일보",
-        "zh": "[속보]반도체클러스터 광주 군공항 인근 토지거래허가구역 지정 - 동아일보"
+        "ko": "친명 김영진, 이성윤 직격 “심판이 특정선수 낙선운동”…김민석 비판에 일침 - 동아일보",
+        "en": "친명 김영진, 이성윤 직격 “심판이 특정선수 낙선운동”…김민석 비판에 일침 - 동아일보",
+        "zh": "친명 김영진, 이성윤 직격 “심판이 특정선수 낙선운동”…김민석 비판에 일침 - 동아일보"
       }
     },
     {
@@ -74,51 +122,27 @@
       }
     },
     {
-      "title": "“아기 던져요”…긴박한 화재 현장서 ‘모포’로 아기 구조 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8606923",
-      "source": "KBS 뉴스",
-      "pubDate": "Thu, 09 Jul 2026 12:23:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/07/09/20260709_0Pw9Qt.png",
+      "title": "[속보] 연천·파주·철원 이어 포천 호우주의보",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260710040646a2W",
+      "source": "Breaking News",
+      "pubDate": "Fri, 10 Jul 2026 04:06:47 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260709/AKR20260710040646a2W_01_i.jpg",
       "summaries": {
-        "ko": "화재가 발생한 건물 3층에 갇혔던 엄마가 1살 아기를 창문 밖으로 던지고 소방대원들이 모포로 안전하게 받아 모두 구조됐습니다.",
-        "en": "A mother trapped on the third floor of a burning building threw her 1-year-old baby out the window, and firefighters safely caught the baby with a blanket, leading to the successful rescue of both.",
-        "zh": "一名被困在着火建筑物三楼的母亲将一岁婴儿从窗户扔出，消防员用毯子安全接住了婴儿，母子二人均被成功救出。"
+        "ko": "[속보] 연천·파주·철원 이어 포천 호우주의보",
+        "en": "[속보] 연천·파주·철원 이어 포천 호우주의보",
+        "zh": "[속보] 연천·파주·철원 이어 포천 호우주의보"
       }
     },
     {
-      "title": "[단독]유치장 수감 장윤기에 경찰이 ‘접견 편의’···아버지에 ‘면회 가능시간’ 미리 알려줘 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607091639011",
-      "source": "경향신문",
-      "pubDate": "Thu, 09 Jul 2026 07:39:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/09/rcv.YNA.20260514.PYH2026051400940005401_P1.jpg",
+      "title": "[속보] 경기 연천·파주서북부·강원 철원 호우주의보",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260710032420mFM",
+      "source": "Breaking News",
+      "pubDate": "Fri, 10 Jul 2026 03:24:21 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260709/AKR20260710032420mFM_01_i.jpg",
       "summaries": {
-        "ko": "[단독]유치장 수감 장윤기에 경찰이 ‘접견 편의’···아버지에 ‘면회 가능시간’ 미리 알려줘 - 경향신문",
-        "en": "[단독]유치장 수감 장윤기에 경찰이 ‘접견 편의’···아버지에 ‘면회 가능시간’ 미리 알려줘 - 경향신문",
-        "zh": "[단독]유치장 수감 장윤기에 경찰이 ‘접견 편의’···아버지에 ‘면회 가능시간’ 미리 알려줘 - 경향신문"
-      }
-    },
-    {
-      "title": "내일까지 ‘시간당 50㎜’ 수도권·강원 집중호우…곧이어 ‘불볕 더위’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1267461.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 09 Jul 2026 10:40:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/643/imgdb/child/2026/0709/17835731143034_3517835730685039.webp",
-      "summaries": {
-        "ko": "내일까지 ‘시간당 50㎜’ 수도권·강원 집중호우…곧이어 ‘불볕 더위’ - 한겨레",
-        "en": "내일까지 ‘시간당 50㎜’ 수도권·강원 집중호우…곧이어 ‘불볕 더위’ - 한겨레",
-        "zh": "내일까지 ‘시간당 50㎜’ 수도권·강원 집중호우…곧이어 ‘불볕 더위’ - 한겨레"
-      }
-    },
-    {
-      "title": "한동훈, 안철수 '계엄날 당사 소집' 증언에 반박‥\"선후관계 왜곡말라\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6836203_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Thu, 09 Jul 2026 04:44:25 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/09/jse_20260709_29.jpg",
-      "summaries": {
-        "ko": "한동훈, 안철수 '계엄날 당사 소집' 증언에 반박‥\"선후관계 왜곡말라\" - MBC 뉴스",
-        "en": "한동훈, 안철수 '계엄날 당사 소집' 증언에 반박‥\"선후관계 왜곡말라\" - MBC 뉴스",
-        "zh": "한동훈, 안철수 '계엄날 당사 소집' 증언에 반박‥\"선후관계 왜곡말라\" - MBC 뉴스"
+        "ko": "[속보] 경기 연천·파주서북부·강원 철원 호우주의보",
+        "en": "[속보] 경기 연천·파주서북부·강원 철원 호우주의보",
+        "zh": "[속보] 경기 연천·파주서북부·강원 철원 호우주의보"
       }
     }
   ]
