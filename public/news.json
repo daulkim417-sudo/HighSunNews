@@ -1,148 +1,124 @@
 {
-  "lastUpdate": "2026-07-09T01:16:24.389002",
+  "lastUpdate": "2026-07-09T05:07:14.121530",
   "items": [
     {
-      "title": "이란 “가차 없는 보복” 예고···남부 곳곳서 폭발음 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607090927001",
-      "source": "경향신문",
-      "pubDate": "Thu, 09 Jul 2026 00:27:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/09/rcv.YNA.20260709.PAF20260709130601009_P1.jpg",
+      "title": "내일까지 수도권·강원 중심 강한 비… 이후 전국이 ‘폭염·열대야’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1267461.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 09 Jul 2026 04:55:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/643/imgdb/child/2026/0709/17835731143034_3517835730685039.webp",
       "summaries": {
-        "ko": "연이은 미국의 공습으로 남부 곳곳에서 폭발음이 들린 이란은 미국에 \"가차 없는 보복\"을 예고하며 강력한 항전 의사를 밝혔다.",
-        "en": "After consecutive U.S. airstrikes caused explosions in its southern regions, Iran vehemently vowed \"merciless retaliation\" against the United States, signaling an escalation of conflict.",
-        "zh": "在伊朗南部多地因美国连续空袭响起爆炸声后，伊朗强烈誓言将对美国进行“无情报复”，预示着冲突升级。"
+        "ko": "내일 오전까지 수도권과 강원 지역에 강한 비가 내린 뒤 전국적으로 폭염과 열대야가 시작되며, 다음 주 중반에는 장맛비가 다시 내릴 가능성이 있다.",
+        "en": "Heavy rain is expected in the Seoul metropolitan area and Gangwon region until tomorrow morning, after which a nationwide heatwave and tropical nights will begin, with a possibility of the monsoon returning around mid-next week.",
+        "zh": "首都圈和江原地区预计明日上午前将有强降雨，之后全国将进入全面的高温酷暑和热带夜天气，并有可能在下周中旬再次迎来梅雨。"
+      }
+    },
+    {
+      "title": "서울 신대방역 인근 침수주의보 발령...\"도림천 일대 범람 주의\" - 조선일보",
+      "link": "https://www.chosun.com/national/transport-environment/2026/07/09/KML22IBUZ5BV3DB37OYO3IUVQE/",
+      "source": "조선일보",
+      "pubDate": "Thu, 09 Jul 2026 04:12:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/YISTQJASB5HMDBFQDXCLLAQL24.gif?auth=307cf46259be334198138791687f127ea6e935227ceffc23db2a98361411a348&width=480&height=252&smart=true",
+      "summaries": {
+        "ko": "서울 신대방역 인근 침수주의보 발령...\"도림천 일대 범람 주의\" - 조선일보",
+        "en": "서울 신대방역 인근 침수주의보 발령...\"도림천 일대 범람 주의\" - 조선일보",
+        "zh": "서울 신대방역 인근 침수주의보 발령...\"도림천 일대 범람 주의\" - 조선일보"
+      }
+    },
+    {
+      "title": "[속보]경찰, 수사 쇄신TF·내부비리수사대 신설···“장윤기 사건 재발 방지” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607091137001",
+      "source": "경향신문",
+      "pubDate": "Thu, 09 Jul 2026 02:37:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/09/news-p.v1.20260629.285a6c17e32043b7af5813e1b7c8d08b_P1.jpeg",
+      "summaries": {
+        "ko": "[속보]경찰, 수사 쇄신TF·내부비리수사대 신설···“장윤기 사건 재발 방지” - 경향신문",
+        "en": "[속보]경찰, 수사 쇄신TF·내부비리수사대 신설···“장윤기 사건 재발 방지” - 경향신문",
+        "zh": "[속보]경찰, 수사 쇄신TF·내부비리수사대 신설···“장윤기 사건 재발 방지” - 경향신문"
+      }
+    },
+    {
+      "title": "종전 MOU 붕괴 위기…트럼프 ‘장기전’ 선 그으면서도 이란 압박 수위 높여 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/america/1267405.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 08 Jul 2026 22:20:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0709/20260709500168.webp",
+      "summaries": {
+        "ko": "종전 MOU 붕괴 위기…트럼프 ‘장기전’ 선 그으면서도 이란 압박 수위 높여 - 한겨레",
+        "en": "종전 MOU 붕괴 위기…트럼프 ‘장기전’ 선 그으면서도 이란 압박 수위 높여 - 한겨레",
+        "zh": "종전 MOU 붕괴 위기…트럼프 ‘장기전’ 선 그으면서도 이란 압박 수위 높여 - 한겨레"
+      }
+    },
+    {
+      "title": "‘교통사고 환자들의 성지’? 자생한방병원, 수백억대 보험사기 의혹···경찰, 5곳 압수수색 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607091055001",
+      "source": "경향신문",
+      "pubDate": "Thu, 09 Jul 2026 01:55:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/09/news-p.v1.20260630.c8487bdfb2c449cc98bde9f6fdf6b038_P1.jpeg",
+      "summaries": {
+        "ko": "‘교통사고 환자들의 성지’? 자생한방병원, 수백억대 보험사기 의혹···경찰, 5곳 압수수색 - 경향신문",
+        "en": "‘교통사고 환자들의 성지’? 자생한방병원, 수백억대 보험사기 의혹···경찰, 5곳 압수수색 - 경향신문",
+        "zh": "‘교통사고 환자들의 성지’? 자생한방병원, 수백억대 보험사기 의혹···경찰, 5곳 압수수색 - 경향신문"
+      }
+    },
+    {
+      "title": "육휴 복귀한 임원급 직원, ‘평사원 강등’ 통보한 이케아 [플랫] - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607091102001",
+      "source": "경향신문",
+      "pubDate": "Thu, 09 Jul 2026 02:02:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/09/news-p.v1.20260709.488562f1a0bb4f8bbb77777f6a83268a_P1.jpg",
+      "summaries": {
+        "ko": "육휴 복귀한 임원급 직원, ‘평사원 강등’ 통보한 이케아 [플랫] - 경향신문",
+        "en": "육휴 복귀한 임원급 직원, ‘평사원 강등’ 통보한 이케아 [플랫] - 경향신문",
+        "zh": "육휴 복귀한 임원급 직원, ‘평사원 강등’ 통보한 이케아 [플랫] - 경향신문"
+      }
+    },
+    {
+      "title": "국회 담장 넘어 뛰어가는 김민석…김어준, 계엄 당시 CCTV 공개 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260708/134261734/2",
+      "source": "동아일보",
+      "pubDate": "Wed, 08 Jul 2026 08:55:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/08/134261721.3.jpg",
+      "summaries": {
+        "ko": "국회 담장 넘어 뛰어가는 김민석…김어준, 계엄 당시 CCTV 공개 - 동아일보",
+        "en": "국회 담장 넘어 뛰어가는 김민석…김어준, 계엄 당시 CCTV 공개 - 동아일보",
+        "zh": "국회 담장 넘어 뛰어가는 김민석…김어준, 계엄 당시 CCTV 공개 - 동아일보"
+      }
+    },
+    {
+      "title": "간밤 서울 은평구 빌라서 화재…남매 추정 초등생 2명 사망 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260709035500004",
+      "source": "연합뉴스",
+      "pubDate": "Wed, 08 Jul 2026 23:35:21 GMT",
+      "image": "https://img9.yna.co.kr/photo/cms/2022/11/10/90/PCM20221110000190990_P4.jpg",
+      "summaries": {
+        "ko": "간밤 서울 은평구 빌라서 화재…남매 추정 초등생 2명 사망 - 연합뉴스",
+        "en": "간밤 서울 은평구 빌라서 화재…남매 추정 초등생 2명 사망 - 연합뉴스",
+        "zh": "간밤 서울 은평구 빌라서 화재…남매 추정 초등생 2명 사망 - 연합뉴스"
+      }
+    },
+    {
+      "title": "[속보] 대법원, '통일교-김건희 청탁' 건진법사 징역 5년 확정 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6836169_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Thu, 09 Jul 2026 02:32:48 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/09/sa_20260709_36.jpg",
+      "summaries": {
+        "ko": "[속보] 대법원, '통일교-김건희 청탁' 건진법사 징역 5년 확정 - MBC 뉴스",
+        "en": "[속보] 대법원, '통일교-김건희 청탁' 건진법사 징역 5년 확정 - MBC 뉴스",
+        "zh": "[속보] 대법원, '통일교-김건희 청탁' 건진법사 징역 5년 확정 - MBC 뉴스"
       }
     },
     {
       "title": "이 대통령, 15년 만에 몽골 국빈 방문… “북한 대화 재개 방안 모색” - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/bluehouse/1267408.html",
       "source": "한겨레",
-      "pubDate": "Wed, 08 Jul 2026 23:07:00 GMT",
+      "pubDate": "Thu, 09 Jul 2026 01:41:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/640/405/imgdb/original/2026/0709/20260709500225.webp",
       "summaries": {
         "ko": "이 대통령, 15년 만에 몽골 국빈 방문… “북한 대화 재개 방안 모색” - 한겨레",
         "en": "이 대통령, 15년 만에 몽골 국빈 방문… “북한 대화 재개 방안 모색” - 한겨레",
         "zh": "이 대통령, 15년 만에 몽골 국빈 방문… “북한 대화 재개 방안 모색” - 한겨레"
-      }
-    },
-    {
-      "title": "백태웅 \"김민석, 계엄 극복 최전선에서 목숨 걸고 뛰어... 진심 폄훼 말라\" - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/07/09/HANENFHG7FEFFH2OR53VPIYI74/",
-      "source": "조선일보",
-      "pubDate": "Wed, 08 Jul 2026 21:03:03 GMT",
-      "image": "https://www.chosun.com/resizer/v2/DVL5MTMAMNNJLFDEP674KYLQUA.JPG?auth=5bfb76778a0b46d82234edc592c967b315e5c9e5879d14ff87b188189f68cc63&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "백태웅 \"김민석, 계엄 극복 최전선에서 목숨 걸고 뛰어... 진심 폄훼 말라\" - 조선일보",
-        "en": "백태웅 \"김민석, 계엄 극복 최전선에서 목숨 걸고 뛰어... 진심 폄훼 말라\" - 조선일보",
-        "zh": "백태웅 \"김민석, 계엄 극복 최전선에서 목숨 걸고 뛰어... 진심 폄훼 말라\" - 조선일보"
-      }
-    },
-    {
-      "title": "세종시 고운동 시간당 81㎜ ‘폭우’…오늘도 전국 강한 비 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1267410.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 08 Jul 2026 23:27:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/542/imgdb/original/2026/0709/9517835584171845.webp",
-      "summaries": {
-        "ko": "세종시 고운동 시간당 81㎜ ‘폭우’…오늘도 전국 강한 비 - 한겨레",
-        "en": "세종시 고운동 시간당 81㎜ ‘폭우’…오늘도 전국 강한 비 - 한겨레",
-        "zh": "세종시 고운동 시간당 81㎜ ‘폭우’…오늘도 전국 강한 비 - 한겨레"
-      }
-    },
-    {
-      "title": "왜 ‘광주일고’가 아닌 ‘배재고’에 감정이입하나 [권태호 칼럼] - 한겨레",
-      "link": "https://www.hani.co.kr/arti/opinion/column/1267325.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 08 Jul 2026 16:18:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/572/451/imgdb/original/2026/0708/20260708503234.webp",
-      "summaries": {
-        "ko": "왜 ‘광주일고’가 아닌 ‘배재고’에 감정이입하나 [권태호 칼럼] - 한겨레",
-        "en": "왜 ‘광주일고’가 아닌 ‘배재고’에 감정이입하나 [권태호 칼럼] - 한겨레",
-        "zh": "왜 ‘광주일고’가 아닌 ‘배재고’에 감정이입하나 [권태호 칼럼] - 한겨레"
-      }
-    },
-    {
-      "title": "계엄 583일 만에 윤석열 첫 대법 선고‥'공수처 체포방해' 혐의 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6836133_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Thu, 09 Jul 2026 00:40:46 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/09/hye_20260709_17.jpg",
-      "summaries": {
-        "ko": "계엄 583일 만에 윤석열 첫 대법 선고‥'공수처 체포방해' 혐의 - MBC 뉴스",
-        "en": "계엄 583일 만에 윤석열 첫 대법 선고‥'공수처 체포방해' 혐의 - MBC 뉴스",
-        "zh": "계엄 583일 만에 윤석열 첫 대법 선고‥'공수처 체포방해' 혐의 - MBC 뉴스"
-      }
-    },
-    {
-      "title": "[단독]“엄마아빠한테 빌렸어요”···서울 자가 2030, ‘부모돈 내산’[2030 청년, 벌어지는 출발선] - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607090600091",
-      "source": "경향신문",
-      "pubDate": "Wed, 08 Jul 2026 21:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/09/news-p.v1.20260707.655908872efa45ca81959ca57c1dae91_P1.jpeg",
-      "summaries": {
-        "ko": "[단독]“엄마아빠한테 빌렸어요”···서울 자가 2030, ‘부모돈 내산’[2030 청년, 벌어지는 출발선] - 경향신문",
-        "en": "[단독]“엄마아빠한테 빌렸어요”···서울 자가 2030, ‘부모돈 내산’[2030 청년, 벌어지는 출발선] - 경향신문",
-        "zh": "[단독]“엄마아빠한테 빌렸어요”···서울 자가 2030, ‘부모돈 내산’[2030 청년, 벌어지는 출발선] - 경향신문"
-      }
-    },
-    {
-      "title": "與 밤 최고위서도 선호투표제 결론 못 내… \"오늘 재논의\" - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/07/08/OLKJKVOSUVFMRKT7LUWFC6IBTI/",
-      "source": "조선일보",
-      "pubDate": "Wed, 08 Jul 2026 14:06:11 GMT",
-      "image": "https://www.chosun.com/resizer/v2/YBXMYQGMRJIRJPAZOYWXYSPJT4.jpg?auth=a53962cd93388d0814afa605e820682c3b63cd3cef9d20ef16a12c8c9e92ba81&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "與 밤 최고위서도 선호투표제 결론 못 내… \"오늘 재논의\" - 조선일보",
-        "en": "與 밤 최고위서도 선호투표제 결론 못 내… \"오늘 재논의\" - 조선일보",
-        "zh": "與 밤 최고위서도 선호투표제 결론 못 내… \"오늘 재논의\" - 조선일보"
-      }
-    },
-    {
-      "title": "’장윤기 사건’ 증거인멸 의혹 수사팀장 구속…“증거인멸·도주 우려“ - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260708204411IVO",
-      "source": "연합뉴스TV",
-      "pubDate": "Wed, 08 Jul 2026 11:44:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260708/AKR20260708204411IVO_01_i.jpg",
-      "summaries": {
-        "ko": "’장윤기 사건’ 증거인멸 의혹 수사팀장 구속…“증거인멸·도주 우려“ - 연합뉴스TV",
-        "en": "’장윤기 사건’ 증거인멸 의혹 수사팀장 구속…“증거인멸·도주 우려“ - 연합뉴스TV",
-        "zh": "’장윤기 사건’ 증거인멸 의혹 수사팀장 구속…“증거인멸·도주 우려“ - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "배재고 사건 재발 막으려면…“혐오 표현 선 긋는 교육 이뤄져야” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/schooling/1267392.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 08 Jul 2026 21:52:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/676/imgdb/original/2026/0708/20260708503873.webp",
-      "summaries": {
-        "ko": "배재고 사건 재발 막으려면…“혐오 표현 선 긋는 교육 이뤄져야” - 한겨레",
-        "en": "배재고 사건 재발 막으려면…“혐오 표현 선 긋는 교육 이뤄져야” - 한겨레",
-        "zh": "배재고 사건 재발 막으려면…“혐오 표현 선 긋는 교육 이뤄져야” - 한겨레"
-      }
-    },
-    {
-      "title": "與 종합특검 '증원·기간 연장·공소검사 도입' 추진",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260709100612nFb",
-      "source": "Breaking News",
-      "pubDate": "Thu, 09 Jul 2026 10:06:13 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260709/AKR20260709100612nFb_01_i.jpg",
-      "summaries": {
-        "ko": "與 종합특검 '증원·기간 연장·공소검사 도입' 추진",
-        "en": "與 종합특검 '증원·기간 연장·공소검사 도입' 추진",
-        "zh": "與 종합특검 '증원·기간 연장·공소검사 도입' 추진"
-      }
-    },
-    {
-      "title": "[속보] AP \"바레인·카타르에 공습 경보 발령\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260709100320o9H",
-      "source": "Breaking News",
-      "pubDate": "Thu, 09 Jul 2026 10:03:21 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260709/MYH20260709100320o9H.jpg",
-      "summaries": {
-        "ko": "[속보] AP \"바레인·카타르에 공습 경보 발령\"",
-        "en": "[속보] AP \"바레인·카타르에 공습 경보 발령\"",
-        "zh": "[속보] AP \"바레인·카타르에 공습 경보 발령\""
       }
     }
   ]
