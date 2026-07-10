@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-07-10T08:41:42.307328",
+  "lastUpdate": "2026-07-10T11:34:29.408675",
   "items": [
-    {
-      "title": "[단독] 배재고, ‘6개월 출전정지’ 법원에 효력정지 가처분 신청한다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/schooling/1267691.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 10 Jul 2026 05:25:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/600/imgdb/original/2026/0710/20260710501505.webp",
-      "summaries": {
-        "ko": "5·18 민주화운동 조롱 응원 구호로 6개월 출전정지 처분을 받은 배재고 야구부가 과도한 징계라며 법원에 효력정지 가처분 신청을 한다.",
-        "en": "Baejae High School baseball team, which received a 6-month suspension for mocking the 5·18 Democratization Movement with a cheer, is applying to the court for an injunction to suspend the effect of the disciplinary action, arguing that the punishment is excessive.",
-        "zh": "因嘲笑5·18民主化运动的助威口号而被处以6个月禁赛的培材高中棒球队，认为处罚过重，向法院申请了暂停处罚效力的临时禁令。"
-      }
-    },
     {
       "title": "선호투표제 두고 민주당 내홍 격화…친청계 다수 최고위, 오늘 저녁 결선투표 결론 낼까 - 경향신문",
       "link": "https://www.khan.co.kr/article/202607101637001",
@@ -20,105 +8,129 @@
       "pubDate": "Fri, 10 Jul 2026 07:37:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/07/10/news-p.v1.20260710.c9ec0ebfc35b43ed8383a5abc42d876f_P1.jpeg",
       "summaries": {
-        "ko": "더불어민주당 지도부가 8·17 전당대회 당대표 선출 방식인 선호투표제를 두고 당헌·당규 위반 논란으로 내홍을 겪는 가운데, 오늘 저녁 최고위에서 결론을 낼 예정이다.",
-        "en": "The Democratic Party leadership is grappling with internal conflict over the preferential voting system for the August 17 party leader election, as pro-Cheongrae supreme council members allege it violates party rules, with a decision expected from the supreme council tonight.",
-        "zh": "民主党领导层就8月17日党代会党首选举的优先投票制度爆发内讧，亲郑清来派最高委员们认为该制度违反党章党规，预计最高委员会将于今晚作出决定。"
+        "ko": "더불어민주당이 8·17 전당대회 당대표 선출 방식을 두고 친정청래계가 선호투표제에 반발하며 내홍이 격화되는 가운데, 오늘 저녁 최고위가 최종 결론을 낼지 주목된다.",
+        "en": "The Democratic Party is facing intensifying internal conflict over the party leader selection method for the August 17 party convention, as the pro-Jeong Cheong-rae faction opposes preferential voting, with attention on whether the supreme council will reach a final conclusion tonight.",
+        "zh": "随着8·17全党大会党代表选举方式引发内讧，韩国共同民主党内部亲郑清来派系对优先投票制度的反弹日益加剧，最高委员会预计今晚将就此做出最终结论。"
       }
     },
     {
-      "title": "국방부 \"안 장관 탈영 주장은 허위‥구금 등 어떤 처분도 없어\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6836504_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Fri, 10 Jul 2026 04:20:30 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/10/yh_20260710-21.jpg",
-      "summaries": {
-        "ko": "국방부는 안규백 장관의 방위병 복무 시절 탈영 의혹을 \"명백한 허위\"라고 일축하며, 구금 등 어떤 처분도 없었으며 복무 기간 기록 오류는 행정적 착오라고 해명했습니다.",
-        "en": "The Ministry of National Defense dismissed allegations of Minister Ahn Kyu-back's desertion during his military service as \"clearly false,\" stating he received no punishment like detention and explaining the discrepancy in his service record as an administrative error.",
-        "zh": "国防部驳斥了关于安奎伯长官服兵役期间“明显是谎言”的逃兵指控，称其未受拘禁等任何处分，并解释称服役记录的差异是行政错误。"
-      }
-    },
-    {
-      "title": "상품권으로 임금 받아라? 민주당 근로기준법 개정안 “개악” 논란 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607100600061",
-      "source": "경향신문",
-      "pubDate": "Thu, 09 Jul 2026 21:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/10/news-p.v1.20260709.ac61c67036624c7396248c9d02cfb1c9_P1.jpg",
-      "summaries": {
-        "ko": "민주당이 지역 경제 활성화를 명분으로 근로자의 동의하에 임금 일부를 지역화폐(상품권 등)로 지급할 수 있도록 하는 근로기준법 개정안을 추진하자, 임금의 현금 지급 원칙을 훼손하고 취약 노동자에게 악용될 수 있다는 비판이 제기되며 '개악' 논란이 일고 있다.",
-        "en": "The Democratic Party's proposed amendment to the Labor Standards Act, which would allow partial wage payments in local currency (e.g., gift certificates) with employee consent to vitalize regional economies, is facing strong criticism for undermining cash payment principles and potentially exploiting vulnerable workers, sparking controversy as a 'regression'.",
-        "zh": "民主党提出的《劳动标准法》修正案，旨在以工人同意为前提，允许部分工资以地区货币（如商品券）支付以振兴地方经济，但却因损害现金支付原则并可能被滥用于弱势工人而面临强烈批评，引发了“恶法”争议。"
-      }
-    },
-    {
-      "title": "미-이란 재충돌에 이스라엘도 ‘들썩’…국방장관 “필요시 세번째 공습 단행” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1267655.html",
+      "title": "이 대통령, 몽골 대통령에게 국궁 세트·스마트워치 선물 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1267759.html",
       "source": "한겨레",
-      "pubDate": "Fri, 10 Jul 2026 02:06:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/769/513/imgdb/original/2026/0710/20260710500891.webp",
+      "pubDate": "Fri, 10 Jul 2026 10:23:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/271/imgdb/original/2026/0710/20260710502434.webp",
       "summaries": {
-        "ko": "미국과 이란 간의 무력 충돌이 재개된 가운데, 이스라엘 국방장관과 총리는 필요시 이란에 대한 세 번째이자 훨씬 강력한 대규모 공습을 단행할 준비가 되어 있다고 경고했다.",
-        "en": "Amid renewed military clashes between the U.S. and Iran, Israel's Defense Minister and Prime Minister warned that Israel is prepared to carry out a third, even more powerful, large-scale airstrike against Iran if necessary.",
-        "zh": "在美国和伊朗之间军事冲突再起之际，以色列国防部长和总理警告称，如有必要，以色列已准备好对伊朗发动第三次且更具破坏性的大规模空袭。"
+        "ko": "이재명 대통령이 몽골 국빈 방문 중 후렐수흐 대통령에게 국궁 세트와 스마트워치를, 영부인에게 나비당초 높은 함을 선물했다.",
+        "en": "During his state visit to Mongolia, President Lee Jae-myung presented President Khürelsükh with a traditional Korean bow set and a smartwatch, and the First Lady with a butterfly and arabesque patterned lacquerware box.",
+        "zh": "李在明总统在对蒙古进行国事访问期间，向呼日勒苏赫总统赠送了韩国传统弓箭套装和智能手表，并向第一夫人博乐尔其其格赠送了蝴蝶唐草螺钿盒。"
       }
     },
     {
-      "title": "\"제명 사유\" 칼 빼든 민주당, '먹튀 파문' 구의원 결국‥ - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6836500_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Fri, 10 Jul 2026 03:37:10 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/10/joo260710_vo3.jpg",
-      "summaries": {
-        "ko": "인천 연수구의회 민주당 한지혜 구의원이 임기 사흘 만에 탈당하여 의회 다수당을 변경하고 국민의힘이 의장단을 독점하자, 민주당은 이를 '먹튀'로 규정하고 복당 신청 시 해당 사유를 반영하기로 했다.",
-        "en": "A newly elected Democratic Party council member in Incheon's Yeon-su District defected just three days into her term, altering the council's power balance and enabling the People Power Party to secure all leadership positions, prompting the Democratic Party to brand it a \"free-riding\" defection and vow to consider it for any future re-admission.",
-        "zh": "仁川延壽區議會一名新當選的民主黨議員，在任期開始僅三天後便退黨，此舉改變了議會的勢力平衡，使國民力量黨得以囊括所有領導職位，民主黨因此譴責其為「白吃白喝式退黨」，並將在未來審核其重新入黨申請時考慮此事件。"
-      }
-    },
-    {
-      "title": "조희대, 신임 법원행정처장에 노경필 대법관 임명 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1267693.html",
+      "title": "‘성조기 여성’ 경찰 출석…태극기 셔츠 입고 목에는 십자가 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1267736.html",
       "source": "한겨레",
-      "pubDate": "Fri, 10 Jul 2026 07:11:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/704/imgdb/original/2026/0710/20260710501616.webp",
+      "pubDate": "Fri, 10 Jul 2026 09:24:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0710/53_17836725699519_20260710502216.webp",
       "summaries": {
-        "ko": "조희대, 신임 법원행정처장에 노경필 대법관 임명 - 한겨레",
-        "en": "조희대, 신임 법원행정처장에 노경필 대법관 임명 - 한겨레",
-        "zh": "조희대, 신임 법원행정처장에 노경필 대법관 임명 - 한겨레"
+        "ko": "올림픽공원 개표소 출입문을 막아 '올다르크'로 불린 30대 여성 ㄱ씨가 업무방해 혐의로 태극기 셔츠와 십자가 목걸이를 착용한 채 경찰에 출석해 선거 절차에 중대한 문제가 있었다고 주장했다.",
+        "en": "A 30-something woman, identified as Ms. G and dubbed 'Oldark' for blocking the entrance to the Olympic Park ballot counting station, appeared at the police station on obstruction of business charges, wearing a Taegeukgi shirt and a cross necklace, claiming serious issues with the election procedures.",
+        "zh": "被称为“奥尔达克”的30多岁女性G某，因阻挡奥林匹克公园计票站入口涉嫌妨碍公务，身穿太极旗T恤，戴着十字架项链前往警察局，并声称选举程序存在严重问题。"
       }
     },
     {
-      "title": "[단독]끝내 돌아오지 못한 이채원양 운동화···경찰, 장윤기 피해 여고생 유품도 ‘부실 수습’ - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607100600001",
-      "source": "경향신문",
-      "pubDate": "Thu, 09 Jul 2026 21:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/10/rcv.YNA.20260609.PYH2026060908670005400_P1.jpg",
+      "title": "“지역화폐 성과급? 국회의원부터 받아라” 분노에 박민규, 법안 결국 철회 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1267758.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 10 Jul 2026 10:01:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0710/20260710502412.webp",
       "summaries": {
-        "ko": "[단독]끝내 돌아오지 못한 이채원양 운동화···경찰, 장윤기 피해 여고생 유품도 ‘부실 수습’ - 경향신문",
-        "en": "[단독]끝내 돌아오지 못한 이채원양 운동화···경찰, 장윤기 피해 여고생 유품도 ‘부실 수습’ - 경향신문",
-        "zh": "[단독]끝내 돌아오지 못한 이채원양 운동화···경찰, 장윤기 피해 여고생 유품도 ‘부실 수습’ - 경향신문"
+        "ko": "박민규 더불어민주당 의원이 기업이 성과급 등을 지역화폐로 지급할 수 있게 하는 근로기준법 개정안을 발의했다가 임금 통화 지급 원칙 훼손 및 실질임금 삭감 논란에 직면하자 결국 철회했다.",
+        "en": "Democratic Party lawmaker Park Min-kyu proposed an amendment to the Labor Standards Act allowing companies to pay bonuses and other wages with local currency, but ultimately withdrew it after facing controversy over undermining the principle of monetary wage payment and potentially reducing real wages.",
+        "zh": "韩国共同民主党议员朴珉奎提出一项《劳动标准法》修正案，允许企业以地方货币支付部分工资（如奖金），但因引发损害货币支付工资原则和可能导致实际工资缩水的争议，最终撤回了该法案。"
       }
     },
     {
-      "title": "대법, '도이치 주가조작' 김건희 16일 최종 선고 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6836541_36918.html",
+      "title": "中, 헬륨 수출 전면 금지…韓 반도체 조달망에 또 변수 - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/07/10/R4YAR3R3AFGQTL3VBTNCS2LZ4Y/",
+      "source": "조선일보",
+      "pubDate": "Fri, 10 Jul 2026 10:19:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/UFSMJJ2WHNFPJN5NHNC5UV5QRI.png?auth=fdd2213ccc9a5c30dd1a34fb3291410776f4eec99b83c8a44834f598b741ba4f&width=1200&height=630&focal=676,338",
+      "summaries": {
+        "ko": "中, 헬륨 수출 전면 금지…韓 반도체 조달망에 또 변수 - 조선일보",
+        "en": "中, 헬륨 수출 전면 금지…韓 반도체 조달망에 또 변수 - 조선일보",
+        "zh": "中, 헬륨 수출 전면 금지…韓 반도체 조달망에 또 변수 - 조선일보"
+      }
+    },
+    {
+      "title": "[속보]‘대북송금 제3자뇌물’ 김성태, 2심서 공소기각 취소…1심부터 다시 시작 - 동아일보",
+      "link": "https://www.donga.com/news/Society/article/all/20260710/134274552/1",
+      "source": "동아일보",
+      "pubDate": "Fri, 10 Jul 2026 06:39:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/13/133358945.1.jpg",
+      "summaries": {
+        "ko": "[속보]‘대북송금 제3자뇌물’ 김성태, 2심서 공소기각 취소…1심부터 다시 시작 - 동아일보",
+        "en": "[속보]‘대북송금 제3자뇌물’ 김성태, 2심서 공소기각 취소…1심부터 다시 시작 - 동아일보",
+        "zh": "[속보]‘대북송금 제3자뇌물’ 김성태, 2심서 공소기각 취소…1심부터 다시 시작 - 동아일보"
+      }
+    },
+    {
+      "title": "'6개월 출전 정지' 배재고, 법원에 징계 효력 정지 가처분 신청 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6836556_36918.html",
       "source": "MBC 뉴스",
-      "pubDate": "Fri, 10 Jul 2026 06:30:02 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/10/lyj_260710_6.jpg",
+      "pubDate": "Fri, 10 Jul 2026 07:13:58 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/10/lyj_260710_10.jpg",
       "summaries": {
-        "ko": "대법, '도이치 주가조작' 김건희 16일 최종 선고 - MBC 뉴스",
-        "en": "대법, '도이치 주가조작' 김건희 16일 최종 선고 - MBC 뉴스",
-        "zh": "대법, '도이치 주가조작' 김건희 16일 최종 선고 - MBC 뉴스"
+        "ko": "지역 폄하 응원으로 6개월 출전 정지 징계를 받은 배재고가 법원에 징계 효력 정지 가처분을 신청했으며, 향후 법원 결정과 대한체육회의 재심 결과에 따라 봉황대기 출전 여부가 결정될 전망입니다.",
+        "en": "Baejae High School, which received a six-month suspension for a discriminatory cheer, has filed a provisional injunction with the court to suspend the disciplinary action, and its participation in the Bonghwangdaegi tournament will depend on the court's decision and the outcome of the Korean Sport & Olympic Committee's re-examination.",
+        "zh": "因地区歧视性助威而受到6个月禁赛处分的培材高中已向法院申请停止处分效力的临时禁令，其能否参加凤凰大旗全国高中棒球大会将取决于法院的裁决和大韩体育会的复审结果。"
       }
     },
     {
-      "title": "[날씨] 주말 장마 소강 전국 찜통더위…해수욕장 강한 너울",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202607101727251MB",
+      "title": "김민석 “대통령과 합 200% 맞는 당대표 필요…그동안 방식 안 돼” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1267716.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 10 Jul 2026 07:40:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/593/408/imgdb/original/2026/0710/20260710502048.webp",
+      "summaries": {
+        "ko": "김민석 전 국무총리가 더불어민주당 당 대표 경선에 출마하며, 그동안의 방식으로는 안 되며 대통령과 합이 100%, 200% 맞는 당대표가 필요하다고 강조했다.",
+        "en": "Former Prime Minister Kim Min-seok, running for the Democratic Party leader, argued that previous approaches are insufficient and emphasized the need for a party leader who is 100% to 200% aligned with the president.",
+        "zh": "前总理金珉奭在参选共同民主党党首时主张，现有方式不足以应对，党内需要一位与总统100%甚至200%契合的党首。"
+      }
+    },
+    {
+      "title": "“마피였는데 이젠 웃돈까지”…삼전닉스 895조 투자에 전남광주 부동산 ‘후끈’ - 매일경제",
+      "link": "https://www.mk.co.kr/news/realestate/12095137",
+      "source": "매일경제",
+      "pubDate": "Fri, 10 Jul 2026 01:03:29 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202607/10/news-p.v1.20260710.88d7f81fafbd4b84865d62ddac946edd_R.jpeg",
+      "summaries": {
+        "ko": "“마피였는데 이젠 웃돈까지”…삼전닉스 895조 투자에 전남광주 부동산 ‘후끈’ - 매일경제",
+        "en": "“마피였는데 이젠 웃돈까지”…삼전닉스 895조 투자에 전남광주 부동산 ‘후끈’ - 매일경제",
+        "zh": "“마피였는데 이젠 웃돈까지”…삼전닉스 895조 투자에 전남광주 부동산 ‘후끈’ - 매일경제"
+      }
+    },
+    {
+      "title": "경찰청장 대행 “장윤기 사건 깊이 사죄···한 점 의혹 없이 철저 수사” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607100929001",
+      "source": "경향신문",
+      "pubDate": "Fri, 10 Jul 2026 00:29:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/10/rcv.YNA.20260710.PYH2026071000340001300_P1.jpg",
+      "summaries": {
+        "ko": "경찰청장 대행 “장윤기 사건 깊이 사죄···한 점 의혹 없이 철저 수사” - 경향신문",
+        "en": "경찰청장 대행 “장윤기 사건 깊이 사죄···한 점 의혹 없이 철저 수사” - 경향신문",
+        "zh": "경찰청장 대행 “장윤기 사건 깊이 사죄···한 점 의혹 없이 철저 수사” - 경향신문"
+      }
+    },
+    {
+      "title": "[단독] 검찰, '장윤기 수사' 형사과장도 피의자로 입건",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260710200327JgA",
       "source": "Breaking News",
-      "pubDate": "Fri, 10 Jul 2026 17:27:26 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260710/MYH202607101727251MB.jpg",
+      "pubDate": "Fri, 10 Jul 2026 20:03:27 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260710/MYH20260710200327JgA.jpg",
       "summaries": {
-        "ko": "[날씨] 주말 장마 소강 전국 찜통더위…해수욕장 강한 너울",
-        "en": "[날씨] 주말 장마 소강 전국 찜통더위…해수욕장 강한 너울",
-        "zh": "[날씨] 주말 장마 소강 전국 찜통더위…해수욕장 강한 너울"
+        "ko": "[단독] 검찰, '장윤기 수사' 형사과장도 피의자로 입건",
+        "en": "[단독] 검찰, '장윤기 수사' 형사과장도 피의자로 입건",
+        "zh": "[단독] 검찰, '장윤기 수사' 형사과장도 피의자로 입건"
       }
     }
   ]
