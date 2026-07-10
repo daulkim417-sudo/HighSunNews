@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-10T17:38:35.744425",
+  "lastUpdate": "2026-07-10T19:07:46.289730",
   "items": [
     {
       "title": "‘계엄 정당화 메시지’ 김태효 전 안보실 1차장 구속 - 조선일보",
@@ -20,9 +20,9 @@
       "pubDate": "Fri, 10 Jul 2026 16:06:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0711/5017836987130672.webp",
       "summaries": {
-        "ko": "트럼프 미국 대통령이 이란과의 '휴전은 끝났다'고 선언하면서도 대화는 지속하겠다고 밝혀 의도를 불분명하게 하는 가운데, 미군이 호르무즈 해협 충돌 대응으로 이란 시설을 타격한 후 나왔다.",
-        "en": "U.S. President Trump declared that the 'truce' with Iran is over but also stated his willingness to continue dialogue, leaving his intentions unclear, following U.S. military strikes on Iranian facilities in response to conflicts in the Strait of Hormuz.",
-        "zh": "美国总统特朗普宣布与伊朗的“停火已经结束”，但同时表示愿意继续对话，使其意图不明，此声明是在美军为回应霍尔木兹海峡冲突而袭击伊朗设施之后发出的。"
+        "ko": "도널드 트럼프 미국 대통령이 호르무즈 해협 공격에 대한 미군의 이란 타격 이후 이란과의 '휴전은 끝났다'고 선언하면서도 대화는 지속하겠다고 밝혀 향후 충돌 재개 여부에 대한 불확실성을 남겼다.",
+        "en": "U.S. President Donald Trump declared the \"truce is over\" with Iran following American military strikes on Iranian targets in response to attacks in the Strait of Hormuz, yet agreed to continue dialogue, leaving uncertainty about the resumption of conflict.",
+        "zh": "在美国对伊朗目标发动军事打击，以回应霍尔木兹海峡袭击事件后，美国总统唐纳德·特朗普宣布与伊朗的“休战已经结束”，但他同时同意继续对话，给未来冲突的重启留下了不确定性。"
       }
     },
     {
@@ -35,18 +35,6 @@
         "ko": "“당규 어긋나” vs “결선투표 일종”… 與, 선호투표제 또 결론 못내 - 동아일보",
         "en": "“당규 어긋나” vs “결선투표 일종”… 與, 선호투표제 또 결론 못내 - 동아일보",
         "zh": "“당규 어긋나” vs “결선투표 일종”… 與, 선호투표제 또 결론 못내 - 동아일보"
-      }
-    },
-    {
-      "title": "[단독] 배재고, ‘6개월 출전정지’ 효력정지 가처분 신청 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/schooling/1267691.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 10 Jul 2026 14:38:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/600/imgdb/original/2026/0710/20260710501505.webp",
-      "summaries": {
-        "ko": "[단독] 배재고, ‘6개월 출전정지’ 효력정지 가처분 신청 - 한겨레",
-        "en": "[단독] 배재고, ‘6개월 출전정지’ 효력정지 가처분 신청 - 한겨레",
-        "zh": "[단독] 배재고, ‘6개월 출전정지’ 효력정지 가처분 신청 - 한겨레"
       }
     },
     {
@@ -74,6 +62,18 @@
       }
     },
     {
+      "title": "李대통령, 몽골 국빈만찬서 “진정한 ‘안다’”…국궁 세트·스마트워치 선물 - v.daum.net",
+      "link": "https://v.daum.net/v/20260711013748074",
+      "source": "v.daum.net",
+      "pubDate": "Fri, 10 Jul 2026 16:37:48 GMT",
+      "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/11/joongang/20260711013749614htcp.jpg",
+      "summaries": {
+        "ko": "李대통령, 몽골 국빈만찬서 “진정한 ‘안다’”…국궁 세트·스마트워치 선물 - v.daum.net",
+        "en": "李대통령, 몽골 국빈만찬서 “진정한 ‘안다’”…국궁 세트·스마트워치 선물 - v.daum.net",
+        "zh": "李대통령, 몽골 국빈만찬서 “진정한 ‘안다’”…국궁 세트·스마트워치 선물 - v.daum.net"
+      }
+    },
+    {
       "title": "[단독] 검찰, ’장윤기 수사’ 형사과장도 입건…공무상 비밀누설 등 혐의 - 연합뉴스TV",
       "link": "https://www.yonhapnewstv.co.kr/news/AKR20260710185832DR1",
       "source": "연합뉴스TV",
@@ -98,27 +98,27 @@
       }
     },
     {
-      "title": "김민석 “대통령과 합 200% 맞는 당대표 필요…그동안 방식 안 돼” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1267716.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 10 Jul 2026 07:40:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/593/408/imgdb/original/2026/0710/20260710502048.webp",
+      "title": "경찰, '매니저 갑질 의혹' 방송인 박나래 검찰 송치 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260710163500004",
+      "source": "연합뉴스",
+      "pubDate": "Fri, 10 Jul 2026 10:48:29 GMT",
+      "image": "https://img1.yna.co.kr/photo/yna/YH/2026/02/20/PYH2026022017110001300_P4.jpg",
       "summaries": {
-        "ko": "김민석 “대통령과 합 200% 맞는 당대표 필요…그동안 방식 안 돼” - 한겨레",
-        "en": "김민석 “대통령과 합 200% 맞는 당대표 필요…그동안 방식 안 돼” - 한겨레",
-        "zh": "김민석 “대통령과 합 200% 맞는 당대표 필요…그동안 방식 안 돼” - 한겨레"
+        "ko": "경찰, '매니저 갑질 의혹' 방송인 박나래 검찰 송치 - 연합뉴스",
+        "en": "경찰, '매니저 갑질 의혹' 방송인 박나래 검찰 송치 - 연합뉴스",
+        "zh": "경찰, '매니저 갑질 의혹' 방송인 박나래 검찰 송치 - 연합뉴스"
       }
     },
     {
-      "title": "李대통령, 몽골 대통령에 국궁세트 선물 - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/07/10/JWUSMKPACZEHLD2SEWWOELPVDI/",
+      "title": "아파트는 토허제 제외… 땅 투기 차단에 주력 - 조선일보",
+      "link": "https://www.chosun.com/economy/real_estate/2026/07/11/LAR2NONX7BFU7OSYGQ4A5K53XM/",
       "source": "조선일보",
-      "pubDate": "Fri, 10 Jul 2026 10:25:42 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GZTGKMLBGM4WKZBUMYYTEZBZGE.jpg?auth=1ee1d4899c7667499b35ebbac53928f23716ef5637d792abe4563f1e54732243&width=1200&height=630&focal=1336,871",
+      "pubDate": "Fri, 10 Jul 2026 15:50:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/BOUGIP4DPVG7DMRQCRGJWJLRFY.jpg?auth=56795ea950530497429cf66740226060cd1a8349e6ac923986772ca9a013366a&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "李대통령, 몽골 대통령에 국궁세트 선물 - 조선일보",
-        "en": "李대통령, 몽골 대통령에 국궁세트 선물 - 조선일보",
-        "zh": "李대통령, 몽골 대통령에 국궁세트 선물 - 조선일보"
+        "ko": "아파트는 토허제 제외… 땅 투기 차단에 주력 - 조선일보",
+        "en": "아파트는 토허제 제외… 땅 투기 차단에 주력 - 조선일보",
+        "zh": "아파트는 토허제 제외… 땅 투기 차단에 주력 - 조선일보"
       }
     },
     {
