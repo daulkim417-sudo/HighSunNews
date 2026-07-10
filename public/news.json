@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-07-10T19:07:46.289730",
+  "lastUpdate": "2026-07-10T20:39:52.080464",
   "items": [
-    {
-      "title": "‘계엄 정당화 메시지’ 김태효 전 안보실 1차장 구속 - 조선일보",
-      "link": "https://www.chosun.com/national/court_law/2026/07/10/F7HBZUVPCJG3LI2G7NQAXOFZ6M/",
-      "source": "조선일보",
-      "pubDate": "Fri, 10 Jul 2026 14:37:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GPXHY6DEZBLMRIUKNUQT7PT3G4.jpg?auth=aa1927122e82bbd0b6bf3f4bc6c2925d04354b34f3c3e7b589c21ca86c11c3db&width=1200&height=630&focal=1830,915",
-      "summaries": {
-        "ko": "‘계엄 정당화 메시지’ 김태효 전 안보실 1차장 구속 - 조선일보",
-        "en": "‘계엄 정당화 메시지’ 김태효 전 안보실 1차장 구속 - 조선일보",
-        "zh": "‘계엄 정당화 메시지’ 김태효 전 안보실 1차장 구속 - 조선일보"
-      }
-    },
     {
       "title": "트럼프 “이란과 대화 지속하겠지만…휴전은 끝났다” - 한겨레",
       "link": "https://www.hani.co.kr/arti/international/america/1267768.html",
@@ -20,9 +8,9 @@
       "pubDate": "Fri, 10 Jul 2026 16:06:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0711/5017836987130672.webp",
       "summaries": {
-        "ko": "도널드 트럼프 미국 대통령이 호르무즈 해협 공격에 대한 미군의 이란 타격 이후 이란과의 '휴전은 끝났다'고 선언하면서도 대화는 지속하겠다고 밝혀 향후 충돌 재개 여부에 대한 불확실성을 남겼다.",
-        "en": "U.S. President Donald Trump declared the \"truce is over\" with Iran following American military strikes on Iranian targets in response to attacks in the Strait of Hormuz, yet agreed to continue dialogue, leaving uncertainty about the resumption of conflict.",
-        "zh": "在美国对伊朗目标发动军事打击，以回应霍尔木兹海峡袭击事件后，美国总统唐纳德·特朗普宣布与伊朗的“休战已经结束”，但他同时同意继续对话，给未来冲突的重启留下了不确定性。"
+        "ko": "도널드 트럼프 미국 대통령은 최근 호르무즈해협 공격에 대한 미군의 보복 타격 이후 이란과의 충돌이 재개된 국면에서 이란과 대화는 지속하겠지만 휴전은 끝났다고 선언했다.",
+        "en": "U.S. President Donald Trump declared that while dialogue with Iran would continue amidst renewed conflict, the ceasefire is over, following recent U.S. retaliatory strikes after attacks in the Strait of Hormuz.",
+        "zh": "在美国对霍尔木兹海峡袭击进行报复性打击后，美伊冲突局面再次升级，美国总统唐纳德·特朗普宣布将继续与伊朗对话，但停火已结束。"
       }
     },
     {
@@ -38,15 +26,27 @@
       }
     },
     {
-      "title": "“카타르 협상단, 미·이란 긴장완화 위해 이란 방문” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8608045",
-      "source": "KBS 뉴스",
-      "pubDate": "Fri, 10 Jul 2026 13:39:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/07/10/20260710_fbhkn6.jpg",
+      "title": "‘계엄 정당화 메시지’ 김태효 전 안보실 1차장 구속 - 조선일보",
+      "link": "https://www.chosun.com/national/court_law/2026/07/10/F7HBZUVPCJG3LI2G7NQAXOFZ6M/",
+      "source": "조선일보",
+      "pubDate": "Fri, 10 Jul 2026 14:37:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GPXHY6DEZBLMRIUKNUQT7PT3G4.jpg?auth=aa1927122e82bbd0b6bf3f4bc6c2925d04354b34f3c3e7b589c21ca86c11c3db&width=1200&height=630&focal=1830,915",
       "summaries": {
-        "ko": "“카타르 협상단, 미·이란 긴장완화 위해 이란 방문” - KBS 뉴스",
-        "en": "“카타르 협상단, 미·이란 긴장완화 위해 이란 방문” - KBS 뉴스",
-        "zh": "“카타르 협상단, 미·이란 긴장완화 위해 이란 방문” - KBS 뉴스"
+        "ko": "‘계엄 정당화 메시지’ 김태효 전 안보실 1차장 구속 - 조선일보",
+        "en": "‘계엄 정당화 메시지’ 김태효 전 안보실 1차장 구속 - 조선일보",
+        "zh": "‘계엄 정당화 메시지’ 김태효 전 안보실 1차장 구속 - 조선일보"
+      }
+    },
+    {
+      "title": "이란 외무장관, 오만 방문…'호르무즈 정세' 집중 논의 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260711004700079",
+      "source": "연합뉴스",
+      "pubDate": "Fri, 10 Jul 2026 19:22:40 GMT",
+      "image": "https://img1.yna.co.kr/etc/inner/KR/2026/07/11/AKR20260711004700079_01_i_P4.jpg",
+      "summaries": {
+        "ko": "이란 외무장관, 오만 방문…'호르무즈 정세' 집중 논의 - 연합뉴스",
+        "en": "이란 외무장관, 오만 방문…'호르무즈 정세' 집중 논의 - 연합뉴스",
+        "zh": "이란 외무장관, 오만 방문…'호르무즈 정세' 집중 논의 - 연합뉴스"
       }
     },
     {
@@ -62,15 +62,39 @@
       }
     },
     {
-      "title": "李대통령, 몽골 국빈만찬서 “진정한 ‘안다’”…국궁 세트·스마트워치 선물 - v.daum.net",
-      "link": "https://v.daum.net/v/20260711013748074",
-      "source": "v.daum.net",
-      "pubDate": "Fri, 10 Jul 2026 16:37:48 GMT",
-      "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/11/joongang/20260711013749614htcp.jpg",
+      "title": "이 대통령, 몽골 최대 명절 ’나담 축제’ 참석…오늘 귀국 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260710200930FJx",
+      "source": "연합뉴스TV",
+      "pubDate": "Fri, 10 Jul 2026 19:01:32 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260710/AKR20260710200930FJx_01_i.jpg",
       "summaries": {
-        "ko": "李대통령, 몽골 국빈만찬서 “진정한 ‘안다’”…국궁 세트·스마트워치 선물 - v.daum.net",
-        "en": "李대통령, 몽골 국빈만찬서 “진정한 ‘안다’”…국궁 세트·스마트워치 선물 - v.daum.net",
-        "zh": "李대통령, 몽골 국빈만찬서 “진정한 ‘안다’”…국궁 세트·스마트워치 선물 - v.daum.net"
+        "ko": "이 대통령, 몽골 최대 명절 ’나담 축제’ 참석…오늘 귀국 - 연합뉴스TV",
+        "en": "이 대통령, 몽골 최대 명절 ’나담 축제’ 참석…오늘 귀국 - 연합뉴스TV",
+        "zh": "이 대통령, 몽골 최대 명절 ’나담 축제’ 참석…오늘 귀국 - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "“광주 군 공항 이전, 한·미 협의 시작”···청와대, 호남권 반도체 클러스터 조성 속도전 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607101439001",
+      "source": "경향신문",
+      "pubDate": "Fri, 10 Jul 2026 05:39:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/10/rcv.YNA.20260624.PYH2026062406030001301_P1.jpg",
+      "summaries": {
+        "ko": "“광주 군 공항 이전, 한·미 협의 시작”···청와대, 호남권 반도체 클러스터 조성 속도전 - 경향신문",
+        "en": "“광주 군 공항 이전, 한·미 협의 시작”···청와대, 호남권 반도체 클러스터 조성 속도전 - 경향신문",
+        "zh": "“광주 군 공항 이전, 한·미 협의 시작”···청와대, 호남권 반도체 클러스터 조성 속도전 - 경향신문"
+      }
+    },
+    {
+      "title": "음성군 반도체高 설명회에… 전국 학부모 폭우 뚫고 몰려왔다 - 동아일보",
+      "link": "https://www.donga.com/news/Society/article/all/20260710/134277706/2",
+      "source": "동아일보",
+      "pubDate": "Fri, 10 Jul 2026 16:40:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/10/134275822.4.jpg",
+      "summaries": {
+        "ko": "음성군 반도체高 설명회에… 전국 학부모 폭우 뚫고 몰려왔다 - 동아일보",
+        "en": "음성군 반도체高 설명회에… 전국 학부모 폭우 뚫고 몰려왔다 - 동아일보",
+        "zh": "음성군 반도체高 설명회에… 전국 학부모 폭우 뚫고 몰려왔다 - 동아일보"
       }
     },
     {
@@ -86,39 +110,15 @@
       }
     },
     {
-      "title": "\"대학보다 삼성·하이닉스\"…전국서 몰린 충북반도체고 설명회 - v.daum.net",
-      "link": "https://v.daum.net/v/20260710170956213",
-      "source": "v.daum.net",
-      "pubDate": "Fri, 10 Jul 2026 08:09:56 GMT",
-      "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/10/yonhap/20260710170956483akms.jpg",
+      "title": "‘박나래, 매니저에 갑질한 것 맞다’ 판단···경찰 수사 7개월 만에 검찰 송치 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607102047001",
+      "source": "경향신문",
+      "pubDate": "Fri, 10 Jul 2026 11:47:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/10/news-p.v1.20260710.4b826e98a0544212a1eff0da3711f966_P1.png",
       "summaries": {
-        "ko": "\"대학보다 삼성·하이닉스\"…전국서 몰린 충북반도체고 설명회 - v.daum.net",
-        "en": "\"대학보다 삼성·하이닉스\"…전국서 몰린 충북반도체고 설명회 - v.daum.net",
-        "zh": "\"대학보다 삼성·하이닉스\"…전국서 몰린 충북반도체고 설명회 - v.daum.net"
-      }
-    },
-    {
-      "title": "경찰, '매니저 갑질 의혹' 방송인 박나래 검찰 송치 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260710163500004",
-      "source": "연합뉴스",
-      "pubDate": "Fri, 10 Jul 2026 10:48:29 GMT",
-      "image": "https://img1.yna.co.kr/photo/yna/YH/2026/02/20/PYH2026022017110001300_P4.jpg",
-      "summaries": {
-        "ko": "경찰, '매니저 갑질 의혹' 방송인 박나래 검찰 송치 - 연합뉴스",
-        "en": "경찰, '매니저 갑질 의혹' 방송인 박나래 검찰 송치 - 연합뉴스",
-        "zh": "경찰, '매니저 갑질 의혹' 방송인 박나래 검찰 송치 - 연합뉴스"
-      }
-    },
-    {
-      "title": "아파트는 토허제 제외… 땅 투기 차단에 주력 - 조선일보",
-      "link": "https://www.chosun.com/economy/real_estate/2026/07/11/LAR2NONX7BFU7OSYGQ4A5K53XM/",
-      "source": "조선일보",
-      "pubDate": "Fri, 10 Jul 2026 15:50:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/BOUGIP4DPVG7DMRQCRGJWJLRFY.jpg?auth=56795ea950530497429cf66740226060cd1a8349e6ac923986772ca9a013366a&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "아파트는 토허제 제외… 땅 투기 차단에 주력 - 조선일보",
-        "en": "아파트는 토허제 제외… 땅 투기 차단에 주력 - 조선일보",
-        "zh": "아파트는 토허제 제외… 땅 투기 차단에 주력 - 조선일보"
+        "ko": "‘박나래, 매니저에 갑질한 것 맞다’ 판단···경찰 수사 7개월 만에 검찰 송치 - 경향신문",
+        "en": "‘박나래, 매니저에 갑질한 것 맞다’ 판단···경찰 수사 7개월 만에 검찰 송치 - 경향신문",
+        "zh": "‘박나래, 매니저에 갑질한 것 맞다’ 판단···경찰 수사 7개월 만에 검찰 송치 - 경향신문"
       }
     },
     {
