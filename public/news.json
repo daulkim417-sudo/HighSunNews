@@ -1,100 +1,76 @@
 {
-  "lastUpdate": "2026-07-10T15:54:51.357754",
+  "lastUpdate": "2026-07-10T17:38:35.744425",
   "items": [
     {
-      "title": "[속보] ‘계엄 정당화’ 김태효 전 안보실 1차장 구속…종합특검 연장 추진 탄력 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607102301001",
-      "source": "경향신문",
-      "pubDate": "Fri, 10 Jul 2026 14:01:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/10/news-p.v1.20260710.b8c9203464544ad28df64adfd4b0b429_P1.jpg",
+      "title": "‘계엄 정당화 메시지’ 김태효 전 안보실 1차장 구속 - 조선일보",
+      "link": "https://www.chosun.com/national/court_law/2026/07/10/F7HBZUVPCJG3LI2G7NQAXOFZ6M/",
+      "source": "조선일보",
+      "pubDate": "Fri, 10 Jul 2026 14:37:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GPXHY6DEZBLMRIUKNUQT7PT3G4.jpg?auth=aa1927122e82bbd0b6bf3f4bc6c2925d04354b34f3c3e7b589c21ca86c11c3db&width=1200&height=630&focal=1830,915",
       "summaries": {
-        "ko": "김태효 전 국가안보실 1차장이 12·3 내란 정당화 혐의로 구속되면서 종합특검의 수사 기간 연장 추진에 탄력이 붙게 됐다.",
-        "en": "Kim Tae-hyo, former First Deputy Director of the National Security Office, was arrested on charges of justifying the December 3 martial law declaration, giving momentum to the special prosecutor's efforts to extend the investigation period.",
-        "zh": "前国家安保室第一次长金泰孝因涉嫌正当化12月3日戒严令而被捕，这为综合特检组推动延长调查期提供了动力。"
+        "ko": "‘계엄 정당화 메시지’ 김태효 전 안보실 1차장 구속 - 조선일보",
+        "en": "‘계엄 정당화 메시지’ 김태효 전 안보실 1차장 구속 - 조선일보",
+        "zh": "‘계엄 정당화 메시지’ 김태효 전 안보실 1차장 구속 - 조선일보"
       }
     },
     {
-      "title": "[단독] 배재고, 오늘 ‘6개월 출전정지’ 효력정지 가처분 신청 - 한겨레",
+      "title": "트럼프 “이란과 대화 지속하겠지만…휴전은 끝났다” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/america/1267768.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 10 Jul 2026 16:06:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0711/5017836987130672.webp",
+      "summaries": {
+        "ko": "트럼프 미국 대통령이 이란과의 '휴전은 끝났다'고 선언하면서도 대화는 지속하겠다고 밝혀 의도를 불분명하게 하는 가운데, 미군이 호르무즈 해협 충돌 대응으로 이란 시설을 타격한 후 나왔다.",
+        "en": "U.S. President Trump declared that the 'truce' with Iran is over but also stated his willingness to continue dialogue, leaving his intentions unclear, following U.S. military strikes on Iranian facilities in response to conflicts in the Strait of Hormuz.",
+        "zh": "美国总统特朗普宣布与伊朗的“停火已经结束”，但同时表示愿意继续对话，使其意图不明，此声明是在美军为回应霍尔木兹海峡冲突而袭击伊朗设施之后发出的。"
+      }
+    },
+    {
+      "title": "“당규 어긋나” vs “결선투표 일종”… 與, 선호투표제 또 결론 못내 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260710/134277985/2",
+      "source": "동아일보",
+      "pubDate": "Fri, 10 Jul 2026 16:40:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/11/134278340.1.jpg",
+      "summaries": {
+        "ko": "“당규 어긋나” vs “결선투표 일종”… 與, 선호투표제 또 결론 못내 - 동아일보",
+        "en": "“당규 어긋나” vs “결선투표 일종”… 與, 선호투표제 또 결론 못내 - 동아일보",
+        "zh": "“당규 어긋나” vs “결선투표 일종”… 與, 선호투표제 또 결론 못내 - 동아일보"
+      }
+    },
+    {
+      "title": "[단독] 배재고, ‘6개월 출전정지’ 효력정지 가처분 신청 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/schooling/1267691.html",
       "source": "한겨레",
-      "pubDate": "Fri, 10 Jul 2026 11:10:00 GMT",
+      "pubDate": "Fri, 10 Jul 2026 14:38:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/900/600/imgdb/original/2026/0710/20260710501505.webp",
       "summaries": {
-        "ko": "5·18 민주화운동을 조롱하는 응원 구호로 6개월 출전 정지 징계를 받은 배재고 야구부가 법원에 징계 효력정지 가처분을 신청했으며, 대한체육회 재심을 통해 징계 수위가 재고될 예정이다.",
-        "en": "Baejae High School's baseball team, which received a 6-month suspension for a cheer mocking the 5·18 Democratization Movement, has applied to the court for an injunction to suspend the disciplinary action, and the severity of the punishment is expected to be re-evaluated through the Korean Sport & Olympic Committee's re-hearing.",
-        "zh": "因嘲讽5·18民主化运动助威口号而被处以6个月禁赛的培材高中棒球队已向法院申请停止处罚效力的临时禁令，并将通过大韩体育会的复审重新评估处罚程度。"
+        "ko": "[단독] 배재고, ‘6개월 출전정지’ 효력정지 가처분 신청 - 한겨레",
+        "en": "[단독] 배재고, ‘6개월 출전정지’ 효력정지 가처분 신청 - 한겨레",
+        "zh": "[단독] 배재고, ‘6개월 출전정지’ 효력정지 가처분 신청 - 한겨레"
       }
     },
     {
-      "title": "민주당, ‘선호투표제 논의’ 심야 최고위 취소…내홍 더 깊어지나 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607102200001",
+      "title": "“카타르 협상단, 미·이란 긴장완화 위해 이란 방문” - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8608045",
+      "source": "KBS 뉴스",
+      "pubDate": "Fri, 10 Jul 2026 13:39:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/07/10/20260710_fbhkn6.jpg",
+      "summaries": {
+        "ko": "“카타르 협상단, 미·이란 긴장완화 위해 이란 방문” - KBS 뉴스",
+        "en": "“카타르 협상단, 미·이란 긴장완화 위해 이란 방문” - KBS 뉴스",
+        "zh": "“카타르 협상단, 미·이란 긴장완화 위해 이란 방문” - KBS 뉴스"
+      }
+    },
+    {
+      "title": "[사설]부동산 정책 대토론회, 진짜 여론 파악해 주거 고통 끊는 계기 되길 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607101855001",
       "source": "경향신문",
-      "pubDate": "Fri, 10 Jul 2026 13:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/10/news-p.v1.20260710.ea2ca340cdd94c1d95b2ede3a3170c11_P1.jpeg",
+      "pubDate": "Fri, 10 Jul 2026 09:55:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/10/news-p.v1.20260710.3ab8b6596a984825b8cdef350880b971_P1.jpeg",
       "summaries": {
-        "ko": "더불어민주당이 8·17 전당대회 당대표 선거에 선호투표제 도입 여부를 논의할 심야 최고위원회의를 취소하며, 선거 룰을 둘러싼 계파 간 내홍이 심화될 전망이다.",
-        "en": "The Democratic Party canceled its late-night supreme council meeting to discuss introducing a preferential voting system for the August 17 party leader election, a move expected to deepen internal conflicts over the election rules.",
-        "zh": "韩国民主党取消了原定讨论是否为8月17日党代表选举引入优先投票制的深夜最高委员会议，预计围绕选举规则的派系矛盾将进一步加剧。"
-      }
-    },
-    {
-      "title": "트럼프 \"이란의 대화 요청 동의했으나, 휴전종료 단호히 통보\" - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260711000600071",
-      "source": "연합뉴스",
-      "pubDate": "Fri, 10 Jul 2026 15:20:52 GMT",
-      "image": "https://img2.yna.co.kr/etc/inner/KR/2026/07/11/AKR20260711000600071_01_i_P4.jpg",
-      "summaries": {
-        "ko": "트럼프 \"이란의 대화 요청 동의했으나, 휴전종료 단호히 통보\" - 연합뉴스",
-        "en": "트럼프 \"이란의 대화 요청 동의했으나, 휴전종료 단호히 통보\" - 연합뉴스",
-        "zh": "트럼프 \"이란의 대화 요청 동의했으나, 휴전종료 단호히 통보\" - 연합뉴스"
-      }
-    },
-    {
-      "title": "'앞에서' '옆에서' '뒤에서'‥철벽 치던 김성훈의 몰락 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6836582_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Fri, 10 Jul 2026 09:51:22 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/10/joo260710_vo5.jpg",
-      "summaries": {
-        "ko": "'앞에서' '옆에서' '뒤에서'‥철벽 치던 김성훈의 몰락 - MBC 뉴스",
-        "en": "'앞에서' '옆에서' '뒤에서'‥철벽 치던 김성훈의 몰락 - MBC 뉴스",
-        "zh": "'앞에서' '옆에서' '뒤에서'‥철벽 치던 김성훈의 몰락 - MBC 뉴스"
-      }
-    },
-    {
-      "title": "노무현 재단 이사, 리센느 원이에 사과 \"이해 부족했다\" - 조선일보",
-      "link": "https://www.chosun.com/culture-life/culture_general/2026/07/10/D3GTSLJAPJF4PJ67YPLKNS4GLQ/",
-      "source": "조선일보",
-      "pubDate": "Fri, 10 Jul 2026 06:45:39 GMT",
-      "image": "https://www.chosun.com/resizer/v2/5K6ADITBZFEIHFSI5772QESZCY.jpg?auth=fbfed01d590afef6283952341eb3cab9973f2c160d6859ea4dff06935c0f89d6&width=1040&height=546&smart=true",
-      "summaries": {
-        "ko": "노무현 재단 이사, 리센느 원이에 사과 \"이해 부족했다\" - 조선일보",
-        "en": "노무현 재단 이사, 리센느 원이에 사과 \"이해 부족했다\" - 조선일보",
-        "zh": "노무현 재단 이사, 리센느 원이에 사과 \"이해 부족했다\" - 조선일보"
-      }
-    },
-    {
-      "title": "한동훈 “개혁신당, 정이한 ‘자작극’ 인지 시점 밝혀야” 이준석 “선거 기간 중 전혀 몰랐다” - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/07/10/XYL5LVGGPVCVDN3DVMA4LTPGZY/",
-      "source": "조선일보",
-      "pubDate": "Fri, 10 Jul 2026 01:38:46 GMT",
-      "image": "https://www.chosun.com/resizer/v2/DY6BBZ6S3ZP4VKI5JWEWQH5FNY.jpg?auth=99505bb169c11e68c3738ed895f4182a6922a98cb1ce28d5b687fec4a905a2ed&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "한동훈 “개혁신당, 정이한 ‘자작극’ 인지 시점 밝혀야” 이준석 “선거 기간 중 전혀 몰랐다” - 조선일보",
-        "en": "한동훈 “개혁신당, 정이한 ‘자작극’ 인지 시점 밝혀야” 이준석 “선거 기간 중 전혀 몰랐다” - 조선일보",
-        "zh": "한동훈 “개혁신당, 정이한 ‘자작극’ 인지 시점 밝혀야” 이준석 “선거 기간 중 전혀 몰랐다” - 조선일보"
-      }
-    },
-    {
-      "title": "‘성조기 여성’ 경찰 출석…태극기 셔츠 입고 목에는 십자가 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1267736.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 10 Jul 2026 11:11:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0710/53_17836725699519_20260710502216.webp",
-      "summaries": {
-        "ko": "‘성조기 여성’ 경찰 출석…태극기 셔츠 입고 목에는 십자가 - 한겨레",
-        "en": "‘성조기 여성’ 경찰 출석…태극기 셔츠 입고 목에는 십자가 - 한겨레",
-        "zh": "‘성조기 여성’ 경찰 출석…태극기 셔츠 입고 목에는 십자가 - 한겨레"
+        "ko": "[사설]부동산 정책 대토론회, 진짜 여론 파악해 주거 고통 끊는 계기 되길 - 경향신문",
+        "en": "[사설]부동산 정책 대토론회, 진짜 여론 파악해 주거 고통 끊는 계기 되길 - 경향신문",
+        "zh": "[사설]부동산 정책 대토론회, 진짜 여론 파악해 주거 고통 끊는 계기 되길 - 경향신문"
       }
     },
     {
@@ -110,15 +86,51 @@
       }
     },
     {
-      "title": "이 대통령, 몽골 의회·내각과 후속 협력 속도…“한·몽 황금시대 함께 만들자” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607102011011",
-      "source": "경향신문",
-      "pubDate": "Fri, 10 Jul 2026 11:11:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/10/rcv.YNA.20260710.PYH2026071014330001300_P1.jpg",
+      "title": "\"대학보다 삼성·하이닉스\"…전국서 몰린 충북반도체고 설명회 - v.daum.net",
+      "link": "https://v.daum.net/v/20260710170956213",
+      "source": "v.daum.net",
+      "pubDate": "Fri, 10 Jul 2026 08:09:56 GMT",
+      "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/10/yonhap/20260710170956483akms.jpg",
       "summaries": {
-        "ko": "이 대통령, 몽골 의회·내각과 후속 협력 속도…“한·몽 황금시대 함께 만들자” - 경향신문",
-        "en": "이 대통령, 몽골 의회·내각과 후속 협력 속도…“한·몽 황금시대 함께 만들자” - 경향신문",
-        "zh": "이 대통령, 몽골 의회·내각과 후속 협력 속도…“한·몽 황금시대 함께 만들자” - 경향신문"
+        "ko": "\"대학보다 삼성·하이닉스\"…전국서 몰린 충북반도체고 설명회 - v.daum.net",
+        "en": "\"대학보다 삼성·하이닉스\"…전국서 몰린 충북반도체고 설명회 - v.daum.net",
+        "zh": "\"대학보다 삼성·하이닉스\"…전국서 몰린 충북반도체고 설명회 - v.daum.net"
+      }
+    },
+    {
+      "title": "김민석 “대통령과 합 200% 맞는 당대표 필요…그동안 방식 안 돼” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1267716.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 10 Jul 2026 07:40:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/593/408/imgdb/original/2026/0710/20260710502048.webp",
+      "summaries": {
+        "ko": "김민석 “대통령과 합 200% 맞는 당대표 필요…그동안 방식 안 돼” - 한겨레",
+        "en": "김민석 “대통령과 합 200% 맞는 당대표 필요…그동안 방식 안 돼” - 한겨레",
+        "zh": "김민석 “대통령과 합 200% 맞는 당대표 필요…그동안 방식 안 돼” - 한겨레"
+      }
+    },
+    {
+      "title": "李대통령, 몽골 대통령에 국궁세트 선물 - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/07/10/JWUSMKPACZEHLD2SEWWOELPVDI/",
+      "source": "조선일보",
+      "pubDate": "Fri, 10 Jul 2026 10:25:42 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GZTGKMLBGM4WKZBUMYYTEZBZGE.jpg?auth=1ee1d4899c7667499b35ebbac53928f23716ef5637d792abe4563f1e54732243&width=1200&height=630&focal=1336,871",
+      "summaries": {
+        "ko": "李대통령, 몽골 대통령에 국궁세트 선물 - 조선일보",
+        "en": "李대통령, 몽골 대통령에 국궁세트 선물 - 조선일보",
+        "zh": "李대통령, 몽골 대통령에 국궁세트 선물 - 조선일보"
+      }
+    },
+    {
+      "title": "[단독] 형사과장에 경찰서장까지…'장윤기 수사' 피의자 4명으로",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260711005826hMZ",
+      "source": "Breaking News",
+      "pubDate": "Sat, 11 Jul 2026 00:58:28 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260710/MYH20260711005826hMZ.jpg",
+      "summaries": {
+        "ko": "[단독] 형사과장에 경찰서장까지…'장윤기 수사' 피의자 4명으로",
+        "en": "[단독] 형사과장에 경찰서장까지…'장윤기 수사' 피의자 4명으로",
+        "zh": "[단독] 형사과장에 경찰서장까지…'장윤기 수사' 피의자 4명으로"
       }
     }
   ]
