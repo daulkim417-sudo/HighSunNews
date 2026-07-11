@@ -1,124 +1,88 @@
 {
-  "lastUpdate": "2026-07-11T22:46:18.521071",
+  "lastUpdate": "2026-07-11T23:37:20.386438",
   "items": [
     {
-      "title": "돌아온 李대통령, 3대 메가프로젝트, 부동산 정책 등 등 현안 대응 - 경기일보",
-      "link": "https://www.kyeonggi.com/article/20260712580003",
-      "source": "경기일보",
-      "pubDate": "Sat, 11 Jul 2026 22:23:18 GMT",
-      "image": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/07/12/.cache/512/20260712580004.jpg?v=20260712074546",
+      "title": "종합특검, '내란 가담' 강호필 전 사령관 구속영장 청구",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260712083401lf9",
+      "source": "Breaking News",
+      "pubDate": "Sun, 12 Jul 2026 08:34:03 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260711/MYH20260712083401lf9.jpg",
       "summaries": {
-        "ko": "이재명 대통령이 나토 방산시장 진출 기반 마련과 몽골 핵심광물 협력 확대 등 해외 성과를 안고 귀국하여 3대 메가프로젝트 및 부동산 정책 등 국내 현안 대응에 본격 나설 예정이다.",
-        "en": "President Lee Jaemyung returned after achieving international success, including securing a foothold in the NATO defense market and expanding critical mineral cooperation with Mongolia, and is now expected to actively address domestic issues such as three major mega-projects and real estate policies.",
-        "zh": "李在明总统在北约防务市场准入基础建立及与蒙古国关键矿产合作扩大等海外成果后回国，预计将积极应对包括三大巨型项目和房地产政策在内的国内悬案。"
+        "ko": "2차 종합특검팀이 12·3 비상계엄 실행에 관여한 혐의(내란중요임무종사)로 강호필 전 지상작전사령관에 대해 구속영장을 청구했습니다.",
+        "en": "The 2nd Special Investigation Team has requested an arrest warrant for Kang Ho-pil, former Ground Operations Commander, on charges of involvement in the December 3rd emergency martial law implementation (rebellion major duty).",
+        "zh": "第二次综合特检组以涉嫌参与12月3日紧急戒严实施（内乱重要任务从属罪）为由，对前陆上作战司令官姜虎弼提请逮捕令。"
       }
     },
     {
-      "title": "한 달 앞으로 다가온 與전대…최대변수 '선호투표·1인1표' 주목 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260711042700001",
-      "source": "연합뉴스",
-      "pubDate": "Sat, 11 Jul 2026 20:00:01 GMT",
-      "image": "https://img2.yna.co.kr/photo/cms/2026/07/11/02/PCM20260711000002990_P4.jpg",
+      "title": "내일 장윤기 두번째 재판…'성폭행 의도' 인정할까",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260712083340PiY",
+      "source": "Breaking News",
+      "pubDate": "Sun, 12 Jul 2026 08:33:42 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260711/MYH20260712083340PiY.jpg",
       "summaries": {
-        "ko": "한 달 앞으로 다가온 與전대…최대변수 '선호투표·1인1표' 주목 - 연합뉴스",
-        "en": "한 달 앞으로 다가온 與전대…최대변수 '선호투표·1인1표' 주목 - 연합뉴스",
-        "zh": "한 달 앞으로 다가온 與전대…최대변수 '선호투표·1인1표' 주목 - 연합뉴스"
+        "ko": "내일 장윤기 두번째 재판…'성폭행 의도' 인정할까",
+        "en": "내일 장윤기 두번째 재판…'성폭행 의도' 인정할까",
+        "zh": "내일 장윤기 두번째 재판…'성폭행 의도' 인정할까"
       }
     },
     {
-      "title": "트럼프 “암살 시도 땐 궤멸”…이란에 수천발 미사일 경고 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/diplomacy/1267800.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 11 Jul 2026 22:07:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0711/20260711500458.webp",
+      "title": "40도 육박 가마솥 더위…서울 올해 첫 폭염경보",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260712083319I0R",
+      "source": "Breaking News",
+      "pubDate": "Sun, 12 Jul 2026 08:33:21 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260711/MYH20260712083319I0R.jpg",
       "summaries": {
-        "ko": "트럼프 “암살 시도 땐 궤멸”…이란에 수천발 미사일 경고 - 한겨레",
-        "en": "트럼프 “암살 시도 땐 궤멸”…이란에 수천발 미사일 경고 - 한겨레",
-        "zh": "트럼프 “암살 시도 땐 궤멸”…이란에 수천발 미사일 경고 - 한겨레"
+        "ko": "40도 육박 가마솥 더위…서울 올해 첫 폭염경보",
+        "en": "40도 육박 가마솥 더위…서울 올해 첫 폭염경보",
+        "zh": "40도 육박 가마솥 더위…서울 올해 첫 폭염경보"
       }
     },
     {
-      "title": "이 대통령, 몽골 방문 마지막 날 게르 오찬…조랑말 선물 받아 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1267802.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 11 Jul 2026 13:07:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/443/imgdb/original/2026/0711/20260711500524.webp",
+      "title": "이란군 \"호르무즈 해협, 추가 공지까지 전면 봉쇄\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260712080308K3g",
+      "source": "Breaking News",
+      "pubDate": "Sun, 12 Jul 2026 08:03:10 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260712080308K3g_01_i.jpg",
       "summaries": {
-        "ko": "이 대통령, 몽골 방문 마지막 날 게르 오찬…조랑말 선물 받아 - 한겨레",
-        "en": "이 대통령, 몽골 방문 마지막 날 게르 오찬…조랑말 선물 받아 - 한겨레",
-        "zh": "이 대통령, 몽골 방문 마지막 날 게르 오찬…조랑말 선물 받아 - 한겨레"
+        "ko": "이란군 \"호르무즈 해협, 추가 공지까지 전면 봉쇄\"",
+        "en": "이란군 \"호르무즈 해협, 추가 공지까지 전면 봉쇄\"",
+        "zh": "이란군 \"호르무즈 해협, 추가 공지까지 전면 봉쇄\""
       }
     },
     {
-      "title": "“숨 막히는 더위” 경산 40도…일요일 최고 37도 ‘찜통’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1267803.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 11 Jul 2026 13:45:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0711/9417837774941719.webp",
+      "title": "이정후, 콜로라도전 3타수 무안타 침묵…타율 0.306로 하락",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260712080302ZEd",
+      "source": "Breaking News",
+      "pubDate": "Sun, 12 Jul 2026 08:03:04 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260712080302ZEd_01_i.jpg",
       "summaries": {
-        "ko": "“숨 막히는 더위” 경산 40도…일요일 최고 37도 ‘찜통’ - 한겨레",
-        "en": "“숨 막히는 더위” 경산 40도…일요일 최고 37도 ‘찜통’ - 한겨레",
-        "zh": "“숨 막히는 더위” 경산 40도…일요일 최고 37도 ‘찜통’ - 한겨레"
+        "ko": "이정후, 콜로라도전 3타수 무안타 침묵…타율 0.306로 하락",
+        "en": "이정후, 콜로라도전 3타수 무안타 침묵…타율 0.306로 하락",
+        "zh": "이정후, 콜로라도전 3타수 무안타 침묵…타율 0.306로 하락"
       }
     },
     {
-      "title": "경찰, ‘장윤기 사건 특별수사단’으로 확대…인력 1.5배 늘려 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1267798.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 11 Jul 2026 08:50:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/722/472/imgdb/original/2026/0711/20260711500422.webp",
+      "title": "\"마감 직전에 더 잘한다?…'미루는 습관'의 진짜 이유는",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR2026071016413306M",
+      "source": "Breaking News",
+      "pubDate": "Sun, 12 Jul 2026 07:50:03 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR2026071016413306M_01_i.jpg",
       "summaries": {
-        "ko": "경찰, ‘장윤기 사건 특별수사단’으로 확대…인력 1.5배 늘려 - 한겨레",
-        "en": "경찰, ‘장윤기 사건 특별수사단’으로 확대…인력 1.5배 늘려 - 한겨레",
-        "zh": "경찰, ‘장윤기 사건 특별수사단’으로 확대…인력 1.5배 늘려 - 한겨레"
+        "ko": "\"마감 직전에 더 잘한다?…'미루는 습관'의 진짜 이유는",
+        "en": "\"마감 직전에 더 잘한다?…'미루는 습관'의 진짜 이유는",
+        "zh": "\"마감 직전에 더 잘한다?…'미루는 습관'의 진짜 이유는"
       }
     },
     {
-      "title": "한동훈, 안규백 탈영 의혹에 “병적기록 미공개…탈영보다 더한 내용 있나” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607111318001",
-      "source": "경향신문",
-      "pubDate": "Sat, 11 Jul 2026 04:18:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/11/news-p.v1.20260611.f702bdab189c49ca95cfdb9fc7d64457_P1.jpeg",
+      "title": "미네소타 고우석, MLB 첫 홀드 수확…1이닝 1피안타 1볼넷 '무실점'",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260712073713uHy",
+      "source": "Breaking News",
+      "pubDate": "Sun, 12 Jul 2026 07:37:14 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260712073713uHy_01_i.jpg",
       "summaries": {
-        "ko": "한동훈, 안규백 탈영 의혹에 “병적기록 미공개…탈영보다 더한 내용 있나” - 경향신문",
-        "en": "한동훈, 안규백 탈영 의혹에 “병적기록 미공개…탈영보다 더한 내용 있나” - 경향신문",
-        "zh": "한동훈, 안규백 탈영 의혹에 “병적기록 미공개…탈영보다 더한 내용 있나” - 경향신문"
-      }
-    },
-    {
-      "title": "‘계엄 정당화 메시지’ 김태효 전 안보실 1차장 구속 - 조선일보",
-      "link": "https://www.chosun.com/national/court_law/2026/07/10/F7HBZUVPCJG3LI2G7NQAXOFZ6M/",
-      "source": "조선일보",
-      "pubDate": "Fri, 10 Jul 2026 14:37:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GPXHY6DEZBLMRIUKNUQT7PT3G4.jpg?auth=aa1927122e82bbd0b6bf3f4bc6c2925d04354b34f3c3e7b589c21ca86c11c3db&width=1200&height=630&focal=1830,915",
-      "summaries": {
-        "ko": "‘계엄 정당화 메시지’ 김태효 전 안보실 1차장 구속 - 조선일보",
-        "en": "‘계엄 정당화 메시지’ 김태효 전 안보실 1차장 구속 - 조선일보",
-        "zh": "‘계엄 정당화 메시지’ 김태효 전 안보실 1차장 구속 - 조선일보"
-      }
-    },
-    {
-      "title": "[단독] 배재고, ‘6개월 출전정지’ 효력정지 가처분 신청 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/schooling/1267691.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 11 Jul 2026 13:12:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/600/imgdb/original/2026/0710/20260710501505.webp",
-      "summaries": {
-        "ko": "[단독] 배재고, ‘6개월 출전정지’ 효력정지 가처분 신청 - 한겨레",
-        "en": "[단독] 배재고, ‘6개월 출전정지’ 효력정지 가처분 신청 - 한겨레",
-        "zh": "[단독] 배재고, ‘6개월 출전정지’ 효력정지 가처분 신청 - 한겨레"
-      }
-    },
-    {
-      "title": "반도체 호재에 자취 감추는 광주 미분양…건설업계 \"분위기 달라졌다\" - 연합인포맥스",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4424300",
-      "source": "연합인포맥스",
-      "pubDate": "Thu, 09 Jul 2026 23:27:00 GMT",
-      "image": "https://cdn.news.einfomax.co.kr/news/thumbnail/202607/4424300_328631_2822_v150.jpg",
-      "summaries": {
-        "ko": "반도체 호재에 자취 감추는 광주 미분양…건설업계 \"분위기 달라졌다\" - 연합인포맥스",
-        "en": "반도체 호재에 자취 감추는 광주 미분양…건설업계 \"분위기 달라졌다\" - 연합인포맥스",
-        "zh": "반도체 호재에 자취 감추는 광주 미분양…건설업계 \"분위기 달라졌다\" - 연합인포맥스"
+        "ko": "미네소타 고우석, MLB 첫 홀드 수확…1이닝 1피안타 1볼넷 '무실점'",
+        "en": "미네소타 고우석, MLB 첫 홀드 수확…1이닝 1피안타 1볼넷 '무실점'",
+        "zh": "미네소타 고우석, MLB 첫 홀드 수확…1이닝 1피안타 1볼넷 '무실점'"
       }
     },
     {
@@ -131,6 +95,30 @@
         "ko": "[속보] 이란 혁명수비대 \"호르무즈해협, 추가 공지시까지 폐쇄\"",
         "en": "[속보] 이란 혁명수비대 \"호르무즈해협, 추가 공지시까지 폐쇄\"",
         "zh": "[속보] 이란 혁명수비대 \"호르무즈해협, 추가 공지시까지 폐쇄\""
+      }
+    },
+    {
+      "title": "19만 원짜리 연극도 흥행 성공…'센과 치히로·라이프 오브 파이'가 이끈 연극시장 신기록",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260712071107cIO",
+      "source": "Breaking News",
+      "pubDate": "Sun, 12 Jul 2026 07:11:10 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260712071107cIO_01_i.jpg",
+      "summaries": {
+        "ko": "19만 원짜리 연극도 흥행 성공…'센과 치히로·라이프 오브 파이'가 이끈 연극시장 신기록",
+        "en": "19만 원짜리 연극도 흥행 성공…'센과 치히로·라이프 오브 파이'가 이끈 연극시장 신기록",
+        "zh": "19만 원짜리 연극도 흥행 성공…'센과 치히로·라이프 오브 파이'가 이끈 연극시장 신기록"
+      }
+    },
+    {
+      "title": "노스코바, '올림픽 복식 파트너' 무호바 꺾고 윔블던 첫 우승…상금 72억",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260712070108mjg",
+      "source": "Breaking News",
+      "pubDate": "Sun, 12 Jul 2026 07:01:09 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260712070108mjg_01_i.jpg",
+      "summaries": {
+        "ko": "노스코바, '올림픽 복식 파트너' 무호바 꺾고 윔블던 첫 우승…상금 72억",
+        "en": "노스코바, '올림픽 복식 파트너' 무호바 꺾고 윔블던 첫 우승…상금 72억",
+        "zh": "노스코바, '올림픽 복식 파트너' 무호바 꺾고 윔블던 첫 우승…상금 72억"
       }
     }
   ]
