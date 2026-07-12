@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-12T18:10:23.166161",
+  "lastUpdate": "2026-07-12T19:21:26.165214",
   "items": [
     {
       "title": "‘전대 룰’ 놓고 공회전하는 민주 최고위…친청 “납득 못해” - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Sun, 12 Jul 2026 16:10:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0712/53_17838599526337_20260712502088.webp",
       "summaries": {
-        "ko": "더불어민주당이 8.17 전당대회 당대표 선거에 '선호투표제'와 '청년 최고위원제' 도입을 두고 찬반 대립이 장기화되면서 최고위원회의가 결론을 내지 못하고 공회전하고 있다.",
-        "en": "The Democratic Party's Supreme Council is deadlocked and failing to reach a conclusion on the long-standing dispute over introducing 'preferential voting' and a 'youth supreme council member system' for the August 17th national convention's party leader election.",
-        "zh": "民主党最高委员会就8月17日全国代表大会党首选举引入“优先投票制”和“青年最高委员制”的长期争议陷入僵局，未能达成结论。"
+        "ko": "민주당 최고위가 8·17 전당대회 당대표 선거에 선호투표제 도입 여부를 두고 정청래 전 대표 측과 찬성 측의 대립으로 결론을 내지 못하고 후보 등록을 앞두고 공회전하고 있다.",
+        "en": "The Democratic Party's Supreme Council is deadlocked over the introduction of preferential voting for the August 17th party leader election, with the faction of former representative Jeong Cheong-rae clashing with proponents, failing to reach a decision before candidate registration.",
+        "zh": "民主党最高委员会就8月17日党代会党首选举是否引入偏好投票制一事，因前代表郑清来一方与赞成方之间的对立而无法做出决定，在候选人登记前陷入停滞。"
       }
     },
     {
@@ -26,15 +26,27 @@
       }
     },
     {
-      "title": "미군, 추가 공습…\"이란 미사일 및 방공시스템·소형선박 타격\" - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260713001400071",
-      "source": "연합뉴스",
-      "pubDate": "Sun, 12 Jul 2026 16:50:15 GMT",
-      "image": "https://img0.yna.co.kr/etc/inner/KR/2026/07/13/AKR20260713001400071_02_i_P4.jpg",
+      "title": "39도 한반도, 위에선 ‘광선 빔’ 아래선 ‘열 송풍기’…다음주 더 덥다 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1267829.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 12 Jul 2026 07:44:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/607/imgdb/original/2026/0712/20260712500825.webp",
       "summaries": {
-        "ko": "미군, 추가 공습…\"이란 미사일 및 방공시스템·소형선박 타격\" - 연합뉴스",
-        "en": "미군, 추가 공습…\"이란 미사일 및 방공시스템·소형선박 타격\" - 연합뉴스",
-        "zh": "미군, 추가 공습…\"이란 미사일 및 방공시스템·소형선박 타격\" - 연합뉴스"
+        "ko": "39도 한반도, 위에선 ‘광선 빔’ 아래선 ‘열 송풍기’…다음주 더 덥다 - 한겨레",
+        "en": "39도 한반도, 위에선 ‘광선 빔’ 아래선 ‘열 송풍기’…다음주 더 덥다 - 한겨레",
+        "zh": "39도 한반도, 위에선 ‘광선 빔’ 아래선 ‘열 송풍기’…다음주 더 덥다 - 한겨레"
+      }
+    },
+    {
+      "title": "미군, 추가 공습‥\"이란 미사일 및 방공시스템·소형선박 타격\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6836877_36925.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 12 Jul 2026 18:49:14 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/07/13/yn20260712-08.jpg",
+      "summaries": {
+        "ko": "미군, 추가 공습‥\"이란 미사일 및 방공시스템·소형선박 타격\" - MBC 뉴스",
+        "en": "미군, 추가 공습‥\"이란 미사일 및 방공시스템·소형선박 타격\" - MBC 뉴스",
+        "zh": "미군, 추가 공습‥\"이란 미사일 및 방공시스템·소형선박 타격\" - MBC 뉴스"
       }
     },
     {
@@ -62,39 +74,15 @@
       }
     },
     {
-      "title": "정부, 북한에 ‘실종 해군’ 수색 협조 요청…“NLL 표류 가능성” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1267877.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 12 Jul 2026 16:17:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/556/imgdb/original/2026/0712/20260712501735.webp",
+      "title": "강원 고성 앞바다서 해군 호위함 승조원 1명 실종…수색 중 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260712141841N1b",
+      "source": "연합뉴스TV",
+      "pubDate": "Sun, 12 Jul 2026 05:18:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260712/AKR20260712141841N1b_01_i.jpg",
       "summaries": {
-        "ko": "정부, 북한에 ‘실종 해군’ 수색 협조 요청…“NLL 표류 가능성” - 한겨레",
-        "en": "정부, 북한에 ‘실종 해군’ 수색 협조 요청…“NLL 표류 가능성” - 한겨레",
-        "zh": "정부, 북한에 ‘실종 해군’ 수색 협조 요청…“NLL 표류 가능성” - 한겨레"
-      }
-    },
-    {
-      "title": "포항·경산에 사상 첫 폭염중대경보 발표···“야외활동 중단” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607121020001",
-      "source": "경향신문",
-      "pubDate": "Sun, 12 Jul 2026 01:20:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/12/news-p.v1.20260712.2775304cb2dd4167b0347c5784e26eb3_P1.jpg",
-      "summaries": {
-        "ko": "포항·경산에 사상 첫 폭염중대경보 발표···“야외활동 중단” - 경향신문",
-        "en": "포항·경산에 사상 첫 폭염중대경보 발표···“야외활동 중단” - 경향신문",
-        "zh": "포항·경산에 사상 첫 폭염중대경보 발표···“야외활동 중단” - 경향신문"
-      }
-    },
-    {
-      "title": "하루에 온열질환 응급실행 99명…“야외활동 자제, 갈증 없어도 물 드세요” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/health/1267890.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 12 Jul 2026 11:15:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/844/507/imgdb/child/2026/0712/53_17838484267891_8717838483895396.webp",
-      "summaries": {
-        "ko": "하루에 온열질환 응급실행 99명…“야외활동 자제, 갈증 없어도 물 드세요” - 한겨레",
-        "en": "하루에 온열질환 응급실행 99명…“야외활동 자제, 갈증 없어도 물 드세요” - 한겨레",
-        "zh": "하루에 온열질환 응급실행 99명…“야외활동 자제, 갈증 없어도 물 드세요” - 한겨레"
+        "ko": "강원 고성 앞바다서 해군 호위함 승조원 1명 실종…수색 중 - 연합뉴스TV",
+        "en": "강원 고성 앞바다서 해군 호위함 승조원 1명 실종…수색 중 - 연합뉴스TV",
+        "zh": "강원 고성 앞바다서 해군 호위함 승조원 1명 실종…수색 중 - 연합뉴스TV"
       }
     },
     {
@@ -119,6 +107,18 @@
         "ko": "[단독] 국방장관 공관 열어줬던 박종준이 공수처 尹 체포 막아선 이유는 - 조선일보",
         "en": "[단독] 국방장관 공관 열어줬던 박종준이 공수처 尹 체포 막아선 이유는 - 조선일보",
         "zh": "[단독] 국방장관 공관 열어줬던 박종준이 공수처 尹 체포 막아선 이유는 - 조선일보"
+      }
+    },
+    {
+      "title": "하루에 온열질환 응급실행 99명…“야외활동 자제, 갈증 없어도 물 드세요” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/health/1267890.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 12 Jul 2026 16:14:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/844/507/imgdb/child/2026/0712/53_17838484267891_8717838483895396.webp",
+      "summaries": {
+        "ko": "하루에 온열질환 응급실행 99명…“야외활동 자제, 갈증 없어도 물 드세요” - 한겨레",
+        "en": "하루에 온열질환 응급실행 99명…“야외활동 자제, 갈증 없어도 물 드세요” - 한겨레",
+        "zh": "하루에 온열질환 응급실행 99명…“야외활동 자제, 갈증 없어도 물 드세요” - 한겨레"
       }
     }
   ]
