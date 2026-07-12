@@ -1,28 +1,52 @@
 {
-  "lastUpdate": "2026-07-12T11:44:51.435860",
+  "lastUpdate": "2026-07-12T12:38:51.280297",
   "items": [
     {
       "title": "펄펄 끓은 전국…“아침 7시에도 숨 턱턱 막히고, 냉감조끼 소용없어” - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/environment/1267909.html",
       "source": "한겨레",
-      "pubDate": "Sun, 12 Jul 2026 10:55:00 GMT",
+      "pubDate": "Sun, 12 Jul 2026 10:58:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/926/617/imgdb/original/2026/0712/9717838529653358.webp",
       "summaries": {
-        "ko": "대한민국은 전례 없는 폭염을 겪고 있으며, 경북 지역에 사상 첫 '폭염중대경보'가 발령되어 일상생활과 야외 활동이 심각하게 중단되고 이른 아침에도 건강 문제가 커지고 있습니다.",
-        "en": "South Korea is enduring an unprecedented heatwave, with the first-ever 'Extreme Heat Warning' issued for Gyeongbuk regions, severely disrupting daily life and outdoor work, and raising escalating health concerns even in the early morning.",
-        "zh": "韩国正经历史无前例的酷暑，庆北地区首次发布‘极端高温特报’，严重扰乱了日常生活和户外工作，甚至清晨也引发了日益严重的健康问题。"
+        "ko": "전국적인 폭염 속에 포항에 사상 첫 폭염중대경보가 발령되며 농민과 실외 노동자들이 어려움을 겪고 온열질환 위험이 증가하자 정부가 총력 대응에 나섰다.",
+        "en": "As a severe heat wave grips the nation, Pohang issued its first-ever 'severe heat wave warning,' causing significant hardship for farmers and outdoor workers and increasing the risk of heat-related illnesses, prompting the government to launch an all-out response.",
+        "zh": "全国范围内的热浪持续肆虐，浦项首次发布了‘严重高温警报’，导致农民和户外工作者面临严重困难，中暑疾病风险增加，政府已启动全面应对机制。"
       }
     },
     {
-      "title": "‘보완수사권 국면’ 위기감 커지는 경찰…‘장윤기 사건’ 유독 뼈아픈 이유 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607121755001",
+      "title": "국민 불신 자초한 경찰 위기감 팽배…‘장윤기 사건’ 특별수사단으로 격상 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607122106005",
       "source": "경향신문",
-      "pubDate": "Sun, 12 Jul 2026 08:55:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/12/rcv.YNA.20260711.PYH2026071104350005400_P1.jpg",
+      "pubDate": "Sun, 12 Jul 2026 12:06:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/12/l_2026071301000362100034471.jpg",
       "summaries": {
-        "ko": "장윤기 사건의 부실 수사 및 수사 무마 의혹으로 경찰의 수사력과 내부 유착 문제가 불거지면서, 검찰 보완수사권 존폐 논의 국면에서 경찰의 위기감이 커지고 있다.",
-        "en": "The police are facing an escalating crisis due to suspicions of a botched investigation and cover-up in the Jang Yoon-gi case, which has called their investigative capabilities and internal integrity into question, especially amidst discussions on the abolition or retention of the prosecution's supplementary investigation rights.",
-        "zh": "由于张允基事件中调查不力及掩盖真相的嫌疑，警察的侦查能力和内部勾结问题浮出水面，使其在检察官补充侦查权存废的讨论中面临日益加剧的组织危机。"
+        "ko": "국민 불신 자초한 경찰 위기감 팽배…‘장윤기 사건’ 특별수사단으로 격상 - 경향신문",
+        "en": "국민 불신 자초한 경찰 위기감 팽배…‘장윤기 사건’ 특별수사단으로 격상 - 경향신문",
+        "zh": "국민 불신 자초한 경찰 위기감 팽배…‘장윤기 사건’ 특별수사단으로 격상 - 경향신문"
+      }
+    },
+    {
+      "title": "처방전 공개한 김민석...이성윤에 \"계속 문제제기? 대장동 검사 같은 짓\" - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/07/12/CTNVWISYTRG2ROQO4Q37OA5V7E/",
+      "source": "조선일보",
+      "pubDate": "Sun, 12 Jul 2026 08:01:19 GMT",
+      "image": "https://www.chosun.com/resizer/v2/G44TEY3BMZTGKNLFGYYDGMDCMU.jpg?auth=a6f4eb98e1e575cdfa5cdaf55819f1d56656fa520b5df0f7c89b15d814034a77&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "처방전 공개한 김민석...이성윤에 \"계속 문제제기? 대장동 검사 같은 짓\" - 조선일보",
+        "en": "처방전 공개한 김민석...이성윤에 \"계속 문제제기? 대장동 검사 같은 짓\" - 조선일보",
+        "zh": "처방전 공개한 김민석...이성윤에 \"계속 문제제기? 대장동 검사 같은 짓\" - 조선일보"
+      }
+    },
+    {
+      "title": "민주 ‘선호투표제’ 평행선…친명·친청 내홍 장기화되나 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1267901.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 12 Jul 2026 10:38:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/624/imgdb/original/2026/0712/20260712501913.webp",
+      "summaries": {
+        "ko": "민주 ‘선호투표제’ 평행선…친명·친청 내홍 장기화되나 - 한겨레",
+        "en": "민주 ‘선호투표제’ 평행선…친명·친청 내홍 장기화되나 - 한겨레",
+        "zh": "민주 ‘선호투표제’ 평행선…친명·친청 내홍 장기화되나 - 한겨레"
       }
     },
     {
@@ -32,45 +56,21 @@
       "pubDate": "Sun, 12 Jul 2026 11:15:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/556/imgdb/original/2026/0712/20260712501735.webp",
       "summaries": {
-        "ko": "동해 NLL 인근에서 해군 승조원 1명이 실종되자, 한국 정부는 북한에 인도주의적 견지에서 실종자 수색 및 송환 협조를 요청했다.",
-        "en": "A South Korean Navy crew member went missing in the East Sea near the Northern Limit Line (NLL), prompting the South Korean government to request North Korea's humanitarian cooperation in the search and repatriation of the missing person.",
-        "zh": "一名韩国海军乘员在东海北方界线（NLL）附近海域失踪后，韩国政府基于人道主义立场，请求朝鲜协助搜寻和遣返失踪人员。"
+        "ko": "정부, 북한에 ‘실종 해군’ 수색 협조 요청…“NLL 표류 가능성” - 한겨레",
+        "en": "정부, 북한에 ‘실종 해군’ 수색 협조 요청…“NLL 표류 가능성” - 한겨레",
+        "zh": "정부, 북한에 ‘실종 해군’ 수색 협조 요청…“NLL 표류 가능성” - 한겨레"
       }
     },
     {
-      "title": "선호투표냐, 결선투표냐 오늘 합의 시도…불발 시 계파 내홍 증폭될 듯 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607122004001",
-      "source": "경향신문",
-      "pubDate": "Sun, 12 Jul 2026 11:04:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/12/news-p.v1.20260710.c9ec0ebfc35b43ed8383a5abc42d876f_P1.jpeg",
+      "title": "이란 최고지도자 고문 \"호르무즈가 원자폭탄 수십 개보다 중요\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6836861_36925.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 12 Jul 2026 11:50:16 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/07/12/jhp_20260712_17.jpg",
       "summaries": {
-        "ko": "선호투표냐, 결선투표냐 오늘 합의 시도…불발 시 계파 내홍 증폭될 듯 - 경향신문",
-        "en": "선호투표냐, 결선투표냐 오늘 합의 시도…불발 시 계파 내홍 증폭될 듯 - 경향신문",
-        "zh": "선호투표냐, 결선투표냐 오늘 합의 시도…불발 시 계파 내홍 증폭될 듯 - 경향신문"
-      }
-    },
-    {
-      "title": "美, 이란에 공습 재개… \"선박 공격에 1명 실종, 대가 치를 것\" - 조선일보",
-      "link": "https://www.chosun.com/international/us/2026/07/12/F43MP2UFQBEYXACIVLRPTN5O4U/",
-      "source": "조선일보",
-      "pubDate": "Sun, 12 Jul 2026 07:18:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/4ZVUZHRTJ5GYDPR2565BIKAM3I.gif?auth=c67f5dc9597f881249a4c15fb9713dae2eb2f0a2b7700b02f1655ea7dd88e5ea&width=480&height=252&smart=true",
-      "summaries": {
-        "ko": "美, 이란에 공습 재개… \"선박 공격에 1명 실종, 대가 치를 것\" - 조선일보",
-        "en": "美, 이란에 공습 재개… \"선박 공격에 1명 실종, 대가 치를 것\" - 조선일보",
-        "zh": "美, 이란에 공습 재개… \"선박 공격에 1명 실종, 대가 치를 것\" - 조선일보"
-      }
-    },
-    {
-      "title": "정청래, 김민석 과거 겨냥 “최악 자기정치는 남의 당 후보 돕기” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1267869.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 12 Jul 2026 08:59:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0712/20260712501578.webp",
-      "summaries": {
-        "ko": "정청래, 김민석 과거 겨냥 “최악 자기정치는 남의 당 후보 돕기” - 한겨레",
-        "en": "정청래, 김민석 과거 겨냥 “최악 자기정치는 남의 당 후보 돕기” - 한겨레",
-        "zh": "정청래, 김민석 과거 겨냥 “최악 자기정치는 남의 당 후보 돕기” - 한겨레"
+        "ko": "이란 최고지도자 고문 \"호르무즈가 원자폭탄 수십 개보다 중요\" - MBC 뉴스",
+        "en": "이란 최고지도자 고문 \"호르무즈가 원자폭탄 수십 개보다 중요\" - MBC 뉴스",
+        "zh": "이란 최고지도자 고문 \"호르무즈가 원자폭탄 수십 개보다 중요\" - MBC 뉴스"
       }
     },
     {
@@ -86,27 +86,27 @@
       }
     },
     {
-      "title": "경찰, ‘한동훈 당원 게시판’ 수사 재시동…홍보국 관계자 불러 조사 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260712/134281250/1",
-      "source": "동아일보",
-      "pubDate": "Sun, 12 Jul 2026 06:17:31 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/12/134281857.1.jpg",
+      "title": "한동훈 관련 ‘당게 사건’, 경찰 1년만에 수사 재개 - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/07/12/U3M3E35URBDD5CLRXKRGQAWB7I/",
+      "source": "조선일보",
+      "pubDate": "Sun, 12 Jul 2026 08:48:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MIZDMYZSGNRDEZRSMQ4GINRQMQ.jpg?auth=8034c37209e5544d69e35c68ca6ae566f9cbe43d8a39274072be1921d9581ddc&width=600&height=315&focal=302,155",
       "summaries": {
-        "ko": "경찰, ‘한동훈 당원 게시판’ 수사 재시동…홍보국 관계자 불러 조사 - 동아일보",
-        "en": "경찰, ‘한동훈 당원 게시판’ 수사 재시동…홍보국 관계자 불러 조사 - 동아일보",
-        "zh": "경찰, ‘한동훈 당원 게시판’ 수사 재시동…홍보국 관계자 불러 조사 - 동아일보"
+        "ko": "한동훈 관련 ‘당게 사건’, 경찰 1년만에 수사 재개 - 조선일보",
+        "en": "한동훈 관련 ‘당게 사건’, 경찰 1년만에 수사 재개 - 조선일보",
+        "zh": "한동훈 관련 ‘당게 사건’, 경찰 1년만에 수사 재개 - 조선일보"
       }
     },
     {
-      "title": "안철수 \"한동훈 복당 반대…국민의힘에 얼씬도 하지 말라\" - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/07/12/G27OCPDCVRB3HBMDRKDDPVFAK4/",
-      "source": "조선일보",
-      "pubDate": "Sun, 12 Jul 2026 01:53:26 GMT",
-      "image": "https://www.chosun.com/resizer/v2/L3EGWBVOGVPCBJS2TRL7ZHCEZM.jpg?auth=4a3a5bc17f4e34c360e51b4425ba77f2e172941185ed14c9830783199490df90&width=1200&height=630&smart=true",
+      "title": "안철수 \"한동훈 복당 반대..당에 얼씬도 말길\" - 파이낸셜뉴스",
+      "link": "https://www.fnnews.com/news/202607120952165435",
+      "source": "파이낸셜뉴스",
+      "pubDate": "Sun, 12 Jul 2026 03:01:18 GMT",
+      "image": "https://image.fnnews.com/resource/media/image/2026/07/09/202607090055212727_l.jpg",
       "summaries": {
-        "ko": "안철수 \"한동훈 복당 반대…국민의힘에 얼씬도 하지 말라\" - 조선일보",
-        "en": "안철수 \"한동훈 복당 반대…국민의힘에 얼씬도 하지 말라\" - 조선일보",
-        "zh": "안철수 \"한동훈 복당 반대…국민의힘에 얼씬도 하지 말라\" - 조선일보"
+        "ko": "안철수 \"한동훈 복당 반대..당에 얼씬도 말길\" - 파이낸셜뉴스",
+        "en": "안철수 \"한동훈 복당 반대..당에 얼씬도 말길\" - 파이낸셜뉴스",
+        "zh": "안철수 \"한동훈 복당 반대..당에 얼씬도 말길\" - 파이낸셜뉴스"
       }
     },
     {
