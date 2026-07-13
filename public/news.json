@@ -1,64 +1,40 @@
 {
-  "lastUpdate": "2026-07-13T07:56:39.781714",
+  "lastUpdate": "2026-07-13T10:46:57.800460",
   "items": [
     {
-      "title": "[속보] 윤석열 ‘명태균 무상 여론조사’ 징역 2년 선고 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1268002.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 13 Jul 2026 06:35:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0713/20260713502281.webp",
+      "title": "\"尹 처벌 불가피\" 징역 2년‥명태균도 유죄 '법정구속' - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6837079_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Mon, 13 Jul 2026 08:08:13 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/13/kds_20260713_13_1.jpg",
       "summaries": {
-        "ko": "윤석열 전 대통령이 명태균씨로부터 여론조사 결과를 무상으로 수수한 혐의(정치자금법 위반)로 1심에서 징역 2년을 선고받았고, 명태균씨는 징역 1년 6개월을 선고받았다.",
-        "en": "Former President Yoon Suk-yeol was sentenced to two years in prison in the first trial for allegedly receiving free poll results from Myeong Tae-gyun, violating political funding laws, while Myeong Tae-gyun received a sentence of one year and six months.",
-        "zh": "韩国前总统尹锡悦因涉嫌违反政治资金法，从明太均处无偿获取民意调查结果，在一审中被判处有期徒刑2年，明太均则被判处有期徒刑1年6个月。"
+        "ko": "서울중앙지법은 윤석열 전 대통령에게 정치자금법 위반 혐의로 징역 2년과 1천390만 원 추징을 선고하고, 여론조사 제공 대가로 공천을 약속한 명태균 씨에게도 징역 1년 6개월을 선고하며 법정 구속했다.",
+        "en": "The Seoul Central District Court sentenced former President Yoon Suk-yeol to two years in prison and ordered the forfeiture of 13.9 million won for violating the Political Funds Act, and also sentenced Myung Tae-kyun, who provided opinion polls in exchange for a nomination promise, to 1 year and 6 months in prison and arrested him in court.",
+        "zh": "首尔中央地方法院因违反《政治资金法》判处前总统尹锡悦有期徒刑2年并追缴1390万韩元，同时判处因提供民意调查并以此为代价承诺提名的共犯明泰均有期徒刑1年6个月并当庭逮捕。"
       }
     },
     {
-      "title": "이 대통령 “AI 패권 골든타임, 미래대응기금으로 청년·지방·교육 등 집중투자” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607131602001",
+      "title": "정부, 내년 예산 첫 800조원대로 편성···2009년 이후 최고 수준 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607131719001",
       "source": "경향신문",
-      "pubDate": "Mon, 13 Jul 2026 07:02:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/13/news-p.v1.20260713.3943b328de7740b3bb66d877cc43fcf2_P1.jpeg",
+      "pubDate": "Mon, 13 Jul 2026 08:19:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/13/news-p.v1.20260713.4bf5f0f3df3549209760f1b4037ca3c1_P1.jpg",
       "summaries": {
-        "ko": "이재명 대통령은 AI 혁명으로 인한 추가세수를 활용해 미래대응기금을 신설하고, 미래·청년·지방·교육 등 4대 분야에 집중 투자하여 AI 패권을 확보하고 경제 성장 잠재력을 높이겠다고 밝혔다.",
-        "en": "President Lee Jae-myung announced the creation of a \"Future Response Fund,\" utilizing additional tax revenue from the AI revolution to intensively invest in four key areas—future, youth, local, and education—to secure AI hegemony and boost economic growth potential.",
-        "zh": "李在明总统宣布，将利用AI革命带来的额外税收设立“未来应对基金”，并集中投资于未来、青年、地方和教育四大领域，以确保AI霸权并提升经济增长潜力。"
+        "ko": "정부가 내년 예산을 800조원대로 편성하고, 대규모 세수 증가와 강도 높은 지출 구조조정을 통해 반도체·AI 등 미래 성장동력과 신설 미래대응기금에 집중 투자할 방침이다.",
+        "en": "The government plans to organize next year's budget in the 800 trillion won range, intending to intensively invest funds, secured through significant tax revenue growth and stringent expenditure restructuring, into future growth engines like semiconductors and AI, as well as the newly established Future Response Fund.",
+        "zh": "韩国政府计划将明年预算编制为800万亿韩元左右，并通过大规模税收增长和强有力的支出结构调整，将资金重点投资于半导体、人工智能等未来增长动力和新设立的未来应对基金。"
       }
     },
     {
-      "title": "[속보] 정청래 \"당대표직 이용해 대선 출마 생각 없어\"...대표 재출마 - 조선일보",
+      "title": "정청래 \"당대표직 이용해 대선 출마 생각 없어\"...대표 재출마 - 조선일보",
       "link": "https://www.chosun.com/politics/assembly/2026/07/13/XHQO3HSXCFETTIL2ZH66456AQ4/",
       "source": "조선일보",
       "pubDate": "Mon, 13 Jul 2026 05:37:30 GMT",
       "image": "https://www.chosun.com/resizer/v2/2MWPN2AEFZHSXNSXDVWZFINBFA.jpg?auth=27a61dc0b0aada58c99cb7c61174ec937a34cebceb1a4233a452a2d4172bad01&width=1200&height=630&focal=2690,1257",
       "summaries": {
-        "ko": "[속보] 정청래 \"당대표직 이용해 대선 출마 생각 없어\"...대표 재출마 - 조선일보",
-        "en": "[속보] 정청래 \"당대표직 이용해 대선 출마 생각 없어\"...대표 재출마 - 조선일보",
-        "zh": "[속보] 정청래 \"당대표직 이용해 대선 출마 생각 없어\"...대표 재출마 - 조선일보"
-      }
-    },
-    {
-      "title": "국민의힘 “공소청·중수청 출범 1년 늦추자…보완수사권은 유지” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8609237",
-      "source": "KBS 뉴스",
-      "pubDate": "Mon, 13 Jul 2026 07:35:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/07/13/20260713_yqUmg8.png",
-      "summaries": {
-        "ko": "국민의힘은 공소청·중수청 출범을 1년 늦추고 검사의 보완수사권을 유지하며, 경찰의 단독 사건 종결에 대한 보완책으로 전건송치제 도입과 중대범죄 수사 초기 검경 협력 강화, 검사의 경찰 징계 요구권 신설 등을 포함한 법안을 추진하겠다고 밝혔다.",
-        "en": "The People Power Party announced its plan to propose a bill that would delay the establishment of the Prosecution Agency and Serious Crime Investigation Agency by one year, maintain prosecutors' supplementary investigative powers, introduce measures like the \"all cases forwarded to prosecution\" system to complement the police's sole case closure, strengthen early collaboration between prosecutors and police for serious crime investigations, and establish prosecutors' right to request disciplinary action against police.",
-        "zh": "韩国国民力量党表示，将推动一项法案，把公诉厅和重案调查厅的成立推迟一年，维持检察官的补充侦查权，为补充警察单独结案的权力引入“全案移送制”等措施，加强重大犯罪侦查初期检警合作，并赋予检察官对警察的纪律处分要求权。"
-      }
-    },
-    {
-      "title": "민주 ‘선호투표제’ 결론 보류…한병도, 친청계 설득 나서 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260713/134286333/1",
-      "source": "동아일보",
-      "pubDate": "Mon, 13 Jul 2026 02:07:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/13/134286457.1.jpg",
-      "summaries": {
-        "ko": "민주 ‘선호투표제’ 결론 보류…한병도, 친청계 설득 나서 - 동아일보",
-        "en": "민주 ‘선호투표제’ 결론 보류…한병도, 친청계 설득 나서 - 동아일보",
-        "zh": "민주 ‘선호투표제’ 결론 보류…한병도, 친청계 설득 나서 - 동아일보"
+        "ko": "정청래 \"당대표직 이용해 대선 출마 생각 없어\"...대표 재출마 - 조선일보",
+        "en": "정청래 \"당대표직 이용해 대선 출마 생각 없어\"...대표 재출마 - 조선일보",
+        "zh": "정청래 \"당대표직 이용해 대선 출마 생각 없어\"...대표 재출마 - 조선일보"
       }
     },
     {
@@ -68,57 +44,105 @@
       "pubDate": "Mon, 13 Jul 2026 04:52:24 GMT",
       "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/07/13/sa_20260713_27.jpg",
       "summaries": {
-        "ko": "9호 태풍 바비가 10호 태풍 마이삭에 이어 중국에 상륙하며 중국에서 200만 명 이상이 대피하고 필리핀, 대만, 일본 등 동아시아 전역에 폭넓은 피해와 인명 피해를 초래했으며, 바비는 점차 열대저압부로 약해질 것으로 예상된다.",
-        "en": "Typhoon Babi, following Typhoon Maysak, made landfall in China, leading to over 2 million evacuations in China and causing widespread damage, floods, and casualties across East Asia including the Philippines, Taiwan, and Japan, with Babi expected to weaken into a tropical depression.",
-        "zh": "9号台风巴威继10号台风米拉克之后登陆中国，导致中国200多万人疏散，并在菲律宾、台湾、日本等东亚地区造成广泛的破坏、洪水和人员伤亡，预计巴威将减弱为热带低压。"
+        "ko": "9호 태풍 바비가 중국 저장성에 상륙하며 200만 명 이상이 대피하고 대규모 폭우와 산사태 피해가 발생했으며, 필리핀, 대만, 일본 등 주변국에도 인명 및 재산 피해를 입혔다.",
+        "en": "Typhoon Bavi (Typhoon No. 9) made landfall in China's Zhejiang Province, leading to the evacuation of over 2 million people and causing extensive damage from heavy rains and landslides, while also inflicting casualties and property damage in neighboring countries including the Philippines, Taiwan, and Japan.",
+        "zh": "第9号台风巴威登陆中国浙江省，导致200多万人撤离，并造成大范围暴雨和山体滑坡灾害，同时也对菲律宾、台湾、日本等周边国家造成了人员伤亡和财产损失。"
       }
     },
     {
-      "title": "장윤기 ‘성폭행 목적 살인’ 시인…형량 최저 무기징역 - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260713/134286063/1",
-      "source": "동아일보",
-      "pubDate": "Mon, 13 Jul 2026 01:25:49 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/13/134285951.1.jpg",
-      "summaries": {
-        "ko": "장윤기 ‘성폭행 목적 살인’ 시인…형량 최저 무기징역 - 동아일보",
-        "en": "장윤기 ‘성폭행 목적 살인’ 시인…형량 최저 무기징역 - 동아일보",
-        "zh": "장윤기 ‘성폭행 목적 살인’ 시인…형량 최저 무기징역 - 동아일보"
-      }
-    },
-    {
-      "title": "김하수 전 청도군수, 청도 야산서 숨진 채 발견…경찰 “관련 수사는 계속” - 영남일보",
-      "link": "https://www.yeongnam.com/web/view.php?key=20260713021395702",
-      "source": "영남일보",
-      "pubDate": "Sun, 12 Jul 2026 23:43:57 GMT",
-      "image": "https://www.yeongnam.com/mnt/file/202607/news-p.v1.20260713.7cc38b540d264a8097db0a82ba1c88ed_R.jpg",
-      "summaries": {
-        "ko": "경찰 수사 중이던 김하수 전 청도군수가 청도 야산에서 숨진 채 발견됐으며, 경찰은 관련 수사를 계속할 방침이라고 밝혔다.",
-        "en": "Kim Ha-su, former Cheongdo County Governor who was under police investigation, was found dead on a mountain in Cheongdo, and police stated that related investigations will continue.",
-        "zh": "正在接受警方调查的前清道郡守金河秀在清道一处山中被发现身亡，警方表示相关调查将继续进行。"
-      }
-    },
-    {
-      "title": "경찰, 배재고 ‘부적절 응원’ 불송치 가닥…“광주일고가 처벌 원치 않아” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1267971.html",
+      "title": "미-이란, ‘호르무즈 통제권’ 놓고 충돌 격화…UN “전면전 재발 우려” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1268030.html",
       "source": "한겨레",
-      "pubDate": "Mon, 13 Jul 2026 03:29:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0713/20260713501451.webp",
+      "pubDate": "Mon, 13 Jul 2026 08:05:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0713/20260713502852.webp",
       "summaries": {
-        "ko": "경찰은 '부적절 응원' 논란으로 모욕 혐의 고발당한 배재고 야구부에 대해 피해자인 광주일고가 처벌을 원치 않아 불송치 결정을 내릴 예정이다.",
-        "en": "Police are set to not prosecute Baejae High School's baseball team, which was accused of insult over \"inappropriate cheering,\" as the victim, Gwangjuil High School, does not wish for punishment.",
-        "zh": "警方将对因“不当助威”争议而被控侮辱罪的培材高中棒球队作出不移送起诉的决定，因为受害者光州第一高中不希望追究其责任。"
+        "ko": "미국과 이란이 호르무즈 해협 통제권을 두고 이틀 연속 대규모 공방을 벌이며 전면전 재발 우려가 커지고 있습니다.",
+        "en": "The conflict between the US and Iran over control of the Strait of Hormuz has escalated with large-scale attacks for two consecutive days, raising fears of a full-scale war.",
+        "zh": "美国和伊朗就霍尔木兹海峡控制权连续两天发生大规模冲突，引发全面战争再次爆发的担忧。"
       }
     },
     {
-      "title": "태권도장에서 '단체 물놀이' 갔는데‥7살 여자아이 물에 빠져 사망 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6836973_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Mon, 13 Jul 2026 02:11:38 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/13/hye_20260713_23.jpg",
+      "title": "민주당 전당대회 후보 등록 D-3…‘유불리 수싸움’에 규칙 확정도 못하고 당내 갈등만 고조 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607131812011",
+      "source": "경향신문",
+      "pubDate": "Mon, 13 Jul 2026 09:12:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/13/news-p.v1.20260713.24606d33248d49b0bc99d9f5ac85df9b_P1.jpeg",
       "summaries": {
-        "ko": "태권도장에서 '단체 물놀이' 갔는데‥7살 여자아이 물에 빠져 사망 - MBC 뉴스",
-        "en": "태권도장에서 '단체 물놀이' 갔는데‥7살 여자아이 물에 빠져 사망 - MBC 뉴스",
-        "zh": "태권도장에서 '단체 물놀이' 갔는데‥7살 여자아이 물에 빠져 사망 - MBC 뉴스"
+        "ko": "민주당 전당대회 후보 등록을 사흘 앞두고 최고위원회가 당대표 선출 방식을 결정하지 못해 계파 간 유불리 수싸움으로 당내 갈등이 고조되고 있다.",
+        "en": "With candidate registration for the Democratic Party's national convention just three days away, the Supreme Council has failed to decide on the party leader selection method, intensifying internal conflict due to factional maneuvering over perceived advantages and disadvantages.",
+        "zh": "民主党全国代表大会候选人登记仅剩三天，最高委员会仍未能决定党首选举方式，各派系因考量自身利弊而争执不休，导致党内矛盾日益加剧。"
+      }
+    },
+    {
+      "title": "이 대통령 “전력 남아돌 땐 싸게, 피크타임엔 비싸게 체계 바꿔야” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1268058.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 13 Jul 2026 09:16:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/529/imgdb/original/2026/0713/20260713503067.webp",
+      "summaries": {
+        "ko": "이재명 대통령은 전력이 남아돌 때 싸게, 피크타임에 비싸게 요금을 부과하는 전기요금 체계 개편을 제안했지만, 당장은 물가관리 문제로 가정용 적용이 어렵다고 밝혔다.",
+        "en": "President Lee Jae-myung proposed reforming the electricity pricing system to charge less when power is abundant and more during peak times, but stated that applying this to households is currently difficult due to inflation management issues.",
+        "zh": "韩国总统李在明提议改革电价体系，在电力充裕时收费较低，在高峰时段收费较高，但表示由于当前的物价管理问题，暂时难以将此应用于家庭用户。"
+      }
+    },
+    {
+      "title": "정점식 “국민정당”에 장동혁 “당원 중심”… 국힘 투톱, 黨 노선 두고 공개 이견 표출 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260713/134284400/2",
+      "source": "동아일보",
+      "pubDate": "Sun, 12 Jul 2026 19:30:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/13/134284770.1.jpg",
+      "summaries": {
+        "ko": "정점식 “국민정당”에 장동혁 “당원 중심”… 국힘 투톱, 黨 노선 두고 공개 이견 표출 - 동아일보",
+        "en": "정점식 “국민정당”에 장동혁 “당원 중심”… 국힘 투톱, 黨 노선 두고 공개 이견 표출 - 동아일보",
+        "zh": "정점식 “국민정당”에 장동혁 “당원 중심”… 국힘 투톱, 黨 노선 두고 공개 이견 표출 - 동아일보"
+      }
+    },
+    {
+      "title": "인사 비위 혐의 김하수 전 청도군수 숨진 채 발견 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6836941_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Mon, 13 Jul 2026 00:20:17 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/13/sa_20260713_3.jpg",
+      "summaries": {
+        "ko": "인사 비위 혐의 김하수 전 청도군수 숨진 채 발견 - MBC 뉴스",
+        "en": "인사 비위 혐의 김하수 전 청도군수 숨진 채 발견 - MBC 뉴스",
+        "zh": "인사 비위 혐의 김하수 전 청도군수 숨진 채 발견 - MBC 뉴스"
+      }
+    },
+    {
+      "title": "‘국회 예산 편취’ 김영선 전 의원 징역 3년6개월 구형···김 “차라리 사형을” 혐의 전면 부인 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607131802001",
+      "source": "경향신문",
+      "pubDate": "Mon, 13 Jul 2026 09:02:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/13/news-p.v1.20260713.d1b926e3b68848e48102ca43e2cd9d43_P1.jpg",
+      "summaries": {
+        "ko": "창원 제2국가산단 미공개 정보 누설, 국회 예산 편취, 불법 정치자금 수수 혐의 등으로 재판에 넘겨진 김영선 전 국회의원에게 검찰이 징역 3년 6개월을 구형했으며, 김 전 의원은 모든 혐의를 부인했다.",
+        "en": "Prosecutors sought a 3-year-6-month prison sentence for former People Power Party lawmaker Kim Young-sun, who is on trial for charges including leaking undisclosed information about the Changwon 2nd National Industrial Complex, embezzling National Assembly funds, and receiving illegal political donations, with Kim denying all allegations.",
+        "zh": "前国民力量党国会议员金映宣因涉嫌泄露昌原第二国家产业园区未公开信息、贪污国会预算、收受非法政治献金等被检察官求刑3年6个月有期徒刑，金映宣否认了所有指控。"
+      }
+    },
+    {
+      "title": "김건희 19일 종합특검 출석…'관저 이전' 조사",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260713193154cZ4",
+      "source": "Breaking News",
+      "pubDate": "Mon, 13 Jul 2026 19:31:54 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260713/MYH20260713193154cZ4.jpg",
+      "summaries": {
+        "ko": "2차 종합특검팀이 '관저 이전 특혜' 의혹과 관련해 김건희 씨를 오는 19일 소환 조사하며, 특검 종료를 앞두고 다른 수사에도 속도를 내고 있습니다.",
+        "en": "The 2nd comprehensive special prosecutor's team will summon Kim Keon-hee on the 19th for questioning regarding allegations of 'preferential treatment in the relocation of the presidential residence,' while also accelerating other investigations as the special prosecutor's term nears its end.",
+        "zh": "第二综合特检组将于19日传唤金建希女士，调查其涉嫌“官邸搬迁特惠”的指控，同时特检组在调查结束前也在加快其他案件的侦查。"
+      }
+    },
+    {
+      "title": "[속보] 정교유착 합수본, '국힘 당원가입 강요' 이만희 구속기소",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260713192913mQN",
+      "source": "Breaking News",
+      "pubDate": "Mon, 13 Jul 2026 19:29:14 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260713/AKR20260713192913mQN_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] 정교유착 합수본, '국힘 당원가입 강요' 이만희 구속기소",
+        "en": "[속보] 정교유착 합수본, '국힘 당원가입 강요' 이만희 구속기소",
+        "zh": "[속보] 정교유착 합수본, '국힘 당원가입 강요' 이만희 구속기소"
       }
     }
   ]
