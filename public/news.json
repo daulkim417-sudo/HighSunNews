@@ -1,40 +1,28 @@
 {
-  "lastUpdate": "2026-07-14T14:09:03.971938",
+  "lastUpdate": "2026-07-14T15:40:52.456524",
   "items": [
     {
-      "title": "이 대통령 “집값보다 조세 정상화…개혁은 요란하면 실패” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1268253.html",
+      "title": "경영계 “최저임금 동결됐어야…고심 끝 불가피 선택” - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8610913",
+      "source": "KBS 뉴스",
+      "pubDate": "Tue, 14 Jul 2026 14:59:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/07/15/20260715_fsfyeQ.jpg",
+      "summaries": {
+        "ko": "경영계는 내년도 최저임금이 시간당 1만700원으로 3.7% 인상된 것에 대해 영세·중소기업의 경영 어려움을 이유로 아쉬움을 표하며 동결을 주장했지만, 사용자위원들의 불가피한 선택이었음을 인정하고 업종별 차등 적용 등 제도 개선을 촉구했습니다.",
+        "en": "Business groups expressed regret over next year's minimum wage increasing by 3.7% to 10,700 won per hour, citing financial difficulties for small and medium-sized enterprises and advocating for a freeze, but acknowledged it was an unavoidable choice by employer representatives and called for institutional reforms such as differentiated application by sector.",
+        "zh": "韩国经营界对明年最低工资每小时10,700韩元（上涨3.7%）表示遗憾，称考虑到中小微企业的经营困难应予冻结，但承认这是资方委员们“深思熟虑后不可避免的选择”，并呼吁政府推进按行业差别化适用等制度改善。"
+      }
+    },
+    {
+      "title": "이 대통령 ‘29억’ 분당 아파트 매매 곧 마무리…청 “행정절차로 시간 소요” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1268245.html",
       "source": "한겨레",
-      "pubDate": "Tue, 14 Jul 2026 10:30:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0714/53_17840185030346_20260714503265.webp",
+      "pubDate": "Tue, 14 Jul 2026 13:24:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/667/imgdb/original/2026/0714/20260714503162.webp",
       "summaries": {
-        "ko": "이재명 대통령은 부동산 세제 개혁의 1차 목표는 집값 안정보다 조세 정상화와 형평성이라 강조하며, 개혁은 요란하기보다 설득과 공감을 통해 실효적으로 추진되어야 한다고 밝혔다.",
-        "en": "President Lee Jae-myung emphasized that the primary goal of real estate tax reform is tax normalization and fairness rather than housing price stabilization, stressing that reforms should be effectively pursued through persuasion and consensus rather than a loud approach.",
-        "zh": "韩国总统李在明强调，房地产税制改革的首要目标是税制正常化和公平性，而非房价稳定，并指出改革应通过说服和共识有效推进，而非大张旗鼓地进行。"
-      }
-    },
-    {
-      "title": "미, 사흘 연속 이란 공습…호르무즈 해협 긴장 고조 - VOA 한국어 홈페이지",
-      "link": "https://www.voakorea.com/a/8171654.html",
-      "source": "VOA 한국어 홈페이지",
-      "pubDate": "Tue, 14 Jul 2026 12:48:38 GMT",
-      "image": "https://gdb.voanews.com/9d9997a4-4d26-4f86-c6f1-08decaecd3b3_w1200_h630.jpg",
-      "summaries": {
-        "ko": "미, 사흘 연속 이란 공습…호르무즈 해협 긴장 고조 - VOA 한국어 홈페이지",
-        "en": "미, 사흘 연속 이란 공습…호르무즈 해협 긴장 고조 - VOA 한국어 홈페이지",
-        "zh": "미, 사흘 연속 이란 공습…호르무즈 해협 긴장 고조 - VOA 한국어 홈페이지"
-      }
-    },
-    {
-      "title": "李대통령 “난 이제 집 없다”…분당 아파트 팔렸다 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260714/134297132/1",
-      "source": "동아일보",
-      "pubDate": "Tue, 14 Jul 2026 07:18:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/14/134295531.2.jpg",
-      "summaries": {
-        "ko": "李대통령 “난 이제 집 없다”…분당 아파트 팔렸다 - 동아일보",
-        "en": "李대통령 “난 이제 집 없다”…분당 아파트 팔렸다 - 동아일보",
-        "zh": "李대통령 “난 이제 집 없다”…분당 아파트 팔렸다 - 동아일보"
+        "ko": "이 대통령 ‘29억’ 분당 아파트 매매 곧 마무리…청 “행정절차로 시간 소요” - 한겨레",
+        "en": "이 대통령 ‘29억’ 분당 아파트 매매 곧 마무리…청 “행정절차로 시간 소요” - 한겨레",
+        "zh": "이 대통령 ‘29억’ 분당 아파트 매매 곧 마무리…청 “행정절차로 시간 소요” - 한겨레"
       }
     },
     {
@@ -62,87 +50,87 @@
       }
     },
     {
-      "title": "여당서 “보완수사권 폐지 우려” 분출 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607142147005",
-      "source": "경향신문",
-      "pubDate": "Tue, 14 Jul 2026 12:47:00 GMT",
-      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
+      "title": "이 대통령 “국무회의 보시는 국민들, 초고가 주택에 ‘보유 부담 추가’ 의견 좀” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1268253.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 14 Jul 2026 13:46:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0714/53_17840185030346_20260714503265.webp",
       "summaries": {
-        "ko": "여당서 “보완수사권 폐지 우려” 분출 - 경향신문",
-        "en": "여당서 “보완수사권 폐지 우려” 분출 - 경향신문",
-        "zh": "여당서 “보완수사권 폐지 우려” 분출 - 경향신문"
+        "ko": "이 대통령 “국무회의 보시는 국민들, 초고가 주택에 ‘보유 부담 추가’ 의견 좀” - 한겨레",
+        "en": "이 대통령 “국무회의 보시는 국민들, 초고가 주택에 ‘보유 부담 추가’ 의견 좀” - 한겨레",
+        "zh": "이 대통령 “국무회의 보시는 국민들, 초고가 주택에 ‘보유 부담 추가’ 의견 좀” - 한겨레"
       }
     },
     {
-      "title": "고비는 오늘 밤, 120㎜ 폭우에 강풍까지…태풍 ‘바비’ 비구름 온다 - 한겨레",
+      "title": "이란 “미군, 부셰르 등 해안도시 또 타격”…오만 외교 “이 전쟁은 재앙” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1268292.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 14 Jul 2026 14:05:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2026/0714/20260714503716.webp",
+      "summaries": {
+        "ko": "이란 “미군, 부셰르 등 해안도시 또 타격”…오만 외교 “이 전쟁은 재앙” - 한겨레",
+        "en": "이란 “미군, 부셰르 등 해안도시 또 타격”…오만 외교 “이 전쟁은 재앙” - 한겨레",
+        "zh": "이란 “미군, 부셰르 등 해안도시 또 타격”…오만 외교 “이 전쟁은 재앙” - 한겨레"
+      }
+    },
+    {
+      "title": "고비는 오늘 밤, 120㎜ 폭우에 강풍까지…약해진 ‘바비’, 비구름 ‘뒤끝’ - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/environment/1268181.html",
       "source": "한겨레",
-      "pubDate": "Tue, 14 Jul 2026 09:22:00 GMT",
+      "pubDate": "Tue, 14 Jul 2026 12:14:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/590/imgdb/original/2026/0714/511784020073059.webp",
       "summaries": {
-        "ko": "고비는 오늘 밤, 120㎜ 폭우에 강풍까지…태풍 ‘바비’ 비구름 온다 - 한겨레",
-        "en": "고비는 오늘 밤, 120㎜ 폭우에 강풍까지…태풍 ‘바비’ 비구름 온다 - 한겨레",
-        "zh": "고비는 오늘 밤, 120㎜ 폭우에 강풍까지…태풍 ‘바비’ 비구름 온다 - 한겨레"
+        "ko": "고비는 오늘 밤, 120㎜ 폭우에 강풍까지…약해진 ‘바비’, 비구름 ‘뒤끝’ - 한겨레",
+        "en": "고비는 오늘 밤, 120㎜ 폭우에 강풍까지…약해진 ‘바비’, 비구름 ‘뒤끝’ - 한겨레",
+        "zh": "고비는 오늘 밤, 120㎜ 폭우에 강풍까지…약해진 ‘바비’, 비구름 ‘뒤끝’ - 한겨레"
       }
     },
     {
-      "title": "노 1만820원 vs 사 1만620원···11차 수정안 놓고 내년 최저임금 ‘협상 중’ - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607141954001",
-      "source": "경향신문",
-      "pubDate": "Tue, 14 Jul 2026 10:54:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/14/news-p.v1.20260714.6b96336ece6e4c81a7075991cadc5d2b_P1.jpg",
+      "title": "\"장윤기 수사 할 만큼 했다\"는 경찰…법조계 \"성범죄는 결국 못 밝혔다\" - 조선일보",
+      "link": "https://www.chosun.com/national/court_law/2026/07/15/PXIY4Q2ISREQ3AZFKGOVHYFN3A/",
+      "source": "조선일보",
+      "pubDate": "Tue, 14 Jul 2026 12:27:06 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MRRDEYLDGNSWKNZYME2GIMTEMQ.jpg?auth=cbab2f382dc55c37a75d328cc51b579a514105055c097d9a19680edbf046e838&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "노 1만820원 vs 사 1만620원···11차 수정안 놓고 내년 최저임금 ‘협상 중’ - 경향신문",
-        "en": "노 1만820원 vs 사 1만620원···11차 수정안 놓고 내년 최저임금 ‘협상 중’ - 경향신문",
-        "zh": "노 1만820원 vs 사 1만620원···11차 수정안 놓고 내년 최저임금 ‘협상 중’ - 경향신문"
+        "ko": "\"장윤기 수사 할 만큼 했다\"는 경찰…법조계 \"성범죄는 결국 못 밝혔다\" - 조선일보",
+        "en": "\"장윤기 수사 할 만큼 했다\"는 경찰…법조계 \"성범죄는 결국 못 밝혔다\" - 조선일보",
+        "zh": "\"장윤기 수사 할 만큼 했다\"는 경찰…법조계 \"성범죄는 결국 못 밝혔다\" - 조선일보"
       }
     },
     {
-      "title": "오세훈 \"국무회의 발언 못해 아쉬워‥대통령 부동산 상황 인식 부족\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6837363_36918.html",
+      "title": "'전 종편 기자 명예훼손' 김어준 1심 벌금 2천만 원 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6837333_36918.html",
       "source": "MBC 뉴스",
-      "pubDate": "Tue, 14 Jul 2026 07:33:04 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/14/jh_20260714_10.jpg",
+      "pubDate": "Tue, 14 Jul 2026 05:41:11 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/14/jh_20260714_6.jpg",
       "summaries": {
-        "ko": "오세훈 \"국무회의 발언 못해 아쉬워‥대통령 부동산 상황 인식 부족\" - MBC 뉴스",
-        "en": "오세훈 \"국무회의 발언 못해 아쉬워‥대통령 부동산 상황 인식 부족\" - MBC 뉴스",
-        "zh": "오세훈 \"국무회의 발언 못해 아쉬워‥대통령 부동산 상황 인식 부족\" - MBC 뉴스"
+        "ko": "'전 종편 기자 명예훼손' 김어준 1심 벌금 2천만 원 - MBC 뉴스",
+        "en": "'전 종편 기자 명예훼손' 김어준 1심 벌금 2천만 원 - MBC 뉴스",
+        "zh": "'전 종편 기자 명예훼손' 김어준 1심 벌금 2천만 원 - MBC 뉴스"
       }
     },
     {
-      "title": "홍준표 “오세훈, 명태균 사건 빠져나가기 어려워…이진관 판사 정확” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1268224.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 14 Jul 2026 11:10:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0714/20260714502935.webp",
+      "title": "송영길 \"대통령과 싸워? 옛날이면 역적이라 목을…\" 정청래 \"섬뜩하고 무섭다\" - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/07/14/HTKBM5AYM5AFZEGLQVGQMEBIGI/",
+      "source": "조선일보",
+      "pubDate": "Tue, 14 Jul 2026 12:12:24 GMT",
+      "image": "https://www.chosun.com/resizer/v2/DFXC3QJFSBCLDHRVQSAUU2H6VE.jpg?auth=4d46193282a1584ed8da19304d14015a5b164bb01f1b27c7d702104c44a8d6cf&width=1000&height=525&smart=true",
       "summaries": {
-        "ko": "홍준표 “오세훈, 명태균 사건 빠져나가기 어려워…이진관 판사 정확” - 한겨레",
-        "en": "홍준표 “오세훈, 명태균 사건 빠져나가기 어려워…이진관 판사 정확” - 한겨레",
-        "zh": "홍준표 “오세훈, 명태균 사건 빠져나가기 어려워…이진관 판사 정확” - 한겨레"
+        "ko": "송영길 \"대통령과 싸워? 옛날이면 역적이라 목을…\" 정청래 \"섬뜩하고 무섭다\" - 조선일보",
+        "en": "송영길 \"대통령과 싸워? 옛날이면 역적이라 목을…\" 정청래 \"섬뜩하고 무섭다\" - 조선일보",
+        "zh": "송영길 \"대통령과 싸워? 옛날이면 역적이라 목을…\" 정청래 \"섬뜩하고 무섭다\" - 조선일보"
       }
     },
     {
-      "title": "[속보] 서울 동북·서북권 호우주의보…밤사이 집중호우",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260714230631uq5",
+      "title": "[속보] 트럼프 \"통행료 20%, 중동국과의 무역·투자협정으로 대체\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260715001153dU0",
       "source": "Breaking News",
-      "pubDate": "Tue, 14 Jul 2026 23:06:34 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260714/AKR20260714230631uq5_01_i.jpg",
+      "pubDate": "Wed, 15 Jul 2026 00:11:53 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260714/AKR20260715001153dU0_01_i.jpg",
       "summaries": {
-        "ko": "[속보] 서울 동북·서북권 호우주의보…밤사이 집중호우",
-        "en": "[속보] 서울 동북·서북권 호우주의보…밤사이 집중호우",
-        "zh": "[속보] 서울 동북·서북권 호우주의보…밤사이 집중호우"
-      }
-    },
-    {
-      "title": "[속보] 내년 최저임금 1만 700원…3.7% 인상",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260714230449ML0",
-      "source": "Breaking News",
-      "pubDate": "Tue, 14 Jul 2026 23:04:51 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260714/MYH20260714230449ML0.jpg",
-      "summaries": {
-        "ko": "[속보] 내년 최저임금 1만 700원…3.7% 인상",
-        "en": "[속보] 내년 최저임금 1만 700원…3.7% 인상",
-        "zh": "[속보] 내년 최저임금 1만 700원…3.7% 인상"
+        "ko": "[속보] 트럼프 \"통행료 20%, 중동국과의 무역·투자협정으로 대체\"",
+        "en": "[속보] 트럼프 \"통행료 20%, 중동국과의 무역·투자협정으로 대체\"",
+        "zh": "[속보] 트럼프 \"통행료 20%, 중동국과의 무역·투자협정으로 대체\""
       }
     }
   ]
