@@ -1,124 +1,148 @@
 {
-  "lastUpdate": "2026-07-14T12:09:46.860534",
+  "lastUpdate": "2026-07-14T14:09:03.971938",
   "items": [
     {
-      "title": "‘하층제트’ 효과 경기·강원 북부, 밤사이 강풍 동반 시간당 50㎜ 폭우 - 한겨레",
+      "title": "이 대통령 “집값보다 조세 정상화…개혁은 요란하면 실패” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1268253.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 14 Jul 2026 10:30:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0714/53_17840185030346_20260714503265.webp",
+      "summaries": {
+        "ko": "이재명 대통령은 부동산 세제 개혁의 1차 목표는 집값 안정보다 조세 정상화와 형평성이라 강조하며, 개혁은 요란하기보다 설득과 공감을 통해 실효적으로 추진되어야 한다고 밝혔다.",
+        "en": "President Lee Jae-myung emphasized that the primary goal of real estate tax reform is tax normalization and fairness rather than housing price stabilization, stressing that reforms should be effectively pursued through persuasion and consensus rather than a loud approach.",
+        "zh": "韩国总统李在明强调，房地产税制改革的首要目标是税制正常化和公平性，而非房价稳定，并指出改革应通过说服和共识有效推进，而非大张旗鼓地进行。"
+      }
+    },
+    {
+      "title": "미, 사흘 연속 이란 공습…호르무즈 해협 긴장 고조 - VOA 한국어 홈페이지",
+      "link": "https://www.voakorea.com/a/8171654.html",
+      "source": "VOA 한국어 홈페이지",
+      "pubDate": "Tue, 14 Jul 2026 12:48:38 GMT",
+      "image": "https://gdb.voanews.com/9d9997a4-4d26-4f86-c6f1-08decaecd3b3_w1200_h630.jpg",
+      "summaries": {
+        "ko": "미, 사흘 연속 이란 공습…호르무즈 해협 긴장 고조 - VOA 한국어 홈페이지",
+        "en": "미, 사흘 연속 이란 공습…호르무즈 해협 긴장 고조 - VOA 한국어 홈페이지",
+        "zh": "미, 사흘 연속 이란 공습…호르무즈 해협 긴장 고조 - VOA 한국어 홈페이지"
+      }
+    },
+    {
+      "title": "李대통령 “난 이제 집 없다”…분당 아파트 팔렸다 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260714/134297132/1",
+      "source": "동아일보",
+      "pubDate": "Tue, 14 Jul 2026 07:18:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/14/134295531.2.jpg",
+      "summaries": {
+        "ko": "李대통령 “난 이제 집 없다”…분당 아파트 팔렸다 - 동아일보",
+        "en": "李대통령 “난 이제 집 없다”…분당 아파트 팔렸다 - 동아일보",
+        "zh": "李대통령 “난 이제 집 없다”…분당 아파트 팔렸다 - 동아일보"
+      }
+    },
+    {
+      "title": "여당, 당대표 ‘선호투표제’로…경선 룰 갈등 일단락 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607142124005",
+      "source": "경향신문",
+      "pubDate": "Tue, 14 Jul 2026 12:24:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/14/l_2026071501000436900042751.jpg",
+      "summaries": {
+        "ko": "여당, 당대표 ‘선호투표제’로…경선 룰 갈등 일단락 - 경향신문",
+        "en": "여당, 당대표 ‘선호투표제’로…경선 룰 갈등 일단락 - 경향신문",
+        "zh": "여당, 당대표 ‘선호투표제’로…경선 룰 갈등 일단락 - 경향신문"
+      }
+    },
+    {
+      "title": "1500원 아이스크림 나눠 먹고… ‘특수절도범’ 된 발달장애인들 - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/07/14/QULHN2XVQ5GWTF3VNJSPEQRN5I/",
+      "source": "조선일보",
+      "pubDate": "Tue, 14 Jul 2026 04:55:23 GMT",
+      "image": "https://www.chosun.com/resizer/v2/G5RWKZDEGA3DIMZVGEYTMMDEME.jpg?auth=32a249d082669242bc938d2c2170cf87c1851a521944fcd2bd653fb27d0fd00e&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "1500원 아이스크림 나눠 먹고… ‘특수절도범’ 된 발달장애인들 - 조선일보",
+        "en": "1500원 아이스크림 나눠 먹고… ‘특수절도범’ 된 발달장애인들 - 조선일보",
+        "zh": "1500원 아이스크림 나눠 먹고… ‘특수절도범’ 된 발달장애인들 - 조선일보"
+      }
+    },
+    {
+      "title": "여당서 “보완수사권 폐지 우려” 분출 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607142147005",
+      "source": "경향신문",
+      "pubDate": "Tue, 14 Jul 2026 12:47:00 GMT",
+      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
+      "summaries": {
+        "ko": "여당서 “보완수사권 폐지 우려” 분출 - 경향신문",
+        "en": "여당서 “보완수사권 폐지 우려” 분출 - 경향신문",
+        "zh": "여당서 “보완수사권 폐지 우려” 분출 - 경향신문"
+      }
+    },
+    {
+      "title": "고비는 오늘 밤, 120㎜ 폭우에 강풍까지…태풍 ‘바비’ 비구름 온다 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/environment/1268181.html",
       "source": "한겨레",
       "pubDate": "Tue, 14 Jul 2026 09:22:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/590/imgdb/original/2026/0714/511784020073059.webp",
       "summaries": {
-        "ko": "열대저압부 영향과 하층제트 효과로 밤사이 경기 북부와 강원 북부 내륙에 강풍을 동반한 시간당 30~50mm의 폭우가 예보되어 안전에 유의해야 하며, 비가 그친 뒤에도 폭염과 열대야는 지속될 전망이다.",
-        "en": "Heavy rainfall of 30-50mm per hour, accompanied by strong winds, is forecast for northern Gyeonggi and northern Gangwon inland overnight due to the influence of a tropical depression and a low-level jet effect, requiring caution for safety, and heatwaves and tropical nights are expected to persist even after the rain subsides.",
-        "zh": "受热带低压和低层急流效应影响，京畿道北部和江原道北部内陆地区夜间将有强风伴随每小时30-50毫米的暴雨，需注意安全，降雨结束后高温和热带夜仍将持续。"
+        "ko": "고비는 오늘 밤, 120㎜ 폭우에 강풍까지…태풍 ‘바비’ 비구름 온다 - 한겨레",
+        "en": "고비는 오늘 밤, 120㎜ 폭우에 강풍까지…태풍 ‘바비’ 비구름 온다 - 한겨레",
+        "zh": "고비는 오늘 밤, 120㎜ 폭우에 강풍까지…태풍 ‘바비’ 비구름 온다 - 한겨레"
       }
     },
     {
-      "title": "\"오 시장님 어디 계세요?\" 비공개 전 갑자기 찾더니‥ [현장영상] - v.daum.net",
-      "link": "https://v.daum.net/v/20260714143408466",
-      "source": "v.daum.net",
-      "pubDate": "Tue, 14 Jul 2026 05:34:08 GMT",
-      "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/14/imbc/20260714143408246qyxi.jpg",
-      "summaries": {
-        "ko": "오세훈 서울시장은 국무회의에서 부동산 정책 발언 기회를 신청했으나 총리에 의해 거절당했다가, 비공개 전환 직전 이재명 대통령의 지목으로 발언 기회를 얻어 서울시 주택 행정 보고서의 중요성을 강조했다.",
-        "en": "Seoul Mayor Oh Se-hoon, initially denied a chance to speak on real estate policy at a cabinet meeting by the Prime Minister, was later called upon by President Lee Jae-myung just before the session went private, allowing him to emphasize the importance of his report on Seoul's housing administration.",
-        "zh": "首尔市长吴世勋在国务会议上最初被总理拒绝就房地产政策发言，但在会议转为非公开前，总统李在明点名让他发言，他借机强调了首尔市住房行政报告的重要性。"
-      }
-    },
-    {
-      "title": "李 대통령 ‘분당 아파트’ 팔렸다…매물 내놓은지 약 5개월만 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260714/134297132/1",
-      "source": "동아일보",
-      "pubDate": "Tue, 14 Jul 2026 07:18:47 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/14/134295531.2.jpg",
-      "summaries": {
-        "ko": "李 대통령 ‘분당 아파트’ 팔렸다…매물 내놓은지 약 5개월만 - 동아일보",
-        "en": "李 대통령 ‘분당 아파트’ 팔렸다…매물 내놓은지 약 5개월만 - 동아일보",
-        "zh": "李 대통령 ‘분당 아파트’ 팔렸다…매물 내놓은지 약 5개월만 - 동아일보"
-      }
-    },
-    {
-      "title": "與, '당대표 선호투표제' 채택키로…청년 최고위원 도입은 무산(종합2보) - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260714057852001",
-      "source": "연합뉴스",
-      "pubDate": "Tue, 14 Jul 2026 09:37:46 GMT",
-      "image": "https://img6.yna.co.kr/photo/cms/2026/07/14/40/PCM20260714000240990_P4.jpg",
-      "summaries": {
-        "ko": "더불어민주당은 당 대표 선거에 선호투표제를 도입하기로 결정했으나, 청년 최고위원 제도 도입은 무산되었고, 이 과정에서 친청계의 반발이 있었다.",
-        "en": "The Democratic Party of Korea has decided to adopt a preferential voting system for its party leader election, while the proposed introduction of a youth supreme council member was scrapped, leading to opposition from the pro-Jeong Cheong-rae faction.",
-        "zh": "韩国共同民主党决定在党代表选举中引入偏好投票制，但旨在加强2030世代代表性的青年最高委员制度未能实行，此举引来亲郑清莱系的反对。"
-      }
-    },
-    {
-      "title": "이 대통령, 촉법소년 토론하다 \"'이재명 소년원 얘기' 나오는 이유가...\" - OhmyNews",
-      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251249",
-      "source": "OhmyNews",
-      "pubDate": "Tue, 14 Jul 2026 03:50:00 GMT",
-      "image": "https://ojsfile.ohmynews.com/CRI_T_IMG/2026/0714/A0003251249_T.jpg",
-      "summaries": {
-        "ko": "이재명 대통령은 국무회의에서 촉법소년 연령 기준 하향 안건을 토론하며 소년범 기록 관리의 문제점과 반복 범죄 확인의 어려움을 지적하고, 국민 의견을 더 수렴하라며 최종 결론을 다음으로 미뤘다.",
-        "en": "During a cabinet meeting, President Lee Jae-myung debated lowering the age for juvenile offenders, raising concerns about juvenile record management and the difficulty of identifying repeat offenses, and deferred a decision for further public consultation.",
-        "zh": "在国务会议上，李在明总统讨论了降低触法少年年龄的议题，指出了少年犯记录管理问题和重复犯罪认定困难，并推迟了决定，指示进一步收集公众意见。"
-      }
-    },
-    {
-      "title": "발달장애인들 1500원짜리 아이스크림 훔쳤다고 ‘특수절도’ 송치한 경찰···논란에 “사회적 약자 고려할 것” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607141545001",
+      "title": "노 1만820원 vs 사 1만620원···11차 수정안 놓고 내년 최저임금 ‘협상 중’ - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607141954001",
       "source": "경향신문",
-      "pubDate": "Tue, 14 Jul 2026 06:45:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/14/news-p.v1.20260629.285a6c17e32043b7af5813e1b7c8d08b_P1.jpeg",
+      "pubDate": "Tue, 14 Jul 2026 10:54:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/14/news-p.v1.20260714.6b96336ece6e4c81a7075991cadc5d2b_P1.jpg",
       "summaries": {
-        "ko": "발달장애인들 1500원짜리 아이스크림 훔쳤다고 ‘특수절도’ 송치한 경찰···논란에 “사회적 약자 고려할 것” - 경향신문",
-        "en": "발달장애인들 1500원짜리 아이스크림 훔쳤다고 ‘특수절도’ 송치한 경찰···논란에 “사회적 약자 고려할 것” - 경향신문",
-        "zh": "발달장애인들 1500원짜리 아이스크림 훔쳤다고 ‘특수절도’ 송치한 경찰···논란에 “사회적 약자 고려할 것” - 경향신문"
+        "ko": "노 1만820원 vs 사 1만620원···11차 수정안 놓고 내년 최저임금 ‘협상 중’ - 경향신문",
+        "en": "노 1만820원 vs 사 1만620원···11차 수정안 놓고 내년 최저임금 ‘협상 중’ - 경향신문",
+        "zh": "노 1만820원 vs 사 1만620원···11차 수정안 놓고 내년 최저임금 ‘협상 중’ - 경향신문"
       }
     },
     {
-      "title": "이 대통령 \"초고가 주택 보유부담 강화는 1번\"…실시간 여론조사 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260714132013xb8",
-      "source": "연합뉴스TV",
-      "pubDate": "Tue, 14 Jul 2026 06:41:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260714/AKR20260714132013xb8_01_i.jpg",
+      "title": "오세훈 \"국무회의 발언 못해 아쉬워‥대통령 부동산 상황 인식 부족\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6837363_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Tue, 14 Jul 2026 07:33:04 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/14/jh_20260714_10.jpg",
       "summaries": {
-        "ko": "이 대통령 \"초고가 주택 보유부담 강화는 1번\"…실시간 여론조사 - 연합뉴스TV",
-        "en": "이 대통령 \"초고가 주택 보유부담 강화는 1번\"…실시간 여론조사 - 연합뉴스TV",
-        "zh": "이 대통령 \"초고가 주택 보유부담 강화는 1번\"…실시간 여론조사 - 연합뉴스TV"
+        "ko": "오세훈 \"국무회의 발언 못해 아쉬워‥대통령 부동산 상황 인식 부족\" - MBC 뉴스",
+        "en": "오세훈 \"국무회의 발언 못해 아쉬워‥대통령 부동산 상황 인식 부족\" - MBC 뉴스",
+        "zh": "오세훈 \"국무회의 발언 못해 아쉬워‥대통령 부동산 상황 인식 부족\" - MBC 뉴스"
       }
     },
     {
-      "title": "서영교 “김학의 사건은 검사가 보완수사로 다 덮은 것” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260714/134296188/1",
-      "source": "동아일보",
-      "pubDate": "Tue, 14 Jul 2026 05:57:36 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/14/133675673.1.jpg",
-      "summaries": {
-        "ko": "서영교 “김학의 사건은 검사가 보완수사로 다 덮은 것” - 동아일보",
-        "en": "서영교 “김학의 사건은 검사가 보완수사로 다 덮은 것” - 동아일보",
-        "zh": "서영교 “김학의 사건은 검사가 보완수사로 다 덮은 것” - 동아일보"
-      }
-    },
-    {
-      "title": "이 대통령 “임신중단약 도입 방치 무책임…투약할 수 있게 해야” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1268173.html",
+      "title": "홍준표 “오세훈, 명태균 사건 빠져나가기 어려워…이진관 판사 정확” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1268224.html",
       "source": "한겨레",
-      "pubDate": "Tue, 14 Jul 2026 06:23:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/376/imgdb/original/2026/0714/20260714501690.webp",
+      "pubDate": "Tue, 14 Jul 2026 11:10:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0714/20260714502935.webp",
       "summaries": {
-        "ko": "이 대통령 “임신중단약 도입 방치 무책임…투약할 수 있게 해야” - 한겨레",
-        "en": "이 대통령 “임신중단약 도입 방치 무책임…투약할 수 있게 해야” - 한겨레",
-        "zh": "이 대통령 “임신중단약 도입 방치 무책임…투약할 수 있게 해야” - 한겨레"
+        "ko": "홍준표 “오세훈, 명태균 사건 빠져나가기 어려워…이진관 판사 정확” - 한겨레",
+        "en": "홍준표 “오세훈, 명태균 사건 빠져나가기 어려워…이진관 판사 정확” - 한겨레",
+        "zh": "홍준표 “오세훈, 명태균 사건 빠져나가기 어려워…이진관 판사 정확” - 한겨레"
       }
     },
     {
-      "title": "종합특검, '관저 조작 감사' 유병호 구속영장 청구",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260714210722FE9",
+      "title": "[속보] 서울 동북·서북권 호우주의보…밤사이 집중호우",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260714230631uq5",
       "source": "Breaking News",
-      "pubDate": "Tue, 14 Jul 2026 21:07:22 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260714/MYH20260714210722FE9.jpg",
+      "pubDate": "Tue, 14 Jul 2026 23:06:34 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260714/AKR20260714230631uq5_01_i.jpg",
       "summaries": {
-        "ko": "종합특검, '관저 조작 감사' 유병호 구속영장 청구",
-        "en": "종합특검, '관저 조작 감사' 유병호 구속영장 청구",
-        "zh": "종합특검, '관저 조작 감사' 유병호 구속영장 청구"
+        "ko": "[속보] 서울 동북·서북권 호우주의보…밤사이 집중호우",
+        "en": "[속보] 서울 동북·서북권 호우주의보…밤사이 집중호우",
+        "zh": "[속보] 서울 동북·서북권 호우주의보…밤사이 집중호우"
+      }
+    },
+    {
+      "title": "[속보] 내년 최저임금 1만 700원…3.7% 인상",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260714230449ML0",
+      "source": "Breaking News",
+      "pubDate": "Tue, 14 Jul 2026 23:04:51 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260714/MYH20260714230449ML0.jpg",
+      "summaries": {
+        "ko": "[속보] 내년 최저임금 1만 700원…3.7% 인상",
+        "en": "[속보] 내년 최저임금 1만 700원…3.7% 인상",
+        "zh": "[속보] 내년 최저임금 1만 700원…3.7% 인상"
       }
     }
   ]
