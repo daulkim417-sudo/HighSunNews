@@ -1,52 +1,28 @@
 {
-  "lastUpdate": "2026-07-15T09:34:29.376135",
+  "lastUpdate": "2026-07-15T11:13:18.888928",
   "items": [
     {
-      "title": "경찰청 특수단 “장윤기 수사팀, 강간 살인죄 의도적 배제…이유는 수사 중” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/honam/1268350.html",
+      "title": "대법, 김건희 ‘주가조작·무상 여론조사’ 선고 24일로 연기 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1268337.html",
       "source": "한겨레",
-      "pubDate": "Wed, 15 Jul 2026 05:32:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/591/imgdb/original/2026/0715/20260715501746.webp",
+      "pubDate": "Wed, 15 Jul 2026 07:30:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/480/imgdb/original/2026/0715/20260715501305.webp",
       "summaries": {
-        "ko": "경찰청 특수단이 장윤기 사건 수사팀장을 성적 동기 관련 증거를 의도적으로 배제하고 수사 범위를 제한하는 등 사건을 축소 수사한 혐의로 검찰에 송치했다.",
-        "en": "The National Office of Investigation's special task force has referred the investigation team leader of the Jang Yun-gi case to the prosecution for intentionally downplaying the case by excluding evidence related to sexual motives and restricting the scope of investigation.",
-        "zh": "韩国警察厅特别调查团以故意排除性动机相关证据并限制调查范围，从而缩小调查规模的嫌疑，将张润基案件的调查组长移送检察机关。"
+        "ko": "대법원이 김건희 여사의 도이치모터스 주가조작 및 무상 여론조사 혐의 상고심 선고기일을 특검팀의 요청을 받아들여 16일에서 24일로 연기했다.",
+        "en": "The Supreme Court has postponed the sentencing date for Kim Keon-hee's appeal in the Deutsch Motors stock manipulation and free public opinion poll case from the 16th to the 24th, accepting the special prosecutor's team's request.",
+        "zh": "韩国大法院应特别检察组的请求，将金建希女士涉嫌操纵德意志汽车股价和免费民意调查案的上诉判决日期从16日推迟至24日。"
       }
     },
     {
-      "title": "급거 귀국한 강경화 주미대사 “쿠팡, 제 생각보다 훨씬 오래가는 이슈” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607151517001",
-      "source": "경향신문",
-      "pubDate": "Wed, 15 Jul 2026 06:17:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/15/news-p.v1.20260715.859a8337922649cab30b6d3150f4be4d_P1.jpeg",
+      "title": "강경화 “쿠팡 사태, 생각보다 오래가”…일시 귀국 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260715/134304698/1",
+      "source": "동아일보",
+      "pubDate": "Wed, 15 Jul 2026 07:34:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/15/134305283.1.jpg",
       "summaries": {
-        "ko": "급거 귀국한 강경화 주미대사는 쿠팡 문제가 예상보다 훨씬 오래가는 이슈라고 언급하며, 미국의 압박과 대미 투자 현안 해결을 위해 한국 정부 부처들과 계속 협의 중이라고 밝혔다.",
-        "en": "Ambassador Kang Kyung-wha, who made an urgent return to Korea, stated that the Coupang issue is a much longer-lasting concern than she expected, and confirmed ongoing consultations with various Korean government ministries to address U.S. pressure regarding Coupang and matters related to U.S. investment.",
-        "zh": "紧急回国的韩国驻美大使姜京和表示，Coupang问题是比她预想的要持续更久的问题，并确认正在与韩国各政府部门就美国对Coupang的压力以及对美投资相关事项进行持续协商。"
-      }
-    },
-    {
-      "title": "[해설] 김건희 선고 하루 전 '8일 연기'... 대법원이 다시 보게 된 '명태균 여론조사' - OhmyNews",
-      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251595",
-      "source": "OhmyNews",
-      "pubDate": "Wed, 15 Jul 2026 04:36:00 GMT",
-      "image": "https://ojsfile.ohmynews.com/CRI_T_IMG/2026/0715/A0003251595_T.jpg",
-      "summaries": {
-        "ko": "김건희 씨의 대법원 상고심 선고가 특검의 요청을 받아 윤석열 전 대통령의 관련 유죄 판결 검토를 위해 선고 하루 전 8일 연기되었으며, 이는 법정 시한을 고려한 대법원의 결정이다.",
-        "en": "The Supreme Court postponed Kim Keon-hee's appeal verdict by eight days, just one day before its scheduled date, at the special prosecutor's request to review former President Yoon Suk-yeol's related political funds law conviction, a decision made while considering legal deadlines.",
-        "zh": "最高法院应特检组请求，在金建希女士原定判决日前一天，将其上诉宣判推迟了八天，以便审查前总统尹锡悦相关的政治献金法有罪判决，此决定兼顾了法定审判期限。"
-      }
-    },
-    {
-      "title": "유시민 \"이 대통령, 매우 잘못된 판단하고 있다‥실패로 끝날 것\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6837680_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Wed, 15 Jul 2026 08:26:46 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/15/jh_20260715_20.jpg",
-      "summaries": {
-        "ko": "범여권 논객 유시민 작가는 이재명 대통령이 '매우 잘못된 판단'으로 위험한 정치 노선을 택해 실패할 것이라고 비판하며, 특히 정계 개편 시도와 검찰 개혁 회피, 주요 인사 개입 등이 국가와 대통령 권위를 해칠 것이라고 주장했습니다.",
-        "en": "Political commentator Yoo Si-min sharply criticized President Lee Jae-myung, asserting that Lee is making \"very wrong judgments\" and pursuing a dangerous political path that will end in failure, citing alleged attempts at political realignment, avoidance of full judicial reform, and interference in key appointments, which Yoo believes harms the nation and undermines the President's authority.",
-        "zh": "政治评论员柳时敏严厉批评李在明总统正在做出“非常错误的判断”，并选择了将以失败告终的危险政治路线，指出李总统涉嫌试图进行政界重组、回避检察改革问题以及干预关键人事任免，柳时敏认为这损害了国家利益并削弱了总统的权威。"
+        "ko": "강경화 “쿠팡 사태, 생각보다 오래가”…일시 귀국 - 동아일보",
+        "en": "강경화 “쿠팡 사태, 생각보다 오래가”…일시 귀국 - 동아일보",
+        "zh": "강경화 “쿠팡 사태, 생각보다 오래가”…일시 귀국 - 동아일보"
       }
     },
     {
@@ -56,69 +32,105 @@
       "pubDate": "Wed, 15 Jul 2026 06:44:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/581/imgdb/child/2026/0715/53_17840975130364_20260715502420.webp",
       "summaries": {
-        "ko": "트럼프 전 대통령이 호르무즈 해협 통행 선박에 20% 통행료를 부과하려다 참모와 동맹국까지 놀라게 한 채 하루 만에 철회하고 중동 국가들과의 무역 협정으로 대체하겠다고 번복했으나, 이러한 충동적인 결정은 미국의 신뢰를 훼손했다는 비판을 받았다.",
-        "en": "Former President Trump's impulsive decision to impose a 20% toll on ships in the Strait of Hormuz, which he reversed within a day to replace with trade agreements with Middle Eastern countries, surprised even his staff and allies, drawing criticism for undermining US credibility.",
-        "zh": "前总统特朗普冲动决定对霍尔木兹海峡船只征收20%通行费，但在幕僚和盟友的震惊中，他一天内撤销了该计划，并改为与中东国家签订贸易投资协定，此举引发了对其损害美国信誉的批评。"
+        "ko": "트럼프 대통령이 호르무즈해협 통행료 20% 부과를 전격 발표했다가 참모와 동맹국들의 만류에 하루 만에 철회하며 미국의 신뢰를 훼손하고 전 세계에 혼란을 주었다.",
+        "en": "Donald Trump's impulsive announcement of a controversial 20% Strait of Hormuz toll, which surprised his staff and allies and was reversed the next day for vague trade deals, drew criticism for undermining U.S. credibility and causing global confusion.",
+        "zh": "特朗普总统冲动宣布对霍尔木兹海峡征收20%的通行费，令其幕僚和盟友震惊，但第二天又撤回，转而支持模糊的贸易协议，此举因损害美国信誉并造成全球混乱而受到批评。"
       }
     },
     {
-      "title": "박지원 “보완수사권 반대 입장 수정…여성·청소년 범죄엔 있어야” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260715/134303591/2",
-      "source": "동아일보",
-      "pubDate": "Wed, 15 Jul 2026 05:12:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/15/134303721.1.jpg",
+      "title": "돌려차기·집단 성폭행 피해자... \"보완수사가 구원과도 같았다\" - 조선일보",
+      "link": "https://www.chosun.com/national/court_law/2026/07/15/EDKKL27IP5AW3LZUUWMXZVF5U4/",
+      "source": "조선일보",
+      "pubDate": "Wed, 15 Jul 2026 08:52:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/ZG66TPIFCRCCVCDOLUPJEMTHCI.jpg?auth=e0d7ac4adf1d8cbd6bfb4321e8ba740f1235975ef02104af75d351d3f5c9c8de&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "박지원 “보완수사권 반대 입장 수정…여성·청소년 범죄엔 있어야” - 동아일보",
-        "en": "박지원 “보완수사권 반대 입장 수정…여성·청소년 범죄엔 있어야” - 동아일보",
-        "zh": "박지원 “보완수사권 반대 입장 수정…여성·청소년 범죄엔 있어야” - 동아일보"
+        "ko": "돌려차기·집단 성폭행 피해자... \"보완수사가 구원과도 같았다\" - 조선일보",
+        "en": "돌려차기·집단 성폭행 피해자... \"보완수사가 구원과도 같았다\" - 조선일보",
+        "zh": "돌려차기·집단 성폭행 피해자... \"보완수사가 구원과도 같았다\" - 조선일보"
       }
     },
     {
-      "title": "이 대통령 “대통령 ‘지 혼자 최신 소총 자랑’ 엉터리 기사, 즉각 팩트체크 시스템” 주문 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607151139001",
-      "source": "경향신문",
-      "pubDate": "Wed, 15 Jul 2026 02:39:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/15/news-p.v1.20260715.b02e45a7925a4c21a49a287e76dae13e_P1.jpeg",
+      "title": "유시민 \"이 대통령, 매우 잘못된 판단하고 있다‥실패로 끝날 것\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6837680_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Wed, 15 Jul 2026 08:26:46 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/15/jh_20260715_20.jpg",
       "summaries": {
-        "ko": "이재명 대통령이 '대통령 혼자 최신 소총을 자랑한다'는 엉터리 기사를 비판하며, 가짜뉴스에 대응하기 위한 즉각적인 팩트체크 시스템 도입을 주문했다.",
-        "en": "President Lee Jae-myung criticized a \"nonsense article\" about him boasting a latest rifle while soldiers used old ones, ordering the immediate implementation of a fact-checking system to combat fake news.",
-        "zh": "李在明总统批评了一篇关于他炫耀最新步枪而士兵使用旧步枪的“胡说八道”文章，并下令立即引入事实核查系统以打击假新闻。"
+        "ko": "유시민 작가는 이재명 대통령이 문재인 전 대통령 공격, 검찰 개혁 회피, 주요 인사 개입 등 매우 잘못된 판단으로 위험한 노선을 걷고 있으며, 이는 결국 실패와 함께 대통령과 나라에 참혹한 결과를 초래할 것이라고 비판했다.",
+        "en": "Writer Yoo Si-min criticized President Lee Jae-myung for taking a dangerous path with very wrong judgments, including attacking former President Moon Jae-in, avoiding prosecutorial reform, and intervening in key appointments, asserting that this would ultimately lead to failure and catastrophic consequences for the President and the country.",
+        "zh": "作家柳时敏批评总统李在明因错误判断，包括攻击前总统文在寅、回避检察改革以及干预主要人事任命等，正走上危险道路，并主张这将最终导致失败，给总统和国家带来灾难性后果。"
       }
     },
     {
-      "title": "124표차 충주시장 재검표 시작부터 '충돌'…소동 속 30분 지연 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260715110700064",
+      "title": "경찰청 특수단 “장윤기 수사팀, 강간 살인죄 의도적 배제…이유는 수사 중” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/honam/1268350.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 15 Jul 2026 05:32:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/591/imgdb/original/2026/0715/20260715501746.webp",
+      "summaries": {
+        "ko": "경찰청 특수단은 장윤기 살인 사건 수사팀장이 성적 동기 증거(리얼돌, 케이블타이 등)를 의도적으로 배제하고 축소 수사한 혐의로 검찰에 구속 송치했다고 밝혔다.",
+        "en": "The National Police Agency's special investigation team announced that they have transferred the lead investigator of the Jang Yun-gi murder case to the prosecution, accusing him of intentionally excluding evidence related to sexual motives (such as a \"real doll\" and cable ties) and downplaying the investigation.",
+        "zh": "韩国警察厅特别调查团宣布，已将张允基杀人案的调查组负责人移交检方，指控其故意排除与性动机相关的证据（如“真人娃娃”和束线带）并缩小调查范围。"
+      }
+    },
+    {
+      "title": "충주시장 지방선거 첫 재검표…역대 재검표 당락 뒤집힌 사례는 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260715136300064",
       "source": "연합뉴스",
-      "pubDate": "Wed, 15 Jul 2026 05:32:56 GMT",
-      "image": "https://img1.yna.co.kr/photo/yna/YH/2026/07/15/PYH2026071514490006400_P4.jpg",
+      "pubDate": "Wed, 15 Jul 2026 06:53:32 GMT",
+      "image": "https://img4.yna.co.kr/photo/yna/YH/2026/07/15/PYH2026071514260006400_P4.jpg",
       "summaries": {
-        "ko": "124표차 충주시장 재검표 시작부터 '충돌'…소동 속 30분 지연 - 연합뉴스",
-        "en": "124표차 충주시장 재검표 시작부터 '충돌'…소동 속 30분 지연 - 연합뉴스",
-        "zh": "124표차 충주시장 재검표 시작부터 '충돌'…소동 속 30분 지연 - 연합뉴스"
+        "ko": "충주시장 선거의 첫 재검표가 진행되는 가운데, 2000년대 이후 전자 개표 시스템 도입 후 당락이 뒤집힌 재검표 사례는 없지만 1990년대 수작업 개표 시기에는 당선자가 바뀐 경우가 있었다는 점이 재조명되고 있다.",
+        "en": "As the first recount for the Chungju mayoral election proceeds, it highlights that while no recounts have overturned election outcomes since the introduction of electronic counting systems in the 2000s, there were instances of winners changing during the manual counting era of the 1990s.",
+        "zh": "随着忠州市市长选举首次重新计票的进行，引人关注的是，自2000年代引入电子计票系统以来，重新计票从未改变过选举结果，但在1990年代手动计票时期，曾出现当选者被替换的情况。"
       }
     },
     {
-      "title": "화물연대 집회서 바리케이드 차량 돌진…60대 조합원 집행유예",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260715182433VA9",
-      "source": "Breaking News",
-      "pubDate": "Wed, 15 Jul 2026 18:24:36 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260715/AKR20260715182433VA9_01_i.jpg",
+      "title": "김민석 \"청년과 접촉 전면화할 것‥꼰대처럼 보인다는 것 인정해야\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6837646_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Wed, 15 Jul 2026 05:33:54 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/15/jh_20260715_2.jpg",
       "summaries": {
-        "ko": "화물연대 집회서 바리케이드 차량 돌진…60대 조합원 집행유예",
-        "en": "화물연대 집회서 바리케이드 차량 돌진…60대 조합원 집행유예",
-        "zh": "화물연대 집회서 바리케이드 차량 돌진…60대 조합원 집행유예"
+        "ko": "더불어민주당 당권주자 김민석 전 국무총리는 청년과의 접촉을 전면화하고 청년 친화적 정당으로 거듭나야 한다고 강조하며, 당의 '꼰대 문화'를 인정하고 과감한 문화적 혁신을 통해 미래를 찾아야 한다고 밝혔다.",
+        "en": "Democratic Party leadership candidate Kim Min-seok, a former Prime Minister, emphasized the need for the party to fully engage with youth and transform into a youth-friendly party, acknowledging its '꼰대 culture' and advocating for bold cultural innovation to secure its future.",
+        "zh": "民主党党权竞争者金珉奭前国务总理强调，为党的未来必须全面扩大与青年群体的接触，将党转变为青年友好型政党，并承认党内存在“꼰대文化”，呼吁进行大胆的文化革新。"
       }
     },
     {
-      "title": "세계유산위, 日에 \"사도광산 강제노동 역사 충분히 다뤄라\" 권고",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260715182046eKd",
-      "source": "Breaking News",
-      "pubDate": "Wed, 15 Jul 2026 18:20:47 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260715/AKR20260715182046eKd_01_i.jpg",
+      "title": "국민참여단 앞에서…이 대통령, ‘조선일보 K2 기사’ 거론 “엉터리” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1268421.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 15 Jul 2026 08:50:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0715/53_17841048366427_20260715503131.webp",
       "summaries": {
-        "ko": "세계유산위, 日에 \"사도광산 강제노동 역사 충분히 다뤄라\" 권고",
-        "en": "세계유산위, 日에 \"사도광산 강제노동 역사 충분히 다뤄라\" 권고",
-        "zh": "세계유산위, 日에 \"사도광산 강제노동 역사 충분히 다뤄라\" 권고"
+        "ko": "국민참여단 앞에서…이 대통령, ‘조선일보 K2 기사’ 거론 “엉터리” - 한겨레",
+        "en": "국민참여단 앞에서…이 대통령, ‘조선일보 K2 기사’ 거론 “엉터리” - 한겨레",
+        "zh": "국민참여단 앞에서…이 대통령, ‘조선일보 K2 기사’ 거론 “엉터리” - 한겨레"
+      }
+    },
+    {
+      "title": "[앵커리포트] 태풍에 중국 물난리…드론으로 주민 구조 눈길",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260715200639Pue",
+      "source": "Breaking News",
+      "pubDate": "Wed, 15 Jul 2026 20:06:40 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260715/MYH20260715200639Pue.jpg",
+      "summaries": {
+        "ko": "[앵커리포트] 태풍에 중국 물난리…드론으로 주민 구조 눈길",
+        "en": "[앵커리포트] 태풍에 중국 물난리…드론으로 주민 구조 눈길",
+        "zh": "[앵커리포트] 태풍에 중국 물난리…드론으로 주민 구조 눈길"
+      }
+    },
+    {
+      "title": "종합특검 '3차 연장'…보완수사 폐지 이견 계속",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260715193603kA4",
+      "source": "Breaking News",
+      "pubDate": "Wed, 15 Jul 2026 19:36:03 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260715/MYH20260715193603kA4.jpg",
+      "summaries": {
+        "ko": "종합특검 '3차 연장'…보완수사 폐지 이견 계속",
+        "en": "종합특검 '3차 연장'…보완수사 폐지 이견 계속",
+        "zh": "종합특검 '3차 연장'…보완수사 폐지 이견 계속"
       }
     }
   ]
