@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-16T15:49:30.071924",
+  "lastUpdate": "2026-07-16T16:55:25.406906",
   "items": [
     {
       "title": "여당 의원들 “DJ 때도 패악질” “저주의 언어”…유시민에 격앙 - 경향신문",
@@ -8,9 +8,9 @@
       "pubDate": "Thu, 16 Jul 2026 12:31:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/07/16/l_2026071701000510900051061.jpg",
       "summaries": {
-        "ko": "더불어민주당 의원들이 유시민 작가의 \"이재명 대통령은 필연적 실패의 길로 가고 있다\"는 발언에 대해 \"저주의 언어\"라며 강하게 비판하며, 전당대회를 앞두고 특정 세력을 결집하려는 의도라고 지적했다.",
-        "en": "Democratic Party members are fiercely criticizing writer Yoo Si-min for his remarks that \"President Lee Jae-myung is heading for an inevitable path of failure,\" calling them \"words of curse\" and suggesting they are intended to rally specific factions ahead of the party convention.",
-        "zh": "执政党议员们猛烈抨击作家柳时敏关于“李在明总统必然走向失败”的言论，称其为“诅咒之语”，并指出此举旨在党代会前夕集结特定势力。"
+        "ko": "범여권 빅스피커인 유시민 작가가 이재명 대통령의 정부가 '필연적 실패의 길로 가고 있다'고 발언하자 더불어민주당 의원들이 '저주의 언어'라며 강하게 비판하며 전당대회를 앞두고 강성 당원들을 결집하려는 의도가 있다고 해석하고 있습니다.",
+        "en": "Prominent writer Yoo Si-min's statement that President Lee Jae-myung's government is \"doomed to fail\" has drawn strong criticism from Democratic Party lawmakers, who view it as a \"curse\" and a strategic move to rally support among hardline members ahead of the party convention.",
+        "zh": "知名作家柳时敏发表“李在明政府必将失败”的言论，引发共同民主党议员的强烈批评，他们认为这是“诅咒之语”，并解读为在党代会前夕为凝聚强硬派党员而采取的策略性举动。"
       }
     },
     {
@@ -26,34 +26,10 @@
       }
     },
     {
-      "title": "정부, ‘14살 미만’ SNS 가입 제한 추진…‘과몰입’ 알고리즘 규제도 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/media/1268641.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 16 Jul 2026 12:11:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/727/436/imgdb/child/2026/0716/53_17841973687782_6317046868541991.webp",
-      "summaries": {
-        "ko": "정부, ‘14살 미만’ SNS 가입 제한 추진…‘과몰입’ 알고리즘 규제도 - 한겨레",
-        "en": "정부, ‘14살 미만’ SNS 가입 제한 추진…‘과몰입’ 알고리즘 규제도 - 한겨레",
-        "zh": "정부, ‘14살 미만’ SNS 가입 제한 추진…‘과몰입’ 알고리즘 규제도 - 한겨레"
-      }
-    },
-    {
-      "title": "[속보]‘윤석열 석방 지휘’ 심우정 전 검찰총장 구속영장 기각 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607162301001",
-      "source": "경향신문",
-      "pubDate": "Thu, 16 Jul 2026 14:01:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/16/news-p.v1.20260716.cf01b45f35fe4f4e861ebd075e13669f_P1.jpg",
-      "summaries": {
-        "ko": "[속보]‘윤석열 석방 지휘’ 심우정 전 검찰총장 구속영장 기각 - 경향신문",
-        "en": "[속보]‘윤석열 석방 지휘’ 심우정 전 검찰총장 구속영장 기각 - 경향신문",
-        "zh": "[속보]‘윤석열 석방 지휘’ 심우정 전 검찰총장 구속영장 기각 - 경향신문"
-      }
-    },
-    {
       "title": "‘복당 6개월 미만’ 송영길 출마 불가?…심야 최고위 결론 못 내 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1268663.html",
       "source": "한겨레",
-      "pubDate": "Thu, 16 Jul 2026 15:18:00 GMT",
+      "pubDate": "Thu, 16 Jul 2026 15:28:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0717/20260717500008.webp",
       "summaries": {
         "ko": "‘복당 6개월 미만’ 송영길 출마 불가?…심야 최고위 결론 못 내 - 한겨레",
@@ -62,63 +38,87 @@
       }
     },
     {
-      "title": "[속보] 단일종목 레버리지 상품 기본 예탁금 1000만→3000만원 상향 - 뉴스핌",
-      "link": "https://www.newspim.com/news/view/20260716001025",
-      "source": "뉴스핌",
-      "pubDate": "Thu, 16 Jul 2026 07:11:00 GMT",
-      "image": "https://img.newspim.com/news/2026/07/16/2607161611093861_tc.jpg",
+      "title": "[속보]‘윤석열 석방 지휘’ 심우정 전 검찰총장 구속영장 기각…“증거인멸 염려 소명 부족” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607162301001",
+      "source": "경향신문",
+      "pubDate": "Thu, 16 Jul 2026 14:01:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/16/news-p.v1.20260716.cf01b45f35fe4f4e861ebd075e13669f_P1.jpg",
       "summaries": {
-        "ko": "[속보] 단일종목 레버리지 상품 기본 예탁금 1000만→3000만원 상향 - 뉴스핌",
-        "en": "[속보] 단일종목 레버리지 상품 기본 예탁금 1000만→3000만원 상향 - 뉴스핌",
-        "zh": "[속보] 단일종목 레버리지 상품 기본 예탁금 1000만→3000만원 상향 - 뉴스핌"
+        "ko": "윤석열 전 대통령 석방 지휘 및 내란 협조 혐의를 받는 심우정 전 검찰총장에 대한 구속영장이 \"증거인멸 염려 소명 부족\"을 이유로 기각되어 종합특검의 수사에 차질이 생겼다.",
+        "en": "The Seoul Central District Court dismissed the arrest warrant for former Prosecutor General Shim Woo-jung, who is accused of ordering the release of former President Yoon Suk-yeol and collaborating in the 12.3 rebellion, citing insufficient grounds for concern about evidence destruction, thus hindering the special prosecution's investigation.",
+        "zh": "首尔中央地方法院驳回了对前检察总长沈愚正的逮捕令，沈愚正被指控指挥释放前总统尹锡悦并协助“12·3内乱”，法院给出的理由是“毁灭证据的担忧证据不足”，这给特别检察官的调查带来了挫折。"
       }
     },
     {
-      "title": "이 대통령 “선거 때문에 주식 마구 사서 주가 올렸냐”…연금공단 “아니다” - 매일경제",
-      "link": "https://www.mk.co.kr/news/politics/12100699",
-      "source": "매일경제",
-      "pubDate": "Thu, 16 Jul 2026 11:51:32 GMT",
-      "image": "https://pimg.mk.co.kr/news/cms/202607/16/news-p.v1.20260716.1cf3e992f45444e886e6ff40ba19e518_R.jpg",
-      "summaries": {
-        "ko": "이 대통령 “선거 때문에 주식 마구 사서 주가 올렸냐”…연금공단 “아니다” - 매일경제",
-        "en": "이 대통령 “선거 때문에 주식 마구 사서 주가 올렸냐”…연금공단 “아니다” - 매일경제",
-        "zh": "이 대통령 “선거 때문에 주식 마구 사서 주가 올렸냐”…연금공단 “아니다” - 매일경제"
-      }
-    },
-    {
-      "title": "민주 ‘보완수사권 갈등’ 확산…강성 당원들 ‘문자 폭탄’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1268614.html",
+      "title": "외교부 “쿠팡 문제, 한미 관계 부담 안 되도록 지속 관리” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1268624.html",
       "source": "한겨레",
-      "pubDate": "Thu, 16 Jul 2026 10:26:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/538/imgdb/original/2026/0716/20260716503246.webp",
+      "pubDate": "Thu, 16 Jul 2026 09:01:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/864/575/imgdb/original/2026/0716/20260716503301.webp",
       "summaries": {
-        "ko": "민주 ‘보완수사권 갈등’ 확산…강성 당원들 ‘문자 폭탄’ - 한겨레",
-        "en": "민주 ‘보완수사권 갈등’ 확산…강성 당원들 ‘문자 폭탄’ - 한겨레",
-        "zh": "민주 ‘보완수사권 갈등’ 확산…강성 당원들 ‘문자 폭탄’ - 한겨레"
+        "ko": "외교부 “쿠팡 문제, 한미 관계 부담 안 되도록 지속 관리” - 한겨레",
+        "en": "외교부 “쿠팡 문제, 한미 관계 부담 안 되도록 지속 관리” - 한겨레",
+        "zh": "외교부 “쿠팡 문제, 한미 관계 부담 안 되도록 지속 관리” - 한겨레"
       }
     },
     {
-      "title": "미성년자 성매매 의혹 최영중 청주시의원 의원직 사퇴 - 조선일보",
-      "link": "https://www.chosun.com/national/regional/chungcheong/2026/07/16/QTDDWUG6TJADHMKLDINJMSGTXM/",
+      "title": "미국, 이란 심장부 테헤란 코앞까지 타격했다...미군 VS 혁명수비대 전면전 치닫나 - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/07/16/C4YLPKQSLJA7XND2CKH3OX7KCY/",
       "source": "조선일보",
-      "pubDate": "Thu, 16 Jul 2026 08:08:55 GMT",
-      "image": "https://www.chosun.com/resizer/v2/G4ZWIOBQGIYWKNJXMQYWINJSGI.jpg?auth=56110397debe3d32a591bd154adec61705071a4b5bdb42ffa30ed18152849867&width=413&height=216&focal=188,209",
+      "pubDate": "Thu, 16 Jul 2026 14:04:45 GMT",
+      "image": "https://www.chosun.com/resizer/v2/M6NCFYHZZZKV5PMPQNF2H5DVQQ.jpg?auth=04772bce22f6e29fe5c017ce0562b836ff1e38956bdc73262663213b7f36e6d3&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "미성년자 성매매 의혹 최영중 청주시의원 의원직 사퇴 - 조선일보",
-        "en": "미성년자 성매매 의혹 최영중 청주시의원 의원직 사퇴 - 조선일보",
-        "zh": "미성년자 성매매 의혹 최영중 청주시의원 의원직 사퇴 - 조선일보"
+        "ko": "미국, 이란 심장부 테헤란 코앞까지 타격했다...미군 VS 혁명수비대 전면전 치닫나 - 조선일보",
+        "en": "미국, 이란 심장부 테헤란 코앞까지 타격했다...미군 VS 혁명수비대 전면전 치닫나 - 조선일보",
+        "zh": "미국, 이란 심장부 테헤란 코앞까지 타격했다...미군 VS 혁명수비대 전면전 치닫나 - 조선일보"
       }
     },
     {
-      "title": "트럼프 행정부 \"미 체류 유학생 비자 4년 제한\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260717003832EDt",
-      "source": "Breaking News",
-      "pubDate": "Fri, 17 Jul 2026 00:38:33 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260716/MYH20260717003832EDt.jpg",
+      "title": "단일종목 레버리지 예탁금 현금 3천만 원 강화‥20주씩 매매 가능 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/econo/article/6837966_36932.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Thu, 16 Jul 2026 07:47:03 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/econo/article/__icsFiles/afieldfile/2026/07/16/joo260716_10.jpg",
       "summaries": {
-        "ko": "트럼프 행정부 \"미 체류 유학생 비자 4년 제한\"",
-        "en": "트럼프 행정부 \"미 체류 유학생 비자 4년 제한\"",
-        "zh": "트럼프 행정부 \"미 체류 유학생 비자 4년 제한\""
+        "ko": "단일종목 레버리지 ETF 투자 규제가 강화되어, 기본 예탁금이 현금 3천만 원으로 상향되고 매매 단위가 20주로 확대되며, 괴리율 관리 의무 및 투자자 교육 시간도 늘어난다.",
+        "en": "Regulations for single-stock leveraged ETF investments are being strengthened, increasing the minimum deposit to 30 million KRW in cash, expanding the trading unit to 20 shares, and extending tracking error management obligations and investor education hours.",
+        "zh": "单只股票杠杆ETF的投资规定得到强化，基本保证金提高到3000万韩元现金，交易单位扩大到20股，乖离率管理义务和投资者教育时间也随之增加。"
+      }
+    },
+    {
+      "title": "이 대통령, 쿠팡 과징금에 “표적 아니다, 법과 방침 따른 것” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1268605.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 16 Jul 2026 10:32:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/448/imgdb/original/2026/0716/20260716503188.webp",
+      "summaries": {
+        "ko": "이 대통령, 쿠팡 과징금에 “표적 아니다, 법과 방침 따른 것” - 한겨레",
+        "en": "이 대통령, 쿠팡 과징금에 “표적 아니다, 법과 방침 따른 것” - 한겨레",
+        "zh": "이 대통령, 쿠팡 과징금에 “표적 아니다, 법과 방침 따른 것” - 한겨레"
+      }
+    },
+    {
+      "title": "‘여중생 성매매’ 청주시의원 휴대폰 포렌식…‘성착취물’ 흔적 찾는다 - 동아일보",
+      "link": "https://www.donga.com/news/Society/article/all/20260716/134311038/1",
+      "source": "동아일보",
+      "pubDate": "Thu, 16 Jul 2026 08:16:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/16/134313660.1.jpg",
+      "summaries": {
+        "ko": "‘여중생 성매매’ 청주시의원 휴대폰 포렌식…‘성착취물’ 흔적 찾는다 - 동아일보",
+        "en": "‘여중생 성매매’ 청주시의원 휴대폰 포렌식…‘성착취물’ 흔적 찾는다 - 동아일보",
+        "zh": "‘여중생 성매매’ 청주시의원 휴대폰 포렌식…‘성착취물’ 흔적 찾는다 - 동아일보"
+      }
+    },
+    {
+      "title": "[단독]“원희룡, 김건희 일가에 이익 주려 노선 변경 공모” - 동아일보",
+      "link": "https://www.donga.com/news/Society/article/all/20260716/134315432/1",
+      "source": "동아일보",
+      "pubDate": "Thu, 16 Jul 2026 13:06:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/16/134315429.1.jpg",
+      "summaries": {
+        "ko": "[단독]“원희룡, 김건희 일가에 이익 주려 노선 변경 공모” - 동아일보",
+        "en": "[단독]“원희룡, 김건희 일가에 이익 주려 노선 변경 공모” - 동아일보",
+        "zh": "[단독]“원희룡, 김건희 일가에 이익 주려 노선 변경 공모” - 동아일보"
       }
     },
     {
