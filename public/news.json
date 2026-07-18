@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-18T15:33:48.460619",
+  "lastUpdate": "2026-07-18T16:31:20.348000",
   "items": [
     {
       "title": "인천 쿠팡물류센터 불길 안 잡혀…외벽 타고 7층까지 번졌다 - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Sat, 18 Jul 2026 14:19:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/728/imgdb/original/2026/0718/461784384216795.webp",
       "summaries": {
-        "ko": "18일 오전 인천 쿠팡 물류센터 6층에서 발생한 화재가 외벽을 타고 7층까지 확산하여 국가소방동원령이 발령됐으며, 다량의 가연물로 인해 15시간 넘게 진화 작업이 계속되고 있지만 다행히 인명 피해는 없는 것으로 전해졌다.",
-        "en": "A large fire that broke out on the 6th floor of Coupang's Incheon logistics center on the morning of the 18th has spread to the 7th floor via the exterior wall, prompting a national fire mobilization order; firefighting efforts have been ongoing for over 15 hours due to a large amount of flammable materials, but fortunately, no casualties have been reported.",
-        "zh": "18日上午，仁川酷澎物流中心6楼发生火灾，火势沿着外墙蔓延至7楼，已发布国家消防动员令；由于大量可燃物，灭火工作已持续超过15小时，但幸运的是，目前尚未报告人员伤亡。"
+        "ko": "인천 쿠팡물류센터 6층에서 발생한 대형 화재가 15시간 넘게 진화되지 않고 외벽을 타고 7층까지 번졌으며, 다량의 가연물로 인해 진화에 어려움을 겪고 있으나 인명 피해는 없는 상태이다.",
+        "en": "A large fire that broke out on the 6th floor of an Incheon Coupang logistics center has not been extinguished for over 15 hours, spreading to the 7th floor via the exterior wall; despite firefighting difficulties due to abundant flammable materials, no human casualties have been reported.",
+        "zh": "仁川酷팡物流中心六楼发生的大火已持续燃烧超过15小时，火势沿着外墙蔓延至七楼；尽管因大量易燃物导致灭火困难，但目前尚未报告人员伤亡。"
       }
     },
     {
@@ -20,9 +20,9 @@
       "pubDate": "Sat, 18 Jul 2026 05:47:19 GMT",
       "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/18/jhp_20260718_4.jpg",
       "summaries": {
-        "ko": "이건태, '한동훈 토론' 수락했다가 취소‥한동훈 \"밀릴까 봐 도망\" - MBC 뉴스",
-        "en": "이건태, '한동훈 토론' 수락했다가 취소‥한동훈 \"밀릴까 봐 도망\" - MBC 뉴스",
-        "zh": "이건태, '한동훈 토론' 수락했다가 취소‥한동훈 \"밀릴까 봐 도망\" - MBC 뉴스"
+        "ko": "이건태 의원이 한동훈 의원과의 검찰 보완수사권 폐지 토론을 수락했다가 당원들 뜻을 존중해 취소하자, 한동훈 의원은 이를 비판하며 \"밀릴까 봐 도망\"쳤다고 주장했다.",
+        "en": "Lee Gun-tae of the Democratic Party initially accepted a debate with Han Dong-hoon on abolishing prosecutorial supplementary investigative powers but then withdrew, citing the will of party members, leading Han Dong-hoon to criticize him for \"fleeing out of fear of being outmaneuvered.\"",
+        "zh": "李建泰议员先是接受了与韩东勋议员就废除检察补充侦查权进行辩论的提议，后又以尊重党员意愿为由取消，韩东勋议员对此批评称其是“害怕落败而逃跑”。"
       }
     },
     {
@@ -44,9 +44,9 @@
       "pubDate": "Sat, 18 Jul 2026 13:50:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/1101/imgdb/original/2026/0718/20260718500388.webp",
       "summaries": {
-        "ko": "정청래 “당원만 믿고 가겠다”…10년 전 ‘컷오프’ 언급하며 지지 호소 - 한겨레",
-        "en": "정청래 “당원만 믿고 가겠다”…10년 전 ‘컷오프’ 언급하며 지지 호소 - 한겨레",
-        "zh": "정청래 “당원만 믿고 가겠다”…10년 전 ‘컷오프’ 언급하며 지지 호소 - 한겨레"
+        "ko": "더불어민주당 당권 주자인 정청래 전 대표가 10년 전 공천 탈락 경험을 소회하며 당원 지지를 호소하고, 1인1표제로 치러지는 첫 전당대회에서 오직 당원만 믿고 검찰 개혁 등 개혁을 추진하겠다고 밝혔다.",
+        "en": "Democratic Party leadership contender Chung Cheong-rae appealed for party members' support by recalling his 2016 parliamentary nomination cut-off and stated that he would trust only party members and pursue reforms, including judicial reform, in the first party convention held under the 1-person-1-vote system.",
+        "zh": "共同民主党党权竞争者郑清来回顾了10年前国会议员提名落选的经历，呼吁党员支持，并表示在首次以一人一票制举行的全党大会上，将只信任党员并推进包括检察改革在内的各项改革。"
       }
     },
     {
@@ -62,27 +62,15 @@
       }
     },
     {
-      "title": "전국 밤사이 물폭탄... 주택·도로 침수 등 피해 540건 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/07/18/MN6BBHYUHBBRJP7ABGDUA2VDMI/",
-      "source": "조선일보",
-      "pubDate": "Sat, 18 Jul 2026 06:57:41 GMT",
-      "image": "https://www.chosun.com/resizer/v2/F7ALE3PMVNAZFP72XTXQJR5C4U.gif?auth=20ecacaf27c57289232a409ac871514648dcad013967ae890a128049c6c9d525&width=800&height=420&focal=399,223",
+      "title": "대구 수성구에 첫 ‘재난성 호우’…15분 31.5㎜, 1시간 89㎜ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1268786.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 17 Jul 2026 14:49:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0717/53_17842997410398_20260717501633.webp",
       "summaries": {
-        "ko": "전국 밤사이 물폭탄... 주택·도로 침수 등 피해 540건 - 조선일보",
-        "en": "전국 밤사이 물폭탄... 주택·도로 침수 등 피해 540건 - 조선일보",
-        "zh": "전국 밤사이 물폭탄... 주택·도로 침수 등 피해 540건 - 조선일보"
-      }
-    },
-    {
-      "title": "중부지방 시간당 40~50㎜ ‘물폭탄’에 침수·낙석 등 208건 피해···중대본 2단계 가동 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607181128001",
-      "source": "경향신문",
-      "pubDate": "Sat, 18 Jul 2026 02:28:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/18/news-p.v1.20260718.140d2bd94cc44cf7bab17654c4692f23_P1.jpg",
-      "summaries": {
-        "ko": "중부지방 시간당 40~50㎜ ‘물폭탄’에 침수·낙석 등 208건 피해···중대본 2단계 가동 - 경향신문",
-        "en": "중부지방 시간당 40~50㎜ ‘물폭탄’에 침수·낙석 등 208건 피해···중대본 2단계 가동 - 경향신문",
-        "zh": "중부지방 시간당 40~50㎜ ‘물폭탄’에 침수·낙석 등 208건 피해···중대본 2단계 가동 - 경향신문"
+        "ko": "대구 수성구에 첫 ‘재난성 호우’…15분 31.5㎜, 1시간 89㎜ - 한겨레",
+        "en": "대구 수성구에 첫 ‘재난성 호우’…15분 31.5㎜, 1시간 89㎜ - 한겨레",
+        "zh": "대구 수성구에 첫 ‘재난성 호우’…15분 31.5㎜, 1시간 89㎜ - 한겨레"
       }
     },
     {
@@ -104,21 +92,33 @@
       "pubDate": "Sat, 18 Jul 2026 10:51:39 GMT",
       "image": "https://wimg.munhwa.com/news/cms/2026/07/18/news-p.v1.20260718.090054cf5fec433989818ee0f8673682_R.jpg",
       "summaries": {
-        "ko": "[속보]연평도 북방서 中어선 추정 선박 침몰…“인명피해 확인 안 돼” - 문화일보",
-        "en": "[속보]연평도 북방서 中어선 추정 선박 침몰…“인명피해 확인 안 돼” - 문화일보",
-        "zh": "[속보]연평도 북방서 中어선 추정 선박 침몰…“인명피해 확인 안 돼” - 문화일보"
+        "ko": "연평도 북방에서 중국어선으로 추정되는 선박이 침몰했으나 해경과 해군의 합동 수색 결과 인명피해는 확인되지 않았다.",
+        "en": "A vessel presumed to be a Chinese fishing boat sank north of Yeonpyeong Island, but a joint search by the Coast Guard and Navy confirmed no casualties.",
+        "zh": "一艘被推定为中国渔船的船只在延坪岛北方沉没，但韩国海警和海军联合搜救后未确认人员伤亡。"
       }
     },
     {
-      "title": "빗길에 버스-승용차 충돌해 15명 중경상 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6838299_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sat, 18 Jul 2026 00:39:13 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/18/jse_20260718_15.jpg",
+      "title": "이승만 아닌 신익희 앞세운 국회... 野, 제헌절 행사에 \"부적절 처사\" - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/07/18/A6QXLMZPTBCHVIYSEYQBYWHEDY/",
+      "source": "조선일보",
+      "pubDate": "Sat, 18 Jul 2026 07:00:08 GMT",
+      "image": "https://www.chosun.com/resizer/v2/VYYAOVUJ5RH6PJQ4N4UP6DYHPM.png?auth=9376f397c2f1c0bd4ac6e702f3675b6c9fb3415ce1392af6a89e96dda5b59a6e&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "빗길에 버스-승용차 충돌해 15명 중경상 - MBC 뉴스",
-        "en": "빗길에 버스-승용차 충돌해 15명 중경상 - MBC 뉴스",
-        "zh": "빗길에 버스-승용차 충돌해 15명 중경상 - MBC 뉴스"
+        "ko": "이승만 아닌 신익희 앞세운 국회... 野, 제헌절 행사에 \"부적절 처사\" - 조선일보",
+        "en": "이승만 아닌 신익희 앞세운 국회... 野, 제헌절 행사에 \"부적절 처사\" - 조선일보",
+        "zh": "이승만 아닌 신익희 앞세운 국회... 野, 제헌절 행사에 \"부적절 처사\" - 조선일보"
+      }
+    },
+    {
+      "title": "후보 등록 후 첫 주말‥金 \"바통터치\"·鄭 \"개혁 당대표\"·宋 \"자격 논란, 국힘인가\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6838346_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sat, 18 Jul 2026 08:42:06 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/18/ggm_20260718_5.jpg",
+      "summaries": {
+        "ko": "후보 등록 후 첫 주말‥金 \"바통터치\"·鄭 \"개혁 당대표\"·宋 \"자격 논란, 국힘인가\" - MBC 뉴스",
+        "en": "후보 등록 후 첫 주말‥金 \"바통터치\"·鄭 \"개혁 당대표\"·宋 \"자격 논란, 국힘인가\" - MBC 뉴스",
+        "zh": "후보 등록 후 첫 주말‥金 \"바통터치\"·鄭 \"개혁 당대표\"·宋 \"자격 논란, 국힘인가\" - MBC 뉴스"
       }
     }
   ]
