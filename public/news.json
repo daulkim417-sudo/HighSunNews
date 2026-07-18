@@ -1,52 +1,40 @@
 {
-  "lastUpdate": "2026-07-18T12:05:16.226267",
+  "lastUpdate": "2026-07-18T13:41:46.752655",
   "items": [
     {
-      "title": "인천 쿠팡물류센터 화재 13시간째…외벽 타고 7층으로 번져 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/yeongnam/1268811.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 18 Jul 2026 11:02:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/541/imgdb/original/2026/0718/20260718500565.webp",
+      "title": "점점 번지는 쿠팡 물류센터 불길… 李 “진화에 총력” - 동아일보",
+      "link": "https://www.donga.com/news/Society/article/all/20260718/134320241/1",
+      "source": "동아일보",
+      "pubDate": "Sat, 18 Jul 2026 12:04:29 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/18/134320242.1.jpg",
       "summaries": {
-        "ko": "인천 쿠팡 물류센터 6층에서 발생한 화재가 13시간째 이어지며 건물 외벽을 타고 7층으로 번져 국가소방동원령이 발령됐고, 다량의 가연물로 진화에 난항을 겪고 있으나 인명 피해는 없는 것으로 확인됐다.",
-        "en": "A fire that started on the 6th floor of Coupang's logistics center in Incheon has been burning for 13 hours, spreading to the 7th floor via the building's exterior, leading to a national fire mobilization order and difficulties in extinguishing due to large amounts of flammables, though no casualties have been reported.",
-        "zh": "仁川酷澎物流中心六楼发生火灾，至今已持续13小时，火势沿着建筑外墙蔓延至七楼，已发布国家消防动员令，由于大量可燃物导致灭火困难，但所幸未造成人员伤亡。"
+        "ko": "점점 번지는 쿠팡 물류센터 불길… 李 “진화에 총력” - 동아일보",
+        "en": "점점 번지는 쿠팡 물류센터 불길… 李 “진화에 총력” - 동아일보",
+        "zh": "점점 번지는 쿠팡 물류센터 불길… 李 “진화에 총력” - 동아일보"
       }
     },
     {
-      "title": "與이건태 \"보완수사권 토론 안 해\"… 한동훈 \"밀릴 것 같으니 도망치나\" - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/07/18/76RNKFW2NBFKLENXVKDAUXC7WY/",
+      "title": "이건태 “당원 뜻 따라 보완수사권 토론 안 해”…한동훈 “밀릴 것 같아 도망” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/assembly/1268805.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 18 Jul 2026 10:02:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/606/imgdb/original/2026/0718/6417843574120775.webp",
+      "summaries": {
+        "ko": "한동훈과 이건태 두 의원 간의 검찰 보완수사권 폐지 토론이 이건태 의원이 당원들의 뜻을 이유로 철회하면서 무산되었고, 이에 한동훈 의원은 이건태 의원이 밀릴 것 같아 도망쳤다고 비난했다.",
+        "en": "A debate between lawmakers Han Dong-hoon and Lee Geon-tae, both former prosecutors, on abolishing prosecutorial supplementary investigative powers was canceled after Lee withdrew, citing his party members' will and concerns, leading Han to accuse him of \"running away\" due to fear of losing.",
+        "zh": "韩东勋和李建泰两位议员原定就废除检察补充侦查权进行的辩论被取消，原因是李建泰以尊重党员意愿为由退出，而韩东勋则指责他因担心落败而“逃跑”。"
+      }
+    },
+    {
+      "title": "이승만 아닌 신익희 앞세운 국회... 野, 제헌절 행사에 \"부적절 처사\" - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/07/18/A6QXLMZPTBCHVIYSEYQBYWHEDY/",
       "source": "조선일보",
-      "pubDate": "Sat, 18 Jul 2026 05:51:15 GMT",
-      "image": "https://www.chosun.com/resizer/v2/DKYGXUVT5ZF55MOICXWUJUIOXA.jpg?auth=825464374d817ade49e218ee47ae9442d09782ed55716ef1f54d4fcb79c8e198&width=1024&height=537&smart=true",
+      "pubDate": "Sat, 18 Jul 2026 07:00:08 GMT",
+      "image": "https://www.chosun.com/resizer/v2/VYYAOVUJ5RH6PJQ4N4UP6DYHPM.png?auth=9376f397c2f1c0bd4ac6e702f3675b6c9fb3415ce1392af6a89e96dda5b59a6e&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "與이건태 \"보완수사권 토론 안 해\"… 한동훈 \"밀릴 것 같으니 도망치나\" - 조선일보",
-        "en": "與이건태 \"보완수사권 토론 안 해\"… 한동훈 \"밀릴 것 같으니 도망치나\" - 조선일보",
-        "zh": "與이건태 \"보완수사권 토론 안 해\"… 한동훈 \"밀릴 것 같으니 도망치나\" - 조선일보"
-      }
-    },
-    {
-      "title": "국힘, 조정식 개헌 제안에 \"헌법 무시 민주당·국회의장, 개헌 입에 담을 자격 없어\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6838308_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sat, 18 Jul 2026 02:00:35 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/18/jse_20260718_23.jpg",
-      "summaries": {
-        "ko": "국힘, 조정식 개헌 제안에 \"헌법 무시 민주당·국회의장, 개헌 입에 담을 자격 없어\" - MBC 뉴스",
-        "en": "국힘, 조정식 개헌 제안에 \"헌법 무시 민주당·국회의장, 개헌 입에 담을 자격 없어\" - MBC 뉴스",
-        "zh": "국힘, 조정식 개헌 제안에 \"헌법 무시 민주당·국회의장, 개헌 입에 담을 자격 없어\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "‘양평고속도로 특혜 의혹’ 원희룡, 23일 피의자 신분으로 특검 출석 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1268807.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 18 Jul 2026 07:16:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/426/imgdb/original/2026/0718/20260718500486.webp",
-      "summaries": {
-        "ko": "‘양평고속도로 특혜 의혹’ 원희룡, 23일 피의자 신분으로 특검 출석 - 한겨레",
-        "en": "‘양평고속도로 특혜 의혹’ 원희룡, 23일 피의자 신분으로 특검 출석 - 한겨레",
-        "zh": "‘양평고속도로 특혜 의혹’ 원희룡, 23일 피의자 신분으로 특검 출석 - 한겨레"
+        "ko": "이승만 아닌 신익희 앞세운 국회... 野, 제헌절 행사에 \"부적절 처사\" - 조선일보",
+        "en": "이승만 아닌 신익희 앞세운 국회... 野, 제헌절 행사에 \"부적절 처사\" - 조선일보",
+        "zh": "이승만 아닌 신익희 앞세운 국회... 野, 제헌절 행사에 \"부적절 처사\" - 조선일보"
       }
     },
     {
@@ -74,42 +62,6 @@
       }
     },
     {
-      "title": "송영길-김용 전대 출마 허용에…친청계 “민주당 오욕의 역사” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260717/134318139/1",
-      "source": "동아일보",
-      "pubDate": "Fri, 17 Jul 2026 10:31:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/17/134318656.1.jpg",
-      "summaries": {
-        "ko": "송영길-김용 전대 출마 허용에…친청계 “민주당 오욕의 역사” - 동아일보",
-        "en": "송영길-김용 전대 출마 허용에…친청계 “민주당 오욕의 역사” - 동아일보",
-        "zh": "송영길-김용 전대 출마 허용에…친청계 “민주당 오욕의 역사” - 동아일보"
-      }
-    },
-    {
-      "title": "수도권 큰비 쏟은 비구름 동쪽으로…강원 시간당 50㎜ 폭우 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1268791.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 18 Jul 2026 03:11:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0718/53_17843358141252_7417843357953198.webp",
-      "summaries": {
-        "ko": "수도권 큰비 쏟은 비구름 동쪽으로…강원 시간당 50㎜ 폭우 - 한겨레",
-        "en": "수도권 큰비 쏟은 비구름 동쪽으로…강원 시간당 50㎜ 폭우 - 한겨레",
-        "zh": "수도권 큰비 쏟은 비구름 동쪽으로…강원 시간당 50㎜ 폭우 - 한겨레"
-      }
-    },
-    {
-      "title": "[날씨] 중부지방 300㎜ 이상 폭우…돌풍·천둥번개까지 '장마 절정' - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260717048300004",
-      "source": "연합뉴스",
-      "pubDate": "Fri, 17 Jul 2026 11:00:00 GMT",
-      "image": "https://img2.yna.co.kr/photo/yna/YH/2026/07/17/PYH2026071706890005300_P4.jpg",
-      "summaries": {
-        "ko": "[날씨] 중부지방 300㎜ 이상 폭우…돌풍·천둥번개까지 '장마 절정' - 연합뉴스",
-        "en": "[날씨] 중부지방 300㎜ 이상 폭우…돌풍·천둥번개까지 '장마 절정' - 연합뉴스",
-        "zh": "[날씨] 중부지방 300㎜ 이상 폭우…돌풍·천둥번개까지 '장마 절정' - 연합뉴스"
-      }
-    },
-    {
       "title": "빗길에 버스-승용차 충돌해 15명 중경상 - MBC 뉴스",
       "link": "https://imnews.imbc.com/news/2026/society/article/6838299_36918.html",
       "source": "MBC 뉴스",
@@ -122,15 +74,51 @@
       }
     },
     {
-      "title": "이 대통령, 인천 '쿠팡 창고' 화재에 \"진화에 전력…재발 않도록 종합대책 마련\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260718201849Z1N",
-      "source": "Breaking News",
-      "pubDate": "Sat, 18 Jul 2026 20:18:51 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260718/AKR20260718201849Z1N_01_i.jpg",
+      "title": "송영길-김용 전대 출마 허용에…친청계 “민주당 오욕의 역사” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260717/134318139/1",
+      "source": "동아일보",
+      "pubDate": "Fri, 17 Jul 2026 10:31:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/17/134318656.1.jpg",
       "summaries": {
-        "ko": "이 대통령, 인천 '쿠팡 창고' 화재에 \"진화에 전력…재발 않도록 종합대책 마련\"",
-        "en": "이 대통령, 인천 '쿠팡 창고' 화재에 \"진화에 전력…재발 않도록 종합대책 마련\"",
-        "zh": "이 대통령, 인천 '쿠팡 창고' 화재에 \"진화에 전력…재발 않도록 종합대책 마련\""
+        "ko": "송영길-김용 전대 출마 허용에…친청계 “민주당 오욕의 역사” - 동아일보",
+        "en": "송영길-김용 전대 출마 허용에…친청계 “민주당 오욕의 역사” - 동아일보",
+        "zh": "송영길-김용 전대 출마 허용에…친청계 “민주당 오욕의 역사” - 동아일보"
+      }
+    },
+    {
+      "title": "‘양평고속도로 특혜 의혹’ 원희룡, 23일 피의자 신분으로 특검 출석 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1268807.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 18 Jul 2026 07:16:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/426/imgdb/original/2026/0718/20260718500486.webp",
+      "summaries": {
+        "ko": "‘양평고속도로 특혜 의혹’ 원희룡, 23일 피의자 신분으로 특검 출석 - 한겨레",
+        "en": "‘양평고속도로 특혜 의혹’ 원희룡, 23일 피의자 신분으로 특검 출석 - 한겨레",
+        "zh": "‘양평고속도로 특혜 의혹’ 원희룡, 23일 피의자 신분으로 특검 출석 - 한겨레"
+      }
+    },
+    {
+      "title": "[속보]연평도 북방서 中어선 추정 선박 침몰…“인명피해 확인 안 돼” - 문화일보",
+      "link": "https://www.munhwa.com/article/11603375",
+      "source": "문화일보",
+      "pubDate": "Sat, 18 Jul 2026 10:51:39 GMT",
+      "image": "https://wimg.munhwa.com/news/cms/2026/07/18/news-p.v1.20260718.090054cf5fec433989818ee0f8673682_R.jpg",
+      "summaries": {
+        "ko": "[속보]연평도 북방서 中어선 추정 선박 침몰…“인명피해 확인 안 돼” - 문화일보",
+        "en": "[속보]연평도 북방서 中어선 추정 선박 침몰…“인명피해 확인 안 돼” - 문화일보",
+        "zh": "[속보]연평도 북방서 中어선 추정 선박 침몰…“인명피해 확인 안 돼” - 문화일보"
+      }
+    },
+    {
+      "title": "요르단 기지 주둔 미군, 이란 공습으로 다수 부상 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260718033900009",
+      "source": "연합뉴스",
+      "pubDate": "Sat, 18 Jul 2026 06:07:07 GMT",
+      "image": "https://img5.yna.co.kr/photo/reuters/2026/07/18/PRU20260718126701009_P4.jpg",
+      "summaries": {
+        "ko": "요르단 기지 주둔 미군, 이란 공습으로 다수 부상 - 연합뉴스",
+        "en": "요르단 기지 주둔 미군, 이란 공습으로 다수 부상 - 연합뉴스",
+        "zh": "요르단 기지 주둔 미군, 이란 공습으로 다수 부상 - 연합뉴스"
       }
     }
   ]
