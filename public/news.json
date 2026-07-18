@@ -1,88 +1,28 @@
 {
-  "lastUpdate": "2026-07-18T08:55:58.577874",
+  "lastUpdate": "2026-07-18T10:06:09.420146",
   "items": [
     {
-      "title": "[속보] 소방청, 인천 쿠팡 물류창고 화재에 국가소방동원령 발령 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6838332_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sat, 18 Jul 2026 08:16:06 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/18/lyj_260718_3.jpg",
-      "summaries": {
-        "ko": "인천 쿠팡 물류창고에서 8시간 넘게 이어지는 화재로 소방공무원 1명이 부상을 입고 121명이 대피한 가운데, 소방청이 국가소방동원령을 발령해 총력 대응에 나섰습니다.",
-        "en": "The National Fire Agency has issued a National Fire Service Mobilization Order for a fire at an 8-story Coupang logistics center in Incheon that has been ongoing for over 8 hours, resulting in one firefighter injury and 121 evacuations.",
-        "zh": "仁川酷澎物流中心发生持续8个多小时的火灾，造成一名消防员受伤、121人疏散，韩国消防厅已发布国家消防动员令，全面应对火情。"
-      }
-    },
-    {
-      "title": "수도권 폭우 주춤한 사이…남부는 또 폭염 주의보 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/yeongnam/1268798.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 18 Jul 2026 05:10:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/968/937/imgdb/original/2026/0718/20260718500356.webp",
-      "summaries": {
-        "ko": "수도권 폭우가 주춤하며 호우주의보가 해제된 가운데 남부지방에는 폭염 특보가 발령되었고, 중부 및 일부 남부 지역에는 밤부터 다시 강한 비가 예보되었다.",
-        "en": "As heavy rain in the Seoul metropolitan area subsides and rain advisories are lifted, heatwave warnings have been issued for southern regions, while strong rain is again forecast for central and some southern areas starting tonight.",
-        "zh": "首都圈暴雨减弱，暴雨预警解除，但南部地区发布了高温特报，同时中部及部分南部地区从夜间起再次预报有强降雨。"
-      }
-    },
-    {
-      "title": "이란 “호르무즈 기뢰 구역서 유조선 2척 폭발” 주장…미국 “사실 아냐” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1268794.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 18 Jul 2026 02:48:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0718/53_17843404028927_20260718500272.webp",
-      "summaries": {
-        "ko": "이란은 호르무즈 해협 기뢰 구역에서 유조선 2척이 폭발했다고 주장하며 해협 폐쇄를 선언했으나, 미국은 이를 즉각 부인했으며, 이는 미국과 이란 간 무력 충돌이 이어지는 가운데 발생했다.",
-        "en": "Iran claimed two oil tankers exploded in a minefield in the Strait of Hormuz and declared the strait closed, but the US immediately denied the claim amidst ongoing military clashes between the two nations.",
-        "zh": "伊朗声称两艘油轮在霍尔木兹海峡的雷区发生爆炸并宣布海峡关闭，但美国立即否认了这一说法，此事发生在美国和伊朗之间持续的军事冲突之中。"
-      }
-    },
-    {
-      "title": "이건태 \"한동훈과 토론 안 해\"…韓 \"밀릴 것 같으니 도망\" - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/07/18/76RNKFW2NBFKLENXVKDAUXC7WY/",
-      "source": "조선일보",
-      "pubDate": "Sat, 18 Jul 2026 05:51:15 GMT",
-      "image": "https://www.chosun.com/resizer/v2/DKYGXUVT5ZF55MOICXWUJUIOXA.jpg?auth=825464374d817ade49e218ee47ae9442d09782ed55716ef1f54d4fcb79c8e198&width=1024&height=537&smart=true",
-      "summaries": {
-        "ko": "이건태 \"한동훈과 토론 안 해\"…韓 \"밀릴 것 같으니 도망\" - 조선일보",
-        "en": "이건태 \"한동훈과 토론 안 해\"…韓 \"밀릴 것 같으니 도망\" - 조선일보",
-        "zh": "이건태 \"한동훈과 토론 안 해\"…韓 \"밀릴 것 같으니 도망\" - 조선일보"
-      }
-    },
-    {
-      "title": "일요일도 전국에 강한 비...다음 주도 내내 장마 - 조선일보",
-      "link": "https://www.chosun.com/national/transport-environment/2026/07/18/BF27XDK77ZE7FEF3HNMNZVQRN4/",
-      "source": "조선일보",
-      "pubDate": "Sat, 18 Jul 2026 02:38:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/PGVN6MDCEFKBBHBQ7PD5Y6PHQM.JPG?auth=452420fd3ccd7db95a3853f482eb91941f06765975eec988681fc9059535b367&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "일요일도 전국에 강한 비...다음 주도 내내 장마 - 조선일보",
-        "en": "일요일도 전국에 강한 비...다음 주도 내내 장마 - 조선일보",
-        "zh": "일요일도 전국에 강한 비...다음 주도 내내 장마 - 조선일보"
-      }
-    },
-    {
-      "title": "與 최고위원 5명 뽑는데 14명 후보등록… 친명 10명-친청 3명 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260717/134319258/2",
+      "title": "李 “쿠팡 화재 진화에 총력…소방대원 안전 기해달라” - 동아일보",
+      "link": "https://www.donga.com/news/Society/article/all/20260718/134320241/1",
       "source": "동아일보",
-      "pubDate": "Fri, 17 Jul 2026 16:40:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/18/134319562.1.jpg",
+      "pubDate": "Sat, 18 Jul 2026 08:21:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/18/134320242.1.jpg",
       "summaries": {
-        "ko": "與 최고위원 5명 뽑는데 14명 후보등록… 친명 10명-친청 3명 - 동아일보",
-        "en": "與 최고위원 5명 뽑는데 14명 후보등록… 친명 10명-친청 3명 - 동아일보",
-        "zh": "與 최고위원 5명 뽑는데 14명 후보등록… 친명 10명-친청 3명 - 동아일보"
+        "ko": "李 “쿠팡 화재 진화에 총력…소방대원 안전 기해달라” - 동아일보",
+        "en": "李 “쿠팡 화재 진화에 총력…소방대원 안전 기해달라” - 동아일보",
+        "zh": "李 “쿠팡 화재 진화에 총력…소방대원 안전 기해달라” - 동아일보"
       }
     },
     {
-      "title": "[단독]SK에코플랜트, ‘미얀마 노동자 산재 사망’ 유족에 공식 사과…이주노동자 안전 대책 마련키로 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607181208001",
-      "source": "경향신문",
-      "pubDate": "Sat, 18 Jul 2026 03:08:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/18/news-p.v1.20260716.175031f7cc954f27ab756628f9d85bf7_P1.jpeg",
+      "title": "‘검사 출신’ 한동훈·이건태 ‘검찰 보완수사권 폐지’ TV토론 무산 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/assembly/1268805.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 18 Jul 2026 09:27:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/606/imgdb/original/2026/0718/6417843574120775.webp",
       "summaries": {
-        "ko": "SK에코플랜트가 KTX 선로 공사 현장에서 산재로 사망한 미얀마 노동자 유족에게 공식 사과하고, 이주노동자의 구조적 산재 취약성을 개선하기 위한 안전 대책 마련에 합의했다.",
-        "en": "SK ecoplant officially apologized to the family of a Myanmar worker who died in an industrial accident at a KTX railway construction site and agreed to implement safety measures to address the structural vulnerability of migrant workers to such accidents.",
-        "zh": "SK ecoplant就一名缅甸工人在KTX铁路施工现场因工伤事故死亡一事，向遇难者家属正式道歉，并同意采取安全措施，以改善外籍劳工在工伤事故方面的结构性脆弱性。"
+        "ko": "검사 출신 한동훈 의원과 이건태 의원 간 '검찰 보완수사권 폐지'에 대한 TV 토론이 이건태 의원이 당원 우려를 이유로 불참을 선언하며 무산되었고, 한동훈 의원은 이를 비판했다.",
+        "en": "A TV debate between prosecutor-turned-politicians Han Dong-hoon and Lee Geon-tae regarding the 'abolition of the prosecutor's right to supplementary investigations' was canceled after Lee Geon-tae withdrew, citing concerns from party members, a move that Han Dong-hoon criticized.",
+        "zh": "检察官出身的韩东勋议员和李建泰议员原定就“废除检察官补充侦查权”进行的电视辩论，因李建泰议员以党员担忧为由宣布退出而告吹，韩东勋议员对此表示批评。"
       }
     },
     {
@@ -98,15 +38,39 @@
       }
     },
     {
-      "title": "수도권 큰비 쏟은 비구름 동쪽으로…강원 시간당 50㎜ 폭우 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1268791.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 18 Jul 2026 03:11:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0718/53_17843358141252_7417843357953198.webp",
+      "title": "집중호우로 주택·도로 침수 등 540건 피해… 주민 95명 긴급 대피 - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/07/18/MN6BBHYUHBBRJP7ABGDUA2VDMI/",
+      "source": "조선일보",
+      "pubDate": "Sat, 18 Jul 2026 06:57:41 GMT",
+      "image": "https://www.chosun.com/resizer/v2/F7ALE3PMVNAZFP72XTXQJR5C4U.gif?auth=20ecacaf27c57289232a409ac871514648dcad013967ae890a128049c6c9d525&width=800&height=420&focal=399,223",
       "summaries": {
-        "ko": "18일 수도권에 큰비를 쏟아낸 비구름이 동쪽으로 이동하여 강원과 경기 동부 등에 시간당 최고 50㎜의 폭우가 내리고 있으며, 19일까지 중부지방을 중심으로 강한 비가 이어질 것으로 예보되어 산사태 및 침수 피해에 주의가 요구된다.",
-        "en": "Heavy rain clouds that brought significant rainfall to the Seoul metropolitan area on the 18th have moved eastward, causing torrential downpours of up to 50mm per hour in Gangwon and eastern Gyeonggi, with strong rain expected to continue in central regions until the 19th, prompting warnings for landslides and flooding.",
-        "zh": "18日给首都圈带来大雨的雨云已向东移动，导致江原道和京畿道东部等地每小时降雨量高达50毫米，预计强降雨将持续到19日，主要集中在中部地区，需警惕山体滑坡和洪涝灾害。"
+        "ko": "집중호우로 주택·도로 침수 등 540건 피해… 주민 95명 긴급 대피 - 조선일보",
+        "en": "집중호우로 주택·도로 침수 등 540건 피해… 주민 95명 긴급 대피 - 조선일보",
+        "zh": "집중호우로 주택·도로 침수 등 540건 피해… 주민 95명 긴급 대피 - 조선일보"
+      }
+    },
+    {
+      "title": "與 최고위원 5명 뽑는데 14명 후보등록… 친명 10명-친청 3명 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260717/134319258/2",
+      "source": "동아일보",
+      "pubDate": "Fri, 17 Jul 2026 16:40:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/18/134319562.1.jpg",
+      "summaries": {
+        "ko": "與 최고위원 5명 뽑는데 14명 후보등록… 친명 10명-친청 3명 - 동아일보",
+        "en": "與 최고위원 5명 뽑는데 14명 후보등록… 친명 10명-친청 3명 - 동아일보",
+        "zh": "與 최고위원 5명 뽑는데 14명 후보등록… 친명 10명-친청 3명 - 동아일보"
+      }
+    },
+    {
+      "title": "이란 “호르무즈 기뢰 구역서 유조선 2척 폭발” 주장…미국 “사실 아냐” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1268794.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 18 Jul 2026 02:48:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0718/53_17843404028927_20260718500272.webp",
+      "summaries": {
+        "ko": "이란이 호르무즈 해협에서 유조선 2척이 기뢰 구역에서 폭발해 해협이 폐쇄됐다고 주장하며 미국을 비난했으나, 미국은 이를 즉각 부인했다.",
+        "en": "Iran claimed two oil tankers exploded in a minefield in the Strait of Hormuz, blaming the U.S. and declaring the strait closed, but the U.S. immediately denied the assertion.",
+        "zh": "伊朗声称两艘油轮在霍尔木兹海峡的水雷区爆炸，指责美国并宣布关闭海峡，但美国立即否认了这一说法。"
       }
     },
     {
@@ -116,21 +80,45 @@
       "pubDate": "Sat, 18 Jul 2026 05:49:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/1101/imgdb/original/2026/0718/20260718500388.webp",
       "summaries": {
-        "ko": "더불어민주당 당권 주자인 정청래 전 대표가 10년 전 국회의원 공천 탈락 당시 당원들의 지지로 백의종군했던 경험을 언급하며, 1인1표제 전당대회에 당원들의 적극적인 투표 참여를 호소하고 검찰 개혁 의지를 다졌다.",
-        "en": "Jung Chung-rae, a candidate for the Democratic Party leadership, appealed for support by recalling his experience of campaigning for the party as an ordinary member after being cut off from parliamentary nomination 10 years ago, urging members to actively participate in the one-person, one-vote party convention, and reaffirming his commitment to judicial reform.",
-        "zh": "民主党党权竞选人郑清来前代表回顾了自己10年前在国会议员公推中落选时，依靠党员支持继续为党奉献的经历，呼吁党员积极参与一人一票制全党大会投票，并重申了推进检察改革的决心。"
+        "ko": "더불어민주당 당권 주자인 정청래 전 의원이 10년 전 공천 탈락 당시 당원들의 응원과 백의종군 경험을 언급하며, 1인1표제로 치러지는 첫 전당대회에서 오직 당원만 믿고 가겠다고 지지를 호소했다.",
+        "en": "Chung Cheong-rae, a contender for the Democratic Party leadership, appealed for support by recalling his 2016 cut-off from nominations and his subsequent dedication to the party, stating that he will only trust party members in the first leadership election held under the one-person, one-vote system.",
+        "zh": "共同民主党党首候选人郑清来提及自己十年前被取消公职候选人资格时党员的支持及其后为党奉献的经历，呼吁在首次实行一人一票制的党首选举中，他将只依靠党员的支持。"
       }
     },
     {
-      "title": "[속보] 이 대통령, 인천 '쿠팡 물류창고' 화재에 '총력 진압' 지시",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260718171128sto",
-      "source": "Breaking News",
-      "pubDate": "Sat, 18 Jul 2026 17:11:29 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260718/AKR20260718171128sto_01_i.jpg",
+      "title": "종합특검, '양평고속도로 의혹' 원희룡 전 국토부 장관 오는 23일 소환 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6838340_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sat, 18 Jul 2026 07:51:56 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/18/jhp_20260718_10.jpg",
       "summaries": {
-        "ko": "[속보] 이 대통령, 인천 '쿠팡 물류창고' 화재에 '총력 진압' 지시",
-        "en": "[속보] 이 대통령, 인천 '쿠팡 물류창고' 화재에 '총력 진압' 지시",
-        "zh": "[속보] 이 대통령, 인천 '쿠팡 물류창고' 화재에 '총력 진압' 지시"
+        "ko": "종합특검이 '양평고속도로 의혹'과 관련하여 원희룡 전 국토부 장관을 피의자 신분으로 오는 23일 소환 조사할 예정입니다.",
+        "en": "The Comprehensive Special Prosecutor's Office will summon former Minister of Land, Infrastructure and Transport Won Hee-ryong as a suspect on the 23rd for questioning regarding the 'Yangpyeong Expressway controversy'.",
+        "zh": "综合特检组将于23日传唤前国土交通部部长元喜龙，作为嫌疑人就“杨平高速公路疑团”进行调查。"
+      }
+    },
+    {
+      "title": "수도권 큰비 쏟은 비구름 동쪽으로…강원 시간당 50㎜ 폭우 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1268791.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 18 Jul 2026 03:11:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0718/53_17843358141252_7417843357953198.webp",
+      "summaries": {
+        "ko": "수도권에 큰비를 쏟았던 비구름이 동쪽 강원 등으로 이동하며 전국적으로 20일까지 시간당 20~80mm의 매우 강한 비가 예상되어 산사태 및 침수 등 안전사고에 각별한 유의가 요구된다.",
+        "en": "The rain clouds that brought heavy downpours to the Seoul metropolitan area are moving eastward towards Gangwon and other regions, with very strong rainfall of 20-80mm per hour expected nationwide until the 20th, urging extreme caution for landslides and flooding.",
+        "zh": "曾给首都圈带来大范围强降雨的雨云正向东部江原等地移动，预计全国范围内直至20日仍将持续每小时20-80毫米的强降雨，需特别警惕山体滑坡和洪水等安全事故。"
+      }
+    },
+    {
+      "title": "50cm만 물 차도 탈출 어려워…침수 대응 요령은",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH2026071818132149z",
+      "source": "Breaking News",
+      "pubDate": "Sat, 18 Jul 2026 18:13:21 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260718/MYH2026071818132149z.jpg",
+      "summaries": {
+        "ko": "차량 침수 시 50cm만 물이 차도 수압 때문에 탈출이 어려워 창문을 미리 열어두거나 비상 탈출용 망치를 사용하고 침수된 도로 진입을 피해야 한다고 조언합니다.",
+        "en": "The news advises that even with only 50cm of water, escaping a submerged vehicle becomes difficult due to water pressure, recommending drivers open windows early, use an emergency escape hammer, and avoid entering flooded roads.",
+        "zh": "新闻建议，即使水深仅50厘米，由于水压，从浸水车辆中逃脱也会变得困难，因此驾驶员应提前打开车窗、使用紧急逃生锤，并避免进入积水路段。"
       }
     }
   ]
