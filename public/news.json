@@ -1,28 +1,52 @@
 {
-  "lastUpdate": "2026-07-18T00:00:37.682049",
+  "lastUpdate": "2026-07-18T02:23:11.971419",
   "items": [
     {
-      "title": "수도권 300㎜ 물폭탄... 새벽부터 쏟아진다 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/07/17/6SIWG3XWB5GRXAAYMTBLHH5OTE/",
-      "source": "조선일보",
-      "pubDate": "Fri, 17 Jul 2026 14:06:25 GMT",
-      "image": "https://www.chosun.com/resizer/v2/W2VGVGRW3VE77DFDXPRCXV6TVY.jpg?auth=f3511b0aa68f05ff346a29ed32ae6a6ea8cadbd663e6f9f12c26368be775f37d&width=1200&height=630&smart=true",
+      "title": "밤사이 집중호우로 전국 208건 피해…서울 동부간선도로 전면통제 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1268793.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 18 Jul 2026 01:07:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/615/imgdb/original/2026/0718/20260718500230.webp",
       "summaries": {
-        "ko": "수도권 300㎜ 물폭탄... 새벽부터 쏟아진다 - 조선일보",
-        "en": "수도권 300㎜ 물폭탄... 새벽부터 쏟아진다 - 조선일보",
-        "zh": "수도권 300㎜ 물폭탄... 새벽부터 쏟아진다 - 조선일보"
+        "ko": "밤사이 집중호우로 전국에서 208건의 피해가 발생하고 서울 동부간선도로가 전면 통제되었으며, 수도권을 중심으로 산사태 및 침수 경보가 발령됐다.",
+        "en": "Overnight heavy rainfall caused 208 cases of damage nationwide, leading to the complete closure of Seoul's Dongbu Expressway and the issuance of landslide and flooding warnings in the capital region.",
+        "zh": "一夜之间，强降雨在全国造成208起灾害，导致首尔东部干线道路全面管制，首都圈也发布了山体滑坡和浸水警报。"
       }
     },
     {
-      "title": "“올여름 최악 폭우 온다”…서울 비상대응 돌입·29개 하천 전면 통제 - 매일경제",
-      "link": "https://www.mk.co.kr/news/politics/12101235",
+      "title": "“MOU가 무색”…미국·이란 교전 확대, 전면전 재점화하나 - 매일경제",
+      "link": "https://www.mk.co.kr/news/world/12101305",
       "source": "매일경제",
-      "pubDate": "Fri, 17 Jul 2026 13:50:56 GMT",
-      "image": "https://pimg.mk.co.kr/news/cms/202607/17/rcv.YNA.20260717.PYH2026071707480005300_R.jpg",
+      "pubDate": "Fri, 17 Jul 2026 22:10:46 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202607/18/news-p.v1.20260716.5ce7addf742442bb86d3ca53daebaeba_R.jpg",
       "summaries": {
-        "ko": "“올여름 최악 폭우 온다”…서울 비상대응 돌입·29개 하천 전면 통제 - 매일경제",
-        "en": "“올여름 최악 폭우 온다”…서울 비상대응 돌입·29개 하천 전면 통제 - 매일경제",
-        "zh": "“올여름 최악 폭우 온다”…서울 비상대응 돌입·29개 하천 전면 통제 - 매일경제"
+        "ko": "“MOU가 무색”…미국·이란 교전 확대, 전면전 재점화하나 - 매일경제",
+        "en": "“MOU가 무색”…미국·이란 교전 확대, 전면전 재점화하나 - 매일경제",
+        "zh": "“MOU가 무색”…미국·이란 교전 확대, 전면전 재점화하나 - 매일경제"
+      }
+    },
+    {
+      "title": "[속보] 강릉서 빗길에 버스와 승용차 충돌, 버스 넘어지고 4명 중상 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6838299_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sat, 18 Jul 2026 00:39:13 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/18/jse_20260718_15.jpg",
+      "summaries": {
+        "ko": "[속보] 강릉서 빗길에 버스와 승용차 충돌, 버스 넘어지고 4명 중상 - MBC 뉴스",
+        "en": "[속보] 강릉서 빗길에 버스와 승용차 충돌, 버스 넘어지고 4명 중상 - MBC 뉴스",
+        "zh": "[속보] 강릉서 빗길에 버스와 승용차 충돌, 버스 넘어지고 4명 중상 - MBC 뉴스"
+      }
+    },
+    {
+      "title": "“美유학 출국 앞두고 날벼락”… 韓학생-가족 등 2만5000명 비상 - 동아일보",
+      "link": "https://www.donga.com/news/Inter/article/all/20260717/134319276/2",
+      "source": "동아일보",
+      "pubDate": "Fri, 17 Jul 2026 16:40:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/17/134319466.1.jpg",
+      "summaries": {
+        "ko": "“美유학 출국 앞두고 날벼락”… 韓학생-가족 등 2만5000명 비상 - 동아일보",
+        "en": "“美유학 출국 앞두고 날벼락”… 韓학생-가족 등 2만5000명 비상 - 동아일보",
+        "zh": "“美유학 출국 앞두고 날벼락”… 韓학생-가족 등 2만5000명 비상 - 동아일보"
       }
     },
     {
@@ -38,87 +62,75 @@
       }
     },
     {
-      "title": "美유학길 좁아진다… 학생비자 4년 제한 - 동아일보",
-      "link": "https://www.donga.com/news/Inter/article/all/20260717/134319369/2",
-      "source": "동아일보",
-      "pubDate": "Fri, 17 Jul 2026 16:40:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/17/134317999.5.jpg",
+      "title": "수도권 등 중부 물폭탄... \"주말 최대 300㎜ 쏟아진다\" - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/07/17/6SIWG3XWB5GRXAAYMTBLHH5OTE/",
+      "source": "조선일보",
+      "pubDate": "Fri, 17 Jul 2026 08:20:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/BD4R6POOP5A6VMSP6Y5TVCL2DA.gif?auth=24dae01d7db601736c0b9de3e5e6a0820f2d2f38dfb69c21ab38a8f1f95cd6ad&width=800&height=420&focal=377,248",
       "summaries": {
-        "ko": "美유학길 좁아진다… 학생비자 4년 제한 - 동아일보",
-        "en": "美유학길 좁아진다… 학생비자 4년 제한 - 동아일보",
-        "zh": "美유학길 좁아진다… 학생비자 4년 제한 - 동아일보"
+        "ko": "수도권 등 중부 물폭탄... \"주말 최대 300㎜ 쏟아진다\" - 조선일보",
+        "en": "수도권 등 중부 물폭탄... \"주말 최대 300㎜ 쏟아진다\" - 조선일보",
+        "zh": "수도권 등 중부 물폭탄... \"주말 최대 300㎜ 쏟아진다\" - 조선일보"
       }
     },
     {
-      "title": "트럼프, 다시 ‘끌어모은’ 부정선거론…“새로운 것도 증거도 없다” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1268764.html",
+      "title": "의정부 아파트서 부부 추락사…자녀 2명도 집에서 숨진 채 발견 - 동아일보",
+      "link": "https://www.donga.com/news/Society/article/all/20260717/134317589/2",
+      "source": "동아일보",
+      "pubDate": "Fri, 17 Jul 2026 07:57:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/17/134317596.1.jpg",
+      "summaries": {
+        "ko": "의정부 아파트서 부부 추락사…자녀 2명도 집에서 숨진 채 발견 - 동아일보",
+        "en": "의정부 아파트서 부부 추락사…자녀 2명도 집에서 숨진 채 발견 - 동아일보",
+        "zh": "의정부 아파트서 부부 추락사…자녀 2명도 집에서 숨진 채 발견 - 동아일보"
+      }
+    },
+    {
+      "title": "주말 밤사이 물폭탄이 덮쳤다... 서울 강서·은평·마포 ‘침수 경보’ - 조선일보",
+      "link": "https://www.chosun.com/national/2026/07/18/TXYOHK3M4BE25KSMX425UN7CCE/",
+      "source": "조선일보",
+      "pubDate": "Sat, 18 Jul 2026 01:05:54 GMT",
+      "image": "https://www.chosun.com/resizer/v2/BD4R6POOP5A6VMSP6Y5TVCL2DA.gif?auth=24dae01d7db601736c0b9de3e5e6a0820f2d2f38dfb69c21ab38a8f1f95cd6ad&width=800&height=420&smart=true",
+      "summaries": {
+        "ko": "주말 밤사이 물폭탄이 덮쳤다... 서울 강서·은평·마포 ‘침수 경보’ - 조선일보",
+        "en": "주말 밤사이 물폭탄이 덮쳤다... 서울 강서·은평·마포 ‘침수 경보’ - 조선일보",
+        "zh": "주말 밤사이 물폭탄이 덮쳤다... 서울 강서·은평·마포 ‘침수 경보’ - 조선일보"
+      }
+    },
+    {
+      "title": "대구 수성구에 첫 ‘재난성 호우’…15분 31.5㎜, 1시간 89㎜ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1268786.html",
       "source": "한겨레",
-      "pubDate": "Fri, 17 Jul 2026 09:58:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/581/imgdb/child/2026/0715/53_17840975130364_20260715502420.webp",
+      "pubDate": "Fri, 17 Jul 2026 14:49:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0717/53_17842997410398_20260717501633.webp",
       "summaries": {
-        "ko": "트럼프, 다시 ‘끌어모은’ 부정선거론…“새로운 것도 증거도 없다” - 한겨레",
-        "en": "트럼프, 다시 ‘끌어모은’ 부정선거론…“새로운 것도 증거도 없다” - 한겨레",
-        "zh": "트럼프, 다시 ‘끌어모은’ 부정선거론…“새로운 것도 증거도 없다” - 한겨레"
+        "ko": "대구 수성구에 첫 ‘재난성 호우’…15분 31.5㎜, 1시간 89㎜ - 한겨레",
+        "en": "대구 수성구에 첫 ‘재난성 호우’…15분 31.5㎜, 1시간 89㎜ - 한겨레",
+        "zh": "대구 수성구에 첫 ‘재난성 호우’…15분 31.5㎜, 1시간 89㎜ - 한겨레"
       }
     },
     {
-      "title": "'의정부 일가족 사망' 전 경찰 출동…장소 못 찾아 철수(종합) - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260717041051060",
-      "source": "연합뉴스",
-      "pubDate": "Fri, 17 Jul 2026 13:13:55 GMT",
-      "image": "https://img7.yna.co.kr/photo/cms/2019/03/25/24/PCM20190325000124990_P4.jpg",
+      "title": "수도권 큰비 쏟은 비구름 동쪽으로…강원 시간당 50㎜ 폭우 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1268791.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 18 Jul 2026 00:50:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0718/53_17843358141252_7417843357953198.webp",
       "summaries": {
-        "ko": "'의정부 일가족 사망' 전 경찰 출동…장소 못 찾아 철수(종합) - 연합뉴스",
-        "en": "'의정부 일가족 사망' 전 경찰 출동…장소 못 찾아 철수(종합) - 연합뉴스",
-        "zh": "'의정부 일가족 사망' 전 경찰 출동…장소 못 찾아 철수(종합) - 연합뉴스"
+        "ko": "수도권 큰비 쏟은 비구름 동쪽으로…강원 시간당 50㎜ 폭우 - 한겨레",
+        "en": "수도권 큰비 쏟은 비구름 동쪽으로…강원 시간당 50㎜ 폭우 - 한겨레",
+        "zh": "수도권 큰비 쏟은 비구름 동쪽으로…강원 시간당 50㎜ 폭우 - 한겨레"
       }
     },
     {
-      "title": "공청회 한번 없이 통합 사관학교 강행… 軍안팎 \"결국 육사 없애기\" - 조선일보",
-      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/07/17/7O6REUPBT5C4FIRZFMGBMFCTUU/",
-      "source": "조선일보",
-      "pubDate": "Thu, 16 Jul 2026 15:53:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/VOXVUYWKR5LEJJ4FDQF2UPQTTI.jpg?auth=0108f03d1bdf9a8c97d4d9e443b8f964edf71185078cfeae3db017bb532b740c&width=1200&height=630&focal=636,438",
+      "title": "[속보] 서울 동부간선도로 통제 해제…전 구간 통행 재개",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260718111532vvJ",
+      "source": "Breaking News",
+      "pubDate": "Sat, 18 Jul 2026 11:15:34 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260718/MYH20260718111532vvJ.jpg",
       "summaries": {
-        "ko": "공청회 한번 없이 통합 사관학교 강행… 軍안팎 \"결국 육사 없애기\" - 조선일보",
-        "en": "공청회 한번 없이 통합 사관학교 강행… 軍안팎 \"결국 육사 없애기\" - 조선일보",
-        "zh": "공청회 한번 없이 통합 사관학교 강행… 軍안팎 \"결국 육사 없애기\" - 조선일보"
-      }
-    },
-    {
-      "title": "정점식 \"제헌절 껍데기가 아닌 '토론과 합의' 정신 기려야\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6838150_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Fri, 17 Jul 2026 01:50:57 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/17/jse_20260717_13.jpg",
-      "summaries": {
-        "ko": "정점식 \"제헌절 껍데기가 아닌 '토론과 합의' 정신 기려야\" - MBC 뉴스",
-        "en": "정점식 \"제헌절 껍데기가 아닌 '토론과 합의' 정신 기려야\" - MBC 뉴스",
-        "zh": "정점식 \"제헌절 껍데기가 아닌 '토론과 합의' 정신 기려야\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "경찰직협 \"장윤기 사건 키운 청장대행·광주청장 사퇴해야\" - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/07/17/NXI7ZJQMTRCA5BMLMTHKE53NIQ/",
-      "source": "조선일보",
-      "pubDate": "Fri, 17 Jul 2026 12:02:19 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GU2DKMLFMEYTGNBZGJRWKZJWMQ.jpg?auth=2f4807a2a0d04724e2a9b0596a86dbc28b25b41d75b5bfe6b42d2c3b15192fb7&width=720&height=378&smart=true",
-      "summaries": {
-        "ko": "경찰직협 \"장윤기 사건 키운 청장대행·광주청장 사퇴해야\" - 조선일보",
-        "en": "경찰직협 \"장윤기 사건 키운 청장대행·광주청장 사퇴해야\" - 조선일보",
-        "zh": "경찰직협 \"장윤기 사건 키운 청장대행·광주청장 사퇴해야\" - 조선일보"
-      }
-    },
-    {
-      "title": "조정식 국회의장 ‘2028년 5월내 개헌’ 구상 밝혀…“미뤄 온 책무” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260717/134316983/1",
-      "source": "동아일보",
-      "pubDate": "Fri, 17 Jul 2026 07:52:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/17/134317214.1.jpg",
-      "summaries": {
-        "ko": "조정식 국회의장 ‘2028년 5월내 개헌’ 구상 밝혀…“미뤄 온 책무” - 동아일보",
-        "en": "조정식 국회의장 ‘2028년 5월내 개헌’ 구상 밝혀…“미뤄 온 책무” - 동아일보",
-        "zh": "조정식 국회의장 ‘2028년 5월내 개헌’ 구상 밝혀…“미뤄 온 책무” - 동아일보"
+        "ko": "[속보] 서울 동부간선도로 통제 해제…전 구간 통행 재개",
+        "en": "[속보] 서울 동부간선도로 통제 해제…전 구간 통행 재개",
+        "zh": "[속보] 서울 동부간선도로 통제 해제…전 구간 통행 재개"
       }
     }
   ]
