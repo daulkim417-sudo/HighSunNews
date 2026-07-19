@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-19T20:12:40.452751",
+  "lastUpdate": "2026-07-19T21:07:38.805907",
   "items": [
     {
       "title": "[속보]인천 쿠팡 물류센터 붕괴 위험…반경 116m 구민에 대피령 - 동아일보",
@@ -32,21 +32,21 @@
       "pubDate": "Sun, 19 Jul 2026 15:36:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0719/20260719502192.webp",
       "summaries": {
-        "ko": "미국이 이란에 8일 연속 공습을 가해 건설 중인 원자력발전소 현장까지 타격했다고 이란이 주장하고, 이란은 주변국 시설을 공격하며 호르무즈 해협 통제권을 주장하는 등 양국 간 군사적 긴장이 고조되고 있다.",
-        "en": "Military tensions between the US and Iran are escalating as the US conducted eight consecutive days of airstrikes, including one that Iran claimed hit a nuclear power plant under construction, while Iran retaliated against neighboring countries' facilities and asserted control over the Strait of Hormuz.",
-        "zh": "美伊军事紧张局势升级，美国连续8天对伊朗实施空袭，伊朗方面则声称一座在建核电站现场遭到袭击，同时伊朗也反击攻击邻国设施，并宣称控制霍尔木兹海峡。"
+        "ko": "이란 “미군, 건설 중인 발전소 타격”…호르무즈선 “선박 제지” - 한겨레",
+        "en": "이란 “미군, 건설 중인 발전소 타격”…호르무즈선 “선박 제지” - 한겨레",
+        "zh": "이란 “미군, 건설 중인 발전소 타격”…호르무즈선 “선박 제지” - 한겨레"
       }
     },
     {
-      "title": "끝없는 보복전…러, 키이우에 '최대 규모' 탄도미사일 공격(종합) - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260719041851109",
-      "source": "연합뉴스",
-      "pubDate": "Sun, 19 Jul 2026 14:33:48 GMT",
-      "image": "https://img5.yna.co.kr/photo/etc/af/2026/07/19/PAF20260719144101009_P4.jpg",
+      "title": "푸틴, 최선희 외무상과 만남…\"북한 지도부에 감사\" - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260720013557pec",
+      "source": "연합뉴스TV",
+      "pubDate": "Sun, 19 Jul 2026 16:35:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260719/AKR20260720013557pec_01_i.jpg",
       "summaries": {
-        "ko": "끝없는 보복전…러, 키이우에 '최대 규모' 탄도미사일 공격(종합) - 연합뉴스",
-        "en": "끝없는 보복전…러, 키이우에 '최대 규모' 탄도미사일 공격(종합) - 연합뉴스",
-        "zh": "끝없는 보복전…러, 키이우에 '최대 규모' 탄도미사일 공격(종합) - 연합뉴스"
+        "ko": "푸틴, 최선희 외무상과 만남…\"북한 지도부에 감사\" - 연합뉴스TV",
+        "en": "푸틴, 최선희 외무상과 만남…\"북한 지도부에 감사\" - 연합뉴스TV",
+        "zh": "푸틴, 최선희 외무상과 만남…\"북한 지도부에 감사\" - 연합뉴스TV"
       }
     },
     {
@@ -110,27 +110,15 @@
       }
     },
     {
-      "title": "인천 쿠팡물류센터 인근 대피령…\"붕괴 가능성\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260720045457zvz",
+      "title": "트럼프 \"메시 질 거라 베팅 어려워\"…아르헨 우승 예상",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260720055943gQ1",
       "source": "Breaking News",
-      "pubDate": "Mon, 20 Jul 2026 04:54:58 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260719/MYH20260720045457zvz.jpg",
+      "pubDate": "Mon, 20 Jul 2026 05:59:44 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260719/AKR20260720055943gQ1_01_i.jpg",
       "summaries": {
-        "ko": "인천 쿠팡물류센터 인근 대피령…\"붕괴 가능성\"",
-        "en": "인천 쿠팡물류센터 인근 대피령…\"붕괴 가능성\"",
-        "zh": "인천 쿠팡물류센터 인근 대피령…\"붕괴 가능성\""
-      }
-    },
-    {
-      "title": "[속보] 인천 서해구, 인근 대피령…\"쿠팡물류센터 붕괴 가능성\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202607192251200Zu",
-      "source": "Breaking News",
-      "pubDate": "Sun, 19 Jul 2026 22:51:23 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260719/AKR202607192251200Zu_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 인천 서해구, 인근 대피령…\"쿠팡물류센터 붕괴 가능성\"",
-        "en": "[속보] 인천 서해구, 인근 대피령…\"쿠팡물류센터 붕괴 가능성\"",
-        "zh": "[속보] 인천 서해구, 인근 대피령…\"쿠팡물류센터 붕괴 가능성\""
+        "ko": "트럼프 \"메시 질 거라 베팅 어려워\"…아르헨 우승 예상",
+        "en": "트럼프 \"메시 질 거라 베팅 어려워\"…아르헨 우승 예상",
+        "zh": "트럼프 \"메시 질 거라 베팅 어려워\"…아르헨 우승 예상"
       }
     }
   ]
