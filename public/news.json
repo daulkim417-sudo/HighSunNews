@@ -1,76 +1,52 @@
 {
-  "lastUpdate": "2026-07-19T14:08:12.162473",
+  "lastUpdate": "2026-07-19T15:09:20.486287",
   "items": [
-    {
-      "title": "27시간째 지속되는 인천 쿠팡 물류센터 화재… \"오후 11시 초진 전망\" - 조선일보",
-      "link": "https://www.chosun.com/national/incident/2026/07/19/6NZXGIAEWREH7FS65GT6KCD4UI/",
-      "source": "조선일보",
-      "pubDate": "Sun, 19 Jul 2026 00:33:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/3GJV4EIWRFGOZGEXDSWI6MINAA.gif?auth=5e58346ce26b3b88520576834f992dd19accb6eee4b4be407504f934f4a4f679&width=480&height=252&smart=true",
-      "summaries": {
-        "ko": "27시간째 지속되는 인천 쿠팡 물류센터 화재… \"오후 11시 초진 전망\" - 조선일보",
-        "en": "27시간째 지속되는 인천 쿠팡 물류센터 화재… \"오후 11시 초진 전망\" - 조선일보",
-        "zh": "27시간째 지속되는 인천 쿠팡 물류센터 화재… \"오후 11시 초진 전망\" - 조선일보"
-      }
-    },
     {
       "title": "기초연금 지급 기준 바뀐다는데…대거 수급 탈락하나 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/rights/1268892.html",
       "source": "한겨레",
-      "pubDate": "Sun, 19 Jul 2026 11:14:00 GMT",
+      "pubDate": "Sun, 19 Jul 2026 13:11:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/670/507/imgdb/original/2026/0719/20260719501855.webp",
       "summaries": {
-        "ko": "정부가 기초연금 수급자 선정 기준을 '하위 70%'에서 '기준중위소득'으로 변경하며, 기존 수급자 탈락은 최소화하고 장기적으로 '하후상박' 구조로 전환하는 개편안을 마련 중이다.",
-        "en": "The South Korean government is revising the basic pension eligibility criteria from the current 'lower 70%' to the 'median income standard', aiming to minimize disqualification of existing beneficiaries while gradually transitioning to a more targeted 'lower-richer, upper-poorer' system.",
-        "zh": "韩国政府正将基础养老金领取标准从目前的‘下位70%’改为‘基准中位收入’，旨在最大程度减少现有领取者被取消资格，并逐步转向‘厚下薄上’的结构。"
+        "ko": "정부가 기초연금 수급자 선정 기준을 '하위 70%'에서 '기준중위소득'으로 변경하고 기존 수급자의 연금액은 유지하면서 더 가난한 노인에게 혜택을 확대하는 '하후상박' 방식을 도입할 예정이지만, 시행 초기 수급자 변동 폭은 크지 않을 수 있습니다.",
+        "en": "The government is changing the basic pension eligibility criteria from 'lowest 70%' to 'median income standard,' planning to introduce a 'more for the poor, less for the better-off' system that maintains existing recipients' benefits while expanding aid to poorer seniors, though the initial change in the number of beneficiaries may not be significant.",
+        "zh": "韩国政府计划将基础养老金领取资格标准从“收入下位70%”改为“中位收入标准”，并引入“下厚上薄”模式，即维持现有领取者的金额，同时增加对贫困老人的福利，但预计实施初期领取人数的变动幅度不会太大。"
       }
     },
     {
-      "title": "미군 2명 사망, 강한 응징과 제한적 대응 사이…또 딜레마에 빠진 트럼프 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1268896.html",
+      "title": "이란 “미군, 건설 중인 발전소 타격”…호르무즈선 “선박 제지” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1268933.html",
       "source": "한겨레",
-      "pubDate": "Sun, 19 Jul 2026 12:20:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/544/imgdb/original/2026/0719/20260719501894.webp",
+      "pubDate": "Sun, 19 Jul 2026 13:12:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0719/20260719502192.webp",
       "summaries": {
-        "ko": "미군 2명 사망, 강한 응징과 제한적 대응 사이…또 딜레마에 빠진 트럼프 - 한겨레",
-        "en": "미군 2명 사망, 강한 응징과 제한적 대응 사이…또 딜레마에 빠진 트럼프 - 한겨레",
-        "zh": "미군 2명 사망, 강한 응징과 제한적 대응 사이…또 딜레마에 빠진 트럼프 - 한겨레"
+        "ko": "이란 “미군, 건설 중인 발전소 타격”…호르무즈선 “선박 제지” - 한겨레",
+        "en": "이란 “미군, 건설 중인 발전소 타격”…호르무즈선 “선박 제지” - 한겨레",
+        "zh": "이란 “미군, 건설 중인 발전소 타격”…호르무즈선 “선박 제지” - 한겨레"
       }
     },
     {
-      "title": "李대통령, 국민의힘 '당무 개입' 비판에 \"최소한 상식을 가지라\" - 뉴스핌",
-      "link": "https://www.newspim.com/news/view/20260719000148",
-      "source": "뉴스핌",
-      "pubDate": "Sun, 19 Jul 2026 13:06:00 GMT",
-      "image": "https://img.newspim.com/news/2026/03/31/260331150900782_t1.jpg",
+      "title": "‘청년 출마비 4배’에 대통령까지 나서자…여당 선관위 “재논의” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607192132005",
+      "source": "경향신문",
+      "pubDate": "Sun, 19 Jul 2026 12:32:00 GMT",
+      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
       "summaries": {
-        "ko": "李대통령, 국민의힘 '당무 개입' 비판에 \"최소한 상식을 가지라\" - 뉴스핌",
-        "en": "李대통령, 국민의힘 '당무 개입' 비판에 \"최소한 상식을 가지라\" - 뉴스핌",
-        "zh": "李대통령, 국민의힘 '당무 개입' 비판에 \"최소한 상식을 가지라\" - 뉴스핌"
+        "ko": "‘청년 출마비 4배’에 대통령까지 나서자…여당 선관위 “재논의” - 경향신문",
+        "en": "‘청년 출마비 4배’에 대통령까지 나서자…여당 선관위 “재논의” - 경향신문",
+        "zh": "‘청년 출마비 4배’에 대통령까지 나서자…여당 선관위 “재논의” - 경향신문"
       }
     },
     {
-      "title": "추미애 “수사·기소 분리 후퇴는 반민주적 검찰 회귀”…수사권 부활 우려 표명 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/capital/1268831.html",
+      "title": "문희상 “전대 ‘적통 논쟁’ 한심…대통령 뒷받침·직언하는 당 대표 필요” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1268923.html",
       "source": "한겨레",
-      "pubDate": "Sun, 19 Jul 2026 01:07:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/660/440/imgdb/original/2026/0719/20260719500511.webp",
+      "pubDate": "Sun, 19 Jul 2026 13:31:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/351/imgdb/original/2026/0719/20260719502059.webp",
       "summaries": {
-        "ko": "추미애 “수사·기소 분리 후퇴는 반민주적 검찰 회귀”…수사권 부활 우려 표명 - 한겨레",
-        "en": "추미애 “수사·기소 분리 후퇴는 반민주적 검찰 회귀”…수사권 부활 우려 표명 - 한겨레",
-        "zh": "추미애 “수사·기소 분리 후퇴는 반민주적 검찰 회귀”…수사권 부활 우려 표명 - 한겨레"
-      }
-    },
-    {
-      "title": "퇴행의 여당 전대 “제발 미래를 보라”…과열 경쟁 속 예비경선 시작 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1268925.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 19 Jul 2026 11:02:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/404/imgdb/original/2026/0719/20260719502066.webp",
-      "summaries": {
-        "ko": "퇴행의 여당 전대 “제발 미래를 보라”…과열 경쟁 속 예비경선 시작 - 한겨레",
-        "en": "퇴행의 여당 전대 “제발 미래를 보라”…과열 경쟁 속 예비경선 시작 - 한겨레",
-        "zh": "퇴행의 여당 전대 “제발 미래를 보라”…과열 경쟁 속 예비경선 시작 - 한겨레"
+        "ko": "문희상 “전대 ‘적통 논쟁’ 한심…대통령 뒷받침·직언하는 당 대표 필요” - 한겨레",
+        "en": "문희상 “전대 ‘적통 논쟁’ 한심…대통령 뒷받침·직언하는 당 대표 필요” - 한겨레",
+        "zh": "문희상 “전대 ‘적통 논쟁’ 한심…대통령 뒷받침·직언하는 당 대표 필요” - 한겨레"
       }
     },
     {
@@ -98,15 +74,27 @@
       }
     },
     {
-      "title": "장윤기 수사팀장 \"직속 상관이 일반 살인으로 처리하라 지시\" - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/07/19/Q4TPWRWSHJGLBKA3U5LEX2JAE4/",
-      "source": "조선일보",
-      "pubDate": "Sun, 19 Jul 2026 07:55:40 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GMZDMODCGEZGIOLEMUYDIOBRGM.jpg?auth=e399c559c2b412f14a8da44fad5b1b59b5c09c97033a2f9f620b6ff4cdaf0656&width=1200&height=630&smart=true",
+      "title": "추미애, 檢보완수사 일부 인정 주장에 “文정부 전으로 회귀하는 것” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260719/134320774/1",
+      "source": "동아일보",
+      "pubDate": "Sun, 19 Jul 2026 00:26:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/19/134320858.1.jpg",
       "summaries": {
-        "ko": "장윤기 수사팀장 \"직속 상관이 일반 살인으로 처리하라 지시\" - 조선일보",
-        "en": "장윤기 수사팀장 \"직속 상관이 일반 살인으로 처리하라 지시\" - 조선일보",
-        "zh": "장윤기 수사팀장 \"직속 상관이 일반 살인으로 처리하라 지시\" - 조선일보"
+        "ko": "추미애, 檢보완수사 일부 인정 주장에 “文정부 전으로 회귀하는 것” - 동아일보",
+        "en": "추미애, 檢보완수사 일부 인정 주장에 “文정부 전으로 회귀하는 것” - 동아일보",
+        "zh": "추미애, 檢보완수사 일부 인정 주장에 “文정부 전으로 회귀하는 것” - 동아일보"
+      }
+    },
+    {
+      "title": "장윤기가 ‘자필 의견서’에 쓴 글 보니…“우리 가족에게 피해 안 갔으면” - 문화일보",
+      "link": "https://www.munhwa.com/article/11603443",
+      "source": "문화일보",
+      "pubDate": "Sun, 19 Jul 2026 03:53:23 GMT",
+      "image": "https://wimg.munhwa.com/news/cms/2026/07/19/news-p.v1.20260719.7d46f323876c48edb32a773f8c58cf77_R.jpg",
+      "summaries": {
+        "ko": "장윤기가 ‘자필 의견서’에 쓴 글 보니…“우리 가족에게 피해 안 갔으면” - 문화일보",
+        "en": "장윤기가 ‘자필 의견서’에 쓴 글 보니…“우리 가족에게 피해 안 갔으면” - 문화일보",
+        "zh": "장윤기가 ‘자필 의견서’에 쓴 글 보니…“우리 가족에게 피해 안 갔으면” - 문화일보"
       }
     },
     {
