@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-07-20T19:56:31.922153",
+  "lastUpdate": "2026-07-20T20:57:45.053694",
   "items": [
-    {
-      "title": "인천 쿠팡 불길, 61시간 만에 잡혔다…대형 물류센터 화재 취약성 ‘숙제’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/area_general/1269123.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 20 Jul 2026 14:01:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/701/389/imgdb/original/2026/0720/20260720503331.webp",
-      "summaries": {
-        "ko": "지난 18일 발생한 인천 쿠팡 물류센터 화재가 61시간 만인 20일 밤 초진되었으나, 리튬배터리 탑재 로봇과 대형 물류센터의 구조적 취약성, 최신 안전 기준 미적용 등이 문제점으로 드러났다.",
-        "en": "A major fire at the Incheon Coupang logistics center, which started on the 18th, was brought under initial control on the evening of the 20th after 61 hours, but the presence of robots with lithium batteries, the structural vulnerability of large logistics centers, and the non-application of the latest safety standards were highlighted as significant issues.",
-        "zh": "仁川酷澎物流中心自18日发生的大火在61小时后于20日晚初步扑灭，但含有锂电池的机器人、大型物流中心的结构性脆弱以及未适用最新安全标准等问题被指出。"
-      }
-    },
     {
       "title": "’봐주기 감사’ 유병호 구속…김건희는 조사 연기 - 연합뉴스TV",
       "link": "https://www.yonhapnewstv.co.kr/news/MYH202607210052374BI",
@@ -20,21 +8,9 @@
       "pubDate": "Mon, 20 Jul 2026 15:52:00 GMT",
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260720/MYH202607210052374BI.jpg",
       "summaries": {
-        "ko": "’봐주기 감사’ 유병호 구속…김건희는 조사 연기 - 연합뉴스TV",
-        "en": "’봐주기 감사’ 유병호 구속…김건희는 조사 연기 - 연합뉴스TV",
-        "zh": "’봐주기 감사’ 유병호 구속…김건희는 조사 연기 - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "김민석 “당을 사당화시켰다” 면전서 정청래 직격···정 “통합에 내가 적임자” 반격 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607201951001",
-      "source": "경향신문",
-      "pubDate": "Mon, 20 Jul 2026 10:51:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/20/news-p.v1.20260720.9563754c70f3493bb99edf3b84fe9d00_P1.jpeg",
-      "summaries": {
-        "ko": "김민석 “당을 사당화시켰다” 면전서 정청래 직격···정 “통합에 내가 적임자” 반격 - 경향신문",
-        "en": "김민석 “당을 사당화시켰다” 면전서 정청래 직격···정 “통합에 내가 적임자” 반격 - 경향신문",
-        "zh": "김민석 “당을 사당화시켰다” 면전서 정청래 직격···정 “통합에 내가 적임자” 반격 - 경향신문"
+        "ko": "유병호 감사원 감사위원이 윤석열 정부 관저 이전 관련 '봐주기 감사' 의혹으로 구속되었으며, 김건희 씨는 관련 조사가 두 차례 연기되었습니다.",
+        "en": "Yu Byeong-ho, a Board of Audit and Inspection commissioner, was arrested on suspicion of leading a 'lenient audit' regarding the relocation of the presidential residence under the Yoon Suk-yeol government, while Kim Keon-hee's related investigation has been postponed twice.",
+        "zh": "监查院监查委员柳炳浩因涉嫌主导尹锡悦政府总统官邸搬迁相关“宽大监查”而被捕，而金建希的相关调查已两次延期。"
       }
     },
     {
@@ -50,6 +26,30 @@
       }
     },
     {
+      "title": "해외파견 정보요원 신상도 털렸을 가능성… 北 해킹 여부 조사 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260721/134332319/2",
+      "source": "동아일보",
+      "pubDate": "Mon, 20 Jul 2026 19:30:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/21/134332909.1.jpg",
+      "summaries": {
+        "ko": "해외파견 정보요원 신상도 털렸을 가능성… 北 해킹 여부 조사 - 동아일보",
+        "en": "해외파견 정보요원 신상도 털렸을 가능성… 北 해킹 여부 조사 - 동아일보",
+        "zh": "해외파견 정보요원 신상도 털렸을 가능성… 北 해킹 여부 조사 - 동아일보"
+      }
+    },
+    {
+      "title": "李대통령 지지율 소폭 내려 48.4%…\"與갈등에 지지층 이탈\" - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/07/20/KDF6F3GBRNE7BPCHGW6D5O7PIE/",
+      "source": "조선일보",
+      "pubDate": "Mon, 20 Jul 2026 01:14:59 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GJQWKYRZMY4WEMZRGU2DOMDGMM.jpg?auth=8bafe0b37e3ede51baa08428f4f5e18dabc843d232318acc17eafb34fb08a467&width=600&height=315&focal=292,90",
+      "summaries": {
+        "ko": "李대통령 지지율 소폭 내려 48.4%…\"與갈등에 지지층 이탈\" - 조선일보",
+        "en": "李대통령 지지율 소폭 내려 48.4%…\"與갈등에 지지층 이탈\" - 조선일보",
+        "zh": "李대통령 지지율 소폭 내려 48.4%…\"與갈등에 지지층 이탈\" - 조선일보"
+      }
+    },
+    {
       "title": "“국수본, 장윤기 이주여성 성범죄·고교생 살인사건 분리 지시” - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/society_general/1269116.html",
       "source": "한겨레",
@@ -59,6 +59,18 @@
         "ko": "“국수본, 장윤기 이주여성 성범죄·고교생 살인사건 분리 지시” - 한겨레",
         "en": "“국수본, 장윤기 이주여성 성범죄·고교생 살인사건 분리 지시” - 한겨레",
         "zh": "“국수본, 장윤기 이주여성 성범죄·고교생 살인사건 분리 지시” - 한겨레"
+      }
+    },
+    {
+      "title": "인천 쿠팡 불길, 61시간 만에 잡혔다…대형 물류센터 화재 취약성 ‘숙제’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/area_general/1269123.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 20 Jul 2026 16:08:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/701/389/imgdb/original/2026/0720/20260720503331.webp",
+      "summaries": {
+        "ko": "인천 쿠팡 불길, 61시간 만에 잡혔다…대형 물류센터 화재 취약성 ‘숙제’ - 한겨레",
+        "en": "인천 쿠팡 불길, 61시간 만에 잡혔다…대형 물류센터 화재 취약성 ‘숙제’ - 한겨레",
+        "zh": "인천 쿠팡 불길, 61시간 만에 잡혔다…대형 물류센터 화재 취약성 ‘숙제’ - 한겨레"
       }
     },
     {
@@ -74,51 +86,39 @@
       }
     },
     {
-      "title": "내일 출근길 거센 비... 주말까지 장맛비 계속 - 조선일보",
-      "link": "https://www.chosun.com/national/transport-environment/2026/07/20/O4FZIR2LBZHCHIPSQTFEGJ5OBM/",
+      "title": "김민석 \"명청대전 끝내야\" 정청래 \"1인 1표제 흔드나\" 송영길 \"李정부 성공\" - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/07/20/ZCNZC4X3C5AXHC4ST3YOTNIO3Q/",
       "source": "조선일보",
-      "pubDate": "Mon, 20 Jul 2026 08:46:28 GMT",
-      "image": "https://www.chosun.com/resizer/v2/6AV2C2HIPVNC5OMQVXEEZE4BMY.JPG?auth=291d0392fbb20cc94c4f2fbe0091e053b0ad83f671ba0a0a089f713ad5d740d3&width=1200&height=630&smart=true",
+      "pubDate": "Mon, 20 Jul 2026 10:39:26 GMT",
+      "image": "https://www.chosun.com/resizer/v2/U5EFOUUQLNOLLMV275A4JSSR44.jpg?auth=2fd52eb7b4290ca0d63d6d897e6aa721665b27c39bc50b68f659dc9546713ca3&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "내일 출근길 거센 비... 주말까지 장맛비 계속 - 조선일보",
-        "en": "내일 출근길 거센 비... 주말까지 장맛비 계속 - 조선일보",
-        "zh": "내일 출근길 거센 비... 주말까지 장맛비 계속 - 조선일보"
+        "ko": "김민석 \"명청대전 끝내야\" 정청래 \"1인 1표제 흔드나\" 송영길 \"李정부 성공\" - 조선일보",
+        "en": "김민석 \"명청대전 끝내야\" 정청래 \"1인 1표제 흔드나\" 송영길 \"李정부 성공\" - 조선일보",
+        "zh": "김민석 \"명청대전 끝내야\" 정청래 \"1인 1표제 흔드나\" 송영길 \"李정부 성공\" - 조선일보"
       }
     },
     {
-      "title": "이 대통령 지지율 소폭 하락한 48.4%‥\"경제 악재·여권 갈등에 지지층 이탈\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6838570_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Mon, 20 Jul 2026 01:18:32 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/20/sa_20260720_35.jpg",
+      "title": "오늘 아침, 우산 써도 소용없다…앞도 안 보이는 폭우 ‘시간당 80㎜’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1269086.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 20 Jul 2026 15:01:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0720/53_17845408464907_2217845408074479.webp",
       "summaries": {
-        "ko": "이 대통령 지지율 소폭 하락한 48.4%‥\"경제 악재·여권 갈등에 지지층 이탈\" - MBC 뉴스",
-        "en": "이 대통령 지지율 소폭 하락한 48.4%‥\"경제 악재·여권 갈등에 지지층 이탈\" - MBC 뉴스",
-        "zh": "이 대통령 지지율 소폭 하락한 48.4%‥\"경제 악재·여권 갈등에 지지층 이탈\" - MBC 뉴스"
+        "ko": "오늘 아침, 우산 써도 소용없다…앞도 안 보이는 폭우 ‘시간당 80㎜’ - 한겨레",
+        "en": "오늘 아침, 우산 써도 소용없다…앞도 안 보이는 폭우 ‘시간당 80㎜’ - 한겨레",
+        "zh": "오늘 아침, 우산 써도 소용없다…앞도 안 보이는 폭우 ‘시간당 80㎜’ - 한겨레"
       }
     },
     {
-      "title": "합수본, 중앙선관위 압수수색…노태악 부부 등 외유성 출장 의혹 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260720093255149",
-      "source": "연합뉴스TV",
-      "pubDate": "Mon, 20 Jul 2026 00:59:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260720/AKR20260720093255149_01_i.jpg",
-      "summaries": {
-        "ko": "합수본, 중앙선관위 압수수색…노태악 부부 등 외유성 출장 의혹 - 연합뉴스TV",
-        "en": "합수본, 중앙선관위 압수수색…노태악 부부 등 외유성 출장 의혹 - 연합뉴스TV",
-        "zh": "합수본, 중앙선관위 압수수색…노태악 부부 등 외유성 출장 의혹 - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "트럼프 \"네타냐후, 美 체류 중 절대 체포 안 돼\"… 뉴욕시장 발언에 '보호막'",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260721023741Pbm",
+      "title": "배재고 야구부, '출전정지 1개월'로 징계 감경",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202607210556096ho",
       "source": "Breaking News",
-      "pubDate": "Tue, 21 Jul 2026 02:37:41 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260720/AKR20260721023741Pbm_01_i.jpg",
+      "pubDate": "Tue, 21 Jul 2026 05:56:10 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260720/MYH202607210556096ho.jpg",
       "summaries": {
-        "ko": "트럼프 \"네타냐후, 美 체류 중 절대 체포 안 돼\"… 뉴욕시장 발언에 '보호막'",
-        "en": "트럼프 \"네타냐후, 美 체류 중 절대 체포 안 돼\"… 뉴욕시장 발언에 '보호막'",
-        "zh": "트럼프 \"네타냐후, 美 체류 중 절대 체포 안 돼\"… 뉴욕시장 발언에 '보호막'"
+        "ko": "배재고 야구부, '출전정지 1개월'로 징계 감경",
+        "en": "배재고 야구부, '출전정지 1개월'로 징계 감경",
+        "zh": "배재고 야구부, '출전정지 1개월'로 징계 감경"
       }
     }
   ]
