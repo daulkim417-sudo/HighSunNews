@@ -1,52 +1,64 @@
 {
-  "lastUpdate": "2026-07-21T11:26:54.785312",
+  "lastUpdate": "2026-07-21T12:49:46.273579",
   "items": [
     {
-      "title": "[속보] 법원, 오세훈 시장직 걸린 ‘여론조사비 대납’ 1심 중계 허가 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1269270.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 21 Jul 2026 08:36:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/663/398/imgdb/child/2026/0721/53_17846229269889_20260721503306.webp",
-      "summaries": {
-        "ko": "법원이 오세훈 서울시장의 시장직 상실 여부가 걸린 정치자금법 위반 혐의 1심 선고 재판의 중계를 허가했으며, 선고는 6월 22일 진행될 예정이다.",
-        "en": "The court has allowed the broadcast of Seoul Mayor Oh Se-hoon's first-instance verdict on charges of violating the Political Funds Act, which could result in him losing his mayoral position, with the sentencing scheduled for June 22.",
-        "zh": "法院已允许直播首尔市长吴世勋涉嫌违反政治资金法的初审宣判，该判决可能导致他失去市长职位，宣判定于6月22日进行。"
-      }
-    },
-    {
-      "title": "[속보] ‘종합특검 연장법’ 국무회의 의결… 공포 즉시 발효 - 조선일보",
-      "link": "https://www.chosun.com/politics/goverment/2026/07/21/AAYF7OEOXBHW5CIYGHIIOLBUAI/",
-      "source": "조선일보",
-      "pubDate": "Tue, 21 Jul 2026 08:34:35 GMT",
-      "image": "https://www.chosun.com/resizer/v2/VQZXKKA2RFOMPN5PHQ63J3MYGA.jpg?auth=a9fd3819174246fd889accadc1b3fb96fe7a5f5af95555cf50dbd63dd537ce25&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "[속보] ‘종합특검 연장법’ 국무회의 의결… 공포 즉시 발효 - 조선일보",
-        "en": "[속보] ‘종합특검 연장법’ 국무회의 의결… 공포 즉시 발효 - 조선일보",
-        "zh": "[속보] ‘종합특검 연장법’ 국무회의 의결… 공포 즉시 발효 - 조선일보"
-      }
-    },
-    {
-      "title": "‘집주인 근저당’ 끼고 판 이 대통령 아파트···“일반인이면 토지거래허가 나왔을지 의문” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607211757001",
+      "title": "일반인이면 가능했겠나…이 대통령 분당 아파트 매매 ‘뒷말’ - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607212122005",
       "source": "경향신문",
-      "pubDate": "Tue, 21 Jul 2026 08:57:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/21/rcv.YNA.20260614.PYH2026061304740001300_P1.jpg",
+      "pubDate": "Tue, 21 Jul 2026 12:22:00 GMT",
+      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
       "summaries": {
-        "ko": "이 대통령 부부가 아파트를 매도하면서 소유권 이전 후 매도인이 매수자를 상대로 근저당을 설정하는 일반적이지 않은 방식을 사용했는데, 이는 대출 규제 우회와 재건축 조합원 지위 승계 목적이라는 지적이 나와 논란이 되고 있다.",
-        "en": "President Lee's couple sold an apartment using an unconventional method—transferring ownership first and then the sellers (Lee's couple) setting a mortgage on the property for the buyer—sparking controversy and accusations of circumventing loan regulations and securing reconstruction member status.",
-        "zh": "韩国总统李某夫妇在出售公寓时，采用了先过户后由卖方为买方设定抵押权的非寻常方式，引发争议，被指控旨在规避贷款规定并确保重建会员资格的继承。"
+        "ko": "이재명 대통령 부부의 아파트 매매가 매수자의 대출 어려움과 재건축 조합원 지위 양도 문제를 우회하기 위해 소유권 이전 후 매도자가 근저당권을 설정하는 이례적인 방식으로 진행되어 일반인의 적용 가능성에 대한 의문이 제기되고 있다.",
+        "en": "President Lee's apartment sale involved an unusual method of first transferring ownership and then setting a seller's mortgage, which is interpreted as a strategy to circumvent buyer loan difficulties and reconstruction cooperative member status transfer issues, raising questions about its applicability for ordinary citizens.",
+        "zh": "李总统夫妇出售公寓时，采用了一种不同寻常的方式，即先转移所有权，再由卖方设定抵押权，这被解读为规避买方贷款困难和重建合作社成员身份转让问题的一种策略，引发了普通民众是否也能采用此类方式的质疑。"
       }
     },
     {
-      "title": "이 대통령 “호남반도체 쟁의대상 주장 지나쳐…기준 정리해야” - 한겨레",
+      "title": "윗선 밝히겠다던 국수본이 윗선으로 지목…‘장윤기 부실 수사’ 충격의 연속 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607212113005",
+      "source": "경향신문",
+      "pubDate": "Tue, 21 Jul 2026 12:13:00 GMT",
+      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
+      "summaries": {
+        "ko": "장윤기 사건 부실 수사의 '윗선'으로 국수본이 지목되자, 국수본 소속 특수단과 검찰이 국수본을 동시 압수수색하며 경찰의 '셀프수사' 논란과 부담이 가중되고 있다.",
+        "en": "The National Office of Investigation (NOI) is facing simultaneous raids by its own special investigation team and the prosecution, after being implicated as the 'higher-up' in the Jang Yun-gi case's flawed investigation, fueling 'self-investigation' controversy and escalating pressure on the police.",
+        "zh": "在张允基案件调查不力中，国家搜查本部被指为幕后“高层”，其下属特别调查团和检察机关同时对其进行搜查，加剧了警方“自我调查”的争议和压力。"
+      }
+    },
+    {
+      "title": "대통령실 전화 개입 밝힌 ‘관저 이전’ 감사…김건희만 남았다 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8616277",
+      "source": "KBS 뉴스",
+      "pubDate": "Tue, 21 Jul 2026 10:27:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/07/21/20260721_lHjHQY.png",
+      "summaries": {
+        "ko": "대통령실 전화 개입 밝힌 ‘관저 이전’ 감사…김건희만 남았다 - KBS 뉴스",
+        "en": "대통령실 전화 개입 밝힌 ‘관저 이전’ 감사…김건희만 남았다 - KBS 뉴스",
+        "zh": "대통령실 전화 개입 밝힌 ‘관저 이전’ 감사…김건희만 남았다 - KBS 뉴스"
+      }
+    },
+    {
+      "title": "이 대통령 “부동산 불로소득, 국민통합 저해 주범… 공급확대 속도” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1269319.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 21 Jul 2026 11:47:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/412/imgdb/original/2026/0721/20260721503658.webp",
+      "summaries": {
+        "ko": "이 대통령 “부동산 불로소득, 국민통합 저해 주범… 공급확대 속도” - 한겨레",
+        "en": "이 대통령 “부동산 불로소득, 국민통합 저해 주범… 공급확대 속도” - 한겨레",
+        "zh": "이 대통령 “부동산 불로소득, 국민통합 저해 주범… 공급확대 속도” - 한겨레"
+      }
+    },
+    {
+      "title": "이 대통령, 삼전 노조에 “호남 반도체가 쟁의 대상 주장 지나쳐” - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1269318.html",
       "source": "한겨레",
-      "pubDate": "Tue, 21 Jul 2026 11:09:00 GMT",
+      "pubDate": "Tue, 21 Jul 2026 11:53:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/800/515/imgdb/original/2026/0721/20260721503655.webp",
       "summaries": {
-        "ko": "이재명 대통령은 삼성전자 초기업노조가 호남 반도체 메가프로젝트를 쟁의 대상으로 삼으려는 주장을 비판하며 경영상 결정을 쟁의 대상으로 삼는 것은 지나치고 정부가 노동쟁의 대상을 명확히 정리할 필요가 있다고 밝혔다.",
-        "en": "President Lee Jae-myung criticized the Samsung Electronics multi-company union's demand to make the Honam semiconductor megaproject a labor dispute topic, stating that treating management decisions as dispute subjects is excessive and the government needs to clearly define the scope of labor disputes.",
-        "zh": "李在明总统批评三星电子超企业工会主张将湖南半导体大型项目作为劳资争议对象，表示将经营决策列为争议对象是过度的，政府需要明确劳资争议的范围。"
+        "ko": "이 대통령, 삼전 노조에 “호남 반도체가 쟁의 대상 주장 지나쳐” - 한겨레",
+        "en": "이 대통령, 삼전 노조에 “호남 반도체가 쟁의 대상 주장 지나쳐” - 한겨레",
+        "zh": "이 대통령, 삼전 노조에 “호남 반도체가 쟁의 대상 주장 지나쳐” - 한겨레"
       }
     },
     {
@@ -56,81 +68,57 @@
       "pubDate": "Tue, 21 Jul 2026 08:50:55 GMT",
       "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/21/jh_20260721_32.jpg",
       "summaries": {
-        "ko": "국민의힘이 더불어민주당의 일방적인 원 구성에 대한 보이콧을 중단하고 23일 7개 상임위원장을 선출하며 원내 복귀를 결정했다.",
-        "en": "The People Power Party decided to end its boycott against the Democratic Party's unilateral committee formation and return to the National Assembly, electing 7 standing committee chairpersons on May 23rd.",
-        "zh": "国民力量党决定结束对共同民主党单方面组建国会委员会的抵制，于23日选出7名常任委员长，重返国会。"
+        "ko": "국민의힘, 원내 복귀 결정‥23일 7개 상임위원장 선출 - MBC 뉴스",
+        "en": "국민의힘, 원내 복귀 결정‥23일 7개 상임위원장 선출 - MBC 뉴스",
+        "zh": "국민의힘, 원내 복귀 결정‥23일 7개 상임위원장 선출 - MBC 뉴스"
       }
     },
     {
-      "title": "‘성조기 여성’ 구속 기로…유튜브 채널 만들어 “영장 청구 이유 의문” 주장 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1269241.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 21 Jul 2026 07:08:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/539/imgdb/original/2026/0721/20260721502708.webp",
+      "title": "[단독]이세돌 “카타고, 접바둑인데 한집에 집착…AI 한계 드러내” - 동아일보",
+      "link": "https://www.donga.com/news/Culture/article/all/20260721/134338765/1",
+      "source": "동아일보",
+      "pubDate": "Tue, 21 Jul 2026 10:55:35 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/21/134338798.1.jpg",
       "summaries": {
-        "ko": "성조기를 두르고 올림픽공원 핸드볼경기장 사무실 진입을 막아 업무방해 혐의를 받는 30대 여성이 구속 심사를 받았으며, 유튜브 채널을 통해 영장 청구 이유에 의문을 제기했다.",
-        "en": "A 30-year-old woman, charged with obstruction of business for blocking access to the Olympic Park Handball Stadium office while draped in an American flag, underwent a detention warrant review after creating a YouTube channel to dispute the reasons for her arrest.",
-        "zh": "一名30多岁女性，因披着美国国旗阻拦工作人员进入奥林匹克公园手球馆办公室而被控妨碍公务，她在拘留审查前开设YouTube频道质疑逮捕理由。"
+        "ko": "[단독]이세돌 “카타고, 접바둑인데 한집에 집착…AI 한계 드러내” - 동아일보",
+        "en": "[단독]이세돌 “카타고, 접바둑인데 한집에 집착…AI 한계 드러내” - 동아일보",
+        "zh": "[단독]이세돌 “카타고, 접바둑인데 한집에 집착…AI 한계 드러내” - 동아일보"
       }
     },
     {
-      "title": "’세계 1위’ 신진서 9단, 최강 바둑AI ’카타고’ 이겼다…2승 1패 대역전극 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260721133615Onq",
-      "source": "연합뉴스TV",
-      "pubDate": "Tue, 21 Jul 2026 05:07:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260721/AKR20260721133615Onq_01_i.jpg",
+      "title": "[속보]법원, 오세훈 시장직 달린 ‘명태균 여론조사 대납 혐의’ 1심 선고 중계 허가 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607211700001",
+      "source": "경향신문",
+      "pubDate": "Tue, 21 Jul 2026 08:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/21/rcv.YNA.20260617.PYH2026061704400001300_P1.jpg",
       "summaries": {
-        "ko": "세계 바둑 랭킹 1위 신진서 9단이 최강 바둑 AI 카타고를 상대로 2승 1패의 대역전승을 거두며 인간의 두뇌와 전략이 여전히 유효함을 증명했다.",
-        "en": "World Go number one Shin Jin-seo 9P achieved a dramatic 2-1 come-from-behind victory against the strongest Go AI, KataGo, proving the continued validity of human intellect and strategy.",
-        "zh": "世界围棋排名第一的申真谞九段在与最强围棋AI KataGo的对决中，以2比1的比分取得了逆转胜利，证明了人类智慧和策略的有效性。"
+        "ko": "[속보]법원, 오세훈 시장직 달린 ‘명태균 여론조사 대납 혐의’ 1심 선고 중계 허가 - 경향신문",
+        "en": "[속보]법원, 오세훈 시장직 달린 ‘명태균 여론조사 대납 혐의’ 1심 선고 중계 허가 - 경향신문",
+        "zh": "[속보]법원, 오세훈 시장직 달린 ‘명태균 여론조사 대납 혐의’ 1심 선고 중계 허가 - 경향신문"
       }
     },
     {
-      "title": "[단독] 장동혁 \"선관위 서버 수사까지 가야‥협상력 위해 특검 합의안 추인 반대\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6838986_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 21 Jul 2026 08:03:31 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/21/kds_20260721_6.jpg",
-      "summaries": {
-        "ko": "[단독] 장동혁 \"선관위 서버 수사까지 가야‥협상력 위해 특검 합의안 추인 반대\" - MBC 뉴스",
-        "en": "[단독] 장동혁 \"선관위 서버 수사까지 가야‥협상력 위해 특검 합의안 추인 반대\" - MBC 뉴스",
-        "zh": "[단독] 장동혁 \"선관위 서버 수사까지 가야‥협상력 위해 특검 합의안 추인 반대\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "[속보] 서울 압구정 한양아파트서 화재…주민 대피 중 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260721087700004",
+      "title": "'폭로 안할테니 매출 10% 달라' 요구한 박나래 전 매니저 구속 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260721094200004",
       "source": "연합뉴스",
-      "pubDate": "Tue, 21 Jul 2026 02:19:52 GMT",
-      "image": "https://img0.yna.co.kr/photo/yna/YH/2026/07/21/PYH2026072109400001300_P4.jpg",
+      "pubDate": "Tue, 21 Jul 2026 03:00:02 GMT",
+      "image": "https://img4.yna.co.kr/photo/yna/YH/2026/02/20/PYH2026022016950001300_P4.jpg",
       "summaries": {
-        "ko": "[속보] 서울 압구정 한양아파트서 화재…주민 대피 중 - 연합뉴스",
-        "en": "[속보] 서울 압구정 한양아파트서 화재…주민 대피 중 - 연합뉴스",
-        "zh": "[속보] 서울 압구정 한양아파트서 화재…주민 대피 중 - 연합뉴스"
+        "ko": "'폭로 안할테니 매출 10% 달라' 요구한 박나래 전 매니저 구속 - 연합뉴스",
+        "en": "'폭로 안할테니 매출 10% 달라' 요구한 박나래 전 매니저 구속 - 연합뉴스",
+        "zh": "'폭로 안할테니 매출 10% 달라' 요구한 박나래 전 매니저 구속 - 연합뉴스"
       }
     },
     {
-      "title": "특검 \"김건희 '명태균 게이트' 공동정범\"‥대법원에 의견서 제출 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6838913_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 21 Jul 2026 04:47:40 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/21/ljm_20260721_13.jpg",
-      "summaries": {
-        "ko": "특검 \"김건희 '명태균 게이트' 공동정범\"‥대법원에 의견서 제출 - MBC 뉴스",
-        "en": "특검 \"김건희 '명태균 게이트' 공동정범\"‥대법원에 의견서 제출 - MBC 뉴스",
-        "zh": "특검 \"김건희 '명태균 게이트' 공동정범\"‥대법원에 의견서 제출 - MBC 뉴스"
-      }
-    },
-    {
-      "title": "[속보] 후티 \"사우디 항구 오가는 선박 어디서든 표적\" 경고",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260721195357py6",
+      "title": "인천 쿠팡물류센터 방화구획 무력화…화재 진압 난항",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260721214700dM2",
       "source": "Breaking News",
-      "pubDate": "Tue, 21 Jul 2026 19:54:00 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260721/AKR20260721195357py6_01_i.jpg",
+      "pubDate": "Tue, 21 Jul 2026 21:47:00 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260721/MYH20260721214700dM2.jpg",
       "summaries": {
-        "ko": "[속보] 후티 \"사우디 항구 오가는 선박 어디서든 표적\" 경고",
-        "en": "[속보] 후티 \"사우디 항구 오가는 선박 어디서든 표적\" 경고",
-        "zh": "[속보] 후티 \"사우디 항구 오가는 선박 어디서든 표적\" 경고"
+        "ko": "인천 쿠팡물류센터 방화구획 무력화…화재 진압 난항",
+        "en": "인천 쿠팡물류센터 방화구획 무력화…화재 진압 난항",
+        "zh": "인천 쿠팡물류센터 방화구획 무력화…화재 진압 난항"
       }
     }
   ]
