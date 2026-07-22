@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-22T12:19:16.244581",
+  "lastUpdate": "2026-07-22T14:25:50.001264",
   "items": [
     {
       "title": "[변화] 오세훈, '명태균 여론조사 대납' 1심 '당선무효형' - 뉴스타파",
@@ -8,105 +8,93 @@
       "pubDate": "Wed, 22 Jul 2026 11:23:47 GMT",
       "image": "https://d1lawh9lju1xqd.cloudfront.net/2026/07/22201954-AB22-8894-A94F-KUJFXEBJOYWYPSUI5K5G.jpg",
       "summaries": {
-        "ko": "오세훈 시장이 1심에서 명태균 씨에게 비공표 여론조사 3건을 의뢰하고 결과를 전달받은 사실이 인정되어 당선무효형을 선고받았다.",
-        "en": "Mayor Oh Se-hoon was sentenced to election invalidation in the first trial after the court acknowledged he commissioned three undisclosed public opinion polls through Myeong Tae-gyun and received their results.",
-        "zh": "首尔市长吴世勋因在一审中被认定通过明泰均委托并接收了三项非公开民意调查结果，而被判当选无效。"
+        "ko": "오세훈 시장은 명태균 씨가 대납한 비공표 여론조사 3건을 의뢰하고 결과를 전달받은 사실이 인정되어 1심에서 당선무효형을 선고받았다.",
+        "en": "Mayor Oh Se-hoon received an election invalidation sentence in the first trial, acknowledging that he ordered three undeclared public opinion polls paid for by Myeong Tae-kyun and received their results.",
+        "zh": "吴世勋市长被认定委托并接收了由明泰均代为支付的三项非公开民意调查结果，因此在一审中被判处当选无效刑。"
+      }
+    },
+    {
+      "title": "보완수사권 폐지 원안 여당, 우려에도 ‘강행’ - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607222139005",
+      "source": "경향신문",
+      "pubDate": "Wed, 22 Jul 2026 12:39:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/22/l_2026072301000698900067981.jpg",
+      "summaries": {
+        "ko": "더불어민주당은 당 안팎의 우려와 당내 이견에도 불구하고 검찰 보완수사권 전면 폐지를 골자로 한 형사소송법 개정안을 8월 전당대회 전 강행 처리하기로 했다.",
+        "en": "Despite internal and external concerns and party disagreements, the Democratic Party has decided to push ahead with a criminal procedure law amendment that completely abolishes the prosecutor's supplementary investigation power, aiming to pass it before the August national convention.",
+        "zh": "尽管党内外存在担忧和党内分歧，韩国民主党仍决定在8月全国代表大会前强行通过以全面废除检察官补充侦查权为核心的刑事诉讼法修正案。"
+      }
+    },
+    {
+      "title": "이란, 트럼프 ‘곡괭이산’ 타격 예고에 “전쟁 확대로 간주하겠다” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1269477.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 22 Jul 2026 11:22:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/781/523/imgdb/original/2026/0722/20260722503155.webp",
+      "summaries": {
+        "ko": "도널드 트럼프 미국 대통령이 이란의 지하 핵시설로 의심되는 '곡괭이산' 타격을 시사하자, 이란은 이를 전쟁 확대로 간주하고 미국과 동맹국 자산에 대한 보복 공격을 경고했다.",
+        "en": "As US President Donald Trump hinted at striking Iran's suspected underground nuclear facility, 'Pickaxe Mountain', Iran warned it would consider such an act an expansion of war and retaliate against US and allied assets.",
+        "zh": "美国总统唐纳德·特朗普暗示将打击伊朗疑似的地下核设施“镐山”后，伊朗警告称此举将被视为战争升级，并扬言报复美国及其盟友的资产。"
       }
     },
     {
       "title": "“썩은 내” 유시민에…정청래 “저는 노코멘트” 송영길 “안타까워” - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/assembly/1269460.html",
       "source": "한겨레",
-      "pubDate": "Wed, 22 Jul 2026 08:33:00 GMT",
+      "pubDate": "Wed, 22 Jul 2026 10:54:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/601/imgdb/original/2026/0722/20260722502993.webp",
       "summaries": {
-        "ko": "유시민 작가가 이재명 대통령을 “어물전 썩은 내” 등으로 비판하자 더불어민주당 내에서 “엉터리 예언”, “전당대회 개입” 등 격앙된 반발과 함께 정청래 후보는 “노코멘트”하는 등 다양한 반응이 나왔다.",
-        "en": "Yoo Si-min's strong criticism of President Lee Jae-myung, likening him to an \"old fish market's rotten smell,\" drew sharp backlash from within the Democratic Party, with members denouncing it as \"bogus prophecy\" and \"intervention in the party convention,\" while others like Jeong Cheong-rae chose to \"no comment.\"",
-        "zh": "柳时敏作家将李在明总统比作“鱼市腐臭味”等进行批评，引发共同民主党内“荒谬预言”、“介入全党大会”等激烈反驳，同时郑清来候选人表示“不予置评”，党内反应多样。"
+        "ko": "“썩은 내” 유시민에…정청래 “저는 노코멘트” 송영길 “안타까워” - 한겨레",
+        "en": "“썩은 내” 유시민에…정청래 “저는 노코멘트” 송영길 “안타까워” - 한겨레",
+        "zh": "“썩은 내” 유시민에…정청래 “저는 노코멘트” 송영길 “안타까워” - 한겨레"
       }
     },
     {
-      "title": "인천시, 쿠팡 화재 계기 전체 물류창고 점검…스프링클러·입지 규제 검토 - 경기일보",
-      "link": "https://www.kyeonggi.com/article/20260722580469",
-      "source": "경기일보",
-      "pubDate": "Wed, 22 Jul 2026 08:43:56 GMT",
-      "image": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/07/22/.cache/512/20260722580470.jpg?v=20260722211839",
+      "title": "기업 물류창고까지 때리는 러·우크라…전쟁 속 유통망도 위협 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260722159300109",
+      "source": "연합뉴스",
+      "pubDate": "Wed, 22 Jul 2026 09:07:21 GMT",
+      "image": "https://img9.yna.co.kr/photo/etc/af/2026/07/18/PAF20260718147401009_P4.jpg",
       "summaries": {
-        "ko": "인천시가 쿠팡 물류창고 화재를 계기로 모든 물류창고에 대한 전면 점검에 나서는 한편, 스프링클러 설치 및 입지·높이 규제 강화 등 근본적인 관리 체계 개선 방안을 검토한다.",
-        "en": "Following the Coupang warehouse fire, Incheon City will launch a comprehensive inspection of all logistics warehouses and is considering fundamental management system improvements, including enhanced sprinkler installation and stricter location and height regulations.",
-        "zh": "仁川市以酷澎物流仓库火灾为契机，将对所有物流仓库进行全面检查，并考虑采取加强洒水器安装及严格选址与高度限制等措施，以从根本上改善管理体系。"
+        "ko": "기업 물류창고까지 때리는 러·우크라…전쟁 속 유통망도 위협 - 연합뉴스",
+        "en": "기업 물류창고까지 때리는 러·우크라…전쟁 속 유통망도 위협 - 연합뉴스",
+        "zh": "기업 물류창고까지 때리는 러·우크라…전쟁 속 유통망도 위협 - 연합뉴스"
       }
     },
     {
-      "title": "당 안팎 우려에도···‘보완수사권 전면 폐지’ 강행하는 집권 여당 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607221641011",
+      "title": "‘이 대통령 근저당 논란’ 적극 방어 나선 당·청 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607222117005",
       "source": "경향신문",
-      "pubDate": "Wed, 22 Jul 2026 07:41:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/22/news-p.v1.20260722.4b943dd65a3c4f839637f878efaeee24_P1.jpeg",
+      "pubDate": "Wed, 22 Jul 2026 12:17:00 GMT",
+      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
       "summaries": {
-        "ko": "더불어민주당이 당 안팎의 우려와 내부 이견에도 불구하고 검찰 보완수사권 전면 폐지를 골자로 한 형사소송법 개정안을 전당대회 전 신속 처리할 방침을 재확인했다.",
-        "en": "Despite internal and external concerns and differing opinions within the party, the Democratic Party has reaffirmed its plan to swiftly pass an amendment to the Criminal Procedure Act, which includes the complete abolition of prosecutors' supplementary investigation powers, before the national party convention.",
-        "zh": "尽管党内外存在担忧和分歧，共同民主党仍重申了在全国代表大会前，迅速通过以全面废除检察官补充侦查权为核心的刑事诉讼法修正案的计划。"
+        "ko": "‘이 대통령 근저당 논란’ 적극 방어 나선 당·청 - 경향신문",
+        "en": "‘이 대통령 근저당 논란’ 적극 방어 나선 당·청 - 경향신문",
+        "zh": "‘이 대통령 근저당 논란’ 적극 방어 나선 당·청 - 경향신문"
       }
     },
     {
-      "title": "부동산 토론회 D-1, ‘대통령 근저당’ 방어 나선 여당과 청와대 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607221634001",
-      "source": "경향신문",
-      "pubDate": "Wed, 22 Jul 2026 07:34:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/22/rcv.YNA.20260722.PYH2026072214920001300_P1.jpg",
-      "summaries": {
-        "ko": "부동산 토론회를 하루 앞두고 여당과 청와대가 이재명 대통령의 아파트 매각 시 불거진 '근저당' 논란에 대해 투명한 거래이자 매수자 배려 차원이라고 적극 방어에 나섰다.",
-        "en": "A day before the national real estate debate, the ruling party and the Blue House actively defended President Lee Jae-myung's apartment sale and the related 'geunjeodang' (collateral mortgage) controversy, stating it was a transparent transaction and a consideration for the buyer.",
-        "zh": "在房地产政策国民大讨论会前夕，执政党和青瓦台积极回应李在明总统公寓出售中设立抵押的争议，强调这是一笔透明交易，并体现了对买方的考虑。"
-      }
-    },
-    {
-      "title": "'절단기 꺼내!' 불꽃 파바박‥세관 직원들 \"오, 나온다!\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6839295_36918.html",
+      "title": "[속보] 인천 쿠팡 물류센터 불 나흘 만에 완진‥109시간여만 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6839383_36918.html",
       "source": "MBC 뉴스",
-      "pubDate": "Wed, 22 Jul 2026 07:45:21 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/22/kds_20260722_1.jpg",
+      "pubDate": "Wed, 22 Jul 2026 11:59:55 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/22/lyj_260722_24.jpg",
       "summaries": {
-        "ko": "관세청이 올해 상반기 유아용 침대 프레임 등에 숨겨 밀수하려던 역대 최대인 약 1천kg의 마약을 적발하고 10대 밀수범이 급증하는 등 마약 밀수 실태를 밝혔다.",
-        "en": "The Korea Customs Service revealed the current state of drug smuggling, including the seizure of a record-high approximately 1,000kg of drugs hidden in items like baby bed frames in the first half of this year, and a sharp increase in teenage smugglers.",
-        "zh": "韩国关税厅公布了毒品走私现状，包括今年上半年查获藏匿在婴儿床架等物品中、创历史新高的约1000公斤毒品，以及青少年走私犯急剧增加的情况。"
+        "ko": "[속보] 인천 쿠팡 물류센터 불 나흘 만에 완진‥109시간여만 - MBC 뉴스",
+        "en": "[속보] 인천 쿠팡 물류센터 불 나흘 만에 완진‥109시간여만 - MBC 뉴스",
+        "zh": "[속보] 인천 쿠팡 물류센터 불 나흘 만에 완진‥109시간여만 - MBC 뉴스"
       }
     },
     {
-      "title": "유치장 나온 '올다르크' \"귀하신 김건희 여사님 얼마나 불편했을지\" - 한국일보",
-      "link": "https://www.hankookilbo.com/news/article/A2026072213480001521",
-      "source": "한국일보",
-      "pubDate": "Wed, 22 Jul 2026 06:10:00 GMT",
-      "image": "https://newsimg.hankookilbo.com/2026/07/22/94e7cd5b-9314-4114-83b9-b3805574df4b.jpg",
+      "title": "김민석이 쏘아올린 ‘신천지 개입설’…“특검 무산과정 살펴봐야” 주장도 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1269513.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 22 Jul 2026 12:21:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0722/20260722503461.webp",
       "summaries": {
-        "ko": "유치장 나온 '올다르크' \"귀하신 김건희 여사님 얼마나 불편했을지\" - 한국일보",
-        "en": "유치장 나온 '올다르크' \"귀하신 김건희 여사님 얼마나 불편했을지\" - 한국일보",
-        "zh": "유치장 나온 '올다르크' \"귀하신 김건희 여사님 얼마나 불편했을지\" - 한국일보"
-      }
-    },
-    {
-      "title": "김민석은 왜 '신천지'를 언급할까…숨겨진 전략은 - 노컷뉴스",
-      "link": "https://www.nocutnews.co.kr/news/6551295",
-      "source": "노컷뉴스",
-      "pubDate": "Tue, 21 Jul 2026 20:00:00 GMT",
-      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/07/21/202607212105468790_0.jpg",
-      "summaries": {
-        "ko": "김민석은 왜 '신천지'를 언급할까…숨겨진 전략은 - 노컷뉴스",
-        "en": "김민석은 왜 '신천지'를 언급할까…숨겨진 전략은 - 노컷뉴스",
-        "zh": "김민석은 왜 '신천지'를 언급할까…숨겨진 전략은 - 노컷뉴스"
-      }
-    },
-    {
-      "title": "미성년 성범죄 청주시의원 사건 ‘통신영장 반려’ 공방 - 조선일보",
-      "link": "https://www.chosun.com/national/regional/chungcheong/2026/07/22/PRMXHDF2BRFKNN3GRIVVBGIYVA/",
-      "source": "조선일보",
-      "pubDate": "Wed, 22 Jul 2026 07:11:17 GMT",
-      "image": "https://www.chosun.com/resizer/v2/B2WLHNYBNBEHDMOTTWYG2POXTQ.jpg?auth=8e3c96105f8fd44e6373449f9f6bd5dd889da88967840a608654153bb6ea4379&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "미성년 성범죄 청주시의원 사건 ‘통신영장 반려’ 공방 - 조선일보",
-        "en": "미성년 성범죄 청주시의원 사건 ‘통신영장 반려’ 공방 - 조선일보",
-        "zh": "미성년 성범죄 청주시의원 사건 ‘통신영장 반려’ 공방 - 조선일보"
+        "ko": "김민석이 쏘아올린 ‘신천지 개입설’…“특검 무산과정 살펴봐야” 주장도 - 한겨레",
+        "en": "김민석이 쏘아올린 ‘신천지 개입설’…“특검 무산과정 살펴봐야” 주장도 - 한겨레",
+        "zh": "김민석이 쏘아올린 ‘신천지 개입설’…“특검 무산과정 살펴봐야” 주장도 - 한겨레"
       }
     },
     {
@@ -122,15 +110,15 @@
       }
     },
     {
-      "title": "[속보] 인천 쿠팡물류센터 화재 나흘만에 완전진화",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260722210455JFC",
-      "source": "Breaking News",
-      "pubDate": "Wed, 22 Jul 2026 21:04:58 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260722/MYH20260722210455JFC.jpg",
+      "title": "유치장 나온 '올다르크' \"귀하신 김건희 여사님 얼마나 불편했을지\" - 한국일보",
+      "link": "https://www.hankookilbo.com/news/article/A2026072213480001521",
+      "source": "한국일보",
+      "pubDate": "Wed, 22 Jul 2026 06:10:00 GMT",
+      "image": "https://newsimg.hankookilbo.com/2026/07/22/94e7cd5b-9314-4114-83b9-b3805574df4b.jpg",
       "summaries": {
-        "ko": "[속보] 인천 쿠팡물류센터 화재 나흘만에 완전진화",
-        "en": "[속보] 인천 쿠팡물류센터 화재 나흘만에 완전진화",
-        "zh": "[속보] 인천 쿠팡물류센터 화재 나흘만에 완전진화"
+        "ko": "유치장 나온 '올다르크' \"귀하신 김건희 여사님 얼마나 불편했을지\" - 한국일보",
+        "en": "유치장 나온 '올다르크' \"귀하신 김건희 여사님 얼마나 불편했을지\" - 한국일보",
+        "zh": "유치장 나온 '올다르크' \"귀하신 김건희 여사님 얼마나 불편했을지\" - 한국일보"
       }
     }
   ]
