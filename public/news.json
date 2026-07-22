@@ -1,16 +1,28 @@
 {
-  "lastUpdate": "2026-07-22T18:17:44.626325",
+  "lastUpdate": "2026-07-22T19:46:45.839565",
   "items": [
     {
-      "title": "법원 “오세훈, 명태균에 여론조사 의뢰…죄질 나빠 공직 상실형” - 한겨레",
+      "title": "법원 “오세훈, 죄질 나빠 공직 상실형”…이르면 내년 1월 대법 판결 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/society_general/1269518.html",
       "source": "한겨레",
       "pubDate": "Wed, 22 Jul 2026 15:33:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/670/imgdb/resize/test/original/2026/0722/3117847042086863.webp",
       "summaries": {
-        "ko": "오세훈 서울시장이 정치 브로커 명태균씨에게 여론조사를 의뢰하고 후원자에게 비용 2,100만 원을 대납하게 한 정치자금법 위반 혐의로 1심에서 벌금 1천만 원과 함께 시장직 상실형을 선고받았다.",
-        "en": "Seoul Mayor Oh Se-hoon was sentenced in the first-instance trial to a 10 million won fine and a penalty that would strip him of his mayoralty, after being found guilty of violating the Political Funds Act by commissioning public opinion polls from political broker Myung Tae-kyun and having a supporter illegally pay 21 million won for the costs.",
-        "zh": "首尔市长吴世勋因涉嫌违反《政治资金法》，委托政治掮客明泰钧进行民意调查并让赞助人非法代付2100万韩元费用，在一审中被判处1000万韩元罚款及剥夺市长职务的刑罚。"
+        "ko": "오세훈 서울시장이 정치자금법 위반 혐의 1심에서 벌금 1천만원을 선고받아 시장직을 상실하게 됐으며, 이르면 내년 1월 대법원 판결이 나올 예정이다.",
+        "en": "Seoul Mayor Oh Se-hoon was sentenced to a 10 million won fine in the first trial for violating political funding laws, resulting in the loss of his public office, with a Supreme Court ruling anticipated as early as next January.",
+        "zh": "首尔市长吴世勋因违反政治资金法，在一审中被判处1000万韩元罚款，导致其公职被剥夺，最高法院的裁决预计最快于明年1月作出。"
+      }
+    },
+    {
+      "title": "[속보]트럼프 “이란, 호르무즈 선박 공격 시 교량·발전소 하나씩 폭격해 파괴할 것” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607222220001",
+      "source": "경향신문",
+      "pubDate": "Wed, 22 Jul 2026 13:20:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/22/rcv.YNA.20260722.PAF20260722011901009_P1.jpg",
+      "summaries": {
+        "ko": "미국 트럼프 대통령은 이란이 호르무즈 해협의 선박을 공격할 시 이란의 교량과 발전소 같은 기반 시설을 폭격해 파괴하겠다고 경고했으며, 이는 미-이란 교전이 격화되는 가운데 나온 것이다.",
+        "en": "US President Trump warned that if Iran attacks ships in the Strait of Hormuz, the US would bomb and destroy Iranian infrastructure like bridges and power plants, amid escalating US-Iran conflict.",
+        "zh": "美国总统特朗普警告称，如果伊朗袭击霍尔木兹海峡的船只，美国将轰炸并摧毁伊朗的桥梁和发电厂等基础设施，此举发生在美伊冲突升级之际。"
       }
     },
     {
@@ -26,27 +38,15 @@
       }
     },
     {
-      "title": "[속보]트럼프 “이란, 호르무즈 선박 공격 시 교량·발전소 하나씩 폭격해 파괴할 것” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607222220001",
-      "source": "경향신문",
-      "pubDate": "Wed, 22 Jul 2026 13:20:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/22/rcv.YNA.20260722.PAF20260722011901009_P1.jpg",
-      "summaries": {
-        "ko": "[속보]트럼프 “이란, 호르무즈 선박 공격 시 교량·발전소 하나씩 폭격해 파괴할 것” - 경향신문",
-        "en": "[속보]트럼프 “이란, 호르무즈 선박 공격 시 교량·발전소 하나씩 폭격해 파괴할 것” - 경향신문",
-        "zh": "[속보]트럼프 “이란, 호르무즈 선박 공격 시 교량·발전소 하나씩 폭격해 파괴할 것” - 경향신문"
-      }
-    },
-    {
       "title": "‘전대 쟁점화 차단’ 보완수사권 폐지 속도전…반대 여론 높아 부담 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1269514.html",
       "source": "한겨레",
       "pubDate": "Wed, 22 Jul 2026 12:21:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0722/20260722503467.webp",
       "summaries": {
-        "ko": "더불어민주당이 8·17 전당대회 전 '검찰 보완수사권 완전 폐지'를 추진하며 형사소송법 개정 속도전에 돌입했지만, 관련 여론조사에서 반대 의견이 우세해 부담으로 작용하고 있다.",
-        "en": "The Democratic Party has begun a rapid push to revise the Criminal Procedure Act for the complete abolition of the prosecution's supplementary investigation rights before the August 17 party convention, but faces pressure due to strong public opposition in related polls.",
-        "zh": "共同民主党在8·17全党大会前，正加速推进《刑事诉讼法》修订，以彻底废除检察机关的补充侦查权，但相关民意调查显示反对意见占优，对其造成压力。"
+        "ko": "더불어민주당이 8·17 전당대회 쟁점화를 차단하기 위해 검찰 보완수사권 완전 폐지를 공식화하고 속도전에 돌입했으나, 반대 여론이 높은 상황에서 후속 장치 마련이 과제로 남아있다.",
+        "en": "The Democratic Party of Korea has officially announced and fast-tracked the complete abolition of prosecutorial supplementary investigation rights to prevent it from becoming a contentious issue in the August 17 National Convention, but the preparation of follow-up measures remains a challenge amid strong public opposition.",
+        "zh": "韩国共同民主党为避免其在8月17日全党大会上成为争议焦点，正式宣布全面废除检察机关补充侦查权并加速推进，然而在反对舆论高涨的情况下，后续配套措施的制定仍面临挑战。"
       }
     },
     {
@@ -56,21 +56,21 @@
       "pubDate": "Wed, 22 Jul 2026 06:55:01 GMT",
       "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/22/joo260722_17.jpg",
       "summaries": {
-        "ko": "정청래, 유시민 '썩은 내' 발언에 \"때론 침묵하는 것이 더 좋아\" - MBC 뉴스",
-        "en": "정청래, 유시민 '썩은 내' 발언에 \"때론 침묵하는 것이 더 좋아\" - MBC 뉴스",
-        "zh": "정청래, 유시민 '썩은 내' 발언에 \"때론 침묵하는 것이 더 좋아\" - MBC 뉴스"
+        "ko": "정청래 전 대표는 유시민 작가의 '어물전 썩은 내' 발언 논란에 대해 당권 주자들이 \"때로는 침묵하는 것이 더 좋다\"고 조언하며, 과도한 언급이 오히려 소란을 일으킨다고 비판했습니다.",
+        "en": "Former Democratic Party leader Jung Cheong-rae advised party leadership contenders regarding Yoo Si-min's controversial 'fish market rotten smell' remark, stating that \"sometimes it is better to be silent\" and criticizing excessive comments for causing more commotion.",
+        "zh": "针对柳时敏作家“鱼市腐臭味”言论引发的争议，前共同民主党代表郑清来建议党权竞争者“有时保持沉默更好”，并批评过度评论反而会制造更多骚乱。"
       }
     },
     {
-      "title": "[단독] 자운대 통합 사관학교 강행... 국방부, 용역 결과와 반대로 갔다 - 조선일보",
-      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/07/22/YGIY7TFBPBHWZJP7S4FWPGU6RA/",
-      "source": "조선일보",
-      "pubDate": "Wed, 22 Jul 2026 06:22:37 GMT",
-      "image": "https://www.chosun.com/resizer/v2/JBUVTGCZLVIY3LGOULLNSQVVNI.jpg?auth=5a38c703a216d6430687e277cdb9e2a569a9a4739cc8f03219c1c86be90a42c2&width=1200&height=630&smart=true",
+      "title": "통합 사관학교 자운대 캠퍼스 신축 10년 걸린다 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260722/134347077/1",
+      "source": "동아일보",
+      "pubDate": "Wed, 22 Jul 2026 12:32:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/22/134348152.1.jpg",
       "summaries": {
-        "ko": "[단독] 자운대 통합 사관학교 강행... 국방부, 용역 결과와 반대로 갔다 - 조선일보",
-        "en": "[단독] 자운대 통합 사관학교 강행... 국방부, 용역 결과와 반대로 갔다 - 조선일보",
-        "zh": "[단독] 자운대 통합 사관학교 강행... 국방부, 용역 결과와 반대로 갔다 - 조선일보"
+        "ko": "통합 사관학교 자운대 캠퍼스 신축 10년 걸린다 - 동아일보",
+        "en": "통합 사관학교 자운대 캠퍼스 신축 10년 걸린다 - 동아일보",
+        "zh": "통합 사관학교 자운대 캠퍼스 신축 10년 걸린다 - 동아일보"
       }
     },
     {
@@ -86,18 +86,6 @@
       }
     },
     {
-      "title": "김정관 산업장관, 대미투자 1호 조율차 미국행…쿠팡사태 묻자 [지금뉴스] - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8617086",
-      "source": "KBS 뉴스",
-      "pubDate": "Wed, 22 Jul 2026 03:43:00 GMT",
-      "image": "http://news.kbs.co.kr/data/fckeditor/vod/2026/07/22/338791784689713633.png",
-      "summaries": {
-        "ko": "김정관 산업장관, 대미투자 1호 조율차 미국행…쿠팡사태 묻자 [지금뉴스] - KBS 뉴스",
-        "en": "김정관 산업장관, 대미투자 1호 조율차 미국행…쿠팡사태 묻자 [지금뉴스] - KBS 뉴스",
-        "zh": "김정관 산업장관, 대미투자 1호 조율차 미국행…쿠팡사태 묻자 [지금뉴스] - KBS 뉴스"
-      }
-    },
-    {
       "title": "김민석이 쏘아올린 ‘신천지 개입설’…“특검 무산과정 살펴봐야” 주장도 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1269513.html",
       "source": "한겨레",
@@ -107,6 +95,18 @@
         "ko": "김민석이 쏘아올린 ‘신천지 개입설’…“특검 무산과정 살펴봐야” 주장도 - 한겨레",
         "en": "김민석이 쏘아올린 ‘신천지 개입설’…“특검 무산과정 살펴봐야” 주장도 - 한겨레",
         "zh": "김민석이 쏘아올린 ‘신천지 개입설’…“특검 무산과정 살펴봐야” 주장도 - 한겨레"
+      }
+    },
+    {
+      "title": "김정관 산업장관, 대미투자 1호 조율차 미국행…쿠팡사태 묻자 [지금뉴스] - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8617086",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 22 Jul 2026 03:43:00 GMT",
+      "image": "http://news.kbs.co.kr/data/fckeditor/vod/2026/07/22/338791784689713633.png",
+      "summaries": {
+        "ko": "김정관 산업장관, 대미투자 1호 조율차 미국행…쿠팡사태 묻자 [지금뉴스] - KBS 뉴스",
+        "en": "김정관 산업장관, 대미투자 1호 조율차 미국행…쿠팡사태 묻자 [지금뉴스] - KBS 뉴스",
+        "zh": "김정관 산업장관, 대미투자 1호 조율차 미국행…쿠팡사태 묻자 [지금뉴스] - KBS 뉴스"
       }
     },
     {
