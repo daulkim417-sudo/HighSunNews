@@ -1,40 +1,52 @@
 {
-  "lastUpdate": "2026-07-22T14:25:50.001264",
+  "lastUpdate": "2026-07-22T15:55:49.145572",
   "items": [
     {
-      "title": "[변화] 오세훈, '명태균 여론조사 대납' 1심 '당선무효형' - 뉴스타파",
-      "link": "https://www.newstapa.org/article/11T8P",
-      "source": "뉴스타파",
-      "pubDate": "Wed, 22 Jul 2026 11:23:47 GMT",
-      "image": "https://d1lawh9lju1xqd.cloudfront.net/2026/07/22201954-AB22-8894-A94F-KUJFXEBJOYWYPSUI5K5G.jpg",
-      "summaries": {
-        "ko": "오세훈 시장은 명태균 씨가 대납한 비공표 여론조사 3건을 의뢰하고 결과를 전달받은 사실이 인정되어 1심에서 당선무효형을 선고받았다.",
-        "en": "Mayor Oh Se-hoon received an election invalidation sentence in the first trial, acknowledging that he ordered three undeclared public opinion polls paid for by Myeong Tae-kyun and received their results.",
-        "zh": "吴世勋市长被认定委托并接收了由明泰均代为支付的三项非公开民意调查结果，因此在一审中被判处当选无效刑。"
-      }
-    },
-    {
-      "title": "보완수사권 폐지 원안 여당, 우려에도 ‘강행’ - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607222139005",
+      "title": "오세훈 벌금 1000만원 선고 ‘트리거’는 명태균 진술···“100%는 아니지만 일부 객관적 정황” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607221922001",
       "source": "경향신문",
-      "pubDate": "Wed, 22 Jul 2026 12:39:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/22/l_2026072301000698900067981.jpg",
+      "pubDate": "Wed, 22 Jul 2026 10:22:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/22/news-p.v1.20260722.e0b6feea666b45f1818f2407abdbf08e_P1.jpeg",
       "summaries": {
-        "ko": "더불어민주당은 당 안팎의 우려와 당내 이견에도 불구하고 검찰 보완수사권 전면 폐지를 골자로 한 형사소송법 개정안을 8월 전당대회 전 강행 처리하기로 했다.",
-        "en": "Despite internal and external concerns and party disagreements, the Democratic Party has decided to push ahead with a criminal procedure law amendment that completely abolishes the prosecutor's supplementary investigation power, aiming to pass it before the August national convention.",
-        "zh": "尽管党内外存在担忧和党内分歧，韩国民主党仍决定在8月全国代表大会前强行通过以全面废除检察官补充侦查权为核心的刑事诉讼法修正案。"
+        "ko": "오세훈 서울시장이 2021년 재보궐선거 전 명태균씨를 통해 여론조사를 의뢰하고 그 비용을 대납하게 한 혐의로 시장직 상실형에 해당하는 벌금 1000만원을 선고받았으며, 재판부는 명씨 진술을 일부 객관적 정황과 부합한다고 인정했다.",
+        "en": "Seoul Mayor Oh Se-hoon was sentenced to a 10 million won fine, a penalty that would disqualify him from office, for allegedly commissioning opinion polls through Myung Tae-kyun and having the costs paid on his behalf before the 2021 by-election, with the court finding Myung's testimony partially consistent with objective evidence.",
+        "zh": "首尔市长吴世勋因涉嫌在2021年补选前通过明泰均委托进行民意调查并由他人代付费用，被判处1000万韩元罚款，此判决将使其失去市长职务，法院认定明泰均的部分证词与客观证据相符。"
       }
     },
     {
-      "title": "이란, 트럼프 ‘곡괭이산’ 타격 예고에 “전쟁 확대로 간주하겠다” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1269477.html",
+      "title": "트럼프 “이란, 선박 공격 때마다 테헤란 교량·발전소 한 곳씩 폭격” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1269520.html",
       "source": "한겨레",
-      "pubDate": "Wed, 22 Jul 2026 11:22:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/781/523/imgdb/original/2026/0722/20260722503155.webp",
+      "pubDate": "Wed, 22 Jul 2026 14:38:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0722/20260722503619.webp",
       "summaries": {
-        "ko": "도널드 트럼프 미국 대통령이 이란의 지하 핵시설로 의심되는 '곡괭이산' 타격을 시사하자, 이란은 이를 전쟁 확대로 간주하고 미국과 동맹국 자산에 대한 보복 공격을 경고했다.",
-        "en": "As US President Donald Trump hinted at striking Iran's suspected underground nuclear facility, 'Pickaxe Mountain', Iran warned it would consider such an act an expansion of war and retaliate against US and allied assets.",
-        "zh": "美国总统唐纳德·特朗普暗示将打击伊朗疑似的地下核设施“镐山”后，伊朗警告称此举将被视为战争升级，并扬言报复美国及其盟友的资产。"
+        "ko": "트럼프 “이란, 선박 공격 때마다 테헤란 교량·발전소 한 곳씩 폭격” - 한겨레",
+        "en": "트럼프 “이란, 선박 공격 때마다 테헤란 교량·발전소 한 곳씩 폭격” - 한겨레",
+        "zh": "트럼프 “이란, 선박 공격 때마다 테헤란 교량·발전소 한 곳씩 폭격” - 한겨레"
+      }
+    },
+    {
+      "title": "‘전대 쟁점화 차단’ 보완수사권 폐지 속도전…반대 여론 높아 부담 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1269514.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 22 Jul 2026 12:21:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0722/20260722503467.webp",
+      "summaries": {
+        "ko": "‘전대 쟁점화 차단’ 보완수사권 폐지 속도전…반대 여론 높아 부담 - 한겨레",
+        "en": "‘전대 쟁점화 차단’ 보완수사권 폐지 속도전…반대 여론 높아 부담 - 한겨레",
+        "zh": "‘전대 쟁점화 차단’ 보완수사권 폐지 속도전…반대 여론 높아 부담 - 한겨레"
+      }
+    },
+    {
+      "title": "인천 쿠팡물류센터 불, 약 110시간 만에야 완전 진화 - 조선일보",
+      "link": "https://www.chosun.com/national/regional/2026/07/22/PQMI2BKUIVBNRCAROHOSAY3NWM/",
+      "source": "조선일보",
+      "pubDate": "Wed, 22 Jul 2026 13:11:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GBRGCMJXG42DGOJVGI3WCMRZGE.jpg?auth=b4b25a752b752b158d730d825c337616a015e147fc17e98d873564bd9e4ac722&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "인천 쿠팡물류센터 불, 약 110시간 만에야 완전 진화 - 조선일보",
+        "en": "인천 쿠팡물류센터 불, 약 110시간 만에야 완전 진화 - 조선일보",
+        "zh": "인천 쿠팡물류센터 불, 약 110시간 만에야 완전 진화 - 조선일보"
       }
     },
     {
@@ -50,18 +62,6 @@
       }
     },
     {
-      "title": "기업 물류창고까지 때리는 러·우크라…전쟁 속 유통망도 위협 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260722159300109",
-      "source": "연합뉴스",
-      "pubDate": "Wed, 22 Jul 2026 09:07:21 GMT",
-      "image": "https://img9.yna.co.kr/photo/etc/af/2026/07/18/PAF20260718147401009_P4.jpg",
-      "summaries": {
-        "ko": "기업 물류창고까지 때리는 러·우크라…전쟁 속 유통망도 위협 - 연합뉴스",
-        "en": "기업 물류창고까지 때리는 러·우크라…전쟁 속 유통망도 위협 - 연합뉴스",
-        "zh": "기업 물류창고까지 때리는 러·우크라…전쟁 속 유통망도 위협 - 연합뉴스"
-      }
-    },
-    {
       "title": "‘이 대통령 근저당 논란’ 적극 방어 나선 당·청 - 경향신문",
       "link": "https://www.khan.co.kr/article/202607222117005",
       "source": "경향신문",
@@ -74,15 +74,15 @@
       }
     },
     {
-      "title": "[속보] 인천 쿠팡 물류센터 불 나흘 만에 완진‥109시간여만 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6839383_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Wed, 22 Jul 2026 11:59:55 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/22/lyj_260722_24.jpg",
+      "title": "부산 주택가서 50대 ‘전동 못총’ 난동...경찰특공대 투입해 체포 - 조선일보",
+      "link": "https://www.chosun.com/national/incident/2026/07/22/UNDKBXVYRJFKJACDBSM4LYXUF4/",
+      "source": "조선일보",
+      "pubDate": "Wed, 22 Jul 2026 07:41:27 GMT",
+      "image": "https://www.chosun.com/resizer/v2/JPR2DYZB6VCPJBBWZ36R2AM5PE.jpg?auth=bbc1762abc41390bb291d699bc6d552feb6ce45d5b9930acd4b4784235d32042&width=786&height=412&smart=true",
       "summaries": {
-        "ko": "[속보] 인천 쿠팡 물류센터 불 나흘 만에 완진‥109시간여만 - MBC 뉴스",
-        "en": "[속보] 인천 쿠팡 물류센터 불 나흘 만에 완진‥109시간여만 - MBC 뉴스",
-        "zh": "[속보] 인천 쿠팡 물류센터 불 나흘 만에 완진‥109시간여만 - MBC 뉴스"
+        "ko": "부산 주택가서 50대 ‘전동 못총’ 난동...경찰특공대 투입해 체포 - 조선일보",
+        "en": "부산 주택가서 50대 ‘전동 못총’ 난동...경찰특공대 투입해 체포 - 조선일보",
+        "zh": "부산 주택가서 50대 ‘전동 못총’ 난동...경찰특공대 투입해 체포 - 조선일보"
       }
     },
     {
@@ -110,15 +110,15 @@
       }
     },
     {
-      "title": "유치장 나온 '올다르크' \"귀하신 김건희 여사님 얼마나 불편했을지\" - 한국일보",
-      "link": "https://www.hankookilbo.com/news/article/A2026072213480001521",
-      "source": "한국일보",
-      "pubDate": "Wed, 22 Jul 2026 06:10:00 GMT",
-      "image": "https://newsimg.hankookilbo.com/2026/07/22/94e7cd5b-9314-4114-83b9-b3805574df4b.jpg",
+      "title": "올림픽공원 체육단체 출입 막은 '성조기 여성' 구속영장 기각 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6839075_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Tue, 21 Jul 2026 15:33:23 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/22/joo260722_3.jpg",
       "summaries": {
-        "ko": "유치장 나온 '올다르크' \"귀하신 김건희 여사님 얼마나 불편했을지\" - 한국일보",
-        "en": "유치장 나온 '올다르크' \"귀하신 김건희 여사님 얼마나 불편했을지\" - 한국일보",
-        "zh": "유치장 나온 '올다르크' \"귀하신 김건희 여사님 얼마나 불편했을지\" - 한국일보"
+        "ko": "올림픽공원 체육단체 출입 막은 '성조기 여성' 구속영장 기각 - MBC 뉴스",
+        "en": "올림픽공원 체육단체 출입 막은 '성조기 여성' 구속영장 기각 - MBC 뉴스",
+        "zh": "올림픽공원 체육단체 출입 막은 '성조기 여성' 구속영장 기각 - MBC 뉴스"
       }
     }
   ]
