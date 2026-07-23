@@ -1,40 +1,52 @@
 {
-  "lastUpdate": "2026-07-23T14:57:45.286646",
+  "lastUpdate": "2026-07-23T17:50:36.867449",
   "items": [
     {
-      "title": "이 대통령 “초고가·투기용에 보유세 차등” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607232212005",
-      "source": "경향신문",
-      "pubDate": "Thu, 23 Jul 2026 13:12:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/23/l_2026072401000732600072992.jpg",
+      "title": "이 대통령, 초고가·다주택·실거주 등 따져 ‘보유세 가감’ 시사 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/economy/economy_general/1269669.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 23 Jul 2026 10:42:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/363/imgdb/original/2026/0723/20260723502811.webp",
       "summaries": {
-        "ko": "이재명 대통령은 '똘똘한 한 채' 현상으로 인한 투기 문제를 지적하며, 초고가·투기용 주택과 다주택에 보유세를 차등 강화하고 실거주·서민용은 배려하는 한편, 전세대출 규제도 강화해야 한다고 밝혔다.",
-        "en": "President Lee Jae-myung criticized the 'smart one house' phenomenon for fueling speculation, stating that property taxes should be differentially strengthened for ultra-high-value and speculative multi-owner homes while considering real-residence and low-income use, and jeonse loan regulations should also be tightened.",
-        "zh": "李在明总统指出“聪明一房”现象导致的投机问题，表示应差异化加强对超高价、投机性住房和多套住房的保有税，同时照顾自住和普通民众，并收紧全租贷款规定。"
+        "ko": "이재명 대통령이 '똘똘한 한채' 현상을 완화하기 위해 초고가 주택, 다주택, 실거주 여부 등 여러 요소를 촘촘히 따져 보유세를 가감하는 부동산 세제 개편 방향을 제시했다.",
+        "en": "President Lee Jae-myung proposed a real estate tax reform direction to differentiate property taxes by meticulously considering factors such as ultra-high-value homes, multiple ownership, and actual residency, aiming to alleviate the 'smart single home' phenomenon.",
+        "zh": "李在明总统提出了房地产税制改革方向，建议根据超高价住宅、多套住宅以及实际居住等多种因素精细调整保有税，以缓解“精明一宅”现象。"
       }
     },
     {
-      "title": "선관위 ‘투표수 오입력·무단 수정’도 했다 - 경향신문",
+      "title": "선관위 '투표수 오입력'에 '무단 수정'까지···끝도 없이 나오는 선거 부실 정황 - 경향신문",
       "link": "https://www.khan.co.kr/article/202607232217005",
       "source": "경향신문",
       "pubDate": "Thu, 23 Jul 2026 13:17:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/07/23/khan_R0ncTr.jpeg",
       "summaries": {
-        "ko": "검경 합동수사본부가 선관위가 투표수 오입력을 은폐하기 위해 총합계만 맞추도록 투표수 입력을 조작하고 관련자들이 모의한 정황을 포착해 강제수사에 착수했으나, 현재까지 후보별 득표수 조작 정황은 발견되지 않았다.",
-        "en": "The joint investigation team has launched a compulsory investigation after discovering evidence that the Election Commission manipulated vote count inputs to match only the total in order to conceal input errors, and that related officials conspired, but no evidence of manipulation of individual candidate votes has yet been found.",
-        "zh": "联合调查本部发现选举委员会为掩盖投票数输入错误，通过调整后续数据来匹配总数，并有相关人员串谋的迹象，已展开强制调查，但目前尚未发现操纵候选人得票数的证据。"
+        "ko": "합동수사본부가 6·3 지방선거 당시 중앙·경기도선관위가 투표수 오입력을 은폐하기 위해 투표율 입력 데이터를 조작한 정황을 포착해 강제수사에 착수했다.",
+        "en": "The Joint Investigation Headquarters has launched an investigation, including search and seizure, after detecting signs that the Central and Gyeonggi Provincial Election Commissions manipulated voter turnout input data to conceal errors in vote count entry during the 6/3 local election.",
+        "zh": "联合调查本部发现中央和京畿道选举委员会在6月3日地方选举中为掩盖投票数输入错误而篡改投票率输入数据，已展开强制调查并进行了搜查。"
+      }
+    },
+    {
+      "title": "대법, 김건희 ‘명태균 여론조사’ 선고 연기... 전원합의체 회부 - 조선일보",
+      "link": "https://www.chosun.com/national/court_law/2026/07/23/4M4FACRV65EOXPLTHRUMT5WTC4/",
+      "source": "조선일보",
+      "pubDate": "Thu, 23 Jul 2026 08:57:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GE3TMMLEGQZTOOBSHAYWKM3BHE.jpg?auth=4ecc2c05f78aa5c600330c898b11013493482acb42b0a422ff044cd89951e04f&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "대법, 김건희 ‘명태균 여론조사’ 선고 연기... 전원합의체 회부 - 조선일보",
+        "en": "대법, 김건희 ‘명태균 여론조사’ 선고 연기... 전원합의체 회부 - 조선일보",
+        "zh": "대법, 김건희 ‘명태균 여론조사’ 선고 연기... 전원합의체 회부 - 조선일보"
       }
     },
     {
       "title": "김민석·정청래·송영길 ‘본선행’…최고위원 대결 ‘친명 5·친청 3’ - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1269698.html",
       "source": "한겨레",
-      "pubDate": "Thu, 23 Jul 2026 13:26:00 GMT",
+      "pubDate": "Thu, 23 Jul 2026 16:06:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/607/imgdb/original/2026/0723/2617848012955912.webp",
       "summaries": {
-        "ko": "더불어민주당 당대표 예비경선에서 김민석·정청래·송영길 후보가 본선에 진출했고, 최고위원 예비경선에서는 친정청래계 3명과 친이재명계 5명 등 총 8명이 통과하며 정청래 후보의 만만치 않은 지지세가 드러났다.",
-        "en": "In the Democratic Party's preliminary elections, Kim Min-seok, Jung Chung-rae, and Song Young-gil advanced to the main contest for party leader, while 8 candidates, including all three pro-Jung Chung-rae members and five pro-Lee Jae-myung members, passed the supreme council preliminary, revealing strong support for Jung Chung-rae.",
-        "zh": "在共同民主党党首预选中，金民锡、郑清来、宋永吉候选人成功晋级正赛；而在最高委员预选中，包括3名亲郑清来派和5名亲李在明派在内的共8人通过，显示出郑清来候选人不俗的支持度。"
+        "ko": "더불어민주당 8·17 전당대회 예비경선에서 김민석·정청래·송영길 후보가 당대표 본선에 진출했고, 최고위원 대결에서는 친명계 5명, 친청계 3명이 본선행을 확정하며 정청래 후보의 지지세가 부각되었다.",
+        "en": "In the Democratic Party's preliminary election for the 8/17 National Convention, Kim Min-seok, Jung Cheong-rae, and Song Young-gil advanced as party leader candidates, while the supreme council race saw five pro-Lee Jae-myung and three pro-Jung Cheong-rae candidates secure spots, highlighting Jung Cheong-rae's strong support.",
+        "zh": "在民主党8月17日全国代表大会预选中，金民锡、郑清来、宋永吉晋级党代表候选人，最高委员竞选中则有五名亲李在明派和三名亲郑清来派候选人获得资格，凸显了郑清来获得强劲支持。"
       }
     },
     {
@@ -50,63 +62,39 @@
       }
     },
     {
-      "title": "‘중학생과 성관계 혐의’ 수사 중 16일 만에 사직···그래도 200만원 챙긴 전 청주시의원 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607231950001",
-      "source": "경향신문",
-      "pubDate": "Thu, 23 Jul 2026 10:50:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/23/rcv.YNA.20260722.PYH2026072205030006400_P1.jpg",
+      "title": "[단독]국수본 강력계장 “여청쪽 진행 안됐다”…장윤기 병합수사 불허 - 동아일보",
+      "link": "https://www.donga.com/news/Society/article/all/20260723/134352895/1",
+      "source": "동아일보",
+      "pubDate": "Thu, 23 Jul 2026 08:04:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/23/134352979.1.png",
       "summaries": {
-        "ko": "‘중학생과 성관계 혐의’ 수사 중 16일 만에 사직···그래도 200만원 챙긴 전 청주시의원 - 경향신문",
-        "en": "‘중학생과 성관계 혐의’ 수사 중 16일 만에 사직···그래도 200만원 챙긴 전 청주시의원 - 경향신문",
-        "zh": "‘중학생과 성관계 혐의’ 수사 중 16일 만에 사직···그래도 200만원 챙긴 전 청주시의원 - 경향신문"
+        "ko": "[단독]국수본 강력계장 “여청쪽 진행 안됐다”…장윤기 병합수사 불허 - 동아일보",
+        "en": "[단독]국수본 강력계장 “여청쪽 진행 안됐다”…장윤기 병합수사 불허 - 동아일보",
+        "zh": "[단독]국수본 강력계장 “여청쪽 진행 안됐다”…장윤기 병합수사 불허 - 동아일보"
       }
     },
     {
-      "title": "경찰, 내년 상반기 ‘순환인사제’ 도입…민간 조사기구는 차관급 인사가 지휘 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607232148005",
-      "source": "경향신문",
-      "pubDate": "Thu, 23 Jul 2026 12:48:00 GMT",
-      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
+      "title": "‘성매매 시의원’ 수사도 부실 의혹… ‘장윤기 사건’ 이어 검경 또 갈등 - 동아일보",
+      "link": "https://www.donga.com/news/Society/article/all/20260723/134348234/2",
+      "source": "동아일보",
+      "pubDate": "Wed, 22 Jul 2026 19:30:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/23/134348356.1.png",
       "summaries": {
-        "ko": "경찰, 내년 상반기 ‘순환인사제’ 도입…민간 조사기구는 차관급 인사가 지휘 - 경향신문",
-        "en": "경찰, 내년 상반기 ‘순환인사제’ 도입…민간 조사기구는 차관급 인사가 지휘 - 경향신문",
-        "zh": "경찰, 내년 상반기 ‘순환인사제’ 도입…민간 조사기구는 차관급 인사가 지휘 - 경향신문"
+        "ko": "‘성매매 시의원’ 수사도 부실 의혹… ‘장윤기 사건’ 이어 검경 또 갈등 - 동아일보",
+        "en": "‘성매매 시의원’ 수사도 부실 의혹… ‘장윤기 사건’ 이어 검경 또 갈등 - 동아일보",
+        "zh": "‘성매매 시의원’ 수사도 부실 의혹… ‘장윤기 사건’ 이어 검경 또 갈등 - 동아일보"
       }
     },
     {
-      "title": "막바지 장마, 내주 초 종료…후반엔 폭염 본격화 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260723091800530",
-      "source": "연합뉴스",
-      "pubDate": "Thu, 23 Jul 2026 02:49:34 GMT",
-      "image": "https://img0.yna.co.kr/photo/yna/YH/2026/07/21/PYH2026072110400005300_P4.jpg",
-      "summaries": {
-        "ko": "막바지 장마, 내주 초 종료…후반엔 폭염 본격화 - 연합뉴스",
-        "en": "막바지 장마, 내주 초 종료…후반엔 폭염 본격화 - 연합뉴스",
-        "zh": "막바지 장마, 내주 초 종료…후반엔 폭염 본격화 - 연합뉴스"
-      }
-    },
-    {
-      "title": "\"보완수사 없었다면 사건 묻혔다\" 피해자들 국회서 분노 쏟아냈다 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/07/23/IK3RR4CIJ5EWNN5O6QD2KARWUI/",
+      "title": "오세훈, ‘여론조사비 대납’ 1심 벌금 1000만원에 항소 - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/07/23/YBXE4HEKFBB6XER42VNEIHVELU/",
       "source": "조선일보",
-      "pubDate": "Thu, 23 Jul 2026 05:25:13 GMT",
-      "image": "https://www.chosun.com/resizer/v2/7WRMZNPG2RACFFC6XAZOHG6CD4.jpg?auth=1db51c2fe7ea34cc1dbbd2d4743b684f5b9aada0ea45cda9c7d72a93bb842ab2&width=1200&height=630&focal=3213,570",
+      "pubDate": "Thu, 23 Jul 2026 00:37:58 GMT",
+      "image": "https://www.chosun.com/resizer/v2/7MPNIGZWQZGNFEIHVCOUPMHFWQ.jpg?auth=f14b356a6af9a842a31811b3d7fab651c9c7034b0ba2dca6711f9a63d298d96f&width=720&height=378&focal=400,156",
       "summaries": {
-        "ko": "\"보완수사 없었다면 사건 묻혔다\" 피해자들 국회서 분노 쏟아냈다 - 조선일보",
-        "en": "\"보완수사 없었다면 사건 묻혔다\" 피해자들 국회서 분노 쏟아냈다 - 조선일보",
-        "zh": "\"보완수사 없었다면 사건 묻혔다\" 피해자들 국회서 분노 쏟아냈다 - 조선일보"
-      }
-    },
-    {
-      "title": "오세훈 서울시장, '벌금 1천만 원' 1심 선고 직후 항소장 제출 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6839620_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Thu, 23 Jul 2026 08:16:39 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/23/jh_20260723_23.jpg",
-      "summaries": {
-        "ko": "오세훈 서울시장, '벌금 1천만 원' 1심 선고 직후 항소장 제출 - MBC 뉴스",
-        "en": "오세훈 서울시장, '벌금 1천만 원' 1심 선고 직후 항소장 제출 - MBC 뉴스",
-        "zh": "오세훈 서울시장, '벌금 1천만 원' 1심 선고 직후 항소장 제출 - MBC 뉴스"
+        "ko": "오세훈, ‘여론조사비 대납’ 1심 벌금 1000만원에 항소 - 조선일보",
+        "en": "오세훈, ‘여론조사비 대납’ 1심 벌금 1000만원에 항소 - 조선일보",
+        "zh": "오세훈, ‘여론조사비 대납’ 1심 벌금 1000만원에 항소 - 조선일보"
       }
     },
     {
@@ -119,6 +107,18 @@
         "ko": "[단독]“결국 답은 한동훈”···오세훈 선고 후 국힘 쇄신파 단체방에 친한계 반응 기사 올라와 - 경향신문",
         "en": "[단독]“결국 답은 한동훈”···오세훈 선고 후 국힘 쇄신파 단체방에 친한계 반응 기사 올라와 - 경향신문",
         "zh": "[단독]“결국 답은 한동훈”···오세훈 선고 후 국힘 쇄신파 단체방에 친한계 반응 기사 올라와 - 경향신문"
+      }
+    },
+    {
+      "title": "국회, 국민의힘 몫 6개 상임위원장 선출‥후반기 국회 개원 54일만 원구성 완료 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6839604_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Thu, 23 Jul 2026 07:37:43 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/23/jh_20260723_18.jpg",
+      "summaries": {
+        "ko": "국회, 국민의힘 몫 6개 상임위원장 선출‥후반기 국회 개원 54일만 원구성 완료 - MBC 뉴스",
+        "en": "국회, 국민의힘 몫 6개 상임위원장 선출‥후반기 국회 개원 54일만 원구성 완료 - MBC 뉴스",
+        "zh": "국회, 국민의힘 몫 6개 상임위원장 선출‥후반기 국회 개원 54일만 원구성 완료 - MBC 뉴스"
       }
     }
   ]
