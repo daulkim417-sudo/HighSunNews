@@ -1,64 +1,28 @@
 {
-  "lastUpdate": "2026-07-23T22:15:47.030492",
+  "lastUpdate": "2026-07-23T23:11:39.618123",
   "items": [
     {
-      "title": "[점선면]‘똘똘한 한 채’가 뭐길래…어제 ‘부동산 토론회’ 핵심은? - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607240700011",
+      "title": "[속보]미국, 60개국에 ‘강제노동 관세’ 확정···한국은 12.5% - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607240728001",
       "source": "경향신문",
-      "pubDate": "Thu, 23 Jul 2026 22:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/24/news-p.v1.20260723.c096ac4602394dbfa23d385ed82c25c1_P1.jpeg",
+      "pubDate": "Thu, 23 Jul 2026 22:28:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/24/rcv.YNA.20260723.PRU20260723045401009_P1.jpg",
       "summaries": {
-        "ko": "[점선면]‘똘똘한 한 채’가 뭐길래…어제 ‘부동산 토론회’ 핵심은? - 경향신문",
-        "en": "[점선면]‘똘똘한 한 채’가 뭐길래…어제 ‘부동산 토론회’ 핵심은? - 경향신문",
-        "zh": "[점선면]‘똘똘한 한 채’가 뭐길래…어제 ‘부동산 토론회’ 핵심은? - 경향신문"
+        "ko": "[속보]미국, 60개국에 ‘강제노동 관세’ 확정···한국은 12.5% - 경향신문",
+        "en": "[속보]미국, 60개국에 ‘강제노동 관세’ 확정···한국은 12.5% - 경향신문",
+        "zh": "[속보]미국, 60개국에 ‘강제노동 관세’ 확정···한국은 12.5% - 경향신문"
       }
     },
     {
-      "title": "[속보] 미국, 60개 교역상대에 새 관세…한국산 총 12.5% - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1269752.html",
+      "title": "맞장구치고 질문하고 팩트 따지고…3시간13분도 짧았다 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1269662.html",
       "source": "한겨레",
-      "pubDate": "Thu, 23 Jul 2026 22:01:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0724/20260724500135.webp",
+      "pubDate": "Thu, 23 Jul 2026 16:07:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/554/imgdb/original/2026/0723/20260723503380.webp",
       "summaries": {
-        "ko": "[속보] 미국, 60개 교역상대에 새 관세…한국산 총 12.5% - 한겨레",
-        "en": "[속보] 미국, 60개 교역상대에 새 관세…한국산 총 12.5% - 한겨레",
-        "zh": "[속보] 미국, 60개 교역상대에 새 관세…한국산 총 12.5% - 한겨레"
-      }
-    },
-    {
-      "title": "NYT \"우라늄 농축 권리, 사우디는 되고 한국은 안 되나…이중잣대\" - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260724043345bhp",
-      "source": "연합뉴스TV",
-      "pubDate": "Thu, 23 Jul 2026 19:33:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260723/AKR20260724043345bhp_01_i.jpg",
-      "summaries": {
-        "ko": "NYT \"우라늄 농축 권리, 사우디는 되고 한국은 안 되나…이중잣대\" - 연합뉴스TV",
-        "en": "NYT \"우라늄 농축 권리, 사우디는 되고 한국은 안 되나…이중잣대\" - 연합뉴스TV",
-        "zh": "NYT \"우라늄 농축 권리, 사우디는 되고 한국은 안 되나…이중잣대\" - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "대법, 김건희 ‘명태균 여론조사’ 선고 연기... 전원합의체 회부 - 조선일보",
-      "link": "https://www.chosun.com/national/court_law/2026/07/23/4M4FACRV65EOXPLTHRUMT5WTC4/",
-      "source": "조선일보",
-      "pubDate": "Thu, 23 Jul 2026 09:48:21 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GE3TMMLEGQZTOOBSHAYWKM3BHE.jpg?auth=4ecc2c05f78aa5c600330c898b11013493482acb42b0a422ff044cd89951e04f&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "대법, 김건희 ‘명태균 여론조사’ 선고 연기... 전원합의체 회부 - 조선일보",
-        "en": "대법, 김건희 ‘명태균 여론조사’ 선고 연기... 전원합의체 회부 - 조선일보",
-        "zh": "대법, 김건희 ‘명태균 여론조사’ 선고 연기... 전원합의체 회부 - 조선일보"
-      }
-    },
-    {
-      "title": "국민의힘, 오세훈 유죄 판결에 어정쩡한 반발…대선 구도·당권 싸움 셈법으로 속내 제각각 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607240601001",
-      "source": "경향신문",
-      "pubDate": "Thu, 23 Jul 2026 21:01:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/24/news-p.v1.20260723.353cbc6375774cb9bcb273a6f4686f35_P1.jpeg",
-      "summaries": {
-        "ko": "국민의힘, 오세훈 유죄 판결에 어정쩡한 반발…대선 구도·당권 싸움 셈법으로 속내 제각각 - 경향신문",
-        "en": "국민의힘, 오세훈 유죄 판결에 어정쩡한 반발…대선 구도·당권 싸움 셈법으로 속내 제각각 - 경향신문",
-        "zh": "국민의힘, 오세훈 유죄 판결에 어정쩡한 반발…대선 구도·당권 싸움 셈법으로 속내 제각각 - 경향신문"
+        "ko": "맞장구치고 질문하고 팩트 따지고…3시간13분도 짧았다 - 한겨레",
+        "en": "맞장구치고 질문하고 팩트 따지고…3시간13분도 짧았다 - 한겨레",
+        "zh": "맞장구치고 질문하고 팩트 따지고…3시간13분도 짧았다 - 한겨레"
       }
     },
     {
@@ -74,27 +38,27 @@
       }
     },
     {
-      "title": "민주 당대표 ‘金·鄭·宋’ 3파전…최고위원 후보, 친청계 전원 진출 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260723/134354200/1",
-      "source": "동아일보",
-      "pubDate": "Thu, 23 Jul 2026 09:38:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/23/134354525.1.png",
+      "title": "[속보] 대법 ‘김건희 상고심’ 전원합의체 회부…선고 연기 - 매일경제",
+      "link": "https://www.mk.co.kr/news/society/12105451",
+      "source": "매일경제",
+      "pubDate": "Thu, 23 Jul 2026 06:25:03 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202607/23/news-p.v1.20260723.39d6a0f4ac464e50975e49c1c458dae5_R.jpg",
       "summaries": {
-        "ko": "민주 당대표 ‘金·鄭·宋’ 3파전…최고위원 후보, 친청계 전원 진출 - 동아일보",
-        "en": "민주 당대표 ‘金·鄭·宋’ 3파전…최고위원 후보, 친청계 전원 진출 - 동아일보",
-        "zh": "민주 당대표 ‘金·鄭·宋’ 3파전…최고위원 후보, 친청계 전원 진출 - 동아일보"
+        "ko": "[속보] 대법 ‘김건희 상고심’ 전원합의체 회부…선고 연기 - 매일경제",
+        "en": "[속보] 대법 ‘김건희 상고심’ 전원합의체 회부…선고 연기 - 매일경제",
+        "zh": "[속보] 대법 ‘김건희 상고심’ 전원합의체 회부…선고 연기 - 매일경제"
       }
     },
     {
-      "title": "[단독]국수본 강력계장 “여청쪽 진행 안됐다”…장윤기 병합수사 불허 - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260723/134352895/1",
-      "source": "동아일보",
-      "pubDate": "Thu, 23 Jul 2026 08:04:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/23/134352979.1.png",
+      "title": "네타냐후 \"이스라엘-사우디 관계 정상화는 역사적 도약\" - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260723196700079",
+      "source": "연합뉴스",
+      "pubDate": "Thu, 23 Jul 2026 14:10:23 GMT",
+      "image": "https://img3.yna.co.kr/etc/inner/KR/2026/07/23/AKR20260723196700079_01_i_P4.jpg",
       "summaries": {
-        "ko": "[단독]국수본 강력계장 “여청쪽 진행 안됐다”…장윤기 병합수사 불허 - 동아일보",
-        "en": "[단독]국수본 강력계장 “여청쪽 진행 안됐다”…장윤기 병합수사 불허 - 동아일보",
-        "zh": "[단독]국수본 강력계장 “여청쪽 진행 안됐다”…장윤기 병합수사 불허 - 동아일보"
+        "ko": "네타냐후 \"이스라엘-사우디 관계 정상화는 역사적 도약\" - 연합뉴스",
+        "en": "네타냐후 \"이스라엘-사우디 관계 정상화는 역사적 도약\" - 연합뉴스",
+        "zh": "네타냐후 \"이스라엘-사우디 관계 정상화는 역사적 도약\" - 연합뉴스"
       }
     },
     {
@@ -110,39 +74,75 @@
       }
     },
     {
-      "title": "국회, 국민의힘 몫 6개 상임위원장 선출‥후반기 국회 개원 54일만 원구성 완료 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6839604_36911.html",
+      "title": "8일 늦게 송치된 장윤기 성폭행 사건… 국수본 \"수사 늦어 살인과 병합 불가\" - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/07/23/ORUXM5KYDVDXXLACV7ZNGIKKMQ/",
+      "source": "조선일보",
+      "pubDate": "Thu, 23 Jul 2026 09:16:56 GMT",
+      "image": "https://www.chosun.com/resizer/v2/77AMQIGHIROARJHOBLHGELAEOA.jpg?auth=73c2fe9ce438e272c65b5b88bd3c249c3a8e00b4d28937784be6e54558bf3f37&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "8일 늦게 송치된 장윤기 성폭행 사건… 국수본 \"수사 늦어 살인과 병합 불가\" - 조선일보",
+        "en": "8일 늦게 송치된 장윤기 성폭행 사건… 국수본 \"수사 늦어 살인과 병합 불가\" - 조선일보",
+        "zh": "8일 늦게 송치된 장윤기 성폭행 사건… 국수본 \"수사 늦어 살인과 병합 불가\" - 조선일보"
+      }
+    },
+    {
+      "title": "민주당 당대표 선거, 김민석·정청래·송영길 3파전 압축 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6839636_36911.html",
       "source": "MBC 뉴스",
-      "pubDate": "Thu, 23 Jul 2026 07:37:43 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/23/jh_20260723_18.jpg",
+      "pubDate": "Thu, 23 Jul 2026 09:52:15 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/23/kds_20260723_6.jpg",
       "summaries": {
-        "ko": "국회, 국민의힘 몫 6개 상임위원장 선출‥후반기 국회 개원 54일만 원구성 완료 - MBC 뉴스",
-        "en": "국회, 국민의힘 몫 6개 상임위원장 선출‥후반기 국회 개원 54일만 원구성 완료 - MBC 뉴스",
-        "zh": "국회, 국민의힘 몫 6개 상임위원장 선출‥후반기 국회 개원 54일만 원구성 완료 - MBC 뉴스"
+        "ko": "민주당 당대표 선거, 김민석·정청래·송영길 3파전 압축 - MBC 뉴스",
+        "en": "민주당 당대표 선거, 김민석·정청래·송영길 3파전 압축 - MBC 뉴스",
+        "zh": "민주당 당대표 선거, 김민석·정청래·송영길 3파전 압축 - MBC 뉴스"
       }
     },
     {
-      "title": "[속보] 미 USTR, 무역법 301조 강제노동 관세 발표",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260724063144oYt",
-      "source": "Breaking News",
-      "pubDate": "Fri, 24 Jul 2026 06:31:45 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260723/MYH20260724063144oYt.jpg",
+      "title": "오세훈, ’여론조사비 대납’ 1심 벌금 1천만 원에 항소 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260723102804NR7",
+      "source": "연합뉴스TV",
+      "pubDate": "Thu, 23 Jul 2026 01:28:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260723/AKR20260723102804NR7_01_i.jpg",
       "summaries": {
-        "ko": "[속보] 미 USTR, 무역법 301조 강제노동 관세 발표",
-        "en": "[속보] 미 USTR, 무역법 301조 강제노동 관세 발표",
-        "zh": "[속보] 미 USTR, 무역법 301조 강제노동 관세 발표"
+        "ko": "오세훈, ’여론조사비 대납’ 1심 벌금 1천만 원에 항소 - 연합뉴스TV",
+        "en": "오세훈, ’여론조사비 대납’ 1심 벌금 1천만 원에 항소 - 연합뉴스TV",
+        "zh": "오세훈, ’여론조사비 대납’ 1심 벌금 1천만 원에 항소 - 연합뉴스TV"
       }
     },
     {
-      "title": "[속보] 미, 60개국에 '강제노동 관세' 확정…한국 사실상 12.5%",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260724061909OaF",
-      "source": "Breaking News",
-      "pubDate": "Fri, 24 Jul 2026 06:19:10 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260723/AKR20260724061909OaF_01_i.jpg",
+      "title": "美상무 \"한미 조선 협력, 말·MOU가 아닌 선박 숫자로 평가할 것\" - 조선일보",
+      "link": "https://www.chosun.com/international/us/2026/07/24/RS4RIPGV7NEHLNILUF3O2CQ3SM/",
+      "source": "조선일보",
+      "pubDate": "Thu, 23 Jul 2026 18:42:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/IPLTUBIVYJATLNQB2JBQ6LMAYQ.jpg?auth=6c5a71e6ec767a7d5f86bb29195ebd25ee88d088f0b7b8a8bb372cda4433daed&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "[속보] 미, 60개국에 '강제노동 관세' 확정…한국 사실상 12.5%",
-        "en": "[속보] 미, 60개국에 '강제노동 관세' 확정…한국 사실상 12.5%",
-        "zh": "[속보] 미, 60개국에 '강제노동 관세' 확정…한국 사실상 12.5%"
+        "ko": "美상무 \"한미 조선 협력, 말·MOU가 아닌 선박 숫자로 평가할 것\" - 조선일보",
+        "en": "美상무 \"한미 조선 협력, 말·MOU가 아닌 선박 숫자로 평가할 것\" - 조선일보",
+        "zh": "美상무 \"한미 조선 협력, 말·MOU가 아닌 선박 숫자로 평가할 것\" - 조선일보"
+      }
+    },
+    {
+      "title": "[속보] 靑 \"한미, 관세합의 준수 공감대…조사 진행 중\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH2026072407414523V",
+      "source": "Breaking News",
+      "pubDate": "Fri, 24 Jul 2026 07:41:47 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260723/MYH2026072407414523V.jpg",
+      "summaries": {
+        "ko": "[속보] 靑 \"한미, 관세합의 준수 공감대…조사 진행 중\"",
+        "en": "[속보] 靑 \"한미, 관세합의 준수 공감대…조사 진행 중\"",
+        "zh": "[속보] 靑 \"한미, 관세합의 준수 공감대…조사 진행 중\""
+      }
+    },
+    {
+      "title": "[속보] 靑 \"한미, 관세합의 준수 공감대…15% 지켜지게 긴밀히 협의\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202607240732269or",
+      "source": "Breaking News",
+      "pubDate": "Fri, 24 Jul 2026 07:32:27 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260723/AKR202607240732269or_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] 靑 \"한미, 관세합의 준수 공감대…15% 지켜지게 긴밀히 협의\"",
+        "en": "[속보] 靑 \"한미, 관세합의 준수 공감대…15% 지켜지게 긴밀히 협의\"",
+        "zh": "[속보] 靑 \"한미, 관세합의 준수 공감대…15% 지켜지게 긴밀히 협의\""
       }
     }
   ]
