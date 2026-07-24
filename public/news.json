@@ -1,16 +1,52 @@
 {
-  "lastUpdate": "2026-07-24T00:11:07.946195",
+  "lastUpdate": "2026-07-24T03:39:00.819684",
   "items": [
     {
-      "title": "[속보]미국, 60개국에 ‘강제노동 관세’ 확정···한국은 12.5% - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607240728001",
-      "source": "경향신문",
-      "pubDate": "Thu, 23 Jul 2026 22:28:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/24/rcv.YNA.20260723.PRU20260723045401009_P1.jpg",
+      "title": "정부 ‘미 301조 관세’ 부과에 “15% 상한 준수 협의” - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8619182",
+      "source": "KBS 뉴스",
+      "pubDate": "Fri, 24 Jul 2026 01:26:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/07/24/20260724_3x64n7.png",
       "summaries": {
-        "ko": "미국이 무역법 301조를 근거로 강제노동 대응 미흡을 이유로 한국(12.5%)을 포함한 60개국에 10~12.5%의 관세를 부과했다.",
-        "en": "The U.S. imposed 10-12.5% tariffs on 60 countries, including South Korea (12.5%), under Section 301 of the Trade Act, citing insufficient measures against forced labor.",
-        "zh": "美国依据贸易法301条款，以应对强制劳动措施不足为由，对包括韩国（12.5%）在内的60个国家征收了10%至12.5%的关税。"
+        "ko": "미국 정부가 무역법 301조에 의거해 한국에 사실상 12.5% 관세를 부과한 가운데, 정부는 향후 과잉생산 조사에도 적극 대응하며 상호 합의한 15% 상한을 준수하도록 미국과 협의하겠다고 밝혔습니다.",
+        "en": "As the U.S. government imposed a de facto 12.5% tariff on South Korea under Section 301 of the Trade Act, the Korean government announced it would actively respond to future overproduction investigations and negotiate with the U.S. to adhere to the mutually agreed 15% cap.",
+        "zh": "在美国政府根据贸易法301条款对韩国征收实际12.5%的关税之际，韩国政府表示将积极应对未来的产能过剩调查，并与美方协商，以遵守双方商定的15%上限。"
+      }
+    },
+    {
+      "title": "권영진, 상임위 배정 반발해 멱살잡이‥\"변명 여지없이 제 불찰\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6839762_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Fri, 24 Jul 2026 00:04:36 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/24/joo260724_2.jpg",
+      "summaries": {
+        "ko": "권영진, 상임위 배정 반발해 멱살잡이‥\"변명 여지없이 제 불찰\" - MBC 뉴스",
+        "en": "권영진, 상임위 배정 반발해 멱살잡이‥\"변명 여지없이 제 불찰\" - MBC 뉴스",
+        "zh": "권영진, 상임위 배정 반발해 멱살잡이‥\"변명 여지없이 제 불찰\" - MBC 뉴스"
+      }
+    },
+    {
+      "title": "[속보]‘이종섭 도피 의혹’ 윤석열 5년 구형…특검 “범행 은폐 목적으로 형사사법 작용 무력화” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607241106001",
+      "source": "경향신문",
+      "pubDate": "Fri, 24 Jul 2026 02:06:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/24/news-p.v1.20260709.6d2831ca835442048d02ff48bacd4e8e_P1.jpg",
+      "summaries": {
+        "ko": "[속보]‘이종섭 도피 의혹’ 윤석열 5년 구형…특검 “범행 은폐 목적으로 형사사법 작용 무력화” - 경향신문",
+        "en": "[속보]‘이종섭 도피 의혹’ 윤석열 5년 구형…특검 “범행 은폐 목적으로 형사사법 작용 무력화” - 경향신문",
+        "zh": "[속보]‘이종섭 도피 의혹’ 윤석열 5년 구형…특검 “범행 은폐 목적으로 형사사법 작용 무력화” - 경향신문"
+      }
+    },
+    {
+      "title": "박지원 “이 대통령 계파 수장? 유시민, 지나친 예단” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1269791.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 24 Jul 2026 02:18:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0724/20260724500958.webp",
+      "summaries": {
+        "ko": "박지원 “이 대통령 계파 수장? 유시민, 지나친 예단” - 한겨레",
+        "en": "박지원 “이 대통령 계파 수장? 유시민, 지나친 예단” - 한겨레",
+        "zh": "박지원 “이 대통령 계파 수장? 유시민, 지나친 예단” - 한겨레"
       }
     },
     {
@@ -26,123 +62,75 @@
       }
     },
     {
-      "title": "핵무장 야욕 사우디엔 열고…원전 강국 한국엔 닫은 美 원자력 이중잣대 - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/07/24/MHWAZI7P7NCL7I5N3NYRV7RXJY/",
-      "source": "조선일보",
-      "pubDate": "Thu, 23 Jul 2026 19:42:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MQ4WEMJQMZRGEZLFGJSDGYRQMI.jpg?auth=d19051101bd80b988b35f26de0ad28defc8cd68b6cdcd138ca0e510c64c95162&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "핵무장 야욕 사우디엔 열고…원전 강국 한국엔 닫은 美 원자력 이중잣대 - 조선일보",
-        "en": "핵무장 야욕 사우디엔 열고…원전 강국 한국엔 닫은 美 원자력 이중잣대 - 조선일보",
-        "zh": "핵무장 야욕 사우디엔 열고…원전 강국 한국엔 닫은 美 원자력 이중잣대 - 조선일보"
-      }
-    },
-    {
-      "title": "‘중학생과 성관계 혐의’ 수사 중 16일 만에 사직···그래도 200만원 챙긴 전 청주시의원 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607231950001",
-      "source": "경향신문",
-      "pubDate": "Thu, 23 Jul 2026 10:50:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/23/rcv.YNA.20260722.PYH2026072205030006400_P1.jpg",
-      "summaries": {
-        "ko": "‘중학생과 성관계 혐의’ 수사 중 16일 만에 사직···그래도 200만원 챙긴 전 청주시의원 - 경향신문",
-        "en": "‘중학생과 성관계 혐의’ 수사 중 16일 만에 사직···그래도 200만원 챙긴 전 청주시의원 - 경향신문",
-        "zh": "‘중학생과 성관계 혐의’ 수사 중 16일 만에 사직···그래도 200만원 챙긴 전 청주시의원 - 경향신문"
-      }
-    },
-    {
-      "title": "‘명태균 여론조사 판결’ 교통정리하나…김건희 선고 또 연기 ‘전합’ 회부 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1269694.html",
+      "title": "트럼프, 사우디 달래려 ‘핵 당근’…중동 핵 개발 판도라 열리나 [뉴스분석] - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1269746.html",
       "source": "한겨레",
-      "pubDate": "Thu, 23 Jul 2026 16:31:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/491/imgdb/original/2026/0723/20260723503600.webp",
+      "pubDate": "Fri, 24 Jul 2026 01:19:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/860/516/imgdb/original/2026/0723/20260723504049.webp",
       "summaries": {
-        "ko": "‘명태균 여론조사 판결’ 교통정리하나…김건희 선고 또 연기 ‘전합’ 회부 - 한겨레",
-        "en": "‘명태균 여론조사 판결’ 교통정리하나…김건희 선고 또 연기 ‘전합’ 회부 - 한겨레",
-        "zh": "‘명태균 여론조사 판결’ 교통정리하나…김건희 선고 또 연기 ‘전합’ 회부 - 한겨레"
+        "ko": "트럼프, 사우디 달래려 ‘핵 당근’…중동 핵 개발 판도라 열리나 [뉴스분석] - 한겨레",
+        "en": "트럼프, 사우디 달래려 ‘핵 당근’…중동 핵 개발 판도라 열리나 [뉴스분석] - 한겨레",
+        "zh": "트럼프, 사우디 달래려 ‘핵 당근’…중동 핵 개발 판도라 열리나 [뉴스분석] - 한겨레"
       }
     },
     {
-      "title": "’투표율 조작’ 선관위 수사…최태원-노소영 ’세기의 이혼’ 결론 [7월 24일 AI PICK] - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260723175850E0k",
-      "source": "연합뉴스TV",
-      "pubDate": "Thu, 23 Jul 2026 20:26:15 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260723/AKR20260723175850E0k_03_i.jpg",
-      "summaries": {
-        "ko": "’투표율 조작’ 선관위 수사…최태원-노소영 ’세기의 이혼’ 결론 [7월 24일 AI PICK] - 연합뉴스TV",
-        "en": "’투표율 조작’ 선관위 수사…최태원-노소영 ’세기의 이혼’ 결론 [7월 24일 AI PICK] - 연합뉴스TV",
-        "zh": "’투표율 조작’ 선관위 수사…최태원-노소영 ’세기의 이혼’ 결론 [7월 24일 AI PICK] - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "오세훈 1심 유죄에… 당권파 미소, 한동훈 신중, 이준석 걱정 - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/07/24/AMR3TSTQA5CBBB5X6GEIBRORMQ/",
-      "source": "조선일보",
-      "pubDate": "Thu, 23 Jul 2026 15:48:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/775IUPKHERGNTKJRECTWP23ZJM.jpg?auth=79d107495e70ae4d117bba5d6cef496b8d8a78a300eea8a9645539f5165f42a0&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "오세훈 1심 유죄에… 당권파 미소, 한동훈 신중, 이준석 걱정 - 조선일보",
-        "en": "오세훈 1심 유죄에… 당권파 미소, 한동훈 신중, 이준석 걱정 - 조선일보",
-        "zh": "오세훈 1심 유죄에… 당권파 미소, 한동훈 신중, 이준석 걱정 - 조선일보"
-      }
-    },
-    {
-      "title": "민주당 당대표 선거, 김민석·정청래·송영길 3파전 압축 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6839636_36911.html",
+      "title": "이 대통령 지지율 51%로 다시 최저치‥민주 44%·국힘 23% - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6839790_36911.html",
       "source": "MBC 뉴스",
-      "pubDate": "Thu, 23 Jul 2026 09:52:15 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/23/kds_20260723_6.jpg",
+      "pubDate": "Fri, 24 Jul 2026 01:49:34 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/24/jse_20260724_8.jpg",
       "summaries": {
-        "ko": "민주당 당대표 선거, 김민석·정청래·송영길 3파전 압축 - MBC 뉴스",
-        "en": "민주당 당대표 선거, 김민석·정청래·송영길 3파전 압축 - MBC 뉴스",
-        "zh": "민주당 당대표 선거, 김민석·정청래·송영길 3파전 압축 - MBC 뉴스"
+        "ko": "이 대통령 지지율 51%로 다시 최저치‥민주 44%·국힘 23% - MBC 뉴스",
+        "en": "이 대통령 지지율 51%로 다시 최저치‥민주 44%·국힘 23% - MBC 뉴스",
+        "zh": "이 대통령 지지율 51%로 다시 최저치‥민주 44%·국힘 23% - MBC 뉴스"
       }
     },
     {
-      "title": "美상무 \"한미 조선 협력, 말·MOU가 아닌 선박 숫자로 평가할 것\" - 조선일보",
-      "link": "https://www.chosun.com/international/us/2026/07/24/RS4RIPGV7NEHLNILUF3O2CQ3SM/",
+      "title": "실시간 투표자 수 잘못 입력한 선관위 \"최종 투표율만 맞추면 되는 거 아니냐\" - 조선일보",
+      "link": "https://www.chosun.com/national/court_law/2026/07/24/EAKKL7TUAZBGLAJXIF3CQMFCVM/",
       "source": "조선일보",
-      "pubDate": "Thu, 23 Jul 2026 18:42:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/IPLTUBIVYJATLNQB2JBQ6LMAYQ.jpg?auth=6c5a71e6ec767a7d5f86bb29195ebd25ee88d088f0b7b8a8bb372cda4433daed&width=1200&height=630&smart=true",
+      "pubDate": "Fri, 24 Jul 2026 01:50:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MV2SDDG5IZPS7G42UV4AO7OZRM.JPG?auth=605308320ddafce17f4b60defb66a408b7b89953f814fa70d6be1f3d5321a6e9&width=1200&height=630&focal=2680,1268",
       "summaries": {
-        "ko": "美상무 \"한미 조선 협력, 말·MOU가 아닌 선박 숫자로 평가할 것\" - 조선일보",
-        "en": "美상무 \"한미 조선 협력, 말·MOU가 아닌 선박 숫자로 평가할 것\" - 조선일보",
-        "zh": "美상무 \"한미 조선 협력, 말·MOU가 아닌 선박 숫자로 평가할 것\" - 조선일보"
+        "ko": "실시간 투표자 수 잘못 입력한 선관위 \"최종 투표율만 맞추면 되는 거 아니냐\" - 조선일보",
+        "en": "실시간 투표자 수 잘못 입력한 선관위 \"최종 투표율만 맞추면 되는 거 아니냐\" - 조선일보",
+        "zh": "실시간 투표자 수 잘못 입력한 선관위 \"최종 투표율만 맞추면 되는 거 아니냐\" - 조선일보"
       }
     },
     {
-      "title": "\"상임위 배정 원칙 설명해라\"… 지도부 멱살 잡은 국힘 의원들 - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/07/23/2QV6V74ATJEE3IWYAQGLBD4H2I/",
-      "source": "조선일보",
-      "pubDate": "Thu, 23 Jul 2026 12:37:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/S2NYA64K4VEX7GIUUGEPFUYOMQ.jpg?auth=c06ed740bf2142c3fcbe673057ae0930a309193f0eff8d3f7874212f4988dba6&width=1200&height=630&smart=true",
+      "title": "낮 최고 38도 ‘찜통 더위’…수도권·강원도는 장맛비 계속 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1269755.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 24 Jul 2026 00:10:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/680/330/imgdb/original/2026/0724/20260724500226.webp",
       "summaries": {
-        "ko": "\"상임위 배정 원칙 설명해라\"… 지도부 멱살 잡은 국힘 의원들 - 조선일보",
-        "en": "\"상임위 배정 원칙 설명해라\"… 지도부 멱살 잡은 국힘 의원들 - 조선일보",
-        "zh": "\"상임위 배정 원칙 설명해라\"… 지도부 멱살 잡은 국힘 의원들 - 조선일보"
+        "ko": "낮 최고 38도 ‘찜통 더위’…수도권·강원도는 장맛비 계속 - 한겨레",
+        "en": "낮 최고 38도 ‘찜통 더위’…수도권·강원도는 장맛비 계속 - 한겨레",
+        "zh": "낮 최고 38도 ‘찜통 더위’…수도권·강원도는 장맛비 계속 - 한겨레"
       }
     },
     {
-      "title": "[속보] 코스피 1% 하락 출발…7,000선 턱걸이",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260724090855jwH",
+      "title": "민주 당대표 ‘金·鄭·宋’ 3파전…최고위원 후보, 친청계 전원 진출 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260723/134354200/1",
+      "source": "동아일보",
+      "pubDate": "Thu, 23 Jul 2026 09:38:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/23/134354525.1.png",
+      "summaries": {
+        "ko": "민주 당대표 ‘金·鄭·宋’ 3파전…최고위원 후보, 친청계 전원 진출 - 동아일보",
+        "en": "민주 당대표 ‘金·鄭·宋’ 3파전…최고위원 후보, 친청계 전원 진출 - 동아일보",
+        "zh": "민주 당대표 ‘金·鄭·宋’ 3파전…최고위원 후보, 친청계 전원 진출 - 동아일보"
+      }
+    },
+    {
+      "title": "[속보] 코스피 이어 코스닥도 급락에 매도 사이드카",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260724115036zUT",
       "source": "Breaking News",
-      "pubDate": "Fri, 24 Jul 2026 09:08:58 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260724/MYH20260724090855jwH.jpg",
+      "pubDate": "Fri, 24 Jul 2026 11:50:36 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260724/AKR20260724115036zUT_01_i.jpg",
       "summaries": {
-        "ko": "[속보] 코스피 1% 하락 출발…7,000선 턱걸이",
-        "en": "[속보] 코스피 1% 하락 출발…7,000선 턱걸이",
-        "zh": "[속보] 코스피 1% 하락 출발…7,000선 턱걸이"
-      }
-    },
-    {
-      "title": "[속보] 유류세 인하 9월말까지 연장…휘발유 15%·경유 25%·부탄 25%↓",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260724090334izF",
-      "source": "Breaking News",
-      "pubDate": "Fri, 24 Jul 2026 09:03:36 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260724/AKR20260724090334izF_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 유류세 인하 9월말까지 연장…휘발유 15%·경유 25%·부탄 25%↓",
-        "en": "[속보] 유류세 인하 9월말까지 연장…휘발유 15%·경유 25%·부탄 25%↓",
-        "zh": "[속보] 유류세 인하 9월말까지 연장…휘발유 15%·경유 25%·부탄 25%↓"
+        "ko": "[속보] 코스피 이어 코스닥도 급락에 매도 사이드카",
+        "en": "[속보] 코스피 이어 코스닥도 급락에 매도 사이드카",
+        "zh": "[속보] 코스피 이어 코스닥도 급락에 매도 사이드카"
       }
     }
   ]
