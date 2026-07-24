@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-24T18:42:24.416650",
+  "lastUpdate": "2026-07-24T20:03:01.530345",
   "items": [
     {
       "title": "트럼프, 협상 접고 군사행동 기우나…WSJ \"이란에 복수 모드\" - 연합뉴스TV",
@@ -8,33 +8,9 @@
       "pubDate": "Fri, 24 Jul 2026 14:43:00 GMT",
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260724/AKR20260724234333kzX_01_i.jpg",
       "summaries": {
-        "ko": "트럼프 대통령이 장기화되는 이란전과 교착 상태의 종전 협상에 인내심을 잃고, 이란 지도부가 미국의 군사력만 이해한다고 판단하며 군사행동으로 선회할 가능성이 커지고 있다고 외신이 보도했습니다.",
-        "en": "Foreign media reported that President Trump, losing patience with the prolonged Iran conflict and stalled peace talks, is increasingly likely to turn to military action, believing that the Iranian leadership only understands US military power.",
-        "zh": "外媒报道称，美国总统特朗普对长期化的伊朗冲突和陷入僵局的和谈失去耐心，认为伊朗领导层只听得懂美国的军事力量，因此转向军事行动的可能性越来越大。"
-      }
-    },
-    {
-      "title": "충청서도 투표율 허위입력… ‘비상근 판사 선관위장’ 리더십 한계 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260724/134362027/2",
-      "source": "동아일보",
-      "pubDate": "Fri, 24 Jul 2026 16:40:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/24/134362025.3.jpg",
-      "summaries": {
-        "ko": "충청서도 투표율 허위입력… ‘비상근 판사 선관위장’ 리더십 한계 - 동아일보",
-        "en": "충청서도 투표율 허위입력… ‘비상근 판사 선관위장’ 리더십 한계 - 동아일보",
-        "zh": "충청서도 투표율 허위입력… ‘비상근 판사 선관위장’ 리더십 한계 - 동아일보"
-      }
-    },
-    {
-      "title": "김민석·정청래·송영길 ‘본선행’…최고위원 대결 ‘친명 5·친청 3’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1269698.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 23 Jul 2026 16:06:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/607/imgdb/original/2026/0723/2617848012955912.webp",
-      "summaries": {
-        "ko": "김민석·정청래·송영길 ‘본선행’…최고위원 대결 ‘친명 5·친청 3’ - 한겨레",
-        "en": "김민석·정청래·송영길 ‘본선행’…최고위원 대결 ‘친명 5·친청 3’ - 한겨레",
-        "zh": "김민석·정청래·송영길 ‘본선행’…최고위원 대결 ‘친명 5·친청 3’ - 한겨레"
+        "ko": "트럼프 대통령이 장기화된 이란전과 교착 상태의 종전 협상에 인내심을 잃고, 군사 행동을 선호하며 이란에 대한 '복수 모드'에 들어갔다는 외신 보도가 나왔다.",
+        "en": "Foreign media reports indicate that President Trump has lost patience with the prolonged Iran conflict and stalled peace talks, now favoring military action and entering a 'revenge mode' against Iran.",
+        "zh": "据外媒报道，特朗普总统对旷日持久的伊朗冲突和停滞不前的和平谈判失去耐心，倾向于采取军事行动，并对伊朗进入“报复模式”。"
       }
     },
     {
@@ -50,6 +26,18 @@
       }
     },
     {
+      "title": "합수본, 경기 이어 충청서도 선관위 ‘투표율 조작’ 정황 포착 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1269882.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 24 Jul 2026 12:12:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/850/522/imgdb/original/2026/0724/20260724502249.webp",
+      "summaries": {
+        "ko": "합수본, 경기 이어 충청서도 선관위 ‘투표율 조작’ 정황 포착 - 한겨레",
+        "en": "합수본, 경기 이어 충청서도 선관위 ‘투표율 조작’ 정황 포착 - 한겨레",
+        "zh": "합수본, 경기 이어 충청서도 선관위 ‘투표율 조작’ 정황 포착 - 한겨레"
+      }
+    },
+    {
       "title": "정성호 법무부 장관, 이 대통령에게 사의 표명…보완수사권 폐지 후폭풍 - 경향신문",
       "link": "https://www.khan.co.kr/article/202607242052001",
       "source": "경향신문",
@@ -62,63 +50,75 @@
       }
     },
     {
-      "title": "비 60㎜ 온다더니 10㎜… 두번 중 한번은 ‘뻥튀기 예보’ - 조선일보",
-      "link": "https://www.chosun.com/national/transport-environment/2026/07/25/EPQVQ7VQN5BHRCPZAZHLSXF3ME/",
+      "title": "[사설] 보완 수사권도 국민 토론회 열어 국민 소리 들어보라 - 조선일보",
+      "link": "https://www.chosun.com/opinion/editorial/2026/07/25/TFG4LCK2OZGZZPJX5XMRROWL2I/",
       "source": "조선일보",
-      "pubDate": "Fri, 24 Jul 2026 15:55:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/7S5LKLB6UVEZNJCRCZEATJOEPM.jpg?auth=88979edd93c029aaeca57eea23891a5f37d46ed8372dbf4fcac45a533c4a9242&width=1200&height=630&focal=1582,1006",
+      "pubDate": "Fri, 24 Jul 2026 15:20:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/VLMFYTY52BCEPINKCPT3REWKT4.jpg?auth=3e0391ada338abcd48a04d9a48ed3aa680cd9e4518e2e7ff2f0558476706b24e&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "비 60㎜ 온다더니 10㎜… 두번 중 한번은 ‘뻥튀기 예보’ - 조선일보",
-        "en": "비 60㎜ 온다더니 10㎜… 두번 중 한번은 ‘뻥튀기 예보’ - 조선일보",
-        "zh": "비 60㎜ 온다더니 10㎜… 두번 중 한번은 ‘뻥튀기 예보’ - 조선일보"
+        "ko": "[사설] 보완 수사권도 국민 토론회 열어 국민 소리 들어보라 - 조선일보",
+        "en": "[사설] 보완 수사권도 국민 토론회 열어 국민 소리 들어보라 - 조선일보",
+        "zh": "[사설] 보완 수사권도 국민 토론회 열어 국민 소리 들어보라 - 조선일보"
       }
     },
     {
-      "title": "‘잠 못 이루는 밤’…체감 온도 ‘최대 30도’ 초열대야 주의보 - 한겨레",
+      "title": "후티 반군 \"홍해 입구 바브엘만데브 폐쇄 의도 없어\" - YTN",
+      "link": "https://www.ytn.co.kr/_ln/0104_202607250010402446",
+      "source": "YTN",
+      "pubDate": "Fri, 24 Jul 2026 15:10:00 GMT",
+      "image": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg",
+      "summaries": {
+        "ko": "후티 반군 \"홍해 입구 바브엘만데브 폐쇄 의도 없어\" - YTN",
+        "en": "후티 반군 \"홍해 입구 바브엘만데브 폐쇄 의도 없어\" - YTN",
+        "zh": "후티 반군 \"홍해 입구 바브엘만데브 폐쇄 의도 없어\" - YTN"
+      }
+    },
+    {
+      "title": "‘잠 못 이루는 밤’…체감 온도 ‘최고 30도’ 초열대야 주의보 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/environment/1269877.html",
       "source": "한겨레",
-      "pubDate": "Fri, 24 Jul 2026 14:07:00 GMT",
+      "pubDate": "Fri, 24 Jul 2026 16:18:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/800/983/imgdb/original/2026/0724/20260724502219.webp",
       "summaries": {
-        "ko": "‘잠 못 이루는 밤’…체감 온도 ‘최대 30도’ 초열대야 주의보 - 한겨레",
-        "en": "‘잠 못 이루는 밤’…체감 온도 ‘최대 30도’ 초열대야 주의보 - 한겨레",
-        "zh": "‘잠 못 이루는 밤’…체감 온도 ‘최대 30도’ 초열대야 주의보 - 한겨레"
+        "ko": "‘잠 못 이루는 밤’…체감 온도 ‘최고 30도’ 초열대야 주의보 - 한겨레",
+        "en": "‘잠 못 이루는 밤’…체감 온도 ‘최고 30도’ 초열대야 주의보 - 한겨레",
+        "zh": "‘잠 못 이루는 밤’…체감 온도 ‘최고 30도’ 초열대야 주의보 - 한겨레"
       }
     },
     {
-      "title": "현대중공업 군산조선소서 30대 노동자 끼임 사고로 숨져 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/honam/1269893.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 24 Jul 2026 12:12:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0724/20260724502343.webp",
+      "title": "민주당 당대표 선거, 김민석·정청래·송영길 3파전 압축 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6839636_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Thu, 23 Jul 2026 09:52:15 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/23/kds_20260723_6.jpg",
       "summaries": {
-        "ko": "현대중공업 군산조선소서 30대 노동자 끼임 사고로 숨져 - 한겨레",
-        "en": "현대중공업 군산조선소서 30대 노동자 끼임 사고로 숨져 - 한겨레",
-        "zh": "현대중공업 군산조선소서 30대 노동자 끼임 사고로 숨져 - 한겨레"
+        "ko": "민주당 당대표 선거, 김민석·정청래·송영길 3파전 압축 - MBC 뉴스",
+        "en": "민주당 당대표 선거, 김민석·정청래·송영길 3파전 압축 - MBC 뉴스",
+        "zh": "민주당 당대표 선거, 김민석·정청래·송영길 3파전 압축 - MBC 뉴스"
       }
     },
     {
-      "title": "정교유착 합수본, 신천지 신도들 민주당 집단가입 정황도 포착 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260724084400004",
-      "source": "연합뉴스",
-      "pubDate": "Fri, 24 Jul 2026 03:06:44 GMT",
-      "image": "https://img7.yna.co.kr/photo/yna/YH/2026/06/24/PYH2026062414360001300_P4.jpg",
+      "title": "주말 마지막 장맛비…내주부터 푹푹 찐다 - 동아일보",
+      "link": "https://www.donga.com/news/Society/article/all/20260724/134357711/1",
+      "source": "동아일보",
+      "pubDate": "Fri, 24 Jul 2026 04:35:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/24/134357862.1.jpg",
       "summaries": {
-        "ko": "정교유착 합수본, 신천지 신도들 민주당 집단가입 정황도 포착 - 연합뉴스",
-        "en": "정교유착 합수본, 신천지 신도들 민주당 집단가입 정황도 포착 - 연합뉴스",
-        "zh": "정교유착 합수본, 신천지 신도들 민주당 집단가입 정황도 포착 - 연합뉴스"
+        "ko": "주말 마지막 장맛비…내주부터 푹푹 찐다 - 동아일보",
+        "en": "주말 마지막 장맛비…내주부터 푹푹 찐다 - 동아일보",
+        "zh": "주말 마지막 장맛비…내주부터 푹푹 찐다 - 동아일보"
       }
     },
     {
-      "title": "“성적요구 거절에 업무 배제” 경기도청 내부 게시글···추미애 “엄중 조치” 지시 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607241613001",
-      "source": "경향신문",
-      "pubDate": "Fri, 24 Jul 2026 07:13:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/24/news-p.v1.20260712.40561c0f2e074bf386196d1a118a4a6b_P1.png",
+      "title": "美 중소기업들, '301조 강제노동 관세' 제소…\"대통령 권한 남용\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260725045050cIb",
+      "source": "Breaking News",
+      "pubDate": "Sat, 25 Jul 2026 04:50:52 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260724/AKR20260725045050cIb_01_i.jpg",
       "summaries": {
-        "ko": "“성적요구 거절에 업무 배제” 경기도청 내부 게시글···추미애 “엄중 조치” 지시 - 경향신문",
-        "en": "“성적요구 거절에 업무 배제” 경기도청 내부 게시글···추미애 “엄중 조치” 지시 - 경향신문",
-        "zh": "“성적요구 거절에 업무 배제” 경기도청 내부 게시글···추미애 “엄중 조치” 지시 - 경향신문"
+        "ko": "美 중소기업들, '301조 강제노동 관세' 제소…\"대통령 권한 남용\"",
+        "en": "美 중소기업들, '301조 강제노동 관세' 제소…\"대통령 권한 남용\"",
+        "zh": "美 중소기업들, '301조 강제노동 관세' 제소…\"대통령 권한 남용\""
       }
     }
   ]
