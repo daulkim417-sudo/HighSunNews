@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-07-24T12:07:53.994934",
+  "lastUpdate": "2026-07-24T14:05:53.253986",
   "items": [
+    {
+      "title": "합수본, 경기 이어 충청서도 선관위 ‘투표율 조작’ 정황 포착 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1269882.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 24 Jul 2026 11:09:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/850/522/imgdb/original/2026/0724/20260724502249.webp",
+      "summaries": {
+        "ko": "검경 합동수사본부가 경기 지역에 이어 충청 지역 선관위에서도 6·3 지방선거 투표율 통계 조작 정황을 포착하고 수사를 확대했지만, 현재까지 개표 결과에 영향을 미친 정황은 확인되지 않았다.",
+        "en": "The joint police-prosecution investigation team has expanded its probe, detecting evidence of voter turnout statistic manipulation by election commissions in the Chungcheong region for the June 3 local election, similar to findings in Gyeonggi, though no impact on the vote counting results has been confirmed yet.",
+        "zh": "韩国检警联合调查本部在京畿地区之后，又在忠清地区的选举委员会发现了6·3地方选举投票率统计造假的迹象并扩大调查，但尚未确认对开票结果产生影响。"
+      }
+    },
     {
       "title": "트럼프 “대규모 공격” 예고, 이스라엘도 대비···주말 미·이란 전면전 최대 고비 - 경향신문",
       "link": "https://www.khan.co.kr/article/202607241447001",
@@ -8,21 +20,9 @@
       "pubDate": "Fri, 24 Jul 2026 05:47:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/07/24/rcv.YNA.20260724.PRU20260724119201009_P1.jpg",
       "summaries": {
-        "ko": "트럼프 대통령이 이란에 대한 '대규모 공격'을 예고하고 이스라엘이 대비에 나서면서 미국과 이란 간 13일째 교전이 이번 주말 전면전의 최대 고비를 맞을 것으로 예상된다.",
-        "en": "As President Trump threatens a \"massive attack\" on Iran and Israel prepares for potential conflict, the 13-day US-Iran engagement is expected to reach a critical juncture for full-scale war this weekend.",
-        "zh": "随着特朗普总统预告对伊朗进行“大规模袭击”且以色列开始备战，美伊之间持续13天的交火预计将在本周末迎来全面战争的最大高潮。"
-      }
-    },
-    {
-      "title": "[단독]선관위 충청서도 투표율 허위 입력 정황 포착 - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260724/134358367/1",
-      "source": "동아일보",
-      "pubDate": "Fri, 24 Jul 2026 06:05:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/24/134358481.1.jpg",
-      "summaries": {
-        "ko": "[단독]선관위 충청서도 투표율 허위 입력 정황 포착 - 동아일보",
-        "en": "[단독]선관위 충청서도 투표율 허위 입력 정황 포착 - 동아일보",
-        "zh": "[단독]선관위 충청서도 투표율 허위 입력 정황 포착 - 동아일보"
+        "ko": "미국과 이란의 13일간 교전이 격화되는 가운데, 트럼프 대통령은 '대규모 공격'을 위협하고 이스라엘은 전면전을 준비하며, 양측의 공방과 외교적 노력의 실패로 다가오는 주말이 전면전의 최대 고비가 될 것으로 보인다.",
+        "en": "As the US and Iran's 13-day conflict escalates, Trump threatens a 'massive attack,' prompting Israel to prepare for full-scale war, with both sides exchanging strikes and diplomatic efforts failing, marking the upcoming weekend as a critical turning point.",
+        "zh": "在美伊持续13天的冲突升级之际，特朗普威胁进行‘大规模袭击’，促使以色列准备全面战争，双方互相空袭且外交努力失败，预示着即将到来的周末将是全面冲突的关键转折点。"
       }
     },
     {
@@ -32,9 +32,21 @@
       "pubDate": "Fri, 24 Jul 2026 07:51:42 GMT",
       "image": "https://img9.yna.co.kr/etc/inner/KR/2026/07/24/AKR20260724120200001_02_i_P4.jpg",
       "summaries": {
-        "ko": "김민석 더불어민주당 당대표 후보가 유시민 작가의 '재건축론'과 'ABC론' 등을 비판하며, 유 작가의 주장에 대해 명확한 입장을 밝히지 못하는 이들에게 사퇴를 촉구하거나 지도부 자격이 없다고 밝혔다.",
-        "en": "Democratic Party representative candidate Kim Min-seok criticized author Yoo Si-min's 'reconstruction theory' and 'ABC theory,' urging those who cannot clearly state their position on Yoo's arguments to resign or stating they are unqualified for leadership.",
-        "zh": "共同民主党党首候选人金民锡批评作家柳时敏的“重建论”和“ABC论”等主张，并敦促未能明确表态支持或反对柳时敏观点的人辞职，或称他们不具备领导资格。"
+        "ko": "[인터뷰] 김민석 \"이재명의 길이냐 유시민의 길이냐…모른다면 사퇴해야\" - 연합뉴스",
+        "en": "[인터뷰] 김민석 \"이재명의 길이냐 유시민의 길이냐…모른다면 사퇴해야\" - 연합뉴스",
+        "zh": "[인터뷰] 김민석 \"이재명의 길이냐 유시민의 길이냐…모른다면 사퇴해야\" - 연합뉴스"
+      }
+    },
+    {
+      "title": "\"'경찰 부르자' 직후 시너 뿌려\"···화상 피해자 1명 사망 - 대구MBC",
+      "link": "https://dgmbc.com/NewsArticle/852790",
+      "source": "대구MBC",
+      "pubDate": "Fri, 24 Jul 2026 08:45:33 GMT",
+      "image": "https://img.youtube.com/vi/ywXyFaBP05Y/maxresdefault.jpg",
+      "summaries": {
+        "ko": "\"'경찰 부르자' 직후 시너 뿌려\"···화상 피해자 1명 사망 - 대구MBC",
+        "en": "\"'경찰 부르자' 직후 시너 뿌려\"···화상 피해자 1명 사망 - 대구MBC",
+        "zh": "\"'경찰 부르자' 직후 시너 뿌려\"···화상 피해자 1명 사망 - 대구MBC"
       }
     },
     {
@@ -44,21 +56,45 @@
       "pubDate": "Fri, 24 Jul 2026 04:33:00 GMT",
       "image": "https://img.newspim.com/news/2026/07/24/260724114325370_566_tc.jpg",
       "summaries": {
-        "ko": "더불어민주당 전당대회 본선 진출 후보가 확정된 가운데 김민석, 정청래, 송영길 후보가 당대표 경쟁에 나섰으며, 친정청래계는 '생일별 분산 투표' 전략으로 최고위원 후보 전원을 본선에 진출시키는 저력을 보였다.",
-        "en": "The Democratic Party has finalized its main candidates for the leadership election, with Kim Min-seok, Jung Chung-rae, and Song Young-gil vying for party leader, while the pro-Jung Chung-rae faction successfully advanced all its supreme council candidates through a unique 'birthday-based distributed voting' strategy.",
-        "zh": "民主党党代表选举的决赛候选人已确定，金民锡、郑清来和宋永吉将角逐党代表一职，而亲郑清来派系通过独特的“按生日分散投票”策略，成功使其所有最高委员候选人进入决赛，展现了其潜力。"
+        "ko": "본선 대진표 확정…친청계, '생일별 분산 투표' 전략 성공하며 전원 생존 '저력' - 뉴스핌",
+        "en": "본선 대진표 확정…친청계, '생일별 분산 투표' 전략 성공하며 전원 생존 '저력' - 뉴스핌",
+        "zh": "본선 대진표 확정…친청계, '생일별 분산 투표' 전략 성공하며 전원 생존 '저력' - 뉴스핌"
       }
     },
     {
-      "title": "[속보] 경산 아파트 관리실 방화·폭발 부상자 50대 여성 숨져 - 매일경제",
-      "link": "https://www.mk.co.kr/news/society/12106487",
-      "source": "매일경제",
-      "pubDate": "Fri, 24 Jul 2026 02:28:05 GMT",
-      "image": "https://pimg.mk.co.kr/news/cms/202607/24/news-p.v1.20260723.308794a7ad82465e857f11884be79d24_R.jpg",
+      "title": "정성호 법무부 장관, 이 대통령에게 사의 표명…보완수사권 폐지 후폭풍 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607242052001",
+      "source": "경향신문",
+      "pubDate": "Fri, 24 Jul 2026 11:52:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/24/news-p.v1.20260413.4950528f384e4b62bab37335b6eee4ae_P1.jpeg",
       "summaries": {
-        "ko": "경북 경산의 한 아파트 관리실에서 발생한 방화·폭발 사고로 중상을 입었던 50대 여성 입주민이 치료 중 끝내 숨졌다.",
-        "en": "A 50-year-old female resident who was critically injured in an arson and explosion incident at an apartment management office in Gyeongsan, Gyeongbuk, has died during treatment.",
-        "zh": "韩国庆尚北道庆山一公寓管理室发生纵火爆炸事故，一名50多岁女性住户因重伤在治疗期间不幸身亡。"
+        "ko": "정성호 법무부 장관, 이 대통령에게 사의 표명…보완수사권 폐지 후폭풍 - 경향신문",
+        "en": "정성호 법무부 장관, 이 대통령에게 사의 표명…보완수사권 폐지 후폭풍 - 경향신문",
+        "zh": "정성호 법무부 장관, 이 대통령에게 사의 표명…보완수사권 폐지 후폭풍 - 경향신문"
+      }
+    },
+    {
+      "title": "법원 “SK주식 분할 기준 항소심 변론종결일”…주당 16만원대 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1269827.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 24 Jul 2026 09:50:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/850/510/imgdb/original/2026/0108/20260108503960.webp",
+      "summaries": {
+        "ko": "법원 “SK주식 분할 기준 항소심 변론종결일”…주당 16만원대 - 한겨레",
+        "en": "법원 “SK주식 분할 기준 항소심 변론종결일”…주당 16만원대 - 한겨레",
+        "zh": "법원 “SK주식 분할 기준 항소심 변론종결일”…주당 16만원대 - 한겨레"
+      }
+    },
+    {
+      "title": "김용범 \"4700조 AI 투자 과장 아니다… 美 빅테크와 계약 보면 알 것\" - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/07/24/WEMBMKBMXVCLFGWEN4MCOM44S4/",
+      "source": "조선일보",
+      "pubDate": "Fri, 24 Jul 2026 11:35:01 GMT",
+      "image": "https://www.chosun.com/resizer/v2/KAMIUQQVTFBZNFGCKSOORHQPBY.JPG?auth=44aad30f77bc6cc61ca9b82833d6a78bfa47027cd34e4c6e7b785459ea253725&width=1200&height=630&focal=1505,861",
+      "summaries": {
+        "ko": "김용범 \"4700조 AI 투자 과장 아니다… 美 빅테크와 계약 보면 알 것\" - 조선일보",
+        "en": "김용범 \"4700조 AI 투자 과장 아니다… 美 빅테크와 계약 보면 알 것\" - 조선일보",
+        "zh": "김용범 \"4700조 AI 투자 과장 아니다… 美 빅테크와 계약 보면 알 것\" - 조선일보"
       }
     },
     {
@@ -68,9 +104,9 @@
       "pubDate": "Fri, 24 Jul 2026 07:21:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/07/24/news-p.v1.20260724.c1903a15292e4bb79a81b209850bd520_P1.jpg",
       "summaries": {
-        "ko": "검경 합동수사본부가 신천지 신도들의 국민의힘 집단 입당 의혹을 수사하던 중 민주당에도 집단 가입한 정황을 포착해 수사 중이며, 이 의혹은 민주당 전당대회를 앞두고 당내에서도 제기되었다.",
-        "en": "The joint investigation unit, while probing allegations of Shincheonji members collectively joining the People Power Party, has also detected signs of them collectively joining the Democratic Party, an issue raised within the Democratic Party ahead of its leadership election.",
-        "zh": "检警联合调查本部在调查新天地教徒集体加入国民力量党嫌疑的过程中，也捕捉到了他们集体加入民主党的线索，该疑虑在民主党党代表选举大会前夕也已在党内被提出。"
+        "ko": "김민석이 띄운 ‘신천지 민주당 집단 가입’ 의혹···검·경 합수본, 정황 포착 - 경향신문",
+        "en": "김민석이 띄운 ‘신천지 민주당 집단 가입’ 의혹···검·경 합수본, 정황 포착 - 경향신문",
+        "zh": "김민석이 띄운 ‘신천지 민주당 집단 가입’ 의혹···검·경 합수본, 정황 포착 - 경향신문"
       }
     },
     {
@@ -80,45 +116,9 @@
       "pubDate": "Fri, 24 Jul 2026 08:29:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/647/388/imgdb/original/2025/0919/20250919501316.webp",
       "summaries": {
-        "ko": "특검팀은 채 상병 수사 외압 사건의 핵심 피의자인 이종섭 전 국방부 장관을 호주대사로 도피성 임명한 혐의(직권남용)로 윤석열 전 대통령에게 징역 5년을 구형했다.",
-        "en": "The special prosecutor's team sought 5 years imprisonment for former President Yoon Suk-yeol, accusing him of abuse of power for allegedly appointing former Defense Minister Lee Jong-sup, a key suspect in the Corporal Chae investigation pressure case, as Ambassador to Australia to facilitate his escape.",
-        "zh": "特别检察官小组以滥用职权罪名，请求判处前总统尹锡悦5年有期徒刑，指控他涉嫌将被视为蔡上兵调查施压案核心嫌疑人的前国防部长李钟燮任命为澳大利亚大使，以助其逃避调查。"
-      }
-    },
-    {
-      "title": "집값 잡겠다고 대출 꽉 조인 정부, 대통령 지시에 보완책 준비 - 조선비즈 - Chosunbiz",
-      "link": "https://biz.chosun.com/stock/finance/2026/07/24/MJK526DU6VHMNOZXFGG6MSTMJY/",
-      "source": "Chosunbiz",
-      "pubDate": "Fri, 24 Jul 2026 06:19:00 GMT",
-      "image": "https://biz.chosun.com/resizer/v2/MYYTSNJRMUYGEMRUGM4DIZLFGM.jpg?auth=feb25aa21a39132d18c9f43ccd0aa8172d2330cfbe1333ea28b9e45d32d2b61d&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "집값 잡겠다고 대출 꽉 조인 정부, 대통령 지시에 보완책 준비 - 조선비즈 - Chosunbiz",
-        "en": "집값 잡겠다고 대출 꽉 조인 정부, 대통령 지시에 보완책 준비 - 조선비즈 - Chosunbiz",
-        "zh": "집값 잡겠다고 대출 꽉 조인 정부, 대통령 지시에 보완책 준비 - 조선비즈 - Chosunbiz"
-      }
-    },
-    {
-      "title": "특검, '이종섭 도피 의혹' 윤석열 징역 5년 구형",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202607242105083ui",
-      "source": "Breaking News",
-      "pubDate": "Fri, 24 Jul 2026 21:05:09 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260724/MYH202607242105083ui.jpg",
-      "summaries": {
-        "ko": "특검, '이종섭 도피 의혹' 윤석열 징역 5년 구형",
-        "en": "특검, '이종섭 도피 의혹' 윤석열 징역 5년 구형",
-        "zh": "특검, '이종섭 도피 의혹' 윤석열 징역 5년 구형"
-      }
-    },
-    {
-      "title": "與, 검찰 '보완수사 폐지' 당론 채택…진통 끝 관철",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260724210404itu",
-      "source": "Breaking News",
-      "pubDate": "Fri, 24 Jul 2026 21:04:06 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260724/MYH20260724210404itu.jpg",
-      "summaries": {
-        "ko": "與, 검찰 '보완수사 폐지' 당론 채택…진통 끝 관철",
-        "en": "與, 검찰 '보완수사 폐지' 당론 채택…진통 끝 관철",
-        "zh": "與, 검찰 '보완수사 폐지' 당론 채택…진통 끝 관철"
+        "ko": "채상병 특검, 윤석열 징역 5년 구형…‘이종섭 도피성 임명’ 혐의 - 한겨레",
+        "en": "채상병 특검, 윤석열 징역 5년 구형…‘이종섭 도피성 임명’ 혐의 - 한겨레",
+        "zh": "채상병 특검, 윤석열 징역 5년 구형…‘이종섭 도피성 임명’ 혐의 - 한겨레"
       }
     }
   ]
