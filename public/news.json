@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-07-26T19:47:24.119901",
+  "lastUpdate": "2026-07-26T20:38:19.057184",
   "items": [
-    {
-      "title": "초고소득자 건보료 459만원→612만원…최저 보험료도 오른다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/health/1270003.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 26 Jul 2026 13:50:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/625/375/imgdb/child/2026/0726/53_17850510133589_20260726501627.webp",
-      "summaries": {
-        "ko": "정부가 건강보험료 부과 체계를 개편하여 초고소득자의 월 보험료 상한선을 459만원에서 612만원으로, 최저 보험료 하한선을 1만80원에서 2만2260원으로 각각 인상할 계획이다.",
-        "en": "The South Korean government plans to reform the health insurance premium system, raising the monthly premium ceiling for ultra-high earners from 4.59 million won to 6.12 million won, and increasing the minimum premium floor from 10,080 won to 22,260 won.",
-        "zh": "韩国政府计划改革健康保险费征收体系，将超高收入者的月保费上限从459万韩元提高至612万韩元，并把最低保费下限从10,080韩元上调至22,260韩元。"
-      }
-    },
     {
       "title": "김민석 “대통령 음해하는 게 반명” 정청래 “李 지키는건 탈당 안한 나” - 동아일보",
       "link": "https://www.donga.com/news/Politics/article/all/20260727/134368162/2",
@@ -26,15 +14,15 @@
       }
     },
     {
-      "title": "‘공시가격 30억’ 주택, 전체 0.3% 불과…“과세하는 척” 비판도 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607262141015",
-      "source": "경향신문",
-      "pubDate": "Sun, 26 Jul 2026 12:41:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/26/l_2026072701000788500076621.jpg",
+      "title": "경남 양산 39.3도... 밭일 여성 또 사망, 25만 가축 폐사 - 조선일보",
+      "link": "https://www.chosun.com/national/2026/07/26/CZENQXBYXJE25DUC263VLK7XP4/",
+      "source": "조선일보",
+      "pubDate": "Sun, 26 Jul 2026 12:20:35 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GIYWKOBUMJQTGZBSMQ2TMZDBGM.jpg?auth=2462165ecce44d8efe6d1238feb15d535cfe8f3ebc176397a951949a22cd91df&width=1200&height=630&focal=2495,734",
       "summaries": {
-        "ko": "정부가 종합부동산세 중과 기준으로 '공시가격 30억원' 주택을 고려하지만, 이는 전체 주택의 0.3%에 불과해 조세 형평성 강화라는 취지를 달성하기 어렵다는 비판이 나온다.",
-        "en": "While the government is considering houses with a 'publicly assessed price of 3 billion won' as the standard for heavier comprehensive property tax, critics argue this applies to only 0.3% of all houses, making it difficult to achieve the goal of enhancing tax fairness.",
-        "zh": "政府正考虑将“公示价格30亿韩元”的住宅设定为综合房地产税重征标准，但批评指出，这仅占全国住宅总数的0.3%，难以实现加强税收公平性的目标。"
+        "ko": "경남 양산 39.3도... 밭일 여성 또 사망, 25만 가축 폐사 - 조선일보",
+        "en": "경남 양산 39.3도... 밭일 여성 또 사망, 25만 가축 폐사 - 조선일보",
+        "zh": "경남 양산 39.3도... 밭일 여성 또 사망, 25만 가축 폐사 - 조선일보"
       }
     },
     {
@@ -44,9 +32,9 @@
       "pubDate": "Sun, 26 Jul 2026 13:15:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0726/53_17850697130909_4817850696990713.webp",
       "summaries": {
-        "ko": "2주 만에 공격 멈춘 트럼프…이란도 보복 반격 중단 - 한겨레",
-        "en": "2주 만에 공격 멈춘 트럼프…이란도 보복 반격 중단 - 한겨레",
-        "zh": "2주 만에 공격 멈춘 트럼프…이란도 보복 반격 중단 - 한겨레"
+        "ko": "트럼프 대통령이 미사일 재고 소진 우려와 호르무즈 해협 협상 진전 등의 이유로 이란에 대한 대규모 군사 공격을 보류하자, 이란도 보복 반격을 중단했다.",
+        "en": "President Trump halted large-scale military attacks on Iran, and Iran reciprocated, influenced by concerns over depleting US air defense missile stocks and progress in negotiations regarding the Strait of Hormuz.",
+        "zh": "特朗普总统暂停对伊朗的大规模军事打击，伊朗也停止了报复性反击，此举受到美国对防空导弹库存耗尽的担忧以及霍尔木兹海峡谈判进展的影响。"
       }
     },
     {
@@ -62,15 +50,15 @@
       }
     },
     {
-      "title": "강원 고성 바다에서 물에 빠진 10대 2명 구하고‥군인 2명 '의식불명' - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6840160_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sun, 26 Jul 2026 09:51:40 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/26/jhp_20260726_14.jpg",
+      "title": "연 소득 1억인데 피부양자? 일용직 건보료 부과 본격 추진···연 2000만원 초과 분 50% 반영 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607251028001",
+      "source": "경향신문",
+      "pubDate": "Sat, 25 Jul 2026 01:28:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/25/news-p.v1.20260725.51dbd8bacec3434d99d2a17593acb376_P1.png",
       "summaries": {
-        "ko": "강원 고성 바다에서 물에 빠진 10대 2명 구하고‥군인 2명 '의식불명' - MBC 뉴스",
-        "en": "강원 고성 바다에서 물에 빠진 10대 2명 구하고‥군인 2명 '의식불명' - MBC 뉴스",
-        "zh": "강원 고성 바다에서 물에 빠진 10대 2명 구하고‥군인 2명 '의식불명' - MBC 뉴스"
+        "ko": "연 소득 1억인데 피부양자? 일용직 건보료 부과 본격 추진···연 2000만원 초과 분 50% 반영 - 경향신문",
+        "en": "연 소득 1억인데 피부양자? 일용직 건보료 부과 본격 추진···연 2000만원 초과 분 50% 반영 - 경향신문",
+        "zh": "연 소득 1억인데 피부양자? 일용직 건보료 부과 본격 추진···연 2000만원 초과 분 50% 반영 - 경향신문"
       }
     },
     {
@@ -86,6 +74,18 @@
       }
     },
     {
+      "title": "강원 고성 바다에서 물에 빠진 10대 2명 구하고‥군인 2명 '의식불명' - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6840160_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 26 Jul 2026 09:51:40 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/26/jhp_20260726_14.jpg",
+      "summaries": {
+        "ko": "강원 고성 바다에서 물에 빠진 10대 2명 구하고‥군인 2명 '의식불명' - MBC 뉴스",
+        "en": "강원 고성 바다에서 물에 빠진 10대 2명 구하고‥군인 2명 '의식불명' - MBC 뉴스",
+        "zh": "강원 고성 바다에서 물에 빠진 10대 2명 구하고‥군인 2명 '의식불명' - MBC 뉴스"
+      }
+    },
+    {
       "title": "윤, 내란 항소심 중 휴대폰으로 ‘체포방해 징역 7년’ 대법 선고 보더니 ‘헛웃음’ - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/society_general/1270048.html",
       "source": "한겨레",
@@ -98,27 +98,27 @@
       }
     },
     {
-      "title": "정청래 “‘신천지 개입설’, 당 파산시킬 의혹 제기…중징계해 발본색원해야” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1270041.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 26 Jul 2026 12:02:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0726/20260726501980.webp",
+      "title": "베를린 차량 돌진으로 30명 사상…테러 용의자 사살",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202607270534510MU",
+      "source": "Breaking News",
+      "pubDate": "Mon, 27 Jul 2026 05:34:53 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260726/MYH202607270534510MU.jpg",
       "summaries": {
-        "ko": "더불어민주당 전당대회 '신천지 개입설'을 두고 정청래 후보는 당 파산을 야기할 의혹이라며 중징계를 주장하는 반면, 의혹을 제기한 김민석 후보는 발언 수위를 조절하고 있다.",
-        "en": "Amid the Democratic Party's leadership election controversy over alleged Shincheonji intervention, candidate Jung Chung-rae advocated for severe disciplinary action, claiming the accusation could bankrupt the party, while candidate Kim Min-seok, who initially raised the suspicion, is now moderating his remarks.",
-        "zh": "在共同民主党全党大会上“新天地介入说”的争议中，郑清来候选人主张对这种可能导致党破产的指控进行严惩，而最初提出怀疑的金民锡候选人则在调整言论强度。"
+        "ko": "베를린 차량 돌진으로 30명 사상…테러 용의자 사살",
+        "en": "베를린 차량 돌진으로 30명 사상…테러 용의자 사살",
+        "zh": "베를린 차량 돌진으로 30명 사상…테러 용의자 사살"
       }
     },
     {
-      "title": "쿠팡, 화재 물류센터에 사람 있는데도 “없다”…소방당국, 초기 오판도 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/capital/1269986.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 26 Jul 2026 10:25:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/621/imgdb/original/2026/0726/20260726501388.webp",
+      "title": "전쟁·관세 등 변수 산적…100일 뒤 트럼프 성적표는?",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260727053411Zdg",
+      "source": "Breaking News",
+      "pubDate": "Mon, 27 Jul 2026 05:34:14 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260726/MYH20260727053411Zdg.jpg",
       "summaries": {
-        "ko": "쿠팡, 화재 물류센터에 사람 있는데도 “없다”…소방당국, 초기 오판도 - 한겨레",
-        "en": "쿠팡, 화재 물류센터에 사람 있는데도 “없다”…소방당국, 초기 오판도 - 한겨레",
-        "zh": "쿠팡, 화재 물류센터에 사람 있는데도 “없다”…소방당국, 초기 오판도 - 한겨레"
+        "ko": "전쟁·관세 등 변수 산적…100일 뒤 트럼프 성적표는?",
+        "en": "전쟁·관세 등 변수 산적…100일 뒤 트럼프 성적표는?",
+        "zh": "전쟁·관세 등 변수 산적…100일 뒤 트럼프 성적표는?"
       }
     }
   ]
