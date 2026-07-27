@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-27T19:05:01.528424",
+  "lastUpdate": "2026-07-27T20:40:03.633806",
   "items": [
     {
       "title": "윤석열, 당선무효형…“거짓말로 선거 영향” - 경향신문",
@@ -8,9 +8,9 @@
       "pubDate": "Mon, 27 Jul 2026 12:50:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/07/27/l_2026072801000824700080862.jpg",
       "summaries": {
-        "ko": "윤석열 전 대통령이 대선 후보 시절 허위 발언으로 유권자의 의사 결정을 침해한 혐의(공직선거법 위반)로 1심에서 당선무효형에 해당하는 징역 1년 6개월에 집행유예 3년을 선고받았으며, 이는 전직 대통령으로서는 처음이다.",
-        "en": "Former President Yoon Suk-yeol received a first-instance sentence of 1 year and 6 months in prison with 3 years of probation, equivalent to an election invalidation, for making false statements during his presidential campaign that infringed upon voters' decision-making, marking a first for a former president.",
-        "zh": "韩国前总统尹锡悦因在总统竞选期间发表虚假言论、侵害选民决策，一审被判处1年6个月有期徒刑缓期3年执行，此判决等同于其当选无效，为韩国前总统首例。"
+        "ko": "윤석열 전 대통령이 대선 후보 시절 허위 발언으로 공직선거법 위반 혐의 1심에서 당선무효형에 해당하는 징역 1년 6개월에 집행유예 3년을 선고받았으며, 대법원에서 확정될 경우 국민의힘은 선거비용 397억 원을 반환해야 한다.",
+        "en": "Former President Yoon Seok-yeol has been sentenced in the first trial to 1.5 years in prison, suspended for 3 years, for violating the Public Official Election Act by making false statements during his presidential campaign, a verdict that, if upheld by the Supreme Court, would require the People Power Party to return 39.7 billion won in election expenses.",
+        "zh": "前总统尹锡悦因在总统竞选期间发表虚假言论，违反《公职选举法》，在一审中被判处有期徒刑1年6个月，缓刑3年，若该判决在大法院终审确定，国民力量党须返还397亿韩元的选举费用。"
       }
     },
     {
@@ -26,15 +26,63 @@
       }
     },
     {
-      "title": "트럼프 \"이란과 심도있는 협상 중…실패 땐 강력한 군사행동\" - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260728005108TPZ",
-      "source": "연합뉴스TV",
-      "pubDate": "Mon, 27 Jul 2026 15:51:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260727/AKR20260728005108TPZ_01_i.jpg",
+      "title": "정성호 장관 사의에…민주당 내 “검찰개혁 마무리해달라” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1270208.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 27 Jul 2026 10:54:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/636/imgdb/original/2026/0727/20260727503057.webp",
       "summaries": {
-        "ko": "트럼프 \"이란과 심도있는 협상 중…실패 땐 강력한 군사행동\" - 연합뉴스TV",
-        "en": "트럼프 \"이란과 심도있는 협상 중…실패 땐 강력한 군사행동\" - 연합뉴스TV",
-        "zh": "트럼프 \"이란과 심도있는 협상 중…실패 땐 강력한 군사행동\" - 연합뉴스TV"
+        "ko": "정성호 장관 사의에…민주당 내 “검찰개혁 마무리해달라” - 한겨레",
+        "en": "정성호 장관 사의에…민주당 내 “검찰개혁 마무리해달라” - 한겨레",
+        "zh": "정성호 장관 사의에…민주당 내 “검찰개혁 마무리해달라” - 한겨레"
+      }
+    },
+    {
+      "title": "전국 대부분 폭염…중부 내륙 소나기 뒤 ‘후텁지근’ - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8621581",
+      "source": "KBS 뉴스",
+      "pubDate": "Mon, 27 Jul 2026 20:00:56 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/07/28/20260728_wtymSi.jpg",
+      "summaries": {
+        "ko": "전국 대부분 폭염…중부 내륙 소나기 뒤 ‘후텁지근’ - KBS 뉴스",
+        "en": "전국 대부분 폭염…중부 내륙 소나기 뒤 ‘후텁지근’ - KBS 뉴스",
+        "zh": "전국 대부분 폭염…중부 내륙 소나기 뒤 ‘후텁지근’ - KBS 뉴스"
+      }
+    },
+    {
+      "title": "미-이란 사흘째 공습 중단, 외교 재개 모색…트럼프 대통령 \"합의 가능성 있어” - VOA 한국어 홈페이지",
+      "link": "https://www.voakorea.com/a/u-s-and-iran-halt-airstrikes-for-third-consecutive-day-072726/8178662.html",
+      "source": "VOA 한국어 홈페이지",
+      "pubDate": "Mon, 27 Jul 2026 19:17:34 GMT",
+      "image": "https://gdb.voanews.com/a2262e9a-ece0-4403-62c3-08decd2fb674_w1200_h630.jpg",
+      "summaries": {
+        "ko": "미-이란 사흘째 공습 중단, 외교 재개 모색…트럼프 대통령 \"합의 가능성 있어” - VOA 한국어 홈페이지",
+        "en": "미-이란 사흘째 공습 중단, 외교 재개 모색…트럼프 대통령 \"합의 가능성 있어” - VOA 한국어 홈페이지",
+        "zh": "미-이란 사흘째 공습 중단, 외교 재개 모색…트럼프 대통령 \"합의 가능성 있어” - VOA 한국어 홈페이지"
+      }
+    },
+    {
+      "title": "박지원 \"김민석, '신천지 의혹' 왜 제기했는지 모르겠어\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6840371_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Mon, 27 Jul 2026 06:35:06 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/27/jh_20260727_3.jpg",
+      "summaries": {
+        "ko": "박지원 \"김민석, '신천지 의혹' 왜 제기했는지 모르겠어\" - MBC 뉴스",
+        "en": "박지원 \"김민석, '신천지 의혹' 왜 제기했는지 모르겠어\" - MBC 뉴스",
+        "zh": "박지원 \"김민석, '신천지 의혹' 왜 제기했는지 모르겠어\" - MBC 뉴스"
+      }
+    },
+    {
+      "title": "유족 오열에도 ‘무표정’···“장윤기, 사회 나온다면 유족에 사망선고” 재판부에 ‘사형’ 탄원 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607271354001",
+      "source": "경향신문",
+      "pubDate": "Mon, 27 Jul 2026 04:54:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/27/rcv.YNA.20260713.PYH2026071303950005400_P1.jpg",
+      "summaries": {
+        "ko": "유족 오열에도 ‘무표정’···“장윤기, 사회 나온다면 유족에 사망선고” 재판부에 ‘사형’ 탄원 - 경향신문",
+        "en": "유족 오열에도 ‘무표정’···“장윤기, 사회 나온다면 유족에 사망선고” 재판부에 ‘사형’ 탄원 - 경향신문",
+        "zh": "유족 오열에도 ‘무표정’···“장윤기, 사회 나온다면 유족에 사망선고” 재판부에 ‘사형’ 탄원 - 경향신문"
       }
     },
     {
@@ -50,18 +98,6 @@
       }
     },
     {
-      "title": "민주 전대 흔드는 '신천지 개입설'…친명 vs 친청 최고위원 후보 대리전 과열 - 뉴스핌",
-      "link": "https://www.newspim.com/news/view/20260727000961",
-      "source": "뉴스핌",
-      "pubDate": "Mon, 27 Jul 2026 08:20:00 GMT",
-      "image": "https://img.newspim.com/news/2026/07/27/260727142309377_896_tc.jpg",
-      "summaries": {
-        "ko": "더불어민주당 전당대회에서 '신천지 개입설'과 '당원중심주의'를 둘러싸고 친명계와 친청계 최고위원 후보들이 격렬한 대리전을 벌이며 경쟁이 과열되고 있다.",
-        "en": "The Democratic Party's national convention is seeing an overheated proxy war between pro-Lee Jae-myung and pro-Jung Cheong-rae supreme council candidates, fueled by the 'Shincheonji intervention theory' and debates over 'party-member-centrism'.",
-        "zh": "民主党全国代表大会上，亲李在明派和亲郑清来派的最高委员候选人围绕“新天地介入说”和“党员中心主义”展开激烈代理战，竞争日趋白热化。"
-      }
-    },
-    {
       "title": "’44표 차’ 통영시장 재검표 이의 제기에 1시간 넘게 지연 시작 - 연합뉴스TV",
       "link": "https://www.yonhapnewstv.co.kr/news/AKR20260727154214RgR",
       "source": "연합뉴스TV",
@@ -74,63 +110,15 @@
       }
     },
     {
-      "title": "온열질환 사망, 경남서만 올해 세번째…80대 여성 숨져 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/yeongnam/1270149.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 27 Jul 2026 07:58:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/595/imgdb/original/2026/0727/20260727502654.webp",
-      "summaries": {
-        "ko": "온열질환 사망, 경남서만 올해 세번째…80대 여성 숨져 - 한겨레",
-        "en": "온열질환 사망, 경남서만 올해 세번째…80대 여성 숨져 - 한겨레",
-        "zh": "온열질환 사망, 경남서만 올해 세번째…80대 여성 숨져 - 한겨레"
-      }
-    },
-    {
-      "title": "행안부, 폭염 위기경보 '심각' 격상‥중대본 가동 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6840351_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Mon, 27 Jul 2026 05:31:04 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/27/jhp_20260727_2.jpg",
-      "summaries": {
-        "ko": "행안부, 폭염 위기경보 '심각' 격상‥중대본 가동 - MBC 뉴스",
-        "en": "행안부, 폭염 위기경보 '심각' 격상‥중대본 가동 - MBC 뉴스",
-        "zh": "행안부, 폭염 위기경보 '심각' 격상‥중대본 가동 - MBC 뉴스"
-      }
-    },
-    {
-      "title": "“親경찰 인사” 비판에도... 그대로 출범한 ‘경찰 수사 개혁위’ - 조선일보",
-      "link": "https://www.chosun.com/national/incident/2026/07/27/UWRIY7PTGFDOHLUM2AFL33ID4A/",
-      "source": "조선일보",
-      "pubDate": "Mon, 27 Jul 2026 09:46:03 GMT",
-      "image": "https://www.chosun.com/resizer/v2/ZSH33OK2QNKQFAYYSILYP5XADM.jpg?auth=478964c081b8d977f0d59451516f0ac104693f3d988e32c44bf3a7115626dcce&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "“親경찰 인사” 비판에도... 그대로 출범한 ‘경찰 수사 개혁위’ - 조선일보",
-        "en": "“親경찰 인사” 비판에도... 그대로 출범한 ‘경찰 수사 개혁위’ - 조선일보",
-        "zh": "“親경찰 인사” 비판에도... 그대로 출범한 ‘경찰 수사 개혁위’ - 조선일보"
-      }
-    },
-    {
-      "title": "현대차 의왕연구소 화재 2시간여 만에 완진…한때 대응 1단계",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260728034934QQF",
+      "title": "네이버, 10억 달러 유치…엔비디아가 3대 주주로",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260728053641a1I",
       "source": "Breaking News",
-      "pubDate": "Tue, 28 Jul 2026 03:49:36 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260727/AKR20260728034934QQF_01_i.jpg",
+      "pubDate": "Tue, 28 Jul 2026 05:36:42 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260727/MYH20260728053641a1I.jpg",
       "summaries": {
-        "ko": "현대차 의왕연구소 화재 2시간여 만에 완진…한때 대응 1단계",
-        "en": "현대차 의왕연구소 화재 2시간여 만에 완진…한때 대응 1단계",
-        "zh": "현대차 의왕연구소 화재 2시간여 만에 완진…한때 대응 1단계"
-      }
-    },
-    {
-      "title": "[속보] '44표차' 통영시장 재검표…당선자 변동없어",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260728030644Umz",
-      "source": "Breaking News",
-      "pubDate": "Tue, 28 Jul 2026 03:06:45 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260727/AKR20260728030644Umz_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] '44표차' 통영시장 재검표…당선자 변동없어",
-        "en": "[속보] '44표차' 통영시장 재검표…당선자 변동없어",
-        "zh": "[속보] '44표차' 통영시장 재검표…당선자 변동없어"
+        "ko": "네이버, 10억 달러 유치…엔비디아가 3대 주주로",
+        "en": "네이버, 10억 달러 유치…엔비디아가 3대 주주로",
+        "zh": "네이버, 10억 달러 유치…엔비디아가 3대 주주로"
       }
     }
   ]
