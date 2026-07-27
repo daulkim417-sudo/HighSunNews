@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-27T16:10:47.319195",
+  "lastUpdate": "2026-07-27T17:52:48.005803",
   "items": [
     {
       "title": "윤석열, 당선무효형…“거짓말로 선거 영향” - 경향신문",
@@ -8,9 +8,9 @@
       "pubDate": "Mon, 27 Jul 2026 12:50:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/07/27/l_2026072801000824700080862.jpg",
       "summaries": {
-        "ko": "윤석열 전 대통령이 대선 후보 시절 허위 발언으로 공직선거법 위반 혐의 1심에서 당선무효형인 징역 1년 6개월에 집행유예 3년을 선고받았고, 이 판결이 확정되면 국민의힘은 397억원의 선거비용을 반환해야 한다.",
-        "en": "Former President Yoon Suk-yeol was sentenced in the first trial to a suspended term of 1 year and 6 months in prison with 3 years of probation, equivalent to election invalidation, for making false statements during his presidential campaign, a ruling that, if upheld by the Supreme Court, would require the People Power Party to return 39.7 billion won in campaign expenses.",
-        "zh": "前总统尹锡悦因在总统竞选期间发表虚假言论违反《公职选举法》，在一审中被判处相当于当选无效的1年6个月有期徒刑缓期3年执行，若该判决最终确定，国民力量党须返还397亿韩元的竞选费用。"
+        "ko": "윤석열 전 대통령이 대선 후보 시절 허위 발언으로 유권자 의사 결정을 침해한 혐의로 1심에서 당선무효형에 해당하는 징역 1년 6개월에 집행유예를 선고받았으며, 판결 확정 시 국민의힘은 선거비용 397억 원을 반환해야 한다.",
+        "en": "Former President Yoon Suk-yeol was sentenced to 1 year and 6 months in prison with a suspended sentence, equivalent to an election nullification, in a first-instance ruling for making false statements during his presidential campaign that interfered with voters' decisions, and if the verdict is finalized, the People Power Party must return 39.7 billion won in election expenses.",
+        "zh": "韩国前总统尹锡悦因在大选期间发表虚假言论、侵害选民决策，在一审中被判处相当于当选无效的1年6个月有期徒刑缓期执行，若该判决最终确定，国民力量党需退还397亿韩元的选举费用。"
       }
     },
     {
@@ -38,15 +38,15 @@
       }
     },
     {
-      "title": "유족 “법정 최고형을”…장윤기는 ‘무표정’ - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607272113025",
-      "source": "경향신문",
-      "pubDate": "Mon, 27 Jul 2026 12:13:00 GMT",
-      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
+      "title": "전국 덮친 폭염…제주 돌담 공사 현장도 땀범벅 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260727215916B8d",
+      "source": "연합뉴스TV",
+      "pubDate": "Mon, 27 Jul 2026 12:59:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260727/MYH20260727215916B8d.jpg",
       "summaries": {
-        "ko": "유족 “법정 최고형을”…장윤기는 ‘무표정’ - 경향신문",
-        "en": "유족 “법정 최고형을”…장윤기는 ‘무표정’ - 경향신문",
-        "zh": "유족 “법정 최고형을”…장윤기는 ‘무표정’ - 경향신문"
+        "ko": "전국 덮친 폭염…제주 돌담 공사 현장도 땀범벅 - 연합뉴스TV",
+        "en": "전국 덮친 폭염…제주 돌담 공사 현장도 땀범벅 - 연합뉴스TV",
+        "zh": "전국 덮친 폭염…제주 돌담 공사 현장도 땀범벅 - 연합뉴스TV"
       }
     },
     {
@@ -62,18 +62,6 @@
       }
     },
     {
-      "title": "전국 덮친 폭염…제주 돌담 공사 현장도 땀범벅 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260727215916B8d",
-      "source": "연합뉴스TV",
-      "pubDate": "Mon, 27 Jul 2026 12:59:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260727/MYH20260727215916B8d.jpg",
-      "summaries": {
-        "ko": "전국 덮친 폭염…제주 돌담 공사 현장도 땀범벅 - 연합뉴스TV",
-        "en": "전국 덮친 폭염…제주 돌담 공사 현장도 땀범벅 - 연합뉴스TV",
-        "zh": "전국 덮친 폭염…제주 돌담 공사 현장도 땀범벅 - 연합뉴스TV"
-      }
-    },
-    {
       "title": "박지원 \"김민석, '신천지 의혹' 왜 제기했는지 모르겠어\" - MBC 뉴스",
       "link": "https://imnews.imbc.com/news/2026/politics/article/6840371_36911.html",
       "source": "MBC 뉴스",
@@ -86,39 +74,51 @@
       }
     },
     {
-      "title": "합수본, 선관위 압수수색 재개‥6.3 지선 투표자 수 수정 72건 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6840335_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Mon, 27 Jul 2026 04:29:15 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/27/yh_20260727-9.jpg",
-      "summaries": {
-        "ko": "합수본, 선관위 압수수색 재개‥6.3 지선 투표자 수 수정 72건 - MBC 뉴스",
-        "en": "합수본, 선관위 압수수색 재개‥6.3 지선 투표자 수 수정 72건 - MBC 뉴스",
-        "zh": "합수본, 선관위 압수수색 재개‥6.3 지선 투표자 수 수정 72건 - MBC 뉴스"
-      }
-    },
-    {
-      "title": "[속보] 이 대통령 “유가불안 해소까지 석유 최고가격제·유류세 인하 유지” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607270925001",
+      "title": "유족 오열에도 ‘무표정’···“장윤기, 사회 나온다면 유족에 사망선고” 재판부에 ‘사형’ 탄원 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607271354001",
       "source": "경향신문",
-      "pubDate": "Mon, 27 Jul 2026 00:25:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/27/rcv.PHOTOPOOL.20260727.kpa17850901128791_P1.jpg",
+      "pubDate": "Mon, 27 Jul 2026 04:54:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/27/rcv.YNA.20260713.PYH2026071303950005400_P1.jpg",
       "summaries": {
-        "ko": "[속보] 이 대통령 “유가불안 해소까지 석유 최고가격제·유류세 인하 유지” - 경향신문",
-        "en": "[속보] 이 대통령 “유가불안 해소까지 석유 최고가격제·유류세 인하 유지” - 경향신문",
-        "zh": "[속보] 이 대통령 “유가불안 해소까지 석유 최고가격제·유류세 인하 유지” - 경향신문"
+        "ko": "유족 오열에도 ‘무표정’···“장윤기, 사회 나온다면 유족에 사망선고” 재판부에 ‘사형’ 탄원 - 경향신문",
+        "en": "유족 오열에도 ‘무표정’···“장윤기, 사회 나온다면 유족에 사망선고” 재판부에 ‘사형’ 탄원 - 경향신문",
+        "zh": "유족 오열에도 ‘무표정’···“장윤기, 사회 나온다면 유족에 사망선고” 재판부에 ‘사형’ 탄원 - 경향신문"
       }
     },
     {
-      "title": "합참과 ‘동거’ 끝내는 국방부…대통령실에 내줬던 옛 청사 4년만에 복귀 - 매일경제",
-      "link": "https://www.mk.co.kr/news/politics/12108283",
-      "source": "매일경제",
-      "pubDate": "Mon, 27 Jul 2026 04:33:29 GMT",
-      "image": "https://pimg.mk.co.kr/news/cms/202607/27/news-p.v1.20260727.496f41ac8bdb464c938056434664c0b9_R.jpg",
+      "title": "‘44표 차’ 통영시장선거 재검표 결과, 28일 발표…전한길도 참관 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/yeongnam/1270226.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 27 Jul 2026 14:31:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/590/imgdb/original/2026/0727/20260727503244.webp",
       "summaries": {
-        "ko": "합참과 ‘동거’ 끝내는 국방부…대통령실에 내줬던 옛 청사 4년만에 복귀 - 매일경제",
-        "en": "합참과 ‘동거’ 끝내는 국방부…대통령실에 내줬던 옛 청사 4년만에 복귀 - 매일경제",
-        "zh": "합참과 ‘동거’ 끝내는 국방부…대통령실에 내줬던 옛 청사 4년만에 복귀 - 매일경제"
+        "ko": "‘44표 차’ 통영시장선거 재검표 결과, 28일 발표…전한길도 참관 - 한겨레",
+        "en": "‘44표 차’ 통영시장선거 재검표 결과, 28일 발표…전한길도 참관 - 한겨레",
+        "zh": "‘44표 차’ 통영시장선거 재검표 결과, 28일 발표…전한길도 참관 - 한겨레"
+      }
+    },
+    {
+      "title": "행안부, 폭염 위기경보 '심각' 격상‥중대본 가동 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6840351_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Mon, 27 Jul 2026 05:31:04 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/27/jhp_20260727_2.jpg",
+      "summaries": {
+        "ko": "행안부, 폭염 위기경보 '심각' 격상‥중대본 가동 - MBC 뉴스",
+        "en": "행안부, 폭염 위기경보 '심각' 격상‥중대본 가동 - MBC 뉴스",
+        "zh": "행안부, 폭염 위기경보 '심각' 격상‥중대본 가동 - MBC 뉴스"
+      }
+    },
+    {
+      "title": "이 대통령 \"'브라질 공급망 핵식춤…'한·메르코수르 협정' 미룰 수 없어\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260728025041blZ",
+      "source": "Breaking News",
+      "pubDate": "Tue, 28 Jul 2026 02:50:43 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260727/AKR20260728025041blZ_01_i.jpg",
+      "summaries": {
+        "ko": "이 대통령 \"'브라질 공급망 핵식춤…'한·메르코수르 협정' 미룰 수 없어\"",
+        "en": "이 대통령 \"'브라질 공급망 핵식춤…'한·메르코수르 협정' 미룰 수 없어\"",
+        "zh": "이 대통령 \"'브라질 공급망 핵식춤…'한·메르코수르 협정' 미룰 수 없어\""
       }
     }
   ]
