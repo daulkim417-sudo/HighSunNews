@@ -1,6 +1,30 @@
 {
-  "lastUpdate": "2026-07-27T04:52:21.031829",
+  "lastUpdate": "2026-07-27T08:19:22.612217",
   "items": [
+    {
+      "title": "[속보] 윤석열 ‘선거법 위반’ 징역형 집유…확정시 국힘 397억 반환 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1270117.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 27 Jul 2026 05:55:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/904/542/imgdb/child/2026/0727/53_17851383649389_5617851382180093.webp",
+      "summaries": {
+        "ko": "윤석열 전 대통령이 대선 후보 시절 허위사실 공표 혐의로 1심에서 징역 1년 6개월에 집행유예 3년을 선고받았으며, 형이 확정되면 국민의힘은 선거비용 397억원을 반환해야 한다.",
+        "en": "Former President Yoon Suk-yeol was sentenced to 1 year and 6 months in prison, suspended for 3 years, in the first trial for making false statements during his presidential campaign; if the sentence is finalized, the People Power Party must return 39.7 billion won in election expenses.",
+        "zh": "韩国前总统尹锡悦因在大选期间散布虚假信息，在一审中被判处有期徒刑1年6个月，缓刑3年；若判决最终确定，国民力量党需退还397亿韩元的选举费用。"
+      }
+    },
+    {
+      "title": "김민석 \"신천지 개입 경고가 해당 행위? 바보 궤변\" - YTN",
+      "link": "https://www.ytn.co.kr/_ln/0101_202607271454090185",
+      "source": "YTN",
+      "pubDate": "Mon, 27 Jul 2026 05:54:00 GMT",
+      "image": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg",
+      "summaries": {
+        "ko": "더불어민주당 당권 주자인 김민석 후보는 신천지 개입 경고가 해당 행위라는 주장을 \"바보 궤변\"이라고 일축하며, 이중 당적 문제 정리 및 정부와의 '엇박자 제로' 당정일치를 강조했습니다.",
+        "en": "Democratic Party leadership candidate Kim Min-seok dismissed the claim that warning about Shincheonji's involvement constitutes such an act as \"foolish sophistry,\" while emphasizing the resolution of dual party membership issues and achieving \"zero discord\" with the government.",
+        "zh": "共同民主党党权竞争者金珉锡批判称，警告新天地介入是相关行为的说法是“愚蠢的诡辩”，并强调解决双重党籍问题，实现与政府“零分歧”的党政一致。"
+      }
+    },
     {
       "title": "정성호 법무는 사의표명 했다는데...靑 \"사실 아니다\" - 조선일보",
       "link": "https://www.chosun.com/politics/politics_general/2026/07/27/XMPVMTFVRZFD7OALOPQRAV7MI4/",
@@ -14,111 +38,87 @@
       }
     },
     {
+      "title": "공항 도착 행사 및 C-390수송기 시찰 (브라질리아 공군기지) - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+      "link": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=72705&pageIndex=1",
+      "source": "대한민국 정책브리핑",
+      "pubDate": "Mon, 27 Jul 2026 05:00:28 GMT",
+      "image": "https://www.korea.kr/admin2011/upload/photo/2026/07/27/44e3b711629d976efa98a202c607148d_THUMB_1.jpg",
+      "summaries": {
+        "ko": "브라질을 국빈 방문한 이재명 대통령이 7월 26일 브라질리아 공군기지에 도착하여 우리 공군 조종사 및 정비사들을 격려하고 브라질 엠브라에르로부터 구매한 C-390 수송기를 시찰했다.",
+        "en": "On a state visit to Brazil, President Lee Jae-myung arrived at Brasilia Air Base on July 26, where he encouraged Republic of Korea Air Force pilots and maintenance personnel training locally and inspected the C-390 transport aircraft purchased from Brazil's Embraer.",
+        "zh": "正在巴西进行国事访问的李在明总统于7月26日抵达巴西利亚空军基地，慰问了当地受训的韩国空军飞行员及维修人员，并视察了从巴西航空工业公司购买的C-390运输机。"
+      }
+    },
+    {
+      "title": "송영길 \"정청래 대표되면 이 대통령 레임덕 빠질 것\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6840358_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Mon, 27 Jul 2026 05:52:47 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/27/ggm_20260727_8.jpg",
+      "summaries": {
+        "ko": "더불어민주당 당권 주자인 송영길 후보가 정청래 후보를 겨냥해 당 대표가 되면 대통령이 레임덕에 빠지고 당·청 간 갈등이 심화될 것이라고 경고하며 정 후보의 연임 명분과 실리를 비판했습니다.",
+        "en": "Democratic Party leadership candidate Song Young-gil criticized Jung Cheong-rae, warning that if Jung becomes the party leader, the president would face a \"lame duck\" situation and party-presidency conflict would intensify, while questioning Jung's justification and practicality for seeking re-election.",
+        "zh": "共同民主党党首竞选人宋永吉批评郑清来候选人，警告称如果郑当选党代表，总统将陷入跛脚鸭状态，党政冲突将加剧，并质疑郑清来连任的理由和实利。"
+      }
+    },
+    {
+      "title": "비누칠에 때밀이까지…청계천에 나타난 ’목욕 빌런’ - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202607271022362pB",
+      "source": "연합뉴스TV",
+      "pubDate": "Mon, 27 Jul 2026 01:22:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260727/AKR202607271022362pB_01_i.jpg",
+      "summaries": {
+        "ko": "서울 청계천에서 한 중년 여성이 비누칠과 때밀이를 하며 목욕하는 모습이 포착돼 논란이 일고 있으며, 이는 청계천 이용 조례 위반에 해당한다.",
+        "en": "A middle-aged woman was spotted bathing with soap and even scrubbing herself in Seoul's Cheonggyecheon Stream, sparking controversy as it violates the Cheonggyecheon usage ordinance.",
+        "zh": "一名中年妇女被拍到在首尔清溪川内用肥皂洗澡甚至搓澡，引发争议，此行为违反了清溪川使用条例。"
+      }
+    },
+    {
+      "title": "선관위, 투표자 수 수정 72건… 12시간 지나 고치기도 - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/07/27/WWVZXYQOWJAWJDGWU5JRSGAX2U/",
+      "source": "조선일보",
+      "pubDate": "Mon, 27 Jul 2026 00:59:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/2FZ6M564QFII5LOPVTL4DYGGQQ.jpg?auth=d68b793f653f17e8dbc45d9a24c4b33b8391a6a52c71823cdcce29330cd9c5c8&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "선관위, 투표자 수 수정 72건… 12시간 지나 고치기도 - 조선일보",
+        "en": "선관위, 투표자 수 수정 72건… 12시간 지나 고치기도 - 조선일보",
+        "zh": "선관위, 투표자 수 수정 72건… 12시간 지나 고치기도 - 조선일보"
+      }
+    },
+    {
       "title": "국힘 ‘원내대표 멱살’ 권영진 폭행 혐의 경찰 고발 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/society_general/1270075.html",
       "source": "한겨레",
       "pubDate": "Mon, 27 Jul 2026 01:47:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/640/419/imgdb/original/2026/0727/20260727500816.webp",
       "summaries": {
-        "ko": "국민의힘 권영진 의원이 국회 상임위 배정에 항의하며 정점식 원내대표의 멱살을 잡은 사건으로 시민단체에 의해 경찰 고발되었으며, 당내 징계 논의가 이어지고 있다.",
-        "en": "People Power Party lawmaker Kwon Young-jin was reported to the police by a civic group for assaulting floor leader Jung Jeom-sik by grabbing his collar in protest over National Assembly committee assignments, with party disciplinary action also being discussed.",
-        "zh": "国民力量党议员权荣臻因抗议国会常任委员会分配而抓住党鞭郑点植衣领的事件，被市民团体告上警察，党内惩戒讨论也在持续进行。"
+        "ko": "국민의힘 권영진 의원이 상임위원회 배정 항의 과정에서 정점식 원내대표 등의 멱살을 잡아 시민단체에 폭행 혐의로 경찰 고발되었으며, 이에 사과하고 주요 당직을 사퇴했다.",
+        "en": "People Power Party lawmaker Kwon Young-jin was reported to the police by a civic group on assault charges for grabbing the collars of floor leader Jung Jeom-sik and others while protesting his committee assignment, subsequently apologizing and resigning from key party positions.",
+        "zh": "韩国国民力量党议员权宁镇在抗议委员会分配过程中，抓住党鞭郑点植等人的衣领，因此被市民团体以涉嫌施暴罪名告发至警方，随后他对此道歉并辞去了主要党职。"
       }
     },
     {
-      "title": "윤석열 '공직선거법' 1심 오늘 선고‥국민의힘 선거비용 397억 반환 걸려 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6840257_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sun, 26 Jul 2026 23:06:25 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/27/hye_20260727_11.jpg",
-      "summaries": {
-        "ko": "윤석열 전 대통령의 대선후보 시절 허위사실 공표 혐의에 대한 공직선거법 위반 1심 선고가 오늘 내려지며, 벌금 100만원 이상 형이 확정될 경우 국민의힘은 선거비용 397억 원을 반환해야 합니다.",
-        "en": "The first-instance ruling for former President Yoon Suk-yeol's alleged violation of the Public Official Election Act by spreading false information during his presidential campaign will be announced today; if a fine of 1 million won or more is confirmed, the People Power Party must return 39.7 billion won in election expenses.",
-        "zh": "前总统尹锡悦涉嫌在总统竞选期间散布虚假信息，违反《公职选举法》的一审判决将于今日公布；若其被判处100万韩元以上罚金，国民力量党将需退还397亿韩元的选举费用。"
-      }
-    },
-    {
-      "title": "김민석 “이중당적 등 ‘자율정리 30일’ 제안…신천지 언급이 위헌? 바보궤변“ - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260727/134370812/1",
+      "title": "김민석 “대통령 음해하는 게 반명” 정청래 “李 지키는건 탈당 안한 나” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260727/134368162/2",
       "source": "동아일보",
-      "pubDate": "Mon, 27 Jul 2026 03:03:43 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/26/134365434.1.jpg",
+      "pubDate": "Sun, 26 Jul 2026 19:30:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/27/134368160.3.jpg",
       "summaries": {
-        "ko": "김민석 “이중당적 등 ‘자율정리 30일’ 제안…신천지 언급이 위헌? 바보궤변“ - 동아일보",
-        "en": "김민석 “이중당적 등 ‘자율정리 30일’ 제안…신천지 언급이 위헌? 바보궤변“ - 동아일보",
-        "zh": "김민석 “이중당적 등 ‘자율정리 30일’ 제안…신천지 언급이 위헌? 바보궤변“ - 동아일보"
+        "ko": "김민석 “대통령 음해하는 게 반명” 정청래 “李 지키는건 탈당 안한 나” - 동아일보",
+        "en": "김민석 “대통령 음해하는 게 반명” 정청래 “李 지키는건 탈당 안한 나” - 동아일보",
+        "zh": "김민석 “대통령 음해하는 게 반명” 정청래 “李 지키는건 탈당 안한 나” - 동아일보"
       }
     },
     {
-      "title": "미·이란 무력 충돌 소강국면…협상 기대 속 전면전 우려는 여전 - 매일경제",
-      "link": "https://www.mk.co.kr/news/world/12107921",
-      "source": "매일경제",
-      "pubDate": "Sun, 26 Jul 2026 22:07:40 GMT",
-      "image": "https://pimg.mk.co.kr/news/cms/202607/27/news-p.v1.20260720.f8bc386d6590477b813ea92f3310da05_R.jpeg",
-      "summaries": {
-        "ko": "미·이란 무력 충돌 소강국면…협상 기대 속 전면전 우려는 여전 - 매일경제",
-        "en": "미·이란 무력 충돌 소강국면…협상 기대 속 전면전 우려는 여전 - 매일경제",
-        "zh": "미·이란 무력 충돌 소강국면…협상 기대 속 전면전 우려는 여전 - 매일경제"
-      }
-    },
-    {
-      "title": "역대급 산불 대도시로…프랑스·스페인 35만명 대피 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/europe/1270060.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 27 Jul 2026 01:49:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0727/53_17851100244595_4917851099954891.webp",
-      "summaries": {
-        "ko": "역대급 산불 대도시로…프랑스·스페인 35만명 대피 - 한겨레",
-        "en": "역대급 산불 대도시로…프랑스·스페인 35만명 대피 - 한겨레",
-        "zh": "역대급 산불 대도시로…프랑스·스페인 35만명 대피 - 한겨레"
-      }
-    },
-    {
-      "title": "李대통령 \"유가불안 해소때까지 석유 최고가격제 계속\" - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/07/27/5O4QPIWASBAEXNTZ4HYVWOCNSU/",
-      "source": "조선일보",
-      "pubDate": "Mon, 27 Jul 2026 00:42:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GY2DKOLGHAYTGZRYGU2DGYRRGA.jpg?auth=2305b49f98f615249a9c2fb2e069002607eb5418929c5c28582614e9faace8db&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "李대통령 \"유가불안 해소때까지 석유 최고가격제 계속\" - 조선일보",
-        "en": "李대통령 \"유가불안 해소때까지 석유 최고가격제 계속\" - 조선일보",
-        "zh": "李대통령 \"유가불안 해소때까지 석유 최고가격제 계속\" - 조선일보"
-      }
-    },
-    {
-      "title": "선관위, 6·3 선거 투표자 수 입력 후 수정 72건… 12시간 지나 고치기도 - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/07/27/WWVZXYQOWJAWJDGWU5JRSGAX2U/",
-      "source": "조선일보",
-      "pubDate": "Mon, 27 Jul 2026 00:59:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/2FZ6M564QFII5LOPVTL4DYGGQQ.jpg?auth=d68b793f653f17e8dbc45d9a24c4b33b8391a6a52c71823cdcce29330cd9c5c8&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "선관위, 6·3 선거 투표자 수 입력 후 수정 72건… 12시간 지나 고치기도 - 조선일보",
-        "en": "선관위, 6·3 선거 투표자 수 입력 후 수정 72건… 12시간 지나 고치기도 - 조선일보",
-        "zh": "선관위, 6·3 선거 투표자 수 입력 후 수정 72건… 12시간 지나 고치기도 - 조선일보"
-      }
-    },
-    {
-      "title": "높을수록 김민석, 뭉칠수록 정청래? 與전대 투표율 셈법 - 노컷뉴스",
-      "link": "https://www.nocutnews.co.kr/news/6553428",
-      "source": "노컷뉴스",
-      "pubDate": "Sun, 26 Jul 2026 20:00:00 GMT",
-      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/07/26/202607262023412051_0.jpg",
-      "summaries": {
-        "ko": "높을수록 김민석, 뭉칠수록 정청래? 與전대 투표율 셈법 - 노컷뉴스",
-        "en": "높을수록 김민석, 뭉칠수록 정청래? 與전대 투표율 셈법 - 노컷뉴스",
-        "zh": "높을수록 김민석, 뭉칠수록 정청래? 與전대 투표율 셈법 - 노컷뉴스"
-      }
-    },
-    {
-      "title": "'아동 성매매' 혐의 최영중 전 청주시의원, 15시간 밤샘 조사 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6840264_36918.html",
+      "title": "[속보] 행안부, 폭염 위기경보 '심각' 격상‥중대본 가동 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6840351_36918.html",
       "source": "MBC 뉴스",
-      "pubDate": "Mon, 27 Jul 2026 00:22:22 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/27/sa_20260727_8.jpg",
+      "pubDate": "Mon, 27 Jul 2026 05:31:04 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/27/jhp_20260727_2.jpg",
       "summaries": {
-        "ko": "'아동 성매매' 혐의 최영중 전 청주시의원, 15시간 밤샘 조사 - MBC 뉴스",
-        "en": "'아동 성매매' 혐의 최영중 전 청주시의원, 15시간 밤샘 조사 - MBC 뉴스",
-        "zh": "'아동 성매매' 혐의 최영중 전 청주시의원, 15시간 밤샘 조사 - MBC 뉴스"
+        "ko": "[속보] 행안부, 폭염 위기경보 '심각' 격상‥중대본 가동 - MBC 뉴스",
+        "en": "[속보] 행안부, 폭염 위기경보 '심각' 격상‥중대본 가동 - MBC 뉴스",
+        "zh": "[속보] 행안부, 폭염 위기경보 '심각' 격상‥중대본 가동 - MBC 뉴스"
       }
     }
   ]
