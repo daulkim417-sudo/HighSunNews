@@ -1,16 +1,100 @@
 {
-  "lastUpdate": "2026-07-27T01:12:42.806564",
+  "lastUpdate": "2026-07-27T04:52:21.031829",
   "items": [
     {
-      "title": "프랑스·스페인 산불로 35만명 대피…“괴물과 싸우고 있다” - 한겨레",
+      "title": "정성호 법무는 사의표명 했다는데...靑 \"사실 아니다\" - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/07/27/XMPVMTFVRZFD7OALOPQRAV7MI4/",
+      "source": "조선일보",
+      "pubDate": "Mon, 27 Jul 2026 02:44:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/65P3ZWTW3RPDFDGMBSNEKOFLSQ.JPG?auth=2903c5eca6be809a51be74d7441fb9dcb1d5b46bcfc29be0b8172b4d3c9922b2&width=1200&height=630&focal=3192,467",
+      "summaries": {
+        "ko": "정성호 법무는 사의표명 했다는데...靑 \"사실 아니다\" - 조선일보",
+        "en": "정성호 법무는 사의표명 했다는데...靑 \"사실 아니다\" - 조선일보",
+        "zh": "정성호 법무는 사의표명 했다는데...靑 \"사실 아니다\" - 조선일보"
+      }
+    },
+    {
+      "title": "국힘 ‘원내대표 멱살’ 권영진 폭행 혐의 경찰 고발 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1270075.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 27 Jul 2026 01:47:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/419/imgdb/original/2026/0727/20260727500816.webp",
+      "summaries": {
+        "ko": "국민의힘 권영진 의원이 국회 상임위 배정에 항의하며 정점식 원내대표의 멱살을 잡은 사건으로 시민단체에 의해 경찰 고발되었으며, 당내 징계 논의가 이어지고 있다.",
+        "en": "People Power Party lawmaker Kwon Young-jin was reported to the police by a civic group for assaulting floor leader Jung Jeom-sik by grabbing his collar in protest over National Assembly committee assignments, with party disciplinary action also being discussed.",
+        "zh": "国民力量党议员权荣臻因抗议国会常任委员会分配而抓住党鞭郑点植衣领的事件，被市民团体告上警察，党内惩戒讨论也在持续进行。"
+      }
+    },
+    {
+      "title": "윤석열 '공직선거법' 1심 오늘 선고‥국민의힘 선거비용 397억 반환 걸려 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6840257_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 26 Jul 2026 23:06:25 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/27/hye_20260727_11.jpg",
+      "summaries": {
+        "ko": "윤석열 전 대통령의 대선후보 시절 허위사실 공표 혐의에 대한 공직선거법 위반 1심 선고가 오늘 내려지며, 벌금 100만원 이상 형이 확정될 경우 국민의힘은 선거비용 397억 원을 반환해야 합니다.",
+        "en": "The first-instance ruling for former President Yoon Suk-yeol's alleged violation of the Public Official Election Act by spreading false information during his presidential campaign will be announced today; if a fine of 1 million won or more is confirmed, the People Power Party must return 39.7 billion won in election expenses.",
+        "zh": "前总统尹锡悦涉嫌在总统竞选期间散布虚假信息，违反《公职选举法》的一审判决将于今日公布；若其被判处100万韩元以上罚金，国民力量党将需退还397亿韩元的选举费用。"
+      }
+    },
+    {
+      "title": "김민석 “이중당적 등 ‘자율정리 30일’ 제안…신천지 언급이 위헌? 바보궤변“ - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260727/134370812/1",
+      "source": "동아일보",
+      "pubDate": "Mon, 27 Jul 2026 03:03:43 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/26/134365434.1.jpg",
+      "summaries": {
+        "ko": "김민석 “이중당적 등 ‘자율정리 30일’ 제안…신천지 언급이 위헌? 바보궤변“ - 동아일보",
+        "en": "김민석 “이중당적 등 ‘자율정리 30일’ 제안…신천지 언급이 위헌? 바보궤변“ - 동아일보",
+        "zh": "김민석 “이중당적 등 ‘자율정리 30일’ 제안…신천지 언급이 위헌? 바보궤변“ - 동아일보"
+      }
+    },
+    {
+      "title": "미·이란 무력 충돌 소강국면…협상 기대 속 전면전 우려는 여전 - 매일경제",
+      "link": "https://www.mk.co.kr/news/world/12107921",
+      "source": "매일경제",
+      "pubDate": "Sun, 26 Jul 2026 22:07:40 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202607/27/news-p.v1.20260720.f8bc386d6590477b813ea92f3310da05_R.jpeg",
+      "summaries": {
+        "ko": "미·이란 무력 충돌 소강국면…협상 기대 속 전면전 우려는 여전 - 매일경제",
+        "en": "미·이란 무력 충돌 소강국면…협상 기대 속 전면전 우려는 여전 - 매일경제",
+        "zh": "미·이란 무력 충돌 소강국면…협상 기대 속 전면전 우려는 여전 - 매일경제"
+      }
+    },
+    {
+      "title": "역대급 산불 대도시로…프랑스·스페인 35만명 대피 - 한겨레",
       "link": "https://www.hani.co.kr/arti/international/europe/1270060.html",
       "source": "한겨레",
-      "pubDate": "Sun, 26 Jul 2026 23:45:00 GMT",
+      "pubDate": "Mon, 27 Jul 2026 01:49:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0727/53_17851100244595_4917851099954891.webp",
       "summaries": {
-        "ko": "프랑스와 스페인에서 발생한 대규모 산불로 35만 명 이상이 대피하고 광활한 지역이 불타는 등 전례 없는 상황에 진화 작업이 난항을 겪고 있다.",
-        "en": "Massive wildfires in France and Spain have forced over 350,000 evacuations and burned vast areas of land, presenting unprecedented and challenging conditions for firefighters.",
-        "zh": "法国和西班牙发生大规模山火，已导致超过35万人疏散，大片土地被烧毁，灭火工作异常艰难，情况前所未有。"
+        "ko": "역대급 산불 대도시로…프랑스·스페인 35만명 대피 - 한겨레",
+        "en": "역대급 산불 대도시로…프랑스·스페인 35만명 대피 - 한겨레",
+        "zh": "역대급 산불 대도시로…프랑스·스페인 35만명 대피 - 한겨레"
+      }
+    },
+    {
+      "title": "李대통령 \"유가불안 해소때까지 석유 최고가격제 계속\" - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/07/27/5O4QPIWASBAEXNTZ4HYVWOCNSU/",
+      "source": "조선일보",
+      "pubDate": "Mon, 27 Jul 2026 00:42:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GY2DKOLGHAYTGZRYGU2DGYRRGA.jpg?auth=2305b49f98f615249a9c2fb2e069002607eb5418929c5c28582614e9faace8db&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "李대통령 \"유가불안 해소때까지 석유 최고가격제 계속\" - 조선일보",
+        "en": "李대통령 \"유가불안 해소때까지 석유 최고가격제 계속\" - 조선일보",
+        "zh": "李대통령 \"유가불안 해소때까지 석유 최고가격제 계속\" - 조선일보"
+      }
+    },
+    {
+      "title": "선관위, 6·3 선거 투표자 수 입력 후 수정 72건… 12시간 지나 고치기도 - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/07/27/WWVZXYQOWJAWJDGWU5JRSGAX2U/",
+      "source": "조선일보",
+      "pubDate": "Mon, 27 Jul 2026 00:59:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/2FZ6M564QFII5LOPVTL4DYGGQQ.jpg?auth=d68b793f653f17e8dbc45d9a24c4b33b8391a6a52c71823cdcce29330cd9c5c8&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "선관위, 6·3 선거 투표자 수 입력 후 수정 72건… 12시간 지나 고치기도 - 조선일보",
+        "en": "선관위, 6·3 선거 투표자 수 입력 후 수정 72건… 12시간 지나 고치기도 - 조선일보",
+        "zh": "선관위, 6·3 선거 투표자 수 입력 후 수정 72건… 12시간 지나 고치기도 - 조선일보"
       }
     },
     {
@@ -26,99 +110,15 @@
       }
     },
     {
-      "title": "이란·오만, 호르무즈 ‘안전 통항 협의’ 진전…통항료 부과 방식은 이견 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1270056.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 27 Jul 2026 00:12:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0727/20260727500104.webp",
-      "summaries": {
-        "ko": "이란·오만, 호르무즈 ‘안전 통항 협의’ 진전…통항료 부과 방식은 이견 - 한겨레",
-        "en": "이란·오만, 호르무즈 ‘안전 통항 협의’ 진전…통항료 부과 방식은 이견 - 한겨레",
-        "zh": "이란·오만, 호르무즈 ‘안전 통항 협의’ 진전…통항료 부과 방식은 이견 - 한겨레"
-      }
-    },
-    {
-      "title": "잠시 숨고르는 美·이란... \"이란 계속 때리자\"는 네타냐후가 또 변수 - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/07/27/QY3GB74DIRCLDAN7EXG2UPAG64/",
-      "source": "조선일보",
-      "pubDate": "Sun, 26 Jul 2026 21:20:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GFSTQYLGHA3WKZLBMU2GEOBZGI.jpg?auth=3675ec00154437ca72360da7f57dba8cabbd3124a363dacafe34a63769be4a12&width=860&height=451&smart=true",
-      "summaries": {
-        "ko": "잠시 숨고르는 美·이란... \"이란 계속 때리자\"는 네타냐후가 또 변수 - 조선일보",
-        "en": "잠시 숨고르는 美·이란... \"이란 계속 때리자\"는 네타냐후가 또 변수 - 조선일보",
-        "zh": "잠시 숨고르는 美·이란... \"이란 계속 때리자\"는 네타냐후가 또 변수 - 조선일보"
-      }
-    },
-    {
-      "title": "윤석열 '공직선거법' 1심 오늘 선고‥국민의힘 선거비용 397억 반환 걸려 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6840257_36918.html",
+      "title": "'아동 성매매' 혐의 최영중 전 청주시의원, 15시간 밤샘 조사 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6840264_36918.html",
       "source": "MBC 뉴스",
-      "pubDate": "Sun, 26 Jul 2026 23:06:25 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/27/hye_20260727_11.jpg",
+      "pubDate": "Mon, 27 Jul 2026 00:22:22 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/27/sa_20260727_8.jpg",
       "summaries": {
-        "ko": "윤석열 '공직선거법' 1심 오늘 선고‥국민의힘 선거비용 397억 반환 걸려 - MBC 뉴스",
-        "en": "윤석열 '공직선거법' 1심 오늘 선고‥국민의힘 선거비용 397억 반환 걸려 - MBC 뉴스",
-        "zh": "윤석열 '공직선거법' 1심 오늘 선고‥국민의힘 선거비용 397억 반환 걸려 - MBC 뉴스"
-      }
-    },
-    {
-      "title": "체감 아니고 실제 39.3도…다음주엔 ‘2단 찜기’ 갇히는 한반도 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1270002.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 26 Jul 2026 21:47:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/621/imgdb/original/2026/0726/7917850534656136.webp",
-      "summaries": {
-        "ko": "체감 아니고 실제 39.3도…다음주엔 ‘2단 찜기’ 갇히는 한반도 - 한겨레",
-        "en": "체감 아니고 실제 39.3도…다음주엔 ‘2단 찜기’ 갇히는 한반도 - 한겨레",
-        "zh": "체감 아니고 실제 39.3도…다음주엔 ‘2단 찜기’ 갇히는 한반도 - 한겨레"
-      }
-    },
-    {
-      "title": "이 대통령 “석유 최고가격제 지속… 유류세 인하도 유지” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1270065.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 27 Jul 2026 00:34:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/368/imgdb/original/2026/0727/20260727500524.webp",
-      "summaries": {
-        "ko": "이 대통령 “석유 최고가격제 지속… 유류세 인하도 유지” - 한겨레",
-        "en": "이 대통령 “석유 최고가격제 지속… 유류세 인하도 유지” - 한겨레",
-        "zh": "이 대통령 “석유 최고가격제 지속… 유류세 인하도 유지” - 한겨레"
-      }
-    },
-    {
-      "title": "경찰, ’아동 성매매’ 최영중 전 청주시의원 15시간 조사 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260727085033VDT",
-      "source": "연합뉴스TV",
-      "pubDate": "Sun, 26 Jul 2026 23:50:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260726/AKR20260727085033VDT_01_i.jpg",
-      "summaries": {
-        "ko": "경찰, ’아동 성매매’ 최영중 전 청주시의원 15시간 조사 - 연합뉴스TV",
-        "en": "경찰, ’아동 성매매’ 최영중 전 청주시의원 15시간 조사 - 연합뉴스TV",
-        "zh": "경찰, ’아동 성매매’ 최영중 전 청주시의원 15시간 조사 - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "전국이 펄펄, 최고 39도 폭염에 곳곳 ‘중대경보’ - 조선일보",
-      "link": "https://www.chosun.com/national/transport-environment/2026/07/26/NJ4VPGQ77BH2FB3WCUFTE4XMKE/",
-      "source": "조선일보",
-      "pubDate": "Sun, 26 Jul 2026 13:06:31 GMT",
-      "image": "https://www.chosun.com/resizer/v2/UYHU7KUJOBIP7OE2Y5NNX5JOFI.jpg?auth=f83c63b9e0db8a311ab94264cf00fc0e92396866cabc702a583b0dd26dfec83a&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "전국이 펄펄, 최고 39도 폭염에 곳곳 ‘중대경보’ - 조선일보",
-        "en": "전국이 펄펄, 최고 39도 폭염에 곳곳 ‘중대경보’ - 조선일보",
-        "zh": "전국이 펄펄, 최고 39도 폭염에 곳곳 ‘중대경보’ - 조선일보"
-      }
-    },
-    {
-      "title": "[속보] 고성 화진포콘도 앞 해변서 일가족 구조한 2명 심정지 - 강원도민일보",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2063121",
-      "source": "강원도민일보",
-      "pubDate": "Sun, 26 Jul 2026 07:35:59 GMT",
-      "image": "https://cdn.kado.net/news/photo/202607/2063121_871009_3219.jpg",
-      "summaries": {
-        "ko": "[속보] 고성 화진포콘도 앞 해변서 일가족 구조한 2명 심정지 - 강원도민일보",
-        "en": "[속보] 고성 화진포콘도 앞 해변서 일가족 구조한 2명 심정지 - 강원도민일보",
-        "zh": "[속보] 고성 화진포콘도 앞 해변서 일가족 구조한 2명 심정지 - 강원도민일보"
+        "ko": "'아동 성매매' 혐의 최영중 전 청주시의원, 15시간 밤샘 조사 - MBC 뉴스",
+        "en": "'아동 성매매' 혐의 최영중 전 청주시의원, 15시간 밤샘 조사 - MBC 뉴스",
+        "zh": "'아동 성매매' 혐의 최영중 전 청주시의원, 15시간 밤샘 조사 - MBC 뉴스"
       }
     }
   ]
