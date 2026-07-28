@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-28T11:32:50.623453",
+  "lastUpdate": "2026-07-28T13:14:50.685698",
   "items": [
     {
       "title": "일본 규슈 구마모토서 규모 7.1 지진…쓰나미 주의보 발령 - 한겨레",
@@ -8,9 +8,21 @@
       "pubDate": "Tue, 28 Jul 2026 08:23:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/700/420/imgdb/child/2026/0728/53_17852269192934_7117852267310498.webp",
       "summaries": {
-        "ko": "일본 규슈 구마모토에서 28일 규모 7.1의 강진이 발생하여 쓰나미 주의보가 발령되고 정부가 긴급 대응에 나섰으며, 국내 남부 지역에서도 흔들림이 감지되었다.",
-        "en": "A magnitude 7.1 earthquake struck Kumamoto, Kyushu, Japan, on the 28th, prompting a tsunami advisory and an emergency government response, while tremors were also felt in South Korea's southern regions.",
-        "zh": "日本九州熊本28日发生7.1级强震，引发海啸警报和政府紧急应对，同时韩国南部地区也感受到了震感。"
+        "ko": "28일 일본 규슈 구마모토에서 규모 7.1의 강진이 발생하여 쓰나미 주의보가 발령되고 진도 7의 흔들림이 관측되었으며, 한국 남부 지역에서도 진동이 감지되었다.",
+        "en": "A powerful 7.1 magnitude earthquake struck Kumamoto, Kyushu, Japan on the 28th, triggering a tsunami advisory, recording intensity 7 tremors, and causing vibrations to be felt in southern South Korea.",
+        "zh": "28日，日本九州熊本发生7.1级强烈地震，引发海啸警报并测得7级震度，韩国南部地区也感受到震动。"
+      }
+    },
+    {
+      "title": "권영진 징계 놓고 국힘 설전…조은희 “기회 줘야” 유영하 “조직 무너져” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260728/134377601/1",
+      "source": "동아일보",
+      "pubDate": "Tue, 28 Jul 2026 01:33:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/28/134377602.1.jpg",
+      "summaries": {
+        "ko": "권영진 징계 놓고 국힘 설전…조은희 “기회 줘야” 유영하 “조직 무너져” - 동아일보",
+        "en": "권영진 징계 놓고 국힘 설전…조은희 “기회 줘야” 유영하 “조직 무너져” - 동아일보",
+        "zh": "권영진 징계 놓고 국힘 설전…조은희 “기회 줘야” 유영하 “조직 무너져” - 동아일보"
       }
     },
     {
@@ -20,69 +32,45 @@
       "pubDate": "Tue, 28 Jul 2026 09:29:54 GMT",
       "image": "https://image.imnews.imbc.com/newszoomin/newsinsight/__icsFiles/afieldfile/2026/07/28/jh_20260728_25.jpg",
       "summaries": {
-        "ko": "윤석열 전 대통령의 공직선거법 위반형이 확정될 경우 국민의힘이 397억 원의 선거보조금을 반환해야 하지만, 현금 부족, 당사 매각 가능성, 5년 소멸시효 논란, 그리고 선관위의 법적 대응 여부가 주요 쟁점으로 떠오르고 있다.",
-        "en": "Should former President Yoon Suk-yeol's conviction for violating the Public Official Election Act be finalized, the People Power Party would face a 39.7 billion won election subsidy repayment, with key issues including their cash deficit, potential sale of party assets, the five-year statute of limitations, and the National Election Commission's legal actions.",
-        "zh": "若前总统尹锡悦违反《公职选举法》的罪名成立，国民力量党将需退还397亿韩元的选举补助金，而其现金短缺、出售党产的可能性、五年诉讼时效争议以及选举管理委员会的法律应对措施等成为主要焦点。"
+        "ko": "윤석열 전 대통령의 공직선거법 위반 형 확정 시 국민의힘이 397억 원의 선거보조금을 반환해야 하는 상황에서, 당사 매각으로 재원 마련은 가능하지만 5년의 소멸시효와 이를 연장할 수 있는 선관위의 소송 제기 여부가 핵심 쟁점이다.",
+        "en": "Should former President Yoon Suk-yeol's election law violation conviction be finalized, the People Power Party must return 39.7 billion won in election subsidies; while asset sales could cover the cost, the key issue is the 5-year statute of limitations and whether the National Election Commission will file a lawsuit to extend it.",
+        "zh": "若前总统尹锡悦违反公职选举法的判决最终确定，国民力量党将面临退还397亿韩元选举补助金的局面，虽然通过出售党产可筹集资金，但五年诉讼时效以及选举委员会是否会提起诉讼以延长时效成为核心争议。"
       }
     },
     {
-      "title": "“현 대통령 연임, 국민 선택의 문제” 조정식 개헌론 파장 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1270402.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 28 Jul 2026 10:58:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/443/imgdb/original/2026/0728/20260728503424.webp",
+      "title": "국힘, ‘대통령 연임 개헌’ 가능성 열어둔 조정식에 “그게 바로 내란” - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/07/28/K72JGXJSNNE73PB7OLBASWTYA4/",
+      "source": "조선일보",
+      "pubDate": "Tue, 28 Jul 2026 08:39:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/NE2MXIVXLVEEDNZBZN6GTAASBE.JPG?auth=43559d591f7e3bc813a5c9be5e2819396ff4d896ff7c59617f7faf19ff956cc9&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "조정식 국회의장이 현직 대통령의 연임 개헌 문제를 \"국민 선택의 문제\"라고 발언해, 헌법상 불가능함에도 이재명 대통령의 연임 가능성을 열어둔 것으로 해석되며 야당의 강한 반발을 샀다.",
-        "en": "National Assembly Speaker Cho Jeong-sik's remark that a sitting president's re-election through a constitutional amendment is \"a matter of the people's choice\" drew strong backlash from opposition parties, who interpreted it as potentially paving the way for President Lee Jae-myung's re-election despite constitutional prohibitions.",
-        "zh": "韩国国会议长赵正植表示，现任总统通过修宪连任是“国民选择的问题”，此番言论被解读为可能为李在明总统连任铺路，尽管宪法有禁止规定，引发了在野党强烈反弹。"
+        "ko": "국힘, ‘대통령 연임 개헌’ 가능성 열어둔 조정식에 “그게 바로 내란” - 조선일보",
+        "en": "국힘, ‘대통령 연임 개헌’ 가능성 열어둔 조정식에 “그게 바로 내란” - 조선일보",
+        "zh": "국힘, ‘대통령 연임 개헌’ 가능성 열어둔 조정식에 “그게 바로 내란” - 조선일보"
       }
     },
     {
       "title": "신천지 “민주당도 가입해라”…합수본, 4개월 전 간부 진술 확보 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/society_general/1270284.html",
       "source": "한겨레",
-      "pubDate": "Tue, 28 Jul 2026 07:14:00 GMT",
+      "pubDate": "Tue, 28 Jul 2026 10:50:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/850/643/imgdb/original/2026/0728/20260728501478.webp",
       "summaries": {
-        "ko": "검·경 합동수사본부가 신천지 신도들에게 국민의힘과 민주당 모두 가입을 독려한 진술을 확보했으나, 국민의힘에는 총회 차원의 조직적 강요로 정당법 위반을 적용하고 민주당에는 선거 영향력 목적의 개별 가입 정황으로 공직선거법 위반 여부를 수사 중이라고 밝혔다.",
-        "en": "The joint investigation team secured testimony that Shincheonji encouraged its members to join both the People Power Party and the Democratic Party, but is applying the Political Parties Act to the former due to confirmed organizational coercion at the general assembly level, while investigating the latter under the Public Official Election Act for individual members' attempts to influence elections, finding no similar organizational coercion.",
-        "zh": "检警联合调查本部表示，他们获取了新天地鼓励信徒加入国民力量党和民主党双方的证词，但对国民力量党适用《政党法》违规，因其存在总会层面的组织性强制要求；而对民主党，则因部分信徒为影响选举而个别加入的情况，正在调查其是否存在违反《公职选举法》的行为。"
+        "ko": "합동수사본부는 신천지가 국민의힘 당원 가입을 조직적으로 강요한 사실을 확인하여 총회장을 기소했으나, 민주당의 경우 조직적 강요는 없었지만 일부 신도들이 선거에 영향을 미치기 위해 민주당에 집단 가입한 혐의는 공직선거법 위반으로 수사 중이라고 밝혔다.",
+        "en": "The Joint Investigation Headquarters confirmed that Shincheonji systematically coerced members to join the People Power Party, leading to indictments, but found no evidence of similar organized coercion for the Democratic Party, though some members are being investigated for mass Democratic Party membership ahead of elections, potentially violating the Public Official Election Act.",
+        "zh": "联合调查本部证实新天地教会系统性强迫信徒加入国民力量党并起诉其总会长，但未发现其对民主党进行类似的组织性胁迫，不过部分信徒因在大选前集体加入民主党以施加影响而被怀疑违反《公职选举法》正在接受调查。"
       }
     },
     {
-      "title": "한밤중 청라 주택가 ‘아수라장’…서울·인천 조폭 10명 야구방망이·각목 들고 패싸움 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607281445001",
-      "source": "경향신문",
-      "pubDate": "Tue, 28 Jul 2026 05:45:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/28/news-p.v1.20260728.b00957dba3bf4ce29b57ddc5028a4721_P1.jpg",
+      "title": "낫 들고 '와다다' 조직 발칵‥\"형님!\" 배트 '꽉' 난동 최후 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6840691_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Tue, 28 Jul 2026 09:02:32 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/28/joo260728_vo2.jpg",
       "summaries": {
-        "ko": "서울과 인천 조직폭력배 10명이 구치소 내 비방으로 시작된 시비 끝에 인천 청라동 주택가에서 야구방망이 등을 들고 집단 난투극을 벌인 혐의로 경찰에 붙잡혀 검찰에 송치되었다.",
-        "en": "Ten members of organized crime gangs from Seoul and Incheon were arrested and sent to the prosecution for allegedly engaging in a group brawl with baseball bats and other weapons in a residential area of Cheongna-dong, Incheon, following a dispute that originated from badmouthing an opposing gang in prison.",
-        "zh": "首尔和仁川的10名黑帮成员因在拘留所内诽谤对方帮派引发争执，涉嫌在仁川青罗洞住宅区持棒球棒等器械进行群殴，已被警方逮捕并移送检察机关。"
-      }
-    },
-    {
-      "title": "노후화 보수공사 7개월 만에 붕괴…정기 안전점검 대상 아니었다 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260728132000053",
-      "source": "연합뉴스",
-      "pubDate": "Tue, 28 Jul 2026 07:45:22 GMT",
-      "image": "https://img1.yna.co.kr/photo/yna/YH/2026/07/28/PYH2026072819220005300_P4.jpg",
-      "summaries": {
-        "ko": "포항 보릿돌교가 노후화 보수공사 7개월 만에 붕괴했지만, 법정 정기 안전점검 대상이 아니어서 관리체계의 허점이 드러나 사고 원인과 공사 적정성 규명의 필요성이 제기되고 있다.",
-        "en": "Pohang's Boritdol Bridge collapsed just seven months after undergoing renovation for aging issues, revealing a loophole in safety management as it was not subject to mandatory regular safety inspections, prompting calls for an investigation into the cause and the appropriateness of the recent construction.",
-        "zh": "浦项市的보릿돌桥在完成老化维修工程仅7个月后发生坍塌，然而该桥梁并不属于法定定期安全检查对象，这暴露了安全管理体系的漏洞，因此亟需查明事故原因及近期维修工程的适当性。"
-      }
-    },
-    {
-      "title": "권영진 징계로 쪼개진 국힘...조은희 \"포용해야\" 유영하 \"책임은 엄격해야\" - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/07/28/QDQ7MRBY5ZCQ5BWRJO2IEWNQAU/",
-      "source": "조선일보",
-      "pubDate": "Tue, 28 Jul 2026 01:27:16 GMT",
-      "image": "https://www.chosun.com/resizer/v2/LKFHOWDE2VKFFNDXQZXEUIRDDI.jpg?auth=e892bf87222482817d767792ee39755838bb519c8a873e127cd5c67aa224afda&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "권영진 징계로 쪼개진 국힘...조은희 \"포용해야\" 유영하 \"책임은 엄격해야\" - 조선일보",
-        "en": "권영진 징계로 쪼개진 국힘...조은희 \"포용해야\" 유영하 \"책임은 엄격해야\" - 조선일보",
-        "zh": "권영진 징계로 쪼개진 국힘...조은희 \"포용해야\" 유영하 \"책임은 엄격해야\" - 조선일보"
+        "ko": "인천 주택가에서 구치소 감정싸움으로 시작된 인천 지역 및 서울 연고 폭력조직원 10명이 낫과 야구 방망이 등을 들고 집단 패싸움을 벌인 뒤 도주했으나, 경찰에 모두 검거되어 구속 송치되었습니다.",
+        "en": "Ten members of rival Incheon and Seoul-based gangs, whose animosity began in a detention center, engaged in a group brawl with sickles and baseball bats in an Incheon residential area before fleeing, but were all apprehended by the police and sent to prosecution.",
+        "zh": "10名分别来自仁川和首尔的暴力组织成员，因在拘留所期间结怨，在仁川一住宅区持镰刀和棒球棍等凶器进行群殴后逃逸，但最终被警方全部抓获并移送起诉。"
       }
     },
     {
@@ -92,33 +80,45 @@
       "pubDate": "Tue, 28 Jul 2026 08:52:00 GMT",
       "image": "https://cdn.joongboo.com/news/photo/202607/363732585_2508616_5840.png",
       "summaries": {
-        "ko": "[속보]평택 K-55 미군기지 내 백린 누출… 대피 명령 - 중부일보",
-        "en": "[속보]평택 K-55 미군기지 내 백린 누출… 대피 명령 - 중부일보",
-        "zh": "[속보]평택 K-55 미군기지 내 백린 누출… 대피 명령 - 중부일보"
+        "ko": "평택 K-55 미군기지 내에서 유독물질인 백린이 누출되어 인근 주민들에게 긴급 대피 명령이 내려졌다.",
+        "en": "A toxic substance, white phosphorus, leaked inside the K-55 US military base in Pyeongtaek, prompting an emergency evacuation order for nearby residents.",
+        "zh": "韩国平泽K-55美军基地内发生有毒物质白磷泄漏，附近居民接到紧急疏散命令。"
       }
     },
     {
-      "title": "경찰, ‘중학생 성매매’ 혐의 최영중 전 청주시의원 구속영장 신청 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/chungcheong/1270335.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 28 Jul 2026 07:14:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/701/547/imgdb/original/2026/0728/20260728502588.webp",
+      "title": "포항 구룡포서 해상 인도교 붕괴...17명 고립됐다 구조 - 조선일보",
+      "link": "https://www.chosun.com/national/incident/2026/07/28/HHZKELN4K5FTHBFQHAMVSFT6II/",
+      "source": "조선일보",
+      "pubDate": "Tue, 28 Jul 2026 08:06:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/YJP67ZLYDRAK5KMI2DPFQ5ZJ5Q.gif?auth=babcef7021a83098079464638ad65c89ddbee8beaa404321a7d22a5fc0c155ef&width=480&height=252&focal=246,96",
       "summaries": {
-        "ko": "경찰, ‘중학생 성매매’ 혐의 최영중 전 청주시의원 구속영장 신청 - 한겨레",
-        "en": "경찰, ‘중학생 성매매’ 혐의 최영중 전 청주시의원 구속영장 신청 - 한겨레",
-        "zh": "경찰, ‘중학생 성매매’ 혐의 최영중 전 청주시의원 구속영장 신청 - 한겨레"
+        "ko": "포항 구룡포서 해상 인도교 붕괴...17명 고립됐다 구조 - 조선일보",
+        "en": "포항 구룡포서 해상 인도교 붕괴...17명 고립됐다 구조 - 조선일보",
+        "zh": "포항 구룡포서 해상 인도교 붕괴...17명 고립됐다 구조 - 조선일보"
       }
     },
     {
-      "title": "전쟁 이후 처음 대면하는 트럼프·네타냐후···종전 돌파구 찾을까 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607281752001",
+      "title": "민주당까지 가세한···경찰, ‘미성년자 성매수 혐의’ 최영중 전 청주시의원 구속영장 신청 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607281424011",
       "source": "경향신문",
-      "pubDate": "Tue, 28 Jul 2026 08:52:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/28/news-p.v1.20260728.b692a4b439c946a484accb7fb0b2b9cc_P1.jpg",
+      "pubDate": "Tue, 28 Jul 2026 05:24:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/28/rcv.YNA.20260727.PYH2026072700510006400_P1.jpg",
       "summaries": {
-        "ko": "전쟁 이후 처음 대면하는 트럼프·네타냐후···종전 돌파구 찾을까 - 경향신문",
-        "en": "전쟁 이후 처음 대면하는 트럼프·네타냐후···종전 돌파구 찾을까 - 경향신문",
-        "zh": "전쟁 이후 처음 대면하는 트럼프·네타냐후···종전 돌파구 찾을까 - 경향신문"
+        "ko": "경찰이 미성년자 성매수 및 성착취물 제작 혐의를 받는 최영중 전 청주시의원에 대해 증거인멸 정황 등을 이유로 구속영장을 신청했다.",
+        "en": "Police have applied for an arrest warrant against former Cheongju City Council member Choi Young-jung, who is accused of buying sex from a minor and producing child sex abuse material, citing suspected destruction of evidence and other factors.",
+        "zh": "警方以涉嫌与未成年人进行性交易并制作性剥削物品、且有销毁证据等迹象为由，对前清州市议员崔英中申请了拘捕令。"
+      }
+    },
+    {
+      "title": "이 대통령 껴안은 룰라 ‘140분 회담’…희토류 등 협력 확대 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1270325.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 28 Jul 2026 06:59:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/640/imgdb/child/2026/0728/17852219443463_6817852218767814.webp",
+      "summaries": {
+        "ko": "이 대통령 껴안은 룰라 ‘140분 회담’…희토류 등 협력 확대 - 한겨레",
+        "en": "이 대통령 껴안은 룰라 ‘140분 회담’…희토류 등 협력 확대 - 한겨레",
+        "zh": "이 대통령 껴안은 룰라 ‘140분 회담’…희토류 등 협력 확대 - 한겨레"
       }
     }
   ]
