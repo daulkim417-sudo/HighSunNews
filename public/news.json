@@ -1,76 +1,76 @@
 {
-  "lastUpdate": "2026-07-29T07:12:34.998981",
+  "lastUpdate": "2026-07-29T09:50:13.028735",
   "items": [
     {
-      "title": "이온몰 구마모토 폭발, 재난 대비 ‘가스 발전 설비’가 원인?···방재거점이 재난 진원지로 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607291555001",
+      "title": "고삐 풀린 폭염...경남 양산 ’39.9도' 올해 최고 기록 - 조선일보",
+      "link": "https://www.chosun.com/national/transport-environment/2026/07/29/XV5N3PE2Y5AS7HPZMROGNKPC2Q/",
+      "source": "조선일보",
+      "pubDate": "Wed, 29 Jul 2026 06:06:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/ME3DCZRQMU3TKMBTGY3TCMLDGM.jpg?auth=c1d36f290e6ac5a51f9f4ed534a028a744ac9f08dbed03a113f74942dda20b50&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "고삐 풀린 폭염...경남 양산 ’39.9도' 올해 최고 기록 - 조선일보",
+        "en": "고삐 풀린 폭염...경남 양산 ’39.9도' 올해 최고 기록 - 조선일보",
+        "zh": "고삐 풀린 폭염...경남 양산 ’39.9도' 올해 최고 기록 - 조선일보"
+      }
+    },
+    {
+      "title": "13명 사망·9만명 대피…정부 신속 대응에도 인명·산업 피해 확산 [구마모토 강진] - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607291713001",
       "source": "경향신문",
-      "pubDate": "Wed, 29 Jul 2026 06:55:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/29/rcv.YNA.20260729.PAP20260729174001009_P1.jpg",
+      "pubDate": "Wed, 29 Jul 2026 08:13:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/29/rcv.YNA.20260729.PAF20260729103601009_P1.jpg",
       "summaries": {
-        "ko": "규모 7.1 지진 후 폭발·붕괴된 이온몰 구마모토가 재난 대비용 '가스 발전 설비' 때문에 사고가 발생한 것으로 의심되며, 방재 거점이었던 이 쇼핑몰이 역설적으로 재난 진원지가 되었다는 지적이 제기되고 있다.",
-        "en": "An explosion and collapse at Aeon Mall Kumamoto following a 7.1 magnitude earthquake are suspected to have been caused by its gas power generation facility installed for disaster preparedness, leading to criticism that the designated disaster prevention base ironically became the source of the disaster.",
-        "zh": "在日本7.1级地震后，永旺梦乐城熊本发生爆炸坍塌，怀疑是其为灾害准备的“燃气发电设施”所致，引发了对作为防灾据点的购物中心反倒成为灾害源头的指责。"
+        "ko": "일본 구마모토에서 발생한 규모 7.1의 강진으로 13명이 사망하고 9만 명이 대피했으며, 광범위한 인프라 손상과 반도체 등 주요 산업의 생산 차질이 발생했고, 계속되는 여진과 폭염이 복구 노력을 더욱 어렵게 하고 있습니다.",
+        "en": "A powerful magnitude 7.1 earthquake in Kumamoto, Japan, has led to 13 deaths, 90,000 evacuations, widespread infrastructure damage, and disruptions to key industries like semiconductors, compounded by ongoing aftershocks and a heatwave.",
+        "zh": "日本熊本发生7.1级强震，已造成13人死亡、9万人疏散，并对基础设施和半导体等关键产业造成广泛破坏和生产中断，持续的余震和热浪使救援工作更加复杂。"
       }
     },
     {
-      "title": "장동혁 “이 대통령 연임 불가 선언하라…그게 남은 임기 지키는 길” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1270488.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 29 Jul 2026 05:42:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/670/imgdb/original/2026/0729/20260729501965.webp",
+      "title": "허명 한국여성단체협회장 “보완수사권 폐지는 ‘한풀이식 개혁’...약자 생각해야” - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/07/29/K6TFFS2TNJACRNXTJZO55WT5QM/",
+      "source": "조선일보",
+      "pubDate": "Wed, 29 Jul 2026 06:22:17 GMT",
+      "image": "https://www.chosun.com/resizer/v2/DRVDRIMRZVD65KTU5HHGW4WPSI.jpg?auth=e11e96f56abddf2e7d9da1e7f920e8d26833e1345d7dbfd6e3381eebf9844957&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "국민의힘 장동혁 대표는 현직 대통령 연임 개헌론 논의와 관련해 더불어민주당 이재명 대표에게 모호한 태도를 취하지 말고 '연임 불가'를 명확히 선언하라고 촉구했다.",
-        "en": "People Power Party leader Jang Dong-hyuk urged Democratic Party leader Lee Jae-myung to explicitly declare \"no re-election\" regarding the debate on constitutional amendments that could allow a sitting president to extend their term, criticizing his ambiguous stance.",
-        "zh": "韩国国民力量党代表张东赫敦促共同民主党党首李在明，就现任总统连任修宪论明确表态“不可连任”，而非采取模糊态度。"
+        "ko": "허명 한국여성단체협회장 “보완수사권 폐지는 ‘한풀이식 개혁’...약자 생각해야” - 조선일보",
+        "en": "허명 한국여성단체협회장 “보완수사권 폐지는 ‘한풀이식 개혁’...약자 생각해야” - 조선일보",
+        "zh": "허명 한국여성단체협회장 “보완수사권 폐지는 ‘한풀이식 개혁’...약자 생각해야” - 조선일보"
       }
     },
     {
-      "title": "민주당 \"형소법·패트단축·선관위특검 내일 처리\"‥국민의힘은 필버 예고 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6840927_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Wed, 29 Jul 2026 05:48:56 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/29/jh_20260729_6.jpg",
+      "title": "이 대통령 \"한국 기술·브라질 자원 합친다면 최적의 파트너로 도약\" - 대한민국 정책브리핑",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148969012",
+      "source": "대한민국 정책브리핑",
+      "pubDate": "Wed, 29 Jul 2026 07:52:30 GMT",
+      "image": "https://www.korea.kr/newsWeb/resources/attaches/2026.07/29/b8404ad166a0a71abf58827832b0a41c.jpg",
       "summaries": {
-        "ko": "민주당이 내일 국회 본회의에서 검사의 직접 수사권 폐지 등 3개 법안 처리를 예고한 가운데, 국민의힘은 이 중 형소법 및 국회법 개정안에 대해 필리버스터로 맞설 방침이다.",
-        "en": "The Democratic Party announced plans to pass three bills, including the abolition of prosecutors' direct investigative powers, in tomorrow's National Assembly plenary session, while the People Power Party intends to counter the amendments to the Criminal Procedure Act and National Assembly Act with a filibuster.",
-        "zh": "民主党宣布计划在明天国会全体会议上处理包括废除检察官直接侦查权在内的三项法案，对此国民力量党表示将对《刑事诉讼法》和《国会法》修正案进行冗长辩论以示反对。"
+        "ko": "이재명 대통령은 브라질 방문 중 한-브라질 비즈니스 라운드테이블에서 한국의 기술과 브라질의 자원을 결합하여 안정적인 공급망과 미래 산업을 이끄는 최적의 파트너가 될 수 있음을 강조하며, 특히 차세대 민항기, 핵심광물, K-뷰티 분야의 협력을 제안했다.",
+        "en": "During his state visit to Brazil, President Lee Jae-myung emphasized at the Korea-Brazil Business Roundtable the potential for South Korea's technology and Brazil's resources to form an optimal partnership for stable supply chains and future industries, proposing collaboration in areas like next-generation civilian aircraft, critical minerals, and K-beauty.",
+        "zh": "李在明总统在访问巴西期间的韩巴商务圆桌会议上强调，结合韩国技术和巴西资源，两国有望成为引领稳定供应链和未来产业的最佳伙伴，并提议在下一代民用飞机、关键矿产和K-美妆等领域加强合作。"
       }
     },
     {
-      "title": "룰라 일했던 노조 찾은 이 대통령 “노동 존중 세상 만드는 일, 한·브라질 같아” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607291544001",
-      "source": "경향신문",
-      "pubDate": "Wed, 29 Jul 2026 06:44:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/29/rcv.YNA.20260729.PYH2026072901670001300_P1.jpg",
+      "title": "김종철 방미통위장 \"청소년 SNS, 부모 동의 검토\" - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260729115821Sfa",
+      "source": "연합뉴스TV",
+      "pubDate": "Wed, 29 Jul 2026 02:58:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260729/AKR20260729115821Sfa_01_i.jpg",
       "summaries": {
-        "ko": "브라질을 국빈 방문 중인 이재명 대통령이 룰라 대통령의 정치적 상징인 상파울루 금속노조 본부를 찾아 노동 존중의 가치를 강조하고 양국 간 유대 및 협력 심화를 다짐했다.",
-        "en": "During his state visit to Brazil, President Lee Jae-myung visited the São Paulo Metalworkers' Union headquarters, a political symbol for President Lula, emphasizing the value of labor respect and pledging to deepen bilateral ties and cooperation.",
-        "zh": "韩国总统李在明在对巴西进行国事访问期间，参观了作为卢拉总统政治象征的圣保罗金属工会总部，强调了尊重劳工的价值观，并承诺深化两国间的友谊与合作。"
+        "ko": "김종철 방미통위원장은 청소년의 SNS 과몰입 문제 해결을 위해 자율적 이용과 함께 사회적 공론화를 거쳐 부모 동의 및 연령 확인 의무화 등 최소한의 규제 도입을 검토할 필요가 있다고 밝혔습니다.",
+        "en": "Kim Jong-cheol, head of the Broadcasting and Communications Committee, stated that to address adolescents' over-immersion in SNS, it's necessary to consider minimal regulations such as parental consent and mandatory age verification, alongside promoting autonomous use, after public deliberation.",
+        "zh": "广播通信委员会委员长金钟哲表示，为解决青少年过度沉迷SNS的问题，除了鼓励自主使用外，也有必要在社会公论的基础上，考虑引入家长同意及强制年龄验证等最低限度规定。"
       }
     },
     {
-      "title": "[속보] 서울 동남·동북·서남권 폭염경보로 격상…서울시 “총력 대응” - 매일경제",
-      "link": "https://www.mk.co.kr/news/society/12110380",
+      "title": "“이제 알겠지? 이게 레버리지야”…개미들 두 배 먹으려다 56조 날렸다 - 매일경제",
+      "link": "https://www.mk.co.kr/news/stock/12110477",
       "source": "매일경제",
-      "pubDate": "Wed, 29 Jul 2026 02:28:08 GMT",
-      "image": "https://pimg.mk.co.kr/news/cms/202607/29/news-p.v1.20260726.cd0479b2da2343d9a834c770efb118f2_R.jpg",
+      "pubDate": "Wed, 29 Jul 2026 05:33:18 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202607/29/rcv.NEWS1.NEWS1.20260729.2026-07-29T134230_1008031282_FINANCE-STOCK_I_R.jpg",
       "summaries": {
-        "ko": "서울 동남·동북·서남권의 폭염주의보가 폭염경보로 격상됨에 따라 서울시가 위기 경보를 '경계'로 상향하고 취약계층 보호 및 무더위 쉼터 확대 등 폭염에 총력 대응한다.",
-        "en": "Following the upgrade of heatwave watches to heatwave warnings in southeastern, northeastern, and southwestern Seoul, the city government raised its heatwave crisis alert to 'caution' and launched a comprehensive response, including protecting vulnerable groups and expanding cooling shelters.",
-        "zh": "首尔东南部、东北部和西南部地区的高温预警升级为高温警报后，首尔市政府将高温危机警报级别提升至“警戒”，并全面启动保护弱势群体、扩大避暑设施等应对措施。"
-      }
-    },
-    {
-      "title": "같은 당에서 ‘툭하면 너~징계!’…‘정치의 사법화’ 2단계 현상인가 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607291449001",
-      "source": "경향신문",
-      "pubDate": "Wed, 29 Jul 2026 05:49:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/29/news-p.v1.20260728.4ff059c8832b42b38c8b2fd47684a330_P1.jpeg",
-      "summaries": {
-        "ko": "정치의 사법화가 여야 간 고소·고발을 넘어 당내 갈등을 징계로 해결하는 '2단계' 양상으로 확산되며, 강성 팬덤과 진영주의로 인해 당 내부의 조정 기능이 약화되고 있다.",
-        "en": "The \"judicialization of politics\" is escalating from inter-party lawsuits to a \"second stage\" where internal party conflicts are resolved through disciplinary actions, weakening internal adjustment mechanisms, driven by strong fandoms and extreme factionalism.",
-        "zh": "“政治司法化”现象已从党派间相互控告，升级至通过纪律处分解决党内冲突的“第二阶段”，导致党内调解功能弱化，其背后是强硬粉丝群和极端阵营主义的影响。"
+        "ko": "씨티증권은 국내 개인 투자자들이 레버리지 ETF 투자로 약 56조 3천억원(387억 달러)의 손실을 입었으며, 관련 시장은 더욱 위축될 것으로 전망했다.",
+        "en": "Citi Securities estimates that Korean individual investors have incurred losses of approximately 56.3 trillion KRW (38.7 billion USD) from leveraged ETF investments, with the related market projected to shrink further.",
+        "zh": "花旗证券估计，韩国散户投资者因杠杆ETF投资蒙受了约56.3万亿韩元（387亿美元）的损失，并且预计相关市场将进一步萎缩。"
       }
     },
     {
@@ -80,9 +80,21 @@
       "pubDate": "Wed, 29 Jul 2026 01:32:43 GMT",
       "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/29/joo260729_5.jpg",
       "summaries": {
-        "ko": "[단독] 경찰, \"집사람 손해 봤다\" 尹 발언 송치 결정‥\"선거법 위반\" - MBC 뉴스",
-        "en": "[단독] 경찰, \"집사람 손해 봤다\" 尹 발언 송치 결정‥\"선거법 위반\" - MBC 뉴스",
-        "zh": "[단독] 경찰, \"집사람 손해 봤다\" 尹 발언 송치 결정‥\"선거법 위반\" - MBC 뉴스"
+        "ko": "경찰이 검찰의 반대에도 불구하고 윤석열 전 대통령이 김건희 여사의 도이치모터스 주가조작 연루 의혹에 대해 \"집사람 손해 봤다\"고 발언한 것을 공직선거법상 허위사실공표죄로 보고 송치하기로 결정했으며, 공소시효는 오는 9월 만료될 예정이다.",
+        "en": "Despite the prosecution's opposition, the police have decided to refer former President Yoon Suk-yeol's statement that \"my wife lost money\" regarding First Lady Kim Keon-hee's alleged involvement in the Deutsch Motors stock manipulation case to the prosecution for alleged false information dissemination under the Public Official Election Act, with the statute of limitations set to expire in September.",
+        "zh": "尽管检察机关反对，警方仍决定将前总统尹锡悦关于其夫人金建希涉嫌操纵德意志汽车股价事件所说的“我太太亏损了”的言论，以违反《公职选举法》传播虚假信息罪移送检察机关，此案的诉讼时效将于9月到期。"
+      }
+    },
+    {
+      "title": "경기 군포 에어바운스 넘어가 어린이 7명 부상‥관련자 2명 입건 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6840918_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Wed, 29 Jul 2026 05:26:32 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/29/jh_20260729_2.jpg",
+      "summaries": {
+        "ko": "경기 군포시 물놀이터 에어바운스 전도 사고로 어린이 7명이 다친 것과 관련해 경찰이 안전 관리 의무를 소홀히 한 혐의로 군포시청 관계자와 안전관리업체 대표 등 2명을 입건해 수사 중입니다.",
+        "en": "Police are investigating two individuals, including a Gunpo City official and a safety management company representative, on charges of professional negligence causing injury, after an air bounce overturned at a Gunpo water park, injuring 7 children due to neglected safety management duties.",
+        "zh": "京畿道军浦市水上乐园气垫游乐设施倾覆事故导致7名儿童受伤，警方已对包括军浦市政府相关人士和安全管理公司代表在内的2人以涉嫌业务过失致伤罪立案调查，原因是他们疏忽了安全管理职责。"
       }
     },
     {
@@ -98,51 +110,39 @@
       }
     },
     {
-      "title": "검찰, '아동 성매수' 최영중 전 청주시의원 구속영장 청구 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6840880_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Wed, 29 Jul 2026 02:39:19 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/29/sa_20260729_15.jpg",
-      "summaries": {
-        "ko": "검찰이 여중생을 상대로 아동 성매수 및 성착취물 제작, 증거 인멸 시도 등의 혐의를 받는 최영중 전 청주시의원에 대해 구속영장을 청구했습니다.",
-        "en": "Prosecutors have requested an arrest warrant for former Cheongju city council member Choi Young-jung, who is accused of child sexual exploitation, producing child sexual abuse material involving a middle school student, and attempting to destroy evidence.",
-        "zh": "检察机关对涉嫌与初中女生进行儿童性交易、制作性剥削物品并试图销毁证据的前清州市议员崔英中申请了拘捕令。"
-      }
-    },
-    {
-      "title": "경기 군포 에어바운스 넘어가 어린이 7명 부상‥관련자 2명 입건 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6840918_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Wed, 29 Jul 2026 05:26:32 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/29/jh_20260729_2.jpg",
-      "summaries": {
-        "ko": "경기 군포시 어린이공원 물놀이터에서 대형 에어바운스가 넘어져 어린이 7명이 다친 사고와 관련해 경찰이 안전 관리 의무를 소홀히 한 혐의로 군포시청 관계자와 안전관리업체 대표 등 2명을 입건해 수사하고 있습니다.",
-        "en": "Police are investigating two individuals, a Gunpo City official and a safety management company representative, for professional negligence causing injury, after a large air bounce overturned at a children's water park in Gunpo, Gyeonggi Province, injuring 7 children due to neglected safety management duties.",
-        "zh": "京畿道军浦市一儿童公园水上乐园内大型充气城堡倾倒，导致7名儿童受伤，警方已对涉嫌疏忽安全管理职责的军浦市政府相关人员和安全管理公司代表等2人立案调查。"
-      }
-    },
-    {
-      "title": "[단독] 정몽규 연임 평가, 체육회 정관 위반…시정 요구 묵살",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260729160858gQQ",
+      "title": "구자현 검찰총장 대행 \"보완수사권 폐지 깊은 우려\"…사퇴 고심",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260729184819dow",
       "source": "Breaking News",
-      "pubDate": "Wed, 29 Jul 2026 16:08:58 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260729/MYH20260729160858gQQ.jpg",
+      "pubDate": "Wed, 29 Jul 2026 18:48:20 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260729/MYH20260729184819dow.jpg",
       "summaries": {
-        "ko": "정몽규 전 대한축구협회장의 4연임 과정에서 대한체육회 정관을 위반한 정성평가 50% 반영 기준이 문체부의 시정 요구에도 묵살된 채 연임 승인에 사용된 사실이 드러나 논란이 되고 있다.",
-        "en": "Jung Mong-gyu's re-election for a fourth term as president of the Korea Football Association is controversial as it was approved using evaluation criteria by the Korean Sport & Olympic Committee that included a 50% qualitative assessment, violating its own charter, a flaw that was ignored despite correction demands from the Ministry of Culture, Sports and Tourism.",
-        "zh": "郑梦奎连任韩国足球协会主席的第四届引发争议，因为韩国体育与奥林匹克委员会的评估标准（包含50%的定性评估）违反了其自身章程，且这一缺陷在文化体育观光部要求纠正后仍被无视，最终导致其连任获批。"
+        "ko": "구자현 검찰총장 대행 \"보완수사권 폐지 깊은 우려\"…사퇴 고심",
+        "en": "구자현 검찰총장 대행 \"보완수사권 폐지 깊은 우려\"…사퇴 고심",
+        "zh": "구자현 검찰총장 대행 \"보완수사권 폐지 깊은 우려\"…사퇴 고심"
       }
     },
     {
-      "title": "[단독] 제시 마쉬 \"한국 최우선 고려\"… 협상 결렬 이메일 공개",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH2026072915581270T",
+      "title": "[단독] '알고도 아동 성범죄' 정황 확보…최영중 구속 기로",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260729184606VSI",
       "source": "Breaking News",
-      "pubDate": "Wed, 29 Jul 2026 15:58:14 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260729/MYH2026072915581270T.jpg",
+      "pubDate": "Wed, 29 Jul 2026 18:46:06 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260729/MYH20260729184606VSI.jpg",
       "summaries": {
-        "ko": "유력 후보였던 제시 마쉬 감독이 한국 축구대표팀 감독 협상 결렬 이메일에서 세금과 주거 문제로 한국행이 좌절된 것에 큰 아쉬움을 표명했으며, 이후 그는 캐나다를 월드컵 조별리그에 진출시켰지만 한국은 탈락했다.",
-        "en": "Jesse Marsch, a strong candidate for the South Korean national football team coach position, expressed deep regret in a newly revealed email over the breakdown of negotiations due to tax and housing issues, subsequently leading Canada to advance past the World Cup group stage while South Korea was eliminated.",
-        "zh": "曾是韩国国家足球队主教练有力候选人的杰西·马什，在公开的邮件中对因税收和住房问题导致未能执教韩国队表示极大遗憾，此后他带领加拿大队晋级世界杯小组赛，而韩国队则被淘汰。"
+        "ko": "[단독] '알고도 아동 성범죄' 정황 확보…최영중 구속 기로",
+        "en": "[단독] '알고도 아동 성범죄' 정황 확보…최영중 구속 기로",
+        "zh": "[단독] '알고도 아동 성범죄' 정황 확보…최영중 구속 기로"
+      }
+    },
+    {
+      "title": "[단독] \"정몽규 카르텔 건재\" 축구협회 개혁 제동 우려",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202607291844238zB",
+      "source": "Breaking News",
+      "pubDate": "Wed, 29 Jul 2026 18:44:23 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260729/MYH202607291844238zB.jpg",
+      "summaries": {
+        "ko": "[단독] \"정몽규 카르텔 건재\" 축구협회 개혁 제동 우려",
+        "en": "[단독] \"정몽규 카르텔 건재\" 축구협회 개혁 제동 우려",
+        "zh": "[단독] \"정몽규 카르텔 건재\" 축구협회 개혁 제동 우려"
       }
     }
   ]
