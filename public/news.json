@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-07-30T20:21:50.243619",
+  "lastUpdate": "2026-07-30T21:37:48.797423",
   "items": [
+    {
+      "title": "'보완수사권 폐지' 필버 대치...오늘 본회의 처리 - YTN",
+      "link": "https://www.ytn.co.kr/_ln/0101_202607310119051426",
+      "source": "YTN",
+      "pubDate": "Thu, 30 Jul 2026 16:19:00 GMT",
+      "image": "https://image.ytn.co.kr/general/jpg/2026/0731/202607310119051426_t.jpg",
+      "summaries": {
+        "ko": "민주당이 검찰 보완수사권 폐지를 골자로 하는 형사소송법 개정안을 강행 처리하며 국민의힘은 정치적 의도로 사법체계를 훼손한다며 필리버스터로 맞섰고, 오늘 본회의에서 토론 강제 종료 및 의결이 추진될 예정이다.",
+        "en": "The Democratic Party pushed through a criminal procedure law amendment to abolish the prosecutor's supplementary investigative power, facing a filibuster from the People Power Party, which argues it undermines the justice system for political motives, and the bill is set to be forcibly voted on after debate termination today.",
+        "zh": "民主党强行通过了旨在废除检察官补充侦查权的《刑事诉讼法》修正案，而国民力量党则指责其出于政治动机破坏司法体系并进行冗长辩论，该修正案预计将于今日在全体会议上强制结束辩论并进行表决。"
+      }
+    },
     {
       "title": "정청래·김민석 여론조사 혼전…‘국민여론’ ‘당지지층’ 엇갈려 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1270754.html",
@@ -8,45 +20,33 @@
       "pubDate": "Thu, 30 Jul 2026 11:12:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0730/20260730503318.webp",
       "summaries": {
-        "ko": "더불어민주당 당대표 여론조사에서 정청래 후보가 '국민 여론'에서, 김민석 후보가 '민주당 지지층'에서 각각 우위를 보이며 혼전 양상이다.",
-        "en": "Public opinion polls for the Democratic Party's leadership race show Jung Chung-rae leading among the general public and Kim Min-seok leading among party supporters, indicating a tight contest.",
-        "zh": "共同民主党党魁选举民意调查显示，郑清来在“国民舆论”中领先，金民锡在“民主党支持层”中占优，呈现胶着状态。"
+        "ko": "정청래·김민석 여론조사 혼전…‘국민여론’ ‘당지지층’ 엇갈려 - 한겨레",
+        "en": "정청래·김민석 여론조사 혼전…‘국민여론’ ‘당지지층’ 엇갈려 - 한겨레",
+        "zh": "정청래·김민석 여론조사 혼전…‘국민여론’ ‘당지지층’ 엇갈려 - 한겨레"
       }
     },
     {
-      "title": "‘형소법 개정안’ 상정…필리버스터 ‘맞불’ - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8624935",
-      "source": "KBS 뉴스",
-      "pubDate": "Thu, 30 Jul 2026 14:23:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsline/2026/07/30/150_8624935.jpg",
+      "title": "이틀째 40.3도 관측사상 처음…서로 밀어올리는 ‘낮↔밤 열폭주’ 계속 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1270713.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 30 Jul 2026 13:19:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/756/imgdb/child/2026/0730/17853930012737_8817853929839947.webp",
       "summaries": {
-        "ko": "‘형소법 개정안’ 상정…필리버스터 ‘맞불’ - KBS 뉴스",
-        "en": "‘형소법 개정안’ 상정…필리버스터 ‘맞불’ - KBS 뉴스",
-        "zh": "‘형소법 개정안’ 상정…필리버스터 ‘맞불’ - KBS 뉴스"
+        "ko": "이틀째 40.3도 관측사상 처음…서로 밀어올리는 ‘낮↔밤 열폭주’ 계속 - 한겨레",
+        "en": "이틀째 40.3도 관측사상 처음…서로 밀어올리는 ‘낮↔밤 열폭주’ 계속 - 한겨레",
+        "zh": "이틀째 40.3도 관측사상 처음…서로 밀어올리는 ‘낮↔밤 열폭주’ 계속 - 한겨레"
       }
     },
     {
-      "title": "지금도 ‘펄펄’ 끓는데 다음 주 어쩌나···서울 ‘37도 찜통’ 역대급으로 불타오른다 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607301645001",
-      "source": "경향신문",
-      "pubDate": "Thu, 30 Jul 2026 07:45:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/30/news-p.v1.20260730.82ea44e0c6eb4cdaac9c295846d25935_P1.jpeg",
+      "title": "“살다 살다 이리 더븐 건 처음”…‘두겹이불 폭염’에 싸인 부산·대구 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/yeongnam/1270761.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 30 Jul 2026 13:18:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/487/imgdb/child/2026/0730/17854125196202_20260730502176.webp",
       "summaries": {
-        "ko": "지금도 ‘펄펄’ 끓는데 다음 주 어쩌나···서울 ‘37도 찜통’ 역대급으로 불타오른다 - 경향신문",
-        "en": "지금도 ‘펄펄’ 끓는데 다음 주 어쩌나···서울 ‘37도 찜통’ 역대급으로 불타오른다 - 경향신문",
-        "zh": "지금도 ‘펄펄’ 끓는데 다음 주 어쩌나···서울 ‘37도 찜통’ 역대급으로 불타오른다 - 경향신문"
-      }
-    },
-    {
-      "title": "미군 무인기 훈련에 방공태세 격상·주민 대피 소동 - YTN",
-      "link": "https://www.ytn.co.kr/_ln/0101_202607302216321910",
-      "source": "YTN",
-      "pubDate": "Thu, 30 Jul 2026 13:16:00 GMT",
-      "image": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg",
-      "summaries": {
-        "ko": "미군 무인기 훈련에 방공태세 격상·주민 대피 소동 - YTN",
-        "en": "미군 무인기 훈련에 방공태세 격상·주민 대피 소동 - YTN",
-        "zh": "미군 무인기 훈련에 방공태세 격상·주민 대피 소동 - YTN"
+        "ko": "“살다 살다 이리 더븐 건 처음”…‘두겹이불 폭염’에 싸인 부산·대구 - 한겨레",
+        "en": "“살다 살다 이리 더븐 건 처음”…‘두겹이불 폭염’에 싸인 부산·대구 - 한겨레",
+        "zh": "“살다 살다 이리 더븐 건 처음”…‘두겹이불 폭염’에 싸인 부산·대구 - 한겨레"
       }
     },
     {
@@ -62,63 +62,63 @@
       }
     },
     {
-      "title": "‘선관위 특검법’ 국회 통과…잠실 투표지 247만장 재검표 한다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1270715.html",
+      "title": "폭삭 주저앉은 집, 엿가락된 전선…일 폭염에 애태우는 ‘느린 구조’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1270771.html",
       "source": "한겨레",
-      "pubDate": "Thu, 30 Jul 2026 12:14:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/599/imgdb/original/2026/0730/20260730502818.webp",
+      "pubDate": "Thu, 30 Jul 2026 14:29:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2026/0730/20260730503639.webp",
       "summaries": {
-        "ko": "‘선관위 특검법’ 국회 통과…잠실 투표지 247만장 재검표 한다 - 한겨레",
-        "en": "‘선관위 특검법’ 국회 통과…잠실 투표지 247만장 재검표 한다 - 한겨레",
-        "zh": "‘선관위 특검법’ 국회 통과…잠실 투표지 247만장 재검표 한다 - 한겨레"
+        "ko": "폭삭 주저앉은 집, 엿가락된 전선…일 폭염에 애태우는 ‘느린 구조’ - 한겨레",
+        "en": "폭삭 주저앉은 집, 엿가락된 전선…일 폭염에 애태우는 ‘느린 구조’ - 한겨레",
+        "zh": "폭삭 주저앉은 집, 엿가락된 전선…일 폭염에 애태우는 ‘느린 구조’ - 한겨레"
       }
     },
     {
-      "title": "사찰서 모의총기 난동뒤 50㎞ 도주극…실탄·테이저건 쏴 검거 - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260730/134393386/1",
-      "source": "동아일보",
-      "pubDate": "Thu, 30 Jul 2026 06:44:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/30/134395328.1.jpg",
+      "title": "'선관위 특검법' 국회 통과‥투표용지 부족·부실 선거관리 수사 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6841263_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Thu, 30 Jul 2026 07:01:18 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/30/jhp_20260730_9.jpg",
       "summaries": {
-        "ko": "사찰서 모의총기 난동뒤 50㎞ 도주극…실탄·테이저건 쏴 검거 - 동아일보",
-        "en": "사찰서 모의총기 난동뒤 50㎞ 도주극…실탄·테이저건 쏴 검거 - 동아일보",
-        "zh": "사찰서 모의총기 난동뒤 50㎞ 도주극…실탄·테이저건 쏴 검거 - 동아일보"
+        "ko": "'선관위 특검법' 국회 통과‥투표용지 부족·부실 선거관리 수사 - MBC 뉴스",
+        "en": "'선관위 특검법' 국회 통과‥투표용지 부족·부실 선거관리 수사 - MBC 뉴스",
+        "zh": "'선관위 특검법' 국회 통과‥투표용지 부족·부실 선거관리 수사 - MBC 뉴스"
       }
     },
     {
-      "title": "‘중학생 강간 혐의’ 최영중 전 청주시의원 구속 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/chungcheong/1270740.html",
+      "title": "스틸 신임 주한미대사, 부임 전 강경화 대사 만나 한미동맹 논의 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260731015518aG2",
+      "source": "연합뉴스TV",
+      "pubDate": "Thu, 30 Jul 2026 16:55:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260730/AKR20260731015518aG2_01_i.jpg",
+      "summaries": {
+        "ko": "스틸 신임 주한미대사, 부임 전 강경화 대사 만나 한미동맹 논의 - 연합뉴스TV",
+        "en": "스틸 신임 주한미대사, 부임 전 강경화 대사 만나 한미동맹 논의 - 연합뉴스TV",
+        "zh": "스틸 신임 주한미대사, 부임 전 강경화 대사 만나 한미동맹 논의 - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "“총 가졌다” 스님 위협, 만취해 경찰차 들이받은 50대…테이저건 쏴 체포 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/yeongnam/1270677.html",
       "source": "한겨레",
-      "pubDate": "Thu, 30 Jul 2026 13:20:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/950/685/imgdb/original/2026/0730/20260730503168.webp",
+      "pubDate": "Thu, 30 Jul 2026 06:36:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/950/535/imgdb/original/2026/0730/20260730502171.webp",
       "summaries": {
-        "ko": "‘중학생 강간 혐의’ 최영중 전 청주시의원 구속 - 한겨레",
-        "en": "‘중학생 강간 혐의’ 최영중 전 청주시의원 구속 - 한겨레",
-        "zh": "‘중학생 강간 혐의’ 최영중 전 청주시의원 구속 - 한겨레"
+        "ko": "“총 가졌다” 스님 위협, 만취해 경찰차 들이받은 50대…테이저건 쏴 체포 - 한겨레",
+        "en": "“총 가졌다” 스님 위협, 만취해 경찰차 들이받은 50대…테이저건 쏴 체포 - 한겨레",
+        "zh": "“총 가졌다” 스님 위협, 만취해 경찰차 들이받은 50대…테이저건 쏴 체포 - 한겨레"
       }
     },
     {
-      "title": "이 대통령, 칠레 대통령에 '일월오봉도' 나전칠기 선물",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260731045628Qg5",
+      "title": "'강북구 오피스텔 살인·마약투약' 50대 구속",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202607310636498R5",
       "source": "Breaking News",
-      "pubDate": "Fri, 31 Jul 2026 04:56:30 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260730/AKR20260731045628Qg5_01_i.jpg",
+      "pubDate": "Fri, 31 Jul 2026 06:36:50 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260730/MYH202607310636498R5.jpg",
       "summaries": {
-        "ko": "이 대통령, 칠레 대통령에 '일월오봉도' 나전칠기 선물",
-        "en": "이 대통령, 칠레 대통령에 '일월오봉도' 나전칠기 선물",
-        "zh": "이 대통령, 칠레 대통령에 '일월오봉도' 나전칠기 선물"
-      }
-    },
-    {
-      "title": "사우디, '홍해 선박 보호' 14개국 해상 방위 연합 창설 계획 발표",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260731042307CQz",
-      "source": "Breaking News",
-      "pubDate": "Fri, 31 Jul 2026 04:23:07 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260730/AKR20260731042307CQz_01_i.jpg",
-      "summaries": {
-        "ko": "사우디, '홍해 선박 보호' 14개국 해상 방위 연합 창설 계획 발표",
-        "en": "사우디, '홍해 선박 보호' 14개국 해상 방위 연합 창설 계획 발표",
-        "zh": "사우디, '홍해 선박 보호' 14개국 해상 방위 연합 창설 계획 발표"
+        "ko": "'강북구 오피스텔 살인·마약투약' 50대 구속",
+        "en": "'강북구 오피스텔 살인·마약투약' 50대 구속",
+        "zh": "'강북구 오피스텔 살인·마약투약' 50대 구속"
       }
     }
   ]
