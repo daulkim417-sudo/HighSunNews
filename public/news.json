@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-07-30T06:01:08.338467",
+  "lastUpdate": "2026-07-30T08:27:04.325406",
   "items": [
+    {
+      "title": "‘선관위 특검법’ 본회의 통과…잠실 투표지 247만장 재검표 잠정 합의 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1270715.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 30 Jul 2026 07:31:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/599/imgdb/original/2026/0730/20260730502818.webp",
+      "summaries": {
+        "ko": "여야 합의로 선관위 특검법이 국회를 통과하여 6.3 지방선거 투표용지 부족 및 선거 시스템 조작 의혹을 규명하게 됐고, 국조특위 활동 기간 연장과 함께 잠실 투표지 247만장 재검표도 추진된다.",
+        "en": "The Election Commission Special Prosecutor Act passed the National Assembly with bipartisan agreement, allowing investigation into alleged ballot shortages and election system manipulation during the 6.3 local elections, while the special parliamentary investigation committee's activity period was also extended, and a recount of 2.47 million ballots from Jamsil is planned.",
+        "zh": "选举管理委员会特检法经朝野协议在国会通过，旨在调查6·3地方选举中投票纸短缺及选举系统操纵的嫌疑，同时国政调查特委的活动期限也获延长，并计划对蚕室的247万张选票进行重新计票。"
+      }
+    },
     {
       "title": "정청래·김민석 ‘민주당 대표 적합도’, 국민도 지지층도 오차범위 내 [NBS] - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1270641.html",
@@ -8,117 +20,105 @@
       "pubDate": "Thu, 30 Jul 2026 04:55:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0730/20260730501308.webp",
       "summaries": {
-        "ko": "정청래·김민석 ‘민주당 대표 적합도’, 국민도 지지층도 오차범위 내 [NBS] - 한겨레",
-        "en": "정청래·김민석 ‘민주당 대표 적합도’, 국민도 지지층도 오차범위 내 [NBS] - 한겨레",
-        "zh": "정청래·김민석 ‘민주당 대표 적합도’, 국민도 지지층도 오차범위 내 [NBS] - 한겨레"
+        "ko": "최근 NBS 여론조사 결과, 더불어민주당 차기 대표 적합도에서 정청래 후보(21%)와 김민석 후보(19%)가 오차범위 내 접전을 벌이고 있는 것으로 나타났다.",
+        "en": "A recent NBS poll shows that Jeong Cheong-rae (21%) and Kim Min-seok (19%) are in a neck-and-neck race within the margin of error for the suitability of the next Democratic Party leader.",
+        "zh": "根据最新NBS民意调查结果，共同民主党下一任党首合适度方面，郑清来候选人（21%）和金民锡候选人（19%）的支持率在误差范围内呈胶着状态。"
       }
     },
     {
-      "title": "바람이 좌우하는 폭염…다음 주엔 동풍, 수도권 달군다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1270654.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 30 Jul 2026 03:28:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/963/578/imgdb/child/2026/0730/53_17853819901468_20260730501518.webp",
-      "summaries": {
-        "ko": "바람이 좌우하는 폭염…다음 주엔 동풍, 수도권 달군다 - 한겨레",
-        "en": "바람이 좌우하는 폭염…다음 주엔 동풍, 수도권 달군다 - 한겨레",
-        "zh": "바람이 좌우하는 폭염…다음 주엔 동풍, 수도권 달군다 - 한겨레"
-      }
-    },
-    {
-      "title": "몸 씻고 동전 줍는 ’청계천 민폐족’…감시 인력 늘리고 과태료 추진 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260730100931EHf",
-      "source": "연합뉴스TV",
-      "pubDate": "Thu, 30 Jul 2026 01:09:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260730/AKR20260730100931EHf_01_i.jpg",
-      "summaries": {
-        "ko": "몸 씻고 동전 줍는 ’청계천 민폐족’…감시 인력 늘리고 과태료 추진 - 연합뉴스TV",
-        "en": "몸 씻고 동전 줍는 ’청계천 민폐족’…감시 인력 늘리고 과태료 추진 - 연합뉴스TV",
-        "zh": "몸 씻고 동전 줍는 ’청계천 민폐족’…감시 인력 늘리고 과태료 추진 - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "[속보] 여야, 선관위 국조특위 30일 연장도 합의…\"재검표 준비 목적\" - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/07/30/6J7NEHD7T5BWPPHH6JRRHIESEQ/",
-      "source": "조선일보",
-      "pubDate": "Thu, 30 Jul 2026 03:23:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GBSDAODDGJSDAN3DMUZDSOJYGY.jpg?auth=451fe9cd8080999997c72884ae6a8e2f2db5889f7e61aedd76840e967cd6d59a&width=1200&height=630&focal=1647,716",
-      "summaries": {
-        "ko": "[속보] 여야, 선관위 국조특위 30일 연장도 합의…\"재검표 준비 목적\" - 조선일보",
-        "en": "[속보] 여야, 선관위 국조특위 30일 연장도 합의…\"재검표 준비 목적\" - 조선일보",
-        "zh": "[속보] 여야, 선관위 국조특위 30일 연장도 합의…\"재검표 준비 목적\" - 조선일보"
-      }
-    },
-    {
-      "title": "일 구마모토 강진 사망자 28명…1만명 대피 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1270660.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 30 Jul 2026 04:38:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/897/598/imgdb/original/2026/0730/20260730501652.webp",
-      "summaries": {
-        "ko": "일 구마모토 강진 사망자 28명…1만명 대피 - 한겨레",
-        "en": "일 구마모토 강진 사망자 28명…1만명 대피 - 한겨레",
-        "zh": "일 구마모토 강진 사망자 28명…1만명 대피 - 한겨레"
-      }
-    },
-    {
-      "title": "미군, 엿새 만에 대이란 공습…트럼프 \"두들겨 팰 것\" - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260730132441R21",
-      "source": "연합뉴스TV",
-      "pubDate": "Thu, 30 Jul 2026 04:24:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260730/MYH20260730132441R21.jpg",
-      "summaries": {
-        "ko": "미군, 엿새 만에 대이란 공습…트럼프 \"두들겨 팰 것\" - 연합뉴스TV",
-        "en": "미군, 엿새 만에 대이란 공습…트럼프 \"두들겨 팰 것\" - 연합뉴스TV",
-        "zh": "미군, 엿새 만에 대이란 공습…트럼프 \"두들겨 팰 것\" - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "청문회 출석한 홍명보 “선수들에게 미안하고 고맙다” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260730/134393344/2",
-      "source": "동아일보",
-      "pubDate": "Thu, 30 Jul 2026 01:55:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/30/134393338.3.jpg",
-      "summaries": {
-        "ko": "청문회 출석한 홍명보 “선수들에게 미안하고 고맙다” - 동아일보",
-        "en": "청문회 출석한 홍명보 “선수들에게 미안하고 고맙다” - 동아일보",
-        "zh": "청문회 출석한 홍명보 “선수들에게 미안하고 고맙다” - 동아일보"
-      }
-    },
-    {
-      "title": "장동혁 “이 대통령, ’연임 없다’ 말 못하면 ’탄핵’으로 넘어갈 것“ - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260730104942vks",
-      "source": "연합뉴스TV",
-      "pubDate": "Thu, 30 Jul 2026 01:49:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260730/AKR20260730104942vks_01_i.jpg",
-      "summaries": {
-        "ko": "장동혁 “이 대통령, ’연임 없다’ 말 못하면 ’탄핵’으로 넘어갈 것“ - 연합뉴스TV",
-        "en": "장동혁 “이 대통령, ’연임 없다’ 말 못하면 ’탄핵’으로 넘어갈 것“ - 연합뉴스TV",
-        "zh": "장동혁 “이 대통령, ’연임 없다’ 말 못하면 ’탄핵’으로 넘어갈 것“ - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "경찰, 인천 물류센터 화재 관련 쿠팡 사무실 압수수색 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6841187_36918.html",
+      "title": "이진숙 과방위 보임 두고 여야 공방‥이진숙 \"전학생 집단 괴롭힘\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6841244_36911.html",
       "source": "MBC 뉴스",
-      "pubDate": "Thu, 30 Jul 2026 02:25:11 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/30/yh_20260730-12.jpg",
+      "pubDate": "Thu, 30 Jul 2026 06:12:02 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/30/joo260730_10.jpg",
       "summaries": {
-        "ko": "경찰, 인천 물류센터 화재 관련 쿠팡 사무실 압수수색 - MBC 뉴스",
-        "en": "경찰, 인천 물류센터 화재 관련 쿠팡 사무실 압수수색 - MBC 뉴스",
-        "zh": "경찰, 인천 물류센터 화재 관련 쿠팡 사무실 압수수색 - MBC 뉴스"
+        "ko": "국회 과방위 첫 회의에서 이진숙 의원 보임을 두고 민주당이 이해충돌을 이유로 부적절하다고 주장하자 국민의힘은 고발당해도 상임위를 떠나야 하냐며 맞서면서 고성과 거친 공방이 오갔다.",
+        "en": "The first meeting of the National Assembly's Science, ICT, Broadcasting, and Communications Committee erupted in a fierce debate between the ruling and opposition parties over the appointment of Rep. Lee Jin-sook, with the opposition citing conflict of interest due to her past and the ruling party countering that accusations do not disqualify members.",
+        "zh": "韩国国会科学技术信息广播通信委员会首次会议上，执执政党和在野党围绕李珍淑议员的任命问题展开激烈争论，在野党以利益冲突为由主张其不合适，而执政党则反驳称被指控不应成为撤职理由。"
       }
     },
     {
-      "title": "李대통령 \"칠레는 FTA 최초 파트너...깊은 우정으로 이어져 있다\" - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/07/30/BSHQZXPWC5AATPODJ7B7U27VXY/",
-      "source": "조선일보",
-      "pubDate": "Thu, 30 Jul 2026 00:26:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/G42GCOBXGYZGEZBRGNSTAMBQMI.jpg?auth=e12b71db48c359cb6960cb8335501f4aeaf0e5c61eebef9a7a641fa8a768c966&width=1200&height=630&smart=true",
+      "title": "줄줄이 멈춰선 반도체·자동차 공장···지역 경제 넘어 일본 제조업 타격 우려도[구마모토 강진] - khan.co.kr",
+      "link": "https://www.khan.co.kr/article/202607301517001",
+      "source": "khan.co.kr",
+      "pubDate": "Thu, 30 Jul 2026 06:17:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/30/news-p.v1.20260730.a702d130cb504974b97b276625205b95_P1.jpg",
       "summaries": {
-        "ko": "李대통령 \"칠레는 FTA 최초 파트너...깊은 우정으로 이어져 있다\" - 조선일보",
-        "en": "李대통령 \"칠레는 FTA 최초 파트너...깊은 우정으로 이어져 있다\" - 조선일보",
-        "zh": "李대통령 \"칠레는 FTA 최초 파트너...깊은 우정으로 이어져 있다\" - 조선일보"
+        "ko": "구마모토 지진으로 일본 규슈 지역의 주요 반도체 및 자동차 공장들이 가동을 중단하면서 일본 제조업 전반과 글로벌 공급망에 상당한 영향을 미칠 수 있다는 우려가 커지고 있다.",
+        "en": "The Kumamoto earthquake has forced major semiconductor and automotive factories in Japan's Kyushu region to halt operations, raising concerns that this disruption could significantly impact Japan's entire manufacturing sector and global supply chains.",
+        "zh": "熊本地震已迫使日本九州地区的主要半导体和汽车工厂停产，引发担忧，认为此次中断可能严重影响日本整个制造业和全球供应链。"
+      }
+    },
+    {
+      "title": "경남 양산, 연이틀 40도…부산·창원·김해 ‘폭염중대경보’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1270713.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 30 Jul 2026 07:32:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0730/53_17853966121958_20260730502795.webp",
+      "summaries": {
+        "ko": "경남 양산이 이틀 연속 40도를 기록하는 등 영남 지역에 '폭염중대경보'가 발효된 가운데, 티베트 및 북태평양 고기압의 영향으로 극한 폭염과 열대야가 8월에도 이어질 전망이다.",
+        "en": "Extreme heat, with Gyeongnam Yangsan recording over 40 degrees Celsius for two consecutive days, is persisting in the Yeongnam region under 'extreme heat alerts' due to the influence of Tibetan and North Pacific high-pressure systems, and is expected to continue into August.",
+        "zh": "庆南梁山连续两天录得超过40摄氏度的高温，岭南地区在'严重高温警报'下持续经历极端酷热，受青藏高压和北太平洋高压影响，预计酷热和热带夜将持续到8月。"
+      }
+    },
+    {
+      "title": "미국, 대이란 공습 재개···사우디 본격 참전에 중동 전선 넓어지나 - khan.co.kr",
+      "link": "https://www.khan.co.kr/article/202607301525001",
+      "source": "khan.co.kr",
+      "pubDate": "Thu, 30 Jul 2026 06:25:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/30/rcv.YNA.20260730.PRU20260730200401009_P1.jpg",
+      "summaries": {
+        "ko": "미국이 이란의 미군 공격 시도에 대한 보복으로 공습을 재개하고 사우디아라비아가 이라크 내 친이란 민병대 공격에 본격적으로 참전하면서 중동 전선이 빠르게 확대되고 있다.",
+        "en": "The United States has resumed airstrikes against Iran in retaliation for an attempted attack on US forces, and with Saudi Arabia actively joining attacks on pro-Iranian militias in Iraq, the front lines in the Middle East are rapidly expanding.",
+        "zh": "美国为报复伊朗企图袭击美军而重启对伊朗的空袭，沙特阿拉伯也正式参与对伊拉克境内亲伊朗民兵的攻击，中东战线正在迅速扩大。"
+      }
+    },
+    {
+      "title": "홍명보 “연봉, 38억보다 훨씬 적어…‘집 앞 면접’ 때 특혜 요구 안 해” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1270653.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 30 Jul 2026 05:56:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/908/545/imgdb/child/2026/0730/53_17853816480733_20260730501511.webp",
+      "summaries": {
+        "ko": "홍명보 “연봉, 38억보다 훨씬 적어…‘집 앞 면접’ 때 특혜 요구 안 해” - 한겨레",
+        "en": "홍명보 “연봉, 38억보다 훨씬 적어…‘집 앞 면접’ 때 특혜 요구 안 해” - 한겨레",
+        "zh": "홍명보 “연봉, 38억보다 훨씬 적어…‘집 앞 면접’ 때 특혜 요구 안 해” - 한겨레"
+      }
+    },
+    {
+      "title": "[단독]“지잡대 출신” “어머니가 봉제공장 다니냐”···폭언 갑질한 용산구의회 전문위원 ‘해임’ - khan.co.kr",
+      "link": "https://www.khan.co.kr/article/202607301057001",
+      "source": "khan.co.kr",
+      "pubDate": "Thu, 30 Jul 2026 01:57:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/30/news-p.v1.20260615.b8ac21564fd64079900d199f269c9a58_P1.png",
+      "summaries": {
+        "ko": "[단독]“지잡대 출신” “어머니가 봉제공장 다니냐”···폭언 갑질한 용산구의회 전문위원 ‘해임’ - khan.co.kr",
+        "en": "[단독]“지잡대 출신” “어머니가 봉제공장 다니냐”···폭언 갑질한 용산구의회 전문위원 ‘해임’ - khan.co.kr",
+        "zh": "[단독]“지잡대 출신” “어머니가 봉제공장 다니냐”···폭언 갑질한 용산구의회 전문위원 ‘해임’ - khan.co.kr"
+      }
+    },
+    {
+      "title": "국힘, 윤리위원 2명 추가 임명…우재준 “편향적 운영 조사부터 해야” 반발 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1270628.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 30 Jul 2026 02:02:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/735/imgdb/original/2026/0730/20260730501104.webp",
+      "summaries": {
+        "ko": "국힘, 윤리위원 2명 추가 임명…우재준 “편향적 운영 조사부터 해야” 반발 - 한겨레",
+        "en": "국힘, 윤리위원 2명 추가 임명…우재준 “편향적 운영 조사부터 해야” 반발 - 한겨레",
+        "zh": "국힘, 윤리위원 2명 추가 임명…우재준 “편향적 운영 조사부터 해야” 반발 - 한겨레"
+      }
+    },
+    {
+      "title": "‘아동 성매매’ 혐의 최영중…마스크 쓰고 법원 출석 [현장영상] - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8624406",
+      "source": "KBS 뉴스",
+      "pubDate": "Thu, 30 Jul 2026 06:44:00 GMT",
+      "image": "http://news.kbs.co.kr/data/fckeditor/vod/2026/07/30/174091785393251616.png",
+      "summaries": {
+        "ko": "‘아동 성매매’ 혐의 최영중…마스크 쓰고 법원 출석 [현장영상] - KBS 뉴스",
+        "en": "‘아동 성매매’ 혐의 최영중…마스크 쓰고 법원 출석 [현장영상] - KBS 뉴스",
+        "zh": "‘아동 성매매’ 혐의 최영중…마스크 쓰고 법원 출석 [현장영상] - KBS 뉴스"
       }
     }
   ]
