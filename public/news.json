@@ -1,148 +1,124 @@
 {
-  "lastUpdate": "2026-07-31T07:32:16.328475",
+  "lastUpdate": "2026-07-31T10:09:34.521787",
   "items": [
     {
-      "title": "경남 양산 41.4도까지 치솟아…기상관측 사상 최고 기온 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1270870.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 31 Jul 2026 06:31:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0731/20260731501427.webp",
-      "summaries": {
-        "ko": "경남 양산의 낮 기온이 41.4도까지 치솟아 국내 기상관측 사상 최고기온을 경신했으며, 양산에서는 처음으로 사흘 연속 40도 이상의 폭염이 이어졌다.",
-        "en": "Yangsan, Gyeongnam, recorded a daytime temperature of 41.4 degrees Celsius, setting a new all-time high for meteorological observations in South Korea, and experienced an unprecedented three consecutive days of extreme heat above 40 degrees.",
-        "zh": "韩国庆尚南道梁山市白天气温飙升至41.4摄氏度，创下韩国气象观测史上的最高气温纪录，并首次连续三天出现40度以上的极端高温。"
-      }
-    },
-    {
-      "title": "폭염에 올여름 온열질환자 1700명 넘어···추정 사망자도 13명 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607311616001",
-      "source": "경향신문",
-      "pubDate": "Fri, 31 Jul 2026 07:16:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/31/news-p.v1.20260731.8c4f949e0cf44e4daaa305bda2e761dd_P1.png",
-      "summaries": {
-        "ko": "전국적인 폭염이 이어지는 가운데, 올여름 온열질환자가 1700명을 넘어 추정 사망자 13명을 기록했으며, 기록적인 폭염이 당분간 계속될 것으로 예보되어 피해 확대가 우려된다.",
-        "en": "As the nationwide heatwave continues, this summer's heat-related illnesses have surpassed 1,700 cases with 13 estimated deaths, and with record-breaking heat forecasted to persist for some time, there are concerns about further damage.",
-        "zh": "随着全国性酷暑持续，今年夏天中暑患者已超过1700人，估计死亡人数为13人，鉴于创纪录的酷暑预计将持续一段时间，人们担心损害会进一步扩大。"
-      }
-    },
-    {
-      "title": "모로코서 수천명 스페인 세우타 진입 '대혼란'…시신 9구 발견(종합) - v.daum.net",
-      "link": "https://v.daum.net/v/20260731085145578",
-      "source": "v.daum.net",
-      "pubDate": "Thu, 30 Jul 2026 23:51:45 GMT",
-      "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/31/yonhap/20260731085145493ycjy.jpg",
-      "summaries": {
-        "ko": "모로코에서 수천 명의 이주민이 스페인 자치도시 세우타로 대규모 진입을 시도하여 대혼란 속에 9구의 시신이 발견되었고, 스페인 정부는 국경 통제를 강화했다.",
-        "en": "Thousands of migrants from Morocco attempted a mass entry into the Spanish autonomous city of Ceuta, leading to chaos, the discovery of 9 bodies, and intensified border control by the Spanish government.",
-        "zh": "数千名摩洛哥移民大规模涌入西班牙自治城市休达，造成巨大混乱，9具尸体被发现，西班牙政府加强了边境管制。"
-      }
-    },
-    {
-      "title": "폭삭 주저앉은 집, 엿가락된 전선…일 폭염에 애태우는 ‘느린 구조’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1270771.html",
-      "source": "한겨레",
-      "pubDate": "Thu, 30 Jul 2026 14:29:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2026/0730/20260730503639.webp",
-      "summaries": {
-        "ko": "일본 구마모토현에 규모 7.1 지진이 강타하여 주택과 시설물 다수가 파괴되고 8명 이상이 사망했으며, 폭염 속에서 구조 및 복구 작업이 더디게 진행되고 있다.",
-        "en": "A magnitude 7.1 earthquake struck Japan's Kumamoto Prefecture, destroying numerous homes and facilities, killing at least 8 people, and hindering rescue and recovery efforts amid scorching heat.",
-        "zh": "日本熊本县遭受7.1级地震袭击，导致大量房屋和设施被毁，至少8人死亡，且在酷热天气中，救援和恢复工作进展缓慢。"
-      }
-    },
-    {
-      "title": "이란 “요르단·쿠웨이트 공격, 미군 전투기 6대 손상”…미국 “거짓 주장” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1270891.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 31 Jul 2026 06:29:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/700/450/imgdb/original/2026/0731/20260731501720.webp",
-      "summaries": {
-        "ko": "이란이 요르단과 쿠웨이트 내 미군기지를 공격해 F-35 전투기 3대를 포함한 항공기 6대를 손상시켰다고 주장했으나, 미군은 이는 사실이 아닌 거짓 주장이라고 즉각 반박했다.",
-        "en": "Iran claimed to have attacked US military bases in Jordan and Kuwait, damaging six aircraft including three F-35 fighter jets, but the US military promptly refuted these assertions as false claims.",
-        "zh": "伊朗声称袭击了约旦和科威特的美国军事基地，造成包括三架F-35战斗机在内的六架飞机受损，但美军立即驳斥这些说法为“虚假主张”。"
-      }
-    },
-    {
-      "title": "국힘, ‘검사 보완수사권 폐지’에 “권한쟁의·헌법소원 낼 것” - 한겨레",
+      "title": "국힘, ‘검사 보완수사권’ 폐지에 “권한쟁의·헌법소원 심판 청구” - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1270894.html",
       "source": "한겨레",
-      "pubDate": "Fri, 31 Jul 2026 06:46:00 GMT",
+      "pubDate": "Fri, 31 Jul 2026 07:16:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/800/561/imgdb/original/2026/0731/20260731501762.webp",
       "summaries": {
-        "ko": "국민의힘은 검사의 보완수사권을 완전 폐지하는 형사소송법 개정안이 국회 본회의에서 처리될 예정인 것에 대해 헌법재판소에 권한쟁의심판과 헌법소원심판을 청구하겠다고 밝혔다.",
-        "en": "The People Power Party announced it would file an inter-agency competence dispute and a constitutional petition with the Constitutional Court regarding the amendment to the Criminal Procedure Act, which completely abolishes prosecutors' supplementary investigation powers, set to be processed in the National Assembly plenary session.",
-        "zh": "国民力量党表示，对于将在国会全体会议上处理的完全废除检察官补充侦查权的《刑事诉讼法》修正案，将向宪法法院提起权限争议审判和宪法诉愿审判。"
+        "ko": "국민의힘은 검사의 보완수사권을 전면 폐지하는 내용의 형사소송법 개정안이 국회 본회의에서 처리될 경우 헌법재판소에 권한쟁의심판과 헌법소원심판을 청구하겠다는 입장을 밝혔다.",
+        "en": "The People Power Party announced their intention to file a constitutional dispute and a constitutional petition with the Constitutional Court if the revision to the Criminal Procedure Act, which completely abolishes prosecutors' supplementary investigative powers, is passed by the National Assembly.",
+        "zh": "国民力量党表示，如果旨在全面废除检察官补充侦查权的《刑事诉讼法》修正案在国会全体会议上获得通过，他们将向宪法法院提起权限争议审判和宪法诉讼审判。"
       }
     },
     {
-      "title": "‘이 대통령 명예훼손’ 모스 탄 출국정지 유지…법원, 취소 소송 각하·기각 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1270863.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 31 Jul 2026 04:40:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/650/390/imgdb/original/2026/0513/20260513502347.webp",
-      "summaries": {
-        "ko": "‘이 대통령 명예훼손’ 모스 탄 출국정지 유지…법원, 취소 소송 각하·기각 - 한겨레",
-        "en": "‘이 대통령 명예훼손’ 모스 탄 출국정지 유지…법원, 취소 소송 각하·기각 - 한겨레",
-        "zh": "‘이 대통령 명예훼손’ 모스 탄 출국정지 유지…법원, 취소 소송 각하·기각 - 한겨레"
-      }
-    },
-    {
-      "title": "與 당대표 지지율, 정청래-김민석 오차범위내 초박빙 접전 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260731/134398709/2",
+      "title": "경남 양산 41.4도…韓기상관측 사상 최고 기온 - 동아일보",
+      "link": "https://www.donga.com/news/Society/article/all/20260731/134400688/2",
       "source": "동아일보",
-      "pubDate": "Thu, 30 Jul 2026 19:30:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/31/134398892.1.jpg",
+      "pubDate": "Fri, 31 Jul 2026 04:27:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/31/134400675.3.jpg",
       "summaries": {
-        "ko": "與 당대표 지지율, 정청래-김민석 오차범위내 초박빙 접전 - 동아일보",
-        "en": "與 당대표 지지율, 정청래-김민석 오차범위내 초박빙 접전 - 동아일보",
-        "zh": "與 당대표 지지율, 정청래-김민석 오차범위내 초박빙 접전 - 동아일보"
+        "ko": "경남 양산 41.4도…韓기상관측 사상 최고 기온 - 동아일보",
+        "en": "경남 양산 41.4도…韓기상관측 사상 최고 기온 - 동아일보",
+        "zh": "경남 양산 41.4도…韓기상관측 사상 최고 기온 - 동아일보"
       }
     },
     {
-      "title": "李대통령, 아르헨 도착...31일 밀레이 대통령과 정상회담 - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/07/31/RP5WIO2O7FCTVMHY4KAVVBTEDA/",
+      "title": "‘재난 대국’ 일본, 이토록 열악한 대피소라니···수백명이 바닥에 앉아 선풍기 몇 대로 연명[구마모토 강진] - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607311349001",
+      "source": "경향신문",
+      "pubDate": "Fri, 31 Jul 2026 04:49:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/31/news-p.v1.20260731.87dfeac429c648c6b69f143ab8cb27d3_P1.jpg",
+      "summaries": {
+        "ko": "일본 구마모토에서 발생한 규모 7.1 지진 이후, 수천 명의 이재민이 머무는 대피소가 침상 부족, 비위생적인 시설, 냉방 미비 등 심각하게 열악한 환경으로 비판받으며, 2016년 지진 때처럼 재난 관련 사망자 증가가 반복될 것이라는 우려가 커지고 있다.",
+        "en": "Following a magnitude 7.1 earthquake in Japan's Kumamoto, thousands of evacuees are facing critically poor conditions in shelters—lacking beds, proper sanitation, and cooling—leading to widespread criticism and concerns about a repeat of disaster-related deaths experienced in the 2016 quake.",
+        "zh": "日本熊本发生7.1级地震后，数千名灾民所居住的避难所因床铺不足、卫生设施差、缺乏降温设备等恶劣条件受到严厉批评，引发了人们对2016年地震时曾出现的灾害相关死亡人数再次增加的担忧。"
+      }
+    },
+    {
+      "title": "‘李 명예훼손’ 모스 탄, “출국정지 취소해달라” 소송냈다가 패소 - 조선일보",
+      "link": "https://www.chosun.com/national/court_law/2026/07/31/X7EMVKBH5JGXZNIVZOZ3DIZDCA/",
       "source": "조선일보",
-      "pubDate": "Fri, 31 Jul 2026 03:41:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/I4MGPI4TLROSVLZISSKB5DJT3I.jpg?auth=bfd06e827a09ee7521ef68c04ea6eab4276d9f0224cad33618270c7cb33769ad&width=1200&height=630&smart=true",
+      "pubDate": "Fri, 31 Jul 2026 03:25:43 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GE2GENZUGE2TMOBTMFTGCYZXGM.jpg?auth=e0982492acc74f148a6071788ca137f6acee22b1b53e82faa61749c829ad684f&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "李대통령, 아르헨 도착...31일 밀레이 대통령과 정상회담 - 조선일보",
-        "en": "李대통령, 아르헨 도착...31일 밀레이 대통령과 정상회담 - 조선일보",
-        "zh": "李대통령, 아르헨 도착...31일 밀레이 대통령과 정상회담 - 조선일보"
+        "ko": "‘李 명예훼손’ 모스 탄, “출국정지 취소해달라” 소송냈다가 패소 - 조선일보",
+        "en": "‘李 명예훼손’ 모스 탄, “출국정지 취소해달라” 소송냈다가 패소 - 조선일보",
+        "zh": "‘李 명예훼손’ 모스 탄, “출국정지 취소해달라” 소송냈다가 패소 - 조선일보"
       }
     },
     {
-      "title": "[속보] 靑 \"국회, 본회의 의결로 특별감찰관 후보 추천시 신속 임명\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260731162717Af7",
-      "source": "Breaking News",
-      "pubDate": "Fri, 31 Jul 2026 16:27:18 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260731/AKR20260731162717Af7_01_i.jpg",
+      "title": "이란 “미군 기지 습격해 전투기 6대 타격”…미 “거짓 주장, 피해 없어” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1270891.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 31 Jul 2026 09:15:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/700/450/imgdb/original/2026/0731/20260731501720.webp",
       "summaries": {
-        "ko": "[속보] 靑 \"국회, 본회의 의결로 특별감찰관 후보 추천시 신속 임명\"",
-        "en": "[속보] 靑 \"국회, 본회의 의결로 특별감찰관 후보 추천시 신속 임명\"",
-        "zh": "[속보] 靑 \"국회, 본회의 의결로 특별감찰관 후보 추천시 신속 임명\""
+        "ko": "이란 “미군 기지 습격해 전투기 6대 타격”…미 “거짓 주장, 피해 없어” - 한겨레",
+        "en": "이란 “미군 기지 습격해 전투기 6대 타격”…미 “거짓 주장, 피해 없어” - 한겨레",
+        "zh": "이란 “미군 기지 습격해 전투기 6대 타격”…미 “거짓 주장, 피해 없어” - 한겨레"
       }
     },
     {
-      "title": "[속보] 국회 '보완수사권 폐지'필리버스터 종결 표결",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260731162634zKc",
-      "source": "Breaking News",
-      "pubDate": "Fri, 31 Jul 2026 16:26:35 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260731/MYH20260731162634zKc.jpg",
+      "title": "한-칠레 핵심광물·투자·방산 공조…\"미래산업 기반 확대\" - 대한민국 정책브리핑",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148969161",
+      "source": "대한민국 정책브리핑",
+      "pubDate": "Fri, 31 Jul 2026 06:04:15 GMT",
+      "image": "https://www.korea.kr/newsWeb/resources/attaches/2026.07/31/c589e16bd766ebd08c71cbff4ac23a7f.jpg",
       "summaries": {
-        "ko": "[속보] 국회 '보완수사권 폐지'필리버스터 종결 표결",
-        "en": "[속보] 국회 '보완수사권 폐지'필리버스터 종결 표결",
-        "zh": "[속보] 국회 '보완수사권 폐지'필리버스터 종결 표결"
+        "ko": "한-칠레 핵심광물·투자·방산 공조…\"미래산업 기반 확대\" - 대한민국 정책브리핑",
+        "en": "한-칠레 핵심광물·투자·방산 공조…\"미래산업 기반 확대\" - 대한민국 정책브리핑",
+        "zh": "한-칠레 핵심광물·투자·방산 공조…\"미래산업 기반 확대\" - 대한민국 정책브리핑"
       }
     },
     {
-      "title": "[속보] 국회, '보완수사권 폐지' 필리버스터 종결 표결 개시",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260731161218U0H",
-      "source": "Breaking News",
-      "pubDate": "Fri, 31 Jul 2026 16:12:19 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260731/AKR20260731161218U0H_01_i.jpg",
+      "title": "민주 \"메가특구 52시간 예외, 아직 결론 안 나\" - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260731160053Tkj",
+      "source": "연합뉴스TV",
+      "pubDate": "Fri, 31 Jul 2026 07:03:02 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260731/AKR20260731160053Tkj_01_i.jpg",
       "summaries": {
-        "ko": "[속보] 국회, '보완수사권 폐지' 필리버스터 종결 표결 개시",
-        "en": "[속보] 국회, '보완수사권 폐지' 필리버스터 종결 표결 개시",
-        "zh": "[속보] 국회, '보완수사권 폐지' 필리버스터 종결 표결 개시"
+        "ko": "민주 \"메가특구 52시간 예외, 아직 결론 안 나\" - 연합뉴스TV",
+        "en": "민주 \"메가특구 52시간 예외, 아직 결론 안 나\" - 연합뉴스TV",
+        "zh": "민주 \"메가특구 52시간 예외, 아직 결론 안 나\" - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "軍, 연합훈련 참가 美무인기에 '두루미' 발령…자칫 격추할 뻔 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260730187600504",
+      "source": "연합뉴스",
+      "pubDate": "Thu, 30 Jul 2026 11:31:31 GMT",
+      "image": "https://img5.yna.co.kr/photo/yna/YH/2026/01/11/PYH2026011103850006000_P4.jpg",
+      "summaries": {
+        "ko": "軍, 연합훈련 참가 美무인기에 '두루미' 발령…자칫 격추할 뻔 - 연합뉴스",
+        "en": "軍, 연합훈련 참가 美무인기에 '두루미' 발령…자칫 격추할 뻔 - 연합뉴스",
+        "zh": "軍, 연합훈련 참가 美무인기에 '두루미' 발령…자칫 격추할 뻔 - 연합뉴스"
+      }
+    },
+    {
+      "title": "스틸 주한미대사 \"한미동맹 다음 장 열어야…상호이익의 길 모색\" - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260731155621T8C",
+      "source": "연합뉴스TV",
+      "pubDate": "Fri, 31 Jul 2026 06:56:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260731/AKR20260731155621T8C_01_i.jpg",
+      "summaries": {
+        "ko": "스틸 주한미대사 \"한미동맹 다음 장 열어야…상호이익의 길 모색\" - 연합뉴스TV",
+        "en": "스틸 주한미대사 \"한미동맹 다음 장 열어야…상호이익의 길 모색\" - 연합뉴스TV",
+        "zh": "스틸 주한미대사 \"한미동맹 다음 장 열어야…상호이익의 길 모색\" - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "‘장윤기 사건’ 광산서 전 형사과장, 두 번째 구속영장 실질심사 출석 - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/07/31/L6O3Y3MYLRALRB5NVA7Q7A4IG4/",
+      "source": "조선일보",
+      "pubDate": "Fri, 31 Jul 2026 04:16:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/S3TKQJS3AVKLXF7B6JN2JUYGXE.jpg?auth=fef1c569ed1a4dedc9a67592b587c09c67b16f4041e8f51b5ba8808991beffa6&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "‘장윤기 사건’ 광산서 전 형사과장, 두 번째 구속영장 실질심사 출석 - 조선일보",
+        "en": "‘장윤기 사건’ 광산서 전 형사과장, 두 번째 구속영장 실질심사 출석 - 조선일보",
+        "zh": "‘장윤기 사건’ 광산서 전 형사과장, 두 번째 구속영장 실질심사 출석 - 조선일보"
       }
     }
   ]
