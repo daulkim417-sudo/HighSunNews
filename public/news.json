@@ -1,76 +1,88 @@
 {
-  "lastUpdate": "2026-07-31T04:40:45.537892",
+  "lastUpdate": "2026-07-31T07:32:16.328475",
   "items": [
     {
-      "title": "[단독]민주당 반대했던 ‘52시간 예외’ 살리고 기간제 연장까지···반도체 메가특구 ‘노동 실험장’ 되나 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607310600031",
-      "source": "경향신문",
-      "pubDate": "Thu, 30 Jul 2026 21:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/31/news-p.v1.20260730.7c73f7b2cf8445228c3867ffb85be576_P1.jpg",
-      "summaries": {
-        "ko": "정부가 반도체 메가특구의 글로벌 경쟁력 강화를 명분으로 주 52시간 예외, 기간제 연장, 파견 확대 등 노동 규제 완화를 추진하며 특구가 '노동 실험장'이 될 수 있다는 우려가 제기되고 있다.",
-        "en": "The South Korean government is pushing for labor deregulation in semiconductor mega-special zones, including exceptions to the 52-hour workweek, extension of temporary contracts, and expanded dispatch, citing enhanced global competitiveness, which raises concerns that these zones could become 'labor experiment sites'.",
-        "zh": "韩国政府以增强半导体超级特区全球竞争力为由，推动放宽劳动管制，包括52小时工作制例外、延长临时工合同期限和扩大劳务派遣，引发了人们对特区可能成为“劳动试验场”的担忧。"
-      }
-    },
-    {
-      "title": "[속보]‘이 대통령 명예훼손’ 모스 탄, 출국정지 내달 15일까지 그대로···취소 소송 기각 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607311109001",
-      "source": "경향신문",
-      "pubDate": "Fri, 31 Jul 2026 02:09:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/31/news-p.v1.20260602.160945fc30ce498296fff4145359bfb8_P1.jpg",
-      "summaries": {
-        "ko": "[속보]‘이 대통령 명예훼손’ 모스 탄, 출국정지 내달 15일까지 그대로···취소 소송 기각 - 경향신문",
-        "en": "[속보]‘이 대통령 명예훼손’ 모스 탄, 출국정지 내달 15일까지 그대로···취소 소송 기각 - 경향신문",
-        "zh": "[속보]‘이 대통령 명예훼손’ 모스 탄, 출국정지 내달 15일까지 그대로···취소 소송 기각 - 경향신문"
-      }
-    },
-    {
-      "title": "박지원 “검사들 수사권 박탈 원망은 윤석열·한동훈한테” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1270848.html",
+      "title": "경남 양산 41.4도까지 치솟아…기상관측 사상 최고 기온 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1270870.html",
       "source": "한겨레",
-      "pubDate": "Fri, 31 Jul 2026 03:05:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0731/53_17854668877779_20260731501138.webp",
+      "pubDate": "Fri, 31 Jul 2026 06:31:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0731/20260731501427.webp",
       "summaries": {
-        "ko": "박지원 “검사들 수사권 박탈 원망은 윤석열·한동훈한테” - 한겨레",
-        "en": "박지원 “검사들 수사권 박탈 원망은 윤석열·한동훈한테” - 한겨레",
-        "zh": "박지원 “검사들 수사권 박탈 원망은 윤석열·한동훈한테” - 한겨레"
+        "ko": "경남 양산의 낮 기온이 41.4도까지 치솟아 국내 기상관측 사상 최고기온을 경신했으며, 양산에서는 처음으로 사흘 연속 40도 이상의 폭염이 이어졌다.",
+        "en": "Yangsan, Gyeongnam, recorded a daytime temperature of 41.4 degrees Celsius, setting a new all-time high for meteorological observations in South Korea, and experienced an unprecedented three consecutive days of extreme heat above 40 degrees.",
+        "zh": "韩国庆尚南道梁山市白天气温飙升至41.4摄氏度，创下韩国气象观测史上的最高气温纪录，并首次连续三天出现40度以上的极端高温。"
       }
     },
     {
-      "title": "창원 39도, 부산 37도…오늘도 남쪽은 ‘극한 더위’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1270803.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 31 Jul 2026 01:20:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0731/53_17854499505619_20260731500144.webp",
-      "summaries": {
-        "ko": "창원 39도, 부산 37도…오늘도 남쪽은 ‘극한 더위’ - 한겨레",
-        "en": "창원 39도, 부산 37도…오늘도 남쪽은 ‘극한 더위’ - 한겨레",
-        "zh": "창원 39도, 부산 37도…오늘도 남쪽은 ‘극한 더위’ - 한겨레"
-      }
-    },
-    {
-      "title": "일본 구마모토 강진에 폐기물 111만톤…평년 2년치 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260731113703ZSY",
-      "source": "연합뉴스TV",
-      "pubDate": "Fri, 31 Jul 2026 02:37:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260731/AKR20260731113703ZSY_01_i.jpg",
-      "summaries": {
-        "ko": "일본 구마모토 강진에 폐기물 111만톤…평년 2년치 - 연합뉴스TV",
-        "en": "일본 구마모토 강진에 폐기물 111만톤…평년 2년치 - 연합뉴스TV",
-        "zh": "일본 구마모토 강진에 폐기물 111만톤…평년 2년치 - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "[속보]코스피, 12% 급등에 매수사이드카…삼전·닉스 20% 폭등 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607310913011",
+      "title": "폭염에 올여름 온열질환자 1700명 넘어···추정 사망자도 13명 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202607311616001",
       "source": "경향신문",
-      "pubDate": "Fri, 31 Jul 2026 00:13:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/31/rcv.YNA.20260731.PYH2026073104620001300_P1.jpg",
+      "pubDate": "Fri, 31 Jul 2026 07:16:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/07/31/news-p.v1.20260731.8c4f949e0cf44e4daaa305bda2e761dd_P1.png",
       "summaries": {
-        "ko": "[속보]코스피, 12% 급등에 매수사이드카…삼전·닉스 20% 폭등 - 경향신문",
-        "en": "[속보]코스피, 12% 급등에 매수사이드카…삼전·닉스 20% 폭등 - 경향신문",
-        "zh": "[속보]코스피, 12% 급등에 매수사이드카…삼전·닉스 20% 폭등 - 경향신문"
+        "ko": "전국적인 폭염이 이어지는 가운데, 올여름 온열질환자가 1700명을 넘어 추정 사망자 13명을 기록했으며, 기록적인 폭염이 당분간 계속될 것으로 예보되어 피해 확대가 우려된다.",
+        "en": "As the nationwide heatwave continues, this summer's heat-related illnesses have surpassed 1,700 cases with 13 estimated deaths, and with record-breaking heat forecasted to persist for some time, there are concerns about further damage.",
+        "zh": "随着全国性酷暑持续，今年夏天中暑患者已超过1700人，估计死亡人数为13人，鉴于创纪录的酷暑预计将持续一段时间，人们担心损害会进一步扩大。"
+      }
+    },
+    {
+      "title": "모로코서 수천명 스페인 세우타 진입 '대혼란'…시신 9구 발견(종합) - v.daum.net",
+      "link": "https://v.daum.net/v/20260731085145578",
+      "source": "v.daum.net",
+      "pubDate": "Thu, 30 Jul 2026 23:51:45 GMT",
+      "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/31/yonhap/20260731085145493ycjy.jpg",
+      "summaries": {
+        "ko": "모로코에서 수천 명의 이주민이 스페인 자치도시 세우타로 대규모 진입을 시도하여 대혼란 속에 9구의 시신이 발견되었고, 스페인 정부는 국경 통제를 강화했다.",
+        "en": "Thousands of migrants from Morocco attempted a mass entry into the Spanish autonomous city of Ceuta, leading to chaos, the discovery of 9 bodies, and intensified border control by the Spanish government.",
+        "zh": "数千名摩洛哥移民大规模涌入西班牙自治城市休达，造成巨大混乱，9具尸体被发现，西班牙政府加强了边境管制。"
+      }
+    },
+    {
+      "title": "폭삭 주저앉은 집, 엿가락된 전선…일 폭염에 애태우는 ‘느린 구조’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1270771.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 30 Jul 2026 14:29:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2026/0730/20260730503639.webp",
+      "summaries": {
+        "ko": "일본 구마모토현에 규모 7.1 지진이 강타하여 주택과 시설물 다수가 파괴되고 8명 이상이 사망했으며, 폭염 속에서 구조 및 복구 작업이 더디게 진행되고 있다.",
+        "en": "A magnitude 7.1 earthquake struck Japan's Kumamoto Prefecture, destroying numerous homes and facilities, killing at least 8 people, and hindering rescue and recovery efforts amid scorching heat.",
+        "zh": "日本熊本县遭受7.1级地震袭击，导致大量房屋和设施被毁，至少8人死亡，且在酷热天气中，救援和恢复工作进展缓慢。"
+      }
+    },
+    {
+      "title": "이란 “요르단·쿠웨이트 공격, 미군 전투기 6대 손상”…미국 “거짓 주장” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1270891.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 31 Jul 2026 06:29:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/700/450/imgdb/original/2026/0731/20260731501720.webp",
+      "summaries": {
+        "ko": "이란이 요르단과 쿠웨이트 내 미군기지를 공격해 F-35 전투기 3대를 포함한 항공기 6대를 손상시켰다고 주장했으나, 미군은 이는 사실이 아닌 거짓 주장이라고 즉각 반박했다.",
+        "en": "Iran claimed to have attacked US military bases in Jordan and Kuwait, damaging six aircraft including three F-35 fighter jets, but the US military promptly refuted these assertions as false claims.",
+        "zh": "伊朗声称袭击了约旦和科威特的美国军事基地，造成包括三架F-35战斗机在内的六架飞机受损，但美军立即驳斥这些说法为“虚假主张”。"
+      }
+    },
+    {
+      "title": "국힘, ‘검사 보완수사권 폐지’에 “권한쟁의·헌법소원 낼 것” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1270894.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 31 Jul 2026 06:46:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/561/imgdb/original/2026/0731/20260731501762.webp",
+      "summaries": {
+        "ko": "국민의힘은 검사의 보완수사권을 완전 폐지하는 형사소송법 개정안이 국회 본회의에서 처리될 예정인 것에 대해 헌법재판소에 권한쟁의심판과 헌법소원심판을 청구하겠다고 밝혔다.",
+        "en": "The People Power Party announced it would file an inter-agency competence dispute and a constitutional petition with the Constitutional Court regarding the amendment to the Criminal Procedure Act, which completely abolishes prosecutors' supplementary investigation powers, set to be processed in the National Assembly plenary session.",
+        "zh": "国民力量党表示，对于将在国会全体会议上处理的完全废除检察官补充侦查权的《刑事诉讼法》修正案，将向宪法法院提起权限争议审判和宪法诉愿审判。"
+      }
+    },
+    {
+      "title": "‘이 대통령 명예훼손’ 모스 탄 출국정지 유지…법원, 취소 소송 각하·기각 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1270863.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 31 Jul 2026 04:40:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/650/390/imgdb/original/2026/0513/20260513502347.webp",
+      "summaries": {
+        "ko": "‘이 대통령 명예훼손’ 모스 탄 출국정지 유지…법원, 취소 소송 각하·기각 - 한겨레",
+        "en": "‘이 대통령 명예훼손’ 모스 탄 출국정지 유지…법원, 취소 소송 각하·기각 - 한겨레",
+        "zh": "‘이 대통령 명예훼손’ 모스 탄 출국정지 유지…법원, 취소 소송 각하·기각 - 한겨레"
       }
     },
     {
@@ -86,63 +98,51 @@
       }
     },
     {
-      "title": "한·칠레 비즈니스 라운드테이블…\"양국 간 상생협력모델 확산 기대\" - 대한민국 정책브리핑",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148969129",
-      "source": "대한민국 정책브리핑",
-      "pubDate": "Fri, 31 Jul 2026 01:01:45 GMT",
-      "image": "https://www.korea.kr/newsWeb/resources/attaches/2026.07/31/0a34f100293869ee223e51ff90d2da7a.jpg",
+      "title": "李대통령, 아르헨 도착...31일 밀레이 대통령과 정상회담 - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/07/31/RP5WIO2O7FCTVMHY4KAVVBTEDA/",
+      "source": "조선일보",
+      "pubDate": "Fri, 31 Jul 2026 03:41:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/I4MGPI4TLROSVLZISSKB5DJT3I.jpg?auth=bfd06e827a09ee7521ef68c04ea6eab4276d9f0224cad33618270c7cb33769ad&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "한·칠레 비즈니스 라운드테이블…\"양국 간 상생협력모델 확산 기대\" - 대한민국 정책브리핑",
-        "en": "한·칠레 비즈니스 라운드테이블…\"양국 간 상생협력모델 확산 기대\" - 대한민국 정책브리핑",
-        "zh": "한·칠레 비즈니스 라운드테이블…\"양국 간 상생협력모델 확산 기대\" - 대한민국 정책브리핑"
+        "ko": "李대통령, 아르헨 도착...31일 밀레이 대통령과 정상회담 - 조선일보",
+        "en": "李대통령, 아르헨 도착...31일 밀레이 대통령과 정상회담 - 조선일보",
+        "zh": "李대통령, 아르헨 도착...31일 밀레이 대통령과 정상회담 - 조선일보"
       }
     },
     {
-      "title": "김건희, 경호처에 \"대통령집무실 허전‥예산 없나\" 2차특검 진술 확보 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6841451_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Fri, 31 Jul 2026 01:09:16 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/31/hye_20260731_15.jpg",
-      "summaries": {
-        "ko": "김건희, 경호처에 \"대통령집무실 허전‥예산 없나\" 2차특검 진술 확보 - MBC 뉴스",
-        "en": "김건희, 경호처에 \"대통령집무실 허전‥예산 없나\" 2차특검 진술 확보 - MBC 뉴스",
-        "zh": "김건희, 경호처에 \"대통령집무실 허전‥예산 없나\" 2차특검 진술 확보 - MBC 뉴스"
-      }
-    },
-    {
-      "title": "'장윤기 사건' 형사과장 두번째 구속심사…기각 열흘만",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260731133941PgX",
+      "title": "[속보] 靑 \"국회, 본회의 의결로 특별감찰관 후보 추천시 신속 임명\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260731162717Af7",
       "source": "Breaking News",
-      "pubDate": "Fri, 31 Jul 2026 13:39:43 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260731/MYH20260731133941PgX.jpg",
+      "pubDate": "Fri, 31 Jul 2026 16:27:18 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260731/AKR20260731162717Af7_01_i.jpg",
       "summaries": {
-        "ko": "'장윤기 사건' 형사과장 두번째 구속심사…기각 열흘만",
-        "en": "'장윤기 사건' 형사과장 두번째 구속심사…기각 열흘만",
-        "zh": "'장윤기 사건' 형사과장 두번째 구속심사…기각 열흘만"
+        "ko": "[속보] 靑 \"국회, 본회의 의결로 특별감찰관 후보 추천시 신속 임명\"",
+        "en": "[속보] 靑 \"국회, 본회의 의결로 특별감찰관 후보 추천시 신속 임명\"",
+        "zh": "[속보] 靑 \"국회, 본회의 의결로 특별감찰관 후보 추천시 신속 임명\""
       }
     },
     {
-      "title": "[속보] 경남 양산 40.7도…올해 최고 기온 또 경신",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260731133859Udh",
+      "title": "[속보] 국회 '보완수사권 폐지'필리버스터 종결 표결",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260731162634zKc",
       "source": "Breaking News",
-      "pubDate": "Fri, 31 Jul 2026 13:39:00 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260731/MYH20260731133859Udh.jpg",
+      "pubDate": "Fri, 31 Jul 2026 16:26:35 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260731/MYH20260731162634zKc.jpg",
       "summaries": {
-        "ko": "[속보] 경남 양산 40.7도…올해 최고 기온 또 경신",
-        "en": "[속보] 경남 양산 40.7도…올해 최고 기온 또 경신",
-        "zh": "[속보] 경남 양산 40.7도…올해 최고 기온 또 경신"
+        "ko": "[속보] 국회 '보완수사권 폐지'필리버스터 종결 표결",
+        "en": "[속보] 국회 '보완수사권 폐지'필리버스터 종결 표결",
+        "zh": "[속보] 국회 '보완수사권 폐지'필리버스터 종결 표결"
       }
     },
     {
-      "title": "[속보] 경남 양산 41도...기상 관측 이래 최고 폭염",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202607311335023JB",
+      "title": "[속보] 국회, '보완수사권 폐지' 필리버스터 종결 표결 개시",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260731161218U0H",
       "source": "Breaking News",
-      "pubDate": "Fri, 31 Jul 2026 13:35:04 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260731/MYH202607311335023JB.jpg",
+      "pubDate": "Fri, 31 Jul 2026 16:12:19 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260731/AKR20260731161218U0H_01_i.jpg",
       "summaries": {
-        "ko": "[속보] 경남 양산 41도...기상 관측 이래 최고 폭염",
-        "en": "[속보] 경남 양산 41도...기상 관측 이래 최고 폭염",
-        "zh": "[속보] 경남 양산 41도...기상 관측 이래 최고 폭염"
+        "ko": "[속보] 국회, '보완수사권 폐지' 필리버스터 종결 표결 개시",
+        "en": "[속보] 국회, '보완수사권 폐지' 필리버스터 종결 표결 개시",
+        "zh": "[속보] 국회, '보완수사권 폐지' 필리버스터 종결 표결 개시"
       }
     }
   ]
