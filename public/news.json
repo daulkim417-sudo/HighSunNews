@@ -1,16 +1,64 @@
 {
-  "lastUpdate": "2026-07-31T12:10:53.374286",
+  "lastUpdate": "2026-07-31T14:31:36.908197",
   "items": [
     {
-      "title": "70여년 사법체계 전면 전환…1년 진통 속 수사·기소 분리 마무리 - 한겨레",
+      "title": "검사 수사권 완전 폐지, 70여년 사법체계 전면 전환…‘국민적 동의 부족’ 우려도 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1270931.html",
       "source": "한겨레",
-      "pubDate": "Fri, 31 Jul 2026 10:41:00 GMT",
+      "pubDate": "Fri, 31 Jul 2026 13:08:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/800/486/imgdb/original/2026/0731/20260731502317.webp",
       "summaries": {
-        "ko": "국회는 여당 주도로 검사의 직접 및 보완 수사권을 전면 폐지하여 70여 년간 이어져 온 사법체계를 10월 2일부터 중대범죄수사청과 공소청 출범과 함께 전환하는 형사소송법 개정안을 통과시켰다.",
-        "en": "The National Assembly, led by the ruling party, passed an amendment to the Criminal Procedure Act that completely abolishes prosecutors' direct and supplementary investigation powers, thereby transforming the 70-year-old judicial system with the launch of the Serious Crime Investigation Agency and Public Prosecution Office on October 2nd.",
-        "zh": "韩国国会通过了一项由执政党主导的刑事诉讼法修正案，该修正案全面废除了检察官的直接侦查和补充侦查权，标志着长达70余年的司法体系将从10月2日起，随着重大犯罪侦查厅和公诉厅的成立而彻底转型。"
+        "ko": "국회는 검찰의 직접 수사권 및 보완수사권을 전면 폐지하고 중수청과 공소청 출범을 통해 70여 년간 이어진 형사사법체계를 전면 전환하는 형사소송법 개정안을 31일 가결했다.",
+        "en": "South Korea's National Assembly passed a criminal procedure law amendment on July 31st, completely abolishing prosecutors' direct investigative and supplementary investigation powers and overhauling the 70-year-old criminal justice system with the establishment of new investigative and prosecutorial agencies.",
+        "zh": "韩国国会于7月31日通过了《刑事诉讼法》修正案，全面废除了检察官的直接侦查权和补充侦查权，并通过设立新的侦查和公诉机构，彻底改革了长达70年的刑事司法体系。"
+      }
+    },
+    {
+      "title": "극한 폭염에 닷새간 7명 숨져…숨은 사망자는 더 많다 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/area_general/1270890.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 31 Jul 2026 09:15:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/404/imgdb/original/2026/0731/20260731501712.webp",
+      "summaries": {
+        "ko": "극심한 폭염으로 인해 공식 집계보다 훨씬 많은 인명피해가 발생하고 있으며, 이는 통계의 사각지대 때문으로, 정부의 예방 대책 강화가 시급하다.",
+        "en": "Amidst extreme heat, far more heat-related deaths are occurring than officially reported due to statistical blind spots, urgently necessitating stronger preventative measures from the government.",
+        "zh": "由于统计盲点，极端高温造成的死亡人数远超官方报告，政府急需加强预防措施以避免可预防的死亡。"
+      }
+    },
+    {
+      "title": "구마모토 지진 구조 거의 완료... 남은 큰 문제는 ‘물’ - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/07/31/XU2FPVE64FDQ7JX7RFUDL3JKAA/",
+      "source": "조선일보",
+      "pubDate": "Fri, 31 Jul 2026 08:18:27 GMT",
+      "image": "https://www.chosun.com/resizer/v2/HAYDEMRUGVSTONBSG42DGODGGM.jpg?auth=0442be0f08b1ed5a604bbba41e55c124f25e6d461cbd80c0cf6585549c384d91&width=600&height=315&smart=true",
+      "summaries": {
+        "ko": "구마모토 지진 구조 거의 완료... 남은 큰 문제는 ‘물’ - 조선일보",
+        "en": "구마모토 지진 구조 거의 완료... 남은 큰 문제는 ‘물’ - 조선일보",
+        "zh": "구마모토 지진 구조 거의 완료... 남은 큰 문제는 ‘물’ - 조선일보"
+      }
+    },
+    {
+      "title": "軍, GP·GOP 경계부대에 '공용화기 실탄 장착하고 경계작전' 명령 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6841516_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Fri, 31 Jul 2026 05:45:39 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/07/31/jhp_20260731_7.jpg",
+      "summaries": {
+        "ko": "군 당국이 최전방 GP·GOP 경계부대의 공용화기 실탄 미장착 논란 후, 전방 경계작전 부대에 공용화기 실탄을 장착한 상태로 경계작전을 수행하라고 지시했다.",
+        "en": "Following controversy over some front-line GP/GOP units not loading live ammunition into common weapons, South Korean military authorities have ordered these units to operate with live ammunition loaded during border security operations.",
+        "zh": "针对前线GP/GOP警戒部队在通用武器中未装填实弹的争议，韩国军方已下令要求前线警戒部队在执行边境警戒任务时必须保持通用武器实弹装填状态。"
+      }
+    },
+    {
+      "title": "10년 만에 특별감찰관 나오나…이 대통령 요청 1년 만에 후보 추천 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1270909.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 31 Jul 2026 08:06:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/505/imgdb/original/2026/0731/20260731502026.webp",
+      "summaries": {
+        "ko": "더불어민주당은 약 10년간 공석이었던 특별감찰관 후보로 검사 출신 최길수 변호사를 추천했으며, 이는 이재명 대통령이 1년 전 임명을 요청한 것에 대한 화답이다.",
+        "en": "The Democratic Party has recommended former prosecutor Choi Gil-soo as a candidate for the Special Inspector General, a position vacant for approximately 10 years, responding to President Lee Jae-myung's request made about a year ago.",
+        "zh": "民主党推荐前检察官崔吉洙为特别监察官候选人，该职位已空缺约10年，此举是对李在明总统约一年前提出的任命请求的回应。"
       }
     },
     {
@@ -26,123 +74,51 @@
       }
     },
     {
-      "title": "민주당 특별감찰관 후보로 최길수 변호사 추천 - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/07/31/BQQF6MOEUVGSLOAISSADUAHDPE/",
-      "source": "조선일보",
-      "pubDate": "Fri, 31 Jul 2026 07:36:10 GMT",
-      "image": "https://www.chosun.com/resizer/v2/BWCVPSVEI5HGXCN4TTM5MDPILU.jpg?auth=d2a42817c9d8d9c024f3223db3696f8bf8b668e4ffb1dd11201bec1b17316a27&width=1200&height=630&focal=1423,1095",
-      "summaries": {
-        "ko": "민주당 특별감찰관 후보로 최길수 변호사 추천 - 조선일보",
-        "en": "민주당 특별감찰관 후보로 최길수 변호사 추천 - 조선일보",
-        "zh": "민주당 특별감찰관 후보로 최길수 변호사 추천 - 조선일보"
-      }
-    },
-    {
-      "title": "구마모토 강진 사망자 35명으로 늘어…폭염에 열사병 환자 속출 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260731161300073",
-      "source": "연합뉴스",
-      "pubDate": "Fri, 31 Jul 2026 09:47:32 GMT",
-      "image": "https://img3.yna.co.kr/etc/inner/KR/2026/07/31/AKR20260731161300073_01_i_P4.jpg",
-      "summaries": {
-        "ko": "일본 구마모토 강진으로 사망자가 35명으로 늘고 폭염 속 열사병 환자가 속출하는 가운데, 단수·정전·여진 등으로 주민들이 어려움을 겪고 있으며 주요 산업 공장의 조업 중단이 연장되고 있다.",
-        "en": "As the death toll from the strong Kumamoto earthquake reached 35 and heatstroke patients surged amid a heatwave, residents continue to suffer from water and power outages, aftershocks, and extended shutdowns of major industrial factories.",
-        "zh": "日本熊本地震死亡人数增至35人，高温下中暑患者频发，当地居民正遭受停水、停电、余震等困扰，主要工业工厂的停产时间也已延长。"
-      }
-    },
-    {
-      "title": "[맞수다] 민주 전대 첫 순회경선 충청 결과는?‥\"정청래, 압도적 득표 못할 것\", \"이미 반명의 길\" - v.daum.net",
-      "link": "https://v.daum.net/v/20260731152100080",
-      "source": "v.daum.net",
-      "pubDate": "Fri, 31 Jul 2026 06:21:00 GMT",
-      "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/31/imbc/20260731152101414xmil.jpg",
-      "summaries": {
-        "ko": "국회는 검사의 모든 직접 수사권을 폐지하고 수사-기소 완전 분리를 골자로 하는 형사소송법 개정안의 본회의 표결을 앞두고 있으며, 국민의힘은 필리버스터로 반대하고 민주당은 강제 종료 후 법안 처리를 예고하며 여야 간 대립이 심화되고 있다.",
-        "en": "The National Assembly is set to vote on a revision to the Criminal Procedure Act, which would abolish all direct investigative powers of prosecutors and fully separate investigation and prosecution, leading to intense confrontation as the People Power Party opposes with a filibuster and the Democratic Party plans to force its termination and pass the bill.",
-        "zh": "韩国国会即将对旨在废除检察官所有直接侦查权并完全分离侦查与起诉的《刑事诉讼法》修正案进行全体会议投票，国民力量党通过冗长辩论表示反对，而共同民主党则计划强制结束辩论并处理该法案，朝野对立加剧。"
-      }
-    },
-    {
-      "title": "이란 “미군 기지 습격해 전투기 6대 타격”…미 “거짓 주장, 피해 없어” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1270891.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 31 Jul 2026 09:15:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/700/450/imgdb/original/2026/0731/20260731501720.webp",
-      "summaries": {
-        "ko": "이란은 요르단과 쿠웨이트의 미군 기지를 공격해 F-35 전투기 6대 등 항공기와 시설을 파괴했다고 주장했으나, 미군은 이를 거짓 주장으로 일축하며 어떠한 피해도 없었고 모든 미사일과 드론이 요격되거나 목표 도달에 실패했다고 반박했다.",
-        "en": "Iran claimed to have attacked US military bases in Jordan and Kuwait, destroying 6 F-35 fighter jets and other facilities, but the US dismissed these claims as false, stating that no damage occurred and all missiles and drones were intercepted or failed to reach their targets.",
-        "zh": "伊朗声称袭击了约旦和科威特的美国军事基地，摧毁了包括6架F-35战斗机在内的飞机和设施，但美国驳斥这些说法为谎言，并表示没有发生任何损失，所有导弹和无人机均已被拦截或未能命中目标。"
-      }
-    },
-    {
-      "title": "[단독] ’아동 성범죄’ 최영중 계좌도 본다…“여죄 파악 속도“ - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260731151823Wkq",
-      "source": "연합뉴스TV",
-      "pubDate": "Fri, 31 Jul 2026 06:18:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260731/AKR20260731151823Wkq_01_i.jpg",
-      "summaries": {
-        "ko": "아동 성범죄 혐의로 수사 중인 최영중 전 청주시의원의 금융 거래 내역이 경찰에 의해 확보되어 여죄 파악에 속도가 붙을 전망이다.",
-        "en": "Police have obtained the financial transaction records of former Cheongju city councilor Choi Young-jung, who is under investigation for child sexual offenses, to accelerate the identification of additional crimes.",
-        "zh": "警方已获取涉嫌儿童性犯罪的前清州市议员崔英中的金融交易记录，预计将加速查明其他罪行。"
-      }
-    },
-    {
       "title": "[속보]김용범 ‘경질’ 56.3%…李 ‘부정’ 53.6%-리서치웰 - 문화일보",
       "link": "https://www.munhwa.com/article/11606467",
       "source": "문화일보",
       "pubDate": "Fri, 31 Jul 2026 08:59:25 GMT",
       "image": "https://wimg.munhwa.com/news/cms/2026/07/31/news-a.v1.20260731.3a0064dd41534c17bfca514d4e7ef41d_T1.png",
       "summaries": {
-        "ko": "여론조사 결과, 최근 증시 변동성을 극단적으로 높인 단일종목 레버리지 ETF 출시를 주도한 김용범 청와대 정책실장을 경질해야 한다는 입장이 56.3%에 달하는 것으로 나타났다.",
-        "en": "A recent poll found that 56.3% of respondents believe Presidential Policy Chief Kim Yong-beom should be dismissed for spearheading the introduction of single-stock leveraged ETFs that have drastically increased market volatility.",
-        "zh": "一项民意调查显示，56.3%的受访者认为应罢免青瓦台政策室长金容范，因其主导推出的单一股票杠杆ETF导致近期股市波动性急剧增加。"
+        "ko": "[속보]김용범 ‘경질’ 56.3%…李 ‘부정’ 53.6%-리서치웰 - 문화일보",
+        "en": "[속보]김용범 ‘경질’ 56.3%…李 ‘부정’ 53.6%-리서치웰 - 문화일보",
+        "zh": "[속보]김용범 ‘경질’ 56.3%…李 ‘부정’ 53.6%-리서치웰 - 문화일보"
       }
     },
     {
-      "title": "[단독]민주당 반대했던 ‘52시간 예외’ 살리고 기간제 연장까지···반도체 메가특구 ‘노동 실험장’ 되나 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202607310600031",
-      "source": "경향신문",
-      "pubDate": "Thu, 30 Jul 2026 21:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/07/31/news-p.v1.20260730.7c73f7b2cf8445228c3867ffb85be576_P1.jpg",
+      "title": "김민석 “‘1차전’ 열세여도 결국 이길 것”…정청래 “추세가 대세 될 것” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/assembly/1270920.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 31 Jul 2026 11:09:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/399/imgdb/original/2026/0731/20260731502184.webp",
       "summaries": {
-        "ko": "[단독]민주당 반대했던 ‘52시간 예외’ 살리고 기간제 연장까지···반도체 메가특구 ‘노동 실험장’ 되나 - 경향신문",
-        "en": "[단독]민주당 반대했던 ‘52시간 예외’ 살리고 기간제 연장까지···반도체 메가특구 ‘노동 실험장’ 되나 - 경향신문",
-        "zh": "[단독]민주당 반대했던 ‘52시간 예외’ 살리고 기간제 연장까지···반도체 메가특구 ‘노동 실험장’ 되나 - 경향신문"
+        "ko": "김민석 “‘1차전’ 열세여도 결국 이길 것”…정청래 “추세가 대세 될 것” - 한겨레",
+        "en": "김민석 “‘1차전’ 열세여도 결국 이길 것”…정청래 “추세가 대세 될 것” - 한겨레",
+        "zh": "김민석 “‘1차전’ 열세여도 결국 이길 것”…정청래 “추세가 대세 될 것” - 한겨레"
       }
     },
     {
-      "title": "뉴욕발 훈풍에 삼전닉스 20%대 폭등… 코스피 6500선 돌파하면 급반등 - 주간동아",
-      "link": "https://weekly.donga.com/List/article/all/11/6328846/1",
-      "source": "주간동아",
-      "pubDate": "Fri, 31 Jul 2026 01:24:12 GMT",
-      "image": "https://dimg.donga.com/ugc/CDB/WEEKLY/Article/6a/6b/f9/78/6a6bf97806f6a0a0a0a.jpg",
+      "title": "“폭염보다 뜨거운 투지로”…특전사 해상침투훈련 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8625733",
+      "source": "KBS 뉴스",
+      "pubDate": "Fri, 31 Jul 2026 12:36:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/07/31/20260731_4gFdYv.png",
       "summaries": {
-        "ko": "뉴욕발 훈풍에 삼전닉스 20%대 폭등… 코스피 6500선 돌파하면 급반등 - 주간동아",
-        "en": "뉴욕발 훈풍에 삼전닉스 20%대 폭등… 코스피 6500선 돌파하면 급반등 - 주간동아",
-        "zh": "뉴욕발 훈풍에 삼전닉스 20%대 폭등… 코스피 6500선 돌파하면 급반등 - 주간동아"
+        "ko": "“폭염보다 뜨거운 투지로”…특전사 해상침투훈련 - KBS 뉴스",
+        "en": "“폭염보다 뜨거운 투지로”…특전사 해상침투훈련 - KBS 뉴스",
+        "zh": "“폭염보다 뜨거운 투지로”…특전사 해상침투훈련 - KBS 뉴스"
       }
     },
     {
-      "title": "종합특검 \"박성재 청탁금지법 위반, 이첩 대상 아냐\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260731210243FF4",
-      "source": "Breaking News",
-      "pubDate": "Fri, 31 Jul 2026 21:02:44 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260731/MYH20260731210243FF4.jpg",
+      "title": "인천 전세사기 '건축왕' 추가 재판 항소심 징역 15년 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6841579_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Fri, 31 Jul 2026 09:00:26 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/07/31/lyj_260731_9.jpg",
       "summaries": {
-        "ko": "종합특검 \"박성재 청탁금지법 위반, 이첩 대상 아냐\"",
-        "en": "종합특검 \"박성재 청탁금지법 위반, 이첩 대상 아냐\"",
-        "zh": "종합특검 \"박성재 청탁금지법 위반, 이첩 대상 아냐\""
-      }
-    },
-    {
-      "title": "[속보] '장윤기 사건' 형사과장 영장 또 기각",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260731205824GAp",
-      "source": "Breaking News",
-      "pubDate": "Fri, 31 Jul 2026 20:58:24 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260731/MYH20260731205824GAp.jpg",
-      "summaries": {
-        "ko": "[속보] '장윤기 사건' 형사과장 영장 또 기각",
-        "en": "[속보] '장윤기 사건' 형사과장 영장 또 기각",
-        "zh": "[속보] '장윤기 사건' 형사과장 영장 또 기각"
+        "ko": "인천 전세사기 '건축왕' 추가 재판 항소심 징역 15년 - MBC 뉴스",
+        "en": "인천 전세사기 '건축왕' 추가 재판 항소심 징역 15년 - MBC 뉴스",
+        "zh": "인천 전세사기 '건축왕' 추가 재판 항소심 징역 15년 - MBC 뉴스"
       }
     }
   ]
