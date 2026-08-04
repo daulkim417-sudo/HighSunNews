@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-08-04T15:41:55.276223",
+  "lastUpdate": "2026-08-04T17:21:56.309654",
   "items": [
-    {
-      "title": "검사 수사권 72년 만에 사라져…형소법 개정안 핵심 3가지 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1271338.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 04 Aug 2026 11:21:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/738/imgdb/original/2026/0804/20260804502543.webp",
-      "summaries": {
-        "ko": "형사소송법 개정안이 10월 2일 시행되면서 72년 만에 검사의 직접 수사권이 사라지고, 검사는 기소 전담으로 전환되며 수사는 경찰과 신설 중대범죄수사청이 담당하게 되어 형사제도에 큰 변화가 예상된다.",
-        "en": "Effective October 2nd, an amendment to the Criminal Procedure Act will abolish prosecutors' direct investigative powers after 72 years, fundamentally transforming the criminal justice system by having prosecutors focus solely on indictments while investigations are handled by the police and the newly established Serious Crimes Investigation Office.",
-        "zh": "刑诉法修正案将于10月2日生效，届时检察官的直接侦查权将在72年后被废除，刑事司法系统将发生重大变革，检察官将专注于起诉，而侦查工作将由警方和新成立的重大犯罪侦查厅负责。"
-      }
-    },
     {
       "title": "“폭염 강도, 여기서 더 심해질 듯”…내일 중대경보 인천·안산·김포까지 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/environment/1271343.html",
@@ -20,69 +8,81 @@
       "pubDate": "Tue, 04 Aug 2026 12:14:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/639/imgdb/original/2026/0804/20260804502628.webp",
       "summaries": {
-        "ko": "“폭염 강도, 여기서 더 심해질 듯”…내일 중대경보 인천·안산·김포까지 - 한겨레",
-        "en": "“폭염 강도, 여기서 더 심해질 듯”…내일 중대경보 인천·안산·김포까지 - 한겨레",
-        "zh": "“폭염 강도, 여기서 더 심해질 듯”…내일 중대경보 인천·안산·김포까지 - 한겨레"
+        "ko": "서울 등 수도권과 전남·전북에 '폭염중대경보'가 발효된 가운데, 내일 인천·안산·김포까지 중대경보가 확대되며 폭염 강도가 점차 심화할 전망이다.",
+        "en": "With an 'extreme heat warning' already issued for Seoul and parts of the metropolitan area, Jeonnam, and Jeonbuk, it is expected to expand to Incheon, Ansan, and Gimpo tomorrow, and the intensity of the heatwave is projected to gradually worsen.",
+        "zh": "随着首尔、首都圈部分地区以及全罗南道、全罗北道发布“酷暑严重警报”，预计明天该警报将进一步扩大至仁川、安山和金浦，酷暑强度将逐渐加剧。"
       }
     },
     {
-      "title": "부동산 여론 심상치않자…이 대통령, 세제 이어 공급 속도전 - 한겨레",
+      "title": "부동산 여론 심상치 않자…이 대통령 “주택 공급 최대한 빨리, 많이” 지시 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/bluehouse/1271414.html",
       "source": "한겨레",
-      "pubDate": "Tue, 04 Aug 2026 14:21:00 GMT",
+      "pubDate": "Tue, 04 Aug 2026 15:44:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0804/53_17858528004661_8317858509039696.webp",
       "summaries": {
-        "ko": "부동산 여론 심상치않자…이 대통령, 세제 이어 공급 속도전 - 한겨레",
-        "en": "부동산 여론 심상치않자…이 대통령, 세제 이어 공급 속도전 - 한겨레",
-        "zh": "부동산 여론 심상치않자…이 대통령, 세제 이어 공급 속도전 - 한겨레"
+        "ko": "부동산 여론 심상치 않자…이 대통령 “주택 공급 최대한 빨리, 많이” 지시 - 한겨레",
+        "en": "부동산 여론 심상치 않자…이 대통령 “주택 공급 최대한 빨리, 많이” 지시 - 한겨레",
+        "zh": "부동산 여론 심상치 않자…이 대통령 “주택 공급 최대한 빨리, 많이” 지시 - 한겨레"
       }
     },
     {
-      "title": "\"이란·오만, 호르무즈 통항 협상 타결 근접… 서비스료 부과\" - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/08/04/YEXDZ4JQW5H5NDL6A5SAPEM3QA/",
+      "title": "‘연임 개헌’ 언급 안 한 이 대통령…“직접 정리” 목소리 여전 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608042130005",
+      "source": "경향신문",
+      "pubDate": "Tue, 04 Aug 2026 12:30:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/04/l_2026080501000093200011451.jpg",
+      "summaries": {
+        "ko": "‘연임 개헌’ 언급 안 한 이 대통령…“직접 정리” 목소리 여전 - 경향신문",
+        "en": "‘연임 개헌’ 언급 안 한 이 대통령…“직접 정리” 목소리 여전 - 경향신문",
+        "zh": "‘연임 개헌’ 언급 안 한 이 대통령…“직접 정리” 목소리 여전 - 경향신문"
+      }
+    },
+    {
+      "title": "‘우선 채용’ ‘급여 보장’…중수청이 내놓은 검사 유인책 통할까? - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1271421.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 04 Aug 2026 13:56:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/722/482/imgdb/original/2026/0804/20260804503269.webp",
+      "summaries": {
+        "ko": "‘우선 채용’ ‘급여 보장’…중수청이 내놓은 검사 유인책 통할까? - 한겨레",
+        "en": "‘우선 채용’ ‘급여 보장’…중수청이 내놓은 검사 유인책 통할까? - 한겨레",
+        "zh": "‘우선 채용’ ‘급여 보장’…중수청이 내놓은 검사 유인책 통할까? - 한겨레"
+      }
+    },
+    {
+      "title": "서범수 \"돌려차기 한번 하죠\"... 피해자 불러놓고 선넘은 농담 - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/08/04/YETPSUBU3BHCXIKQ4XWSGVJQS4/",
       "source": "조선일보",
-      "pubDate": "Tue, 04 Aug 2026 07:58:13 GMT",
-      "image": "https://www.chosun.com/resizer/v2/HHDGJ64ZMZNDJMQKBJ65SUSZQU.jpg?auth=130fdcdcdd21689ab5e48a824560a754f1eba2a1d4df05b991118780603efc46&width=1200&height=630&smart=true",
+      "pubDate": "Tue, 04 Aug 2026 12:25:01 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MQ2DKZLCMYZWINLEMQ2TEOBYMY.jpg?auth=302a15eecb3c24b8f5d4d0371c0fbc3d479d57629412027a8ad4588b373eed22&width=1200&height=630&focal=3090,1740",
       "summaries": {
-        "ko": "\"이란·오만, 호르무즈 통항 협상 타결 근접… 서비스료 부과\" - 조선일보",
-        "en": "\"이란·오만, 호르무즈 통항 협상 타결 근접… 서비스료 부과\" - 조선일보",
-        "zh": "\"이란·오만, 호르무즈 통항 협상 타결 근접… 서비스료 부과\" - 조선일보"
+        "ko": "서범수 \"돌려차기 한번 하죠\"... 피해자 불러놓고 선넘은 농담 - 조선일보",
+        "en": "서범수 \"돌려차기 한번 하죠\"... 피해자 불러놓고 선넘은 농담 - 조선일보",
+        "zh": "서범수 \"돌려차기 한번 하죠\"... 피해자 불러놓고 선넘은 농담 - 조선일보"
       }
     },
     {
-      "title": "이 대통령, 연임 개헌 논란에 일단 ‘침묵’…여권서도 “직접 정리해야” 우려 - v.daum.net",
-      "link": "https://v.daum.net/v/20260804160040545",
-      "source": "v.daum.net",
-      "pubDate": "Tue, 04 Aug 2026 07:00:40 GMT",
-      "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/04/khan/20260804160042014ejyc.jpg",
+      "title": "‘이흥구 대법관 후임’ 후보자 4명 압축…노태악 후임도 관건 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1271411.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 04 Aug 2026 13:13:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/266/imgdb/original/2026/0804/20260804503196.webp",
       "summaries": {
-        "ko": "이 대통령, 연임 개헌 논란에 일단 ‘침묵’…여권서도 “직접 정리해야” 우려 - v.daum.net",
-        "en": "이 대통령, 연임 개헌 논란에 일단 ‘침묵’…여권서도 “직접 정리해야” 우려 - v.daum.net",
-        "zh": "이 대통령, 연임 개헌 논란에 일단 ‘침묵’…여권서도 “직접 정리해야” 우려 - v.daum.net"
+        "ko": "‘이흥구 대법관 후임’ 후보자 4명 압축…노태악 후임도 관건 - 한겨레",
+        "en": "‘이흥구 대법관 후임’ 후보자 4명 압축…노태악 후임도 관건 - 한겨레",
+        "zh": "‘이흥구 대법관 후임’ 후보자 4명 압축…노태악 후임도 관건 - 한겨레"
       }
     },
     {
-      "title": "온열질환자 하루 186명 올들어 최다…누적 사망 19명 - KBC광주방송",
-      "link": "https://news.ikbc.co.kr/article/view/kbc202608040072",
-      "source": "KBC광주방송",
-      "pubDate": "Tue, 04 Aug 2026 12:18:06 GMT",
-      "image": "https://www.ikbc.co.kr/data/kbc/image/2026/08/04/kbc202608040133.jpg",
+      "title": "‘검찰 수사권 폐지’ 형소법 개정안 국무회의 통과 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1271294.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 04 Aug 2026 07:51:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/579/imgdb/original/2026/0804/1017858161037009.webp",
       "summaries": {
-        "ko": "온열질환자 하루 186명 올들어 최다…누적 사망 19명 - KBC광주방송",
-        "en": "온열질환자 하루 186명 올들어 최다…누적 사망 19명 - KBC광주방송",
-        "zh": "온열질환자 하루 186명 올들어 최다…누적 사망 19명 - KBC광주방송"
-      }
-    },
-    {
-      "title": "\"부동산으로 100억 벌어도 세금 몇 억\"… 이 대통령 \"근로소득과 형평 안 맞아\" - 한국일보",
-      "link": "https://www.hankookilbo.com/news/article/A2026080410440000260",
-      "source": "한국일보",
-      "pubDate": "Tue, 04 Aug 2026 01:53:00 GMT",
-      "image": "https://newsimg.hankookilbo.com/2026/08/04/5fbd24c8-e1ad-4f8a-b8eb-a696eb744d02.jpg",
-      "summaries": {
-        "ko": "\"부동산으로 100억 벌어도 세금 몇 억\"… 이 대통령 \"근로소득과 형평 안 맞아\" - 한국일보",
-        "en": "\"부동산으로 100억 벌어도 세금 몇 억\"… 이 대통령 \"근로소득과 형평 안 맞아\" - 한국일보",
-        "zh": "\"부동산으로 100억 벌어도 세금 몇 억\"… 이 대통령 \"근로소득과 형평 안 맞아\" - 한국일보"
+        "ko": "‘검찰 수사권 폐지’ 형소법 개정안 국무회의 통과 - 한겨레",
+        "en": "‘검찰 수사권 폐지’ 형소법 개정안 국무회의 통과 - 한겨레",
+        "zh": "‘검찰 수사권 폐지’ 형소법 개정안 국무회의 통과 - 한겨레"
       }
     },
     {
@@ -98,27 +98,27 @@
       }
     },
     {
-      "title": "이흥구 대법관 후임 후보에 김문관·김성수·김예영·김정중 - 조선일보",
-      "link": "https://www.chosun.com/national/court_law/2026/08/04/OP27DRZAXFA3HJKYB3VJCQO5X4/",
-      "source": "조선일보",
-      "pubDate": "Tue, 04 Aug 2026 10:06:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GUZTGMBRMJTGENJQMY3GEZJRGM.jpg?auth=763cdef68183e7a7228f9c337b578b57a9b91b185f1a6055e724c240fcec5080&width=1200&height=630&smart=true",
+      "title": "수원서 아파트 2,500여 세대 정전…폭염에 수도권 곳곳 전기 끊겨 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8628641",
+      "source": "KBS 뉴스",
+      "pubDate": "Tue, 04 Aug 2026 13:53:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/08/04/20260804_AYxYcM.jpg",
       "summaries": {
-        "ko": "이흥구 대법관 후임 후보에 김문관·김성수·김예영·김정중 - 조선일보",
-        "en": "이흥구 대법관 후임 후보에 김문관·김성수·김예영·김정중 - 조선일보",
-        "zh": "이흥구 대법관 후임 후보에 김문관·김성수·김예영·김정중 - 조선일보"
+        "ko": "수원서 아파트 2,500여 세대 정전…폭염에 수도권 곳곳 전기 끊겨 - KBS 뉴스",
+        "en": "수원서 아파트 2,500여 세대 정전…폭염에 수도권 곳곳 전기 끊겨 - KBS 뉴스",
+        "zh": "수원서 아파트 2,500여 세대 정전…폭염에 수도권 곳곳 전기 끊겨 - KBS 뉴스"
       }
     },
     {
-      "title": "국방부, '통합 사관학교 의견수렴' 공청회 26일 개최",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260805004006tcn",
-      "source": "Breaking News",
-      "pubDate": "Wed, 05 Aug 2026 00:40:07 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260804/MYH20260805004006tcn.jpg",
+      "title": "베선트 “호르무즈 해협 합의 오늘이나 내일 나올 가능성”···카타르 등 중재 계속 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608042148001",
+      "source": "경향신문",
+      "pubDate": "Tue, 04 Aug 2026 12:48:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/04/rcv.YNA.20260804.PAF20260804075001009_P1.jpg",
       "summaries": {
-        "ko": "국방부, '통합 사관학교 의견수렴' 공청회 26일 개최",
-        "en": "국방부, '통합 사관학교 의견수렴' 공청회 26일 개최",
-        "zh": "국방부, '통합 사관학교 의견수렴' 공청회 26일 개최"
+        "ko": "베선트 “호르무즈 해협 합의 오늘이나 내일 나올 가능성”···카타르 등 중재 계속 - 경향신문",
+        "en": "베선트 “호르무즈 해협 합의 오늘이나 내일 나올 가능성”···카타르 등 중재 계속 - 경향신문",
+        "zh": "베선트 “호르무즈 해협 합의 오늘이나 내일 나올 가능성”···카타르 등 중재 계속 - 경향신문"
       }
     }
   ]
