@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-08-04T11:49:39.817729",
+  "lastUpdate": "2026-08-04T13:26:33.183559",
   "items": [
-    {
-      "title": "\"이란·오만, 호르무즈 통항 협상 타결 근접…서비스료 부과\" - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/08/04/YEXDZ4JQW5H5NDL6A5SAPEM3QA/",
-      "source": "조선일보",
-      "pubDate": "Tue, 04 Aug 2026 07:53:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/HHDGJ64ZMZNDJMQKBJ65SUSZQU.jpg?auth=130fdcdcdd21689ab5e48a824560a754f1eba2a1d4df05b991118780603efc46&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "\"이란·오만, 호르무즈 통항 협상 타결 근접…서비스료 부과\" - 조선일보",
-        "en": "\"이란·오만, 호르무즈 통항 협상 타결 근접…서비스료 부과\" - 조선일보",
-        "zh": "\"이란·오만, 호르무즈 통항 협상 타결 근접…서비스료 부과\" - 조선일보"
-      }
-    },
     {
       "title": "“폭염 강도, 여기서 더 심해질 듯”…내일 중대경보 인천·안산·김포까지 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/environment/1271343.html",
@@ -20,21 +8,45 @@
       "pubDate": "Tue, 04 Aug 2026 11:13:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/639/imgdb/original/2026/0804/20260804502628.webp",
       "summaries": {
-        "ko": "대한민국에 폭염중대경보가 발효되며 39도 안팎의 기온으로 폭염이 심화되고 있으며, 8월 5일부터 인천과 안산 등으로 중대경보가 확대될 예정인 가운데 열대야와 폭염일수가 기록을 경신하고 있다.",
-        "en": "South Korea is experiencing an intensifying extreme heatwave, with temperatures around 39°C and the 'Severe Heatwave Alert' expanding to Incheon and Ansan from August 5th, as accumulated heat leads to record-breaking tropical nights and heatwave days.",
-        "zh": "韩国正经历极端高温的加剧，气温徘徊在39°C左右，从8月5日起，仁川和安山等地将发布更严重的“高温严重预警”，累积的热量导致热带夜和高温天数持续刷新纪录。"
+        "ko": "폭염중대경보가 내려진 수도권과 서쪽 지역을 중심으로 39도 안팎의 극한 폭염이 이어지는 가운데, 내일(5일) 인천·안산·김포 등으로 확대될 예정이며 당분간 폭염 강도는 더욱 심해질 전망이다.",
+        "en": "As extreme heat, with temperatures around 39 degrees Celsius, persists primarily in the Seoul metropolitan area and western regions under a severe heatwave warning, it is expected to expand to areas like Incheon, Ansan, and Gimpo tomorrow (5th), with the intensity of the heatwave projected to further worsen for the time being.",
+        "zh": "在首都圈和西部地区发布极端高温预警的情况下，以气温接近39摄氏度的极端酷热持续，预计明天（5日）将扩大至仁川、安山、金浦等地，且酷热强度预计在一段时间内将进一步加剧。"
       }
     },
     {
-      "title": "수도권 첫 ‘폭염중대경보’…현재 폭염 상황은? - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8628176",
-      "source": "KBS 뉴스",
-      "pubDate": "Tue, 04 Aug 2026 08:07:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/title_image/newsmp4/news5/2026/08/04/20_8628176.jpg",
+      "title": "\"이란, 호르무즈 진입 선박 통제 요구…빠져나가는 선박도 감시\" - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260804210706reS",
+      "source": "연합뉴스TV",
+      "pubDate": "Tue, 04 Aug 2026 12:07:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260804/AKR20260804210706reS_01_i.jpg",
       "summaries": {
-        "ko": "수도권을 포함한 서쪽 지역에 폭염중대경보가 발효된 가운데, 동풍 영향으로 폭염 양상이 서쪽으로 바뀌어 이번 주가 올여름 극심한 낮 폭염과 역대 최다 밤 열대야의 최대 고비가 될 것으로 예보됩니다.",
-        "en": "South Korea's extreme heat has shifted to western regions, including the Seoul metropolitan area which received its first 'extreme heat warning,' with persistent easterly winds expected to intensify this week, marking the peak of severe daytime and record-breaking nighttime tropical heat.",
-        "zh": "受持续东风影响，韩国酷暑已转向包括首尔都市圈在内的西部地区，并首次发布了“酷暑重大警报”，预计本周将是今夏白天极端高温和创纪录夜间热带夜现象的最高峰。"
+        "ko": "이란은 오만과의 협상에서 호르무즈 해협으로 진입하는 선박에 대한 통제권과 빠져나가는 선박에 대한 감시권을 요구하고 있다.",
+        "en": "Iran is demanding control over ships entering and surveillance over ships exiting the Strait of Hormuz in negotiations with Oman.",
+        "zh": "在与阿曼的谈判中，伊朗要求获得对进入霍尔木兹海峡的船只的控制权以及对驶出船只的监视权。"
+      }
+    },
+    {
+      "title": "열화상 카메라로 본 이시각 광화문 광장 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628451",
+      "source": "KBS 뉴스",
+      "pubDate": "Tue, 04 Aug 2026 12:03:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/08/04/20260804_h6t5UN.png",
+      "summaries": {
+        "ko": "열화상 카메라로 본 광화문 광장은 밤에도 콘크리트 건물과 아스팔트 도로에서 40도의 복사열을 내뿜어 도심의 심각한 열대야 현상이 지속되고 있으며, 온열질환에 대비해야 한다고 경고했다.",
+        "en": "A thermal camera at Gwanghwamun Square revealed that concrete buildings and asphalt roads emit 40-degree radiant heat even at night, exacerbating severe urban tropical nights, with a warning to prepare for heat-related illnesses.",
+        "zh": "通过热成像摄像机观察光化门广场，发现即使在夜晚，混凝土建筑和沥青路面也散发出40度的辐射热，加剧了城市地区严重的炎热夜晚现象，并警告市民需防范中暑等热相关疾病。"
+      }
+    },
+    {
+      "title": "이 대통령, 연임 개헌 논란에 일단 ‘침묵’…여권서도 “직접 정리해야” 우려 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608041558001",
+      "source": "경향신문",
+      "pubDate": "Tue, 04 Aug 2026 06:58:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/04/rcv.PHOTOPOOL.20260804.kpa17858068952046_P1.jpg",
+      "summaries": {
+        "ko": "이 대통령, 연임 개헌 논란에 일단 ‘침묵’…여권서도 “직접 정리해야” 우려 - 경향신문",
+        "en": "이 대통령, 연임 개헌 논란에 일단 ‘침묵’…여권서도 “직접 정리해야” 우려 - 경향신문",
+        "zh": "이 대통령, 연임 개헌 논란에 일단 ‘침묵’…여권서도 “직접 정리해야” 우려 - 경향신문"
       }
     },
     {
@@ -44,81 +56,69 @@
       "pubDate": "Tue, 04 Aug 2026 07:25:00 GMT",
       "image": "http://news.kbs.co.kr/data/news/2026/08/04/20260804_rgMU9q.jpg",
       "summaries": {
-        "ko": "전국적인 폭염이 이어지는 가운데 전북에서 고령의 온열질환 추정 사망자 2명이 추가 발생했으며, 질병관리청은 온열질환 위험 최고 단계 예측에 따라 낮 시간 외출 자제 등 주의를 당부했다.",
-        "en": "Amidst a nationwide heatwave, two additional presumed heat-related deaths, both elderly individuals, occurred in Jeonbuk, prompting the Korea Disease Control and Prevention Agency to warn of the highest risk level for heatstroke and advise people to avoid outdoor activities during peak heat hours.",
-        "zh": "在全国持续高温之际，韩国全北地区又新增两名高龄疑似中暑死亡病例，疾病管理厅预测中暑风险已达最高等级，并呼吁民众在白天避免外出等，以防范中暑。"
+        "ko": "연이은 폭염에 온열질환 추정 사망자 2명 발생 - KBS 뉴스",
+        "en": "연이은 폭염에 온열질환 추정 사망자 2명 발생 - KBS 뉴스",
+        "zh": "연이은 폭염에 온열질환 추정 사망자 2명 발생 - KBS 뉴스"
       }
     },
     {
-      "title": "이 대통령 “엄청난 권한 갖는 경찰, 안전한 걸까 우려 있어…더 높은 책임 요구” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628100",
-      "source": "KBS 뉴스",
-      "pubDate": "Tue, 04 Aug 2026 06:03:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/08/04/20260804_FLuaWh.png",
-      "summaries": {
-        "ko": "이 대통령은 검사의 직접 수사권 폐지 등으로 경찰이 막강한 권한을 갖게 된 데 대해 우려를 표하고, 역사적 권한 남용 사례를 언급하며 경찰 스스로 권한에 상응하는 더 높은 책임 의식을 가질 것을 촉구했습니다.",
-        "en": "President Lee expressed concern over the police gaining immense power due to the abolition of prosecutors' direct investigative authority, citing historical cases of power abuse and urging the police to take on higher responsibility commensurate with their new authority.",
-        "zh": "李总统对检察官直接调查权被废除导致警察获得巨大权力表示担忧，并提及历史上的权力滥用案例，敦促警察承担与其新权力相称的更高责任。"
-      }
-    },
-    {
-      "title": "합수본, 선관위 ‘지침 메일’ 확보…“큰 오류 아니면 투표자 가감해 보고” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8628226",
-      "source": "KBS 뉴스",
-      "pubDate": "Tue, 04 Aug 2026 09:36:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/08/04/20260804_gTToK6.jpg",
-      "summaries": {
-        "ko": "검·경 합동수사본부가 중앙선관위가 지방선거 당시 투표자 수 오류 발생 시 다음 보고 시각에 가감해 보고할 수 있다는 지침을 시도위원회에 전달한 사실을 파악했으며, 이는 기존 공개 지침과 배치되어 투표자 수 보고의 정확성에 의문을 제기하고 있습니다.",
-        "en": "A joint investigation team discovered that the National Election Commission issued a guideline to local election commissions during the local elections, allowing them to adjust minor voter count errors in subsequent reports, which contradicts their official public guidelines and raises questions about the accuracy of voter count reporting.",
-        "zh": "联合调查本部发现，中央选举管理委员会在地方选举期间向各地方委员会发布了一项指令，允许在下次报告时调整投票人数的小错误，这与此前公开的指导方针相悖，引发了对投票人数报告准确性的质疑。"
-      }
-    },
-    {
-      "title": "장동혁 “부동산 세제개편, 본질은 집 가진 죄를 묻는 징벌세” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260804/134419219/1",
-      "source": "동아일보",
-      "pubDate": "Tue, 04 Aug 2026 06:30:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/04/134419220.1.jpg",
-      "summaries": {
-        "ko": "장동혁 “부동산 세제개편, 본질은 집 가진 죄를 묻는 징벌세” - 동아일보",
-        "en": "장동혁 “부동산 세제개편, 본질은 집 가진 죄를 묻는 징벌세” - 동아일보",
-        "zh": "장동혁 “부동산 세제개편, 본질은 집 가진 죄를 묻는 징벌세” - 동아일보"
-      }
-    },
-    {
-      "title": "송·정·김 ’호남 총력전’… 33% 권리당원 표심에 사활 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202608041900162ku",
-      "source": "연합뉴스TV",
-      "pubDate": "Tue, 04 Aug 2026 10:00:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260804/MYH202608041900162ku.jpg",
-      "summaries": {
-        "ko": "송·정·김 ’호남 총력전’… 33% 권리당원 표심에 사활 - 연합뉴스TV",
-        "en": "송·정·김 ’호남 총력전’… 33% 권리당원 표심에 사활 - 연합뉴스TV",
-        "zh": "송·정·김 ’호남 총력전’… 33% 권리당원 표심에 사활 - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "\"육군 1군단 '아군 무인기'도 오인\"‥합참 \"승인 고도 이상으로 비행\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6842306_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 04 Aug 2026 05:00:21 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/08/04/lyj_260804_30.jpg",
-      "summaries": {
-        "ko": "\"육군 1군단 '아군 무인기'도 오인\"‥합참 \"승인 고도 이상으로 비행\" - MBC 뉴스",
-        "en": "\"육군 1군단 '아군 무인기'도 오인\"‥합참 \"승인 고도 이상으로 비행\" - MBC 뉴스",
-        "zh": "\"육군 1군단 '아군 무인기'도 오인\"‥합참 \"승인 고도 이상으로 비행\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "李대통령 \"폭염, 국가재난 사태로 보고 필요한 조치 총력 추진\" - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260804059500001",
+      "title": "중수청, 경력 10년미만 검사 4급 수사관 임용…정년·봉급 유지(종합) - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260804108251530",
       "source": "연합뉴스",
-      "pubDate": "Tue, 04 Aug 2026 01:23:30 GMT",
-      "image": "https://img5.yna.co.kr/photo/yna/YH/2026/08/04/PYH2026080403900001300_P4.jpg",
+      "pubDate": "Tue, 04 Aug 2026 08:51:02 GMT",
+      "image": "https://img4.yna.co.kr/photo/yna/YH/2026/08/04/PYH2026080416590001300_P4.jpg",
       "summaries": {
-        "ko": "李대통령 \"폭염, 국가재난 사태로 보고 필요한 조치 총력 추진\" - 연합뉴스",
-        "en": "李대통령 \"폭염, 국가재난 사태로 보고 필요한 조치 총력 추진\" - 연합뉴스",
-        "zh": "李대통령 \"폭염, 국가재난 사태로 보고 필요한 조치 총력 추진\" - 연합뉴스"
+        "ko": "중수청, 경력 10년미만 검사 4급 수사관 임용…정년·봉급 유지(종합) - 연합뉴스",
+        "en": "중수청, 경력 10년미만 검사 4급 수사관 임용…정년·봉급 유지(종합) - 연합뉴스",
+        "zh": "중수청, 경력 10년미만 검사 4급 수사관 임용…정년·봉급 유지(종합) - 연합뉴스"
+      }
+    },
+    {
+      "title": "서울 실거주 1주택자 4%만, 보유세 올라…15%는 되레 절감 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/economy/property/1271372.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 04 Aug 2026 12:14:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0804/20260804502939.webp",
+      "summaries": {
+        "ko": "서울 실거주 1주택자 4%만, 보유세 올라…15%는 되레 절감 - 한겨레",
+        "en": "서울 실거주 1주택자 4%만, 보유세 올라…15%는 되레 절감 - 한겨레",
+        "zh": "서울 실거주 1주택자 4%만, 보유세 올라…15%는 되레 절감 - 한겨레"
+      }
+    },
+    {
+      "title": "'검찰 직접수사 완전 폐지' 개정 형소법 공포안 국무회의 통과 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260804047200001",
+      "source": "연합뉴스",
+      "pubDate": "Tue, 04 Aug 2026 03:43:36 GMT",
+      "image": "https://img9.yna.co.kr/photo/yna/YH/2026/07/21/PYH2026072108770001300_P4.jpg",
+      "summaries": {
+        "ko": "'검찰 직접수사 완전 폐지' 개정 형소법 공포안 국무회의 통과 - 연합뉴스",
+        "en": "'검찰 직접수사 완전 폐지' 개정 형소법 공포안 국무회의 통과 - 연합뉴스",
+        "zh": "'검찰 직접수사 완전 폐지' 개정 형소법 공포안 국무회의 통과 - 연합뉴스"
+      }
+    },
+    {
+      "title": "피해자 앞에서 도 넘은 말…국힘 서범수, 진종오에 “돌려차기 한 번” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1271413.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 04 Aug 2026 12:14:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/549/imgdb/original/2026/0715/20260715503437.webp",
+      "summaries": {
+        "ko": "피해자 앞에서 도 넘은 말…국힘 서범수, 진종오에 “돌려차기 한 번” - 한겨레",
+        "en": "피해자 앞에서 도 넘은 말…국힘 서범수, 진종오에 “돌려차기 한 번” - 한겨레",
+        "zh": "피해자 앞에서 도 넘은 말…국힘 서범수, 진종오에 “돌려차기 한 번” - 한겨레"
+      }
+    },
+    {
+      "title": "‘美무인기 오인’ 1군단, 이번엔 아군기를 적군기로 오인? - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/08/04/KDBYNOUNQZEVJOJ3Q5BBSIXRH4/",
+      "source": "조선일보",
+      "pubDate": "Tue, 04 Aug 2026 01:29:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/WX2JEUG3OFPSRN7U55ZXMCBIUQ.jpg?auth=ff15f2dd76eb255c790fb501d98a3845825d669ecf5be2da93257766cf0434a4&width=1200&height=630&focal=2747,1871",
+      "summaries": {
+        "ko": "‘美무인기 오인’ 1군단, 이번엔 아군기를 적군기로 오인? - 조선일보",
+        "en": "‘美무인기 오인’ 1군단, 이번엔 아군기를 적군기로 오인? - 조선일보",
+        "zh": "‘美무인기 오인’ 1군단, 이번엔 아군기를 적군기로 오인? - 조선일보"
       }
     }
   ]
