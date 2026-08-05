@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-05T04:20:01.972379",
+  "lastUpdate": "2026-08-05T06:45:01.566660",
   "items": [
     {
       "title": "이 대통령, 군 ‘빈 총 경계’ 겨냥 “그러다 화살창고 텅 빈다” - 한겨레",
@@ -8,57 +8,69 @@
       "pubDate": "Wed, 05 Aug 2026 02:59:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/640/495/imgdb/original/2026/0805/20260805501130.webp",
       "summaries": {
-        "ko": "이 대통령은 군의 '빈 총 경계' 논란을 지적하며 사소한 해이가 결국 화살창고를 텅 비게 할 수 있다고 경고하고, 자주국방과 군 지휘권 정상화를 강조했다.",
-        "en": "President Lee Jae-myung criticized the military's 'empty gun patrol' controversy, warning that minor complacency could ultimately lead to an empty arsenal, while also stressing self-reliant defense and the normalization of military command.",
-        "zh": "李在明总统批评军队的“空枪警戒”争议，警告称微小的松懈最终可能导致箭矢库空无一物，并强调自主国防和军事指挥权的正常化。"
+        "ko": "이재명 대통령은 군의 ‘빈 총 경계’와 같은 기강 해이를 지적하며 자주국방과 군 지휘권 정상화의 중요성을 강조하고, 방심으로 인한 국방력 약화를 경고했다.",
+        "en": "President Lee Jae-myung criticized the military's lax discipline, exemplified by \"blank-round patrol,\" emphasizing the importance of self-reliant defense and normalized military command, and warning against the weakening of national defense due to complacency.",
+        "zh": "李在明总统批评军队纪律松弛，例如“空枪警戒”事件，强调自主国防和军事指挥权正常化的重要性，并警告不要因自满而削弱国防力量。"
       }
     },
     {
-      "title": "‘부산 돌려차기 사건’ 피해자 앞에서 “돌려차기 한번” 실언…국민의힘 서범수 “깊이 사죄” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608042053001",
+      "title": "급사과에도 \"제정신?\" 싸늘‥\"돌려차기 하죠\" 후폭풍 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6842558_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Wed, 05 Aug 2026 03:08:17 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/08/05/joo260805_vo1_u.jpg",
+      "summaries": {
+        "ko": "급사과에도 \"제정신?\" 싸늘‥\"돌려차기 하죠\" 후폭풍 - MBC 뉴스",
+        "en": "급사과에도 \"제정신?\" 싸늘‥\"돌려차기 하죠\" 후폭풍 - MBC 뉴스",
+        "zh": "급사과에도 \"제정신?\" 싸늘‥\"돌려차기 하죠\" 후폭풍 - MBC 뉴스"
+      }
+    },
+    {
+      "title": "내년 최저임금 1만700원 확정···월급 기준 223만6300원 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608050952001",
       "source": "경향신문",
-      "pubDate": "Tue, 04 Aug 2026 11:53:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/04/rcv.YNA.20260715.PYH2026071505770001300_P1.jpg",
+      "pubDate": "Wed, 05 Aug 2026 00:52:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/05/news-p.v1.20260805.719e632fe8fd4b47856a1e7191000b8f_P1.jpeg",
       "summaries": {
-        "ko": "‘부산 돌려차기 사건’ 피해자 앞에서 “돌려차기 한번” 실언…국민의힘 서범수 “깊이 사죄” - 경향신문",
-        "en": "‘부산 돌려차기 사건’ 피해자 앞에서 “돌려차기 한번” 실언…국민의힘 서범수 “깊이 사죄” - 경향신문",
-        "zh": "‘부산 돌려차기 사건’ 피해자 앞에서 “돌려차기 한번” 실언…국민의힘 서범수 “깊이 사죄” - 경향신문"
+        "ko": "내년 최저임금 1만700원 확정···월급 기준 223만6300원 - 경향신문",
+        "en": "내년 최저임금 1만700원 확정···월급 기준 223만6300원 - 경향신문",
+        "zh": "내년 최저임금 1만700원 확정···월급 기준 223만6300원 - 경향신문"
       }
     },
     {
-      "title": "국민 60% 반대에도… 전대 앞둔 與 속전속결 처리, 李는 곧바로 의결 - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/08/05/SUCURLTDVJCY7CR4YVKRTWKNWY/",
-      "source": "조선일보",
-      "pubDate": "Tue, 04 Aug 2026 15:50:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MXIXE6HDFRNYPFOAFC2B5CJGVM.jpg?auth=8f4ccca1c801470ff075e5b7b8cc03a683ea3850b106f02bd547827090f9adec&width=1200&height=630&smart=true",
+      "title": "육군 1군단, 개인화기도 실탄 미장착…군, “삽탄 유지” 명령 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8629114",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 05 Aug 2026 02:20:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/08/05/20260805_aHG73K.jpg",
       "summaries": {
-        "ko": "국민 60% 반대에도… 전대 앞둔 與 속전속결 처리, 李는 곧바로 의결 - 조선일보",
-        "en": "국민 60% 반대에도… 전대 앞둔 與 속전속결 처리, 李는 곧바로 의결 - 조선일보",
-        "zh": "국민 60% 반대에도… 전대 앞둔 與 속전속결 처리, 李는 곧바로 의결 - 조선일보"
+        "ko": "육군 1군단, 개인화기도 실탄 미장착…군, “삽탄 유지” 명령 - KBS 뉴스",
+        "en": "육군 1군단, 개인화기도 실탄 미장착…군, “삽탄 유지” 명령 - KBS 뉴스",
+        "zh": "육군 1군단, 개인화기도 실탄 미장착…군, “삽탄 유지” 명령 - KBS 뉴스"
       }
     },
     {
-      "title": "동풍 부니 서쪽 지역에 ‘극한 폭염’…수도권·전라 최고 39도 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1271439.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 05 Aug 2026 00:09:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0805/20260805500201.webp",
+      "title": "김여정 \"일본, 전쟁국가로 변신\"‥군사적 대응 위협 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6842518_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Wed, 05 Aug 2026 00:50:44 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/08/05/lyj_260805_3.jpg",
       "summaries": {
-        "ko": "동풍 부니 서쪽 지역에 ‘극한 폭염’…수도권·전라 최고 39도 - 한겨레",
-        "en": "동풍 부니 서쪽 지역에 ‘극한 폭염’…수도권·전라 최고 39도 - 한겨레",
-        "zh": "동풍 부니 서쪽 지역에 ‘극한 폭염’…수도권·전라 최고 39도 - 한겨레"
+        "ko": "김여정 \"일본, 전쟁국가로 변신\"‥군사적 대응 위협 - MBC 뉴스",
+        "en": "김여정 \"일본, 전쟁국가로 변신\"‥군사적 대응 위협 - MBC 뉴스",
+        "zh": "김여정 \"일본, 전쟁국가로 변신\"‥군사적 대응 위협 - MBC 뉴스"
       }
     },
     {
-      "title": "[속보] 제13호 태풍 ‘돌핀’, 북쪽 뚫고 올라와야 폭염 꺾인다…진로 '촉각' - 경기일보",
-      "link": "https://www.kyeonggi.com/article/20260805580083",
-      "source": "경기일보",
-      "pubDate": "Wed, 05 Aug 2026 02:06:59 GMT",
-      "image": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/05/.cache/512/20260805580085.png?v=20260805131950",
+      "title": "추미애 “경기도 재정 비상” 선언···경비 삭감·세입구조 개선 등 추진 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608051150001",
+      "source": "경향신문",
+      "pubDate": "Wed, 05 Aug 2026 02:50:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/05/news-p.v1.20260805.511fc03304b340e99ecbe2ed34e19c52_P1.jpg",
       "summaries": {
-        "ko": "[속보] 제13호 태풍 ‘돌핀’, 북쪽 뚫고 올라와야 폭염 꺾인다…진로 '촉각' - 경기일보",
-        "en": "[속보] 제13호 태풍 ‘돌핀’, 북쪽 뚫고 올라와야 폭염 꺾인다…진로 '촉각' - 경기일보",
-        "zh": "[속보] 제13호 태풍 ‘돌핀’, 북쪽 뚫고 올라와야 폭염 꺾인다…진로 '촉각' - 경기일보"
+        "ko": "추미애 “경기도 재정 비상” 선언···경비 삭감·세입구조 개선 등 추진 - 경향신문",
+        "en": "추미애 “경기도 재정 비상” 선언···경비 삭감·세입구조 개선 등 추진 - 경향신문",
+        "zh": "추미애 “경기도 재정 비상” 선언···경비 삭감·세입구조 개선 등 추진 - 경향신문"
       }
     },
     {
@@ -74,51 +86,51 @@
       }
     },
     {
-      "title": "[속보] 경찰, '탱크데이 논란' 스타벅스 코리아 본사 압수수색 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6842505_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Wed, 05 Aug 2026 00:09:38 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/05/sa_20260805_26.jpg",
+      "title": "[속보] 인천·안산·김포·평택 ’폭염중대경보’ 확대 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260804163117cR5",
+      "source": "연합뉴스TV",
+      "pubDate": "Tue, 04 Aug 2026 07:31:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260804/MYH20260804163117cR5.jpg",
       "summaries": {
-        "ko": "[속보] 경찰, '탱크데이 논란' 스타벅스 코리아 본사 압수수색 - MBC 뉴스",
-        "en": "[속보] 경찰, '탱크데이 논란' 스타벅스 코리아 본사 압수수색 - MBC 뉴스",
-        "zh": "[속보] 경찰, '탱크데이 논란' 스타벅스 코리아 본사 압수수색 - MBC 뉴스"
+        "ko": "[속보] 인천·안산·김포·평택 ’폭염중대경보’ 확대 - 연합뉴스TV",
+        "en": "[속보] 인천·안산·김포·평택 ’폭염중대경보’ 확대 - 연합뉴스TV",
+        "zh": "[속보] 인천·안산·김포·평택 ’폭염중대경보’ 확대 - 연합뉴스TV"
       }
     },
     {
-      "title": "추미애, “경기도 재정 비상상황”…고위직부터 ‘제살 깎기’ - 중부일보",
-      "link": "http://www.joongboo.com/news/articleView.html?idxno=363733145",
-      "source": "중부일보",
-      "pubDate": "Wed, 05 Aug 2026 01:04:28 GMT",
-      "image": "https://cdn.joongboo.com/news/photo/202608/363733145_2509406_0602.jpg",
+      "title": "우크라 \"북한 미사일 부대, 러시아 서부 배치돼\" - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260805151522vlk",
+      "source": "연합뉴스TV",
+      "pubDate": "Wed, 05 Aug 2026 06:15:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260805/AKR20260805151522vlk_01_i.jpg",
       "summaries": {
-        "ko": "추미애, “경기도 재정 비상상황”…고위직부터 ‘제살 깎기’ - 중부일보",
-        "en": "추미애, “경기도 재정 비상상황”…고위직부터 ‘제살 깎기’ - 중부일보",
-        "zh": "추미애, “경기도 재정 비상상황”…고위직부터 ‘제살 깎기’ - 중부일보"
+        "ko": "우크라 \"북한 미사일 부대, 러시아 서부 배치돼\" - 연합뉴스TV",
+        "en": "우크라 \"북한 미사일 부대, 러시아 서부 배치돼\" - 연합뉴스TV",
+        "zh": "우크라 \"북한 미사일 부대, 러시아 서부 배치돼\" - 연합뉴스TV"
       }
     },
     {
-      "title": "[단독] 기관총·유탄발사기 이어… 1군단, K2 소총도 ‘빈총 경계’ - 조선일보",
-      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/08/05/XA2FPW2XXJHVJIBBU63DSOXFQI/",
-      "source": "조선일보",
-      "pubDate": "Tue, 04 Aug 2026 15:50:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MQ2DMMDFHFRDSYZRGAYDEMZQGI.gif?auth=69dcd12cfb6529e30ad60deacbc2fcb95c9fbb51aff79eb6d8ec625190e656f5&width=800&height=420&focal=390,304",
+      "title": "순천완주고속도로서 차량 4대 추돌…4명 경상",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202608051541282rl",
+      "source": "Breaking News",
+      "pubDate": "Wed, 05 Aug 2026 15:41:31 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260805/AKR202608051541282rl_01_i.jpg",
       "summaries": {
-        "ko": "[단독] 기관총·유탄발사기 이어… 1군단, K2 소총도 ‘빈총 경계’ - 조선일보",
-        "en": "[단독] 기관총·유탄발사기 이어… 1군단, K2 소총도 ‘빈총 경계’ - 조선일보",
-        "zh": "[단독] 기관총·유탄발사기 이어… 1군단, K2 소총도 ‘빈총 경계’ - 조선일보"
+        "ko": "순천완주고속도로서 차량 4대 추돌…4명 경상",
+        "en": "순천완주고속도로서 차량 4대 추돌…4명 경상",
+        "zh": "순천완주고속도로서 차량 4대 추돌…4명 경상"
       }
     },
     {
-      "title": "민주당 전당대회 15~16일 ‘슈퍼위크’서 결판…3가지 관전포인트 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1271417.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 04 Aug 2026 15:44:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/682/imgdb/original/2026/0804/20260804503214.webp",
+      "title": "[속보] 대법, 한덕수·이상민 내란 혐의 사건 전원합의체 회부",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260805154112PyP",
+      "source": "Breaking News",
+      "pubDate": "Wed, 05 Aug 2026 15:41:12 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260805/AKR20260805154112PyP_01_i.jpg",
       "summaries": {
-        "ko": "민주당 전당대회 15~16일 ‘슈퍼위크’서 결판…3가지 관전포인트 - 한겨레",
-        "en": "민주당 전당대회 15~16일 ‘슈퍼위크’서 결판…3가지 관전포인트 - 한겨레",
-        "zh": "민주당 전당대회 15~16일 ‘슈퍼위크’서 결판…3가지 관전포인트 - 한겨레"
+        "ko": "[속보] 대법, 한덕수·이상민 내란 혐의 사건 전원합의체 회부",
+        "en": "[속보] 대법, 한덕수·이상민 내란 혐의 사건 전원합의체 회부",
+        "zh": "[속보] 대법, 한덕수·이상민 내란 혐의 사건 전원합의체 회부"
       }
     }
   ]
