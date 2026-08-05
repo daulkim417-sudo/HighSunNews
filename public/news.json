@@ -1,16 +1,28 @@
 {
-  "lastUpdate": "2026-08-05T22:02:17.661984",
+  "lastUpdate": "2026-08-05T23:12:51.386040",
   "items": [
     {
-      "title": "이란·오만, 호르무즈 합의 초안 완성…이란 통제권·수수료 놓고 미국과 이견 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1271631.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 05 Aug 2026 20:42:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0806/20260806500119.webp",
+      "title": "열대야 속 서울 도봉구·수원 영통구 등 수도권 아파트 곳곳 정전 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260806070109dB0",
+      "source": "연합뉴스TV",
+      "pubDate": "Wed, 05 Aug 2026 22:01:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260805/AKR20260806070109dB0_01_i.jpg",
       "summaries": {
-        "ko": "이란과 오만이 호르무즈해협 새 상선 항로의 지리적 좌표에 합의했지만, 이란의 통제권과 수수료 부과, 미국의 해상 봉쇄 해제 등 핵심 쟁점을 두고 이견이 커 최종 타결에 난항이 예상된다.",
-        "en": "Iran and Oman have agreed on the geographical coordinates for a new shipping lane in the Strait of Hormuz, but significant disagreements over Iran's control, the imposition of fees, and the lifting of the US maritime blockade are expected to make a final settlement difficult.",
-        "zh": "伊朗和阿曼就霍尔木兹海峡新商船航道的地理坐标达成协议，但由于伊朗的控制权、费用征收以及美国解除海上封锁等核心问题存在重大分歧，预计最终达成协议将面临困难。"
+        "ko": "무더위 속 서울 도봉구와 수원 영통구 등 수도권 아파트 단지 곳곳에서 변압기 고장으로 인한 정전이 발생해 주민들이 큰 불편을 겪었다.",
+        "en": "Amid a heatwave, several apartment complexes in Seoul's Dobong-gu and Suwon's Yeongtong-gu, among other metropolitan areas, experienced power outages due to transformer malfunctions, causing significant inconvenience to residents.",
+        "zh": "在酷暑中，首尔道峰区和水原灵通区等首都圈多处公寓小区因变压器故障发生停电，给居民带来了极大不便。"
+      }
+    },
+    {
+      "title": "지역 국립대 신입생 ‘등록금 0원’…내년부터 전액 장학금 검토 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/schooling/1271522.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 05 Aug 2026 14:15:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0805/53_17859138971084_20260805502433.webp",
+      "summaries": {
+        "ko": "교육부가 지역 청년 유입과 정주 유도를 위해 내년부터 지방 국립대 신입생 등록금을 전액 지원하고, 지역 사립대 장학금 및 채용조건형 계약학과도 확대한다.",
+        "en": "To attract and retain young people in local regions, the Ministry of Education will fully cover tuition fees for new students at regional national universities starting next year, while also expanding scholarships for regional private universities and employment-linked contract departments.",
+        "zh": "教育部门为吸引和留住地方青年，将从明年起全额资助地方国立大学新生学费，并扩大地方私立大学奖学金及就业联动型合同专业。"
       }
     },
     {
@@ -20,9 +32,21 @@
       "pubDate": "Wed, 05 Aug 2026 13:53:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/670/440/imgdb/original/2026/0805/20260805503270.webp",
       "summaries": {
-        "ko": "국교위, 수능 서술·논술형 개편 추진…이 대통령 “객관식이 아이들 망가뜨려” - 한겨레",
-        "en": "국교위, 수능 서술·논술형 개편 추진…이 대통령 “객관식이 아이들 망가뜨려” - 한겨레",
-        "zh": "국교위, 수능 서술·논술형 개편 추진…이 대통령 “객관식이 아이들 망가뜨려” - 한겨레"
+        "ko": "국가교육위원회는 이재명 대통령의 공감대 형성 속에 수능과 내신에 서술·논술형 문항 도입 및 절대평가 전환 등 중장기 대입제도 개편을 추진하며 대국민 공론화를 진행할 예정이다.",
+        "en": "The National Education Commission is pushing for a mid-to-long-term college entrance exam reform, including introducing essay/narrative questions and converting CSAT and internal evaluations to an absolute grading system, with public discussion planned and President Lee Jae-myung expressing cautious agreement.",
+        "zh": "韩国国家教育委员会正推进中长期大学入学制度改革，计划在高考和校内评估中引入论述型考题并转换为绝对评价，并即将启动全国范围的公众讨论，李在明总统对此表示了谨慎的认同。"
+      }
+    },
+    {
+      "title": "미·영 최고 외교관들, 호르무즈 해협의 안전한 통항과 이란 비핵화 강조 - VOA 한국어 홈페이지",
+      "link": "https://www.voakorea.com/a/top-us-british-diplomats-emphasize-safe-transit-in-hormuz-strait-iran-s-denuclearization-20260805/8183130.html",
+      "source": "VOA 한국어 홈페이지",
+      "pubDate": "Wed, 05 Aug 2026 21:12:28 GMT",
+      "image": "https://gdb.voanews.com/2912621a-23f0-4623-46ad-08decadaa577_cx0_cy6_cw0_w1200_h630.jpg",
+      "summaries": {
+        "ko": "미·영 최고 외교관들, 호르무즈 해협의 안전한 통항과 이란 비핵화 강조 - VOA 한국어 홈페이지",
+        "en": "미·영 최고 외교관들, 호르무즈 해협의 안전한 통항과 이란 비핵화 강조 - VOA 한국어 홈페이지",
+        "zh": "미·영 최고 외교관들, 호르무즈 해협의 안전한 통항과 이란 비핵화 강조 - VOA 한국어 홈페이지"
       }
     },
     {
@@ -50,15 +74,15 @@
       }
     },
     {
-      "title": "태풍 ‘돌핀’…살아서 폭염을, 죽어서 비구름을 남긴다 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8629578",
-      "source": "KBS 뉴스",
-      "pubDate": "Wed, 05 Aug 2026 11:25:00 GMT",
-      "image": "http://news.kbs.co.kr/data/fckeditor/new/image/2026/08/05/334001785923999288.png",
+      "title": "장동혁, 서범수 ‘돌려차기’ 망언에 “국힘 전체 문제…당 차원 조치 필요” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1271521.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 05 Aug 2026 08:07:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/616/imgdb/original/2026/0805/20260805502424.webp",
       "summaries": {
-        "ko": "태풍 ‘돌핀’…살아서 폭염을, 죽어서 비구름을 남긴다 - KBS 뉴스",
-        "en": "태풍 ‘돌핀’…살아서 폭염을, 죽어서 비구름을 남긴다 - KBS 뉴스",
-        "zh": "태풍 ‘돌핀’…살아서 폭염을, 죽어서 비구름을 남긴다 - KBS 뉴스"
+        "ko": "장동혁, 서범수 ‘돌려차기’ 망언에 “국힘 전체 문제…당 차원 조치 필요” - 한겨레",
+        "en": "장동혁, 서범수 ‘돌려차기’ 망언에 “국힘 전체 문제…당 차원 조치 필요” - 한겨레",
+        "zh": "장동혁, 서범수 ‘돌려차기’ 망언에 “국힘 전체 문제…당 차원 조치 필요” - 한겨레"
       }
     },
     {
@@ -86,39 +110,15 @@
       }
     },
     {
-      "title": "이 대통령 “쿠데타 3번 육사, 책임 안 져…또 할 수도” 통합사관학교 속도전 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1271584.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 05 Aug 2026 15:38:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/706/imgdb/original/2026/0805/20260805503144.webp",
+      "title": "인천 영종도서 신남성연대 대표 숨진 채 발견 - 파이낸셜뉴스",
+      "link": "https://www.fnnews.com/news/202608051456358761",
+      "source": "파이낸셜뉴스",
+      "pubDate": "Wed, 05 Aug 2026 05:56:36 GMT",
+      "image": "https://image.fnnews.com/resource/media/image/2026/08/05/202608051456335286_l.jpg",
       "summaries": {
-        "ko": "이 대통령 “쿠데타 3번 육사, 책임 안 져…또 할 수도” 통합사관학교 속도전 - 한겨레",
-        "en": "이 대통령 “쿠데타 3번 육사, 책임 안 져…또 할 수도” 통합사관학교 속도전 - 한겨레",
-        "zh": "이 대통령 “쿠데타 3번 육사, 책임 안 져…또 할 수도” 통합사관학교 속도전 - 한겨레"
-      }
-    },
-    {
-      "title": "열대야 속 정전 속출…한밤 중 대피 소동 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8629823",
-      "source": "KBS 뉴스",
-      "pubDate": "Wed, 05 Aug 2026 21:09:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza_p1/2026/08/06/60_8629823.jpg",
-      "summaries": {
-        "ko": "열대야 속 정전 속출…한밤 중 대피 소동 - KBS 뉴스",
-        "en": "열대야 속 정전 속출…한밤 중 대피 소동 - KBS 뉴스",
-        "zh": "열대야 속 정전 속출…한밤 중 대피 소동 - KBS 뉴스"
-      }
-    },
-    {
-      "title": "최근 5년 임금불평등 확대…\"저임금노동자 임금상승 둔화 영향\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260806070045F57",
-      "source": "Breaking News",
-      "pubDate": "Thu, 06 Aug 2026 07:00:45 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260805/AKR20260806070045F57_01_i.jpeg",
-      "summaries": {
-        "ko": "최근 5년 임금불평등 확대…\"저임금노동자 임금상승 둔화 영향\"",
-        "en": "최근 5년 임금불평등 확대…\"저임금노동자 임금상승 둔화 영향\"",
-        "zh": "최근 5년 임금불평등 확대…\"저임금노동자 임금상승 둔화 영향\""
+        "ko": "인천 영종도서 신남성연대 대표 숨진 채 발견 - 파이낸셜뉴스",
+        "en": "인천 영종도서 신남성연대 대표 숨진 채 발견 - 파이낸셜뉴스",
+        "zh": "인천 영종도서 신남성연대 대표 숨진 채 발견 - 파이낸셜뉴스"
       }
     }
   ]
