@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-05T16:58:52.447864",
+  "lastUpdate": "2026-08-05T18:16:44.851927",
   "items": [
     {
       "title": "이 대통령 “쿠데타 3번 육사, 책임 안 져…또 할 수도” 통합사관학교 속도전 - hani.co.kr",
@@ -8,9 +8,9 @@
       "pubDate": "Wed, 05 Aug 2026 15:38:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/706/imgdb/original/2026/0805/20260805503144.webp",
       "summaries": {
-        "ko": "이재명 대통령이 육사 출신이 주도한 세 차례 쿠데타의 책임을 묻고 재발을 방지하기 위해 육·해·공 통합 국군사관학교를 창설한다고 직접 언급하며 국방부의 기존 설명과 다른 입장을 표명해 육사 총동창회 등의 반발을 샀다.",
-        "en": "President Lee Jae-myung explicitly stated that the establishment of a unified national military academy aims to hold the Korea Military Academy accountable for three past coups and prevent future ones, a position that contradicts the Ministry of National Defense's previous explanation and has drawn strong opposition from KMA alumni and others.",
-        "zh": "韩国总统李在明公开表示，设立统一军队士官学校是为了追究陆军士官学校三次政变的责任并防止再次发生，此举与国防部的此前解释相悖，并引发了陆军士官学校校友会等方面的强烈反对。"
+        "ko": "이재명 대통령은 5·16, 12·12, 12·3 사태 등 육사 중심의 쿠데타 재발 방지 및 책임 추궁을 위해 국군사관학교 통합 창설을 직접 언급하며 속도전을 지시했고, 이에 육사 총동창회와 국민의힘은 ‘보복성’ 조치라며 반발했다.",
+        "en": "President Lee Jae-myung explicitly linked the proposed unified National Armed Forces Academy to preventing future military coups by the Korea Military Academy (KMA) and holding it accountable for past incidents, including the 12.3 rebellion, triggering protests from the KMA Alumni Association and the People Power Party who deemed it a retaliatory measure.",
+        "zh": "李在明总统明确表示，为防止陆军士官学校（KMA）主导的军事政变再次发生，并追究其对5.16、12.12和12.3事件的责任，应加快创立整合陆海空军士官学校的统一国军士官学校，此举引发了陆军士官学校校友会和国民力量党的反对，称其为“报复性”措施。"
       }
     },
     {
@@ -26,15 +26,15 @@
       }
     },
     {
-      "title": "李 ‘사필귀정’이라더니... 개정 형소법 안 읽어봤다 - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/08/05/BQFCOZGNVVEIFADPAABNQVRHDU/",
-      "source": "조선일보",
-      "pubDate": "Wed, 05 Aug 2026 11:17:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/JSBWU2PUJNHP7AY67DVTGDLFRM.jpg?auth=4f8e9a32fa6b681f254f5140e80ada48a905ec27138047c1b3797d01fdf25a23&width=1200&height=630&focal=2112,799",
+      "title": "李대통령 \"형소법 안 읽어봐서\"…통과 다음날 이어진 세부 확인 작업(종합) - 데일리안",
+      "link": "https://www.dailian.co.kr/news/view/1675019/%E6%9D%8E%EB%8C%80%ED%86%B5%EB%A0%B9-%ED%98%95%EC%86%8C%EB%B2%95-%EC%95%88-%EC%9D%BD%EC%96%B4%EB%B4%90%EC%84%9C%ED%86%B5%EA%B3%BC-%EB%8B%A4%EC%9D%8C-2026",
+      "source": "데일리안",
+      "pubDate": "Wed, 05 Aug 2026 12:56:00 GMT",
+      "image": "https://cdnimage.dailian.co.kr/news/202608/news_1785933247_1675019_m_1.jpg",
       "summaries": {
-        "ko": "李 ‘사필귀정’이라더니... 개정 형소법 안 읽어봤다 - 조선일보",
-        "en": "李 ‘사필귀정’이라더니... 개정 형소법 안 읽어봤다 - 조선일보",
-        "zh": "李 ‘사필귀정’이라더니... 개정 형소법 안 읽어봤다 - 조선일보"
+        "ko": "李대통령 \"형소법 안 읽어봐서\"…통과 다음날 이어진 세부 확인 작업(종합) - 데일리안",
+        "en": "李대통령 \"형소법 안 읽어봐서\"…통과 다음날 이어진 세부 확인 작업(종합) - 데일리안",
+        "zh": "李대통령 \"형소법 안 읽어봐서\"…통과 다음날 이어진 세부 확인 작업(종합) - 데일리안"
       }
     },
     {
@@ -44,9 +44,57 @@
       "pubDate": "Wed, 05 Aug 2026 12:12:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/08/05/l_2026080601000156300015761.jpg",
       "summaries": {
-        "ko": "더불어민주당 전당대회 2차 TV 토론회에서 김민석, 송영길 후보가 정청래 후보의 과거 행보, 당 개혁, 정책 결정 등을 놓고 날카로운 공방을 벌이며 격렬한 분위기를 연출했다.",
-        "en": "In the Democratic Party's 2nd TV debate for the party leader election, candidates Kim Min-seok and Song Young-gil engaged in a fierce exchange with Jung Chung-rae over his past actions, party reforms, and policy decisions, creating a sharp atmosphere.",
-        "zh": "在民主党党魁选举的第二次电视辩论中，候选人金民锡和宋永吉就郑清来过去的行动、党内改革和政策决定等问题与其展开激烈交锋，现场气氛紧张。"
+        "ko": "김민석 “한두 개 개혁을 우려먹어”…정청래 “배신해본 사람은 또 배신” - 경향신문",
+        "en": "김민석 “한두 개 개혁을 우려먹어”…정청래 “배신해본 사람은 또 배신” - 경향신문",
+        "zh": "김민석 “한두 개 개혁을 우려먹어”…정청래 “배신해본 사람은 또 배신” - 경향신문"
+      }
+    },
+    {
+      "title": "추미애 “이 시간부로 ‘경기도 재정 비상상황’ 선언…끌어 쓸 재원 없어” - 매일경제",
+      "link": "https://www.mk.co.kr/news/society/12117606",
+      "source": "매일경제",
+      "pubDate": "Wed, 05 Aug 2026 04:35:20 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202608/05/rcv.YNA.20260805.PYH2026080505540006100_R.jpg",
+      "summaries": {
+        "ko": "추미애 “이 시간부로 ‘경기도 재정 비상상황’ 선언…끌어 쓸 재원 없어” - 매일경제",
+        "en": "추미애 “이 시간부로 ‘경기도 재정 비상상황’ 선언…끌어 쓸 재원 없어” - 매일경제",
+        "zh": "추미애 “이 시간부로 ‘경기도 재정 비상상황’ 선언…끌어 쓸 재원 없어” - 매일경제"
+      }
+    },
+    {
+      "title": "오세훈, 김용범과 부동산 회동 \"준공업지역 규제 완화해야\" - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/08/05/DV7N2H3EGVCUFHMIQWC3K7ANKI/",
+      "source": "조선일보",
+      "pubDate": "Wed, 05 Aug 2026 09:26:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GNSWCMRUMNRWGNBWGIZDSNJVGA.jpg?auth=c30b92e147e18bf762ab1d512db4b0b9d3cf7d73017b5c78b08477a31810d274&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "오세훈, 김용범과 부동산 회동 \"준공업지역 규제 완화해야\" - 조선일보",
+        "en": "오세훈, 김용범과 부동산 회동 \"준공업지역 규제 완화해야\" - 조선일보",
+        "zh": "오세훈, 김용범과 부동산 회동 \"준공업지역 규제 완화해야\" - 조선일보"
+      }
+    },
+    {
+      "title": "장동혁, 서범수 ‘돌려차기’ 망언에 “국힘 전체 문제…당 차원 조치 필요” - hani.co.kr",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1271521.html",
+      "source": "hani.co.kr",
+      "pubDate": "Wed, 05 Aug 2026 08:07:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/616/imgdb/original/2026/0805/20260805502424.webp",
+      "summaries": {
+        "ko": "장동혁, 서범수 ‘돌려차기’ 망언에 “국힘 전체 문제…당 차원 조치 필요” - hani.co.kr",
+        "en": "장동혁, 서범수 ‘돌려차기’ 망언에 “국힘 전체 문제…당 차원 조치 필요” - hani.co.kr",
+        "zh": "장동혁, 서범수 ‘돌려차기’ 망언에 “국힘 전체 문제…당 차원 조치 필요” - hani.co.kr"
+      }
+    },
+    {
+      "title": "서울 이틀째 39도, 내일은 40도 넘나…수도권 대부분 ‘폭염중대경보’ - hani.co.kr",
+      "link": "https://www.hani.co.kr/arti/society/environment/1271531.html",
+      "source": "hani.co.kr",
+      "pubDate": "Wed, 05 Aug 2026 11:04:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0805/20260805502624.webp",
+      "summaries": {
+        "ko": "서울 이틀째 39도, 내일은 40도 넘나…수도권 대부분 ‘폭염중대경보’ - hani.co.kr",
+        "en": "서울 이틀째 39도, 내일은 40도 넘나…수도권 대부분 ‘폭염중대경보’ - hani.co.kr",
+        "zh": "서울 이틀째 39도, 내일은 40도 넘나…수도권 대부분 ‘폭염중대경보’ - hani.co.kr"
       }
     },
     {
@@ -59,54 +107,6 @@
         "ko": "지역 국립대 신입생 ‘등록금 0원’…내년부터 전액 장학금 검토 - hani.co.kr",
         "en": "지역 국립대 신입생 ‘등록금 0원’…내년부터 전액 장학금 검토 - hani.co.kr",
         "zh": "지역 국립대 신입생 ‘등록금 0원’…내년부터 전액 장학금 검토 - hani.co.kr"
-      }
-    },
-    {
-      "title": "추미애 “경기도 재정 비상” 선언···경비 삭감·세입구조 개선 등 추진 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608051150001",
-      "source": "경향신문",
-      "pubDate": "Wed, 05 Aug 2026 02:50:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/05/news-p.v1.20260805.511fc03304b340e99ecbe2ed34e19c52_P1.jpg",
-      "summaries": {
-        "ko": "추미애 “경기도 재정 비상” 선언···경비 삭감·세입구조 개선 등 추진 - 경향신문",
-        "en": "추미애 “경기도 재정 비상” 선언···경비 삭감·세입구조 개선 등 추진 - 경향신문",
-        "zh": "추미애 “경기도 재정 비상” 선언···경비 삭감·세입구조 개선 등 추진 - 경향신문"
-      }
-    },
-    {
-      "title": "'부산 돌려차기' 피해자, 국힘 서범수 의원 실언 사과 수용 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260805080300051",
-      "source": "연합뉴스",
-      "pubDate": "Wed, 05 Aug 2026 02:50:03 GMT",
-      "image": "https://img5.yna.co.kr/photo/yna/YH/2026/08/04/PYH2026080415750001300_P4.jpg",
-      "summaries": {
-        "ko": "'부산 돌려차기' 피해자, 국힘 서범수 의원 실언 사과 수용 - 연합뉴스",
-        "en": "'부산 돌려차기' 피해자, 국힘 서범수 의원 실언 사과 수용 - 연합뉴스",
-        "zh": "'부산 돌려차기' 피해자, 국힘 서범수 의원 실언 사과 수용 - 연합뉴스"
-      }
-    },
-    {
-      "title": "근무조건 질문에 죄다 “미정, 협의 중”···중수청 ‘맹탕 설명회’에 “이럴거면 왜 왔냐” 고성까지 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608051703001",
-      "source": "경향신문",
-      "pubDate": "Wed, 05 Aug 2026 08:03:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/05/rcv.YNA.20260805.PYH2026080515610005400_P1.jpg",
-      "summaries": {
-        "ko": "근무조건 질문에 죄다 “미정, 협의 중”···중수청 ‘맹탕 설명회’에 “이럴거면 왜 왔냐” 고성까지 - 경향신문",
-        "en": "근무조건 질문에 죄다 “미정, 협의 중”···중수청 ‘맹탕 설명회’에 “이럴거면 왜 왔냐” 고성까지 - 경향신문",
-        "zh": "근무조건 질문에 죄다 “미정, 협의 중”···중수청 ‘맹탕 설명회’에 “이럴거면 왜 왔냐” 고성까지 - 경향신문"
-      }
-    },
-    {
-      "title": "소방청, 전국 화재위험경보 ’심각’ 상향…4년 5개월 만에 최고 단계 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260805173716f2P",
-      "source": "연합뉴스TV",
-      "pubDate": "Wed, 05 Aug 2026 08:37:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260805/AKR20260805173716f2P_01_i.jpg",
-      "summaries": {
-        "ko": "소방청, 전국 화재위험경보 ’심각’ 상향…4년 5개월 만에 최고 단계 - 연합뉴스TV",
-        "en": "소방청, 전국 화재위험경보 ’심각’ 상향…4년 5개월 만에 최고 단계 - 연합뉴스TV",
-        "zh": "소방청, 전국 화재위험경보 ’심각’ 상향…4년 5개월 만에 최고 단계 - 연합뉴스TV"
       }
     },
     {
