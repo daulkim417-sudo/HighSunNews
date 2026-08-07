@@ -1,6 +1,42 @@
 {
-  "lastUpdate": "2026-08-07T03:24:09.251975",
+  "lastUpdate": "2026-08-07T05:09:09.505165",
   "items": [
+    {
+      "title": "오늘도 ‘서울 39도’ 펄펄…내일 강원엔 시간당 50mm 폭우 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1271833.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 07 Aug 2026 02:49:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/548/imgdb/original/2026/0807/20260807500142.webp",
+      "summaries": {
+        "ko": "7일 서울 39도 등 전국적으로 극심한 폭염과 열대야가 이어지는 가운데, 8일부터 강원 동해안과 산지에는 시간당 최대 50mm의 강한 비가 예상되어 산사태 등 피해가 우려된다.",
+        "en": "While extreme heat, with temperatures up to 39°C in Seoul, continues across the nation today (7th) along with tropical nights, heavy rain of up to 50mm per hour is expected in Gangwon's East Coast and mountainous areas starting tomorrow (8th), raising concerns about landslides and other damage.",
+        "zh": "今日（7日）首尔气温飙升至39摄氏度，全国持续酷热并伴有热带夜，而明日（8日）起江原道东海岸及山区预计将有每小时高达50毫米的强降雨，引发山体滑坡等灾害担忧。"
+      }
+    },
+    {
+      "title": "‘채상병 순직’ 임성근 전 사단장, 항소심도 징역 3년…“엄중한 법적 책임 물어야” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1271884.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 07 Aug 2026 03:09:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/600/imgdb/original/2026/0807/20260807501106.webp",
+      "summaries": {
+        "ko": "‘채상병 순직’ 임성근 전 사단장, 항소심도 징역 3년…“엄중한 법적 책임 물어야” - 한겨레",
+        "en": "‘채상병 순직’ 임성근 전 사단장, 항소심도 징역 3년…“엄중한 법적 책임 물어야” - 한겨레",
+        "zh": "‘채상병 순직’ 임성근 전 사단장, 항소심도 징역 3년…“엄중한 법적 책임 물어야” - 한겨레"
+      }
+    },
+    {
+      "title": "[한국은 지금] 육해공군 전직 참모총장들 “사관학교 통합 재검토해야” - VOA 한국어 홈페이지",
+      "link": "https://www.voakorea.com/a/korea-now-080626/8183436.html",
+      "source": "VOA 한국어 홈페이지",
+      "pubDate": "Thu, 06 Aug 2026 15:29:19 GMT",
+      "image": "https://gdb.voanews.com/595734d4-77d9-42e5-c8cb-08decaecd3b3_cx0_cy11_cw0_w1200_h630.jpeg",
+      "summaries": {
+        "ko": "[한국은 지금] 육해공군 전직 참모총장들 “사관학교 통합 재검토해야” - VOA 한국어 홈페이지",
+        "en": "[한국은 지금] 육해공군 전직 참모총장들 “사관학교 통합 재검토해야” - VOA 한국어 홈페이지",
+        "zh": "[한국은 지금] 육해공군 전직 참모총장들 “사관학교 통합 재검토해야” - VOA 한국어 홈페이지"
+      }
+    },
     {
       "title": "무너진 ‘전세 4년 보장’… 집주인 전화 두려운 세입자 - 조선일보",
       "link": "https://www.chosun.com/economy/real_estate/2026/08/07/O7NTEHMU2VFCRN2UYUMXY6LLPQ/",
@@ -14,135 +50,87 @@
       }
     },
     {
-      "title": "‘해병 순직’ 임성근, 2심도 징역 3년…“안전보호 의무 저버려” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8631327",
-      "source": "KBS 뉴스",
-      "pubDate": "Fri, 07 Aug 2026 02:40:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/08/07/20260807_rqI29T.png",
-      "summaries": {
-        "ko": "해병 순직 사고의 책임자로 지목된 임성근 전 해병대 1사단장이 대원들의 안전보호 의무를 저버린 업무상 과실치사상 및 군형법상 명령 위반 혐의로 항소심에서도 징역 3년을 선고받았습니다.",
-        "en": "Former Marine Corps 1st Division Commander Im Sung-geun was again sentenced to three years in prison in his appeal trial for occupational negligence causing death and violating military law, stemming from his failure to ensure the safety of his troops during a flood search operation that led to a marine's death.",
-        "zh": "被指控对海军陆战队士兵殉职事故负责的林圣根前海军陆战队第一师师长，因未能履行保护队员生命安全的义务，犯有业务过失致死伤及违反军刑法罪名，在二审中仍被判处三年有期徒刑。"
-      }
-    },
-    {
-      "title": "육사는 여전히 ‘특권 계급’…사관학교 개혁이 필요한 이유 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/polibar/1271844.html",
+      "title": "[뷰리핑] 서로 우위 주장…정청래·김민석 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1271845.html",
       "source": "한겨레",
-      "pubDate": "Fri, 07 Aug 2026 01:35:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/581/388/imgdb/original/2026/0710/20260710502561.webp",
+      "pubDate": "Fri, 07 Aug 2026 02:38:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2026/0807/20260807500388.webp",
       "summaries": {
-        "ko": "육사는 여전히 ‘특권 계급’…사관학교 개혁이 필요한 이유 - 한겨레",
-        "en": "육사는 여전히 ‘특권 계급’…사관학교 개혁이 필요한 이유 - 한겨레",
-        "zh": "육사는 여전히 ‘특권 계급’…사관학교 개혁이 필요한 이유 - 한겨레"
+        "ko": "[뷰리핑] 서로 우위 주장…정청래·김민석 - 한겨레",
+        "en": "[뷰리핑] 서로 우위 주장…정청래·김민석 - 한겨레",
+        "zh": "[뷰리핑] 서로 우위 주장…정청래·김민석 - 한겨레"
       }
     },
     {
-      "title": "이란 대통령도 못 본 최고지도자?···“차량 뒷좌석서 이뤄진 은밀한 만남, 얼굴도 못 보고 악수도 못 했다” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608070600021",
-      "source": "경향신문",
-      "pubDate": "Thu, 06 Aug 2026 21:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/07/rcv.YNA.20260804.PAP20260804148101009_P1.jpg",
+      "title": "국힘, 부동산 총공세…“대통령은 공급 포기, 중산층 붕괴” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260807/134436001/1",
+      "source": "동아일보",
+      "pubDate": "Fri, 07 Aug 2026 01:26:03 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/07/134436279.1.jpg",
       "summaries": {
-        "ko": "이란 대통령도 못 본 최고지도자?···“차량 뒷좌석서 이뤄진 은밀한 만남, 얼굴도 못 보고 악수도 못 했다” - 경향신문",
-        "en": "이란 대통령도 못 본 최고지도자?···“차량 뒷좌석서 이뤄진 은밀한 만남, 얼굴도 못 보고 악수도 못 했다” - 경향신문",
-        "zh": "이란 대통령도 못 본 최고지도자?···“차량 뒷좌석서 이뤄진 은밀한 만남, 얼굴도 못 보고 악수도 못 했다” - 경향신문"
+        "ko": "국힘, 부동산 총공세…“대통령은 공급 포기, 중산층 붕괴” - 동아일보",
+        "en": "국힘, 부동산 총공세…“대통령은 공급 포기, 중산층 붕괴” - 동아일보",
+        "zh": "국힘, 부동산 총공세…“대통령은 공급 포기, 중산층 붕괴” - 동아일보"
       }
     },
     {
-      "title": "추미애 '경기 재정 비상 선언' 후폭풍... 장동혁 \"주범은 이재명 전 지사\" - 한국일보",
-      "link": "https://www.hankookilbo.com/news/article/A2026080618170004313",
-      "source": "한국일보",
-      "pubDate": "Thu, 06 Aug 2026 09:35:00 GMT",
-      "image": "https://newsimg.hankookilbo.com/2026/08/06/c2357997-0242-4272-98fc-af0f75d03404.jpg",
-      "summaries": {
-        "ko": "추미애 '경기 재정 비상 선언' 후폭풍... 장동혁 \"주범은 이재명 전 지사\" - 한국일보",
-        "en": "추미애 '경기 재정 비상 선언' 후폭풍... 장동혁 \"주범은 이재명 전 지사\" - 한국일보",
-        "zh": "추미애 '경기 재정 비상 선언' 후폭풍... 장동혁 \"주범은 이재명 전 지사\" - 한국일보"
-      }
-    },
-    {
-      "title": "오늘도 ‘서울 39도’ 펄펄…내일 강원엔 시간당 50mm 폭우 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1271833.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 07 Aug 2026 00:33:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/548/imgdb/original/2026/0807/20260807500142.webp",
-      "summaries": {
-        "ko": "오늘도 ‘서울 39도’ 펄펄…내일 강원엔 시간당 50mm 폭우 - 한겨레",
-        "en": "오늘도 ‘서울 39도’ 펄펄…내일 강원엔 시간당 50mm 폭우 - 한겨레",
-        "zh": "오늘도 ‘서울 39도’ 펄펄…내일 강원엔 시간당 50mm 폭우 - 한겨레"
-      }
-    },
-    {
-      "title": "대법, '윤석열 특활비 공개' 소송 파기환송‥\"이미 대통령기록관 이관\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6843093_36918.html",
+      "title": "합수본, '통계 조작 의혹' 서울·경기·충북 선관위 등 추가 압수수색 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6843092_36918.html",
       "source": "MBC 뉴스",
-      "pubDate": "Fri, 07 Aug 2026 01:11:40 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/07/joo260807_7.jpg",
+      "pubDate": "Fri, 07 Aug 2026 00:48:28 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/07/lyj_260807_8.jpg",
       "summaries": {
-        "ko": "대법, '윤석열 특활비 공개' 소송 파기환송‥\"이미 대통령기록관 이관\" - MBC 뉴스",
-        "en": "대법, '윤석열 특활비 공개' 소송 파기환송‥\"이미 대통령기록관 이관\" - MBC 뉴스",
-        "zh": "대법, '윤석열 특활비 공개' 소송 파기환송‥\"이미 대통령기록관 이관\" - MBC 뉴스"
+        "ko": "합수본, '통계 조작 의혹' 서울·경기·충북 선관위 등 추가 압수수색 - MBC 뉴스",
+        "en": "합수본, '통계 조작 의혹' 서울·경기·충북 선관위 등 추가 압수수색 - MBC 뉴스",
+        "zh": "합수본, '통계 조작 의혹' 서울·경기·충북 선관위 등 추가 압수수색 - MBC 뉴스"
       }
     },
     {
-      "title": "[속보]합수본, ‘투표율 조작’ 중앙·서울·경기·충북 선관위 전방위 압수수색 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608070912001",
-      "source": "경향신문",
-      "pubDate": "Fri, 07 Aug 2026 00:12:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/07/news-p.v1.20260807.8d1382e369664f679bd12b16f20d8085_P1.jpeg",
+      "title": "‘尹 특활비 공개’ 판결 뒤집혔다…대법 “문제의 정보, 대통령기록관 이관” - 조선일보",
+      "link": "https://www.chosun.com/national/court_law/2026/08/07/CNELHAGOFNCGLM2QRXGOIQM46I/",
+      "source": "조선일보",
+      "pubDate": "Fri, 07 Aug 2026 01:36:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MZSGKZRTGJQWENZVGRRGCNTFGI.jpg?auth=f28072770d44d38094b327219fbf25a0bd30f138f10be837678df594d3320299&width=1039&height=545&smart=true",
       "summaries": {
-        "ko": "[속보]합수본, ‘투표율 조작’ 중앙·서울·경기·충북 선관위 전방위 압수수색 - 경향신문",
-        "en": "[속보]합수본, ‘투표율 조작’ 중앙·서울·경기·충북 선관위 전방위 압수수색 - 경향신문",
-        "zh": "[속보]합수본, ‘투표율 조작’ 중앙·서울·경기·충북 선관위 전방위 압수수색 - 경향신문"
+        "ko": "‘尹 특활비 공개’ 판결 뒤집혔다…대법 “문제의 정보, 대통령기록관 이관” - 조선일보",
+        "en": "‘尹 특활비 공개’ 판결 뒤집혔다…대법 “문제의 정보, 대통령기록관 이관” - 조선일보",
+        "zh": "‘尹 특활비 공개’ 판결 뒤집혔다…대법 “문제의 정보, 대통령기록관 이관” - 조선일보"
       }
     },
     {
-      "title": "수유동 살인 피의자 검찰 송치…강도살인 혐의 적용",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260807120238xH7",
+      "title": "민주 전대 공방 격화…'돌려차기 망언' 징계 착수",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260807140357YNL",
       "source": "Breaking News",
-      "pubDate": "Fri, 07 Aug 2026 12:02:39 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260807/MYH20260807120238xH7.jpg",
+      "pubDate": "Fri, 07 Aug 2026 14:03:58 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260807/MYH20260807140357YNL.jpg",
       "summaries": {
-        "ko": "수유동 살인 피의자 검찰 송치…강도살인 혐의 적용",
-        "en": "수유동 살인 피의자 검찰 송치…강도살인 혐의 적용",
-        "zh": "수유동 살인 피의자 검찰 송치…강도살인 혐의 적용"
+        "ko": "민주 전대 공방 격화…'돌려차기 망언' 징계 착수",
+        "en": "민주 전대 공방 격화…'돌려차기 망언' 징계 착수",
+        "zh": "민주 전대 공방 격화…'돌려차기 망언' 징계 착수"
       }
     },
     {
-      "title": "'300억 사기' 혐의 차가원 대표 구속 송치",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260807120128fep",
+      "title": "[뉴스특보] 동남아보다 더운 서울…주말 '극한 더위' 누그러져",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260807140131ybS",
       "source": "Breaking News",
-      "pubDate": "Fri, 07 Aug 2026 12:01:30 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260807/MYH20260807120128fep.jpg",
+      "pubDate": "Fri, 07 Aug 2026 14:01:31 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260807/MYH20260807140131ybS.jpg",
       "summaries": {
-        "ko": "'300억 사기' 혐의 차가원 대표 구속 송치",
-        "en": "'300억 사기' 혐의 차가원 대표 구속 송치",
-        "zh": "'300억 사기' 혐의 차가원 대표 구속 송치"
+        "ko": "[뉴스특보] 동남아보다 더운 서울…주말 '극한 더위' 누그러져",
+        "en": "[뉴스특보] 동남아보다 더운 서울…주말 '극한 더위' 누그러져",
+        "zh": "[뉴스특보] 동남아보다 더운 서울…주말 '극한 더위' 누그러져"
       }
     },
     {
-      "title": "[단독] '조작 지침' 발송자도 입건…선관위 9곳 추가 압수수색",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260807120013uPU",
+      "title": "[속보] 국힘 윤리위, '돌려차기 발언' 서범수·진종오 징계절차 개시",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202608071323395Qk",
       "source": "Breaking News",
-      "pubDate": "Fri, 07 Aug 2026 12:00:14 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260807/MYH20260807120013uPU.jpg",
+      "pubDate": "Fri, 07 Aug 2026 13:23:39 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260807/AKR202608071323395Qk_01_i.jpg",
       "summaries": {
-        "ko": "[단독] '조작 지침' 발송자도 입건…선관위 9곳 추가 압수수색",
-        "en": "[단독] '조작 지침' 발송자도 입건…선관위 9곳 추가 압수수색",
-        "zh": "[단독] '조작 지침' 발송자도 입건…선관위 9곳 추가 압수수색"
-      }
-    },
-    {
-      "title": "종합특검, '관저이전 부실감사' 유병호 구속기소",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260807115902b8V",
-      "source": "Breaking News",
-      "pubDate": "Fri, 07 Aug 2026 11:59:02 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260807/MYH20260807115902b8V.jpg",
-      "summaries": {
-        "ko": "종합특검, '관저이전 부실감사' 유병호 구속기소",
-        "en": "종합특검, '관저이전 부실감사' 유병호 구속기소",
-        "zh": "종합특검, '관저이전 부실감사' 유병호 구속기소"
+        "ko": "[속보] 국힘 윤리위, '돌려차기 발언' 서범수·진종오 징계절차 개시",
+        "en": "[속보] 국힘 윤리위, '돌려차기 발언' 서범수·진종오 징계절차 개시",
+        "zh": "[속보] 국힘 윤리위, '돌려차기 발언' 서범수·진종오 징계절차 개시"
       }
     }
   ]
