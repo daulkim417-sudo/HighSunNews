@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-07T08:40:12.460380",
+  "lastUpdate": "2026-08-07T09:38:13.497715",
   "items": [
     {
       "title": "‘입추’ 낮 기온, 서울·하남·용인·광양·밀양 등 40도 넘겨 - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Fri, 07 Aug 2026 08:16:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/494/imgdb/original/2026/0807/341786090860917.webp",
       "summaries": {
-        "ko": "입추인 7일 서울 등 전국 여러 지역에서 40도 넘는 낮 최고기온을 기록하며 극한 폭염이 이어진 가운데, 주말부터 기압계 변화로 동해안에 강한 비가 예고되고 기온은 다소 낮아지겠으나 35도 이상의 폭염은 지속될 것으로 전망된다.",
-        "en": "On August 7th, marking 'Ipchu' (beginning of autumn), extreme heat surpassing 40 degrees Celsius continued in various regions including Seoul, but a change in the pressure system from the weekend is expected to bring heavy rain to the East Coast and a slight drop in temperatures, although heat above 35 degrees Celsius is still forecast to persist.",
-        "zh": "在立秋之日8月7日，包括首尔在内的全国多个地区录得超过40摄氏度的极端高温，而从周末开始，随着气压系统变化，东海岸预计将迎来强降雨，气温虽会略有下降，但35摄氏度以上的高温天气仍将持续。"
+        "ko": "입추인 7일 서울·하남 등 여러 지역의 낮 최고기온이 40도를 넘는 극한 폭염이 이어졌으나, 주말에는 기압계 변화로 일부 지역에 비가 내리며 기온이 다소 낮아질 전망이다.",
+        "en": "On Ipchu, August 7th, extreme heat continued with daytime high temperatures exceeding 40 degrees Celsius in various regions including Seoul and Hanam, but weekend changes in the atmospheric pressure system are expected to bring rain to some areas and a slight drop in temperatures.",
+        "zh": "在立秋当天（8月7日），包括首尔、河南在内的多个地区白天最高气温超过40摄氏度，极端酷暑持续，但预计周末受气压系统变化影响，部分地区将迎来降雨，气温也将略有下降。"
       }
     },
     {
@@ -20,9 +20,45 @@
       "pubDate": "Fri, 07 Aug 2026 07:45:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/640/imgdb/original/2026/0807/20260807501549.webp",
       "summaries": {
-        "ko": "더불어민주당 당대표 및 최고위원 경선이 '배신자', '반명' 같은 독설과 윤리위 제소까지 오가는 치열하고 잔혹한 내부 갈등으로 치닫고 있으며, 이는 당의 파멸을 초래할 수 있다는 우려를 낳고 있다.",
-        "en": "The Democratic Party's leadership and supreme council elections are escalating into fierce and brutal internal conflicts, marked by harsh rhetoric like \"traitor\" and \"anti-Lee Jae-myung\" and even ethics committee complaints, raising concerns that this could lead to the party's destruction.",
-        "zh": "共同民主党党首及最高委员竞选正演变为激烈而残酷的内部冲突，充斥着“叛徒”、“反李在明”等恶毒言论乃至伦理委员会举报，引发了人们对党派可能走向毁灭的担忧。"
+        "ko": "더불어민주당의 치열한 당대표 경선이 후보들과 지지자들 간의 상호 비난과 위협으로 잔혹한 내부 갈등으로 번지고 있으며, 영화 '친구'의 비극처럼 당의 자멸로 이어질 수 있다는 우려가 커지고 있다.",
+        "en": "The Democratic Party's fierce leadership election is escalating into brutal internal strife, with candidates and their supporters engaging in mutual denunciation and threats, raising concerns that intense factionalism could lead to the party's self-destruction, akin to the themes of the movie 'Friend'.",
+        "zh": "民主党激烈的党代表竞选正在演变成候选人及其支持者之间残酷的内部冲突，相互谩骂和威胁，引发了人们对这种激烈派系斗争可能导致该党自我毁灭的担忧，类似于电影《朋友》的主题。"
+      }
+    },
+    {
+      "title": "국힘 윤리위, ‘돌려차기 발언’ 서범수·진종오 징계 절차 개시 - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/08/07/2A75HULGJND7DPJMVGFJDM2I74/",
+      "source": "조선일보",
+      "pubDate": "Fri, 07 Aug 2026 04:39:49 GMT",
+      "image": "https://www.chosun.com/resizer/v2/HAZDKMJXMQYGCMLEG44DOZJTMY.jpg?auth=7829b5b4debf51f91c2a13e70eb2db5d57f3163a6794d2d4d2a82789b37945ef&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "국힘 윤리위, ‘돌려차기 발언’ 서범수·진종오 징계 절차 개시 - 조선일보",
+        "en": "국힘 윤리위, ‘돌려차기 발언’ 서범수·진종오 징계 절차 개시 - 조선일보",
+        "zh": "국힘 윤리위, ‘돌려차기 발언’ 서범수·진종오 징계 절차 개시 - 조선일보"
+      }
+    },
+    {
+      "title": "국방부 \"사관학교 통합으로 잘못된 역사 단절·국군 정체성 확립\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6843182_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Fri, 07 Aug 2026 06:46:10 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/08/07/jse_20260807_7.jpg",
+      "summaries": {
+        "ko": "국방부는 '국군사관학교' 창설을 통한 사관학교 통합 방안이 \"잘못된 역사와 단절하고 국군 정체성을 확립하는 초석이 될 것\"이라며 신속한 추진 방침을 재확인했습니다.",
+        "en": "The Ministry of National Defense reconfirmed its swift plan to integrate the military academies into a 'National Armed Forces Academy,' stating it would serve as a foundation to break from \"wrong history\" and establish the military's identity.",
+        "zh": "韩国国防部再次确认将迅速推进将各军种士官学校整合为“国军士官学校”的方案，并表示此举将是“与错误历史决裂、确立国军认同感”的基石。"
+      }
+    },
+    {
+      "title": "민주·혁신·진보당 법사위원들 “조희대, 노태악 후임 대법관 즉시 제청하라” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1271904.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 07 Aug 2026 06:16:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/734/492/imgdb/original/2026/0807/20260807501496.webp",
+      "summaries": {
+        "ko": "더불어민주당, 조국혁신당, 진보당 법사위원들은 조희대 대법원장이 노태악 전 대법관 후임 제청을 6개월 넘게 미루고 주요 사건 심리까지 지연시키는 것을 비판하며, 즉각적인 대법관 제청과 사법부 정상화를 촉구했다.",
+        "en": "Members of the Legislation and Judiciary Committee from the Democratic Party, Jo Guk Innovation Party, and Jinbo Party criticized Chief Justice Cho Hee-dae for delaying the nomination of a successor to former Supreme Court Justice Noh Tae-ak for over six months and for prolonging the review of major cases, urging immediate nomination of a Supreme Court justice and normalization of the judiciary.",
+        "zh": "共同民主党、祖国革新党和进步党法制司法委员会委员们批评大法院院长曹喜大拖延任命前大法院大法官卢泰岳的继任者长达六个多月，并拖延对重大案件的审理，敦促立即任命大法官并使司法机构正常化。"
       }
     },
     {
@@ -32,45 +68,21 @@
       "pubDate": "Fri, 07 Aug 2026 07:54:00 GMT",
       "image": "http://news.kbs.co.kr/data/news/2026/08/07/20260807_CulEF2.jpg",
       "summaries": {
-        "ko": "어제 전국에서 185명의 온열질환자가 발생하여 누적 환자 수가 2,872명, 사망자는 23명으로 집계되었으며, 질병관리청은 폭염 대비 예방 수칙 준수를 당부했다.",
-        "en": "Yesterday, 185 heat-related illness patients were reported nationwide, bringing the cumulative total to 2,872 with 23 deaths, and the Korea Disease Control and Prevention Agency urged adherence to prevention guidelines during heatwaves.",
-        "zh": "昨日全国报告185名中暑患者，累计患者达2,872人，死亡23人，疾病管理厅呼吁在酷暑期间遵守预防指南。"
+        "ko": "질병관리청은 어제 온열질환자 185명이 발생해 누적 2,872명, 사망자 23명으로 집계됐으며, 폭염 속 온열질환 발생 통계와 예방 수칙을 강조했습니다.",
+        "en": "The Korea Disease Control and Prevention Agency reported 185 heat-related illness patients yesterday, bringing the cumulative total to 2,872 with 23 deaths, and emphasized statistics on heatstroke occurrences during the heatwave along with prevention guidelines.",
+        "zh": "疾病管理厅表示，昨日新增185名中暑患者，累计总数达2,872名，死亡人数为23名，并强调了高温下中暑发病统计数据和预防措施。"
       }
     },
     {
-      "title": "국힘 윤리위, ‘돌려차기 발언’ 서범수·진종오 징계 절차 개시 - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/08/07/2A75HULGJND7DPJMVGFJDM2I74/",
-      "source": "조선일보",
-      "pubDate": "Fri, 07 Aug 2026 04:37:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/HAZDKMJXMQYGCMLEG44DOZJTMY.jpg?auth=7829b5b4debf51f91c2a13e70eb2db5d57f3163a6794d2d4d2a82789b37945ef&width=1200&height=630&smart=true",
+      "title": "국힘, 與 황희 '버스하우스' 제안에 \"본인과 가족이 1호로 입주해라\" - v.daum.net",
+      "link": "https://v.daum.net/v/20260807174128832",
+      "source": "v.daum.net",
+      "pubDate": "Fri, 07 Aug 2026 08:41:28 GMT",
+      "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/07/inews24/20260807174129808dayg.jpg",
       "summaries": {
-        "ko": "국힘 윤리위, ‘돌려차기 발언’ 서범수·진종오 징계 절차 개시 - 조선일보",
-        "en": "국힘 윤리위, ‘돌려차기 발언’ 서범수·진종오 징계 절차 개시 - 조선일보",
-        "zh": "국힘 윤리위, ‘돌려차기 발언’ 서범수·진종오 징계 절차 개시 - 조선일보"
-      }
-    },
-    {
-      "title": "육사는 여전히 ‘특권 계급’…사관학교 개혁이 필요한 이유 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/polibar/1271844.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 07 Aug 2026 04:48:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/581/388/imgdb/original/2026/0710/20260710502561.webp",
-      "summaries": {
-        "ko": "이재명 대통령의 사관학교 통합 언급을 계기로 육군사관학교의 쿠데타 개입 역사와 군내 특권 계급 논란이 재점화되면서 사관학교 개혁의 필요성이 대두되고 있다.",
-        "en": "President Lee Jae-myung's remarks on integrating military academies have reignited debate over the ROK Military Academy's history of coup involvement and its perceived privileged status within the military, highlighting the urgent need for comprehensive reform.",
-        "zh": "随着李在明总统提及合并军官学校，韩国陆军士官学校曾涉入政变的历史及其在军队中的特权阶级争议再度浮现，凸显了军官学校改革的必要性。"
-      }
-    },
-    {
-      "title": "이 대통령, 국가폭력 피해자 위로 오찬…“국가가 책임지고 치유” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8631392",
-      "source": "KBS 뉴스",
-      "pubDate": "Fri, 07 Aug 2026 05:33:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/08/07/20260807_41lc7r.jpg",
-      "summaries": {
-        "ko": "이재명 대통령은 국가폭력 피해자 위로 오찬에서 과거사 정리의 중요성을 강조하며, 국가가 책임지고 치유와 진실 규명에 나서겠다고 밝히고, 특히 조사3국 신설 등을 통해 집단 수용 시설 인권 유린과 해외 강제 입양 사건 등도 철저히 조사하겠다고 다짐했습니다.",
-        "en": "President Lee Jae-myung, at a luncheon for victims of state violence, emphasized the importance of addressing past wrongdoings, vowing that the state would take responsibility for healing and truth-finding, and specifically committed to thoroughly investigating human rights abuses in collective detention facilities and forced overseas adoptions through the establishment of a new third investigation bureau.",
-        "zh": "李在明总统在慰问国家暴力受害者午餐会上强调了整理历史旧案的重要性，承诺国家将负责治愈和查明真相，并特别表示将通过新设第三调查局等方式，彻底调查集体收容设施的人权侵犯和海外强制收养事件。"
+        "ko": "국민의힘은 황희 더불어민주당 의원의 폐버스 개조 '버스하우스' 제안을 청년에 대한 모욕이라며 \"본인과 가족이 1호로 입주하라\"고 맹비난했다.",
+        "en": "The People Power Party fiercely criticized Democratic Party lawmaker Hwang Hee's \"bus house\" proposal to convert discarded buses into housing, calling it an insult to youth and demanding, \"he and his family be the first residents.\"",
+        "zh": "国民力量党猛烈批评了共同民主党议员黄熙将废弃巴士改造为“巴士房”的提议，称其是对年轻人的侮辱，并要求“黄熙本人和家人首先入住第一号巴士房”。"
       }
     },
     {
@@ -80,45 +92,33 @@
       "pubDate": "Fri, 07 Aug 2026 00:48:28 GMT",
       "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/07/lyj_260807_8.jpg",
       "summaries": {
-        "ko": "합동수사본부가 선거관리위원회 직원들이 투표율을 허위 입력하고 통계 수치를 임의로 조작한 혐의로 서울, 경기, 충북 등지의 선관위를 추가 압수수색했습니다.",
-        "en": "The joint investigation team has conducted additional raids on election commissions in Seoul, Gyeonggi, and Chungbuk, among others, on suspicion that their employees falsely entered voter turnout and arbitrarily manipulated election statistics.",
-        "zh": "联合调查本部因怀疑选举委员会职员虚报投票率并随意篡改选举统计数据，对首尔、京畿、忠北等地的选举委员会进行了追加搜查。"
+        "ko": "합수본, '통계 조작 의혹' 서울·경기·충북 선관위 등 추가 압수수색 - MBC 뉴스",
+        "en": "합수본, '통계 조작 의혹' 서울·경기·충북 선관위 등 추가 압수수색 - MBC 뉴스",
+        "zh": "합수본, '통계 조작 의혹' 서울·경기·충북 선관위 등 추가 압수수색 - MBC 뉴스"
       }
     },
     {
-      "title": "\"내가 부동산 혼란 장본인? 적반하장에도 정도가 있다\" 오세훈, 與한병도에 반박 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/08/07/5CZRCEGTENAJVLWUNTOSSJHUK4/",
-      "source": "조선일보",
-      "pubDate": "Fri, 07 Aug 2026 04:29:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/WEVNJLBGUFCLLKMPDMZ4LP6GQA.JPG?auth=5c5326b95ee69bc768a286fae4a69ad8d5a5ecc73fe993d3ee7f8bbff993237e&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "\"내가 부동산 혼란 장본인? 적반하장에도 정도가 있다\" 오세훈, 與한병도에 반박 - 조선일보",
-        "en": "\"내가 부동산 혼란 장본인? 적반하장에도 정도가 있다\" 오세훈, 與한병도에 반박 - 조선일보",
-        "zh": "\"내가 부동산 혼란 장본인? 적반하장에도 정도가 있다\" 오세훈, 與한병도에 반박 - 조선일보"
-      }
-    },
-    {
-      "title": "‘사진 찍고 기록하느라’ 정작 아이 못 보는 유치원 교사들···10명 중 3명 “안전지도 공백” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608071412001",
-      "source": "경향신문",
-      "pubDate": "Fri, 07 Aug 2026 05:12:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/07/news-p.v1.20260807.3f1ee63534e1437f927a105737a58101_P1.png",
-      "summaries": {
-        "ko": "‘사진 찍고 기록하느라’ 정작 아이 못 보는 유치원 교사들···10명 중 3명 “안전지도 공백” - 경향신문",
-        "en": "‘사진 찍고 기록하느라’ 정작 아이 못 보는 유치원 교사들···10명 중 3명 “안전지도 공백” - 경향신문",
-        "zh": "‘사진 찍고 기록하느라’ 정작 아이 못 보는 유치원 교사들···10명 중 3명 “안전지도 공백” - 경향신문"
-      }
-    },
-    {
-      "title": "서장훈, 28억에 산 양재역 건물 내놔…26년 만에 호가 450억",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260807173738kc1",
+      "title": "블랙핑크, 10주년 팬 이벤트 '국중박'에서 연다",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260807182429EDa",
       "source": "Breaking News",
-      "pubDate": "Fri, 07 Aug 2026 17:37:38 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260807/AKR20260807173738kc1_01_i.jpg",
+      "pubDate": "Fri, 07 Aug 2026 18:24:29 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260807/AKR20260807182429EDa_01_i.jpg",
       "summaries": {
-        "ko": "서장훈, 28억에 산 양재역 건물 내놔…26년 만에 호가 450억",
-        "en": "서장훈, 28억에 산 양재역 건물 내놔…26년 만에 호가 450억",
-        "zh": "서장훈, 28억에 산 양재역 건물 내놔…26년 만에 호가 450억"
+        "ko": "블랙핑크가 데뷔 10주년을 기념하여 내일(8일) 국립중앙박물관에서 팬 이벤트 '밋 앤드 그릿'을 개최하고 '블랙핑크 헤리티지 컬렉션'을 선보인다.",
+        "en": "To celebrate their 10th debut anniversary, BLACKPINK will hold a 'Meet & Greet' fan event and unveil the 'BLACKPINK Heritage Collection' tomorrow (the 8th) at the National Museum of Korea.",
+        "zh": "为庆祝出道10周年，BLACKPINK将于明天（8日）在国立中央博物馆举办粉丝见面会“Meet & Greet”，并推出“BLACKPINK遗产收藏系列”。"
+      }
+    },
+    {
+      "title": "한국 남자배구, 마카오 3-0 완승…동아시아선수권 준결승 진출",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260807181738rR1",
+      "source": "Breaking News",
+      "pubDate": "Fri, 07 Aug 2026 18:17:41 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260807/AKR20260807181738rR1_01_i.jpg",
+      "summaries": {
+        "ko": "한국 남자배구 대표팀이 2026 동아시아남자선수권대회 조별리그에서 마카오를 3-0으로 완파하며 3연승으로 조 1위로 준결승에 진출했습니다.",
+        "en": "The South Korean men's national volleyball team defeated Macau 3-0, securing their third consecutive win in the group stage of the 2026 East Asian Men's Volleyball Championship and advancing to the semifinals as group leader.",
+        "zh": "韩国男排在2026年东亚男排锦标赛小组赛中以3-0完胜澳门队，取得三连胜并以小组第一的身份晋级半决赛。"
       }
     }
   ]
