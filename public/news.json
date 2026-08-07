@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-07T21:25:51.124832",
+  "lastUpdate": "2026-08-07T22:01:33.310698",
   "items": [
     {
       "title": "이 대통령, 부동산 2차 점검회의…“공급 최대한 늘리고 시기도 앞당겨라” - 한겨레",
@@ -8,9 +8,21 @@
       "pubDate": "Fri, 07 Aug 2026 15:47:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/640/431/imgdb/original/2026/0807/20260807502082.webp",
       "summaries": {
-        "ko": "이재명 대통령이 2차 부동산 점검회의를 주재하며 주택 공급의 최대한 확대 및 시기 단축을 지시했으며, 다음 주 중 수도권 5만 호 이상 공급 대책 발표가 예고되었다.",
-        "en": "President Lee Jae-myung chaired a second real estate review meeting, instructing to maximize and expedite housing supply, with the announcement of a plan for over 50,000 units in the Seoul metropolitan area expected next week.",
-        "zh": "李在明总统主持了第二次房地产检查会议，指示最大限度地增加住房供应并加快供应时间，预计下周将公布首都圈5万套以上住房的供应对策。"
+        "ko": "이재명 대통령은 두 번째 부동산 점검회의를 열고 주택 공급을 최대한 늘리고 시기를 앞당기는 방안을 신속히 실행할 것을 지시했다.",
+        "en": "President Lee Jae-myung held his second real estate review meeting, instructing the rapid implementation of measures to maximize housing supply and accelerate its timing.",
+        "zh": "李在明总统召开第二次房地产检查会议，指示迅速实施旨在最大限度增加住房供应并提前供应时间的方案。"
+      }
+    },
+    {
+      "title": "[주말 날씨] 제주도, 태풍 영향 강풍.풍랑특보...내일까지 반가운 '비' - 헤드라인제주",
+      "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597197",
+      "source": "헤드라인제주",
+      "pubDate": "Fri, 07 Aug 2026 21:05:00 GMT",
+      "image": "https://www.headlinejeju.co.kr/news/photo/202608/597197_493099_118.png",
+      "summaries": {
+        "ko": "[주말 날씨] 제주도, 태풍 영향 강풍.풍랑특보...내일까지 반가운 '비' - 헤드라인제주",
+        "en": "[주말 날씨] 제주도, 태풍 영향 강풍.풍랑특보...내일까지 반가운 '비' - 헤드라인제주",
+        "zh": "[주말 날씨] 제주도, 태풍 영향 강풍.풍랑특보...내일까지 반가운 '비' - 헤드라인제주"
       }
     },
     {
@@ -26,39 +38,15 @@
       }
     },
     {
-      "title": "경찰, 9월부터 ‘상피제’ 시행... 가족사건 직접 수사 못한다 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/08/07/CKZWTTGHYZBS7F4UWSP6JJGUKM/",
-      "source": "조선일보",
-      "pubDate": "Fri, 07 Aug 2026 09:51:34 GMT",
-      "image": "https://www.chosun.com/resizer/v2/7ARF6Q7W6JHNRIGFG2BAIIUCQ4.JPG?auth=d0b371355a7e3ab47201022b2aeed0053ed73ccf479a443e535d91e218fb8c6f&width=1200&height=630&smart=true",
+      "title": "[속보] 경찰, 9월 초부터 ‘가족사건 상피제’ 전격 실시 - 매일경제",
+      "link": "https://www.mk.co.kr/news/society/12121113",
+      "source": "매일경제",
+      "pubDate": "Fri, 07 Aug 2026 08:38:16 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202608/07/news-p.v1.20260807.d4aa81082b63470ba5ee7779cee122ad_R.png",
       "summaries": {
-        "ko": "경찰, 9월부터 ‘상피제’ 시행... 가족사건 직접 수사 못한다 - 조선일보",
-        "en": "경찰, 9월부터 ‘상피제’ 시행... 가족사건 직접 수사 못한다 - 조선일보",
-        "zh": "경찰, 9월부터 ‘상피제’ 시행... 가족사건 직접 수사 못한다 - 조선일보"
-      }
-    },
-    {
-      "title": "외교관·유학생이 낳은 아이도 美시민권 못 받아 - 조선일보",
-      "link": "https://www.chosun.com/international/us/2026/08/08/5GFNRYEILJGNRHPVZXLXVKJLY4/",
-      "source": "조선일보",
-      "pubDate": "Fri, 07 Aug 2026 15:50:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/AG2YL6NCVVK2BD63SXJKT4S6UA.jpg?auth=c9ab9c078594c8929c9c7f300c1a2756be36052728de28d943ba1b8ae779a7f7&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "외교관·유학생이 낳은 아이도 美시민권 못 받아 - 조선일보",
-        "en": "외교관·유학생이 낳은 아이도 美시민권 못 받아 - 조선일보",
-        "zh": "외교관·유학생이 낳은 아이도 美시민권 못 받아 - 조선일보"
-      }
-    },
-    {
-      "title": "복지부, 폭염 초기대응반→‘폭염대응 비상대책본부’ 격상 대응 - 이투데이",
-      "link": "https://bravo.etoday.co.kr/view/atc_view/19804",
-      "source": "이투데이",
-      "pubDate": "Fri, 07 Aug 2026 15:06:00 GMT",
-      "image": "https://img.etoday.co.kr/pto_db/2026/08/20260808000536_2370369_1000_666.jpg",
-      "summaries": {
-        "ko": "복지부, 폭염 초기대응반→‘폭염대응 비상대책본부’ 격상 대응 - 이투데이",
-        "en": "복지부, 폭염 초기대응반→‘폭염대응 비상대책본부’ 격상 대응 - 이투데이",
-        "zh": "복지부, 폭염 초기대응반→‘폭염대응 비상대책본부’ 격상 대응 - 이투데이"
+        "ko": "[속보] 경찰, 9월 초부터 ‘가족사건 상피제’ 전격 실시 - 매일경제",
+        "en": "[속보] 경찰, 9월 초부터 ‘가족사건 상피제’ 전격 실시 - 매일경제",
+        "zh": "[속보] 경찰, 9월 초부터 ‘가족사건 상피제’ 전격 실시 - 매일경제"
       }
     },
     {
@@ -74,6 +62,18 @@
       }
     },
     {
+      "title": "태풍 13호 ‘돌핀’ 오키나와 강타…중국도 초비상 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8631631",
+      "source": "KBS 뉴스",
+      "pubDate": "Fri, 07 Aug 2026 12:27:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/08/07/20260807_i6CUM1.png",
+      "summaries": {
+        "ko": "태풍 13호 ‘돌핀’ 오키나와 강타…중국도 초비상 - KBS 뉴스",
+        "en": "태풍 13호 ‘돌핀’ 오키나와 강타…중국도 초비상 - KBS 뉴스",
+        "zh": "태풍 13호 ‘돌핀’ 오키나와 강타…중국도 초비상 - KBS 뉴스"
+      }
+    },
+    {
       "title": "민주당 황희, 폐버스 개조해 청년 주거공간으로 쓰자며 ‘버스하우스’ 제안…국힘 “청년세대 모욕” - 경향신문",
       "link": "https://www.khan.co.kr/article/202608071804001",
       "source": "경향신문",
@@ -86,39 +86,39 @@
       }
     },
     {
-      "title": "강원 원주 태장동 아파트서 정전…주민 불편(종합) - 연합뉴스",
+      "title": "민주당 전대, 오늘 제주·인천 경선…정청래·김민석 ’초접전’ 속 2차전 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260808061757f8f",
+      "source": "연합뉴스TV",
+      "pubDate": "Fri, 07 Aug 2026 21:17:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260807/AKR20260808061757f8f_01_i.jpg",
+      "summaries": {
+        "ko": "민주당 전대, 오늘 제주·인천 경선…정청래·김민석 ’초접전’ 속 2차전 - 연합뉴스TV",
+        "en": "민주당 전대, 오늘 제주·인천 경선…정청래·김민석 ’초접전’ 속 2차전 - 연합뉴스TV",
+        "zh": "민주당 전대, 오늘 제주·인천 경선…정청래·김민석 ’초접전’ 속 2차전 - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "복지부, 불볕더위 길어지자 '폭염 대응 비상대책본부' 구성 - yna.co.kr",
+      "link": "https://www.yna.co.kr/view/AKR20260807162800530",
+      "source": "yna.co.kr",
+      "pubDate": "Fri, 07 Aug 2026 13:30:35 GMT",
+      "image": "https://img5.yna.co.kr/photo/yna/YH/2026/08/07/PYH2026080709110001301_P4.jpg",
+      "summaries": {
+        "ko": "복지부, 불볕더위 길어지자 '폭염 대응 비상대책본부' 구성 - yna.co.kr",
+        "en": "복지부, 불볕더위 길어지자 '폭염 대응 비상대책본부' 구성 - yna.co.kr",
+        "zh": "복지부, 불볕더위 길어지자 '폭염 대응 비상대책본부' 구성 - yna.co.kr"
+      }
+    },
+    {
+      "title": "강원 원주 태장동 아파트서 정전…주민 불편(종합) - yna.co.kr",
       "link": "https://www.yna.co.kr/view/AKR20260807164351062",
-      "source": "연합뉴스",
+      "source": "yna.co.kr",
       "pubDate": "Fri, 07 Aug 2026 15:10:43 GMT",
       "image": "https://img9.yna.co.kr/photo/cms/2017/04/07/01/C0A8CA3D0000015B46310C860015B265_P4.jpeg",
       "summaries": {
-        "ko": "강원 원주 태장동 아파트서 정전…주민 불편(종합) - 연합뉴스",
-        "en": "강원 원주 태장동 아파트서 정전…주민 불편(종합) - 연합뉴스",
-        "zh": "강원 원주 태장동 아파트서 정전…주민 불편(종합) - 연합뉴스"
-      }
-    },
-    {
-      "title": "집에서 말다툼 중 어머니 흉기 살해…10대 아들 체포 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8631824",
-      "source": "KBS 뉴스",
-      "pubDate": "Fri, 07 Aug 2026 15:35:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/08/08/20260808_yn9XAI.jpg",
-      "summaries": {
-        "ko": "집에서 말다툼 중 어머니 흉기 살해…10대 아들 체포 - KBS 뉴스",
-        "en": "집에서 말다툼 중 어머니 흉기 살해…10대 아들 체포 - KBS 뉴스",
-        "zh": "집에서 말다툼 중 어머니 흉기 살해…10대 아들 체포 - KBS 뉴스"
-      }
-    },
-    {
-      "title": "서울 노원 40.2도‥올여름 서울 최고 기온 경신 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6843179_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Fri, 07 Aug 2026 06:39:56 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/07/jhp_20260807_1.jpg",
-      "summaries": {
-        "ko": "서울 노원 40.2도‥올여름 서울 최고 기온 경신 - MBC 뉴스",
-        "en": "서울 노원 40.2도‥올여름 서울 최고 기온 경신 - MBC 뉴스",
-        "zh": "서울 노원 40.2도‥올여름 서울 최고 기온 경신 - MBC 뉴스"
+        "ko": "강원 원주 태장동 아파트서 정전…주민 불편(종합) - yna.co.kr",
+        "en": "강원 원주 태장동 아파트서 정전…주민 불편(종합) - yna.co.kr",
+        "zh": "강원 원주 태장동 아파트서 정전…주민 불편(종합) - yna.co.kr"
       }
     }
   ]
