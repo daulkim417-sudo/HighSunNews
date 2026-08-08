@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-08-08T10:51:33.472107",
+  "lastUpdate": "2026-08-08T11:17:31.804241",
   "items": [
-    {
-      "title": "김민석 “경선 갈등 제로”-정청래 “진흙탕 사과부터”…제주 순회경선 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1271986.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 08 Aug 2026 07:39:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/860/425/imgdb/original/2026/0808/20260808500291.webp",
-      "summaries": {
-        "ko": "더불어민주당 대표 제주 순회경선에서 김민석 후보는 '경선 갈등 제로'를 내세웠으나 정청래 후보는 김 후보의 과거 '신천지 개입설' 발언에 대한 사과와 윤리감찰을 요구하며 맞섰고, 송영길 후보는 사법개혁을 강조하며 지지를 호소했다.",
-        "en": "During the Democratic Party's Jeju primary, candidate Kim Min-seok advocated for 'zero primary conflicts,' but candidate Jung Chung-rae countered by demanding an apology for Kim's past 'Shincheonji intervention theory' remarks and promising an ethics audit, while candidate Song Young-gil emphasized judicial reform to garner support.",
-        "zh": "在共同民主党济州巡回竞选中，金民锡候选人主张“竞选零冲突”，但郑清来候选人反驳称金民锡应为过去的“新天地介入说”言论道歉并承诺进行道德审查，而宋永吉候选人则强调司法改革以争取支持。"
-      }
-    },
     {
       "title": "결혼하면 대출·청약 불리?···이 대통령 “결혼 때문에 불이익 없어야” - 경향신문",
       "link": "https://www.khan.co.kr/article/202608081423001",
@@ -20,9 +8,9 @@
       "pubDate": "Sat, 08 Aug 2026 05:23:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/08/08/news-p.v1.20260808.48aa57c615ce410d8e91fcc3284b33ed_P1.jpg",
       "summaries": {
-        "ko": "결혼하면 대출·청약 불리?···이 대통령 “결혼 때문에 불이익 없어야” - 경향신문",
-        "en": "결혼하면 대출·청약 불리?···이 대통령 “결혼 때문에 불이익 없어야” - 경향신문",
-        "zh": "결혼하면 대출·청약 불리?···이 대통령 “결혼 때문에 불이익 없어야” - 경향신문"
+        "ko": "이 대통령은 대출, 청약, 세금 등 국가 정책으로 인한 '결혼 페널티'를 없애 결혼으로 불이익을 받는 일이 없도록 관련 제도 개선을 지시하고 국민 의견을 청취하겠다고 밝혔다.",
+        "en": "President Lee announced plans to eliminate \"marriage penalties\" in national policies, such as those for loans, housing subscriptions, and taxes, by directing systemic improvements to ensure marriage does not result in disadvantages, and committed to gathering public feedback.",
+        "zh": "李总统表示，将指示改善贷款、住房认购和税收等国家政策中的“婚姻惩罚”问题，以确保婚姻不会带来不利益，并承诺听取民众意见。"
       }
     },
     {
@@ -38,63 +26,99 @@
       }
     },
     {
-      "title": "열대야 드디어 멈추나…다음 주 수요일 아침 19도? - news.kbs.co.kr",
+      "title": "입추 맞나요?…가을 문턱 ‘더위’로 3명 사망, 온열질환자 수 202명 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/health/1271997.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 08 Aug 2026 08:11:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/651/imgdb/original/2026/0808/7417861759848549.webp",
+      "summaries": {
+        "ko": "입추 맞나요?…가을 문턱 ‘더위’로 3명 사망, 온열질환자 수 202명 - 한겨레",
+        "en": "입추 맞나요?…가을 문턱 ‘더위’로 3명 사망, 온열질환자 수 202명 - 한겨레",
+        "zh": "입추 맞나요?…가을 문턱 ‘더위’로 3명 사망, 온열질환자 수 202명 - 한겨레"
+      }
+    },
+    {
+      "title": "김민석 “경선 갈등 제로”-정청래 “진흙탕 사과부터”…제주 순회경선 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1271986.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 08 Aug 2026 07:39:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/860/425/imgdb/original/2026/0808/20260808500291.webp",
+      "summaries": {
+        "ko": "김민석 “경선 갈등 제로”-정청래 “진흙탕 사과부터”…제주 순회경선 - 한겨레",
+        "en": "김민석 “경선 갈등 제로”-정청래 “진흙탕 사과부터”…제주 순회경선 - 한겨레",
+        "zh": "김민석 “경선 갈등 제로”-정청래 “진흙탕 사과부터”…제주 순회경선 - 한겨레"
+      }
+    },
+    {
+      "title": "열대야 드디어 멈추나…다음 주 수요일 아침 19도? - KBS 뉴스",
       "link": "https://news.kbs.co.kr/news/view.do?ncd=8631957",
-      "source": "news.kbs.co.kr",
+      "source": "KBS 뉴스",
       "pubDate": "Sat, 08 Aug 2026 02:57:00 GMT",
       "image": "http://news.kbs.co.kr/data/fckeditor/new/image/2026/08/08/330821786109333877.png",
       "summaries": {
-        "ko": "열대야 드디어 멈추나…다음 주 수요일 아침 19도? - news.kbs.co.kr",
-        "en": "열대야 드디어 멈추나…다음 주 수요일 아침 19도? - news.kbs.co.kr",
-        "zh": "열대야 드디어 멈추나…다음 주 수요일 아침 19도? - news.kbs.co.kr"
+        "ko": "열대야 드디어 멈추나…다음 주 수요일 아침 19도? - KBS 뉴스",
+        "en": "열대야 드디어 멈추나…다음 주 수요일 아침 19도? - KBS 뉴스",
+        "zh": "열대야 드디어 멈추나…다음 주 수요일 아침 19도? - KBS 뉴스"
       }
     },
     {
-      "title": "폭염 속 대구 아파트 1200세대 한밤 정전…“차에서 에어컨 틀고 기다려” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1271978.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 08 Aug 2026 07:39:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/540/imgdb/original/2026/0808/20260808500175.webp",
+      "title": "강릉 시간당 60mm 폭우‥영동 곳곳 호우특보 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6843299_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sat, 08 Aug 2026 00:21:42 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/08/sa_20260808_11.jpg",
       "summaries": {
-        "ko": "폭염 속 대구 아파트 1200세대 한밤 정전…“차에서 에어컨 틀고 기다려” - 한겨레",
-        "en": "폭염 속 대구 아파트 1200세대 한밤 정전…“차에서 에어컨 틀고 기다려” - 한겨레",
-        "zh": "폭염 속 대구 아파트 1200세대 한밤 정전…“차에서 에어컨 틀고 기다려” - 한겨레"
+        "ko": "강릉 시간당 60mm 폭우‥영동 곳곳 호우특보 - MBC 뉴스",
+        "en": "강릉 시간당 60mm 폭우‥영동 곳곳 호우특보 - MBC 뉴스",
+        "zh": "강릉 시간당 60mm 폭우‥영동 곳곳 호우특보 - MBC 뉴스"
       }
     },
     {
-      "title": "물놀이 갔다가 ‘물폭탄’에 화들짝···강원·경북 동해안 시간당 80㎜ ‘폭우’ 도로 침수 등 피해 잇따라 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608081538001",
+      "title": "농식품부, 폭염에 육계·상추 피해 예방 총력…현장관리 강화 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260808020800030",
+      "source": "연합뉴스",
+      "pubDate": "Sat, 08 Aug 2026 04:00:00 GMT",
+      "image": "https://img9.yna.co.kr/photo/yna/YH/2026/08/07/PYH2026080706260005500_P4.jpg",
+      "summaries": {
+        "ko": "농식품부, 폭염에 육계·상추 피해 예방 총력…현장관리 강화 - 연합뉴스",
+        "en": "농식품부, 폭염에 육계·상추 피해 예방 총력…현장관리 강화 - 연합뉴스",
+        "zh": "농식품부, 폭염에 육계·상추 피해 예방 총력…현장관리 강화 - 연합뉴스"
+      }
+    },
+    {
+      "title": "민주당 황희, 폐버스 개조해 청년 주거공간으로 쓰자며 ‘버스하우스’ 제안…국힘 “청년세대 모욕” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608071804001",
       "source": "경향신문",
-      "pubDate": "Sat, 08 Aug 2026 06:38:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/08/news-p.v1.20250716.784867cae0cd44b2aa8c9962dc7c9b53_P1.jpeg",
+      "pubDate": "Fri, 07 Aug 2026 09:04:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/07/rcv.YNA.20260420.PYH2026042018050001300_P1.jpg",
       "summaries": {
-        "ko": "물놀이 갔다가 ‘물폭탄’에 화들짝···강원·경북 동해안 시간당 80㎜ ‘폭우’ 도로 침수 등 피해 잇따라 - 경향신문",
-        "en": "물놀이 갔다가 ‘물폭탄’에 화들짝···강원·경북 동해안 시간당 80㎜ ‘폭우’ 도로 침수 등 피해 잇따라 - 경향신문",
-        "zh": "물놀이 갔다가 ‘물폭탄’에 화들짝···강원·경북 동해안 시간당 80㎜ ‘폭우’ 도로 침수 등 피해 잇따라 - 경향신문"
+        "ko": "민주당 황희, 폐버스 개조해 청년 주거공간으로 쓰자며 ‘버스하우스’ 제안…국힘 “청년세대 모욕” - 경향신문",
+        "en": "민주당 황희, 폐버스 개조해 청년 주거공간으로 쓰자며 ‘버스하우스’ 제안…국힘 “청년세대 모욕” - 경향신문",
+        "zh": "민주당 황희, 폐버스 개조해 청년 주거공간으로 쓰자며 ‘버스하우스’ 제안…국힘 “청년세대 모욕” - 경향신문"
       }
     },
     {
-      "title": "어제 온열질환자 202명 발생…올해 3천 명 돌파 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260808183856gUd",
-      "source": "연합뉴스TV",
-      "pubDate": "Sat, 08 Aug 2026 09:38:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260808/AKR20260808183856gUd_01_i.jpg",
+      "title": "김민석, 제주·인천서 鄭에 5.6%p차 승리…누적 득표는 '초박빙'",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260808195624PgV",
+      "source": "Breaking News",
+      "pubDate": "Sat, 08 Aug 2026 19:56:24 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260808/AKR20260808195624PgV_01_i.jpg",
       "summaries": {
-        "ko": "어제 온열질환자 202명 발생…올해 3천 명 돌파 - 연합뉴스TV",
-        "en": "어제 온열질환자 202명 발생…올해 3천 명 돌파 - 연합뉴스TV",
-        "zh": "어제 온열질환자 202명 발생…올해 3천 명 돌파 - 연합뉴스TV"
+        "ko": "김민석, 제주·인천서 鄭에 5.6%p차 승리…누적 득표는 '초박빙'",
+        "en": "김민석, 제주·인천서 鄭에 5.6%p차 승리…누적 득표는 '초박빙'",
+        "zh": "김민석, 제주·인천서 鄭에 5.6%p차 승리…누적 득표는 '초박빙'"
       }
     },
     {
-      "title": "면목동 주택가서 60대 지인간 흉기 난동… 둘 다 사망 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/08/08/3UWOHFLA4BF3XNO7JK6L47LB3A/",
-      "source": "조선일보",
-      "pubDate": "Sat, 08 Aug 2026 02:55:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MIYDKM3CMI3TQMDEMY2GCMZYGU.jpg?auth=ccfa2bf00f921be72ad6638250ebce1da246fc34cf87ac9b1307af7b91a7b092&width=1200&height=630&smart=true",
+      "title": "[날씨] 휴일 극한 더위는 완화…동해안 곳곳 집중호우",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260808195523Q1C",
+      "source": "Breaking News",
+      "pubDate": "Sat, 08 Aug 2026 19:55:24 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260808/MYH20260808195523Q1C.jpg",
       "summaries": {
-        "ko": "면목동 주택가서 60대 지인간 흉기 난동… 둘 다 사망 - 조선일보",
-        "en": "면목동 주택가서 60대 지인간 흉기 난동… 둘 다 사망 - 조선일보",
-        "zh": "면목동 주택가서 60대 지인간 흉기 난동… 둘 다 사망 - 조선일보"
+        "ko": "[날씨] 휴일 극한 더위는 완화…동해안 곳곳 집중호우",
+        "en": "[날씨] 휴일 극한 더위는 완화…동해안 곳곳 집중호우",
+        "zh": "[날씨] 휴일 극한 더위는 완화…동해안 곳곳 집중호우"
       }
     },
     {
@@ -110,18 +134,6 @@
       }
     },
     {
-      "title": "폭염 속 아파트 정전 속출…\"노후 변압기 과부하\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260808194539emE",
-      "source": "Breaking News",
-      "pubDate": "Sat, 08 Aug 2026 19:45:40 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260808/MYH20260808194539emE.jpg",
-      "summaries": {
-        "ko": "폭염 속 아파트 정전 속출…\"노후 변압기 과부하\"",
-        "en": "폭염 속 아파트 정전 속출…\"노후 변압기 과부하\"",
-        "zh": "폭염 속 아파트 정전 속출…\"노후 변압기 과부하\""
-      }
-    },
-    {
       "title": "[속보] 與경선 당원투표 누계 金 45.42%·鄭 44.56%…가중치 未반영",
       "link": "https://www.yonhapnewstv.co.kr/news/AKR20260808192509vbG",
       "source": "Breaking News",
@@ -131,18 +143,6 @@
         "ko": "[속보] 與경선 당원투표 누계 金 45.42%·鄭 44.56%…가중치 未반영",
         "en": "[속보] 與경선 당원투표 누계 金 45.42%·鄭 44.56%…가중치 未반영",
         "zh": "[속보] 與경선 당원투표 누계 金 45.42%·鄭 44.56%…가중치 未반영"
-      }
-    },
-    {
-      "title": "[속보] 與 제주·인천 최고위원서 박선원, 최민희에 역전",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260808192058J8y",
-      "source": "Breaking News",
-      "pubDate": "Sat, 08 Aug 2026 19:21:00 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260808/AKR20260808192058J8y_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 與 제주·인천 최고위원서 박선원, 최민희에 역전",
-        "en": "[속보] 與 제주·인천 최고위원서 박선원, 최민희에 역전",
-        "zh": "[속보] 與 제주·인천 최고위원서 박선원, 최민희에 역전"
       }
     }
   ]
