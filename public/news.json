@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-08-08T02:31:02.942184",
+  "lastUpdate": "2026-08-08T03:50:46.481633",
   "items": [
-    {
-      "title": "치열한 민주당 경선, 영화 ‘친구’와 다른 결말 쓸 수 있을까 [웁스구라] - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1271908.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 07 Aug 2026 15:46:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/640/imgdb/original/2026/0807/20260807501549.webp",
-      "summaries": {
-        "ko": "치열한 민주당 당대표 및 최고위원 경선에서 후보 간 상호 비방과 지지자들의 과도한 공격이 당의 파멸을 초래할 수 있다는 우려가 제기되고 있다.",
-        "en": "The fiercely contested Democratic Party leadership and supreme council member election is raising concerns that mutual slander among candidates and excessive attacks by supporters could lead to the party's downfall.",
-        "zh": "在激烈的民主党党首及最高委员竞选中，候选人之间的相互诽谤和支持者的过度攻击引发了该党可能走向衰落的担忧。"
-      }
-    },
     {
       "title": "태풍 '돌핀' 영향 강풍·풍랑에 제주 긴장…야외행사 조정(종합) - 연합뉴스",
       "link": "https://www.yna.co.kr/view/AKR20260807060951056",
@@ -20,9 +8,21 @@
       "pubDate": "Fri, 07 Aug 2026 08:17:34 GMT",
       "image": "https://img3.yna.co.kr/etc/inner/KR/2026/08/07/AKR20260807060951056_04_i_P4.jpg",
       "summaries": {
-        "ko": "태풍 '돌핀' 영향 강풍·풍랑에 제주 긴장…야외행사 조정(종합) - 연합뉴스",
-        "en": "태풍 '돌핀' 영향 강풍·풍랑에 제주 긴장…야외행사 조정(종합) - 연합뉴스",
-        "zh": "태풍 '돌핀' 영향 강풍·풍랑에 제주 긴장…야외행사 조정(종합) - 연합뉴스"
+        "ko": "태풍 '돌핀'의 간접 영향으로 제주에 강풍과 풍랑이 예보되면서 야외 행사가 조정되고 유관기관들이 대비 태세를 강화하고 있다.",
+        "en": "Jeju is bracing for strong winds and high waves due to the indirect impact of Typhoon 'Dolphin,' leading to adjustments in outdoor events and heightened preparedness by related agencies.",
+        "zh": "受台风“海豚”间接影响，济州岛预报将有强风和巨浪，导致户外活动被调整，相关机构也加强了防备。"
+      }
+    },
+    {
+      "title": "오늘 낮 최고 ‘37도’ 폭염, 열대야는 계속…동해안 150㎜ 폭우 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1271976.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 08 Aug 2026 00:36:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/615/imgdb/original/2026/0808/781786149334583.webp",
+      "summaries": {
+        "ko": "오늘 낮 최고 ‘37도’ 폭염, 열대야는 계속…동해안 150㎜ 폭우 - 한겨레",
+        "en": "오늘 낮 최고 ‘37도’ 폭염, 열대야는 계속…동해안 150㎜ 폭우 - 한겨레",
+        "zh": "오늘 낮 최고 ‘37도’ 폭염, 열대야는 계속…동해안 150㎜ 폭우 - 한겨레"
       }
     },
     {
@@ -38,99 +38,87 @@
       }
     },
     {
-      "title": "트럼프 대통령 \"호르무즈 해협 재개방 합의, 곧 이뤄질 수도\" - VOA 한국어 홈페이지",
-      "link": "https://www.voakorea.com/a/trump-iran-hormuz-080726/8183828.html",
+      "title": "트럼프 대통령, ‘원정출산 아기에 시민권 부여 금지’ 행정명령 서명 - VOA 한국어 홈페이지",
+      "link": "https://www.voakorea.com/a/birthright-citizenship-restrictions-080726/8183920.html",
       "source": "VOA 한국어 홈페이지",
-      "pubDate": "Fri, 07 Aug 2026 15:09:37 GMT",
-      "image": "https://gdb.voanews.com/e1b894cd-7f9a-4006-a12f-08def2b10d93_cx0_cy10_cw0_w1200_h630.jpg",
+      "pubDate": "Fri, 07 Aug 2026 19:16:23 GMT",
+      "image": "https://gdb.voanews.com/6ee92f19-c4fd-4d19-80c5-08decae8682a_cx0_cy10_cw0_w1200_h630.jpg",
       "summaries": {
-        "ko": "트럼프 대통령 \"호르무즈 해협 재개방 합의, 곧 이뤄질 수도\" - VOA 한국어 홈페이지",
-        "en": "트럼프 대통령 \"호르무즈 해협 재개방 합의, 곧 이뤄질 수도\" - VOA 한국어 홈페이지",
-        "zh": "트럼프 대통령 \"호르무즈 해협 재개방 합의, 곧 이뤄질 수도\" - VOA 한국어 홈페이지"
+        "ko": "트럼프 대통령, ‘원정출산 아기에 시민권 부여 금지’ 행정명령 서명 - VOA 한국어 홈페이지",
+        "en": "트럼프 대통령, ‘원정출산 아기에 시민권 부여 금지’ 행정명령 서명 - VOA 한국어 홈페이지",
+        "zh": "트럼프 대통령, ‘원정출산 아기에 시민권 부여 금지’ 행정명령 서명 - VOA 한국어 홈페이지"
       }
     },
     {
-      "title": "외교관·유학생이 낳은 아이도 美시민권 못 받아 - 조선일보",
-      "link": "https://www.chosun.com/international/us/2026/08/08/5GFNRYEILJGNRHPVZXLXVKJLY4/",
-      "source": "조선일보",
-      "pubDate": "Fri, 07 Aug 2026 15:50:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/AG2YL6NCVVK2BD63SXJKT4S6UA.jpg?auth=c9ab9c078594c8929c9c7f300c1a2756be36052728de28d943ba1b8ae779a7f7&width=1200&height=630&smart=true",
+      "title": "폭염 속 대구 아파트 1200세대 한밤 정전…“차에서 에어컨 틀고 기다려” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1271978.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 08 Aug 2026 00:47:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/540/imgdb/original/2026/0808/20260808500175.webp",
       "summaries": {
-        "ko": "외교관·유학생이 낳은 아이도 美시민권 못 받아 - 조선일보",
-        "en": "외교관·유학생이 낳은 아이도 美시민권 못 받아 - 조선일보",
-        "zh": "외교관·유학생이 낳은 아이도 美시민권 못 받아 - 조선일보"
+        "ko": "폭염 속 대구 아파트 1200세대 한밤 정전…“차에서 에어컨 틀고 기다려” - 한겨레",
+        "en": "폭염 속 대구 아파트 1200세대 한밤 정전…“차에서 에어컨 틀고 기다려” - 한겨레",
+        "zh": "폭염 속 대구 아파트 1200세대 한밤 정전…“차에서 에어컨 틀고 기다려” - 한겨레"
       }
     },
     {
-      "title": "민주당 황희, 폐버스 개조해 청년 주거공간으로 쓰자며 ‘버스하우스’ 제안…국힘 “청년세대 모욕” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608071804001",
-      "source": "경향신문",
-      "pubDate": "Fri, 07 Aug 2026 09:04:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/07/rcv.YNA.20260420.PYH2026042018050001300_P1.jpg",
+      "title": "치열한 민주당 경선, 영화 ‘친구’와 다른 결말 쓸 수 있을까 [웁스구라] - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1271908.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 07 Aug 2026 15:46:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/640/imgdb/original/2026/0807/20260807501549.webp",
       "summaries": {
-        "ko": "민주당 황희, 폐버스 개조해 청년 주거공간으로 쓰자며 ‘버스하우스’ 제안…국힘 “청년세대 모욕” - 경향신문",
-        "en": "민주당 황희, 폐버스 개조해 청년 주거공간으로 쓰자며 ‘버스하우스’ 제안…국힘 “청년세대 모욕” - 경향신문",
-        "zh": "민주당 황희, 폐버스 개조해 청년 주거공간으로 쓰자며 ‘버스하우스’ 제안…국힘 “청년세대 모욕” - 경향신문"
+        "ko": "치열한 민주당 경선, 영화 ‘친구’와 다른 결말 쓸 수 있을까 [웁스구라] - 한겨레",
+        "en": "치열한 민주당 경선, 영화 ‘친구’와 다른 결말 쓸 수 있을까 [웁스구라] - 한겨레",
+        "zh": "치열한 민주당 경선, 영화 ‘친구’와 다른 결말 쓸 수 있을까 [웁스구라] - 한겨레"
       }
     },
     {
-      "title": "‘경기도 재정난’ 선언에 야당 “이재명 대통령 탓” 맹공···추미애 “문제 호도” 반박 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608071211001",
-      "source": "경향신문",
-      "pubDate": "Fri, 07 Aug 2026 03:11:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/07/news-p.v1.20260805.511fc03304b340e99ecbe2ed34e19c52_P1.jpg",
+      "title": "7700억 감액 추경 예고한 추미애… 경기도 재정 정말 '비상'인가 - 한국일보",
+      "link": "https://www.hankookilbo.com/news/article/A2026080710190004798",
+      "source": "한국일보",
+      "pubDate": "Fri, 07 Aug 2026 08:43:00 GMT",
+      "image": "https://newsimg.hankookilbo.com/2026/08/07/d5457fc4-3e9b-4994-b6de-b2f9cb7f7ad1.jpg",
       "summaries": {
-        "ko": "‘경기도 재정난’ 선언에 야당 “이재명 대통령 탓” 맹공···추미애 “문제 호도” 반박 - 경향신문",
-        "en": "‘경기도 재정난’ 선언에 야당 “이재명 대통령 탓” 맹공···추미애 “문제 호도” 반박 - 경향신문",
-        "zh": "‘경기도 재정난’ 선언에 야당 “이재명 대통령 탓” 맹공···추미애 “문제 호도” 반박 - 경향신문"
+        "ko": "7700억 감액 추경 예고한 추미애… 경기도 재정 정말 '비상'인가 - 한국일보",
+        "en": "7700억 감액 추경 예고한 추미애… 경기도 재정 정말 '비상'인가 - 한국일보",
+        "zh": "7700억 감액 추경 예고한 추미애… 경기도 재정 정말 '비상'인가 - 한국일보"
       }
     },
     {
-      "title": "與 “오세훈, 정부 탓하기 앞서 본인 부동산 성적표부터 돌아봐야” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260808/134441267/1",
-      "source": "동아일보",
-      "pubDate": "Sat, 08 Aug 2026 00:47:49 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/08/134441268.1.jpg",
-      "summaries": {
-        "ko": "與 “오세훈, 정부 탓하기 앞서 본인 부동산 성적표부터 돌아봐야” - 동아일보",
-        "en": "與 “오세훈, 정부 탓하기 앞서 본인 부동산 성적표부터 돌아봐야” - 동아일보",
-        "zh": "與 “오세훈, 정부 탓하기 앞서 본인 부동산 성적표부터 돌아봐야” - 동아일보"
-      }
-    },
-    {
-      "title": "폭염 속 대구 아파트단지 정전…1천200세대 2시간 넘게 불편 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260808002200053",
+      "title": "입추 지나도 무더위 지속…'늦더위 온열질환자' 10년 만에 3배↑ - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260807144400530",
       "source": "연합뉴스",
-      "pubDate": "Fri, 07 Aug 2026 17:15:09 GMT",
-      "image": "https://img0.yna.co.kr/etc/inner/KR/2026/08/08/AKR20260808002200053_01_i_P4.jpg",
+      "pubDate": "Sat, 08 Aug 2026 03:00:00 GMT",
+      "image": "https://img9.yna.co.kr/photo/yna/YH/2026/08/06/PYH2026080616670005300_P4.jpg",
       "summaries": {
-        "ko": "폭염이 덮친 대구 수성구의 한 아파트 단지에서 정전이 발생하여 약 1,200세대가 2시간 넘게 불편을 겪고 있으며, 고압선 단선이 원인으로 추정된다.",
-        "en": "Amidst a heatwave in Daegu's Suseong-gu, a power outage occurred in an apartment complex, affecting about 1,200 households for over two hours, with a high-voltage line cut suspected as the cause.",
-        "zh": "在大邱寿城区的一个公寓小区，在酷暑中发生了停电，导致约1200户家庭遭受了两个多小时的不便，预计是高压线断裂造成的。"
+        "ko": "입추 지나도 무더위 지속…'늦더위 온열질환자' 10년 만에 3배↑ - 연합뉴스",
+        "en": "입추 지나도 무더위 지속…'늦더위 온열질환자' 10년 만에 3배↑ - 연합뉴스",
+        "zh": "입추 지나도 무더위 지속…'늦더위 온열질환자' 10년 만에 3배↑ - 연합뉴스"
       }
     },
     {
-      "title": "EU \"SNS 허위정보가 세우타 사태 촉발\"…일각선 '러 개입' 주장도",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260808111854Ol7",
-      "source": "Breaking News",
-      "pubDate": "Sat, 08 Aug 2026 11:18:55 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260808/AKR20260808111854Ol7_01_i.jpg",
+      "title": "'폭염 대응' 범정부 대응체계 강화…분야별 비상대응기구 가동 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260808021300530",
+      "source": "연합뉴스",
+      "pubDate": "Sat, 08 Aug 2026 02:00:00 GMT",
+      "image": "https://img5.yna.co.kr/photo/yna/YH/2026/08/07/PYH2026080709110001301_P4.jpg",
       "summaries": {
-        "ko": "EU \"SNS 허위정보가 세우타 사태 촉발\"…일각선 '러 개입' 주장도",
-        "en": "EU \"SNS 허위정보가 세우타 사태 촉발\"…일각선 '러 개입' 주장도",
-        "zh": "EU \"SNS 허위정보가 세우타 사태 촉발\"…일각선 '러 개입' 주장도"
+        "ko": "'폭염 대응' 범정부 대응체계 강화…분야별 비상대응기구 가동 - 연합뉴스",
+        "en": "'폭염 대응' 범정부 대응체계 강화…분야별 비상대응기구 가동 - 연합뉴스",
+        "zh": "'폭염 대응' 범정부 대응체계 강화…분야별 비상대응기구 가동 - 연합뉴스"
       }
     },
     {
-      "title": "[단독] 서울 중랑구 면목동서 흉기 난동…'지인 사이' 60대 2명 사망",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260808110458nlv",
-      "source": "Breaking News",
-      "pubDate": "Sat, 08 Aug 2026 11:04:59 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260808/AKR20260808110458nlv_01_i.jpg",
+      "title": "부산 울산 경남 구름 많고 경남 북서내륙 소나기…폭염·열대야 계속 - 국제신문",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260808.99099001954&kid=",
+      "source": "국제신문",
+      "pubDate": "Sat, 08 Aug 2026 01:10:00 GMT",
+      "image": "https://db.kookje.co.kr/news2000/photo/2026/0808/L20260808.99099001954i1.jpg?42",
       "summaries": {
-        "ko": "[단독] 서울 중랑구 면목동서 흉기 난동…'지인 사이' 60대 2명 사망",
-        "en": "[단독] 서울 중랑구 면목동서 흉기 난동…'지인 사이' 60대 2명 사망",
-        "zh": "[단독] 서울 중랑구 면목동서 흉기 난동…'지인 사이' 60대 2명 사망"
+        "ko": "부산 울산 경남 구름 많고 경남 북서내륙 소나기…폭염·열대야 계속 - 국제신문",
+        "en": "부산 울산 경남 구름 많고 경남 북서내륙 소나기…폭염·열대야 계속 - 국제신문",
+        "zh": "부산 울산 경남 구름 많고 경남 북서내륙 소나기…폭염·열대야 계속 - 국제신문"
       }
     }
   ]
