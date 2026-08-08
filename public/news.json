@@ -1,16 +1,16 @@
 {
-  "lastUpdate": "2026-08-08T14:20:56.456573",
+  "lastUpdate": "2026-08-08T14:53:01.808017",
   "items": [
     {
       "title": "김민석, ‘0.87%p’ 차이로 누적 1위 탈환…제주·인천서 정청래 제쳐 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1272001.html",
       "source": "한겨레",
-      "pubDate": "Sat, 08 Aug 2026 13:39:00 GMT",
+      "pubDate": "Sat, 08 Aug 2026 14:29:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/520/imgdb/original/2026/0808/20260808500537.webp",
       "summaries": {
-        "ko": "더불어민주당 당대표 선거에서 김민석 후보가 제주·인천 지역 순회경선 결과 합산으로 정청래 후보를 0.87%p 차이로 제치고 누적 1위 자리를 탈환했다.",
-        "en": "In the Democratic Party's representative election, Kim Min-seok has reclaimed the cumulative lead, surpassing Jung Chung-rae by a narrow 0.87%p difference after the Jeju and Incheon regional primary results were combined.",
-        "zh": "在共同民主党党代表选举中，金民锡在济州和仁川地区巡回初选结果公布后，以0.87个百分点的微弱优势超越郑清来，重新夺回了累计第一的位置。"
+        "ko": "더불어민주당 당대표 선거에서 김민석 후보가 제주·인천 순회경선 결과까지 합산하며 정청래 후보를 0.87%p 차이로 제치고 누적 1위를 탈환했다.",
+        "en": "Kim Min-seok has retaken the cumulative lead in the Democratic Party's leader election, surpassing Jung Chung-rae by 0.87 percentage points after the combined results of the Jeju and Incheon regional primaries.",
+        "zh": "在共同民主党党首选举中，金民锡在合并济州和仁川地区巡回初选结果后，以0.87个百分点的优势超越郑清来，重新夺回了累计第一的位置。"
       }
     },
     {
@@ -26,39 +26,51 @@
       }
     },
     {
-      "title": "공습 한계, 탄약 고갈‥\"미군 수뇌부, 이란전 출구전략 모색 중\" - imnews.imbc.com",
-      "link": "https://imnews.imbc.com/news/2026/world/article/6843344_36925.html",
-      "source": "imnews.imbc.com",
-      "pubDate": "Sat, 08 Aug 2026 07:10:19 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/08/08/jhp_20260808_11.jpg",
-      "summaries": {
-        "ko": "공습 한계, 탄약 고갈‥\"미군 수뇌부, 이란전 출구전략 모색 중\" - imnews.imbc.com",
-        "en": "공습 한계, 탄약 고갈‥\"미군 수뇌부, 이란전 출구전략 모색 중\" - imnews.imbc.com",
-        "zh": "공습 한계, 탄약 고갈‥\"미군 수뇌부, 이란전 출구전략 모색 중\" - imnews.imbc.com"
-      }
-    },
-    {
-      "title": "손현보 목사, 美 백악관서 트럼프 접견 \"가족 초청해줘서 감사\" - 조선일보",
-      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/08/08/ZHI7VGBVMFAB3O4H6J2HZYL7PU/",
+      "title": "\"美 합참의장, 이란전 출구전략 모색중\" - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/08/08/VXJ6U3ZJF5EUPAZUPVJSGDE5CA/",
       "source": "조선일보",
-      "pubDate": "Sat, 08 Aug 2026 02:45:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/LFKI6TMN7BFG5NXECJ25LROYRM.jpg?auth=fe2ba4c54269e8a7a9b85b59bbd26a57ca8617b1da57281b14618a3a1eaba667&width=1200&height=630&smart=true",
+      "pubDate": "Sat, 08 Aug 2026 08:36:32 GMT",
+      "image": "https://www.chosun.com/resizer/v2/5M2DQQLZXVKYXND2TWPK5KEJRI.jpg?auth=81cb9549e06f5dd0d551323307f31b49750bbf86f7c4691202e0b656fe5f048f&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "손현보 목사, 美 백악관서 트럼프 접견 \"가족 초청해줘서 감사\" - 조선일보",
-        "en": "손현보 목사, 美 백악관서 트럼프 접견 \"가족 초청해줘서 감사\" - 조선일보",
-        "zh": "손현보 목사, 美 백악관서 트럼프 접견 \"가족 초청해줘서 감사\" - 조선일보"
+        "ko": "\"美 합참의장, 이란전 출구전략 모색중\" - 조선일보",
+        "en": "\"美 합참의장, 이란전 출구전략 모색중\" - 조선일보",
+        "zh": "\"美 합참의장, 이란전 출구전략 모색중\" - 조선일보"
       }
     },
     {
-      "title": "열대야 드디어 멈추나…다음 주 수요일 아침 19도? - KBS 뉴스",
+      "title": "손현보 목사, 백악관서 트럼프 접견‥美정부 인사들과 잇단 접촉 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6843338_36925.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sat, 08 Aug 2026 06:43:46 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/08/08/jhp_20260808_1.jpg",
+      "summaries": {
+        "ko": "손현보 목사, 백악관서 트럼프 접견‥美정부 인사들과 잇단 접촉 - MBC 뉴스",
+        "en": "손현보 목사, 백악관서 트럼프 접견‥美정부 인사들과 잇단 접촉 - MBC 뉴스",
+        "zh": "손현보 목사, 백악관서 트럼프 접견‥美정부 인사들과 잇단 접촉 - MBC 뉴스"
+      }
+    },
+    {
+      "title": "열대야 드디어 멈추나…다음 주 수요일 아침 19도? - news.kbs.co.kr",
       "link": "https://news.kbs.co.kr/news/view.do?ncd=8631957",
-      "source": "KBS 뉴스",
+      "source": "news.kbs.co.kr",
       "pubDate": "Sat, 08 Aug 2026 02:57:00 GMT",
       "image": "http://news.kbs.co.kr/data/fckeditor/new/image/2026/08/08/330821786109333877.png",
       "summaries": {
-        "ko": "열대야 드디어 멈추나…다음 주 수요일 아침 19도? - KBS 뉴스",
-        "en": "열대야 드디어 멈추나…다음 주 수요일 아침 19도? - KBS 뉴스",
-        "zh": "열대야 드디어 멈추나…다음 주 수요일 아침 19도? - KBS 뉴스"
+        "ko": "열대야 드디어 멈추나…다음 주 수요일 아침 19도? - news.kbs.co.kr",
+        "en": "열대야 드디어 멈추나…다음 주 수요일 아침 19도? - news.kbs.co.kr",
+        "zh": "열대야 드디어 멈추나…다음 주 수요일 아침 19도? - news.kbs.co.kr"
+      }
+    },
+    {
+      "title": "'폭염 대응' 범정부 대응체계 강화…분야별 비상대응기구 가동 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260808021300530",
+      "source": "연합뉴스",
+      "pubDate": "Sat, 08 Aug 2026 02:00:00 GMT",
+      "image": "https://img5.yna.co.kr/photo/yna/YH/2026/08/07/PYH2026080709110001301_P4.jpg",
+      "summaries": {
+        "ko": "'폭염 대응' 범정부 대응체계 강화…분야별 비상대응기구 가동 - 연합뉴스",
+        "en": "'폭염 대응' 범정부 대응체계 강화…분야별 비상대응기구 가동 - 연합뉴스",
+        "zh": "'폭염 대응' 범정부 대응체계 강화…분야별 비상대응기구 가동 - 연합뉴스"
       }
     },
     {
@@ -71,18 +83,6 @@
         "ko": "고덕토평대교 남단 올림픽대로서 달리던 SUV에 불···일대 정체 - 경향신문",
         "en": "고덕토평대교 남단 올림픽대로서 달리던 SUV에 불···일대 정체 - 경향신문",
         "zh": "고덕토평대교 남단 올림픽대로서 달리던 SUV에 불···일대 정체 - 경향신문"
-      }
-    },
-    {
-      "title": "與황희 “폐기될 버스 개조… 청년 임시주택 활용” 논란 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260807/134440790/2",
-      "source": "동아일보",
-      "pubDate": "Fri, 07 Aug 2026 16:40:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/07/134439949.1.jpg",
-      "summaries": {
-        "ko": "與황희 “폐기될 버스 개조… 청년 임시주택 활용” 논란 - 동아일보",
-        "en": "與황희 “폐기될 버스 개조… 청년 임시주택 활용” 논란 - 동아일보",
-        "zh": "與황희 “폐기될 버스 개조… 청년 임시주택 활용” 논란 - 동아일보"
       }
     },
     {
@@ -110,15 +110,15 @@
       }
     },
     {
-      "title": "\"트럼프, 두 번째 국토안보장관에도 불만…'내 기조와 안 맞아'\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202608082300469VD",
+      "title": "폭염에 실외기 과열로 화재…여수 아파트서 불",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260808233913O5U",
       "source": "Breaking News",
-      "pubDate": "Sat, 08 Aug 2026 23:00:47 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260808/AKR202608082300469VD_01_i.jpg",
+      "pubDate": "Sat, 08 Aug 2026 23:39:16 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260808/AKR20260808233913O5U_01_i.jpg",
       "summaries": {
-        "ko": "\"트럼프, 두 번째 국토안보장관에도 불만…'내 기조와 안 맞아'\"",
-        "en": "\"트럼프, 두 번째 국토안보장관에도 불만…'내 기조와 안 맞아'\"",
-        "zh": "\"트럼프, 두 번째 국토안보장관에도 불만…'내 기조와 안 맞아'\""
+        "ko": "폭염에 실외기 과열로 화재…여수 아파트서 불",
+        "en": "폭염에 실외기 과열로 화재…여수 아파트서 불",
+        "zh": "폭염에 실외기 과열로 화재…여수 아파트서 불"
       }
     },
     {
