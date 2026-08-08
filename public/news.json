@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-08T18:52:25.772095",
+  "lastUpdate": "2026-08-08T19:19:43.690141",
   "items": [
     {
       "title": "김민석, ‘0.87%p’ 차이로 누적 1위 탈환…제주·인천서 정청래 제쳐 - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Sat, 08 Aug 2026 14:29:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/520/imgdb/original/2026/0808/20260808500537.webp",
       "summaries": {
-        "ko": "더불어민주당 당대표 선거에 나선 김민석 후보가 8일 제주·인천 지역 순회경선 결과 정청래 후보를 0.87%p 차이로 제치고 누적 1위 자리를 탈환했다.",
-        "en": "Kim Min-seok has reclaimed the cumulative top spot in the Democratic Party's leadership election, surpassing Jung Chung-rae by 0.87 percentage points following the Jeju and Incheon regional primary results announced on the 8th.",
-        "zh": "民主党党代表候选人金民锡在8日公布的济州和仁川地区巡回竞选结果中，以0.87个百分点的优势超越郑清来，重新夺回累计第一的排名。"
+        "ko": "더불어민주당 당대표 선거에서 김민석 후보가 제주·인천 지역 순회경선 결과까지 합산하여 정청래 후보를 0.87%포인트 차이로 제치고 누적 1위 자리를 탈환했다.",
+        "en": "Kim Min-seok has reclaimed the cumulative first place in the Democratic Party leadership election, surpassing Jeong Cheong-rae by 0.87 percentage points after the results of the Jeju and Incheon regional primaries were aggregated.",
+        "zh": "在民主党党首选举中，金民锡候选人在合计济州和仁川地区初选结果后，以0.87个百分点的优势超越郑清来候选人，重新夺回累计第一的宝座。"
       }
     },
     {
@@ -26,18 +26,6 @@
       }
     },
     {
-      "title": "결혼하면 대출·청약 불리?···이 대통령 “결혼 때문에 불이익 없어야” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608081423001",
-      "source": "경향신문",
-      "pubDate": "Sat, 08 Aug 2026 05:23:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/08/news-p.v1.20260808.48aa57c615ce410d8e91fcc3284b33ed_P1.jpg",
-      "summaries": {
-        "ko": "결혼하면 대출·청약 불리?···이 대통령 “결혼 때문에 불이익 없어야” - 경향신문",
-        "en": "결혼하면 대출·청약 불리?···이 대통령 “결혼 때문에 불이익 없어야” - 경향신문",
-        "zh": "결혼하면 대출·청약 불리?···이 대통령 “결혼 때문에 불이익 없어야” - 경향신문"
-      }
-    },
-    {
       "title": "손현보 목사, 백악관서 트럼프 접견‥美정부 인사들과 잇단 접촉 - MBC 뉴스",
       "link": "https://imnews.imbc.com/news/2026/world/article/6843338_36925.html",
       "source": "MBC 뉴스",
@@ -47,6 +35,18 @@
         "ko": "손현보 목사, 백악관서 트럼프 접견‥美정부 인사들과 잇단 접촉 - MBC 뉴스",
         "en": "손현보 목사, 백악관서 트럼프 접견‥美정부 인사들과 잇단 접촉 - MBC 뉴스",
         "zh": "손현보 목사, 백악관서 트럼프 접견‥美정부 인사들과 잇단 접촉 - MBC 뉴스"
+      }
+    },
+    {
+      "title": "결혼하면 대출·청약 불리?···이 대통령 “결혼 때문에 불이익 없어야” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608081423001",
+      "source": "경향신문",
+      "pubDate": "Sat, 08 Aug 2026 05:23:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/08/news-p.v1.20260808.48aa57c615ce410d8e91fcc3284b33ed_P1.jpg",
+      "summaries": {
+        "ko": "결혼하면 대출·청약 불리?···이 대통령 “결혼 때문에 불이익 없어야” - 경향신문",
+        "en": "결혼하면 대출·청약 불리?···이 대통령 “결혼 때문에 불이익 없어야” - 경향신문",
+        "zh": "결혼하면 대출·청약 불리?···이 대통령 “결혼 때문에 불이익 없어야” - 경향신문"
       }
     },
     {
@@ -98,39 +98,27 @@
       }
     },
     {
-      "title": "스페인도 이탈리아 국경 검문 돌입…'세우타 사태' 갈등 고조",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260809032901WPK",
+      "title": "태평양 섬나라들 \"이달말 정상회의에 대만 참석\"…중국 반발할 듯",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260809041603lCN",
       "source": "Breaking News",
-      "pubDate": "Sun, 09 Aug 2026 03:29:02 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260808/AKR20260809032901WPK_01_i.jpg",
+      "pubDate": "Sun, 09 Aug 2026 04:16:04 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260808/AKR20260809041603lCN_01_i.jpg",
       "summaries": {
-        "ko": "스페인도 이탈리아 국경 검문 돌입…'세우타 사태' 갈등 고조",
-        "en": "스페인도 이탈리아 국경 검문 돌입…'세우타 사태' 갈등 고조",
-        "zh": "스페인도 이탈리아 국경 검문 돌입…'세우타 사태' 갈등 고조"
+        "ko": "태평양 섬나라들 \"이달말 정상회의에 대만 참석\"…중국 반발할 듯",
+        "en": "태평양 섬나라들 \"이달말 정상회의에 대만 참석\"…중국 반발할 듯",
+        "zh": "태평양 섬나라들 \"이달말 정상회의에 대만 참석\"…중국 반발할 듯"
       }
     },
     {
-      "title": "중국, '전력난' 쿠바에 태양광 패널 5천 대 기증",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260809031554tnE",
+      "title": "젤렌스키, '친러' 세르비아 첫 공식 방문…\"양자 관계 강화\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260809035540O59",
       "source": "Breaking News",
-      "pubDate": "Sun, 09 Aug 2026 03:15:55 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260808/AKR20260809031554tnE_01_i.jpg",
+      "pubDate": "Sun, 09 Aug 2026 03:55:42 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260808/AKR20260809035540O59_01_i.jpg",
       "summaries": {
-        "ko": "중국, '전력난' 쿠바에 태양광 패널 5천 대 기증",
-        "en": "중국, '전력난' 쿠바에 태양광 패널 5천 대 기증",
-        "zh": "중국, '전력난' 쿠바에 태양광 패널 5천 대 기증"
-      }
-    },
-    {
-      "title": "[속보] 서울지역 어제 온열질환 사망자 2명…올해 최다",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260808225458yO3",
-      "source": "Breaking News",
-      "pubDate": "Sat, 08 Aug 2026 22:54:59 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260808/AKR20260808225458yO3_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 서울지역 어제 온열질환 사망자 2명…올해 최다",
-        "en": "[속보] 서울지역 어제 온열질환 사망자 2명…올해 최다",
-        "zh": "[속보] 서울지역 어제 온열질환 사망자 2명…올해 최다"
+        "ko": "젤렌스키, '친러' 세르비아 첫 공식 방문…\"양자 관계 강화\"",
+        "en": "젤렌스키, '친러' 세르비아 첫 공식 방문…\"양자 관계 강화\"",
+        "zh": "젤렌스키, '친러' 세르비아 첫 공식 방문…\"양자 관계 강화\""
       }
     }
   ]
