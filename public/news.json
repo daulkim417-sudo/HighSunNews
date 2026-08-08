@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-08T23:15:30.406865",
+  "lastUpdate": "2026-08-08T23:45:22.772616",
   "items": [
     {
       "title": "김민석, ‘0.87%p’ 차이로 누적 1위 탈환…제주·인천서 정청래 제쳐 - 한겨레",
@@ -14,15 +14,15 @@
       }
     },
     {
-      "title": "40도 역대급 기온, ‘35도 안팎’으로 내려온다…폭염 특보는 계속 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1272002.html",
+      "title": "동해안에 시간당 30㎜ ‘강한 비’…낮 최고 35도 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/environment/1272003.html",
       "source": "한겨레",
-      "pubDate": "Sat, 08 Aug 2026 12:44:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/551/imgdb/original/2026/0808/20260808500546.webp",
+      "pubDate": "Sat, 08 Aug 2026 22:37:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/583/imgdb/child/2026/0809/53_17862291245914_20260809500162.webp",
       "summaries": {
-        "ko": "40도 역대급 기온, ‘35도 안팎’으로 내려온다…폭염 특보는 계속 - 한겨레",
-        "en": "40도 역대급 기온, ‘35도 안팎’으로 내려온다…폭염 특보는 계속 - 한겨레",
-        "zh": "40도 역대급 기온, ‘35도 안팎’으로 내려온다…폭염 특보는 계속 - 한겨레"
+        "ko": "동해안에 시간당 30㎜ ‘강한 비’…낮 최고 35도 - 한겨레",
+        "en": "동해안에 시간당 30㎜ ‘강한 비’…낮 최고 35도 - 한겨레",
+        "zh": "동해안에 시간당 30㎜ ‘강한 비’…낮 최고 35도 - 한겨레"
       }
     },
     {
@@ -50,27 +50,15 @@
       }
     },
     {
-      "title": "열대야 드디어 멈추나…다음 주 수요일 아침 19도? - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8631957",
-      "source": "KBS 뉴스",
-      "pubDate": "Sat, 08 Aug 2026 02:57:00 GMT",
-      "image": "http://news.kbs.co.kr/data/fckeditor/new/image/2026/08/08/330821786109333877.png",
+      "title": "살인적인 폭염에 한국서 사망자 속출…어제만 200명 응급실, 3명은 숨져 - 매일경제",
+      "link": "https://www.mk.co.kr/news/society/12121751",
+      "source": "매일경제",
+      "pubDate": "Sat, 08 Aug 2026 09:01:03 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202608/08/news-p.v1.20260808.77774c62dadd48f88dc194a441252509_R.jpg",
       "summaries": {
-        "ko": "열대야 드디어 멈추나…다음 주 수요일 아침 19도? - KBS 뉴스",
-        "en": "열대야 드디어 멈추나…다음 주 수요일 아침 19도? - KBS 뉴스",
-        "zh": "열대야 드디어 멈추나…다음 주 수요일 아침 19도? - KBS 뉴스"
-      }
-    },
-    {
-      "title": "7일 서울 강남·중랑구 온열질환 사망자 발생…올해 최다 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260808232547CQo",
-      "source": "연합뉴스TV",
-      "pubDate": "Sat, 08 Aug 2026 14:25:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260808/AKR20260808232547CQo_01_i.jpg",
-      "summaries": {
-        "ko": "7일 서울 강남·중랑구 온열질환 사망자 발생…올해 최다 - 연합뉴스TV",
-        "en": "7일 서울 강남·중랑구 온열질환 사망자 발생…올해 최다 - 연합뉴스TV",
-        "zh": "7일 서울 강남·중랑구 온열질환 사망자 발생…올해 최다 - 연합뉴스TV"
+        "ko": "살인적인 폭염에 한국서 사망자 속출…어제만 200명 응급실, 3명은 숨져 - 매일경제",
+        "en": "살인적인 폭염에 한국서 사망자 속출…어제만 200명 응급실, 3명은 숨져 - 매일경제",
+        "zh": "살인적인 폭염에 한국서 사망자 속출…어제만 200명 응급실, 3명은 숨져 - 매일경제"
       }
     },
     {
@@ -86,39 +74,51 @@
       }
     },
     {
-      "title": "폭염 속 대전 400세대 아파트 4시간 정전…당진서도 전선 끊겨 정전 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608082112001",
-      "source": "경향신문",
-      "pubDate": "Sat, 08 Aug 2026 12:12:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/08/news-p.v1.20260808.cfcf4f556ea94525a2cd3439bff91562_P1.jpg",
+      "title": "광어 한 접시, 마트서도 2만6천원…\"폭염 속 더 오른다\" - yna.co.kr",
+      "link": "https://www.yna.co.kr/view/AKR20260808046400030",
+      "source": "yna.co.kr",
+      "pubDate": "Sat, 08 Aug 2026 22:01:00 GMT",
+      "image": "https://img6.yna.co.kr/photo/yna/YH/2025/08/25/PYH2025082513470001300_P4.jpg",
       "summaries": {
-        "ko": "폭염 속 대전 400세대 아파트 4시간 정전…당진서도 전선 끊겨 정전 - 경향신문",
-        "en": "폭염 속 대전 400세대 아파트 4시간 정전…당진서도 전선 끊겨 정전 - 경향신문",
-        "zh": "폭염 속 대전 400세대 아파트 4시간 정전…당진서도 전선 끊겨 정전 - 경향신문"
+        "ko": "광어 한 접시, 마트서도 2만6천원…\"폭염 속 더 오른다\" - yna.co.kr",
+        "en": "광어 한 접시, 마트서도 2만6천원…\"폭염 속 더 오른다\" - yna.co.kr",
+        "zh": "광어 한 접시, 마트서도 2만6천원…\"폭염 속 더 오른다\" - yna.co.kr"
       }
     },
     {
-      "title": "한풀 꺾인다더니…그래도 푹푹 찌는 주말 - KBS 뉴스",
+      "title": "폭염 속 대구 아파트 1200세대 한밤 정전…“차에서 에어컨 틀고 기다려” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1271978.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 08 Aug 2026 07:39:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/540/imgdb/original/2026/0808/20260808500175.webp",
+      "summaries": {
+        "ko": "폭염 속 대구 아파트 1200세대 한밤 정전…“차에서 에어컨 틀고 기다려” - 한겨레",
+        "en": "폭염 속 대구 아파트 1200세대 한밤 정전…“차에서 에어컨 틀고 기다려” - 한겨레",
+        "zh": "폭염 속 대구 아파트 1200세대 한밤 정전…“차에서 에어컨 틀고 기다려” - 한겨레"
+      }
+    },
+    {
+      "title": "한풀 꺾인다더니…그래도 푹푹 찌는 주말 - news.kbs.co.kr",
       "link": "https://news.kbs.co.kr/news/view.do?ncd=8632136",
-      "source": "KBS 뉴스",
+      "source": "news.kbs.co.kr",
       "pubDate": "Sat, 08 Aug 2026 22:08:00 GMT",
       "image": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza/2026/08/09/50_8632136.jpg",
       "summaries": {
-        "ko": "한풀 꺾인다더니…그래도 푹푹 찌는 주말 - KBS 뉴스",
-        "en": "한풀 꺾인다더니…그래도 푹푹 찌는 주말 - KBS 뉴스",
-        "zh": "한풀 꺾인다더니…그래도 푹푹 찌는 주말 - KBS 뉴스"
+        "ko": "한풀 꺾인다더니…그래도 푹푹 찌는 주말 - news.kbs.co.kr",
+        "en": "한풀 꺾인다더니…그래도 푹푹 찌는 주말 - news.kbs.co.kr",
+        "zh": "한풀 꺾인다더니…그래도 푹푹 찌는 주말 - news.kbs.co.kr"
       }
     },
     {
-      "title": "새 바이러스까지 만들어낸 AI…미 연구진 16종 생성해 번식도 확인",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260807163037afN",
+      "title": "부산 철강 제조공장 화재 10시간여 만에 완진",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260809083711tPv",
       "source": "Breaking News",
-      "pubDate": "Sun, 09 Aug 2026 08:02:04 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260808/AKR20260807163037afN_01_i.jpg",
+      "pubDate": "Sun, 09 Aug 2026 08:37:13 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260808/MYH20260809083711tPv.jpg",
       "summaries": {
-        "ko": "새 바이러스까지 만들어낸 AI…미 연구진 16종 생성해 번식도 확인",
-        "en": "새 바이러스까지 만들어낸 AI…미 연구진 16종 생성해 번식도 확인",
-        "zh": "새 바이러스까지 만들어낸 AI…미 연구진 16종 생성해 번식도 확인"
+        "ko": "부산 철강 제조공장 화재 10시간여 만에 완진",
+        "en": "부산 철강 제조공장 화재 10시간여 만에 완진",
+        "zh": "부산 철강 제조공장 화재 10시간여 만에 완진"
       }
     }
   ]
