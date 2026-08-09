@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-08-09T11:45:33.777438",
+  "lastUpdate": "2026-08-09T12:03:49.222372",
   "items": [
+    {
+      "title": "민주 당대표 강원·대구·경북 순회 경선서 김민석 승리 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1272094.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 09 Aug 2026 09:29:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/735/imgdb/original/2026/0809/20260809501656.webp",
+      "summaries": {
+        "ko": "더불어민주당 대표 후보 김민석이 강원과 대구·경북 순회경선에서 정청래 후보를 1622표 차로 제치고 1위를 차지했다.",
+        "en": "Kim Min-seok, a candidate for the Democratic Party leader, won first place in the Gangwon, Daegu, and Gyeongbuk regional primaries, beating Jeong Cheong-rae by 1,622 votes.",
+        "zh": "民主党党代表候选人金民锡在江原、大邱和庆北地区巡回初选中，以1622票的优势击败郑清来候选人，位居第一。"
+      }
+    },
     {
       "title": "[날씨] 여전히 평년 웃도는 기온…내일 낮 최고 34도 무더위 - 연합뉴스",
       "link": "https://www.yna.co.kr/view/AKR20260809040500004",
@@ -8,81 +20,69 @@
       "pubDate": "Sun, 09 Aug 2026 11:00:01 GMT",
       "image": "https://img3.yna.co.kr/photo/yna/YH/2026/08/09/PYH2026080905070001300_P4.jpg",
       "summaries": {
-        "ko": "입추에도 불구하고 평년보다 높은 기온과 함께 월요일(10일) 최고 34도의 무더위가 이어지겠고, 동해안과 남해안 일부 지역에는 비가 내리겠다.",
-        "en": "Despite the beginning of autumn, temperatures will remain above average with highs up to 34 degrees Celsius on Monday, August 10th, and rain is expected in some eastern and southern coastal regions.",
-        "zh": "尽管立秋已过，周一（10日）气温仍将高于往年平均水平，最高气温达34摄氏度，东海岸和南部海岸部分地区将有降雨。"
+        "ko": "[날씨] 여전히 평년 웃도는 기온…내일 낮 최고 34도 무더위 - 연합뉴스",
+        "en": "[날씨] 여전히 평년 웃도는 기온…내일 낮 최고 34도 무더위 - 연합뉴스",
+        "zh": "[날씨] 여전히 평년 웃도는 기온…내일 낮 최고 34도 무더위 - 연합뉴스"
       }
     },
     {
-      "title": "미군 패트리엇 재고 1700기 아래로…NYT “한국 자체 핵무장 유인 커져” - hani.co.kr",
+      "title": "미군 패트리엇 재고 1700기 아래로…NYT “한국 자체 핵무장 유인 커져” - 한겨레",
       "link": "https://www.hani.co.kr/arti/international/asiapacific/1272058.html",
-      "source": "hani.co.kr",
+      "source": "한겨레",
       "pubDate": "Sun, 09 Aug 2026 10:43:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/784/522/imgdb/original/2026/0809/20260809501408.webp",
       "summaries": {
-        "ko": "미국이 이란과의 전쟁으로 패트리어트 미사일 재고가 고갈되고 아시아 미군 전력이 약화되자, 한국과 일본의 자체 핵무장 유인이 커질 수 있다는 우려가 제기되고 있다.",
-        "en": "As U.S. Patriot missile stock depletes due to the war with Iran and U.S. military power in Asia weakens, concerns are rising within the U.S. government that South Korea and Japan may be incentivized to pursue independent nuclear armament.",
-        "zh": "随着美国因与伊朗的战争导致爱国者导弹库存枯竭及亚洲美军实力削弱，美国政府内部担忧韩国和日本可能更有动力寻求自主核武装。"
+        "ko": "미군 패트리엇 재고 1700기 아래로…NYT “한국 자체 핵무장 유인 커져” - 한겨레",
+        "en": "미군 패트리엇 재고 1700기 아래로…NYT “한국 자체 핵무장 유인 커져” - 한겨레",
+        "zh": "미군 패트리엇 재고 1700기 아래로…NYT “한국 자체 핵무장 유인 커져” - 한겨레"
       }
     },
     {
-      "title": "전한길, 출국금지 반발해 소송했지만 패소‥법원 \"수사 차질 우려\" - imnews.imbc.com",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6843423_36918.html",
-      "source": "imnews.imbc.com",
-      "pubDate": "Sun, 09 Aug 2026 02:20:53 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/09/ljm_20260809_19.jpg",
+      "title": "이재명 정부 부동산 공급대책 이르면 13일 발표···“명확한 플랜 제시해야” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608091837001",
+      "source": "경향신문",
+      "pubDate": "Sun, 09 Aug 2026 09:37:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/09/news-p.v1.20260809.91587c5184084acfa571e02f752e168e_P1.png",
       "summaries": {
-        "ko": "전한길, 출국금지 반발해 소송했지만 패소‥법원 \"수사 차질 우려\" - imnews.imbc.com",
-        "en": "전한길, 출국금지 반발해 소송했지만 패소‥법원 \"수사 차질 우려\" - imnews.imbc.com",
-        "zh": "전한길, 출국금지 반발해 소송했지만 패소‥법원 \"수사 차질 우려\" - imnews.imbc.com"
+        "ko": "이재명 정부 부동산 공급대책 이르면 13일 발표···“명확한 플랜 제시해야” - 경향신문",
+        "en": "이재명 정부 부동산 공급대책 이르면 13일 발표···“명확한 플랜 제시해야” - 경향신문",
+        "zh": "이재명 정부 부동산 공급대책 이르면 13일 발표···“명확한 플랜 제시해야” - 경향신문"
       }
     },
     {
-      "title": "윤상현 “득표수 조작 주장은 선동” 발언에 당내 반발…‘올공 재검표’ 미룰듯 - hani.co.kr",
+      "title": "어머니 흉기 살해 혐의 10대 아들, 구속심사 출석 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6843450_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 09 Aug 2026 09:51:19 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/09/jh_20260809_6_1.jpg",
+      "summaries": {
+        "ko": "어머니 흉기 살해 혐의 10대 아들, 구속심사 출석 - MBC 뉴스",
+        "en": "어머니 흉기 살해 혐의 10대 아들, 구속심사 출석 - MBC 뉴스",
+        "zh": "어머니 흉기 살해 혐의 10대 아들, 구속심사 출석 - MBC 뉴스"
+      }
+    },
+    {
+      "title": "윤상현 “득표수 조작 주장은 선동” 발언에 당내 반발…‘올공 재검표’ 미룰듯 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1272044.html",
-      "source": "hani.co.kr",
+      "source": "한겨레",
       "pubDate": "Sun, 09 Aug 2026 06:39:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/855/513/imgdb/child/2026/0809/53_17862536914784_20260809501102.webp",
       "summaries": {
-        "ko": "윤상현 “득표수 조작 주장은 선동” 발언에 당내 반발…‘올공 재검표’ 미룰듯 - hani.co.kr",
-        "en": "윤상현 “득표수 조작 주장은 선동” 발언에 당내 반발…‘올공 재검표’ 미룰듯 - hani.co.kr",
-        "zh": "윤상현 “득표수 조작 주장은 선동” 발언에 당내 반발…‘올공 재검표’ 미룰듯 - hani.co.kr"
+        "ko": "윤상현 “득표수 조작 주장은 선동” 발언에 당내 반발…‘올공 재검표’ 미룰듯 - 한겨레",
+        "en": "윤상현 “득표수 조작 주장은 선동” 발언에 당내 반발…‘올공 재검표’ 미룰듯 - 한겨레",
+        "zh": "윤상현 “득표수 조작 주장은 선동” 발언에 당내 반발…‘올공 재검표’ 미룰듯 - 한겨레"
       }
     },
     {
-      "title": "서울 영등포·구로 준공업지역에 2만7000가구 공급 속도 - 조선비즈 - Chosunbiz",
-      "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/08/09/AO7IBW364ZBUFBNOXKH4ZVRZTY/",
-      "source": "Chosunbiz",
-      "pubDate": "Sun, 09 Aug 2026 00:48:00 GMT",
-      "image": "https://biz.chosun.com/resizer/v2/GUYDCYTDHA4DIZTBGM3GMMBWGM.jpg?auth=bf9deb3833f742510f493f523f3d1997ad9af40483582881e77085704c659f74&width=1200&height=630&smart=true",
+      "title": "제2우주센터 건립지 공모에 전남광주-제주 응모…10월 중 최종 선정 결과 발표 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8632199",
+      "source": "KBS 뉴스",
+      "pubDate": "Sun, 09 Aug 2026 06:38:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/08/09/20260809_8kAAYT.jpg",
       "summaries": {
-        "ko": "서울 영등포·구로 준공업지역에 2만7000가구 공급 속도 - 조선비즈 - Chosunbiz",
-        "en": "서울 영등포·구로 준공업지역에 2만7000가구 공급 속도 - 조선비즈 - Chosunbiz",
-        "zh": "서울 영등포·구로 준공업지역에 2만7000가구 공급 속도 - 조선비즈 - Chosunbiz"
-      }
-    },
-    {
-      "title": "인천서 말다툼 중 흉기로 40대 어머니 살해한 10대 구속영장 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608090926011",
-      "source": "경향신문",
-      "pubDate": "Sun, 09 Aug 2026 00:26:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/09/news-p.v1.20260809.71287ad0c163404b8c39d9cf4c801ec4_P1.jpg",
-      "summaries": {
-        "ko": "인천서 말다툼 중 흉기로 40대 어머니 살해한 10대 구속영장 - 경향신문",
-        "en": "인천서 말다툼 중 흉기로 40대 어머니 살해한 10대 구속영장 - 경향신문",
-        "zh": "인천서 말다툼 중 흉기로 40대 어머니 살해한 10대 구속영장 - 경향신문"
-      }
-    },
-    {
-      "title": "태풍 ’돌핀’ 中 저장성 상륙 임박…상하이 14만여 명 대피 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260809180357JGP",
-      "source": "연합뉴스TV",
-      "pubDate": "Sun, 09 Aug 2026 09:04:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260809/AKR20260809180357JGP_01_i.jpg",
-      "summaries": {
-        "ko": "태풍 ’돌핀’ 中 저장성 상륙 임박…상하이 14만여 명 대피 - 연합뉴스TV",
-        "en": "태풍 ’돌핀’ 中 저장성 상륙 임박…상하이 14만여 명 대피 - 연합뉴스TV",
-        "zh": "태풍 ’돌핀’ 中 저장성 상륙 임박…상하이 14만여 명 대피 - 연합뉴스TV"
+        "ko": "제2우주센터 건립지 공모에 전남광주-제주 응모…10월 중 최종 선정 결과 발표 - KBS 뉴스",
+        "en": "제2우주센터 건립지 공모에 전남광주-제주 응모…10월 중 최종 선정 결과 발표 - KBS 뉴스",
+        "zh": "제2우주센터 건립지 공모에 전남광주-제주 응모…10월 중 최종 선정 결과 발표 - KBS 뉴스"
       }
     },
     {
@@ -98,27 +98,27 @@
       }
     },
     {
-      "title": "폭염 장기화에 정부 대응 강화…고위험군 집중 관리",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260809194657ZiW",
-      "source": "Breaking News",
-      "pubDate": "Sun, 09 Aug 2026 19:46:58 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260809/MYH20260809194657ZiW.jpg",
+      "title": "전한길, 출국금지 반발해 소송했지만 패소‥법원 \"수사 차질 우려\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6843423_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 09 Aug 2026 02:20:53 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/09/ljm_20260809_19.jpg",
       "summaries": {
-        "ko": "폭염 장기화에 정부 대응 강화…고위험군 집중 관리",
-        "en": "폭염 장기화에 정부 대응 강화…고위험군 집중 관리",
-        "zh": "폭염 장기화에 정부 대응 강화…고위험군 집중 관리"
+        "ko": "전한길, 출국금지 반발해 소송했지만 패소‥법원 \"수사 차질 우려\" - MBC 뉴스",
+        "en": "전한길, 출국금지 반발해 소송했지만 패소‥법원 \"수사 차질 우려\" - MBC 뉴스",
+        "zh": "전한길, 출국금지 반발해 소송했지만 패소‥법원 \"수사 차질 우려\" - MBC 뉴스"
       }
     },
     {
-      "title": "주진우 \"선관위, 투표자수 미리 입력…'타임머신 조작'\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260809194551zkR",
+      "title": "온열질환 131명 늘어…정부, 고위험군 집중 관리",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260809205430DFZ",
       "source": "Breaking News",
-      "pubDate": "Sun, 09 Aug 2026 19:45:52 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260809/MYH20260809194551zkR.jpg",
+      "pubDate": "Sun, 09 Aug 2026 20:54:31 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260809/MYH20260809205430DFZ.jpg",
       "summaries": {
-        "ko": "주진우 \"선관위, 투표자수 미리 입력…'타임머신 조작'\"",
-        "en": "주진우 \"선관위, 투표자수 미리 입력…'타임머신 조작'\"",
-        "zh": "주진우 \"선관위, 투표자수 미리 입력…'타임머신 조작'\""
+        "ko": "온열질환 131명 늘어…정부, 고위험군 집중 관리",
+        "en": "온열질환 131명 늘어…정부, 고위험군 집중 관리",
+        "zh": "온열질환 131명 늘어…정부, 고위험군 집중 관리"
       }
     }
   ]
