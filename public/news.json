@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-10T22:06:20.865319",
+  "lastUpdate": "2026-08-10T22:50:35.292540",
   "items": [
     {
       "title": "250만평 호남산단 확대 추진…송전선로 1년 당겨 2028년 구축 - 한겨레",
@@ -8,21 +8,9 @@
       "pubDate": "Mon, 10 Aug 2026 13:05:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/527/imgdb/original/2026/0810/20260810503138.webp",
       "summaries": {
-        "ko": "이재명 대통령은 호남 산단 확대를 위해 광주 군 공항 이전과 부지 활용을 서두르고, 송전선로 구축을 1년 앞당겨 2028년까지 완료하는 등 메가프로젝트의 신속한 추진을 지시했다.",
-        "en": "President Lee Jae-myung ordered the swift implementation of mega-projects, including accelerating the relocation and utilization of the Gwangju military airport site for the expansion of the Honam industrial complex and bringing forward the power line construction by one year to 2028.",
-        "zh": "李在明总统指示加速推进大型项目，包括加快光州军用机场搬迁及土地利用以扩大湖南产业园区，并提前一年于2028年前完成输电线路建设。"
-      }
-    },
-    {
-      "title": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608102156001",
-      "source": "경향신문",
-      "pubDate": "Mon, 10 Aug 2026 12:56:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/10/rcv.YNA.20260810.PAP20260810178001009_P1.jpg",
-      "summaries": {
-        "ko": "콜롬비아에서 규모 7.4의 강진이 발생하여 최소 20명이 사망하고 건물 20채가 붕괴했으며, 이웃 국가에서도 진동이 감지되고 6개 공항의 운영이 중단되었다.",
-        "en": "A magnitude 7.4 earthquake struck Colombia, resulting in at least 20 deaths, 20 building collapses, tremors felt in neighboring countries, and the suspension of operations at 6 airports.",
-        "zh": "哥伦比亚发生7.4级强震，造成至少20人死亡、20栋建筑物倒塌，邻国也有震感，并导致6个机场暂停运营。"
+        "ko": "이재명 대통령이 호남 반도체 클러스터 조기 조성을 위해 광주 군 공항 임무 분산 및 산단 부지 확대를 지시하고, 송전선로 구축 시점을 1년 앞당겨 2028년으로 정하는 등 '속도전'을 강조했다.",
+        "en": "President Lee Jae-myung emphasized a \"speed battle\" for the early establishment of the Honam semiconductor cluster, ordering the dispersal of Gwangju Air Base's duties and expansion of the industrial complex, while accelerating power transmission line construction by one year to 2028.",
+        "zh": "韩国总统李在明强调“速度战”，指示为尽早建成湖南半导体产业集群，分散光州军用机场任务并扩大产业园区用地，同时将输电线路建设提前一年至2028年。"
       }
     },
     {
@@ -38,15 +26,15 @@
       }
     },
     {
-      "title": "트럼프 \"호르무즈 기뢰 모두 제거…美가 해협 유일 통제\" 주장 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202608110611527du",
-      "source": "연합뉴스TV",
-      "pubDate": "Mon, 10 Aug 2026 21:11:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260810/AKR202608110611527du_01_i.jpg",
+      "title": "[현장] \"해 뜬 줄 알았다\"…밤새 불길 뒤덮인 평택 물류센터 화재 현장 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260811015600061",
+      "source": "연합뉴스",
+      "pubDate": "Mon, 10 Aug 2026 22:31:54 GMT",
+      "image": "https://img7.yna.co.kr/etc/inner/KR/2026/08/11/AKR20260811015600061_01_i_P4.jpg",
       "summaries": {
-        "ko": "트럼프 \"호르무즈 기뢰 모두 제거…美가 해협 유일 통제\" 주장 - 연합뉴스TV",
-        "en": "트럼프 \"호르무즈 기뢰 모두 제거…美가 해협 유일 통제\" 주장 - 연합뉴스TV",
-        "zh": "트럼프 \"호르무즈 기뢰 모두 제거…美가 해협 유일 통제\" 주장 - 연합뉴스TV"
+        "ko": "[현장] \"해 뜬 줄 알았다\"…밤새 불길 뒤덮인 평택 물류센터 화재 현장 - 연합뉴스",
+        "en": "[현장] \"해 뜬 줄 알았다\"…밤새 불길 뒤덮인 평택 물류센터 화재 현장 - 연합뉴스",
+        "zh": "[현장] \"해 뜬 줄 알았다\"…밤새 불길 뒤덮인 평택 물류센터 화재 현장 - 연합뉴스"
       }
     },
     {
@@ -62,6 +50,18 @@
       }
     },
     {
+      "title": "“한국, 방공무기 달라”는 젤렌스키…北 추가파병설에도 정부는 ‘신중’ - 매일경제",
+      "link": "https://www.mk.co.kr/news/world/12123383",
+      "source": "매일경제",
+      "pubDate": "Mon, 10 Aug 2026 13:11:47 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202608/10/rcv.YNA.20260630.PYH2026063010490001300_R.jpg",
+      "summaries": {
+        "ko": "“한국, 방공무기 달라”는 젤렌스키…北 추가파병설에도 정부는 ‘신중’ - 매일경제",
+        "en": "“한국, 방공무기 달라”는 젤렌스키…北 추가파병설에도 정부는 ‘신중’ - 매일경제",
+        "zh": "“한국, 방공무기 달라”는 젤렌스키…北 추가파병설에도 정부는 ‘신중’ - 매일경제"
+      }
+    },
+    {
       "title": "11일부터 호남 당원 투표 개시…김민석 “메가프로젝트 1순위 추진”, 정청래 “당을 배신한 적 없다” - 경향신문",
       "link": "https://www.khan.co.kr/article/202608101912001",
       "source": "경향신문",
@@ -74,27 +74,15 @@
       }
     },
     {
-      "title": "투표자 30% 줄기도 10% 늘기도…선관위 투표 끝난 뒤 조작 정황 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260809030900004",
-      "source": "연합뉴스",
-      "pubDate": "Sun, 09 Aug 2026 20:55:01 GMT",
-      "image": "https://img3.yna.co.kr/photo/yna/YH/2026/07/31/PYH2026073110520001300_P4.jpg",
+      "title": "하나뿐인 병상, 청년과 노인 중 누구를 살릴 것인가···다음 팬데믹의 ‘윤리적 선택’ 시민에게 물었다 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608110600051",
+      "source": "경향신문",
+      "pubDate": "Mon, 10 Aug 2026 21:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/11/news-p.v1.20260810.558bd479011d406b85a4262e2f8bd48b_P1.png",
       "summaries": {
-        "ko": "투표자 30% 줄기도 10% 늘기도…선관위 투표 끝난 뒤 조작 정황 - 연합뉴스",
-        "en": "투표자 30% 줄기도 10% 늘기도…선관위 투표 끝난 뒤 조작 정황 - 연합뉴스",
-        "zh": "투표자 30% 줄기도 10% 늘기도…선관위 투표 끝난 뒤 조작 정황 - 연합뉴스"
-      }
-    },
-    {
-      "title": "평택 위험물 보관창고서 화재…국가소방동원령 발령 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260811050652fhP",
-      "source": "연합뉴스TV",
-      "pubDate": "Mon, 10 Aug 2026 20:06:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260810/AKR20260811050652fhP_01_i.jpg",
-      "summaries": {
-        "ko": "평택 위험물 보관창고서 화재…국가소방동원령 발령 - 연합뉴스TV",
-        "en": "평택 위험물 보관창고서 화재…국가소방동원령 발령 - 연합뉴스TV",
-        "zh": "평택 위험물 보관창고서 화재…국가소방동원령 발령 - 연합뉴스TV"
+        "ko": "하나뿐인 병상, 청년과 노인 중 누구를 살릴 것인가···다음 팬데믹의 ‘윤리적 선택’ 시민에게 물었다 - 경향신문",
+        "en": "하나뿐인 병상, 청년과 노인 중 누구를 살릴 것인가···다음 팬데믹의 ‘윤리적 선택’ 시민에게 물었다 - 경향신문",
+        "zh": "하나뿐인 병상, 청년과 노인 중 누구를 살릴 것인가···다음 팬데믹의 ‘윤리적 선택’ 시민에게 물었다 - 경향신문"
       }
     },
     {
@@ -110,15 +98,27 @@
       }
     },
     {
-      "title": "[AM-PM] 민주 당권주자들 호남행…국토위 전체회의 外",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260811065104WRz",
+      "title": "[3분증시] 뉴욕증시, 유가 급등·물가 경계감에 약세",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260811074039OvS",
       "source": "Breaking News",
-      "pubDate": "Tue, 11 Aug 2026 06:51:05 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260810/MYH20260811065104WRz.jpg",
+      "pubDate": "Tue, 11 Aug 2026 07:40:39 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260810/MYH20260811074039OvS.jpg",
       "summaries": {
-        "ko": "[AM-PM] 민주 당권주자들 호남행…국토위 전체회의 外",
-        "en": "[AM-PM] 민주 당권주자들 호남행…국토위 전체회의 外",
-        "zh": "[AM-PM] 민주 당권주자들 호남행…국토위 전체회의 外"
+        "ko": "[3분증시] 뉴욕증시, 유가 급등·물가 경계감에 약세",
+        "en": "[3분증시] 뉴욕증시, 유가 급등·물가 경계감에 약세",
+        "zh": "[3분증시] 뉴욕증시, 유가 급등·물가 경계감에 약세"
+      }
+    },
+    {
+      "title": "트럼프 \"호르무즈 기뢰 모두 제거\" 주장",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260811073831nx0",
+      "source": "Breaking News",
+      "pubDate": "Tue, 11 Aug 2026 07:38:31 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260810/MYH20260811073831nx0.jpg",
+      "summaries": {
+        "ko": "트럼프 \"호르무즈 기뢰 모두 제거\" 주장",
+        "en": "트럼프 \"호르무즈 기뢰 모두 제거\" 주장",
+        "zh": "트럼프 \"호르무즈 기뢰 모두 제거\" 주장"
       }
     }
   ]
