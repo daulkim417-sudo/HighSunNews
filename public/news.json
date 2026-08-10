@@ -1,6 +1,30 @@
 {
-  "lastUpdate": "2026-08-10T17:22:34.003188",
+  "lastUpdate": "2026-08-10T18:09:33.356209",
   "items": [
+    {
+      "title": "250만평 호남산단 확대 추진…송전선로 1년 당겨 2028년 구축 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1272280.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 10 Aug 2026 13:05:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/527/imgdb/original/2026/0810/20260810503138.webp",
+      "summaries": {
+        "ko": "이재명 대통령은 호남 반도체 클러스터 확대를 위해 광주 군 공항 이전 및 부지 활용을 가속화하고, 핵심 인프라인 송전선로 구축을 1년 앞당겨 2028년까지 완료하는 등 '속도전'을 지시했다.",
+        "en": "President Lee Jaemyung ordered an 'all-out speed effort' for the expansion of the Honam semiconductor cluster, accelerating the relocation and site utilization of the Gwangju Military Airport and expediting the construction of the critical power transmission line by one year to be completed by 2028.",
+        "zh": "李在明总统指示，为扩大湖南半导体产业集群，将加快光州军用机场的搬迁和场地利用，并将核心基础设施输电线路的建设提前一年，至2028年完成，全面展开“速度战”。"
+      }
+    },
+    {
+      "title": "與 광주 토론…金 \"DJ 직계\" 鄭 \"호남 사위\" 宋 \"고향 발전\" - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260810150400001",
+      "source": "연합뉴스",
+      "pubDate": "Mon, 10 Aug 2026 14:56:21 GMT",
+      "image": "https://img7.yna.co.kr/photo/yna/YH/2026/08/05/PYH2026080514900001300_P4.jpg",
+      "summaries": {
+        "ko": "與 광주 토론…金 \"DJ 직계\" 鄭 \"호남 사위\" 宋 \"고향 발전\" - 연합뉴스",
+        "en": "與 광주 토론…金 \"DJ 직계\" 鄭 \"호남 사위\" 宋 \"고향 발전\" - 연합뉴스",
+        "zh": "與 광주 토론…金 \"DJ 직계\" 鄭 \"호남 사위\" 宋 \"고향 발전\" - 연합뉴스"
+      }
+    },
     {
       "title": "선관위 “투표율 오입력이 부정선거라는 주장에 동의 못 해” - KBS 뉴스",
       "link": "https://news.kbs.co.kr/news/view.do?ncd=8633008",
@@ -14,39 +38,15 @@
       }
     },
     {
-      "title": "김민석 “경제정책 다뤄봤나” 정청래 “사람 무시 일가견” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1272287.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 10 Aug 2026 15:42:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/922/600/imgdb/original/2026/0811/20260811500022.webp",
-      "summaries": {
-        "ko": "김민석 “경제정책 다뤄봤나” 정청래 “사람 무시 일가견” - 한겨레",
-        "en": "김민석 “경제정책 다뤄봤나” 정청래 “사람 무시 일가견” - 한겨레",
-        "zh": "김민석 “경제정책 다뤄봤나” 정청래 “사람 무시 일가견” - 한겨레"
-      }
-    },
-    {
-      "title": "[속보]콜롬비아서 규모 6.8 강진 발생 - 경향신문",
+      "title": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴 - 경향신문",
       "link": "https://www.khan.co.kr/article/202608102156001",
       "source": "경향신문",
       "pubDate": "Mon, 10 Aug 2026 12:56:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/08/10/rcv.YNA.20260810.PAP20260810178001009_P1.jpg",
       "summaries": {
-        "ko": "[속보]콜롬비아서 규모 6.8 강진 발생 - 경향신문",
-        "en": "[속보]콜롬비아서 규모 6.8 강진 발생 - 경향신문",
-        "zh": "[속보]콜롬비아서 규모 6.8 강진 발생 - 경향신문"
-      }
-    },
-    {
-      "title": "한병도 \"尹·오세훈·국힘 무능이 주택 공급 절벽 주범\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6843611_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Mon, 10 Aug 2026 02:22:26 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/08/10/lyj_260810_24.jpg",
-      "summaries": {
-        "ko": "한병도 \"尹·오세훈·국힘 무능이 주택 공급 절벽 주범\" - MBC 뉴스",
-        "en": "한병도 \"尹·오세훈·국힘 무능이 주택 공급 절벽 주범\" - MBC 뉴스",
-        "zh": "한병도 \"尹·오세훈·국힘 무능이 주택 공급 절벽 주범\" - MBC 뉴스"
+        "ko": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴 - 경향신문",
+        "en": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴 - 경향신문",
+        "zh": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴 - 경향신문"
       }
     },
     {
@@ -56,69 +56,69 @@
       "pubDate": "Mon, 10 Aug 2026 12:24:00 GMT",
       "image": "http://news.kbs.co.kr/data/news/2026/08/10/20260810_rzSLYM.png",
       "summaries": {
-        "ko": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - KBS 뉴스",
-        "en": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - KBS 뉴스",
-        "zh": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - KBS 뉴스"
+        "ko": "현재 활동 중인 세 개의 태풍 중 하나인 '찬홈'은 일본을 거쳐 동해상으로 진출한 뒤 모레부터 동해안에 동풍과 비, 높은 파도를 동반할 것으로 예상된다.",
+        "en": "Typhoon Chan-hom, one of three typhoons currently active, is expected to move into the East Sea after affecting Japan, bringing easterly winds, rain, and high waves to Korea's East coast starting the day after tomorrow.",
+        "zh": "目前活跃的三个台风之一“灿鸿”预计在影响日本后进入东海，从后天起给韩国东海岸带来东风、降雨和高浪。"
       }
     },
     {
-      "title": "김상호 춘추관장, 무단증축 논란…\"인지 못해\" - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260810225208GiA",
+      "title": "정부, 부동산 공급대책 곧 발표‥그린벨트 해제도 검토 - v.daum.net",
+      "link": "https://v.daum.net/v/20260810195401497",
+      "source": "v.daum.net",
+      "pubDate": "Mon, 10 Aug 2026 10:54:00 GMT",
+      "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/10/imbc/20260810200410953hjxe.jpg",
+      "summaries": {
+        "ko": "정부, 부동산 공급대책 곧 발표‥그린벨트 해제도 검토 - v.daum.net",
+        "en": "정부, 부동산 공급대책 곧 발표‥그린벨트 해제도 검토 - v.daum.net",
+        "zh": "정부, 부동산 공급대책 곧 발표‥그린벨트 해제도 검토 - v.daum.net"
+      }
+    },
+    {
+      "title": "청 춘추관장, 무단 증축 논란···“임차인 구하면서 알게 돼” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608102221005",
+      "source": "경향신문",
+      "pubDate": "Mon, 10 Aug 2026 13:21:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/10/l_2026081101000274000028281.jpg",
+      "summaries": {
+        "ko": "청 춘추관장, 무단 증축 논란···“임차인 구하면서 알게 돼” - 경향신문",
+        "en": "청 춘추관장, 무단 증축 논란···“임차인 구하면서 알게 돼” - 경향신문",
+        "zh": "청 춘추관장, 무단 증축 논란···“임차인 구하면서 알게 돼” - 경향신문"
+      }
+    },
+    {
+      "title": "[날씨] 서쪽 33도 안팎 낮 더위…곳곳 열대야 해소 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260810224124BQB",
       "source": "연합뉴스TV",
-      "pubDate": "Mon, 10 Aug 2026 13:52:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260810/AKR20260810225208GiA_01_i.jpg",
+      "pubDate": "Mon, 10 Aug 2026 13:41:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260810/MYH20260810224124BQB.jpg",
       "summaries": {
-        "ko": "김상호 춘추관장, 무단증축 논란…\"인지 못해\" - 연합뉴스TV",
-        "en": "김상호 춘추관장, 무단증축 논란…\"인지 못해\" - 연합뉴스TV",
-        "zh": "김상호 춘추관장, 무단증축 논란…\"인지 못해\" - 연합뉴스TV"
+        "ko": "[날씨] 서쪽 33도 안팎 낮 더위…곳곳 열대야 해소 - 연합뉴스TV",
+        "en": "[날씨] 서쪽 33도 안팎 낮 더위…곳곳 열대야 해소 - 연합뉴스TV",
+        "zh": "[날씨] 서쪽 33도 안팎 낮 더위…곳곳 열대야 해소 - 연합뉴스TV"
       }
     },
     {
-      "title": "‘11세 남아 사망’ 천안 교회 목사 구속… 이달 초에도 2차례 학대 신고 - 조선일보",
-      "link": "https://www.chosun.com/national/regional/chungcheong/2026/08/10/XHD266FYD5HCHHSXH4T7U6DAO4/",
-      "source": "조선일보",
-      "pubDate": "Mon, 10 Aug 2026 07:13:35 GMT",
-      "image": "https://www.chosun.com/resizer/v2/WMNRAUIKX4XJGNATABGQ5RX2DI.jpg?auth=7fb0936e350b0c4dc392686e7f7e5fddf5cd76d68c0167ba1f2ce5468367bd7f&width=720&height=378&smart=true",
-      "summaries": {
-        "ko": "‘11세 남아 사망’ 천안 교회 목사 구속… 이달 초에도 2차례 학대 신고 - 조선일보",
-        "en": "‘11세 남아 사망’ 천안 교회 목사 구속… 이달 초에도 2차례 학대 신고 - 조선일보",
-        "zh": "‘11세 남아 사망’ 천안 교회 목사 구속… 이달 초에도 2차례 학대 신고 - 조선일보"
-      }
-    },
-    {
-      "title": "동해안·제주에 비…최고 체감 33도 안팎 ‘폭염 진정’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1272130.html",
+      "title": "천안 교회서 숨진 어린이 “외할머니가 때려요” 했지만…법원, 접근금지 기각 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/chungcheong/1272268.html",
       "source": "한겨레",
-      "pubDate": "Sun, 09 Aug 2026 23:39:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/538/imgdb/original/2026/0810/20260810500211.webp",
+      "pubDate": "Mon, 10 Aug 2026 16:06:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/950/633/imgdb/original/2026/0810/20260810502984.webp",
       "summaries": {
-        "ko": "동해안·제주에 비…최고 체감 33도 안팎 ‘폭염 진정’ - 한겨레",
-        "en": "동해안·제주에 비…최고 체감 33도 안팎 ‘폭염 진정’ - 한겨레",
-        "zh": "동해안·제주에 비…최고 체감 33도 안팎 ‘폭염 진정’ - 한겨레"
+        "ko": "천안 교회서 숨진 어린이 “외할머니가 때려요” 했지만…법원, 접근금지 기각 - 한겨레",
+        "en": "천안 교회서 숨진 어린이 “외할머니가 때려요” 했지만…법원, 접근금지 기각 - 한겨레",
+        "zh": "천안 교회서 숨진 어린이 “외할머니가 때려요” 했지만…법원, 접근금지 기각 - 한겨레"
       }
     },
     {
-      "title": "김민석 \"야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6843689_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Mon, 10 Aug 2026 07:46:42 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/08/10/jh_20260810_11.jpg",
-      "summaries": {
-        "ko": "김민석 \"야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나\" - MBC 뉴스",
-        "en": "김민석 \"야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나\" - MBC 뉴스",
-        "zh": "김민석 \"야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "미 국방차관 \"아시아가 최우선\"…중견국 동맹엔 \"망상\" 경고",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260811012708hNM",
+      "title": "트럼프 \"이란, 과거 폭탄테러·시위대 살해 배상하라\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260811030727YDL",
       "source": "Breaking News",
-      "pubDate": "Tue, 11 Aug 2026 01:27:08 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260810/AKR20260811012708hNM_01_i.jpg",
+      "pubDate": "Tue, 11 Aug 2026 03:07:27 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260810/AKR20260811030727YDL_01_i.jpg",
       "summaries": {
-        "ko": "미 국방차관 \"아시아가 최우선\"…중견국 동맹엔 \"망상\" 경고",
-        "en": "미 국방차관 \"아시아가 최우선\"…중견국 동맹엔 \"망상\" 경고",
-        "zh": "미 국방차관 \"아시아가 최우선\"…중견국 동맹엔 \"망상\" 경고"
+        "ko": "트럼프 \"이란, 과거 폭탄테러·시위대 살해 배상하라\"",
+        "en": "트럼프 \"이란, 과거 폭탄테러·시위대 살해 배상하라\"",
+        "zh": "트럼프 \"이란, 과거 폭탄테러·시위대 살해 배상하라\""
       }
     }
   ]
