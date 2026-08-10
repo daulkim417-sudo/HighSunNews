@@ -1,76 +1,16 @@
 {
-  "lastUpdate": "2026-08-10T15:40:36.184845",
+  "lastUpdate": "2026-08-10T16:27:52.247856",
   "items": [
     {
-      "title": "250만평 호남산단 확대 추진…송전선로 1년 당겨 2028년 구축 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1272280.html",
+      "title": "중앙선관위 “투표율 오입력, 부실관리 인정하지만 부정선거는 아냐” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1272278.html",
       "source": "한겨레",
-      "pubDate": "Mon, 10 Aug 2026 13:05:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/527/imgdb/original/2026/0810/20260810503138.webp",
+      "pubDate": "Mon, 10 Aug 2026 11:19:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/665/imgdb/original/2026/0810/20260810503035.webp",
       "summaries": {
-        "ko": "이재명 대통령이 '메가프로젝트 제2차 민관합동 점검회의'에서 호남 반도체 클러스터 조기 착공을 위해 광주 군 공항 이전과 송전선로 구축 시점을 1년 앞당겨 2028년까지 완료하도록 지시하며 호남산단 확대에 속도를 냈다.",
-        "en": "President Lee Jae-myung, at the 2nd public-private joint inspection meeting on 'Mega Projects,' ordered the relocation of Gwangju military airport and the construction of power transmission lines to be completed by 2028, a year ahead of schedule, to accelerate the early groundbreaking of the Honam semiconductor cluster and expand the Honam industrial complex.",
-        "zh": "韩国总统李在明在“大型项目第二次官民联合检查会议”上指示，为确保湖南半导体集群提前开工，将光州军用机场搬迁和输电线路建设提前一年至2028年完成，从而加速湖南工业园区扩建。"
-      }
-    },
-    {
-      "title": "김민석 호남 - 정청래 수도권 “우위”…71% 승부처 ‘과반’ 총력전 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1272252.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 10 Aug 2026 13:11:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0810/20260810502848.webp",
-      "summaries": {
-        "ko": "김민석 호남 - 정청래 수도권 “우위”…71% 승부처 ‘과반’ 총력전 - 한겨레",
-        "en": "김민석 호남 - 정청래 수도권 “우위”…71% 승부처 ‘과반’ 총력전 - 한겨레",
-        "zh": "김민석 호남 - 정청래 수도권 “우위”…71% 승부처 ‘과반’ 총력전 - 한겨레"
-      }
-    },
-    {
-      "title": "선관위 “투표율 오입력이 부정선거라는 주장에 동의 못 해” - news.kbs.co.kr",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8633008",
-      "source": "news.kbs.co.kr",
-      "pubDate": "Mon, 10 Aug 2026 09:48:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/08/10/20260810_oTK4bU.jpg",
-      "summaries": {
-        "ko": "중앙선거관리위원회는 투표자 수 오입력이 부정선거라는 주장에 동의하지 않으며 아날로그 방식 처리의 한계와 인적 부실 관리를 인정했지만 고의적 조작은 없었다고 선을 긋고 시스템 개선을 약속했습니다.",
-        "en": "The Central Election Commission denies that errors in voter count input constitute election fraud, acknowledging limitations of analog processing and human management deficiencies, but drawing a line against intentional manipulation and promising system improvements.",
-        "zh": "中央选举管理委员会否认投票人数输入错误构成舞弊选举的主张，承认模拟处理方式的局限性和人为管理不足，但划清了与故意操纵的界限，并承诺改进系统。"
-      }
-    },
-    {
-      "title": "전월세난·임차인 불안 우려에…정부, 실거주 의무 유예 확대 방침 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/economy/economy_general/1272103.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 10 Aug 2026 08:42:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0809/20260809501714.webp",
-      "summaries": {
-        "ko": "전월세난·임차인 불안 우려에…정부, 실거주 의무 유예 확대 방침 - 한겨레",
-        "en": "전월세난·임차인 불안 우려에…정부, 실거주 의무 유예 확대 방침 - 한겨레",
-        "zh": "전월세난·임차인 불안 우려에…정부, 실거주 의무 유예 확대 방침 - 한겨레"
-      }
-    },
-    {
-      "title": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - news.kbs.co.kr",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8633253",
-      "source": "news.kbs.co.kr",
-      "pubDate": "Mon, 10 Aug 2026 12:24:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/08/10/20260810_rzSLYM.png",
-      "summaries": {
-        "ko": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - news.kbs.co.kr",
-        "en": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - news.kbs.co.kr",
-        "zh": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - news.kbs.co.kr"
-      }
-    },
-    {
-      "title": "황희 ’버스하우스 논란’ 사과…“청년주거 엄중함 못 헤아려“ - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202608101432521uv",
-      "source": "연합뉴스TV",
-      "pubDate": "Mon, 10 Aug 2026 05:32:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260810/AKR202608101432521uv_01_i.jpg",
-      "summaries": {
-        "ko": "황희 ’버스하우스 논란’ 사과…“청년주거 엄중함 못 헤아려“ - 연합뉴스TV",
-        "en": "황희 ’버스하우스 논란’ 사과…“청년주거 엄중함 못 헤아려“ - 연합뉴스TV",
-        "zh": "황희 ’버스하우스 논란’ 사과…“청년주거 엄중함 못 헤아려“ - 연합뉴스TV"
+        "ko": "중앙선관위가 6·3 지방선거 투표율 오입력에 대한 '부실관리'를 인정하면서도 '부정선거' 주장은 부인했지만, 국민의힘은 고의성을 주장하며 반발했고 선관위는 재발 방지를 약속하며 사과했다.",
+        "en": "The National Election Commission (NEC) admitted to 'poor management' concerning voter input errors in the 6·3 local elections but denied 'election fraud,' leading the People Power Party to insist on deliberate manipulation, with NEC officials ultimately apologizing and promising system improvements to prevent recurrence.",
+        "zh": "中央选举管理委员会承认在6·3地方选举中存在投票率输入错误的“管理不善”，但否认“选举舞弊”的主张；对此，国民力量党反驳并坚持认为存在故意行为，而选管委官员则为此道歉并承诺防止此类事件再次发生。"
       }
     },
     {
@@ -86,15 +26,87 @@
       }
     },
     {
-      "title": "‘다주택’ 청 춘추관장, 불법 증축 주택 월세도 받았다 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608102221005",
-      "source": "경향신문",
-      "pubDate": "Mon, 10 Aug 2026 13:21:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/10/l_2026081101000274000028281.jpg",
+      "title": "한병도 \"尹·오세훈·국힘 무능이 주택 공급 절벽 주범\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6843611_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Mon, 10 Aug 2026 02:22:26 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/08/10/lyj_260810_24.jpg",
       "summaries": {
-        "ko": "다주택자인 김상호 청와대 춘추관장이 보유한 다세대주택 건물 내 불법 증축된 가구로부터 월세를 받아온 사실이 드러났으며, 그는 매입 당시 상태였다고 해명했으나 이미 교체 수순을 밟고 있다.",
-        "en": "Cheong Wa Dae Chunchugwanjang Kim Sang-ho, a multi-property owner, was found to be collecting monthly rent from an illegally expanded unit in his multi-family dwelling, an issue he attributed to its condition at the time of purchase, while he is also due for replacement.",
-        "zh": "青瓦台春秋馆馆长金相浩被揭露在其持有的多户住宅中，对一处非法扩建的单元收取月租，他对此解释称购房时已是此状态，且其职位即将被替换。"
+        "ko": "한병도 \"尹·오세훈·국힘 무능이 주택 공급 절벽 주범\" - MBC 뉴스",
+        "en": "한병도 \"尹·오세훈·국힘 무능이 주택 공급 절벽 주범\" - MBC 뉴스",
+        "zh": "한병도 \"尹·오세훈·국힘 무능이 주택 공급 절벽 주범\" - MBC 뉴스"
+      }
+    },
+    {
+      "title": "콜롬비아 강진 사망자 최소 20명…\"붕괴 건물에 사람들 갇혀\" - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260811000700072",
+      "source": "연합뉴스",
+      "pubDate": "Mon, 10 Aug 2026 15:33:18 GMT",
+      "image": "https://img8.yna.co.kr/etc/inner/KR/2026/08/11/AKR20260811000700072_01_i_P4.jpg",
+      "summaries": {
+        "ko": "콜롬비아 강진 사망자 최소 20명…\"붕괴 건물에 사람들 갇혀\" - 연합뉴스",
+        "en": "콜롬비아 강진 사망자 최소 20명…\"붕괴 건물에 사람들 갇혀\" - 연합뉴스",
+        "zh": "콜롬비아 강진 사망자 최소 20명…\"붕괴 건물에 사람들 갇혀\" - 연합뉴스"
+      }
+    },
+    {
+      "title": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8633253",
+      "source": "KBS 뉴스",
+      "pubDate": "Mon, 10 Aug 2026 12:24:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/08/10/20260810_rzSLYM.png",
+      "summaries": {
+        "ko": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - KBS 뉴스",
+        "en": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - KBS 뉴스",
+        "zh": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - KBS 뉴스"
+      }
+    },
+    {
+      "title": "김민석 \"야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6843689_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Mon, 10 Aug 2026 07:46:42 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/08/10/jh_20260810_11.jpg",
+      "summaries": {
+        "ko": "김민석 \"야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나\" - MBC 뉴스",
+        "en": "김민석 \"야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나\" - MBC 뉴스",
+        "zh": "김민석 \"야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나\" - MBC 뉴스"
+      }
+    },
+    {
+      "title": "“교사 협박 용납 없다” 안민석, ‘오정초 악성민원’ 학부모 고발 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608101436001",
+      "source": "경향신문",
+      "pubDate": "Mon, 10 Aug 2026 05:36:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/10/news-p.v1.20260810.14d951ce9b7a47d2843ba9b684a79cd8_P1.png",
+      "summaries": {
+        "ko": "“교사 협박 용납 없다” 안민석, ‘오정초 악성민원’ 학부모 고발 - 경향신문",
+        "en": "“교사 협박 용납 없다” 안민석, ‘오정초 악성민원’ 학부모 고발 - 경향신문",
+        "zh": "“교사 협박 용납 없다” 안민석, ‘오정초 악성민원’ 학부모 고발 - 경향신문"
+      }
+    },
+    {
+      "title": "전월세난·임차인 불안 우려에…정부, 실거주 의무 유예 확대 방침 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/economy/economy_general/1272103.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 10 Aug 2026 08:42:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0809/20260809501714.webp",
+      "summaries": {
+        "ko": "전월세난·임차인 불안 우려에…정부, 실거주 의무 유예 확대 방침 - 한겨레",
+        "en": "전월세난·임차인 불안 우려에…정부, 실거주 의무 유예 확대 방침 - 한겨레",
+        "zh": "전월세난·임차인 불안 우려에…정부, 실거주 의무 유예 확대 방침 - 한겨레"
+      }
+    },
+    {
+      "title": "김상호 춘추관장, 무단증축 논란…\"인지 못해\" - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260810225208GiA",
+      "source": "연합뉴스TV",
+      "pubDate": "Mon, 10 Aug 2026 13:52:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260810/AKR20260810225208GiA_01_i.jpg",
+      "summaries": {
+        "ko": "김상호 춘추관장, 무단증축 논란…\"인지 못해\" - 연합뉴스TV",
+        "en": "김상호 춘추관장, 무단증축 논란…\"인지 못해\" - 연합뉴스TV",
+        "zh": "김상호 춘추관장, 무단증축 논란…\"인지 못해\" - 연합뉴스TV"
       }
     },
     {
@@ -107,18 +119,6 @@
         "ko": "국민의힘, 조강특위 재가동…장동혁, 26일 개혁안",
         "en": "국민의힘, 조강특위 재가동…장동혁, 26일 개혁안",
         "zh": "국민의힘, 조강특위 재가동…장동혁, 26일 개혁안"
-      }
-    },
-    {
-      "title": "與 전대 일주일 앞으로…호남·수도권 공략 사활",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260811002310TXZ",
-      "source": "Breaking News",
-      "pubDate": "Tue, 11 Aug 2026 00:23:11 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260810/MYH20260811002310TXZ.jpg",
-      "summaries": {
-        "ko": "與 전대 일주일 앞으로…호남·수도권 공략 사활",
-        "en": "與 전대 일주일 앞으로…호남·수도권 공략 사활",
-        "zh": "與 전대 일주일 앞으로…호남·수도권 공략 사활"
       }
     }
   ]
