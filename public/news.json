@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-10T20:02:20.254532",
+  "lastUpdate": "2026-08-10T20:55:23.882163",
   "items": [
     {
       "title": "250만평 호남산단 확대 추진…송전선로 1년 당겨 2028년 구축 - 한겨레",
@@ -8,57 +8,33 @@
       "pubDate": "Mon, 10 Aug 2026 13:05:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/527/imgdb/original/2026/0810/20260810503138.webp",
       "summaries": {
-        "ko": "이재명 대통령은 호남 반도체 클러스터의 신속한 조성을 위해 광주 군 공항 임무를 2028년 중반까지 분산하고 250만 평 규모의 산단 확대를 추진하며, 송전선로 구축 시점을 1년 앞당겨 2028년으로 정하는 등 '속도전'을 지시했다.",
-        "en": "President Lee Jaemyung ordered an accelerated push for the Honam semiconductor cluster, including dispersing Gwangju military airport duties by mid-2028, promoting the expansion of the industrial complex to 2.5 million pyeong, and advancing the transmission line construction target by one year to 2028.",
-        "zh": "韩国总统李在明指示，为迅速建设湖南半导体集群，将光州军用机场任务在2028年中期前分散，推动将产业园区扩大至250万坪规模，并提前一年将输电线路建设目标设定为2028年，以加速推进该项目。"
+        "ko": "250만평 호남산단 확대 추진…송전선로 1년 당겨 2028년 구축 - 한겨레",
+        "en": "250만평 호남산단 확대 추진…송전선로 1년 당겨 2028년 구축 - 한겨레",
+        "zh": "250만평 호남산단 확대 추진…송전선로 1년 당겨 2028년 구축 - 한겨레"
       }
     },
     {
-      "title": "정 “전북엔 560조 소·부·장 공장”…김 “호남 메가 1순위 추진” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608102113005",
+      "title": "김민석 “경제정책 다뤄봤나” 정청래 “사람 무시 일가견” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1272287.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 10 Aug 2026 15:42:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/922/600/imgdb/original/2026/0811/20260811500022.webp",
+      "summaries": {
+        "ko": "김민석 “경제정책 다뤄봤나” 정청래 “사람 무시 일가견” - 한겨레",
+        "en": "김민석 “경제정책 다뤄봤나” 정청래 “사람 무시 일가견” - 한겨레",
+        "zh": "김민석 “경제정책 다뤄봤나” 정청래 “사람 무시 일가견” - 한겨레"
+      }
+    },
+    {
+      "title": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608102156001",
       "source": "경향신문",
-      "pubDate": "Mon, 10 Aug 2026 12:13:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/10/l_2026081101000271700028321.jpg",
+      "pubDate": "Mon, 10 Aug 2026 12:56:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/10/rcv.YNA.20260810.PAP20260810178001009_P1.jpg",
       "summaries": {
-        "ko": "더불어민주당 전당대회 호남권 투표를 앞두고 김민석 후보는 호남 메가프로젝트 추진을, 정청래 후보는 당에 대한 충성심과 전북 경제 공약을 내세우며 호남 표심 잡기에 총력전을 펼쳤다.",
-        "en": "Ahead of the Democratic Party's National Convention Honam primary votes, candidate Kim Min-seok promised to prioritize Honam mega-projects, while candidate Jeong Cheong-rae emphasized loyalty to the party and economic pledges for Jeonbuk, as both candidates fiercely campaigned to win over Honam voters.",
-        "zh": "在共同民主党全国代表大会湖南地区投票前夕，金民锡候选人承诺优先推动湖南大型项目，而郑清来候选人则强调对党的忠诚并提出了全北经济公约，双方都全力争取湖南地区的选票。"
-      }
-    },
-    {
-      "title": "선관위 “투표율 오입력이 부정선거라는 주장에 동의 못 해” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8633008",
-      "source": "KBS 뉴스",
-      "pubDate": "Mon, 10 Aug 2026 09:48:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/08/10/20260810_oTK4bU.jpg",
-      "summaries": {
-        "ko": "선관위 “투표율 오입력이 부정선거라는 주장에 동의 못 해” - KBS 뉴스",
-        "en": "선관위 “투표율 오입력이 부정선거라는 주장에 동의 못 해” - KBS 뉴스",
-        "zh": "선관위 “투표율 오입력이 부정선거라는 주장에 동의 못 해” - KBS 뉴스"
-      }
-    },
-    {
-      "title": "콜롬비아 강진 사망자 최소 20명…\"붕괴 건물에 사람들 갇혀\" - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260811000700072",
-      "source": "연합뉴스",
-      "pubDate": "Mon, 10 Aug 2026 15:33:18 GMT",
-      "image": "https://img8.yna.co.kr/etc/inner/KR/2026/08/11/AKR20260811000700072_01_i_P4.jpg",
-      "summaries": {
-        "ko": "콜롬비아 강진 사망자 최소 20명…\"붕괴 건물에 사람들 갇혀\" - 연합뉴스",
-        "en": "콜롬비아 강진 사망자 최소 20명…\"붕괴 건물에 사람들 갇혀\" - 연합뉴스",
-        "zh": "콜롬비아 강진 사망자 최소 20명…\"붕괴 건물에 사람들 갇혀\" - 연합뉴스"
-      }
-    },
-    {
-      "title": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8633253",
-      "source": "KBS 뉴스",
-      "pubDate": "Mon, 10 Aug 2026 12:24:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/08/10/20260810_rzSLYM.png",
-      "summaries": {
-        "ko": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - KBS 뉴스",
-        "en": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - KBS 뉴스",
-        "zh": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - KBS 뉴스"
+        "ko": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴 - 경향신문",
+        "en": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴 - 경향신문",
+        "zh": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴 - 경향신문"
       }
     },
     {
@@ -74,15 +50,15 @@
       }
     },
     {
-      "title": "“한강벨트서 캠핑 느낌 즐겨요”…‘폐버스 주택’ 조롱 밈 확산 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260810/134449250/2",
-      "source": "동아일보",
-      "pubDate": "Mon, 10 Aug 2026 04:42:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/10/134449493.1.jpg",
+      "title": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8633253",
+      "source": "KBS 뉴스",
+      "pubDate": "Mon, 10 Aug 2026 12:24:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/08/10/20260810_rzSLYM.png",
       "summaries": {
-        "ko": "“한강벨트서 캠핑 느낌 즐겨요”…‘폐버스 주택’ 조롱 밈 확산 - 동아일보",
-        "en": "“한강벨트서 캠핑 느낌 즐겨요”…‘폐버스 주택’ 조롱 밈 확산 - 동아일보",
-        "zh": "“한강벨트서 캠핑 느낌 즐겨요”…‘폐버스 주택’ 조롱 밈 확산 - 동아일보"
+        "ko": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - KBS 뉴스",
+        "en": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - KBS 뉴스",
+        "zh": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - KBS 뉴스"
       }
     },
     {
@@ -95,6 +71,18 @@
         "ko": "천안 교회서 숨진 어린이 “외할머니가 때려요” 했지만…법원, 접근금지 기각 - 한겨레",
         "en": "천안 교회서 숨진 어린이 “외할머니가 때려요” 했지만…법원, 접근금지 기각 - 한겨레",
         "zh": "천안 교회서 숨진 어린이 “외할머니가 때려요” 했지만…법원, 접근금지 기각 - 한겨레"
+      }
+    },
+    {
+      "title": "투표자 30% 줄기도 10% 늘기도…선관위 투표 끝난 뒤 조작 정황 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260809030900004",
+      "source": "연합뉴스",
+      "pubDate": "Sun, 09 Aug 2026 20:55:01 GMT",
+      "image": "https://img3.yna.co.kr/photo/yna/YH/2026/07/31/PYH2026073110520001300_P4.jpg",
+      "summaries": {
+        "ko": "투표자 30% 줄기도 10% 늘기도…선관위 투표 끝난 뒤 조작 정황 - 연합뉴스",
+        "en": "투표자 30% 줄기도 10% 늘기도…선관위 투표 끝난 뒤 조작 정황 - 연합뉴스",
+        "zh": "투표자 30% 줄기도 10% 늘기도…선관위 투표 끝난 뒤 조작 정황 - 연합뉴스"
       }
     },
     {
@@ -119,6 +107,30 @@
         "ko": "여야 재검표 충돌에 野 단독 청문회…국힘, 전산조작 질타(종합2보) - 연합뉴스",
         "en": "여야 재검표 충돌에 野 단독 청문회…국힘, 전산조작 질타(종합2보) - 연합뉴스",
         "zh": "여야 재검표 충돌에 野 단독 청문회…국힘, 전산조작 질타(종합2보) - 연합뉴스"
+      }
+    },
+    {
+      "title": "젤렌스키 \"러, 북한군 추가 배치 준비 중\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260811055203pkQ",
+      "source": "Breaking News",
+      "pubDate": "Tue, 11 Aug 2026 05:52:03 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260810/AKR20260811055203pkQ_01_i.jpg",
+      "summaries": {
+        "ko": "젤렌스키 \"러, 북한군 추가 배치 준비 중\"",
+        "en": "젤렌스키 \"러, 북한군 추가 배치 준비 중\"",
+        "zh": "젤렌스키 \"러, 북한군 추가 배치 준비 중\""
+      }
+    },
+    {
+      "title": "[속보] 평택 위험물 보관창고 화재, 대응 1단계로 하향 조정",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202608110546346Ju",
+      "source": "Breaking News",
+      "pubDate": "Tue, 11 Aug 2026 05:46:35 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260810/AKR202608110546346Ju_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] 평택 위험물 보관창고 화재, 대응 1단계로 하향 조정",
+        "en": "[속보] 평택 위험물 보관창고 화재, 대응 1단계로 하향 조정",
+        "zh": "[속보] 평택 위험물 보관창고 화재, 대응 1단계로 하향 조정"
       }
     }
   ]
