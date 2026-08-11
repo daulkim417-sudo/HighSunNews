@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-11T11:53:27.737954",
+  "lastUpdate": "2026-08-11T12:33:59.970401",
   "items": [
     {
       "title": "[사설]천안 교회 어린이 사망, 아동학대 4번 신고에도 막지 못했다니 - 경향신문",
@@ -8,9 +8,9 @@
       "pubDate": "Tue, 11 Aug 2026 09:48:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/08/11/news-p.v1.20260811.2a690ceaa51743b286b00ddfac5af8ae_P1.jpg",
       "summaries": {
-        "ko": "천안에서 지적장애 아동이 4차례 학대 신고에도 불구하고 사망한 사건을 통해 경찰, 법원, 지자체의 소극적 대처와 행정적 한계가 비극을 막지 못했음을 지적하며, 아동학대 방지 시스템 보완 및 보호 강화의 시급함을 강조한다.",
-        "en": "An editorial highlights that an intellectually disabled child in Cheonan died despite four abuse reports, attributing the tragedy to the passive responses of the police, courts, and local authorities, and administrative limitations, while emphasizing the urgent need to improve child abuse prevention systems and strengthen protection.",
-        "zh": "社论指出，在天安，一名智障儿童在四次虐待举报后仍不幸死亡，这归咎于警方、法院和地方政府的消极应对以及行政局限性未能阻止悲剧的发生，并强调了完善儿童虐待预防系统和加强保护的紧迫性。"
+        "ko": "경향신문은 천안에서 지적장애 아동이 4차례 학대 신고에도 불구하고 결국 학대로 사망한 사건을 지적하며, 당국의 소극적 대처와 시스템적 한계로 인해 아동학대 비극이 반복되고 있음을 비판했다.",
+        "en": "Kyunghyang Shinmun criticizes the tragic death of an intellectually disabled child in Cheonan due to abuse, despite four prior reports, blaming authorities' passive responses and systemic limitations for the recurrence of child abuse tragedies.",
+        "zh": "《京乡新闻》批评了天安一名智障儿童在四次虐待举报后仍因虐待死亡的悲剧，指出这是由于当局的消极应对和系统性限制导致儿童虐待悲剧反复发生。"
       }
     },
     {
@@ -20,21 +20,33 @@
       "pubDate": "Tue, 11 Aug 2026 10:43:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/640/414/imgdb/original/2026/0811/20260811503385.webp",
       "summaries": {
-        "ko": "이 대통령 “세제개편안 변경 여지 있어…미확정” - 한겨레",
-        "en": "이 대통령 “세제개편안 변경 여지 있어…미확정” - 한겨레",
-        "zh": "이 대통령 “세제개편안 변경 여지 있어…미확정” - 한겨레"
+        "ko": "이재명 대통령은 정부의 8·3 세제개편안이 확정된 안이 아니며 국민 의견을 반영해 수정될 여지가 있음을 강조하며, 비난을 위한 비난은 갈등만 격화시킨다고 말했다.",
+        "en": "President Lee Jae-myung stated that the government's August 3rd tax reform proposal is not final and is open to modification based on public opinion, adding that criticism for the sake of criticism only intensifies conflict.",
+        "zh": "李在明总统表示，政府的8·3税制改革方案并非最终确定方案，仍有根据国民意见进行修改的余地，并称为了批评而批评只会加剧矛盾。"
       }
     },
     {
-      "title": "이란에 “50년치 피해 배상하라” 맞불 놓은 트럼프, 중동이란 ‘늪’에 빠졌다 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608111641001",
-      "source": "경향신문",
-      "pubDate": "Tue, 11 Aug 2026 07:41:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/11/news-p.v1.20260811.15ee7e5cf2084802a0c335ba8d65f3db_P1.png",
+      "title": "민주노총 \"李대통령 노조법 쟁의기준 마련 지시는 재계 편들기\" - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260811139700530",
+      "source": "연합뉴스",
+      "pubDate": "Tue, 11 Aug 2026 07:44:14 GMT",
+      "image": "https://img6.yna.co.kr/photo/yna/YH/2026/08/11/PYH2026081106850001300_P4.jpg",
       "summaries": {
-        "ko": "이란에 “50년치 피해 배상하라” 맞불 놓은 트럼프, 중동이란 ‘늪’에 빠졌다 - 경향신문",
-        "en": "이란에 “50년치 피해 배상하라” 맞불 놓은 트럼프, 중동이란 ‘늪’에 빠졌다 - 경향신문",
-        "zh": "이란에 “50년치 피해 배상하라” 맞불 놓은 트럼프, 중동이란 ‘늪’에 빠졌다 - 경향신문"
+        "ko": "민주노총 \"李대통령 노조법 쟁의기준 마련 지시는 재계 편들기\" - 연합뉴스",
+        "en": "민주노총 \"李대통령 노조법 쟁의기준 마련 지시는 재계 편들기\" - 연합뉴스",
+        "zh": "민주노총 \"李대통령 노조법 쟁의기준 마련 지시는 재계 편들기\" - 연합뉴스"
+      }
+    },
+    {
+      "title": "[영상]6000km 이동해 상하이 물바다 만든 ‘돌핀’···베이징에도 1년치 3분의 1 수준 비 뿌린다 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608111644001",
+      "source": "경향신문",
+      "pubDate": "Tue, 11 Aug 2026 07:44:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/11/news-p.v1.20260811.4192cd3c037d4a4a81e2f9c453b841bc_P1.jpg",
+      "summaries": {
+        "ko": "[영상]6000km 이동해 상하이 물바다 만든 ‘돌핀’···베이징에도 1년치 3분의 1 수준 비 뿌린다 - 경향신문",
+        "en": "[영상]6000km 이동해 상하이 물바다 만든 ‘돌핀’···베이징에도 1년치 3분의 1 수준 비 뿌린다 - 경향신문",
+        "zh": "[영상]6000km 이동해 상하이 물바다 만든 ‘돌핀’···베이징에도 1년치 3분의 1 수준 비 뿌린다 - 경향신문"
       }
     },
     {
@@ -50,6 +62,30 @@
       }
     },
     {
+      "title": "이란에 “50년치 피해 배상하라” 맞불 놓은 트럼프, 중동이란 ‘늪’에 빠졌다 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608111641001",
+      "source": "경향신문",
+      "pubDate": "Tue, 11 Aug 2026 07:41:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/11/news-p.v1.20260811.15ee7e5cf2084802a0c335ba8d65f3db_P1.png",
+      "summaries": {
+        "ko": "이란에 “50년치 피해 배상하라” 맞불 놓은 트럼프, 중동이란 ‘늪’에 빠졌다 - 경향신문",
+        "en": "이란에 “50년치 피해 배상하라” 맞불 놓은 트럼프, 중동이란 ‘늪’에 빠졌다 - 경향신문",
+        "zh": "이란에 “50년치 피해 배상하라” 맞불 놓은 트럼프, 중동이란 ‘늪’에 빠졌다 - 경향신문"
+      }
+    },
+    {
+      "title": "‘6·3 지선 깨끗하게 치러졌다’ 30.6%…4년전 대비 반토막 수준 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260811/134458108/1",
+      "source": "동아일보",
+      "pubDate": "Tue, 11 Aug 2026 07:48:26 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/11/134458712.1.jpg",
+      "summaries": {
+        "ko": "‘6·3 지선 깨끗하게 치러졌다’ 30.6%…4년전 대비 반토막 수준 - 동아일보",
+        "en": "‘6·3 지선 깨끗하게 치러졌다’ 30.6%…4년전 대비 반토막 수준 - 동아일보",
+        "zh": "‘6·3 지선 깨끗하게 치러졌다’ 30.6%…4년전 대비 반토막 수준 - 동아일보"
+      }
+    },
+    {
       "title": "박상용 검사 추가 징계 사유에 '근무시간 중 페이스북 21회 게시' 담겨 - imnews.imbc.com",
       "link": "https://imnews.imbc.com/news/2026/society/article/6843986_36918.html",
       "source": "imnews.imbc.com",
@@ -62,63 +98,27 @@
       }
     },
     {
-      "title": "‘강진’ 콜롬비아 2700명 실종자 등록…“갇힌 사람 너무 많아 구조 역부족” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1272446.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 11 Aug 2026 10:10:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/700/466/imgdb/original/2026/0811/20260811503369.webp",
+      "title": "광교 아파트 단지서 1ｍ 도마뱀 소동…\"탈출 반려동물 추정\"(종합) - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260810136151061",
+      "source": "연합뉴스",
+      "pubDate": "Tue, 11 Aug 2026 01:43:37 GMT",
+      "image": "https://img9.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810136151061_02_i_P4.gif",
       "summaries": {
-        "ko": "‘강진’ 콜롬비아 2700명 실종자 등록…“갇힌 사람 너무 많아 구조 역부족” - 한겨레",
-        "en": "‘강진’ 콜롬비아 2700명 실종자 등록…“갇힌 사람 너무 많아 구조 역부족” - 한겨레",
-        "zh": "‘강진’ 콜롬비아 2700명 실종자 등록…“갇힌 사람 너무 많아 구조 역부족” - 한겨레"
+        "ko": "광교 아파트 단지서 1ｍ 도마뱀 소동…\"탈출 반려동물 추정\"(종합) - 연합뉴스",
+        "en": "광교 아파트 단지서 1ｍ 도마뱀 소동…\"탈출 반려동물 추정\"(종합) - 연합뉴스",
+        "zh": "광교 아파트 단지서 1ｍ 도마뱀 소동…\"탈출 반려동물 추정\"(종합) - 연합뉴스"
       }
     },
     {
-      "title": "'지방선거 깨끗하게 치렀다' 30.6％…4년 전 대비 '반토막' - yna.co.kr",
-      "link": "https://www.yna.co.kr/view/AKR20260811116200001",
-      "source": "yna.co.kr",
-      "pubDate": "Tue, 11 Aug 2026 06:28:56 GMT",
-      "image": "https://img8.yna.co.kr/photo/yna/YH/2026/08/04/PYH2026080410910001300_P4.jpg",
-      "summaries": {
-        "ko": "'지방선거 깨끗하게 치렀다' 30.6％…4년 전 대비 '반토막' - yna.co.kr",
-        "en": "'지방선거 깨끗하게 치렀다' 30.6％…4년 전 대비 '반토막' - yna.co.kr",
-        "zh": "'지방선거 깨끗하게 치렀다' 30.6％…4년 전 대비 '반토막' - yna.co.kr"
-      }
-    },
-    {
-      "title": "의령군, 군민에 1인당 50만원 민생지원금 지급 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608111321001",
-      "source": "경향신문",
-      "pubDate": "Tue, 11 Aug 2026 04:21:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/11/news-p.v1.20260811.08339b0c72ee4cce91496b149bb75c2a_P1.jpg",
-      "summaries": {
-        "ko": "의령군, 군민에 1인당 50만원 민생지원금 지급 - 경향신문",
-        "en": "의령군, 군민에 1인당 50만원 민생지원금 지급 - 경향신문",
-        "zh": "의령군, 군민에 1인당 50만원 민생지원금 지급 - 경향신문"
-      }
-    },
-    {
-      "title": "국토위 소환된 ‘폐버스 주택’... 野 “1964년 오사카서 도입, 5년뒤 폐지” - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/08/11/26YYFLE7CZG6NM6JRDANUOHFEU/",
-      "source": "조선일보",
-      "pubDate": "Tue, 11 Aug 2026 08:15:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/43EEBXO4DZHABKBLUS7GHKHYKI.jpg?auth=12365f71db629687fc0b4700ac4542fe3b1fccdb6a6407543d1a7d66398cd870&width=393&height=206&focal=205,150",
-      "summaries": {
-        "ko": "국토위 소환된 ‘폐버스 주택’... 野 “1964년 오사카서 도입, 5년뒤 폐지” - 조선일보",
-        "en": "국토위 소환된 ‘폐버스 주택’... 野 “1964년 오사카서 도입, 5년뒤 폐지” - 조선일보",
-        "zh": "국토위 소환된 ‘폐버스 주택’... 野 “1964년 오사카서 도입, 5년뒤 폐지” - 조선일보"
-      }
-    },
-    {
-      "title": "'張 사퇴 vs 지지' 당원도 쪼개진 국힘…내홍 심화",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260811205142isT",
+      "title": "레바논, 중동 국가 최초로 사형제 공식 폐지",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260811213149Kdt",
       "source": "Breaking News",
-      "pubDate": "Tue, 11 Aug 2026 20:51:45 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260811/MYH20260811205142isT.jpg",
+      "pubDate": "Tue, 11 Aug 2026 21:31:52 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260811/AKR20260811213149Kdt_01_i.jpg",
       "summaries": {
-        "ko": "'張 사퇴 vs 지지' 당원도 쪼개진 국힘…내홍 심화",
-        "en": "'張 사퇴 vs 지지' 당원도 쪼개진 국힘…내홍 심화",
-        "zh": "'張 사퇴 vs 지지' 당원도 쪼개진 국힘…내홍 심화"
+        "ko": "레바논, 중동 국가 최초로 사형제 공식 폐지",
+        "en": "레바논, 중동 국가 최초로 사형제 공식 폐지",
+        "zh": "레바논, 중동 국가 최초로 사형제 공식 폐지"
       }
     }
   ]
