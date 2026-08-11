@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-08-11T06:05:25.436628",
+  "lastUpdate": "2026-08-11T07:22:21.627656",
   "items": [
-    {
-      "title": "이 대통령 “열심히 한 공직자 실수, 문책이나 감사 배제해야”…뭘 말하나 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1272319.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 11 Aug 2026 02:44:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/357/imgdb/original/2026/0811/20260811500969.webp",
-      "summaries": {
-        "ko": "이재명 대통령은 공직자의 무책임하고 부패한 행위는 엄정히 문책하되, 열심히 노력하다 실수하는 경우 문책이나 감사를 배제하여 공직자들이 자부심을 가지고 일할 수 있는 환경을 조성해야 한다고 강조했다.",
-        "en": "President Lee Jae-myung emphasized the need for strict accountability for irresponsible and corrupt public officials, while advocating for the exclusion of punishment or audits for those who genuinely try but make mistakes, to foster an environment where civil servants can work with pride.",
-        "zh": "李在明总统强调，对不负责任和腐败的公务员应严格追究责任，但对于那些努力工作但犯错的人，则应免除问责和审计，以营造公务员能够自豪工作的环境。"
-      }
-    },
     {
       "title": "‘당대표 호남 민심’ 김민석 57%, 정청래 28%…오늘부터 4일간 호남 당원투표 [리얼미터] - 경향신문",
       "link": "https://www.khan.co.kr/article/202608110846001",
@@ -20,21 +8,93 @@
       "pubDate": "Mon, 10 Aug 2026 23:46:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/08/11/news-p.v1.20260811.d82a7cf69cbc42d4afd5737504bf4d3b_P1.jpg",
       "summaries": {
-        "ko": "‘당대표 호남 민심’ 김민석 57%, 정청래 28%…오늘부터 4일간 호남 당원투표 [리얼미터] - 경향신문",
-        "en": "‘당대표 호남 민심’ 김민석 57%, 정청래 28%…오늘부터 4일간 호남 당원투표 [리얼미터] - 경향신문",
-        "zh": "‘당대표 호남 민심’ 김민석 57%, 정청래 28%…오늘부터 4일간 호남 당원투표 [리얼미터] - 경향신문"
+        "ko": "리얼미터 여론조사 결과 김민석 의원이 호남권에서 57.7%의 높은 지지율로 정청래 의원을 크게 앞서며 민주당 차기 당대표 지지율 전국 1위를 기록했다.",
+        "en": "According to a Realmeter poll, Kim Min-seok secured the top spot nationwide for the next Democratic Party leader, significantly outperforming Jeong Cheong-rae with a high 57.7% support rate in the Honam region.",
+        "zh": "根据Realmeter的民意调查，金民锡在湖南地区以57.7%的高支持率显著领先郑清来，在民主党下届党代表支持率中位居全国第一。"
       }
     },
     {
-      "title": "이 대통령, 검찰 보완수사권 폐지에 \"국민 우려 어떻게 할지 대책 보고해달라\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6843884_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 11 Aug 2026 02:48:43 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/08/11/lyj_260811_28.jpg",
+      "title": "이 대통령 거듭 “노란봉투법 쟁의 기준 마련 적극 검토하라” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1272333.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 11 Aug 2026 02:40:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/423/imgdb/original/2026/0811/20260811501400.webp",
       "summaries": {
-        "ko": "이 대통령, 검찰 보완수사권 폐지에 \"국민 우려 어떻게 할지 대책 보고해달라\" - MBC 뉴스",
-        "en": "이 대통령, 검찰 보완수사권 폐지에 \"국민 우려 어떻게 할지 대책 보고해달라\" - MBC 뉴스",
-        "zh": "이 대통령, 검찰 보완수사권 폐지에 \"국민 우려 어떻게 할지 대책 보고해달라\" - MBC 뉴스"
+        "ko": "이재명 대통령은 ‘노란봉투법’ 시행과 관련하여 노동쟁의 대상 기준 마련을 고용노동부에 거듭 촉구하며, 행정 해석이 아닌 시행령 등을 통한 명확한 규정 제시를 주문했다.",
+        "en": "President Lee Jae-myung repeatedly urged the Ministry of Employment and Labor to establish clear criteria for labor dispute targets related to the 'Yellow Envelope Law' implementation, ordering the presentation of explicit regulations through enforcement decrees rather than mere administrative interpretations.",
+        "zh": "李在明总统就“黄信封法”的实施，再次敦促雇佣劳动部制定劳动争议对象的明确标准，并指示其通过施行令而非行政解释来明确规定。"
+      }
+    },
+    {
+      "title": "이 대통령, '부처 엇박자' 지적에 \"각료들이 안 다투면 국민이 싸워\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6843918_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Tue, 11 Aug 2026 05:10:57 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/08/11/jh_20260811_4.jpg",
+      "summaries": {
+        "ko": "이 대통령, '부처 엇박자' 지적에 \"각료들이 안 다투면 국민이 싸워\" - MBC 뉴스",
+        "en": "이 대통령, '부처 엇박자' 지적에 \"각료들이 안 다투면 국민이 싸워\" - MBC 뉴스",
+        "zh": "이 대통령, '부처 엇박자' 지적에 \"각료들이 안 다투면 국민이 싸워\" - MBC 뉴스"
+      }
+    },
+    {
+      "title": "“경찰 폐지” 외치더니 “안 없앤다”… 美 한인 주지사 후보의 ‘홍적홍’ - 조선일보",
+      "link": "https://www.chosun.com/international/international_general/2026/08/11/EYI2GBPCMFGVXG452FWGIRDIHE/",
+      "source": "조선일보",
+      "pubDate": "Mon, 10 Aug 2026 20:04:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/N7UOHIW4UBPIZNU3K7HOBYVFDA.jpg?auth=fb8653870b18a19f66a6fe8f66985f98d6bc772233c0d1e2c690118a2b4b0808&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "“경찰 폐지” 외치더니 “안 없앤다”… 美 한인 주지사 후보의 ‘홍적홍’ - 조선일보",
+        "en": "“경찰 폐지” 외치더니 “안 없앤다”… 美 한인 주지사 후보의 ‘홍적홍’ - 조선일보",
+        "zh": "“경찰 폐지” 외치더니 “안 없앤다”… 美 한인 주지사 후보의 ‘홍적홍’ - 조선일보"
+      }
+    },
+    {
+      "title": "‘건강보험 국고지원’ 10년간 19조4천억원 부족…법정기준 미달 - kyeonggi.com",
+      "link": "https://www.kyeonggi.com/article/20260811580009",
+      "source": "kyeonggi.com",
+      "pubDate": "Mon, 10 Aug 2026 22:21:53 GMT",
+      "image": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/11/.cache/512/20260811580010.png?v=20260811162146",
+      "summaries": {
+        "ko": "정부가 최근 10년간 국민건강보험에 법정 기준인 예상 수입액의 20%에 크게 못 미치는 국고 지원을 하면서 총 19조4천억원가량이 부족하게 지급돼 건보 재정 불안정을 심화시키고 있다는 지적이 나왔다.",
+        "en": "Over the past decade, the South Korean government has significantly underfunded the national health insurance by approximately 19.4 trillion won, consistently failing to meet the legally mandated 20% of estimated premium income, thus exacerbating the financial instability of the health insurance system.",
+        "zh": "过去十年间，韩国政府对国民健康保险的财政支持远低于法定标准即预计收入的20%，累计短缺约19.4万亿韩元，这被指出加剧了健康保险财政的不稳定性。"
+      }
+    },
+    {
+      "title": "콜롬비아 규모 7.4 강진 '국가비상사태'…132명 사망·부상 570명, 건물 붕괴 - KBC광주방송",
+      "link": "https://news.ikbc.co.kr/article/view/kbc202608110019",
+      "source": "KBC광주방송",
+      "pubDate": "Tue, 11 Aug 2026 00:57:35 GMT",
+      "image": "https://www.ikbc.co.kr/data/kbc/image/2026/08/11/kbc202608110041.jpg",
+      "summaries": {
+        "ko": "콜롬비아 서부를 강타한 규모 7.4 강진으로 최소 132명 사망, 570명 부상, 건물 붕괴 등 막대한 피해가 발생해 국가비상사태가 선포되었으나, 교민 인명 피해는 없는 것으로 파악됐다.",
+        "en": "A magnitude 7.4 earthquake in western Colombia has caused at least 132 deaths, 570 injuries, and extensive building collapses, leading to a national state of emergency, while no casualties have been reported among Korean residents.",
+        "zh": "哥伦比亚西部发生7.4级强震，造成至少132人死亡、570人受伤及大量建筑倒塌，政府已宣布进入国家紧急状态，而当地韩国侨民暂无伤亡报告。"
+      }
+    },
+    {
+      "title": "조상호 세종시장 “이 대통령 ’임기 내 세종집무실 시대’ 의지 환영“ - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260811143822YvD",
+      "source": "연합뉴스TV",
+      "pubDate": "Tue, 11 Aug 2026 05:38:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260811/AKR20260811143822YvD_01_i.jpg",
+      "summaries": {
+        "ko": "조상호 세종시장은 이재명 대통령의 '임기 내 세종집무실' 의지를 환영하며 국가 균형발전 사명임을 강조하고 행정수도특별법 제정을 촉구했습니다.",
+        "en": "Sejong Mayor Cho Sang-ho welcomed President Lee Jae-myung's commitment to establish a presidential office in Sejong within his term, emphasizing its role in balanced national development and urging the enactment of the Administrative Capital Special Act.",
+        "zh": "世宗市市长赵相镐对李在明总统任期内设立世宗总统办公室的承诺表示欢迎，强调其对国家均衡发展的使命，并敦促制定《行政首都特别法》。"
+      }
+    },
+    {
+      "title": "논란 일자 결국 멈춘 SH… 재개발임대 입주자 모집 연기 - 이투데이",
+      "link": "https://bravo.etoday.co.kr/view/atc_view/19813",
+      "source": "이투데이",
+      "pubDate": "Tue, 11 Aug 2026 01:23:00 GMT",
+      "image": "https://img.etoday.co.kr/pto_db/2026/08/20260811102308_2371510_500_562.jpg",
+      "summaries": {
+        "ko": "서울주택도시공사(SH)는 사회취약계층 가점을 폐지해 논란이 됐던 재개발임대주택 입주자 모집 절차를 결국 중단하고, 취약계층 주거 안정을 위한 선정 기준을 보완해 재공고할 예정이라고 밝혔다.",
+        "en": "Seoul Housing & Communities Corporation (SH) has halted the application process for its redevelopment rental housing, which faced criticism for removing social vulnerability points from its selection criteria, and announced plans to revise the standards to better support vulnerable groups.",
+        "zh": "首尔住房城市开发公社（SH）因其取消社会弱势群体加分的新规定引发争议，已暂停了其再开发租赁住房的申请流程，并宣布将重新评估并补充弱势群体的选拔标准。"
       }
     },
     {
@@ -44,45 +104,9 @@
       "pubDate": "Mon, 10 Aug 2026 23:18:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/922/600/imgdb/original/2026/0811/20260811500022.webp",
       "summaries": {
-        "ko": "김민석 “경제정책 다뤄봤나” 정청래 “사람 무시 일가견” - 한겨레",
-        "en": "김민석 “경제정책 다뤄봤나” 정청래 “사람 무시 일가견” - 한겨레",
-        "zh": "김민석 “경제정책 다뤄봤나” 정청래 “사람 무시 일가견” - 한겨레"
-      }
-    },
-    {
-      "title": "李대통령 \"세금 바꾸면 욕먹어… 경제부총리, 무조건 기어서 다니라\" - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/08/11/GHNXMBZUJ5CL7MF6EFL52Q2O54/",
-      "source": "조선일보",
-      "pubDate": "Tue, 11 Aug 2026 03:12:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/DOOENOYU5BBSRGBQGKJS6ZHCHE.JPG?auth=b5bd01d4e4cabba5917b9d992ee3793790133a31c3b69532e5f4e1315549d0d1&width=1200&height=630&focal=1785,682",
-      "summaries": {
-        "ko": "李대통령 \"세금 바꾸면 욕먹어… 경제부총리, 무조건 기어서 다니라\" - 조선일보",
-        "en": "李대통령 \"세금 바꾸면 욕먹어… 경제부총리, 무조건 기어서 다니라\" - 조선일보",
-        "zh": "李대통령 \"세금 바꾸면 욕먹어… 경제부총리, 무조건 기어서 다니라\" - 조선일보"
-      }
-    },
-    {
-      "title": "콜롬비아 지진으로 최소 132명 사망...수년래 최대 규모 - BBC",
-      "link": "https://www.bbc.com/korean/articles/cy8m159zxk4o",
-      "source": "BBC",
-      "pubDate": "Tue, 11 Aug 2026 03:23:06 GMT",
-      "image": "https://ichef.bbci.co.uk/news/1200/branded_korean/2041/live/b92c7aa0-94fe-11f1-870d-5d08c49babb2.jpg",
-      "summaries": {
-        "ko": "콜롬비아 지진으로 최소 132명 사망...수년래 최대 규모 - BBC",
-        "en": "콜롬비아 지진으로 최소 132명 사망...수년래 최대 규모 - BBC",
-        "zh": "콜롬비아 지진으로 최소 132명 사망...수년래 최대 규모 - BBC"
-      }
-    },
-    {
-      "title": "국방부 \"광주 군공항 2년 내 이전‥미군 공여지 조속반환 협의\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6843860_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 11 Aug 2026 01:00:01 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/08/11/lyj_260811_12.jpg",
-      "summaries": {
-        "ko": "국방부 \"광주 군공항 2년 내 이전‥미군 공여지 조속반환 협의\" - MBC 뉴스",
-        "en": "국방부 \"광주 군공항 2년 내 이전‥미군 공여지 조속반환 협의\" - MBC 뉴스",
-        "zh": "국방부 \"광주 군공항 2년 내 이전‥미군 공여지 조속반환 협의\" - MBC 뉴스"
+        "ko": "더불어민주당 당대표 후보 송영길, 정청래, 김민석이 호남권 경선을 앞두고 KBC 방송토론회에서 호남 연고와 '호남 반도체 클러스터' 정책 지원 능력을 내세우며 호남 당심에 구애했으며, 특히 정청래와 김민석 후보는 날 선 신경전을 벌였다.",
+        "en": "Ahead of the Honam regional primary, Democratic Party leader candidates Song Young-gil, Jung Cheong-rae, and Kim Min-seok vied for Honam's party sentiment in a KBC broadcast debate by emphasizing their regional ties and ability to support the 'Honam semiconductor cluster' policy, with Jung Cheong-rae and Kim Min-seok engaging in a particularly sharp exchange.",
+        "zh": "在湖南地区预选前，共同民主党党代表候选人宋永吉、郑清来和金民锡在KBC广播辩论中，通过强调其地区渊源和支持“湖南半导体产业集群”政策的能力，争取湖南党员的支持，其中郑清来和金民锡展开了尤其激烈的交锋。"
       }
     },
     {
@@ -95,30 +119,6 @@
         "ko": "의령군, 군민에 1인당 50만원 민생지원금 지급 - 경향신문",
         "en": "의령군, 군민에 1인당 50만원 민생지원금 지급 - 경향신문",
         "zh": "의령군, 군민에 1인당 50만원 민생지원금 지급 - 경향신문"
-      }
-    },
-    {
-      "title": "내일도 맑고 동쪽에는 비…해안 너울 주의 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8633964",
-      "source": "KBS 뉴스",
-      "pubDate": "Tue, 11 Aug 2026 05:01:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/08/11/20260811_7odFyq.jpg",
-      "summaries": {
-        "ko": "내일도 맑고 동쪽에는 비…해안 너울 주의 - KBS 뉴스",
-        "en": "내일도 맑고 동쪽에는 비…해안 너울 주의 - KBS 뉴스",
-        "zh": "내일도 맑고 동쪽에는 비…해안 너울 주의 - KBS 뉴스"
-      }
-    },
-    {
-      "title": "'국가소방동원령' 평택 화재…위험물 창고 PJK 평택 물류센터는? - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260811012100061",
-      "source": "연합뉴스",
-      "pubDate": "Mon, 10 Aug 2026 22:09:16 GMT",
-      "image": "https://img4.yna.co.kr/etc/inner/KR/2026/08/11/AKR20260811012100061_02_i_P4.jpg",
-      "summaries": {
-        "ko": "'국가소방동원령' 평택 화재…위험물 창고 PJK 평택 물류센터는? - 연합뉴스",
-        "en": "'국가소방동원령' 평택 화재…위험물 창고 PJK 평택 물류센터는? - 연합뉴스",
-        "zh": "'국가소방동원령' 평택 화재…위험물 창고 PJK 평택 물류센터는? - 연합뉴스"
       }
     }
   ]
