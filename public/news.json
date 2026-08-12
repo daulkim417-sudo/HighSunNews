@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-11T23:21:13.777559",
+  "lastUpdate": "2026-08-12T00:04:57.114363",
   "items": [
     {
       "title": "콜롬비아 강진 사망자 200명대로 증가···밤샘 구조 이어가 - 경향신문",
@@ -8,21 +8,21 @@
       "pubDate": "Tue, 11 Aug 2026 22:34:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/08/12/rcv.YNA.20260812.PAF20260812087401009_P1.jpg",
       "summaries": {
-        "ko": "콜롬비아 강진 사망자 200명대로 증가···밤샘 구조 이어가 - 경향신문",
-        "en": "콜롬비아 강진 사망자 200명대로 증가···밤샘 구조 이어가 - 경향신문",
-        "zh": "콜롬비아 강진 사망자 200명대로 증가···밤샘 구조 이어가 - 경향신문"
+        "ko": "콜롬비아 서부를 강타한 규모 7.4 강진으로 사망자가 200명대로 늘고 3000명 이상이 실종됐으며, 밤샘 구조 작업이 이어지는 가운데 피해 규모는 더욱 커질 것으로 예상된다.",
+        "en": "A magnitude 7.4 earthquake that struck western Colombia has increased the death toll to over 200 with more than 3,000 missing, and as overnight rescue operations continue, the scale of the damage is expected to grow further.",
+        "zh": "哥伦比亚西部遭遇7.4级强震，死亡人数已增至200余人，超过3000人失踪，随着彻夜救援工作的持续进行，预计伤亡规模还将进一步扩大。"
       }
     },
     {
-      "title": "청, 북 탄도미사일 발사에 긴급안보상황점검회의… “도발 행위 중단 촉구” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1272492.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 11 Aug 2026 22:57:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/715/425/imgdb/original/2026/0812/20260812500175.webp",
+      "title": "청와대, 북 탄도미사일 긴급점검회의...\"계속된 발사 우려\" - YTN",
+      "link": "https://www.ytn.co.kr/_ln/0101_202608120801192410",
+      "source": "YTN",
+      "pubDate": "Tue, 11 Aug 2026 23:01:00 GMT",
+      "image": "https://image.ytn.co.kr/general/jpg/2026/0812/202608120801192410_t.jpg",
       "summaries": {
-        "ko": "청, 북 탄도미사일 발사에 긴급안보상황점검회의… “도발 행위 중단 촉구” - 한겨레",
-        "en": "청, 북 탄도미사일 발사에 긴급안보상황점검회의… “도발 행위 중단 촉구” - 한겨레",
-        "zh": "청, 북 탄도미사일 발사에 긴급안보상황점검회의… “도발 행위 중단 촉구” - 한겨레"
+        "ko": "청와대는 북한의 동해상 탄도미사일 발사에 대응해 긴급 안보 상황 점검회의를 열고, 반복된 발사에 우려를 표하며 유엔 안보리 결의 위반인 도발 행위를 즉각 중단할 것을 촉구했다.",
+        "en": "Following North Korea's ballistic missile launch into the East Sea, South Korea's Presidential Office held an emergency security meeting, expressing concern over the repeated launches and urging an immediate halt to such provocative acts, which violate UN Security Council resolutions.",
+        "zh": "韩国总统府针对朝鲜向东海发射弹道导弹举行紧急安全状况检查会议，对朝鲜接连发射导弹表示担忧，并敦促其立即停止违反联合国安理会决议的挑衅行为。"
       }
     },
     {
@@ -38,6 +38,18 @@
       }
     },
     {
+      "title": "2028 총선·2030 대선… ‘정치 시계’에 맞물린 호남반도체 - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/08/12/YJAZ2KAKLZA33JJKXFAXW7HI4I/",
+      "source": "조선일보",
+      "pubDate": "Tue, 11 Aug 2026 15:49:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/CSIMWF3UJNOCFPCWY3ITJFZCJY.jpg?auth=d8196aa2ed4529efad1fd6940d0113053792fb212806ef3e5b75332b754d8c42&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "2028 총선·2030 대선… ‘정치 시계’에 맞물린 호남반도체 - 조선일보",
+        "en": "2028 총선·2030 대선… ‘정치 시계’에 맞물린 호남반도체 - 조선일보",
+        "zh": "2028 총선·2030 대선… ‘정치 시계’에 맞물린 호남반도체 - 조선일보"
+      }
+    },
+    {
       "title": "살수차로 물 쏟아부어도 ‘역부족’… 가뭄에 갇힌 경남, 단감·벼 말라 죽는다 - 조선일보",
       "link": "https://www.chosun.com/national/2026/08/11/FEW3XAE62VH5HI22V6BJYJY6LA/",
       "source": "조선일보",
@@ -50,39 +62,27 @@
       }
     },
     {
-      "title": "李 “세제 담당 무조건 기어다녀라”… 구윤철 “개편안 확정 아니다” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260812/134461514/2",
-      "source": "동아일보",
-      "pubDate": "Tue, 11 Aug 2026 19:30:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134459152.5.jpg",
+      "title": "\"대통령 모르는 세제개편안, 나올 수 없어\" 전 세제실장들 '쓴소리' - 한국일보",
+      "link": "https://www.hankookilbo.com/news/article/A2026081111080002790",
+      "source": "한국일보",
+      "pubDate": "Tue, 11 Aug 2026 08:00:00 GMT",
+      "image": "https://newsimg.hankookilbo.com/2026/08/11/d8019b30-59f7-44a8-bf8a-05b32db03008.jpg",
       "summaries": {
-        "ko": "李 “세제 담당 무조건 기어다녀라”… 구윤철 “개편안 확정 아니다” - 동아일보",
-        "en": "李 “세제 담당 무조건 기어다녀라”… 구윤철 “개편안 확정 아니다” - 동아일보",
-        "zh": "李 “세제 담당 무조건 기어다녀라”… 구윤철 “개편안 확정 아니다” - 동아일보"
+        "ko": "전 세제실장들은 이재명 대통령이 논란이 된 세제개편안에 대해 재경부를 질책하는 것을 두고, 대통령이 보고 절차상 몰랐을 리 없다며 비판 여론에 대한 '꼬리 자르기'라고 쓴소리했다.",
+        "en": "Former tax policy directors criticized President Lee Jae-myung for blaming the Ministry of Economy and Finance over the controversial tax reform plan, arguing that due to reporting procedures, the President could not have been unaware and that it's an act of \"tail-cutting\" in response to public backlash.",
+        "zh": "前税务政策室长们批评李在明总统就引发争议的税制改革方案责怪企划财政部，指出鉴于正常的报告程序，总统不可能不知情，并称这是在民意反弹后“甩锅”的行为。"
       }
     },
     {
-      "title": "젤렌스키 “푸틴, 북한군 투입으로 전쟁 장기화 노려” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8634605",
-      "source": "KBS 뉴스",
-      "pubDate": "Tue, 11 Aug 2026 20:01:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/08/12/20260812_sW5seu.jpg",
+      "title": "野 \"정책이 시장 이기겠나\"... 김윤덕 국토부장관 \"네\" - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/08/11/FCAILT3IP5HFRNACXQTX77EPX4/",
+      "source": "조선일보",
+      "pubDate": "Tue, 11 Aug 2026 11:54:47 GMT",
+      "image": "https://www.chosun.com/resizer/v2/HRGMHSZOTJGF5BHSSDADL3WGPU.jpg?auth=c2811c6558b110ea86db10a8944baa118db4ee2caa6df772bc36a716cb43d2b7&width=1200&height=630&focal=2798,1278",
       "summaries": {
-        "ko": "젤렌스키 “푸틴, 북한군 투입으로 전쟁 장기화 노려” - KBS 뉴스",
-        "en": "젤렌스키 “푸틴, 북한군 투입으로 전쟁 장기화 노려” - KBS 뉴스",
-        "zh": "젤렌스키 “푸틴, 북한군 투입으로 전쟁 장기화 노려” - KBS 뉴스"
-      }
-    },
-    {
-      "title": "국토부 장관이 다시 소환한 ‘빵’···“주택 공급이 빵이라면 밤새 찍겠지만” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608111648001",
-      "source": "경향신문",
-      "pubDate": "Tue, 11 Aug 2026 07:48:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/11/news-p.v1.20260811.b6e3e43f6ef34d50852c9c40eb9d397d_P1.jpeg",
-      "summaries": {
-        "ko": "국토부 장관이 다시 소환한 ‘빵’···“주택 공급이 빵이라면 밤새 찍겠지만” - 경향신문",
-        "en": "국토부 장관이 다시 소환한 ‘빵’···“주택 공급이 빵이라면 밤새 찍겠지만” - 경향신문",
-        "zh": "국토부 장관이 다시 소환한 ‘빵’···“주택 공급이 빵이라면 밤새 찍겠지만” - 경향신문"
+        "ko": "野 \"정책이 시장 이기겠나\"... 김윤덕 국토부장관 \"네\" - 조선일보",
+        "en": "野 \"정책이 시장 이기겠나\"... 김윤덕 국토부장관 \"네\" - 조선일보",
+        "zh": "野 \"정책이 시장 이기겠나\"... 김윤덕 국토부장관 \"네\" - 조선일보"
       }
     },
     {
@@ -110,39 +110,15 @@
       }
     },
     {
-      "title": "靑, '북 탄도미사일' 발사에 긴급안보점검회의…\"도발 즉각 중단\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260812081639Rih",
-      "source": "Breaking News",
-      "pubDate": "Wed, 12 Aug 2026 08:16:39 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260811/AKR20260812081639Rih_01_i.jpg",
+      "title": "이재명 정부·민주당에 등 돌리는 ‘2030 여성’···“86세대 중심 현 체제서 벗어나야” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608110600101",
+      "source": "경향신문",
+      "pubDate": "Mon, 10 Aug 2026 21:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/11/news-p.v1.20260810.56c06ff8993c40c6bffd8b2c74181df1_P1.jpeg",
       "summaries": {
-        "ko": "靑, '북 탄도미사일' 발사에 긴급안보점검회의…\"도발 즉각 중단\"",
-        "en": "靑, '북 탄도미사일' 발사에 긴급안보점검회의…\"도발 즉각 중단\"",
-        "zh": "靑, '북 탄도미사일' 발사에 긴급안보점검회의…\"도발 즉각 중단\""
-      }
-    },
-    {
-      "title": "[속보] 7월 취업자 10.8만 명↑…고용률 넉 달째 하락",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202608120804026O3",
-      "source": "Breaking News",
-      "pubDate": "Wed, 12 Aug 2026 08:04:02 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260811/AKR202608120804026O3_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 7월 취업자 10.8만 명↑…고용률 넉 달째 하락",
-        "en": "[속보] 7월 취업자 10.8만 명↑…고용률 넉 달째 하락",
-        "zh": "[속보] 7월 취업자 10.8만 명↑…고용률 넉 달째 하락"
-      }
-    },
-    {
-      "title": "[속보] 靑, 북한 미사일발사 긴급안보상황점검회의",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260812080000Y3q",
-      "source": "Breaking News",
-      "pubDate": "Wed, 12 Aug 2026 08:00:01 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260811/MYH20260812080000Y3q.jpg",
-      "summaries": {
-        "ko": "[속보] 靑, 북한 미사일발사 긴급안보상황점검회의",
-        "en": "[속보] 靑, 북한 미사일발사 긴급안보상황점검회의",
-        "zh": "[속보] 靑, 북한 미사일발사 긴급안보상황점검회의"
+        "ko": "이재명 정부·민주당에 등 돌리는 ‘2030 여성’···“86세대 중심 현 체제서 벗어나야” - 경향신문",
+        "en": "이재명 정부·민주당에 등 돌리는 ‘2030 여성’···“86세대 중심 현 체제서 벗어나야” - 경향신문",
+        "zh": "이재명 정부·민주당에 등 돌리는 ‘2030 여성’···“86세대 중심 현 체제서 벗어나야” - 경향신문"
       }
     }
   ]
