@@ -1,16 +1,64 @@
 {
-  "lastUpdate": "2026-08-12T08:17:39.887496",
+  "lastUpdate": "2026-08-12T09:33:35.884305",
   "items": [
     {
-      "title": "경남 가뭄에 '국가소방동원령'…물탱크차 200대·인력 400명 투입 - 대한민국 정책브리핑",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148969947",
-      "source": "대한민국 정책브리핑",
-      "pubDate": "Wed, 12 Aug 2026 06:56:15 GMT",
-      "image": "https://www.korea.kr/newsWeb/resources/attaches/2026.08/12/51bc9d2b48fcd2c0b912735f1867136a.jpg",
+      "title": "“벼 다친다 수압 낮추자!” 가뭄 ‘심각’ 밀양에 몰려온 소방대원들 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608121658001",
+      "source": "경향신문",
+      "pubDate": "Wed, 12 Aug 2026 07:58:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/12/news-p.v1.20260812.8716180605ec440b858e35d5843476e1_P1.jpg",
       "summaries": {
-        "ko": "소방청이 극심한 가뭄으로 저수율이 낮은 경남 지역에 '국가소방동원령'을 발령하여 물탱크차 200대와 소방인력 400명을 투입해 농업 및 생활용수를 공급한다.",
-        "en": "The National Fire Agency has issued a 'National Fire Service Mobilization Order' for the Gyeongnam region due to severe drought and critically low reservoir levels, deploying 200 water tank trucks and 400 personnel to supply agricultural and domestic water.",
-        "zh": "韩国消防厅因庆南地区严重干旱和水库水位过低，发布了“国家消防动员令”，调派200辆水罐车和400名消防员，为该地区提供农业和生活用水。"
+        "ko": "가뭄이 심각한 밀양에 국가소방동원령이 내려져 전국 소방대원들이 벼 손상 방지를 위해 수압을 조절하며 메마른 논에 농업용수를 공급하고 있다.",
+        "en": "A national firefighting mobilization order has been issued for drought-stricken Miryang, with firefighters from across the country supplying agricultural water to dry rice paddies while carefully adjusting water pressure to prevent crop damage.",
+        "zh": "针对旱情严重的密阳，韩国已发布国家消防动员令，全国消防队员正在向干旱的稻田供应农业用水，并细致调整水压以防止对水稻造成损害。"
+      }
+    },
+    {
+      "title": "프란체스카 홍, 0.4%p 차 위스콘신 경선 석패…미 민주 ‘진보 돌풍’ 일단 멈춤 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/america/1272589.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 12 Aug 2026 08:22:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0812/20260812502790.webp",
+      "summaries": {
+        "ko": "한국계 프란체스카 홍 주 하원의원이 위스콘신 민주당 주지사 경선에서 초접전 끝에 패배하며 당내 진보 돌풍이 주춤했지만, 다른 주 경선에서는 진보 후보들이 승리하며 민주당 노선 경쟁이 혼재된 양상을 보였다.",
+        "en": "Korean-American State Representative Francesca Hong narrowly lost the Wisconsin Democratic gubernatorial primary, temporarily slowing the progressive surge within the party, though progressive candidates won in other state primaries, showing mixed results in the Democratic ideological competition.",
+        "zh": "韩裔州议员弗朗西丝卡·洪在威斯康星州民主党州长初选中以微弱劣势落败，暂时遏制了党内进步派的势头，但其他州的初选中进步派候选人获胜，显示出民主党路线竞争的复杂性。"
+      }
+    },
+    {
+      "title": "SMR·양자·우주…정부, 7대 미래성장동력 ‘씨앗’ 뿌린다 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8635237",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 12 Aug 2026 08:58:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/08/12/20260812_ZGHhfp.png",
+      "summaries": {
+        "ko": "정부가 10~20년 후 경제성장 동력 확보를 위해 SMR, 양자, 우주 등 7대 첨단기술 분야에 집중 투자하는 '미래성장동력 7대 시드 프로젝트'를 추진한다.",
+        "en": "The South Korean government is launching the '7 Seeds Project for Future Growth Engines' to secure economic growth drivers 10-20 years from now, by intensively investing in seven advanced technology fields including SMR, quantum, and space.",
+        "zh": "韩国政府启动“未来增长动力七大种子项目”，通过集中投资SMR、量子、宇宙等七个尖端技术领域，为未来10至20年的经济增长储备动力。"
+      }
+    },
+    {
+      "title": "인천공항 노숙인 퇴거에 인권단체 반발‥공사 \"자발적 퇴거 요청\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6844211_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Wed, 12 Aug 2026 04:56:57 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/12/kds_20260812_1.jpg",
+      "summaries": {
+        "ko": "인천공항공사의 노숙인 퇴거 조치에 인권단체가 국가와 지자체의 책무 방기라고 반발하며 중단을 요구했고, 공사는 공항 운영과 안전을 이유로 자발적 퇴거를 요청한다고 밝혔다.",
+        "en": "Human rights groups are protesting Incheon Airport Corporation's eviction of homeless people, citing governmental neglect and demanding a halt, while the corporation states it requests voluntary departure for airport operation and safety.",
+        "zh": "针对仁川机场公社驱逐露宿者的措施，人权团体反驳称这是国家和地方政府失职，要求停止，而公社则表示为机场运营和安全要求自愿撤离。"
+      }
+    },
+    {
+      "title": "성착취물 미끼 도박사이트로 수백억…컴퓨터공학박사가 사이트 총괄 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260812077800004",
+      "source": "연합뉴스",
+      "pubDate": "Wed, 12 Aug 2026 03:00:01 GMT",
+      "image": "https://img6.yna.co.kr/etc/inner/KR/2026/08/12/AKR20260812077800004_01_i_P4.jpg",
+      "summaries": {
+        "ko": "해외에 서버를 두고 컴퓨터공학 박사가 총괄 운영한 일당이 성착취물 유포 사이트를 미끼로 10여개의 도박사이트를 운영하며 5년간 476억 원의 부당이득을 챙긴 혐의로 구속 송치됐다.",
+        "en": "A group, led by a computer science Ph.D. who oversaw operations from overseas servers, has been arrested and sent to prosecution for allegedly operating over a dozen gambling sites, generating 47.6 billion KRW in illegal profits over five years by using sex exploitation material distribution sites as bait.",
+        "zh": "一个由计算机科学博士在海外服务器上总揽运营的团伙，因涉嫌利用性剥削物品传播网站作为诱饵，运营十余个赌博网站，五年内非法获利476亿韩元，已被逮捕并移送检方。"
       }
     },
     {
@@ -20,33 +68,21 @@
       "pubDate": "Wed, 12 Aug 2026 07:40:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/08/12/news-p.v1.20260812.8ddb16b1e58544b4a6feb2e1671da9e1_P1.jpeg",
       "summaries": {
-        "ko": "더불어민주당 당대표 후보 정청래, 송영길, 김민석은 마지막 TV 토론회에서 단일종목 ETF 논란, 국정 과제, 대통령 지지율 등 주요 쟁점과 '치하' 표현 논란까지 치열한 공방을 벌였다.",
-        "en": "In their final TV debate, Democratic Party leader candidates Jeong Cheong-rae, Song Young-gil, and Kim Min-seok engaged in a fierce exchange over major issues such as the single-stock ETF controversy, national tasks, presidential approval ratings, and even the debate over the expression 'chiha' (commendation).",
-        "zh": "民主党党首候选人郑清来、宋永吉和金民锡在最后的电视辩论中，就单一股票ETF争议、国家课题、总统支持率等主要议题，以及关于“치하”(致贺/嘉许)措辞的争议，展开了激烈的交锋。"
+        "ko": "더불어민주당 당대표 최종 TV 토론회에서 정청래, 송영길, 김민석 후보는 지방선거 책임론, ETF 논란 등 여러 쟁점으로 격렬하게 맞붙었으며, 특히 김민석과 정청래 후보는 '치하'라는 표현을 두고 설전을 벌였다.",
+        "en": "In the final TV debate for the Democratic Party leadership, candidates Jeong Cheong-rae, Song Young-gil, and Kim Min-seok fiercely debated various issues including local election responsibility and the ETF controversy, with Kim Min-seok and Jeong Cheong-rae notably clashing over the use of the term '치하' (commendation).",
+        "zh": "在民主党党代表的最后一场电视辩论中，候选人郑清来、宋永吉和金民锡就地方选举责任和ETF争议等各种问题展开了激烈交锋，其中金民锡和郑清来尤其就“褒扬”一词的使用产生了争执。"
       }
     },
     {
-      "title": "서울시, ‘연트럴파크’ 사용료 소송서 최종 패소… 철도공단에 수백억 줘야 - 조선비즈 - Chosunbiz",
-      "link": "https://biz.chosun.com/topics/law_firm/2026/08/12/FH4NM2QCBFEYRPXL3DNYNU4OWA/",
-      "source": "Chosunbiz",
-      "pubDate": "Wed, 12 Aug 2026 01:29:00 GMT",
-      "image": "https://biz.chosun.com/resizer/v2/36Y6W23YF5CFFP52X5MINIEPFM.jpg?auth=3a8095a0c23b149d798a1144de0c93d07553d6f626be5317d46b099a13de7416&width=798&height=418&smart=true",
+      "title": "정청래 “전통적 지지층 마음 식은 것이 문제…대통령 지지율 올리려면 내가 필요” - donga.com",
+      "link": "https://www.donga.com/news/Politics/article/all/20260812/134463705/2",
+      "source": "donga.com",
+      "pubDate": "Wed, 12 Aug 2026 02:53:08 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134463703.3.jpg",
       "summaries": {
-        "ko": "서울시, ‘연트럴파크’ 사용료 소송서 최종 패소… 철도공단에 수백억 줘야 - 조선비즈 - Chosunbiz",
-        "en": "서울시, ‘연트럴파크’ 사용료 소송서 최종 패소… 철도공단에 수백억 줘야 - 조선비즈 - Chosunbiz",
-        "zh": "서울시, ‘연트럴파크’ 사용료 소송서 최종 패소… 철도공단에 수백억 줘야 - 조선비즈 - Chosunbiz"
-      }
-    },
-    {
-      "title": "정청래 “제 당선이 이 대통령 지지율 상승 길…60%대로 회복할 것” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1272517.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 12 Aug 2026 02:54:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/618/imgdb/original/2026/0812/20260812501149.webp",
-      "summaries": {
-        "ko": "정청래 더불어민주당 당대표 후보는 이재명 대통령 지지율 하락의 원인을 전통적 지지층의 이탈로 진단하며, 자신이 당대표가 되면 전통 지지층을 결집시켜 대통령 지지율을 10%p 이상 끌어올려 60%대로 회복시키겠다고 밝혔다.",
-        "en": "Democratic Party leader candidate Jung Cheong-rae attributed President Lee Jae-myung's declining approval rating to the cooling sentiment of traditional supporters, asserting that his election would rally these supporters and boost the President's approval rating by over 10 percentage points, restoring it to above 60%.",
-        "zh": "共同民主党党首候选人郑清来将李在明总统支持率下降的原因归咎于传统支持者热情消退，并表示如果他当选党首，将团结这些支持者，使总统支持率提升10个百分点以上，恢复到60%以上。"
+        "ko": "정청래 “전통적 지지층 마음 식은 것이 문제…대통령 지지율 올리려면 내가 필요” - donga.com",
+        "en": "정청래 “전통적 지지층 마음 식은 것이 문제…대통령 지지율 올리려면 내가 필요” - donga.com",
+        "zh": "정청래 “전통적 지지층 마음 식은 것이 문제…대통령 지지율 올리려면 내가 필요” - donga.com"
       }
     },
     {
@@ -56,81 +92,45 @@
       "pubDate": "Wed, 12 Aug 2026 03:04:00 GMT",
       "image": "http://news.kbs.co.kr/data/news/2026/08/12/20260812_dANDUP.jpg",
       "summaries": {
-        "ko": "15호 태풍 찬홈이 동해안에 비를 뿌리면서 대부분의 폭염특보가 해제되고 열대야도 주춤했으나, 서쪽 지역은 여전히 무덥고 주말부터 열대야가 다시 찾아올 것으로 예보되었습니다.",
-        "en": "Typhoon Chan-hom brought rain to the East Coast, leading to the lifting of most heatwave advisories and a temporary halt to tropical nights, though western regions will remain hot and tropical nights are expected to return by the weekend.",
-        "zh": "第15号台风“灿鸿”给东海岸带来降雨，解除了大部分高温预警，热带夜现象也暂时减弱，但西部地区仍将炎热，预计周末起热带夜将再次出现。"
+        "ko": "태풍 찬홈이 남긴 비구름으로 동해안과 영남에 비가 내리며 폭염과 열대야가 잠시 주춤했지만, 주말부터 다시 무더위가 찾아올 전망이다.",
+        "en": "While Typhoon Chan-hom's lingering rain clouds bring precipitation to the East Coast and Yeongnam region, temporarily breaking the heatwave and tropical nights, the scorching heat is expected to return from the weekend.",
+        "zh": "尽管台风“灿鸿”残留的雨云为东海岸和岭南地区带来降雨，并暂时缓解了酷暑和热带夜，但预计周末起炎热天气将再次回归。"
       }
     },
     {
-      "title": "이진숙, 국회에 “광주는 어두운 세력 소굴” 주장한 세력 불러들인다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1272513.html",
+      "title": "[단독] 오세훈표 한강버스 ‘3천원+α’ 주말요금 인상 추진 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/capital/1272545.html",
       "source": "한겨레",
-      "pubDate": "Wed, 12 Aug 2026 07:40:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0812/20260812500973.webp",
+      "pubDate": "Wed, 12 Aug 2026 07:21:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/894/545/imgdb/original/2026/0812/20260812501840.webp",
       "summaries": {
-        "ko": "국민의힘 이진숙 의원이 5.18 민주화운동을 \"어두운 세력의 소굴\"로 규정하고 역사적 의미를 왜곡하는 극우 단체와 함께 국회 포럼을 개최하여 논란이 일고 있다.",
-        "en": "Lee Jin-sook, a lawmaker from South Korea's ruling People Power Party, is co-hosting a parliamentary forum with a far-right group that claims the Gwangju Uprising (5.18 Democracy Movement) is a \"den of dark forces\" and distorts its historical significance, sparking controversy.",
-        "zh": "韩国执政党国民力量党议员李珍淑与一个将光州民主化运动（5.18）称为“黑暗势力巢穴”并歪曲其历史意义的极右翼团体共同举办国会论坛，引发争议。"
+        "ko": "서울시가 출퇴근용으로 도입된 한강버스의 주말·공휴일 요금을 현행 3천원보다 높게 인상하고 관광·여가 수요에 맞춰 운항 및 요금 체계를 재편할 계획이다.",
+        "en": "Seoul City plans to increase weekend and holiday fares for the Hangang Bus, initially introduced for commuting, to more than the current 3,000 won, reorganizing its operating and fare system to cater to tourism and leisure demand.",
+        "zh": "首尔市计划将最初作为通勤工具的汉江巴士在周末和节假日的票价上调至高于现有3000韩元，并调整其运营和收费体系以适应观光和休闲需求。"
       }
     },
     {
-      "title": "양도세 강화 앞두고…“팔지 말고 바꾸자” 아파트 ‘교환 거래’ 3년 만에 최대 - 동아일보",
-      "link": "https://www.donga.com/news/Economy/article/all/20260812/134463384/1",
-      "source": "동아일보",
-      "pubDate": "Wed, 12 Aug 2026 02:36:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134463656.1.jpg",
-      "summaries": {
-        "ko": "양도세 강화 앞두고…“팔지 말고 바꾸자” 아파트 ‘교환 거래’ 3년 만에 최대 - 동아일보",
-        "en": "양도세 강화 앞두고…“팔지 말고 바꾸자” 아파트 ‘교환 거래’ 3년 만에 최대 - 동아일보",
-        "zh": "양도세 강화 앞두고…“팔지 말고 바꾸자” 아파트 ‘교환 거래’ 3년 만에 최대 - 동아일보"
-      }
-    },
-    {
-      "title": "수업방해 학생들 휴대전화로 5초 촬영…정서학대로 담임배제 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260812091600053",
-      "source": "연합뉴스",
-      "pubDate": "Wed, 12 Aug 2026 06:21:31 GMT",
-      "image": "https://img1.yna.co.kr/photo/cms/2018/05/16/17/C0A8CA3D0000016366B798C60006AC4B_P4.jpeg",
-      "summaries": {
-        "ko": "수업 중 소란 피우는 학생들을 5초간 휴대전화로 촬영한 기간제 교사가 정서적 학대로 판단되어 담임 배제 및 경찰 조치를 받게 되자, 교직원 단체는 이를 교권 침해이자 과잉 대응이라며 항의하고 나섰다.",
-        "en": "A substitute teacher who filmed disruptive students for 5 seconds with her phone to quiet them during class has been deemed to have committed emotional abuse, leading to her removal from homeroom and a police investigation, which teacher organizations are protesting as an infringement on teaching rights and an excessive response.",
-        "zh": "一名代课老师因在课堂上用手机拍摄喧闹学生5秒钟以维持秩序，被认定为情感虐待，导致其被解除班主任职务并接受警方调查，教师团体对此表示抗议，认为此举侵犯了教师权利且处理过度。"
-      }
-    },
-    {
-      "title": "한강버스, 15일부터 야간 운항 확대 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8634611",
-      "source": "KBS 뉴스",
-      "pubDate": "Tue, 11 Aug 2026 21:04:40 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/08/12/20260812_bkE8Dt.jpg",
-      "summaries": {
-        "ko": "한강버스, 15일부터 야간 운항 확대 - KBS 뉴스",
-        "en": "한강버스, 15일부터 야간 운항 확대 - KBS 뉴스",
-        "zh": "한강버스, 15일부터 야간 운항 확대 - KBS 뉴스"
-      }
-    },
-    {
-      "title": "‘기만 작전’ 펼치게 만든 이란... 트럼프 호텔 층수까지 알았다 - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/08/12/LTL64F7R5BHOJL23NOU6HKDCII/",
-      "source": "조선일보",
-      "pubDate": "Wed, 12 Aug 2026 00:49:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/J4KTXOHQTVAPDPDIBLQLSDTNFE.jpg?auth=0fca1a543d7fc3e9fabb6872069bab78c8588abb1651600c3764f45911a3a44f&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "‘기만 작전’ 펼치게 만든 이란... 트럼프 호텔 층수까지 알았다 - 조선일보",
-        "en": "‘기만 작전’ 펼치게 만든 이란... 트럼프 호텔 층수까지 알았다 - 조선일보",
-        "zh": "‘기만 작전’ 펼치게 만든 이란... 트럼프 호텔 층수까지 알았다 - 조선일보"
-      }
-    },
-    {
-      "title": "[속보] 거래소, '동전주·시총미달' 36개 무더기 관리종목 지정",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260812171213LKp",
+      "title": "호르무즈 봉쇄 여파…\"올해 석유공급 감소폭 확대 전망\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260812183032xui",
       "source": "Breaking News",
-      "pubDate": "Wed, 12 Aug 2026 17:12:13 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260812/AKR20260812171213LKp_01_i.jpg",
+      "pubDate": "Wed, 12 Aug 2026 18:30:32 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260812/AKR20260812183032xui_01_i.jpg",
       "summaries": {
-        "ko": "[속보] 거래소, '동전주·시총미달' 36개 무더기 관리종목 지정",
-        "en": "[속보] 거래소, '동전주·시총미달' 36개 무더기 관리종목 지정",
-        "zh": "[속보] 거래소, '동전주·시총미달' 36개 무더기 관리종목 지정"
+        "ko": "미국-이란 간 적대 행위와 호르무즈 해협 봉쇄 여파로 올해 전 세계 석유 공급 및 수요 감소폭이 확대되고 재고가 급감했습니다.",
+        "en": "Due to US-Iran hostilities and the ongoing closure of the Strait of Hormuz, global oil supply and demand are projected to see a larger decrease this year, leading to a sharp decline in inventories.",
+        "zh": "受美伊敌对行动及霍尔木兹海峡持续封锁影响，今年全球石油供需降幅预计将扩大，导致库存急剧下降。"
+      }
+    },
+    {
+      "title": "종합특검, '계엄 정당화 메시지' 윤석열·신원식 기소",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260812181137vQS",
+      "source": "Breaking News",
+      "pubDate": "Wed, 12 Aug 2026 18:11:39 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260812/AKR20260812181137vQS_01_i.jpg",
+      "summaries": {
+        "ko": "종합특검, '계엄 정당화 메시지' 윤석열·신원식 기소",
+        "en": "종합특검, '계엄 정당화 메시지' 윤석열·신원식 기소",
+        "zh": "종합특검, '계엄 정당화 메시지' 윤석열·신원식 기소"
       }
     }
   ]
