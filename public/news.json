@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-08-12T05:51:18.361712",
+  "lastUpdate": "2026-08-12T07:01:22.756336",
   "items": [
-    {
-      "title": "국가소방동원령 경남 농업용수 가뭄 '심각'…생활용수도 위협(종합) - yna.co.kr",
-      "link": "https://www.yna.co.kr/view/AKR20260812057751052",
-      "source": "yna.co.kr",
-      "pubDate": "Wed, 12 Aug 2026 05:30:40 GMT",
-      "image": "https://img3.yna.co.kr/photo/yna/YH/2026/08/12/PYH2026081209000005200_P4.jpg",
-      "summaries": {
-        "ko": "경남 지역의 심각한 가뭄으로 농업용수 저수율이 평년의 절반 이하로 떨어지고 농경지 피해가 속출하자, 정부가 국가소방동원령을 발령하여 전국 소방력을 동원해 용수 공급을 지원하고 있다.",
-        "en": "As severe drought in Gyeongnam has caused agricultural reservoir levels to drop to less than half of the annual average and widespread crop damage, the government has issued a National Fire Mobilization Order, deploying fire forces nationwide to support water supply.",
-        "zh": "由于庆尚南道严重的干旱导致农业水库蓄水率降至常年平均水平的一半以下，农田受损严重，韩国政府发布国家消防动员令，调动全国消防力量支援供水。"
-      }
-    },
     {
       "title": "정청래 “제 당선이 이 대통령 지지율 상승 길…60%대로 회복할 것” - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1272517.html",
@@ -20,9 +8,33 @@
       "pubDate": "Wed, 12 Aug 2026 02:54:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/618/imgdb/original/2026/0812/20260812501149.webp",
       "summaries": {
-        "ko": "정청래 “제 당선이 이 대통령 지지율 상승 길…60%대로 회복할 것” - 한겨레",
-        "en": "정청래 “제 당선이 이 대통령 지지율 상승 길…60%대로 회복할 것” - 한겨레",
-        "zh": "정청래 “제 당선이 이 대통령 지지율 상승 길…60%대로 회복할 것” - 한겨레"
+        "ko": "더불어민주당 당대표 후보 정청래가 이재명 대통령의 국정 지지율 하락 원인을 '전통적 지지층의 이탈'로 진단하며, 자신이 당대표가 되면 이탈한 핵심 지지층의 마음을 되돌려 대통령 지지율을 60% 이상으로 회복시키겠다고 밝혔다.",
+        "en": "Jung Cheong-rae, a candidate for the Democratic Party leader, diagnosed the drop in President Lee Jae-myung's approval rating as the \"departure of traditional supporters\" and pledged that if elected party leader, he would win back the core base and restore the President's approval rating to over 60%.",
+        "zh": "共同民主党党首候选人郑清来诊断李在明总统国政支持率下降的原因是“传统支持层的流失”，并承诺若自己当选党首，将重新赢回核心支持层的民心，使总统支持率恢复至60%以上。"
+      }
+    },
+    {
+      "title": "北, UFS 앞두고 6일 만에 또 탄도미사일…700km 이상 비행 - yonhapnewstv.co.kr",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260812134034vj5",
+      "source": "yonhapnewstv.co.kr",
+      "pubDate": "Wed, 12 Aug 2026 04:40:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260812/MYH20260812134034vj5.jpg",
+      "summaries": {
+        "ko": "북한이 한미 연합연습 '을지 자유의 방패'를 앞두고 엿새 만에 또다시 동해상으로 700km 이상 비행하는 탄도미사일 1발을 발사했다.",
+        "en": "North Korea launched another ballistic missile that flew over 700km into the East Sea, just six days after its previous launch and ahead of the ROK-US Ulchi Freedom Shield joint exercise.",
+        "zh": "朝鲜在韩美联合演习“乙支自由之盾”前夕，时隔六天再次向东海发射了一枚飞行距离超过700公里的弹道导弹。"
+      }
+    },
+    {
+      "title": "인천공항 노숙인 퇴거에 인권단체 반발‥공사 \"자발적 퇴거 요청\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6844211_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Wed, 12 Aug 2026 04:56:57 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/12/kds_20260812_1.jpg",
+      "summaries": {
+        "ko": "인천국제공항공사가 운영 및 안전을 이유로 공항 내 노숙인들에게 퇴거 명령을 내리자, 인권단체는 정부와 지자체의 책무 방기 때문이라며 즉각적인 명령 철회와 대책 마련을 촉구하며 반발하고 있다.",
+        "en": "Incheon International Airport Corporation's eviction notices to homeless people residing at the airport, citing operational and safety concerns, have drawn strong opposition from human rights groups who argue that it's a result of governmental negligence and demand proper support measures.",
+        "zh": "仁川国际机场公社以运营和安全为由向机场内无家可归者发出驱逐令，引发了人权团体的强烈抗议，他们认为这是政府失职的结果，并呼吁立即撤销命令并制定应对措施。"
       }
     },
     {
@@ -38,30 +50,6 @@
       }
     },
     {
-      "title": "속보 경찰청, 형소법 후속 TF 2차 회의...수사인력 추가 보강 - YTN",
-      "link": "https://www.ytn.co.kr/_ln/0103_202608121428507628",
-      "source": "YTN",
-      "pubDate": "Wed, 12 Aug 2026 05:28:00 GMT",
-      "image": "https://image.ytn.co.kr/general/jpg/2026/0812/202608121428507628_t.jpg",
-      "summaries": {
-        "ko": "속보 경찰청, 형소법 후속 TF 2차 회의...수사인력 추가 보강 - YTN",
-        "en": "속보 경찰청, 형소법 후속 TF 2차 회의...수사인력 추가 보강 - YTN",
-        "zh": "속보 경찰청, 형소법 후속 TF 2차 회의...수사인력 추가 보강 - YTN"
-      }
-    },
-    {
-      "title": "北, 동해상 탄도미사일 발사...1주일 사이 2번째 - 조선일보",
-      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/08/12/MIND73H4IBCPNC4NRVRNKSFVDQ/",
-      "source": "조선일보",
-      "pubDate": "Tue, 11 Aug 2026 21:13:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/7BLF5PSB2RKRFK47M24JZ5PEDU.jpg?auth=6d1e9e60b2651f054ee71e9f997493a34e1d7be571ad63d1113b70478709e9fa&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "北, 동해상 탄도미사일 발사...1주일 사이 2번째 - 조선일보",
-        "en": "北, 동해상 탄도미사일 발사...1주일 사이 2번째 - 조선일보",
-        "zh": "北, 동해상 탄도미사일 발사...1주일 사이 2번째 - 조선일보"
-      }
-    },
-    {
       "title": "태풍이 남긴 비구름 동해안 최대 60mm…폭염특보 대부분 해제 - KBS 뉴스",
       "link": "https://news.kbs.co.kr/news/view.do?ncd=8635042",
       "source": "KBS 뉴스",
@@ -74,75 +62,63 @@
       }
     },
     {
-      "title": "오늘밤 별똥별 쏟아진다…시간당 100개 ‘유성우’ 관측 적기 - donga.com",
-      "link": "https://www.donga.com/news/It/article/all/20260812/134462031/1",
-      "source": "donga.com",
-      "pubDate": "Tue, 11 Aug 2026 22:48:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134462201.1.jpg",
+      "title": "'VIP 격노 은폐 의혹' 문연철 전 방첩부대장 구속기로 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6844175_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Wed, 12 Aug 2026 02:16:42 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/12/yh_20260812-13.jpg",
       "summaries": {
-        "ko": "오늘밤 별똥별 쏟아진다…시간당 100개 ‘유성우’ 관측 적기 - donga.com",
-        "en": "오늘밤 별똥별 쏟아진다…시간당 100개 ‘유성우’ 관측 적기 - donga.com",
-        "zh": "오늘밤 별똥별 쏟아진다…시간당 100개 ‘유성우’ 관측 적기 - donga.com"
+        "ko": "'VIP 격노 은폐 의혹' 문연철 전 방첩부대장 구속기로 - MBC 뉴스",
+        "en": "'VIP 격노 은폐 의혹' 문연철 전 방첩부대장 구속기로 - MBC 뉴스",
+        "zh": "'VIP 격노 은폐 의혹' 문연철 전 방첩부대장 구속기로 - MBC 뉴스"
       }
     },
     {
-      "title": "與 서울·경기 권리당원 투표 시작…여야, 대치 격화 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260812114709Ujc",
-      "source": "연합뉴스TV",
-      "pubDate": "Wed, 12 Aug 2026 02:47:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260812/MYH20260812114709Ujc.jpg",
+      "title": "산업장관 \"호남 반도체 부지, 정부가 기업에 먼저 제안\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/econo/article/6844219_36932.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Wed, 12 Aug 2026 05:30:10 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/econo/article/__icsFiles/afieldfile/2026/08/12/jh_20260812_2.jpg",
       "summaries": {
-        "ko": "與 서울·경기 권리당원 투표 시작…여야, 대치 격화 - 연합뉴스TV",
-        "en": "與 서울·경기 권리당원 투표 시작…여야, 대치 격화 - 연합뉴스TV",
-        "zh": "與 서울·경기 권리당원 투표 시작…여야, 대치 격화 - 연합뉴스TV"
+        "ko": "산업장관 \"호남 반도체 부지, 정부가 기업에 먼저 제안\" - MBC 뉴스",
+        "en": "산업장관 \"호남 반도체 부지, 정부가 기업에 먼저 제안\" - MBC 뉴스",
+        "zh": "산업장관 \"호남 반도체 부지, 정부가 기업에 먼저 제안\" - MBC 뉴스"
       }
     },
     {
-      "title": "李대통령, 스틸 美 대사와 첫인사…\"한미동맹 발전의 가교 기대\"(종합) - yna.co.kr",
-      "link": "https://www.yna.co.kr/view/AKR20260812074451001",
-      "source": "yna.co.kr",
-      "pubDate": "Wed, 12 Aug 2026 05:04:36 GMT",
-      "image": "https://img8.yna.co.kr/photo/yna/YH/2026/08/12/PYH2026081206230001300_P4.jpg",
+      "title": "여야, ‘주택 공급 부족’ 여론전…“오세훈 때문” “무책임한 정부” - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8635045",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 12 Aug 2026 03:10:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/08/12/20260812_qRjRT9.png",
       "summaries": {
-        "ko": "李대통령, 스틸 美 대사와 첫인사…\"한미동맹 발전의 가교 기대\"(종합) - yna.co.kr",
-        "en": "李대통령, 스틸 美 대사와 첫인사…\"한미동맹 발전의 가교 기대\"(종합) - yna.co.kr",
-        "zh": "李대통령, 스틸 美 대사와 첫인사…\"한미동맹 발전의 가교 기대\"(종합) - yna.co.kr"
+        "ko": "여야, ‘주택 공급 부족’ 여론전…“오세훈 때문” “무책임한 정부” - KBS 뉴스",
+        "en": "여야, ‘주택 공급 부족’ 여론전…“오세훈 때문” “무책임한 정부” - KBS 뉴스",
+        "zh": "여야, ‘주택 공급 부족’ 여론전…“오세훈 때문” “무책임한 정부” - KBS 뉴스"
       }
     },
     {
-      "title": "SKT \"AI 인프라 골든타임…한국을 아시아 허브로\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260812144548X6p",
+      "title": "과천시, 신천지 건물 용도변경 항소심 승소…1심 뒤집혀",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260812155917zhN",
       "source": "Breaking News",
-      "pubDate": "Wed, 12 Aug 2026 14:45:49 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260812/AKR20260812144548X6p_01_i.jpg",
+      "pubDate": "Wed, 12 Aug 2026 15:59:17 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260812/AKR20260812155917zhN_01_i.jpg",
       "summaries": {
-        "ko": "SKT \"AI 인프라 골든타임…한국을 아시아 허브로\"",
-        "en": "SKT \"AI 인프라 골든타임…한국을 아시아 허브로\"",
-        "zh": "SKT \"AI 인프라 골든타임…한국을 아시아 허브로\""
+        "ko": "과천시, 신천지 건물 용도변경 항소심 승소…1심 뒤집혀",
+        "en": "과천시, 신천지 건물 용도변경 항소심 승소…1심 뒤집혀",
+        "zh": "과천시, 신천지 건물 용도변경 항소심 승소…1심 뒤집혀"
       }
     },
     {
-      "title": "[단독] K-축구 혁신위 생중계 전환…풀뿌리 축구 민낯 '파묘'",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260812143604Pzi",
+      "title": "국힘, '이 대통령 공소 취소' 與 당권주자 발언에 \"선 넘지 말라\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202608121558361bP",
       "source": "Breaking News",
-      "pubDate": "Wed, 12 Aug 2026 14:36:05 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260812/MYH20260812143604Pzi.jpg",
+      "pubDate": "Wed, 12 Aug 2026 15:58:38 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260812/AKR202608121558361bP_01_i.jpg",
       "summaries": {
-        "ko": "[단독] K-축구 혁신위 생중계 전환…풀뿌리 축구 민낯 '파묘'",
-        "en": "[단독] K-축구 혁신위 생중계 전환…풀뿌리 축구 민낯 '파묘'",
-        "zh": "[단독] K-축구 혁신위 생중계 전환…풀뿌리 축구 민낯 '파묘'"
-      }
-    },
-    {
-      "title": "[속보] 경찰, 청문감사담당관 전원 '상피제' 적용",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260812143154Dkg",
-      "source": "Breaking News",
-      "pubDate": "Wed, 12 Aug 2026 14:31:54 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260812/MYH20260812143154Dkg.jpg",
-      "summaries": {
-        "ko": "[속보] 경찰, 청문감사담당관 전원 '상피제' 적용",
-        "en": "[속보] 경찰, 청문감사담당관 전원 '상피제' 적용",
-        "zh": "[속보] 경찰, 청문감사담당관 전원 '상피제' 적용"
+        "ko": "국힘, '이 대통령 공소 취소' 與 당권주자 발언에 \"선 넘지 말라\"",
+        "en": "국힘, '이 대통령 공소 취소' 與 당권주자 발언에 \"선 넘지 말라\"",
+        "zh": "국힘, '이 대통령 공소 취소' 與 당권주자 발언에 \"선 넘지 말라\""
       }
     }
   ]
