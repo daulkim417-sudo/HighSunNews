@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-13T14:25:19.175738",
+  "lastUpdate": "2026-08-13T15:27:39.116826",
   "items": [
     {
       "title": "‘서울 주거 불안 세대’의 외면…이 대통령 지지율 49% 최저 - 한겨레",
@@ -8,52 +8,88 @@
       "pubDate": "Thu, 13 Aug 2026 13:14:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/760/456/imgdb/child/2026/0813/53_17866185008862_20260813503640.webp",
       "summaries": {
-        "ko": "이재명 대통령의 지지율이 49%로 취임 후 최저치를 기록했으며, 특히 2030세대와 서울을 중심으로 부동산 정책에 대한 부정적 평가, 검찰개혁 우려, 증시 불안이 하락의 주요 원인으로 꼽혔다.",
-        "en": "President Lee Jae-myung's approval rating has fallen to a record low of 49%, primarily due to negative evaluations of real estate policies among the 20s and 30s generations and in Seoul, coupled with concerns over prosecutorial reform and stock market instability.",
-        "zh": "李在明总统的支持率跌至49%的就任以来最低点，主要原因是房地产政策受到负面评价（尤其是在20-30岁人群和首尔地区），以及对检察改革的担忧和股市的不稳定。"
+        "ko": "이재명 대통령의 지지율이 49%로 취임 후 최저치를 기록했으며, 이는 서울과 2030세대를 중심으로 한 부동산 정책에 대한 부정적 평가와 검찰개혁 우려, 증시 불안 등이 복합적으로 작용한 결과이다.",
+        "en": "President Lee Jae-myung's approval rating has fallen to a record low of 49%, largely due to negative evaluations of his real estate policies among young generations (20s and 30s) and Seoul residents, compounded by concerns over prosecution reform and stock market instability.",
+        "zh": "李在明总统的支持率降至49%，创上任以来新低，主要原因是2030年代年轻人和首尔居民对房地产政策的负面评价，以及对检察改革的担忧和股市不稳定等多种因素综合作用的结果。"
       }
     },
     {
-      "title": "\"5·18은 소요\"…폭력·고성에 아수라장 된 野이진숙 토론회(종합2보) - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260813121952001",
+      "title": "트럼프 전용기 기만작전, 푸틴에 비하면 애들 장난…어떻기에? - 동아일보",
+      "link": "https://www.donga.com/news/Inter/article/all/20260813/134469524/1",
+      "source": "동아일보",
+      "pubDate": "Wed, 12 Aug 2026 23:32:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/13/134469558.1.jpg",
+      "summaries": {
+        "ko": "트럼프 전용기 기만작전, 푸틴에 비하면 애들 장난…어떻기에? - 동아일보",
+        "en": "트럼프 전용기 기만작전, 푸틴에 비하면 애들 장난…어떻기에? - 동아일보",
+        "zh": "트럼프 전용기 기만작전, 푸틴에 비하면 애들 장난…어떻기에? - 동아일보"
+      }
+    },
+    {
+      "title": "[날씨] 금요일 말복, 한낮 체감 33℃ 더위…광복절 연휴 비 소식 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260813234014m0d",
+      "source": "연합뉴스TV",
+      "pubDate": "Thu, 13 Aug 2026 14:40:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260813/MYH20260813234014m0d.jpg",
+      "summaries": {
+        "ko": "[날씨] 금요일 말복, 한낮 체감 33℃ 더위…광복절 연휴 비 소식 - 연합뉴스TV",
+        "en": "[날씨] 금요일 말복, 한낮 체감 33℃ 더위…광복절 연휴 비 소식 - 연합뉴스TV",
+        "zh": "[날씨] 금요일 말복, 한낮 체감 33℃ 더위…광복절 연휴 비 소식 - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "복지부·고용노동부, 병원 ‘태움’ 뿌리뽑기 나선다…근로환경 개선 맞손 - 경기일보",
+      "link": "https://www.kyeonggi.com/article/20260813580068",
+      "source": "경기일보",
+      "pubDate": "Thu, 13 Aug 2026 02:26:48 GMT",
+      "image": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/13/.cache/512/20260813580069.jpg?v=20260814002716",
+      "summaries": {
+        "ko": "복지부·고용노동부, 병원 ‘태움’ 뿌리뽑기 나선다…근로환경 개선 맞손 - 경기일보",
+        "en": "복지부·고용노동부, 병원 ‘태움’ 뿌리뽑기 나선다…근로환경 개선 맞손 - 경기일보",
+        "zh": "복지부·고용노동부, 병원 ‘태움’ 뿌리뽑기 나선다…근로환경 개선 맞손 - 경기일보"
+      }
+    },
+    {
+      "title": "與 의총서 \"李 정부, 세금으로 집값 안 잡는다더니‥선후 바뀌어\" 우려 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6844585_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Thu, 13 Aug 2026 09:18:18 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/08/13/joo260813_20.jpg",
+      "summaries": {
+        "ko": "與 의총서 \"李 정부, 세금으로 집값 안 잡는다더니‥선후 바뀌어\" 우려 - MBC 뉴스",
+        "en": "與 의총서 \"李 정부, 세금으로 집값 안 잡는다더니‥선후 바뀌어\" 우려 - MBC 뉴스",
+        "zh": "與 의총서 \"李 정부, 세금으로 집값 안 잡는다더니‥선후 바뀌어\" 우려 - MBC 뉴스"
+      }
+    },
+    {
+      "title": "\"5.18 재조명\" 극우 우르르‥'이진숙 토론회' 국회 발칵 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6844582_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Thu, 13 Aug 2026 09:08:52 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/08/13/joo260813_vo3.jpg",
+      "summaries": {
+        "ko": "\"5.18 재조명\" 극우 우르르‥'이진숙 토론회' 국회 발칵 - MBC 뉴스",
+        "en": "\"5.18 재조명\" 극우 우르르‥'이진숙 토론회' 국회 발칵 - MBC 뉴스",
+        "zh": "\"5.18 재조명\" 극우 우르르‥'이진숙 토론회' 국회 발칵 - MBC 뉴스"
+      }
+    },
+    {
+      "title": "\"李대통령, 분권형 개헌 제안에 '내 임기 단축해서라도 해야'\"(종합) - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260813024351001",
       "source": "연합뉴스",
-      "pubDate": "Thu, 13 Aug 2026 09:07:36 GMT",
-      "image": "https://img2.yna.co.kr/photo/yna/YH/2026/08/13/PYH2026081317850001300_P4.jpg",
+      "pubDate": "Thu, 13 Aug 2026 08:17:04 GMT",
+      "image": "https://img1.yna.co.kr/photo/yna/YH/2026/04/02/PYH2026040217060001300_P4.jpg",
       "summaries": {
-        "ko": "\"5·18은 소요\"…폭력·고성에 아수라장 된 野이진숙 토론회(종합2보) - 연합뉴스",
-        "en": "\"5·18은 소요\"…폭력·고성에 아수라장 된 野이진숙 토론회(종합2보) - 연합뉴스",
-        "zh": "\"5·18은 소요\"…폭력·고성에 아수라장 된 野이진숙 토론회(종합2보) - 연합뉴스"
-      }
-    },
-    {
-      "title": "지지율 하락 ‘설전’…정 “핵심층 이탈”·송 “정신 승리하나?”·김 “단결과 확장 같이” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8636363",
-      "source": "KBS 뉴스",
-      "pubDate": "Thu, 13 Aug 2026 08:56:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/08/13/20260813_OQZOfz.png",
-      "summaries": {
-        "ko": "지지율 하락 ‘설전’…정 “핵심층 이탈”·송 “정신 승리하나?”·김 “단결과 확장 같이” - KBS 뉴스",
-        "en": "지지율 하락 ‘설전’…정 “핵심층 이탈”·송 “정신 승리하나?”·김 “단결과 확장 같이” - KBS 뉴스",
-        "zh": "지지율 하락 ‘설전’…정 “핵심층 이탈”·송 “정신 승리하나?”·김 “단결과 확장 같이” - KBS 뉴스"
-      }
-    },
-    {
-      "title": "트럼프 대통령 \"보안 위협으로 귀국길 항공기 바꿔 타\" - VOA 한국어 홈페이지",
-      "link": "https://www.voakorea.com/a/8185567.html",
-      "source": "VOA 한국어 홈페이지",
-      "pubDate": "Wed, 12 Aug 2026 16:32:39 GMT",
-      "image": "https://gdb.voanews.com/35281bb3-6a1b-49f1-ace0-d728dc9c00f4_cx0_cy8_cw0_w1200_h630.jpg",
-      "summaries": {
-        "ko": "트럼프 대통령 \"보안 위협으로 귀국길 항공기 바꿔 타\" - VOA 한국어 홈페이지",
-        "en": "트럼프 대통령 \"보안 위협으로 귀국길 항공기 바꿔 타\" - VOA 한국어 홈페이지",
-        "zh": "트럼프 대통령 \"보안 위협으로 귀국길 항공기 바꿔 타\" - VOA 한국어 홈페이지"
+        "ko": "\"李대통령, 분권형 개헌 제안에 '내 임기 단축해서라도 해야'\"(종합) - 연합뉴스",
+        "en": "\"李대통령, 분권형 개헌 제안에 '내 임기 단축해서라도 해야'\"(종합) - 연합뉴스",
+        "zh": "\"李대통령, 분권형 개헌 제안에 '내 임기 단축해서라도 해야'\"(종합) - 연합뉴스"
       }
     },
     {
       "title": "드디어…‘가뭄 끝 단비’ 광복절 연휴에 오면 기온 30도까지 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/environment/1272724.html",
       "source": "한겨레",
-      "pubDate": "Thu, 13 Aug 2026 10:06:00 GMT",
+      "pubDate": "Thu, 13 Aug 2026 13:14:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/545/imgdb/original/2026/0813/20260813501792.webp",
       "summaries": {
         "ko": "드디어…‘가뭄 끝 단비’ 광복절 연휴에 오면 기온 30도까지 - 한겨레",
@@ -62,63 +98,27 @@
       }
     },
     {
-      "title": "박상용 법무부 징계심의 2시간여만 종료…\"결과 정해졌나\"(종합) - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260813106751004",
-      "source": "연합뉴스",
-      "pubDate": "Thu, 13 Aug 2026 10:08:45 GMT",
-      "image": "https://img0.yna.co.kr/photo/yna/YH/2026/08/13/PYH2026081313740001300_P4.jpg",
+      "title": "“구속전 신체검사, 나체사진 보내라”…검사 사칭 67억 뜯어 - 동아일보",
+      "link": "https://www.donga.com/news/Society/article/all/20260813/134472721/1",
+      "source": "동아일보",
+      "pubDate": "Thu, 13 Aug 2026 07:06:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/13/134473242.1.jpg",
       "summaries": {
-        "ko": "박상용 법무부 징계심의 2시간여만 종료…\"결과 정해졌나\"(종합) - 연합뉴스",
-        "en": "박상용 법무부 징계심의 2시간여만 종료…\"결과 정해졌나\"(종합) - 연합뉴스",
-        "zh": "박상용 법무부 징계심의 2시간여만 종료…\"결과 정해졌나\"(종합) - 연합뉴스"
+        "ko": "“구속전 신체검사, 나체사진 보내라”…검사 사칭 67억 뜯어 - 동아일보",
+        "en": "“구속전 신체검사, 나체사진 보내라”…검사 사칭 67억 뜯어 - 동아일보",
+        "zh": "“구속전 신체검사, 나체사진 보내라”…검사 사칭 67억 뜯어 - 동아일보"
       }
     },
     {
-      "title": "이 대통령, 전·현직 ’야당 국회부의장’과 골프 회동…TK 통합 논의한 듯 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260813085702n03",
-      "source": "연합뉴스TV",
-      "pubDate": "Wed, 12 Aug 2026 23:57:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260812/AKR20260813085702n03_01_i.jpg",
+      "title": "수도권에 신규택지 10만호 등 '23만호+α'…강남·용산은 빠져",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260813235746RU9",
+      "source": "Breaking News",
+      "pubDate": "Thu, 13 Aug 2026 23:57:49 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260813/MYH20260813235746RU9.jpg",
       "summaries": {
-        "ko": "이 대통령, 전·현직 ’야당 국회부의장’과 골프 회동…TK 통합 논의한 듯 - 연합뉴스TV",
-        "en": "이 대통령, 전·현직 ’야당 국회부의장’과 골프 회동…TK 통합 논의한 듯 - 연합뉴스TV",
-        "zh": "이 대통령, 전·현직 ’야당 국회부의장’과 골프 회동…TK 통합 논의한 듯 - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "'태움' 근절 나선 정부·의료계…혁신협의체 구성·실태조사도 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260812147500530",
-      "source": "연합뉴스",
-      "pubDate": "Thu, 13 Aug 2026 01:30:00 GMT",
-      "image": "https://img7.yna.co.kr/photo/cms/2019/02/26/40/PCM20190226003440990_P4.jpg",
-      "summaries": {
-        "ko": "'태움' 근절 나선 정부·의료계…혁신협의체 구성·실태조사도 - 연합뉴스",
-        "en": "'태움' 근절 나선 정부·의료계…혁신협의체 구성·실태조사도 - 연합뉴스",
-        "zh": "'태움' 근절 나선 정부·의료계…혁신협의체 구성·실태조사도 - 연합뉴스"
-      }
-    },
-    {
-      "title": "“반도체 초과세수 엄청난데 비거주 1주택 증세 꼭 해야 하나”…여당 의총 ‘부동산 세제개편안’ 우려 분출 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608132132005",
-      "source": "경향신문",
-      "pubDate": "Thu, 13 Aug 2026 12:32:00 GMT",
-      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
-      "summaries": {
-        "ko": "“반도체 초과세수 엄청난데 비거주 1주택 증세 꼭 해야 하나”…여당 의총 ‘부동산 세제개편안’ 우려 분출 - 경향신문",
-        "en": "“반도체 초과세수 엄청난데 비거주 1주택 증세 꼭 해야 하나”…여당 의총 ‘부동산 세제개편안’ 우려 분출 - 경향신문",
-        "zh": "“반도체 초과세수 엄청난데 비거주 1주택 증세 꼭 해야 하나”…여당 의총 ‘부동산 세제개편안’ 우려 분출 - 경향신문"
-      }
-    },
-    {
-      "title": "스틸 美대사, 외교1차관 면담…\"한미동맹 강화 생산적 논의\" - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260813155700504",
-      "source": "연합뉴스",
-      "pubDate": "Thu, 13 Aug 2026 08:37:02 GMT",
-      "image": "https://img7.yna.co.kr/etc/inner/KR/2026/08/13/AKR20260813155700504_01_i_P4.jpg",
-      "summaries": {
-        "ko": "스틸 美대사, 외교1차관 면담…\"한미동맹 강화 생산적 논의\" - 연합뉴스",
-        "en": "스틸 美대사, 외교1차관 면담…\"한미동맹 강화 생산적 논의\" - 연합뉴스",
-        "zh": "스틸 美대사, 외교1차관 면담…\"한미동맹 강화 생산적 논의\" - 연합뉴스"
+        "ko": "수도권에 신규택지 10만호 등 '23만호+α'…강남·용산은 빠져",
+        "en": "수도권에 신규택지 10만호 등 '23만호+α'…강남·용산은 빠져",
+        "zh": "수도권에 신규택지 10만호 등 '23만호+α'…강남·용산은 빠져"
       }
     }
   ]
