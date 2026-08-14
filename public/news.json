@@ -1,28 +1,40 @@
 {
-  "lastUpdate": "2026-08-14T05:51:28.940883",
+  "lastUpdate": "2026-08-14T07:02:10.039093",
   "items": [
     {
-      "title": "청 “국회 권한 커진 4년 중임 대통령제, 국민 수용성 가장 높아” - 한겨레",
+      "title": "청와대 “국회 권한 커진 4년 중임 대통령제, 국민 수용성 가장 높아” - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1272930.html",
       "source": "한겨레",
-      "pubDate": "Fri, 14 Aug 2026 05:06:00 GMT",
+      "pubDate": "Fri, 14 Aug 2026 03:22:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/709/imgdb/original/2026/0814/20260814501095.webp",
       "summaries": {
-        "ko": "청와대는 이재명 대통령이 국회 권한이 강화된 4년 중임 대통령제가 국민 수용성이 가장 높다고 생각하며, 임기 단축이나 분권형 대통령제 언급 보도와는 선을 그었다고 밝혔다.",
-        "en": "The Blue House clarified that President Lee Jae-myung supports a 4-year, two-term presidential system with enhanced parliamentary power as the most publicly acceptable form of constitutional amendment, differentiating his stance from reports of him advocating for early term reduction or a decentralized system.",
-        "zh": "韩国总统府澄清，李在明总统认为，国会权力得到强化的四年两任制总统制最受国民欢迎，并否认了有关他提及缩短任期或分权制总统制的报道。"
+        "ko": "청와대는 이재명 대통령이 임기 단축 분권형 대통령제 개헌을 언급했다는 보도에 대해, 국회 권한이 강화된 4년 중임 대통령제 개헌이 대통령의 원칙적 입장임을 재확인했다.",
+        "en": "The Blue House, in response to reports that President Lee Jae-myung mentioned a constitutional amendment for a decentralized presidential system involving term shortening, reaffirmed that his principled stance is a 4-year, two-term presidential system with strengthened parliamentary powers.",
+        "zh": "青瓦台针对李在明总统提及通过缩短任期实现分权型总统制修宪的报道，重申总统的原则立场是实行国会权力得到强化的四年两任制总统制。"
       }
     },
     {
-      "title": "“대미 투자 외국 업체 본국서 군함 두 척 건조” 트럼프 지시에 한화가 웃는다? - khan.co.kr",
-      "link": "https://www.khan.co.kr/article/202608141405001",
-      "source": "khan.co.kr",
-      "pubDate": "Fri, 14 Aug 2026 05:05:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/14/news-p.v1.20260814.570d8be79a074a568ccd8b5af2fdec4b_P1.jpg",
+      "title": "이진숙, “김정은 서울 방문 환영 모임보다 5·18 학술토론회를 더 비판” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608141551001",
+      "source": "경향신문",
+      "pubDate": "Fri, 14 Aug 2026 06:51:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/14/rcv.YNA.20260814.PYH2026081409910001300_P1.jpg",
       "summaries": {
-        "ko": "“대미 투자 외국 업체 본국서 군함 두 척 건조” 트럼프 지시에 한화가 웃는다? - khan.co.kr",
-        "en": "“대미 투자 외국 업체 본국서 군함 두 척 건조” 트럼프 지시에 한화가 웃는다? - khan.co.kr",
-        "zh": "“대미 투자 외국 업체 본국서 군함 두 척 건조” 트럼프 지시에 한화가 웃는다? - khan.co.kr"
+        "ko": "국민의힘 이진숙 의원이 5·18 광주민주화운동을 폄훼했다는 논란이 인 자신의 주최 학술토론회를 옹호하며 5·18을 성역으로 강요하는 비판을 지적하고, 김정은 서울 방문 환영 모임보다 더 큰 비판을 받았다고 주장했다.",
+        "en": "People Power Party lawmaker Lee Jin-sook defended her academic forum, which sparked controversy for disparaging the 5·18 Gwangju Democratization Movement, by criticizing attempts to make 5·18 a \"sacred cow\" and claiming it received more criticism than a past meeting welcoming Kim Jong-un's visit to Seoul.",
+        "zh": "国民力量党议员李珍淑为其主办的、因贬低5·18光州民主化运动而引发争议的学术论坛辩护，批评将5·18定为“圣域”的要求，并声称其受到的批评比此前欢迎金正恩访问首尔的聚会更甚。"
+      }
+    },
+    {
+      "title": "[속보] 종합특검, '尹 체포방해 혐의' 나경원·김기현·윤상현·권영진 불구속 기소 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6844771_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Fri, 14 Aug 2026 03:55:17 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/14/joo260814_3.jpg",
+      "summaries": {
+        "ko": "종합특검은 지난해 윤석열 전 대통령 체포영장 집행을 '인간벽'으로 방해한 혐의로 국민의힘 나경원, 김기현, 윤상현, 권영진 의원 4명을 특수공무집행방해 혐의로 불구속 기소했다.",
+        "en": "The Second Special Prosecutor has indicted four People Power Party lawmakers—Na Kyung-won, Kim Ki-hyun, Yoon Sang-hyun, and Kwon Young-jin—without detention on charges of obstructing special public duties by forming a 'human wall' to impede the execution of an arrest warrant for former President Yoon Seok-yeol last year.",
+        "zh": "综合特检组宣布，已对国民力量党籍的罗卿瑗、金起炫、尹相铉、权宁振四名国会议员提起不拘留起诉，指控他们去年通过组成“人墙”阻碍了对前总统尹锡悦的逮捕令执行，涉嫌妨碍特殊公务执行。"
       }
     },
     {
@@ -38,63 +50,27 @@
       }
     },
     {
-      "title": "[속보] 종합특검, '尹 체포방해 혐의' 나경원·김기현·윤상현·권영진 불구속 기소 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6844771_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Fri, 14 Aug 2026 03:55:17 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/14/joo260814_3.jpg",
-      "summaries": {
-        "ko": "[속보] 종합특검, '尹 체포방해 혐의' 나경원·김기현·윤상현·권영진 불구속 기소 - MBC 뉴스",
-        "en": "[속보] 종합특검, '尹 체포방해 혐의' 나경원·김기현·윤상현·권영진 불구속 기소 - MBC 뉴스",
-        "zh": "[속보] 종합특검, '尹 체포방해 혐의' 나경원·김기현·윤상현·권영진 불구속 기소 - MBC 뉴스"
-      }
-    },
-    {
-      "title": "국힘, 이진숙 5·18 토론회 논란에 \"부적절하고 재발 않길 바라\" - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260814060800001",
-      "source": "연합뉴스",
-      "pubDate": "Fri, 14 Aug 2026 01:43:36 GMT",
-      "image": "https://img1.yna.co.kr/photo/yna/YH/2026/08/13/PYH2026081317570001300_P4.jpg",
-      "summaries": {
-        "ko": "국힘, 이진숙 5·18 토론회 논란에 \"부적절하고 재발 않길 바라\" - 연합뉴스",
-        "en": "국힘, 이진숙 5·18 토론회 논란에 \"부적절하고 재발 않길 바라\" - 연합뉴스",
-        "zh": "국힘, 이진숙 5·18 토론회 논란에 \"부적절하고 재발 않길 바라\" - 연합뉴스"
-      }
-    },
-    {
       "title": "오세훈 원대회의 참석하자‥'당권파' 정희용 \"말이 안 됩니다, 이건!\" - MBC 뉴스",
       "link": "https://imnews.imbc.com/news/2026/politics/article/6844739_36911.html",
       "source": "MBC 뉴스",
       "pubDate": "Fri, 14 Aug 2026 02:19:36 GMT",
       "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/08/14/joo260814_4.jpg",
       "summaries": {
-        "ko": "오세훈 원대회의 참석하자‥'당권파' 정희용 \"말이 안 됩니다, 이건!\" - MBC 뉴스",
-        "en": "오세훈 원대회의 참석하자‥'당권파' 정희용 \"말이 안 됩니다, 이건!\" - MBC 뉴스",
-        "zh": "오세훈 원대회의 참석하자‥'당권파' 정희용 \"말이 안 됩니다, 이건!\" - MBC 뉴스"
+        "ko": "오세훈 서울시장이 국민의힘 원내대책회의에 참석해 정부 부동산 정책 공조에 나서자, '당권파' 정희용 사무총장이 공개적으로 \"말이 안 됩니다\"라며 불편한 심기를 표출했습니다.",
+        "en": "As Seoul Mayor Oh Se-hoon attended the People Power Party's floor strategy meeting to cooperate on government real estate policy, 'pro-party leadership' Secretary-General Jeong Hee-yong openly expressed strong discomfort, stating, \"This is absurd.\"",
+        "zh": "首尔市长吴世勋出席国民力量党院内对策会议，就政府房地产政策展开合作，引发被归类为“亲党权派”的秘书长郑熙龙公开表示强烈不满，称“这说不通”。"
       }
     },
     {
-      "title": "李 국정 지지율 44%…취임 후 최저치[한국갤럽] - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260814/134477414/2",
-      "source": "동아일보",
-      "pubDate": "Fri, 14 Aug 2026 01:23:57 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/14/134477415.2.jpg",
+      "title": "섬이 된 나리타 '최악의 밤'‥\"도와주세요\" 곳곳 SOS - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6844770_36925.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Fri, 14 Aug 2026 03:26:15 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/08/14/joo260814_vo2.jpg",
       "summaries": {
-        "ko": "李 국정 지지율 44%…취임 후 최저치[한국갤럽] - 동아일보",
-        "en": "李 국정 지지율 44%…취임 후 최저치[한국갤럽] - 동아일보",
-        "zh": "李 국정 지지율 44%…취임 후 최저치[한국갤럽] - 동아일보"
-      }
-    },
-    {
-      "title": "경찰, ‘천안 11살 사망’ 교회 목사 구속 송치 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260814104413gvY",
-      "source": "연합뉴스TV",
-      "pubDate": "Fri, 14 Aug 2026 01:44:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260814/AKR20260814104413gvY_01_i.jpg",
-      "summaries": {
-        "ko": "경찰, ‘천안 11살 사망’ 교회 목사 구속 송치 - 연합뉴스TV",
-        "en": "경찰, ‘천안 11살 사망’ 교회 목사 구속 송치 - 연합뉴스TV",
-        "zh": "경찰, ‘천안 11살 사망’ 교회 목사 구속 송치 - 연합뉴스TV"
+        "ko": "섬이 된 나리타 '최악의 밤'‥\"도와주세요\" 곳곳 SOS - MBC 뉴스",
+        "en": "섬이 된 나리타 '최악의 밤'‥\"도와주세요\" 곳곳 SOS - MBC 뉴스",
+        "zh": "섬이 된 나리타 '최악의 밤'‥\"도와주세요\" 곳곳 SOS - MBC 뉴스"
       }
     },
     {
@@ -110,6 +86,18 @@
       }
     },
     {
+      "title": "이 대통령 지지율, 임기 첫 ‘데드 크로스’…부정 46% 긍정 44% [갤럽] - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1272907.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 14 Aug 2026 05:08:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/784/imgdb/original/2026/0814/20260814500748.webp",
+      "summaries": {
+        "ko": "이 대통령 지지율, 임기 첫 ‘데드 크로스’…부정 46% 긍정 44% [갤럽] - 한겨레",
+        "en": "이 대통령 지지율, 임기 첫 ‘데드 크로스’…부정 46% 긍정 44% [갤럽] - 한겨레",
+        "zh": "이 대통령 지지율, 임기 첫 ‘데드 크로스’…부정 46% 긍정 44% [갤럽] - 한겨레"
+      }
+    },
+    {
       "title": "태풍 ‘찬홈’이 남긴 수증기 유입...‘광복절 연휴’ 전국에 많은 비 - 조선일보",
       "link": "https://www.chosun.com/national/transport-environment/2026/08/14/VQD5CJPTLVGFFKLGWPP5CEKWHQ/",
       "source": "조선일보",
@@ -119,6 +107,18 @@
         "ko": "태풍 ‘찬홈’이 남긴 수증기 유입...‘광복절 연휴’ 전국에 많은 비 - 조선일보",
         "en": "태풍 ‘찬홈’이 남긴 수증기 유입...‘광복절 연휴’ 전국에 많은 비 - 조선일보",
         "zh": "태풍 ‘찬홈’이 남긴 수증기 유입...‘광복절 연휴’ 전국에 많은 비 - 조선일보"
+      }
+    },
+    {
+      "title": "[속보] 국민추천위, 선관위 특검 후보로 이태한·이혁 추천",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260814155911NxH",
+      "source": "Breaking News",
+      "pubDate": "Fri, 14 Aug 2026 15:59:13 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260814/MYH20260814155911NxH.jpg",
+      "summaries": {
+        "ko": "[속보] 국민추천위, 선관위 특검 후보로 이태한·이혁 추천",
+        "en": "[속보] 국민추천위, 선관위 특검 후보로 이태한·이혁 추천",
+        "zh": "[속보] 국민추천위, 선관위 특검 후보로 이태한·이혁 추천"
       }
     }
   ]
