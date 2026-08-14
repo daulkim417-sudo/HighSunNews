@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-14T22:18:17.140020",
+  "lastUpdate": "2026-08-14T22:43:21.078621",
   "items": [
     {
       "title": "최태원, ‘노소영에 9440억 재산분할’ 불복…다시 대법으로 - 동아일보",
@@ -20,21 +20,21 @@
       "pubDate": "Fri, 14 Aug 2026 16:11:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/568/imgdb/child/2026/0814/17867112331711_5617867112121177.webp",
       "summaries": {
-        "ko": "국토부·서울시, 주택공급안 엇박자…그린벨트 이어 용산공원까지 - 한겨레",
-        "en": "국토부·서울시, 주택공급안 엇박자…그린벨트 이어 용산공원까지 - 한겨레",
-        "zh": "국토부·서울시, 주택공급안 엇박자…그린벨트 이어 용산공원까지 - 한겨레"
+        "ko": "국토교통부가 주택 공급을 위해 용산공원 전체를 후보지로 검토하겠다고 밝히자 서울시가 공원 훼손을 이유로 반대하며, 그린벨트에 이어 용산공원 활용 문제를 두고 국토부와 서울시 간 주택 공급 엇박자가 심화되고 있다.",
+        "en": "The discord between the Ministry of Land, Infrastructure and Transport and the Seoul Metropolitan Government over housing supply plans, which previously involved greenbelts, is deepening as the Ministry considers the entire Yongsan Park as a housing site, while Seoul opposes it due to concerns about park damage.",
+        "zh": "韩国国土交通部表示将考虑把龙山公园整体作为住房供应候选地，但首尔市以公园破坏为由表示反对，继绿化带问题后，国土部与首尔市之间围绕住房供应方案的分歧正在加剧。"
       }
     },
     {
-      "title": "이진숙 ‘5·18 재조명 포럼’... 與, 제명 촉구 결의안 제출 - chosun.com",
+      "title": "이진숙 ‘5·18 재조명 포럼’... 與, 제명 촉구 결의안 제출 - 조선일보",
       "link": "https://www.chosun.com/politics/assembly/2026/08/14/BCOI3B2L5NDOFOHAPJO2G2LOGU/",
-      "source": "chosun.com",
+      "source": "조선일보",
       "pubDate": "Fri, 14 Aug 2026 05:42:03 GMT",
       "image": "https://www.chosun.com/resizer/v2/WAAEWKHQWNHGLF626YJ7NFX6LQ.jpg?auth=628931af552cfa168a38d61a82b26a3f145cbe86da31ed3d965dfc40cb8b4ab2&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "이진숙 ‘5·18 재조명 포럼’... 與, 제명 촉구 결의안 제출 - chosun.com",
-        "en": "이진숙 ‘5·18 재조명 포럼’... 與, 제명 촉구 결의안 제출 - chosun.com",
-        "zh": "이진숙 ‘5·18 재조명 포럼’... 與, 제명 촉구 결의안 제출 - chosun.com"
+        "ko": "이진숙 ‘5·18 재조명 포럼’... 與, 제명 촉구 결의안 제출 - 조선일보",
+        "en": "이진숙 ‘5·18 재조명 포럼’... 與, 제명 촉구 결의안 제출 - 조선일보",
+        "zh": "이진숙 ‘5·18 재조명 포럼’... 與, 제명 촉구 결의안 제출 - 조선일보"
       }
     },
     {
@@ -50,15 +50,15 @@
       }
     },
     {
-      "title": "[인&아웃] 대통령 지지율에도 '중력'이 있다 - 연합뉴스",
+      "title": "[인&아웃] 대통령 지지율에도 '중력'이 있다 - yna.co.kr",
       "link": "https://www.yna.co.kr/view/AKR20260814094800546",
-      "source": "연합뉴스",
+      "source": "yna.co.kr",
       "pubDate": "Fri, 14 Aug 2026 21:00:02 GMT",
       "image": "https://img0.yna.co.kr/etc/inner/KR/2026/08/14/AKR20260814094800546_01_i_P4.jpg",
       "summaries": {
-        "ko": "[인&아웃] 대통령 지지율에도 '중력'이 있다 - 연합뉴스",
-        "en": "[인&아웃] 대통령 지지율에도 '중력'이 있다 - 연합뉴스",
-        "zh": "[인&아웃] 대통령 지지율에도 '중력'이 있다 - 연합뉴스"
+        "ko": "[인&아웃] 대통령 지지율에도 '중력'이 있다 - yna.co.kr",
+        "en": "[인&아웃] 대통령 지지율에도 '중력'이 있다 - yna.co.kr",
+        "zh": "[인&아웃] 대통령 지지율에도 '중력'이 있다 - yna.co.kr"
       }
     },
     {
@@ -74,51 +74,51 @@
       }
     },
     {
-      "title": "호남보다 높은 수도권 투표율 놓고… 김민석 “대세 지속” 정청래 “분노 투표” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260814/134482300/2",
-      "source": "동아일보",
-      "pubDate": "Fri, 14 Aug 2026 16:40:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/14/134482606.1.jpg",
+      "title": "분당 모텔서 전 연인 둔기로 때려 살해하려 한 30대 검거 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6844901_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Fri, 14 Aug 2026 13:48:10 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/14/kds_20260814_55.jpg",
       "summaries": {
-        "ko": "호남보다 높은 수도권 투표율 놓고… 김민석 “대세 지속” 정청래 “분노 투표” - 동아일보",
-        "en": "호남보다 높은 수도권 투표율 놓고… 김민석 “대세 지속” 정청래 “분노 투표” - 동아일보",
-        "zh": "호남보다 높은 수도권 투표율 놓고… 김민석 “대세 지속” 정청래 “분노 투표” - 동아일보"
+        "ko": "분당 모텔서 전 연인 둔기로 때려 살해하려 한 30대 검거 - MBC 뉴스",
+        "en": "분당 모텔서 전 연인 둔기로 때려 살해하려 한 30대 검거 - MBC 뉴스",
+        "zh": "분당 모텔서 전 연인 둔기로 때려 살해하려 한 30대 검거 - MBC 뉴스"
       }
     },
     {
-      "title": "농업용수 ‘한 방울이라도 더’…하천까지 굴착 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8637600",
-      "source": "KBS 뉴스",
-      "pubDate": "Fri, 14 Aug 2026 12:10:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/08/14/20260814_e3wN9h.png",
+      "title": "농업용수 ‘한 방울이라도 더’…하천까지 굴착 - news.kbs.co.kr",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8637890",
+      "source": "news.kbs.co.kr",
+      "pubDate": "Fri, 14 Aug 2026 21:54:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza_p1/2026/08/15/290_8637890.jpg",
       "summaries": {
-        "ko": "농업용수 ‘한 방울이라도 더’…하천까지 굴착 - KBS 뉴스",
-        "en": "농업용수 ‘한 방울이라도 더’…하천까지 굴착 - KBS 뉴스",
-        "zh": "농업용수 ‘한 방울이라도 더’…하천까지 굴착 - KBS 뉴스"
+        "ko": "경남 지역의 극심한 가뭄으로 농업용수를 확보하기 위해 하천 바닥까지 굴착하는 등 안간힘을 쓰고 있으며, 소방차와 군부대 등이 급수 지원에 나서고 있다.",
+        "en": "Facing severe drought in the Gyeongnam region, desperate efforts are underway to secure agricultural water, including excavating riverbeds, with fire engines and military units providing emergency supply support.",
+        "zh": "面对庆南地区严重的干旱，当地正竭力挖掘河床以获取农业用水，同时消防车和军队等也提供紧急供水支援。"
       }
     },
     {
-      "title": "태풍 ‘돌핀’ 고마워, 광복절 연휴에 많은 비…극한가뭄 진정될까 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1272952.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 14 Aug 2026 16:12:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/680/444/imgdb/original/2026/0814/20260814501477.webp",
+      "title": "광복절 연휴 전국에 비…남해안·제주 최대 150㎜ ‘물폭탄’ [주말 날씨] - mk.co.kr",
+      "link": "https://www.mk.co.kr/news/society/12128030",
+      "source": "mk.co.kr",
+      "pubDate": "Fri, 14 Aug 2026 06:16:53 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202608/14/rcv.YNA.20260814.PYH2026081408080005100_R.jpg",
       "summaries": {
-        "ko": "태풍 ‘돌핀’ 고마워, 광복절 연휴에 많은 비…극한가뭄 진정될까 - 한겨레",
-        "en": "태풍 ‘돌핀’ 고마워, 광복절 연휴에 많은 비…극한가뭄 진정될까 - 한겨레",
-        "zh": "태풍 ‘돌핀’ 고마워, 광복절 연휴에 많은 비…극한가뭄 진정될까 - 한겨레"
+        "ko": "광복절 연휴 전국에 비…남해안·제주 최대 150㎜ ‘물폭탄’ [주말 날씨] - mk.co.kr",
+        "en": "광복절 연휴 전국에 비…남해안·제주 최대 150㎜ ‘물폭탄’ [주말 날씨] - mk.co.kr",
+        "zh": "광복절 연휴 전국에 비…남해안·제주 최대 150㎜ ‘물폭탄’ [주말 날씨] - mk.co.kr"
       }
     },
     {
-      "title": "내란특검은 각하했지만…종합특검, ‘윤석열 체포 방해’ 나경원 등 국힘 의원 4명 기소 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608141449011",
-      "source": "경향신문",
-      "pubDate": "Fri, 14 Aug 2026 05:49:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/14/news-p.v1.20250115.1e1bb8633e05448693f8ac4b969fd446_P1.jpeg",
+      "title": "\"온겨레가 독립 부르짖어\"…보신각 타종으로 기리는 광복의 기쁨 - v.daum.net",
+      "link": "https://v.daum.net/v/20260815060158911",
+      "source": "v.daum.net",
+      "pubDate": "Fri, 14 Aug 2026 21:01:58 GMT",
+      "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/15/yonhap/20260815060158839wbej.jpg",
       "summaries": {
-        "ko": "내란특검은 각하했지만…종합특검, ‘윤석열 체포 방해’ 나경원 등 국힘 의원 4명 기소 - 경향신문",
-        "en": "내란특검은 각하했지만…종합특검, ‘윤석열 체포 방해’ 나경원 등 국힘 의원 4명 기소 - 경향신문",
-        "zh": "내란특검은 각하했지만…종합특검, ‘윤석열 체포 방해’ 나경원 등 국힘 의원 4명 기소 - 경향신문"
+        "ko": "\"온겨레가 독립 부르짖어\"…보신각 타종으로 기리는 광복의 기쁨 - v.daum.net",
+        "en": "\"온겨레가 독립 부르짖어\"…보신각 타종으로 기리는 광복의 기쁨 - v.daum.net",
+        "zh": "\"온겨레가 독립 부르짖어\"…보신각 타종으로 기리는 광복의 기쁨 - v.daum.net"
       }
     }
   ]
