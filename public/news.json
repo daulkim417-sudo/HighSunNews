@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-15T21:51:24.545655",
+  "lastUpdate": "2026-08-15T21:59:52.100031",
   "items": [
     {
       "title": "‘호남 과반승’ 김민석, 누적 득표율도 과반 넘겼다…정청래에 14%p 앞서 - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Sat, 15 Aug 2026 11:55:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/649/imgdb/original/2026/0815/20260815500580.webp",
       "summaries": {
-        "ko": "더불어민주당 대표 후보 김민석이 호남 지역 권리당원 경선에서 압도적인 승리를 거두며 누적 득표율 50%를 넘겨 정청래 후보를 14%p 이상 앞서나갔다.",
-        "en": "Kim Min-seok, a candidate for the Democratic Party leader, significantly widened his lead over Jeong Cheong-rae after an overwhelming victory in the Honam region's party member primary, securing a cumulative vote share of over 50% and now leading by more than 14 percentage points.",
-        "zh": "民主党党首候选人金民锡在湖南地区党员巡回竞选中获得压倒性胜利后，累计得票率超过50%，以14个百分点以上的优势领先郑清来候选人。"
+        "ko": "‘호남 과반승’ 김민석, 누적 득표율도 과반 넘겼다…정청래에 14%p 앞서 - 한겨레",
+        "en": "‘호남 과반승’ 김민석, 누적 득표율도 과반 넘겼다…정청래에 14%p 앞서 - 한겨레",
+        "zh": "‘호남 과반승’ 김민석, 누적 득표율도 과반 넘겼다…정청래에 14%p 앞서 - 한겨레"
       }
     },
     {
@@ -38,18 +38,6 @@
       }
     },
     {
-      "title": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608151748001",
-      "source": "경향신문",
-      "pubDate": "Sat, 15 Aug 2026 08:48:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/15/news-p.v1.20260815.2acb78a606174adc96e5e45e4c018eba_P1.png",
-      "summaries": {
-        "ko": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포 - 경향신문",
-        "en": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포 - 경향신문",
-        "zh": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포 - 경향신문"
-      }
-    },
-    {
       "title": "벨기에 건물 지하서 ‘148억 금괴’ 발견한 18세 직원 “몰래 챙길까 했지만...” - 경향신문",
       "link": "https://www.khan.co.kr/article/202608152022001",
       "source": "경향신문",
@@ -59,6 +47,18 @@
         "ko": "벨기에 건물 지하서 ‘148억 금괴’ 발견한 18세 직원 “몰래 챙길까 했지만...” - 경향신문",
         "en": "벨기에 건물 지하서 ‘148억 금괴’ 발견한 18세 직원 “몰래 챙길까 했지만...” - 경향신문",
         "zh": "벨기에 건물 지하서 ‘148억 금괴’ 발견한 18세 직원 “몰래 챙길까 했지만...” - 경향신문"
+      }
+    },
+    {
+      "title": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608151748001",
+      "source": "경향신문",
+      "pubDate": "Sat, 15 Aug 2026 08:48:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/15/news-p.v1.20260815.2acb78a606174adc96e5e45e4c018eba_P1.png",
+      "summaries": {
+        "ko": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포 - 경향신문",
+        "en": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포 - 경향신문",
+        "zh": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포 - 경향신문"
       }
     },
     {
