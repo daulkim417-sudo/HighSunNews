@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-15T18:09:23.180695",
+  "lastUpdate": "2026-08-15T18:44:51.365031",
   "items": [
     {
       "title": "‘호남 과반승’ 김민석, 누적 득표율도 과반 넘겼다…정청래에 14%p 앞서 - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Sat, 15 Aug 2026 11:55:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/649/imgdb/original/2026/0815/20260815500580.webp",
       "summaries": {
-        "ko": "김민석 더불어민주당 대표 후보가 호남 지역 순회경선에서 57.54%의 압도적인 득표율을 기록하며 정청래 후보에 대한 누적 득표율 격차를 14%p 이상으로 크게 벌렸다.",
-        "en": "Kim Min-seok, a candidate for the Democratic Party leader, significantly widened his cumulative lead over Jeong Cheong-rae to more than 14 percentage points after securing an overwhelming 57.54% of votes in the Honam regional primary.",
-        "zh": "在湖南地区巡回初选中以57.54%的压倒性得票率获胜后，共同民主党党首候选人金民锡将与郑清来在累计得票率上的差距显著扩大至14个百分点以上。"
+        "ko": "‘호남 과반승’ 김민석, 누적 득표율도 과반 넘겼다…정청래에 14%p 앞서 - 한겨레",
+        "en": "‘호남 과반승’ 김민석, 누적 득표율도 과반 넘겼다…정청래에 14%p 앞서 - 한겨레",
+        "zh": "‘호남 과반승’ 김민석, 누적 득표율도 과반 넘겼다…정청래에 14%p 앞서 - 한겨레"
       }
     },
     {
@@ -26,18 +26,6 @@
       }
     },
     {
-      "title": "이 대통령, 남북평화·한일관계 청사진…“새로운 광복 필요, 전쟁 끝낼 당사자 간 논의 시작” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8638041",
-      "source": "KBS 뉴스",
-      "pubDate": "Sat, 15 Aug 2026 12:02:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/08/15/20260815_zixgtq.png",
-      "summaries": {
-        "ko": "이 대통령, 남북평화·한일관계 청사진…“새로운 광복 필요, 전쟁 끝낼 당사자 간 논의 시작” - KBS 뉴스",
-        "en": "이 대통령, 남북평화·한일관계 청사진…“새로운 광복 필요, 전쟁 끝낼 당사자 간 논의 시작” - KBS 뉴스",
-        "zh": "이 대통령, 남북평화·한일관계 청사진…“새로운 광복 필요, 전쟁 끝낼 당사자 간 논의 시작” - KBS 뉴스"
-      }
-    },
-    {
       "title": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포 - 경향신문",
       "link": "https://www.khan.co.kr/article/202608151748001",
       "source": "경향신문",
@@ -47,6 +35,18 @@
         "ko": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포 - 경향신문",
         "en": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포 - 경향신문",
         "zh": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포 - 경향신문"
+      }
+    },
+    {
+      "title": "이 대통령, 남북평화·한일관계 청사진…“새로운 광복 필요, 전쟁 끝낼 당사자 간 논의 시작” - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8638041",
+      "source": "KBS 뉴스",
+      "pubDate": "Sat, 15 Aug 2026 12:02:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/08/15/20260815_zixgtq.png",
+      "summaries": {
+        "ko": "이 대통령, 남북평화·한일관계 청사진…“새로운 광복 필요, 전쟁 끝낼 당사자 간 논의 시작” - KBS 뉴스",
+        "en": "이 대통령, 남북평화·한일관계 청사진…“새로운 광복 필요, 전쟁 끝낼 당사자 간 논의 시작” - KBS 뉴스",
+        "zh": "이 대통령, 남북평화·한일관계 청사진…“새로운 광복 필요, 전쟁 끝낼 당사자 간 논의 시작” - KBS 뉴스"
       }
     },
     {
@@ -86,39 +86,39 @@
       }
     },
     {
-      "title": "동거녀 때려 숨지게 한 혐의로 체포된 50대, 2년 만에 누명 벗었다 - v.daum.net",
-      "link": "https://v.daum.net/v/20260815113151012",
-      "source": "v.daum.net",
-      "pubDate": "Sat, 15 Aug 2026 02:31:51 GMT",
-      "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/15/mbn/20260815113152676zogt.jpg",
+      "title": "국토부·서울시, 주택공급안 엇박자…그린벨트 이어 용산공원까지 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/capital/1273006.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 14 Aug 2026 16:11:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/568/imgdb/child/2026/0814/17867112331711_5617867112121177.webp",
       "summaries": {
-        "ko": "동거녀 때려 숨지게 한 혐의로 체포된 50대, 2년 만에 누명 벗었다 - v.daum.net",
-        "en": "동거녀 때려 숨지게 한 혐의로 체포된 50대, 2년 만에 누명 벗었다 - v.daum.net",
-        "zh": "동거녀 때려 숨지게 한 혐의로 체포된 50대, 2년 만에 누명 벗었다 - v.daum.net"
+        "ko": "국토부·서울시, 주택공급안 엇박자…그린벨트 이어 용산공원까지 - 한겨레",
+        "en": "국토부·서울시, 주택공급안 엇박자…그린벨트 이어 용산공원까지 - 한겨레",
+        "zh": "국토부·서울시, 주택공급안 엇박자…그린벨트 이어 용산공원까지 - 한겨레"
       }
     },
     {
-      "title": "정부 ‘용산공원에 집 짓자’에…서울시 이어 용산구도 “강력 반대” - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/08/15/YZPQOWWNKFHHFFSYYDHXG4CNNI/",
-      "source": "조선일보",
-      "pubDate": "Sat, 15 Aug 2026 06:18:19 GMT",
-      "image": "https://www.chosun.com/resizer/v2/DL3XL52JTRLVXLMZMFPMG2PMXU.jpg?auth=90e3c86483dd72476701b9b5ef5c5dfe1ac6ff35adafef6b5660574fcab2535a&width=1200&height=630&smart=true",
+      "title": "비 내린 광복절 서울 도심 집회…\"부정선거\" vs \"美 나가라\" - 노컷뉴스",
+      "link": "https://www.nocutnews.co.kr/news/6563510",
+      "source": "노컷뉴스",
+      "pubDate": "Sat, 15 Aug 2026 08:16:00 GMT",
+      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/15/202608151715542199_0.jpg",
       "summaries": {
-        "ko": "정부 ‘용산공원에 집 짓자’에…서울시 이어 용산구도 “강력 반대” - 조선일보",
-        "en": "정부 ‘용산공원에 집 짓자’에…서울시 이어 용산구도 “강력 반대” - 조선일보",
-        "zh": "정부 ‘용산공원에 집 짓자’에…서울시 이어 용산구도 “강력 반대” - 조선일보"
+        "ko": "비 내린 광복절 서울 도심 집회…\"부정선거\" vs \"美 나가라\" - 노컷뉴스",
+        "en": "비 내린 광복절 서울 도심 집회…\"부정선거\" vs \"美 나가라\" - 노컷뉴스",
+        "zh": "비 내린 광복절 서울 도심 집회…\"부정선거\" vs \"美 나가라\" - 노컷뉴스"
       }
     },
     {
-      "title": "\"후티 반군 공격에 예멘 모카항 운영 중단\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260816020325Ltj",
+      "title": "트럼프, 김정은과 '판문점 회동' 했던 사진 게시…\"사이 좋아\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260816034342x6b",
       "source": "Breaking News",
-      "pubDate": "Sun, 16 Aug 2026 02:03:26 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260815/AKR20260816020325Ltj_01_i.jpg",
+      "pubDate": "Sun, 16 Aug 2026 03:43:43 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260815/AKR20260816034342x6b_01_i.jpg",
       "summaries": {
-        "ko": "\"후티 반군 공격에 예멘 모카항 운영 중단\"",
-        "en": "\"후티 반군 공격에 예멘 모카항 운영 중단\"",
-        "zh": "\"후티 반군 공격에 예멘 모카항 운영 중단\""
+        "ko": "트럼프, 김정은과 '판문점 회동' 했던 사진 게시…\"사이 좋아\"",
+        "en": "트럼프, 김정은과 '판문점 회동' 했던 사진 게시…\"사이 좋아\"",
+        "zh": "트럼프, 김정은과 '판문점 회동' 했던 사진 게시…\"사이 좋아\""
       }
     }
   ]
