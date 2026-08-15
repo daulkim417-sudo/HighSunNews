@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-15T21:31:45.492367",
+  "lastUpdate": "2026-08-15T21:51:24.545655",
   "items": [
     {
       "title": "‘호남 과반승’ 김민석, 누적 득표율도 과반 넘겼다…정청래에 14%p 앞서 - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Sat, 15 Aug 2026 11:55:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/649/imgdb/original/2026/0815/20260815500580.webp",
       "summaries": {
-        "ko": "더불어민주당 당대표 선거에 나선 김민석 후보가 호남 지역 권리당원 순회경선에서 과반 득표율로 정청래 후보를 크게 앞서며 누적 득표율 격차를 14%p 이상 벌려 선두를 굳혔다.",
-        "en": "Kim Min-seok, a candidate for the Democratic Party leader, significantly widened his lead over Jeong Cheong-rae by securing a majority vote in the Honam region's party primary, extending his cumulative lead to over 14 percentage points.",
-        "zh": "民主党党首候选人金珉奭在湖南地区党员巡回竞选中以过半数得票率大幅领先郑清来，将其累计得票率优势扩大到14个百分点以上，巩固了领先地位。"
+        "ko": "더불어민주당 대표 후보 김민석이 호남 지역 권리당원 경선에서 압도적인 승리를 거두며 누적 득표율 50%를 넘겨 정청래 후보를 14%p 이상 앞서나갔다.",
+        "en": "Kim Min-seok, a candidate for the Democratic Party leader, significantly widened his lead over Jeong Cheong-rae after an overwhelming victory in the Honam region's party member primary, securing a cumulative vote share of over 50% and now leading by more than 14 percentage points.",
+        "zh": "民主党党首候选人金民锡在湖南地区党员巡回竞选中获得压倒性胜利后，累计得票率超过50%，以14个百分点以上的优势领先郑清来候选人。"
       }
     },
     {
@@ -26,18 +26,6 @@
       }
     },
     {
-      "title": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608151748001",
-      "source": "경향신문",
-      "pubDate": "Sat, 15 Aug 2026 08:48:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/15/news-p.v1.20260815.2acb78a606174adc96e5e45e4c018eba_P1.png",
-      "summaries": {
-        "ko": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포 - 경향신문",
-        "en": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포 - 경향신문",
-        "zh": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포 - 경향신문"
-      }
-    },
-    {
       "title": "이 대통령, 남북평화·한일관계 청사진…“새로운 광복 필요, 전쟁 끝낼 당사자 간 논의 시작” - KBS 뉴스",
       "link": "https://news.kbs.co.kr/news/view.do?ncd=8638041",
       "source": "KBS 뉴스",
@@ -47,6 +35,18 @@
         "ko": "이 대통령, 남북평화·한일관계 청사진…“새로운 광복 필요, 전쟁 끝낼 당사자 간 논의 시작” - KBS 뉴스",
         "en": "이 대통령, 남북평화·한일관계 청사진…“새로운 광복 필요, 전쟁 끝낼 당사자 간 논의 시작” - KBS 뉴스",
         "zh": "이 대통령, 남북평화·한일관계 청사진…“새로운 광복 필요, 전쟁 끝낼 당사자 간 논의 시작” - KBS 뉴스"
+      }
+    },
+    {
+      "title": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608151748001",
+      "source": "경향신문",
+      "pubDate": "Sat, 15 Aug 2026 08:48:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/15/news-p.v1.20260815.2acb78a606174adc96e5e45e4c018eba_P1.png",
+      "summaries": {
+        "ko": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포 - 경향신문",
+        "en": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포 - 경향신문",
+        "zh": "“집을 나가겠다” 가출 시도에 휴대전화 빼앗자 어머니에 끓는 물 뿌린 10대 딸···현행범 체포 - 경향신문"
       }
     },
     {
@@ -74,15 +74,15 @@
       }
     },
     {
-      "title": "전남 무안남부에 호우경보…여수 등 5곳 강풍주의보 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260816003100527",
+      "title": "광주동부·광주서부에 호우주의보 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260816004100527",
       "source": "연합뉴스",
-      "pubDate": "Sat, 15 Aug 2026 20:03:23 GMT",
+      "pubDate": "Sat, 15 Aug 2026 21:04:00 GMT",
       "image": "https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_1200x800_kr01.jpg",
       "summaries": {
-        "ko": "전남 무안남부에 호우경보…여수 등 5곳 강풍주의보 - 연합뉴스",
-        "en": "전남 무안남부에 호우경보…여수 등 5곳 강풍주의보 - 연합뉴스",
-        "zh": "전남 무안남부에 호우경보…여수 등 5곳 강풍주의보 - 연합뉴스"
+        "ko": "광주동부·광주서부에 호우주의보 - 연합뉴스",
+        "en": "광주동부·광주서부에 호우주의보 - 연합뉴스",
+        "zh": "광주동부·광주서부에 호우주의보 - 연합뉴스"
       }
     },
     {
@@ -98,15 +98,15 @@
       }
     },
     {
-      "title": "서울시 이어 용산구도 \"용산공원 주택공급 검토 강력 반대\" - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260815034500004",
+      "title": "전남광주통합특별시 광복절 81주년 경축식…유공자 11명 포상 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260815040100054",
       "source": "연합뉴스",
-      "pubDate": "Sat, 15 Aug 2026 05:45:53 GMT",
-      "image": "https://img1.yna.co.kr/photo/yna/YH/2026/08/14/PYH2026081411380001301_P4.jpg",
+      "pubDate": "Sat, 15 Aug 2026 07:45:37 GMT",
+      "image": "https://img4.yna.co.kr/etc/inner/KR/2026/08/15/AKR20260815040100054_01_i_P4.jpg",
       "summaries": {
-        "ko": "서울시 이어 용산구도 \"용산공원 주택공급 검토 강력 반대\" - 연합뉴스",
-        "en": "서울시 이어 용산구도 \"용산공원 주택공급 검토 강력 반대\" - 연합뉴스",
-        "zh": "서울시 이어 용산구도 \"용산공원 주택공급 검토 강력 반대\" - 연합뉴스"
+        "ko": "전남광주통합특별시 광복절 81주년 경축식…유공자 11명 포상 - 연합뉴스",
+        "en": "전남광주통합특별시 광복절 81주년 경축식…유공자 11명 포상 - 연합뉴스",
+        "zh": "전남광주통합특별시 광복절 81주년 경축식…유공자 11명 포상 - 연합뉴스"
       }
     },
     {
