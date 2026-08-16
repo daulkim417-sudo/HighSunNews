@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-08-16T03:59:42.585382",
+  "lastUpdate": "2026-08-16T04:31:32.839409",
   "items": [
-    {
-      "title": "李 경축사에 日언론 \"한일 미래협력 강조\"...역사 문제는 언급 없어 - 뉴스핌",
-      "link": "https://www.newspim.com/news/view/20260816000039",
-      "source": "뉴스핌",
-      "pubDate": "Sun, 16 Aug 2026 03:17:00 GMT",
-      "image": "https://img.newspim.com/news/2026/08/15/2608151048201160_109_tc.jpg",
-      "summaries": {
-        "ko": "일본 언론들은 이재명 대통령의 광복절 경축사가 역사 문제를 직접 언급하지 않고 한일 미래 협력을 강조했으며, 대북 대화 제안에 대해서도 비중 있게 다뤘다고 보도했다.",
-        "en": "Japanese media reported that President Lee Jae-myung's Gwangbokjeol speech emphasized future cooperation between South Korea and Japan without directly addressing historical issues, and also gave significant attention to his proposal for dialogue with North Korea.",
-        "zh": "日本媒体报道称，李在明总统的光复节贺词强调韩日未来合作，避谈历史问题，并重点关注了他提出的对朝对话提议。"
-      }
-    },
     {
       "title": "오늘 당원 38%, 수도권 경선…정청래, 높은 투표율에 반전 기대 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1273078.html",
@@ -20,45 +8,21 @@
       "pubDate": "Sun, 16 Aug 2026 02:09:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/800/496/imgdb/original/2026/0816/20260816500565.webp",
       "summaries": {
-        "ko": "오늘 당원 38%, 수도권 경선…정청래, 높은 투표율에 반전 기대 - 한겨레",
-        "en": "오늘 당원 38%, 수도권 경선…정청래, 높은 투표율에 반전 기대 - 한겨레",
-        "zh": "오늘 당원 38%, 수도권 경선…정청래, 높은 투표율에 반전 기대 - 한겨레"
+        "ko": "더불어민주당 대표 경선에서 김민석 후보가 호남권 압승으로 선두를 달리는 가운데, 오늘 발표될 당원 38%가 쏠린 수도권 경선에서 정청래 후보가 높은 투표율에 힘입어 반전을 노린다.",
+        "en": "Kim Min-seok leads the Democratic Party leader race after a dominant win in the Honam region, while Jeong Cheong-rae hopes for a turnaround with high voter turnout in today's announced Seoul metropolitan area primary, which accounts for 38% of party members.",
+        "zh": "金民锡候选人在湖南地区大胜后在共同民主党党首竞选中处于领先地位，而郑清来候选人则希望凭借今日公布的占党员38%的首都圈竞选中的高投票率实现反超。"
       }
     },
     {
-      "title": "인도네시아 7.7 강진 사망자 47명으로 늘어…여진만 최소 235차례 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1273088.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 16 Aug 2026 02:12:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/836/557/imgdb/original/2026/0816/20260816500729.webp",
+      "title": "남부지방 거센 비‥호우 위기경보 '주의' 단계로 상향 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6845069_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 16 Aug 2026 00:46:59 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/16/ljm_20260816_2.jpg",
       "summaries": {
-        "ko": "인도네시아 7.7 강진 사망자 47명으로 늘어…여진만 최소 235차례 - 한겨레",
-        "en": "인도네시아 7.7 강진 사망자 47명으로 늘어…여진만 최소 235차례 - 한겨레",
-        "zh": "인도네시아 7.7 강진 사망자 47명으로 늘어…여진만 최소 235차례 - 한겨레"
-      }
-    },
-    {
-      "title": "김민석 “트럼프, 백악관 면담 때도 김정은 사진 보여줘…당대표 되면 내년 미·중·일 방문할 것” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608161134001",
-      "source": "경향신문",
-      "pubDate": "Sun, 16 Aug 2026 02:34:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/16/news-p.v1.20260816.2938f8ef2758488aa165b85cdbce8e39_P1.png",
-      "summaries": {
-        "ko": "김민석 “트럼프, 백악관 면담 때도 김정은 사진 보여줘…당대표 되면 내년 미·중·일 방문할 것” - 경향신문",
-        "en": "김민석 “트럼프, 백악관 면담 때도 김정은 사진 보여줘…당대표 되면 내년 미·중·일 방문할 것” - 경향신문",
-        "zh": "김민석 “트럼프, 백악관 면담 때도 김정은 사진 보여줘…당대표 되면 내년 미·중·일 방문할 것” - 경향신문"
-      }
-    },
-    {
-      "title": "전남광주에 밤 사이 최대 178㎜ 폭우… 목포·진도는 8월 최고 시간당 강수량 기록 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/08/16/63EGDWVKKZFCXKOZXUCX7TG22M/",
-      "source": "조선일보",
-      "pubDate": "Sun, 16 Aug 2026 01:43:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/4MXEVCVKWREBLCPC4T2JBPI5Q4.jpg?auth=83538c137ecc2bb200453b3617909c60387b944d62494c2a320aba82d9d2f6af&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "전남광주에 밤 사이 최대 178㎜ 폭우… 목포·진도는 8월 최고 시간당 강수량 기록 - 조선일보",
-        "en": "전남광주에 밤 사이 최대 178㎜ 폭우… 목포·진도는 8월 최고 시간당 강수량 기록 - 조선일보",
-        "zh": "전남광주에 밤 사이 최대 178㎜ 폭우… 목포·진도는 8월 최고 시간당 강수량 기록 - 조선일보"
+        "ko": "남부지방 거센 비‥호우 위기경보 '주의' 단계로 상향 - MBC 뉴스",
+        "en": "남부지방 거센 비‥호우 위기경보 '주의' 단계로 상향 - MBC 뉴스",
+        "zh": "남부지방 거센 비‥호우 위기경보 '주의' 단계로 상향 - MBC 뉴스"
       }
     },
     {
@@ -86,6 +50,18 @@
       }
     },
     {
+      "title": "李대통령, 北에 \"전쟁 끝낼 당사자 간 논의 시작하자\" - 조선일보",
+      "link": "https://www.chosun.com/politics/blue_house/2026/08/15/VHJGEQSWNRFVHH44BHXAQ2PMJI/",
+      "source": "조선일보",
+      "pubDate": "Sat, 15 Aug 2026 01:34:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/7FC6BNDOG5C2XHG2VYFSG4OLLA.jpg?auth=c500c98b25dc228f07f829bbc4c8463bb279b5400acf480720bdde30fd4f23fa&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "李대통령, 北에 \"전쟁 끝낼 당사자 간 논의 시작하자\" - 조선일보",
+        "en": "李대통령, 北에 \"전쟁 끝낼 당사자 간 논의 시작하자\" - 조선일보",
+        "zh": "李대통령, 北에 \"전쟁 끝낼 당사자 간 논의 시작하자\" - 조선일보"
+      }
+    },
+    {
       "title": "“사라졌다”던 6세 아이, 아파트 화단서 숨진 채 발견···추락사 추정 - 경향신문",
       "link": "https://www.khan.co.kr/article/202608160920001",
       "source": "경향신문",
@@ -98,39 +74,51 @@
       }
     },
     {
-      "title": "영월 38번 국도서 관광버스 전도…1명 중상·17명 경상 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260816018100062",
-      "source": "연합뉴스",
-      "pubDate": "Sun, 16 Aug 2026 01:47:39 GMT",
-      "image": "https://img6.yna.co.kr/etc/inner/KR/2026/08/16/AKR20260816018100062_01_i_P4.jpg",
+      "title": "안철수 “김정은에 평양 불바다 각인…북핵 압도할 핵무장 필요” - 경기일보",
+      "link": "https://www.kyeonggi.com/article/20260816580009",
+      "source": "경기일보",
+      "pubDate": "Sun, 16 Aug 2026 00:24:52 GMT",
+      "image": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/16/.cache/512/20260816580010.jpg?v=20260816133126",
       "summaries": {
-        "ko": "영월 38번 국도서 관광버스 전도…1명 중상·17명 경상 - 연합뉴스",
-        "en": "영월 38번 국도서 관광버스 전도…1명 중상·17명 경상 - 연합뉴스",
-        "zh": "영월 38번 국도서 관광버스 전도…1명 중상·17명 경상 - 연합뉴스"
+        "ko": "안철수 “김정은에 평양 불바다 각인…북핵 압도할 핵무장 필요” - 경기일보",
+        "en": "안철수 “김정은에 평양 불바다 각인…북핵 압도할 핵무장 필요” - 경기일보",
+        "zh": "안철수 “김정은에 평양 불바다 각인…북핵 압도할 핵무장 필요” - 경기일보"
       }
     },
     {
-      "title": "민주, 오늘 서울·경기 발표…김민석 '쐐기' vs 정청래 '추격'",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260816113010fcT",
-      "source": "Breaking News",
-      "pubDate": "Sun, 16 Aug 2026 11:30:12 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260816/MYH20260816113010fcT.jpg",
+      "title": "김민석 “트럼프, 백악관 면담 때도 김정은 사진 보여줘…당대표 되면 내년 미·중·일 방문할 것” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608161134001",
+      "source": "경향신문",
+      "pubDate": "Sun, 16 Aug 2026 02:34:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/16/news-p.v1.20260816.2938f8ef2758488aa165b85cdbce8e39_P1.png",
       "summaries": {
-        "ko": "민주, 오늘 서울·경기 발표…김민석 '쐐기' vs 정청래 '추격'",
-        "en": "민주, 오늘 서울·경기 발표…김민석 '쐐기' vs 정청래 '추격'",
-        "zh": "민주, 오늘 서울·경기 발표…김민석 '쐐기' vs 정청래 '추격'"
+        "ko": "김민석 “트럼프, 백악관 면담 때도 김정은 사진 보여줘…당대표 되면 내년 미·중·일 방문할 것” - 경향신문",
+        "en": "김민석 “트럼프, 백악관 면담 때도 김정은 사진 보여줘…당대표 되면 내년 미·중·일 방문할 것” - 경향신문",
+        "zh": "김민석 “트럼프, 백악관 면담 때도 김정은 사진 보여줘…당대표 되면 내년 미·중·일 방문할 것” - 경향신문"
       }
     },
     {
-      "title": "[속보] 영암 호우경보 해제…목포 등 10곳 호우특보 해제",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260816111257Uij",
+      "title": "남부 집중호우…내일까지 최고 200㎜ 많은 비",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260816131946sUf",
       "source": "Breaking News",
-      "pubDate": "Sun, 16 Aug 2026 11:12:58 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260816/MYH20260816111257Uij.jpg",
+      "pubDate": "Sun, 16 Aug 2026 13:19:48 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260816/MYH20260816131946sUf.jpg",
       "summaries": {
-        "ko": "[속보] 영암 호우경보 해제…목포 등 10곳 호우특보 해제",
-        "en": "[속보] 영암 호우경보 해제…목포 등 10곳 호우특보 해제",
-        "zh": "[속보] 영암 호우경보 해제…목포 등 10곳 호우특보 해제"
+        "ko": "남부 집중호우…내일까지 최고 200㎜ 많은 비",
+        "en": "남부 집중호우…내일까지 최고 200㎜ 많은 비",
+        "zh": "남부 집중호우…내일까지 최고 200㎜ 많은 비"
+      }
+    },
+    {
+      "title": "비 내리는 휴일…서울식물원 나들이 인기",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260816131858hFN",
+      "source": "Breaking News",
+      "pubDate": "Sun, 16 Aug 2026 13:18:59 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260816/MYH20260816131858hFN.jpg",
+      "summaries": {
+        "ko": "비 내리는 휴일…서울식물원 나들이 인기",
+        "en": "비 내리는 휴일…서울식물원 나들이 인기",
+        "zh": "비 내리는 휴일…서울식물원 나들이 인기"
       }
     }
   ]
