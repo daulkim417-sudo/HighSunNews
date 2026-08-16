@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-16T11:08:56.229591",
+  "lastUpdate": "2026-08-16T11:31:07.686997",
   "items": [
     {
       "title": "[속보]서울·경기서 모두 김민석이 이겼다…與 전당대회 승기 잡아 - 동아일보",
@@ -26,27 +26,51 @@
       }
     },
     {
-      "title": "'인니 강진' 사망자 51명으로 증가...5천 명 대피 중 - YTN",
+      "title": "'인니 강진' 사망자 51명으로 증가...5천 명 대피 중 - ytn.co.kr",
       "link": "https://www.ytn.co.kr/_ln/0104_202608161931156733",
-      "source": "YTN",
+      "source": "ytn.co.kr",
       "pubDate": "Sun, 16 Aug 2026 10:31:00 GMT",
       "image": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg",
       "summaries": {
-        "ko": "'인니 강진' 사망자 51명으로 증가...5천 명 대피 중 - YTN",
-        "en": "'인니 강진' 사망자 51명으로 증가...5천 명 대피 중 - YTN",
-        "zh": "'인니 강진' 사망자 51명으로 증가...5천 명 대피 중 - YTN"
+        "ko": "'인니 강진' 사망자 51명으로 증가...5천 명 대피 중 - ytn.co.kr",
+        "en": "'인니 강진' 사망자 51명으로 증가...5천 명 대피 중 - ytn.co.kr",
+        "zh": "'인니 강진' 사망자 51명으로 증가...5천 명 대피 중 - ytn.co.kr"
       }
     },
     {
-      "title": "소멸한 두 개의 태풍이 남긴 막대한 수증기…최대 250㎜ 더온다 - 경기일보",
-      "link": "https://www.kyeonggi.com/article/20260816580051",
-      "source": "경기일보",
-      "pubDate": "Sun, 16 Aug 2026 06:00:07 GMT",
-      "image": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/16/.cache/512/20260816580052.jpg?v=20260816200842",
+      "title": "\"오래된 전쟁 끝내자\" 李 제안에… 북한은 '침묵', 야당은 '반발' - 한국일보",
+      "link": "https://www.hankookilbo.com/news/article/A2026081610280003151",
+      "source": "한국일보",
+      "pubDate": "Sun, 16 Aug 2026 06:42:00 GMT",
+      "image": "https://newsimg.hankookilbo.com/2026/08/16/e2521d1d-37ed-42ad-a3e1-4b2949b5cfe3.jpg",
       "summaries": {
-        "ko": "소멸한 두 개의 태풍이 남긴 막대한 수증기…최대 250㎜ 더온다 - 경기일보",
-        "en": "소멸한 두 개의 태풍이 남긴 막대한 수증기…최대 250㎜ 더온다 - 경기일보",
-        "zh": "소멸한 두 개의 태풍이 남긴 막대한 수증기…최대 250㎜ 더온다 - 경기일보"
+        "ko": "\"오래된 전쟁 끝내자\" 李 제안에… 북한은 '침묵', 야당은 '반발' - 한국일보",
+        "en": "\"오래된 전쟁 끝내자\" 李 제안에… 북한은 '침묵', 야당은 '반발' - 한국일보",
+        "zh": "\"오래된 전쟁 끝내자\" 李 제안에… 북한은 '침묵', 야당은 '반발' - 한국일보"
+      }
+    },
+    {
+      "title": "與법사위 \"조희대, '김건희 재판지연' 직무유기‥더 나아간 사법개혁이 답\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6845103_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 16 Aug 2026 08:03:46 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/08/16/jh_20260816_19.jpg",
+      "summaries": {
+        "ko": "與법사위 \"조희대, '김건희 재판지연' 직무유기‥더 나아간 사법개혁이 답\" - MBC 뉴스",
+        "en": "與법사위 \"조희대, '김건희 재판지연' 직무유기‥더 나아간 사법개혁이 답\" - MBC 뉴스",
+        "zh": "與법사위 \"조희대, '김건희 재판지연' 직무유기‥더 나아간 사법개혁이 답\" - MBC 뉴스"
+      }
+    },
+    {
+      "title": "내일까지 경남에 200㎜ 더...두 태풍이 남긴 수증기에 남부 집중호우 - 조선일보",
+      "link": "https://www.chosun.com/national/transport-environment/2026/08/16/DJ2OPZPTHFFGHKYE673WAZ7RNE/",
+      "source": "조선일보",
+      "pubDate": "Sun, 16 Aug 2026 04:37:04 GMT",
+      "image": "https://www.chosun.com/resizer/v2/3XENKKTBTNGFFMD6QT2CCX6FYE.gif?auth=edcd7e5e48a901f71562d732d4320867311df6315f133282ac65496582f2782e&width=480&height=252&smart=true",
+      "summaries": {
+        "ko": "내일까지 경남에 200㎜ 더...두 태풍이 남긴 수증기에 남부 집중호우 - 조선일보",
+        "en": "내일까지 경남에 200㎜ 더...두 태풍이 남긴 수증기에 남부 집중호우 - 조선일보",
+        "zh": "내일까지 경남에 200㎜ 더...두 태풍이 남긴 수증기에 남부 집중호우 - 조선일보"
       }
     },
     {
@@ -86,51 +110,15 @@
       }
     },
     {
-      "title": "일본 자민당 핵심 간부 4명 전원 야스쿠니 신사 참배 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260816134543sPD",
-      "source": "연합뉴스TV",
-      "pubDate": "Sun, 16 Aug 2026 04:45:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260816/AKR20260816134543sPD_01_i.jpg",
-      "summaries": {
-        "ko": "일본 자민당 핵심 간부 4명 전원 야스쿠니 신사 참배 - 연합뉴스TV",
-        "en": "일본 자민당 핵심 간부 4명 전원 야스쿠니 신사 참배 - 연합뉴스TV",
-        "zh": "일본 자민당 핵심 간부 4명 전원 야스쿠니 신사 참배 - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "16년 만에 부활한 친일재산조사위‥12월부터 환수 나서 \"325억 찾겠다\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6845100_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sun, 16 Aug 2026 07:24:21 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/16/ggm_20260816_10.jpg",
-      "summaries": {
-        "ko": "16년 만에 부활한 친일재산조사위‥12월부터 환수 나서 \"325억 찾겠다\" - MBC 뉴스",
-        "en": "16년 만에 부활한 친일재산조사위‥12월부터 환수 나서 \"325억 찾겠다\" - MBC 뉴스",
-        "zh": "16년 만에 부활한 친일재산조사위‥12월부터 환수 나서 \"325억 찾겠다\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "김민석, 서울·경기에서도 승리…누적 49.91% 1위",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260816200138AlI",
+      "title": "[뉴스초점] 김민석, 與전대 서울·경기 당원투표서도 승리",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260816201659IQF",
       "source": "Breaking News",
-      "pubDate": "Sun, 16 Aug 2026 20:01:40 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260816/MYH20260816200138AlI.jpg",
+      "pubDate": "Sun, 16 Aug 2026 20:17:00 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260816/MYH20260816201659IQF.jpg",
       "summaries": {
-        "ko": "김민석, 서울·경기에서도 승리…누적 49.91% 1위",
-        "en": "김민석, 서울·경기에서도 승리…누적 49.91% 1위",
-        "zh": "김민석, 서울·경기에서도 승리…누적 49.91% 1위"
-      }
-    },
-    {
-      "title": "[속보] 與최고위원 수도권 경선…최민희·이성윤·한민수·박선원·서미화 순",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260816184708occ",
-      "source": "Breaking News",
-      "pubDate": "Sun, 16 Aug 2026 18:47:11 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260816/AKR20260816184708occ_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 與최고위원 수도권 경선…최민희·이성윤·한민수·박선원·서미화 순",
-        "en": "[속보] 與최고위원 수도권 경선…최민희·이성윤·한민수·박선원·서미화 순",
-        "zh": "[속보] 與최고위원 수도권 경선…최민희·이성윤·한민수·박선원·서미화 순"
+        "ko": "[뉴스초점] 김민석, 與전대 서울·경기 당원투표서도 승리",
+        "en": "[뉴스초점] 김민석, 與전대 서울·경기 당원투표서도 승리",
+        "zh": "[뉴스초점] 김민석, 與전대 서울·경기 당원투표서도 승리"
       }
     }
   ]
