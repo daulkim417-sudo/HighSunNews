@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-17T16:13:01.678008",
+  "lastUpdate": "2026-08-17T16:46:11.652907",
   "items": [
     {
       "title": "민주당 새 대표 김민석…“李 정부의 성공이 국민의 성공” - 동아일보",
@@ -14,27 +14,51 @@
       }
     },
     {
-      "title": "미국의 전문가들 “트럼프 ‘이란 비핵화’ 언급…‘한국 역할 확대’ 요구” - VOA 한국어 홈페이지",
-      "link": "https://www.voakorea.com/a/us-experts-on-trump-rok-iran-081726/8187293.html",
-      "source": "VOA 한국어 홈페이지",
-      "pubDate": "Mon, 17 Aug 2026 15:53:48 GMT",
-      "image": "https://gdb.voanews.com/270ef865-e7b4-404a-c9a7-08decaecd3b3_cx0_cy10_cw0_w1200_h630.jpg",
-      "summaries": {
-        "ko": "미국의 전문가들은 트럼프 대통령이 한국의 이란 비핵화 협력을 공개적으로 언급한 것을 한국에 대한 안보 협력 확대 요구이자 호르무즈 해협 관련 군사적 기여 부족에 대한 불만이 반영된 것으로 분석했습니다.",
-        "en": "US experts interpret President Trump's public mention of South Korea's cooperation on Iran's denuclearization as a demand for expanded security cooperation and a reflection of dissatisfaction with its limited military contribution to the Strait of Hormuz.",
-        "zh": "美国专家分析称，特朗普总统公开提及韩国在伊朗无核化问题上的合作，是要求韩国扩大安全合作的信号，可能反映了对韩国在霍尔木兹海峡军事贡献有限的不满。"
-      }
-    },
-    {
       "title": "“맨손으로 파묻힌 사람 여럿 구해…아파트 2층까지 산사태, 말도 마소” - 한겨레",
       "link": "https://www.hani.co.kr/arti/area/yeongnam/1273262.html",
       "source": "한겨레",
       "pubDate": "Mon, 17 Aug 2026 13:09:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/701/449/imgdb/original/2026/0817/20260817501705.webp",
       "summaries": {
-        "ko": "“맨손으로 파묻힌 사람 여럿 구해…아파트 2층까지 산사태, 말도 마소” - 한겨레",
-        "en": "“맨손으로 파묻힌 사람 여럿 구해…아파트 2층까지 산사태, 말도 마소” - 한겨레",
-        "zh": "“맨손으로 파묻힌 사람 여럿 구해…아파트 2층까지 산사태, 말도 마소” - 한겨레"
+        "ko": "경남 거제시 옥포동의 한 아파트에서 7월 17일 새벽 기록적인 폭우로 인한 산사태가 발생해 1명이 숨지고 2명이 다쳤으며, 아파트 2층까지 흙더미가 덮치고 주차된 차량들이 쓸려 내려오는 등 큰 피해를 입었다.",
+        "en": "On the morning of July 17th, a landslide caused by record-breaking heavy rainfall occurred near an apartment complex in Okpo-dong, Geoje-si, Gyeongsangnam-do, resulting in one death and two injuries, with debris covering up to the second floor of the apartments and parked cars being swept away, causing significant damage.",
+        "zh": "7月17日凌晨，韩国庆尚南道巨济市玉浦洞一公寓附近发生山体滑坡，造成1人死亡2人受伤，创纪录的暴雨导致公寓二楼被泥土覆盖，停放的车辆被冲走，造成了重大损失。"
+      }
+    },
+    {
+      "title": "‘UFS 축소’ 트럼프, 북한에 ‘대화 원해’ 구체적 신호…김정은의 대답은? - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1273304.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 17 Aug 2026 13:09:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0817/20260817502092.webp",
+      "summaries": {
+        "ko": "트럼프 대통령이 한미 연합훈련 '을지 자유의 방패'(UFS)의 \"대폭 축소\"를 지시하고 김정은 위원장과의 우호적 관계를 강조하며 북미 대화 재개를 원하는 구체적인 신호를 보냈고, 이에 김정은 위원장의 호응 여부가 주목된다.",
+        "en": "President Trump ordered a \"significant reduction\" of the UFS joint exercise and emphasized his good relationship with Kim Jong Un, sending a clear signal for the resumption of US-DPRK dialogue, with attention now on Kim Jong Un's response.",
+        "zh": "美国总统特朗普指示“大幅缩减”韩美联合军演“乙支自由之盾”(UFS)，并强调与金正恩委员长的友好关系，此举被解读为希望重启美朝对话的明确信号，金正恩的回应备受关注。"
+      }
+    },
+    {
+      "title": "둘로 쪼개진 민주당, 가장 시급한 건 ‘봉합’ - khan.co.kr",
+      "link": "https://www.khan.co.kr/article/202608172102005",
+      "source": "khan.co.kr",
+      "pubDate": "Mon, 17 Aug 2026 12:02:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/17/l_2026081801000461200048311.jpg",
+      "summaries": {
+        "ko": "김민석 신임 더불어민주당 지도부는 둘로 쪼개진 당의 봉합과 통합을 최우선 과제로 삼고 있으며, 부동산 세제개편과 검찰개혁 후속 입법, 야당과의 관계 개선 등 산적한 현안 해결에 주력해야 한다.",
+        "en": "The new Democratic Party leadership under Kim Min-seok faces the urgent priority of unifying the divided party, alongside tackling pressing issues such as real estate tax reform, follow-up legislation for prosecutorial reform, and improving relations with the opposition.",
+        "zh": "由金民锡领导的韩国共同民主党新领导层将团结分裂的党派作为首要任务，同时还需处理房地产税制改革、检察改革后续立法以及改善与反对党关系等紧迫问题。"
+      }
+    },
+    {
+      "title": "민주 최고위원에 ‘친청’ 최민희·이성윤·한민수 ‘친명’ 박선원·서미화…김민석 견제 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1273306.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 17 Aug 2026 13:10:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/437/imgdb/original/2026/0817/20260817502102.webp",
+      "summaries": {
+        "ko": "민주 최고위원에 ‘친청’ 최민희·이성윤·한민수 ‘친명’ 박선원·서미화…김민석 견제 - 한겨레",
+        "en": "민주 최고위원에 ‘친청’ 최민희·이성윤·한민수 ‘친명’ 박선원·서미화…김민석 견제 - 한겨레",
+        "zh": "민주 최고위원에 ‘친청’ 최민희·이성윤·한민수 ‘친명’ 박선원·서미화…김민석 견제 - 한겨레"
       }
     },
     {
@@ -50,75 +74,51 @@
       }
     },
     {
-      "title": "‘친청’ 최민희·이성윤·한민수, ‘친명’ 박선원·서미화 최고위원 당선 - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/08/17/S3X5GVXNKBABLOITWSIYVYINJE/",
-      "source": "조선일보",
-      "pubDate": "Mon, 17 Aug 2026 10:32:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/A4G5CN3S4NE3LLQVFUJ35SK74E.jpg?auth=9ad7860d6202ba74021ced9f25f3dc4f28b722d455d55cdec6fd4b1b109c4c60&width=1200&height=630&smart=true",
+      "title": "李대통령, 김민석·정청래·송영길과 19일 靑서 만찬 - yna.co.kr",
+      "link": "https://www.yna.co.kr/view/AKR20260817069500001",
+      "source": "yna.co.kr",
+      "pubDate": "Mon, 17 Aug 2026 12:03:40 GMT",
+      "image": "https://img9.yna.co.kr/photo/yna/YH/2026/06/30/PYH2026063005290001300_P4.jpg",
       "summaries": {
-        "ko": "‘친청’ 최민희·이성윤·한민수, ‘친명’ 박선원·서미화 최고위원 당선 - 조선일보",
-        "en": "‘친청’ 최민희·이성윤·한민수, ‘친명’ 박선원·서미화 최고위원 당선 - 조선일보",
-        "zh": "‘친청’ 최민희·이성윤·한민수, ‘친명’ 박선원·서미화 최고위원 당선 - 조선일보"
+        "ko": "李대통령, 김민석·정청래·송영길과 19일 靑서 만찬 - yna.co.kr",
+        "en": "李대통령, 김민석·정청래·송영길과 19일 靑서 만찬 - yna.co.kr",
+        "zh": "李대통령, 김민석·정청래·송영길과 19일 靑서 만찬 - yna.co.kr"
       }
     },
     {
-      "title": "‘주택 잠기고 가로수 쓰러지고’… 부산서 비피해 신고 50건 - 조선일보",
-      "link": "https://www.chosun.com/national/regional/2026/08/17/FMTXL7KGJJG4DEU6UIRX3CSF7Y/",
-      "source": "조선일보",
-      "pubDate": "Mon, 17 Aug 2026 10:18:39 GMT",
-      "image": "https://www.chosun.com/resizer/v2/R4KKQAICKZDZJKQA4WV6KOKL7I.jpg?auth=78db649668088e7757ee2dd7167a3d582e1dfde225823e4ee4b488c4e0f9da8e&width=1200&height=630&smart=true",
+      "title": "트럼프, ‘60일 종전 만료’ 이란에 “백기 항복” 요구…오만엔 “폭격” 위협 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/america/1273315.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 17 Aug 2026 14:12:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0817/20260817502219.webp",
       "summaries": {
-        "ko": "‘주택 잠기고 가로수 쓰러지고’… 부산서 비피해 신고 50건 - 조선일보",
-        "en": "‘주택 잠기고 가로수 쓰러지고’… 부산서 비피해 신고 50건 - 조선일보",
-        "zh": "‘주택 잠기고 가로수 쓰러지고’… 부산서 비피해 신고 50건 - 조선일보"
+        "ko": "트럼프, ‘60일 종전 만료’ 이란에 “백기 항복” 요구…오만엔 “폭격” 위협 - 한겨레",
+        "en": "트럼프, ‘60일 종전 만료’ 이란에 “백기 항복” 요구…오만엔 “폭격” 위협 - 한겨레",
+        "zh": "트럼프, ‘60일 종전 만료’ 이란에 “백기 항복” 요구…오만엔 “폭격” 위협 - 한겨레"
       }
     },
     {
-      "title": "문재인 \"전당대회 우려 커...경쟁이 당 분열시키면 안 돼\" - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/08/17/MSAVMLLCNZD2RGGTLHHCWSVHIY/",
-      "source": "조선일보",
-      "pubDate": "Mon, 17 Aug 2026 06:57:15 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GEZGGNZRGIZTGMDCGE4TKZBXHA.jpg?auth=a728be7f1066da2fbd11d778ef031386bb8a111d926f2dad51cdce07d41760ec&width=1200&height=630&smart=true",
+      "title": "우크라는 ‘드론’ 러는 ‘미사일’… 역대 최대 공방 - 서울신문",
+      "link": "https://www.seoul.co.kr/news/international/europe/2026/08/18/20260818012008",
+      "source": "서울신문",
+      "pubDate": "Mon, 17 Aug 2026 14:50:09 GMT",
+      "image": "https://img.seoul.co.kr//img/upload/2026/08/17/SSC_20260817180502_O2.jpg.webp",
       "summaries": {
-        "ko": "문재인 \"전당대회 우려 커...경쟁이 당 분열시키면 안 돼\" - 조선일보",
-        "en": "문재인 \"전당대회 우려 커...경쟁이 당 분열시키면 안 돼\" - 조선일보",
-        "zh": "문재인 \"전당대회 우려 커...경쟁이 당 분열시키면 안 돼\" - 조선일보"
+        "ko": "우크라는 ‘드론’ 러는 ‘미사일’… 역대 최대 공방 - 서울신문",
+        "en": "우크라는 ‘드론’ 러는 ‘미사일’… 역대 최대 공방 - 서울신문",
+        "zh": "우크라는 ‘드론’ 러는 ‘미사일’… 역대 최대 공방 - 서울신문"
       }
     },
     {
-      "title": "李대통령, 김민석·정청래·송영길과 19일 청와대서 만찬 - 경기일보",
-      "link": "https://www.kyeonggi.com/article/20260817580360",
-      "source": "경기일보",
-      "pubDate": "Mon, 17 Aug 2026 12:34:48 GMT",
-      "image": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/17/.cache/512/20260817580361.jpg?v=20260818011257",
+      "title": "인니 플로레스섬 강진 사망자 54명으로 늘어…이재민 1만3천명 - yna.co.kr",
+      "link": "https://www.yna.co.kr/view/AKR20260817056800084",
+      "source": "yna.co.kr",
+      "pubDate": "Mon, 17 Aug 2026 09:12:29 GMT",
+      "image": "https://img5.yna.co.kr/photo/etc/af/2026/08/15/PAF20260815123801009_P4.jpg",
       "summaries": {
-        "ko": "李대통령, 김민석·정청래·송영길과 19일 청와대서 만찬 - 경기일보",
-        "en": "李대통령, 김민석·정청래·송영길과 19일 청와대서 만찬 - 경기일보",
-        "zh": "李대통령, 김민석·정청래·송영길과 19일 청와대서 만찬 - 경기일보"
-      }
-    },
-    {
-      "title": "이 대통령 전당대회 축사 \"새 지도부 중심, 하나로 똘똘 뭉쳐야\" - 조세일보",
-      "link": "http://www.joseilbo.com/news/htmls/2026/08/20260817573931.html",
-      "source": "조세일보",
-      "pubDate": "Mon, 17 Aug 2026 07:49:35 GMT",
-      "image": "https://www.joseilbo.com/gisa_img/17869535011786953501_yjj2001.jpg",
-      "summaries": {
-        "ko": "이 대통령 전당대회 축사 \"새 지도부 중심, 하나로 똘똘 뭉쳐야\" - 조세일보",
-        "en": "이 대통령 전당대회 축사 \"새 지도부 중심, 하나로 똘똘 뭉쳐야\" - 조세일보",
-        "zh": "이 대통령 전당대회 축사 \"새 지도부 중심, 하나로 똘똘 뭉쳐야\" - 조세일보"
-      }
-    },
-    {
-      "title": "\"사이버 도박 빚 갚으려\"…무인점포 돌며 금품 훔친 10대 검거 - yonhapnewstv.co.kr",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260817112350Gk7",
-      "source": "yonhapnewstv.co.kr",
-      "pubDate": "Mon, 17 Aug 2026 02:23:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260817/AKR20260817112350Gk7_01_i.jpg",
-      "summaries": {
-        "ko": "\"사이버 도박 빚 갚으려\"…무인점포 돌며 금품 훔친 10대 검거 - yonhapnewstv.co.kr",
-        "en": "\"사이버 도박 빚 갚으려\"…무인점포 돌며 금품 훔친 10대 검거 - yonhapnewstv.co.kr",
-        "zh": "\"사이버 도박 빚 갚으려\"…무인점포 돌며 금품 훔친 10대 검거 - yonhapnewstv.co.kr"
+        "ko": "인니 플로레스섬 강진 사망자 54명으로 늘어…이재민 1만3천명 - yna.co.kr",
+        "en": "인니 플로레스섬 강진 사망자 54명으로 늘어…이재민 1만3천명 - yna.co.kr",
+        "zh": "인니 플로레스섬 강진 사망자 54명으로 늘어…이재민 1만3천명 - yna.co.kr"
       }
     }
   ]
