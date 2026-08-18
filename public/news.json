@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-08-18T11:44:37.636393",
+  "lastUpdate": "2026-08-18T12:01:22.256280",
   "items": [
-    {
-      "title": "트럼프 “김정은이 응답했다” 연일 북한 언급…북·미 대화 가능성은 ‘반반’? - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608181918001",
-      "source": "경향신문",
-      "pubDate": "Tue, 18 Aug 2026 10:18:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/18/news-p.v1.20260818.eb18bca42ff24e118384ffb3b90660ee_P1.png",
-      "summaries": {
-        "ko": "트럼프 대통령이 김정은 위원장이 대화 제안에 “응답했다”고 밝히며 북·미 대화 재개 가능성을 시사했지만, 비핵화 의제 포함 여부를 두고 대화 가능성에 대한 전망이 엇갈리고 있습니다.",
-        "en": "President Trump hinted at the possibility of resuming North Korea-U.S. dialogue, claiming Kim Jong Un \"responded\" to dialogue proposals, but prospects for talks are divided over whether denuclearization will be included.",
-        "zh": "特朗普总统表示金正恩已“回应”对话提议，并暗示朝美对话重启的可能性，但关于是否包含无核化议题，对话前景看法不一。"
-      }
-    },
     {
       "title": "‘극한 폭우’ 거제서 팔 걷은 자원봉사자들…복구도 위로도 ‘함께’ - 한겨레",
       "link": "https://www.hani.co.kr/arti/area/yeongnam/1273449.html",
@@ -26,15 +14,15 @@
       }
     },
     {
-      "title": "정성호 “사의 신속히 수리되길…형소법 통과, 국회서 할 일 더 많아” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1273465.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 18 Aug 2026 11:12:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/850/564/imgdb/original/2026/0818/20260818503233.webp",
+      "title": "청와대, 정성호 사표 수리 방침…후임으로 박균택·이건태 의원 거론 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608181848001",
+      "source": "경향신문",
+      "pubDate": "Tue, 18 Aug 2026 09:48:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/18/news-p.v1.20260818.8b7464e2ace043e39c5b0e328912e4a6_P1.jpeg",
       "summaries": {
-        "ko": "정성호 “사의 신속히 수리되길…형소법 통과, 국회서 할 일 더 많아” - 한겨레",
-        "en": "정성호 “사의 신속히 수리되길…형소법 통과, 국회서 할 일 더 많아” - 한겨레",
-        "zh": "정성호 “사의 신속히 수리되길…형소법 통과, 국회서 할 일 더 많아” - 한겨레"
+        "ko": "청와대, 정성호 사표 수리 방침…후임으로 박균택·이건태 의원 거론 - 경향신문",
+        "en": "청와대, 정성호 사표 수리 방침…후임으로 박균택·이건태 의원 거론 - 경향신문",
+        "zh": "청와대, 정성호 사표 수리 방침…후임으로 박균택·이건태 의원 거론 - 경향신문"
       }
     },
     {
@@ -50,58 +38,34 @@
       }
     },
     {
-      "title": "李 \"한미동맹 굳건해야... 핵잠수함 추진 속도 내달라\" - 조선일보",
-      "link": "https://www.chosun.com/politics/blue_house/2026/08/18/FCJZTVMUJREGTH2JIOKUX3CBNI/",
-      "source": "조선일보",
-      "pubDate": "Tue, 18 Aug 2026 01:33:19 GMT",
-      "image": "https://www.chosun.com/resizer/v2/H5N727UVTRPSLLGAIYPHBRXMG4.JPG?auth=f9ca9ce7ccaac7bde4a82bb0166fc2e7d7173b1acc6f8d580cd7a49abdb541d3&width=1200&height=630&focal=1664,1193",
+      "title": "이 대통령, 이태한 ‘선관위 특검’ 임명…투표율 조작 의혹·외유성 출장 등 수사 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1273454.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 18 Aug 2026 10:22:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/850/566/imgdb/original/2026/0818/20260818503104.webp",
       "summaries": {
-        "ko": "李 \"한미동맹 굳건해야... 핵잠수함 추진 속도 내달라\" - 조선일보",
-        "en": "李 \"한미동맹 굳건해야... 핵잠수함 추진 속도 내달라\" - 조선일보",
-        "zh": "李 \"한미동맹 굳건해야... 핵잠수함 추진 속도 내달라\" - 조선일보"
+        "ko": "이 대통령, 이태한 ‘선관위 특검’ 임명…투표율 조작 의혹·외유성 출장 등 수사 - 한겨레",
+        "en": "이 대통령, 이태한 ‘선관위 특검’ 임명…투표율 조작 의혹·외유성 출장 등 수사 - 한겨레",
+        "zh": "이 대통령, 이태한 ‘선관위 특검’ 임명…투표율 조작 의혹·외유성 출장 등 수사 - 한겨레"
       }
     },
     {
-      "title": "용산공원 주택공급 두고 '평행선'…개발 판도 변화 예고(종합2보) - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260818068952003",
-      "source": "연합뉴스",
-      "pubDate": "Tue, 18 Aug 2026 10:19:47 GMT",
-      "image": "https://img2.yna.co.kr/photo/yna/YH/2026/08/14/PYH2026081411390001301_P4.jpg",
+      "title": "아침 8시에 대통령 축하 난 전달…김민석 “벽이 없는 원팀” [지금뉴스] - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8639040",
+      "source": "KBS 뉴스",
+      "pubDate": "Tue, 18 Aug 2026 00:39:00 GMT",
+      "image": "http://news.kbs.co.kr/data/fckeditor/vod/2026/08/18/174091787012371793.png",
       "summaries": {
-        "ko": "용산공원 주택공급 두고 '평행선'…개발 판도 변화 예고(종합2보) - 연합뉴스",
-        "en": "용산공원 주택공급 두고 '평행선'…개발 판도 변화 예고(종합2보) - 연합뉴스",
-        "zh": "용산공원 주택공급 두고 '평행선'…개발 판도 변화 예고(종합2보) - 연합뉴스"
-      }
-    },
-    {
-      "title": "김민석 \"국정 뒷받침\"·강훈식 \"이제 하나\"…웃으며 '원팀' 포옹 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260818028600001",
-      "source": "연합뉴스",
-      "pubDate": "Mon, 17 Aug 2026 23:57:08 GMT",
-      "image": "https://img6.yna.co.kr/photo/yna/YH/2026/08/18/PYH2026081801020001300_P4.jpg",
-      "summaries": {
-        "ko": "김민석 \"국정 뒷받침\"·강훈식 \"이제 하나\"…웃으며 '원팀' 포옹 - 연합뉴스",
-        "en": "김민석 \"국정 뒷받침\"·강훈식 \"이제 하나\"…웃으며 '원팀' 포옹 - 연합뉴스",
-        "zh": "김민석 \"국정 뒷받침\"·강훈식 \"이제 하나\"…웃으며 '원팀' 포옹 - 연합뉴스"
-      }
-    },
-    {
-      "title": "이 대통령, 선관위 특검에 이태한 권익위 비상임위원 임명 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260818173446dEL",
-      "source": "연합뉴스TV",
-      "pubDate": "Tue, 18 Aug 2026 08:34:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260818/AKR20260818173446dEL_01_i.jpg",
-      "summaries": {
-        "ko": "이 대통령, 선관위 특검에 이태한 권익위 비상임위원 임명 - 연합뉴스TV",
-        "en": "이 대통령, 선관위 특검에 이태한 권익위 비상임위원 임명 - 연합뉴스TV",
-        "zh": "이 대통령, 선관위 특검에 이태한 권익위 비상임위원 임명 - 연합뉴스TV"
+        "ko": "아침 8시에 대통령 축하 난 전달…김민석 “벽이 없는 원팀” [지금뉴스] - KBS 뉴스",
+        "en": "아침 8시에 대통령 축하 난 전달…김민석 “벽이 없는 원팀” [지금뉴스] - KBS 뉴스",
+        "zh": "아침 8시에 대통령 축하 난 전달…김민석 “벽이 없는 원팀” [지금뉴스] - KBS 뉴스"
       }
     },
     {
       "title": "‘이란전 비협조·투자 지연’ 화난 트럼프…한국 압박하며 김정은엔 손짓 - 한겨레",
       "link": "https://www.hani.co.kr/arti/international/america/1273384.html",
       "source": "한겨레",
-      "pubDate": "Tue, 18 Aug 2026 08:28:00 GMT",
+      "pubDate": "Tue, 18 Aug 2026 10:39:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0818/20260818501940.webp",
       "summaries": {
         "ko": "‘이란전 비협조·투자 지연’ 화난 트럼프…한국 압박하며 김정은엔 손짓 - 한겨레",
@@ -110,15 +74,63 @@
       }
     },
     {
-      "title": "테슬라 시승하다 IFC몰 ’쾅’…운전자 등 3명 경상 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260818181753XSm",
-      "source": "연합뉴스TV",
-      "pubDate": "Tue, 18 Aug 2026 09:17:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260818/AKR20260818181753XSm_01_i.jpg",
+      "title": "서울 여의도 IFC몰 간판에 테슬라 시승차 충돌‥3명 경상 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6845529_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Tue, 18 Aug 2026 08:04:19 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/18/jse_20260818_11.jpg",
       "summaries": {
-        "ko": "테슬라 시승하다 IFC몰 ’쾅’…운전자 등 3명 경상 - 연합뉴스TV",
-        "en": "테슬라 시승하다 IFC몰 ’쾅’…운전자 등 3명 경상 - 연합뉴스TV",
-        "zh": "테슬라 시승하다 IFC몰 ’쾅’…운전자 등 3명 경상 - 연합뉴스TV"
+        "ko": "서울 여의도 IFC몰 간판에 테슬라 시승차 충돌‥3명 경상 - MBC 뉴스",
+        "en": "서울 여의도 IFC몰 간판에 테슬라 시승차 충돌‥3명 경상 - MBC 뉴스",
+        "zh": "서울 여의도 IFC몰 간판에 테슬라 시승차 충돌‥3명 경상 - MBC 뉴스"
+      }
+    },
+    {
+      "title": "검찰, '강북 모텔 약물 살인' 김소영에 사형 구형 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6845518_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Tue, 18 Aug 2026 07:51:56 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/18/jhp_20260818_7.jpg",
+      "summaries": {
+        "ko": "검찰, '강북 모텔 약물 살인' 김소영에 사형 구형 - MBC 뉴스",
+        "en": "검찰, '강북 모텔 약물 살인' 김소영에 사형 구형 - MBC 뉴스",
+        "zh": "검찰, '강북 모텔 약물 살인' 김소영에 사형 구형 - MBC 뉴스"
+      }
+    },
+    {
+      "title": "[속보] 민주당 사무총장에 한정애…정책위의장 권칠승 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608181647001",
+      "source": "경향신문",
+      "pubDate": "Tue, 18 Aug 2026 07:47:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/18/rcv.YNA.20260809.PYH2026080902110001300_P1.jpg",
+      "summaries": {
+        "ko": "[속보] 민주당 사무총장에 한정애…정책위의장 권칠승 - 경향신문",
+        "en": "[속보] 민주당 사무총장에 한정애…정책위의장 권칠승 - 경향신문",
+        "zh": "[속보] 민주당 사무총장에 한정애…정책위의장 권칠승 - 경향신문"
+      }
+    },
+    {
+      "title": "국토장관 \"주택 공급 속도전\"…공공·민간에 주문",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260818205415j3l",
+      "source": "Breaking News",
+      "pubDate": "Tue, 18 Aug 2026 20:54:17 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260818/MYH20260818205415j3l.jpg",
+      "summaries": {
+        "ko": "국토장관 \"주택 공급 속도전\"…공공·민간에 주문",
+        "en": "국토장관 \"주택 공급 속도전\"…공공·민간에 주문",
+        "zh": "국토장관 \"주택 공급 속도전\"…공공·민간에 주문"
+      }
+    },
+    {
+      "title": "종합특검, '관저이전 특혜' 김건희 기소…윤한홍도 재판행",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260818204355Ftl",
+      "source": "Breaking News",
+      "pubDate": "Tue, 18 Aug 2026 20:43:57 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260818/MYH20260818204355Ftl.jpg",
+      "summaries": {
+        "ko": "종합특검, '관저이전 특혜' 김건희 기소…윤한홍도 재판행",
+        "en": "종합특검, '관저이전 특혜' 김건희 기소…윤한홍도 재판행",
+        "zh": "종합특검, '관저이전 특혜' 김건희 기소…윤한홍도 재판행"
       }
     }
   ]
