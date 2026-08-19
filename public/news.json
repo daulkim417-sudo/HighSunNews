@@ -1,76 +1,88 @@
 {
-  "lastUpdate": "2026-08-19T20:12:42.496510",
+  "lastUpdate": "2026-08-19T20:49:43.392366",
   "items": [
     {
-      "title": "이 대통령 “한미훈련 축소, 트럼프 결단 경의…한반도 평화 기대” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1273699.html",
+      "title": "[뉴스분석] 한미훈련 단축, 전작권 환수에 부담…한반도 평화엔 호재 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/defense/1273676.html",
       "source": "한겨레",
-      "pubDate": "Wed, 19 Aug 2026 16:22:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/619/imgdb/original/2026/0820/20260820500033.webp",
+      "pubDate": "Wed, 19 Aug 2026 16:25:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/614/imgdb/original/2026/0819/20260819503631.webp",
       "summaries": {
-        "ko": "이재명 대통령은 트럼프 대통령의 한미연합훈련 축소 지시와 북미 대화 재개 시도에 대해 한반도 평화 구축을 위한 결단이라며 경의를 표하고, 한국의 '페이스 메이커' 역할을 강조했다.",
-        "en": "President Lee Jae-myung commended President Trump's decision to scale back US-ROK joint military exercises and attempt to resume US-North Korea dialogue, recognizing it as a crucial step toward building peace on the Korean Peninsula and reiterating South Korea's role as a 'pace-maker'.",
-        "zh": "李在明总统就特朗普总统缩减韩美联合演习并试图重启美朝对话的举动表示赞赏，认为这是在朝鲜半岛建立和平的关键性决定，并强调了韩国作为“领跑者”的作用。"
+        "ko": "트럼프 대통령의 갑작스러운 지시로 한미 연합훈련 '을지 자유의 방패'가 단축되자, 대북 대비태세 약화와 동맹 신뢰 저하 우려 속에서도 북미 대화의 호재가 될 수 있다는 기대가 교차하고 있다.",
+        "en": "Following an abrupt directive from President Trump, the US-South Korea joint exercise 'Ulchi Freedom Shield' was shortened, sparking concerns about weakened readiness against North Korea and undermined alliance trust, while also raising hopes for a breakthrough in US-North Korea dialogue.",
+        "zh": "在美国总统特朗普的突然指示下，韩美联合军事演习“乙支自由之盾”被缩短，这引发了对朝鲜半岛战备状态削弱和同盟信任受损的担忧，同时也带来了对朝美对话可能取得突破的期待。"
       }
     },
     {
-      "title": "이 대통령, 김민석·정청래·송영길과 만찬…김 “전대 때 과한 표현 사과”, 정 “우린 내란의 사선 넘은 동지” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608192227001",
+      "title": "왕이 중국 외교부장 “미북 정상회담은 두 나라가 결정할 일 - VOA 한국어 홈페이지",
+      "link": "https://www.voakorea.com/a/sk-china-foreign-ministers-081926/8188091.html",
+      "source": "VOA 한국어 홈페이지",
+      "pubDate": "Wed, 19 Aug 2026 14:41:23 GMT",
+      "image": "https://gdb.voanews.com/1a3f5ca0-26ae-4f2d-c9d0-08decaecd3b3_w1200_h630.jpeg",
+      "summaries": {
+        "ko": "왕이 중국 외교부장 “미북 정상회담은 두 나라가 결정할 일 - VOA 한국어 홈페이지",
+        "en": "왕이 중국 외교부장 “미북 정상회담은 두 나라가 결정할 일 - VOA 한국어 홈페이지",
+        "zh": "왕이 중국 외교부장 “미북 정상회담은 두 나라가 결정할 일 - VOA 한국어 홈페이지"
+      }
+    },
+    {
+      "title": "‘내부고발’ 홍장원, ‘회군 지시’ 조성현 재판행...내란특검 판단 뒤집혔다 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608191920001",
       "source": "경향신문",
-      "pubDate": "Wed, 19 Aug 2026 13:27:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/19/rcv.YNA.20260819.PYH2026081921400001300_P1.jpg",
+      "pubDate": "Wed, 19 Aug 2026 10:20:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/19/rcv.YNA.20260626.PYH2026062604500001300_P1.jpg",
       "summaries": {
-        "ko": "이 대통령, 김민석·정청래·송영길과 만찬…김 “전대 때 과한 표현 사과”, 정 “우린 내란의 사선 넘은 동지” - 경향신문",
-        "en": "이 대통령, 김민석·정청래·송영길과 만찬…김 “전대 때 과한 표현 사과”, 정 “우린 내란의 사선 넘은 동지” - 경향신문",
-        "zh": "이 대통령, 김민석·정청래·송영길과 만찬…김 “전대 때 과한 표현 사과”, 정 “우린 내란의 사선 넘은 동지” - 경향신문"
+        "ko": "‘내부고발’ 홍장원, ‘회군 지시’ 조성현 재판행...내란특검 판단 뒤집혔다 - 경향신문",
+        "en": "‘내부고발’ 홍장원, ‘회군 지시’ 조성현 재판행...내란특검 판단 뒤집혔다 - 경향신문",
+        "zh": "‘내부고발’ 홍장원, ‘회군 지시’ 조성현 재판행...내란특검 판단 뒤집혔다 - 경향신문"
       }
     },
     {
-      "title": "왕이 \"북미회담은 양국이 결정할 일…美, 대북적대정책 바꿔야\"(종합2보) - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260819167752504",
-      "source": "연합뉴스",
-      "pubDate": "Wed, 19 Aug 2026 14:44:33 GMT",
-      "image": "https://img0.yna.co.kr/photo/yna/YH/2026/08/19/PYH2026081921190001300_P4.jpg",
+      "title": "그동안 비껴갔지만…18호 태풍 ‘사우델’ 한반도 영향 줄까 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8640867",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 19 Aug 2026 12:18:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/08/19/20260819_0l1SEc.png",
       "summaries": {
-        "ko": "왕이 \"북미회담은 양국이 결정할 일…美, 대북적대정책 바꿔야\"(종합2보) - 연합뉴스",
-        "en": "왕이 \"북미회담은 양국이 결정할 일…美, 대북적대정책 바꿔야\"(종합2보) - 연합뉴스",
-        "zh": "왕이 \"북미회담은 양국이 결정할 일…美, 대북적대정책 바꿔야\"(종합2보) - 연합뉴스"
+        "ko": "18호 태풍 '사우델'이 발생했으며, 그동안 한반도를 비껴갔던 다른 태풍들과 달리 고기압 약화로 인해 한반도에 영향을 줄 가능성이 있다는 분석이 나왔다.",
+        "en": "The 18th typhoon 'Saudel' has formed, and unlike previous typhoons that bypassed the Korean Peninsula, there is an analysis that it could affect the peninsula due to the weakening high-pressure systems.",
+        "zh": "第18号台风“沙德尔”已经生成，与此前绕过朝鲜半岛的台风不同，有分析认为由于高气压减弱，此次台风可能会对朝鲜半岛产生影响。"
       }
     },
     {
-      "title": "‘내란 맞선 공직자’로 불렸던 2人… 2차 특검, 내란 가담 혐의 기소 - 조선일보",
-      "link": "https://www.chosun.com/national/court_law/2026/08/20/VA3RC5FYGBCFFNTCYZ4TRUPPHU/",
-      "source": "조선일보",
-      "pubDate": "Wed, 19 Aug 2026 15:45:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/AN6XSDIKBZAF7MASQKJFJSJZOM.jpg?auth=e045f7dab063005cb6c71de38be73054b306045b914e50b40769ab870af45af8&width=1200&height=630&smart=true",
+      "title": "김민석 “일부 과한 표현 사과”…정청래 “우린 동지이자 전우” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260819/134504166/1",
+      "source": "동아일보",
+      "pubDate": "Wed, 19 Aug 2026 13:50:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/19/134508421.1.jpg",
       "summaries": {
-        "ko": "‘내란 맞선 공직자’로 불렸던 2人… 2차 특검, 내란 가담 혐의 기소 - 조선일보",
-        "en": "‘내란 맞선 공직자’로 불렸던 2人… 2차 특검, 내란 가담 혐의 기소 - 조선일보",
-        "zh": "‘내란 맞선 공직자’로 불렸던 2人… 2차 특검, 내란 가담 혐의 기소 - 조선일보"
+        "ko": "김민석 “일부 과한 표현 사과”…정청래 “우린 동지이자 전우” - 동아일보",
+        "en": "김민석 “일부 과한 표현 사과”…정청래 “우린 동지이자 전우” - 동아일보",
+        "zh": "김민석 “일부 과한 표현 사과”…정청래 “우린 동지이자 전우” - 동아일보"
       }
     },
     {
-      "title": "민주, 조희대 서면 제청에 격앙…임명동의 부결 등 대응 검토 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1273684.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 19 Aug 2026 14:46:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0819/20260819503730.webp",
+      "title": "조희대의 유례없는 ‘일방통보’ 대법관 제청···여당 격분 속 청와대는 ‘일단 침착’ - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608191645001",
+      "source": "경향신문",
+      "pubDate": "Wed, 19 Aug 2026 07:45:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/19/news-p.v1.20260819.0ba9c9b5c2d94ac5a2f35a05882b84db_P1.jpeg",
       "summaries": {
-        "ko": "민주, 조희대 서면 제청에 격앙…임명동의 부결 등 대응 검토 - 한겨레",
-        "en": "민주, 조희대 서면 제청에 격앙…임명동의 부결 등 대응 검토 - 한겨레",
-        "zh": "민주, 조희대 서면 제청에 격앙…임명동의 부결 등 대응 검토 - 한겨레"
+        "ko": "조희대의 유례없는 ‘일방통보’ 대법관 제청···여당 격분 속 청와대는 ‘일단 침착’ - 경향신문",
+        "en": "조희대의 유례없는 ‘일방통보’ 대법관 제청···여당 격분 속 청와대는 ‘일단 침착’ - 경향신문",
+        "zh": "조희대의 유례없는 ‘일방통보’ 대법관 제청···여당 격분 속 청와대는 ‘일단 침착’ - 경향신문"
       }
     },
     {
-      "title": "인천 원창동 물류센터 건물서 불…3천여명 대피 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260819201058WdY",
-      "source": "연합뉴스TV",
-      "pubDate": "Wed, 19 Aug 2026 12:00:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260819/AKR20260819201058WdY_01_i.jpg",
+      "title": "전국, 무더위 속 가끔 소나기 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8641130",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 19 Aug 2026 20:01:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/08/20/20260820_Gmgn26.jpg",
       "summaries": {
-        "ko": "인천 원창동 물류센터 건물서 불…3천여명 대피 - 연합뉴스TV",
-        "en": "인천 원창동 물류센터 건물서 불…3천여명 대피 - 연합뉴스TV",
-        "zh": "인천 원창동 물류센터 건물서 불…3천여명 대피 - 연합뉴스TV"
+        "ko": "전국, 무더위 속 가끔 소나기 - KBS 뉴스",
+        "en": "전국, 무더위 속 가끔 소나기 - KBS 뉴스",
+        "zh": "전국, 무더위 속 가끔 소나기 - KBS 뉴스"
       }
     },
     {
@@ -98,39 +110,15 @@
       }
     },
     {
-      "title": "산불로 발 묶인 90세 할머니…7시간 운전해 귀가 도운 남성들",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260819175712Wev",
+      "title": "제니, 이달 말 신보…페스티벌서 공개한 신곡 포함",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260820054743HUW",
       "source": "Breaking News",
-      "pubDate": "Thu, 20 Aug 2026 05:09:03 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260819/AKR20260819175712Wev_01_i.jpg",
+      "pubDate": "Thu, 20 Aug 2026 05:47:46 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260819/MYH20260820054743HUW.jpg",
       "summaries": {
-        "ko": "산불로 발 묶인 90세 할머니…7시간 운전해 귀가 도운 남성들",
-        "en": "산불로 발 묶인 90세 할머니…7시간 운전해 귀가 도운 남성들",
-        "zh": "산불로 발 묶인 90세 할머니…7시간 운전해 귀가 도운 남성들"
-      }
-    },
-    {
-      "title": "지난달 호우 피해 복구에 713억 투입…주택 침수 350만 원 지원",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202608200502595PY",
-      "source": "Breaking News",
-      "pubDate": "Thu, 20 Aug 2026 05:02:59 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260819/MYH202608200502595PY.jpg",
-      "summaries": {
-        "ko": "지난달 호우 피해 복구에 713억 투입…주택 침수 350만 원 지원",
-        "en": "지난달 호우 피해 복구에 713억 투입…주택 침수 350만 원 지원",
-        "zh": "지난달 호우 피해 복구에 713억 투입…주택 침수 350만 원 지원"
-      }
-    },
-    {
-      "title": "[속보] 트럼프, '김정은과 연내 회담 예상하나' 질문에 \"그럴 것\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260820004149Oha",
-      "source": "Breaking News",
-      "pubDate": "Thu, 20 Aug 2026 00:41:51 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260819/AKR20260820004149Oha_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 트럼프, '김정은과 연내 회담 예상하나' 질문에 \"그럴 것\"",
-        "en": "[속보] 트럼프, '김정은과 연내 회담 예상하나' 질문에 \"그럴 것\"",
-        "zh": "[속보] 트럼프, '김정은과 연내 회담 예상하나' 질문에 \"그럴 것\""
+        "ko": "제니, 이달 말 신보…페스티벌서 공개한 신곡 포함",
+        "en": "제니, 이달 말 신보…페스티벌서 공개한 신곡 포함",
+        "zh": "제니, 이달 말 신보…페스티벌서 공개한 신곡 포함"
       }
     }
   ]
