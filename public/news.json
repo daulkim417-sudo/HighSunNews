@@ -1,64 +1,76 @@
 {
-  "lastUpdate": "2026-08-19T13:54:26.349627",
+  "lastUpdate": "2026-08-19T14:21:20.899857",
   "items": [
     {
-      "title": "대법관 22명 임명 ‘주도권’ 노린 의도된 신경전 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608192129005",
+      "title": "트럼프 ‘일방주의’에 휘둘리는 한반도 안보 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608192125005",
       "source": "경향신문",
-      "pubDate": "Wed, 19 Aug 2026 12:29:00 GMT",
+      "pubDate": "Wed, 19 Aug 2026 12:25:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/19/l_2026082001000569000057051.jpg",
+      "summaries": {
+        "ko": "트럼프 ‘일방주의’에 휘둘리는 한반도 안보 - 경향신문",
+        "en": "트럼프 ‘일방주의’에 휘둘리는 한반도 안보 - 경향신문",
+        "zh": "트럼프 ‘일방주의’에 휘둘리는 한반도 안보 - 경향신문"
+      }
+    },
+    {
+      "title": "조희대–청와대 대법관 제청 갈등…‘대법원 구성’ 힘겨루기가 배경 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1273677.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 19 Aug 2026 10:39:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0819/20260819503671.webp",
+      "summaries": {
+        "ko": "조희대–청와대 대법관 제청 갈등…‘대법원 구성’ 힘겨루기가 배경 - 한겨레",
+        "en": "조희대–청와대 대법관 제청 갈등…‘대법원 구성’ 힘겨루기가 배경 - 한겨레",
+        "zh": "조희대–청와대 대법관 제청 갈등…‘대법원 구성’ 힘겨루기가 배경 - 한겨레"
+      }
+    },
+    {
+      "title": "이 대통령, 김민석·정청래·송영길 만찬‥\"대체불가 대한민국 위해 힘 모아야\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6845895_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Wed, 19 Aug 2026 13:32:05 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/08/19/kds_20260819_56.jpg",
+      "summaries": {
+        "ko": "이 대통령, 김민석·정청래·송영길 만찬‥\"대체불가 대한민국 위해 힘 모아야\" - MBC 뉴스",
+        "en": "이 대통령, 김민석·정청래·송영길 만찬‥\"대체불가 대한민국 위해 힘 모아야\" - MBC 뉴스",
+        "zh": "이 대통령, 김민석·정청래·송영길 만찬‥\"대체불가 대한민국 위해 힘 모아야\" - MBC 뉴스"
+      }
+    },
+    {
+      "title": "청년주택 명분 ‘개발 속도전’에…“공원화 결정 바꿀 명분 부족” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608192122005",
+      "source": "경향신문",
+      "pubDate": "Wed, 19 Aug 2026 12:22:00 GMT",
       "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
       "summaries": {
-        "ko": "대법관 22명 임명 ‘주도권’ 노린 의도된 신경전 - 경향신문",
-        "en": "대법관 22명 임명 ‘주도권’ 노린 의도된 신경전 - 경향신문",
-        "zh": "대법관 22명 임명 ‘주도권’ 노린 의도된 신경전 - 경향신문"
+        "ko": "청년주택 명분 ‘개발 속도전’에…“공원화 결정 바꿀 명분 부족” - 경향신문",
+        "en": "청년주택 명분 ‘개발 속도전’에…“공원화 결정 바꿀 명분 부족” - 경향신문",
+        "zh": "청년주택 명분 ‘개발 속도전’에…“공원화 결정 바꿀 명분 부족” - 경향신문"
       }
     },
     {
-      "title": "청와대 “한미훈련 축소, SNS 보고 알아…전작권 회복 영향 없을 것” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1273688.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 19 Aug 2026 13:10:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/715/425/imgdb/original/2026/0819/20260819503780.webp",
+      "title": "과방위 '이진숙 토론회' 공방에 파행…\"사퇴해야\" \"표현의 자유\"(종합) - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260819091251001",
+      "source": "연합뉴스",
+      "pubDate": "Wed, 19 Aug 2026 07:39:17 GMT",
+      "image": "https://img6.yna.co.kr/photo/yna/YH/2026/08/19/PYH2026081907350001300_P4.jpg",
       "summaries": {
-        "ko": "청와대 “한미훈련 축소, SNS 보고 알아…전작권 회복 영향 없을 것” - 한겨레",
-        "en": "청와대 “한미훈련 축소, SNS 보고 알아…전작권 회복 영향 없을 것” - 한겨레",
-        "zh": "청와대 “한미훈련 축소, SNS 보고 알아…전작권 회복 영향 없을 것” - 한겨레"
+        "ko": "과방위 '이진숙 토론회' 공방에 파행…\"사퇴해야\" \"표현의 자유\"(종합) - 연합뉴스",
+        "en": "과방위 '이진숙 토론회' 공방에 파행…\"사퇴해야\" \"표현의 자유\"(종합) - 연합뉴스",
+        "zh": "과방위 '이진숙 토론회' 공방에 파행…\"사퇴해야\" \"표현의 자유\"(종합) - 연합뉴스"
       }
     },
     {
-      "title": "기상청 “거제에 7.7㎜ 빗방울” 예보 30분뒤…117㎜ 폭우 쏟아졌다 - 매일경제",
-      "link": "https://www.mk.co.kr/news/society/12131220",
-      "source": "매일경제",
-      "pubDate": "Wed, 19 Aug 2026 06:39:21 GMT",
-      "image": "https://pimg.mk.co.kr/news/cms/202608/19/rcv.YNA.20260819.PYH2026081906630005200_R.jpg",
+      "title": "왕이 “한반도 평화·안정 위해 해야 할 노력하겠다”···중국, 북·미 대화 중재할까 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608191936001",
+      "source": "경향신문",
+      "pubDate": "Wed, 19 Aug 2026 10:36:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/19/news-p.v1.20260819.1e3c153cbf49468786a277e39b23d368_P1.jpg",
       "summaries": {
-        "ko": "최근 거제에 기록적인 폭우가 쏟아졌을 때 기상청의 초단기예보가 실제 강수량을 크게 과소평가하는 등 심각한 정확도 문제를 보여 재난 대비 활용도에 대한 지적이 제기되었다.",
-        "en": "During the recent record-breaking downpour in Geoje, the Korea Meteorological Administration's ultra-short-term forecasts were significantly inaccurate, often severely underestimating actual rainfall during peak intensity, raising concerns about their utility for disaster preparedness.",
-        "zh": "最近巨济遭遇创纪录暴雨期间，韩国气象厅的超短期预报被发现存在严重不准确，在降雨高峰时段多次严重低估实际降水量，引发了对其灾害预警作用的担忧。"
-      }
-    },
-    {
-      "title": "국회 과방위 파행…이진숙 ‘5·18 토론회’ 논란으로 충돌 - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/08/19/6DEHXJSLWBAMZCDRN6OTSZHRNA/",
-      "source": "조선일보",
-      "pubDate": "Wed, 19 Aug 2026 07:23:50 GMT",
-      "image": "https://www.chosun.com/resizer/v2/TENPYEG55ZNOPPZ5EXLDOLYB6E.JPG?auth=db87894780683ab23b22fd1a55da2625ac0de56267816abd86342a8fa4cbb5e0&width=1200&height=630&focal=1267,880",
-      "summaries": {
-        "ko": "국회 과방위 파행…이진숙 ‘5·18 토론회’ 논란으로 충돌 - 조선일보",
-        "en": "국회 과방위 파행…이진숙 ‘5·18 토론회’ 논란으로 충돌 - 조선일보",
-        "zh": "국회 과방위 파행…이진숙 ‘5·18 토론회’ 논란으로 충돌 - 조선일보"
-      }
-    },
-    {
-      "title": "이 대통령, 김민석·정청래·송영길과 만찬…“더 강한 원팀 공감대” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1273691.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 19 Aug 2026 13:47:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/529/imgdb/original/2026/0819/20260819503865.webp",
-      "summaries": {
-        "ko": "이 대통령, 김민석·정청래·송영길과 만찬…“더 강한 원팀 공감대” - 한겨레",
-        "en": "이 대통령, 김민석·정청래·송영길과 만찬…“더 강한 원팀 공감대” - 한겨레",
-        "zh": "이 대통령, 김민석·정청래·송영길과 만찬…“더 강한 원팀 공감대” - 한겨레"
+        "ko": "왕이 “한반도 평화·안정 위해 해야 할 노력하겠다”···중국, 북·미 대화 중재할까 - 경향신문",
+        "en": "왕이 “한반도 평화·안정 위해 해야 할 노력하겠다”···중국, 북·미 대화 중재할까 - 경향신문",
+        "zh": "왕이 “한반도 평화·안정 위해 해야 할 노력하겠다”···중국, 북·미 대화 중재할까 - 경향신문"
       }
     },
     {
@@ -74,51 +86,51 @@
       }
     },
     {
-      "title": "인천 원창동 쿠팡물류센터 건물서 불…950명 대피 - v.daum.net",
-      "link": "https://v.daum.net/v/20260819201252573",
-      "source": "v.daum.net",
-      "pubDate": "Wed, 19 Aug 2026 11:12:52 GMT",
-      "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/19/newsy/20260819201252388ilko.jpg",
+      "title": "김민석, 첫 최고위서 “계파는 없다”…핵심 지지층 끌어안기 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/assembly/1273647.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 19 Aug 2026 11:39:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/649/imgdb/original/2026/0819/20260819503362.webp",
       "summaries": {
-        "ko": "인천 원창동 쿠팡물류센터 건물서 불…950명 대피 - v.daum.net",
-        "en": "인천 원창동 쿠팡물류센터 건물서 불…950명 대피 - v.daum.net",
-        "zh": "인천 원창동 쿠팡물류센터 건물서 불…950명 대피 - v.daum.net"
+        "ko": "김민석, 첫 최고위서 “계파는 없다”…핵심 지지층 끌어안기 - 한겨레",
+        "en": "김민석, 첫 최고위서 “계파는 없다”…핵심 지지층 끌어안기 - 한겨레",
+        "zh": "김민석, 첫 최고위서 “계파는 없다”…핵심 지지층 끌어안기 - 한겨레"
       }
     },
     {
-      "title": "장동혁 \"중진들 불출마가 총선에 도움... 李와 골프치고 내 사퇴 얘기만\" - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/08/19/N6AZHXHCJBHDHOI6MHUX645CEQ/",
+      "title": "인천 서해구 물류센터서 화재…직원 등 950명 대피 유도 - 조선일보",
+      "link": "https://www.chosun.com/national/incident/2026/08/19/22VFH653SRELBMSVVVA5CHBURQ/",
       "source": "조선일보",
-      "pubDate": "Wed, 19 Aug 2026 06:17:55 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GM4WIOJWGIZTOMBQGVSTENRZGU.jpg?auth=9024e563f8c201f859f435adf788db5ce64d68669246e3a566cd3f84d0802ad1&width=1200&height=630&focal=1814,1674",
+      "pubDate": "Wed, 19 Aug 2026 11:18:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/KG4CE4PSPZBXXJ7TIRXQA45SHA.png?auth=65bd26e5906fdfec0ec6a38219d5d740042ba576871e3692f15d4fa25c1b45dc&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "장동혁 \"중진들 불출마가 총선에 도움... 李와 골프치고 내 사퇴 얘기만\" - 조선일보",
-        "en": "장동혁 \"중진들 불출마가 총선에 도움... 李와 골프치고 내 사퇴 얘기만\" - 조선일보",
-        "zh": "장동혁 \"중진들 불출마가 총선에 도움... 李와 골프치고 내 사퇴 얘기만\" - 조선일보"
+        "ko": "인천 서해구 물류센터서 화재…직원 등 950명 대피 유도 - 조선일보",
+        "en": "인천 서해구 물류센터서 화재…직원 등 950명 대피 유도 - 조선일보",
+        "zh": "인천 서해구 물류센터서 화재…직원 등 950명 대피 유도 - 조선일보"
       }
     },
     {
-      "title": "[속보] 이 대통령, 20일 청와대서 왕이 중국 외교부장 접견 - JTBC",
-      "link": "https://news.jtbc.co.kr/article/NB12313839",
-      "source": "JTBC",
-      "pubDate": "Tue, 18 Aug 2026 05:51:00 GMT",
-      "image": "https://photo.jtbc.co.kr/news/jam_photo/202608/18/2700b6a8-83d5-4498-9352-9d529ccb340a.jpg",
+      "title": "수마 할퀸 거제·통영 복구 땀방울... 걸그룹 리센느도 5000만원 기부 - 조선일보",
+      "link": "https://www.chosun.com/national/2026/08/19/ZU63D3KEKBHCJAPOQ5GPUD47NA/",
+      "source": "조선일보",
+      "pubDate": "Wed, 19 Aug 2026 10:12:21 GMT",
+      "image": "https://www.chosun.com/resizer/v2/KEBSQ5YWNRLVTAMD7PAZUUOJ5Y.JPG?auth=0d931dc9ce2122adac46514a42f009c4908f1c0b1802d76665bfe295f1582cc2&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "[속보] 이 대통령, 20일 청와대서 왕이 중국 외교부장 접견 - JTBC",
-        "en": "[속보] 이 대통령, 20일 청와대서 왕이 중국 외교부장 접견 - JTBC",
-        "zh": "[속보] 이 대통령, 20일 청와대서 왕이 중국 외교부장 접견 - JTBC"
+        "ko": "수마 할퀸 거제·통영 복구 땀방울... 걸그룹 리센느도 5000만원 기부 - 조선일보",
+        "en": "수마 할퀸 거제·통영 복구 땀방울... 걸그룹 리센느도 5000만원 기부 - 조선일보",
+        "zh": "수마 할퀸 거제·통영 복구 땀방울... 걸그룹 리센느도 5000만원 기부 - 조선일보"
       }
     },
     {
-      "title": "[뉴스리뷰] 8월19일 다시보기",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260819223946sgv",
+      "title": "조성현도 홍장원도 결국 기소…내부고발자 뒤집은 종합특검",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260819225712p89",
       "source": "Breaking News",
-      "pubDate": "Wed, 19 Aug 2026 22:50:05 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260819/MYH20260819223946sgv.jpg",
+      "pubDate": "Wed, 19 Aug 2026 22:57:12 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260819/MYH20260819225712p89.jpg",
       "summaries": {
-        "ko": "[뉴스리뷰] 8월19일 다시보기",
-        "en": "[뉴스리뷰] 8월19일 다시보기",
-        "zh": "[뉴스리뷰] 8월19일 다시보기"
+        "ko": "조성현도 홍장원도 결국 기소…내부고발자 뒤집은 종합특검",
+        "en": "조성현도 홍장원도 결국 기소…내부고발자 뒤집은 종합특검",
+        "zh": "조성현도 홍장원도 결국 기소…내부고발자 뒤집은 종합특검"
       }
     },
     {
@@ -131,18 +143,6 @@
         "ko": "[속보] 北김여정 \"북미 지도자 간 소통 전혀 알지 못해\"",
         "en": "[속보] 北김여정 \"북미 지도자 간 소통 전혀 알지 못해\"",
         "zh": "[속보] 北김여정 \"북미 지도자 간 소통 전혀 알지 못해\""
-      }
-    },
-    {
-      "title": "[속보] 靑 \"李대통령-金·鄭·宋, 만찬서 '더 강한 원팀' 공감대\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202608192228333Y6",
-      "source": "Breaking News",
-      "pubDate": "Wed, 19 Aug 2026 22:28:33 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260819/AKR202608192228333Y6_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 靑 \"李대통령-金·鄭·宋, 만찬서 '더 강한 원팀' 공감대\"",
-        "en": "[속보] 靑 \"李대통령-金·鄭·宋, 만찬서 '더 강한 원팀' 공감대\"",
-        "zh": "[속보] 靑 \"李대통령-金·鄭·宋, 만찬서 '더 강한 원팀' 공감대\""
       }
     }
   ]
