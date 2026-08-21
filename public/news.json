@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-08-21T09:06:40.513381",
+  "lastUpdate": "2026-08-21T09:48:06.357749",
   "items": [
-    {
-      "title": "여당 법사위원 “윤 전 대통령 11일 vs 이 대통령 209일, ‘희대’의 이중잣대…청와대 제청 반려해야” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608211617001",
-      "source": "경향신문",
-      "pubDate": "Fri, 21 Aug 2026 07:17:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/21/news-p.v1.20260821.e146de10cee14075b95ceea9ebef1ada_P1.jpeg",
-      "summaries": {
-        "ko": "국회 법제사법위원회 소속 야당 의원들은 조희대 대법원장이 이재명 대통령에게 사전 협의 없이 대법관 후보를 서면 제청한 것을 '희대의 이중잣대'라 비판하며 청와대의 제청 반려와 조 대법원장의 사퇴를 촉구하고, 그를 법사위 증인으로 채택했다.",
-        "en": "Opposition lawmakers on the National Assembly's Legislation and Judiciary Committee criticized Chief Justice Cho Hee-dae's written nomination of a Supreme Court Justice candidate to President Lee Jae-myung without prior consultation as an \"unprecedented double standard,\" urging the presidential office to reject the nomination and Cho's resignation, and decided to summon him as a witness.",
-        "zh": "国会法制司法委员会的在野党议员们批评最高法院院长曹喜大在未事先协商的情况下，向李在明总统书面提名大法官候选人的行为是“史无前例的双重标准”，敦促青瓦台驳回提名并要求曹喜大辞职，并决定传唤他作为证人。"
-      }
-    },
     {
       "title": "中, '北 탄도미사일' 잇단 발사에도 \"입장 없다\" 반복 - 연합뉴스",
       "link": "https://www.yna.co.kr/view/AKR20260821141500083",
@@ -20,9 +8,33 @@
       "pubDate": "Fri, 21 Aug 2026 07:41:05 GMT",
       "image": "https://img8.yna.co.kr/photo/yna/YH/2026/08/20/PYH2026082022980001300_P4.jpg",
       "summaries": {
-        "ko": "중국이 북한의 잇단 탄도미사일 발사에 대해 왕이 외교부장의 방한 직후에도 \"새 논평이 없다\"는 입장을 반복하며 명확한 입장 표명을 회피하고 있다.",
-        "en": "China reiterated its \"no new comment\" stance on North Korea's repeated ballistic missile launches, avoiding a clear statement, even after Foreign Minister Wang Yi's visit to South Korea.",
-        "zh": "中国就朝鲜多次发射弹道导弹一事，即便是在外交部长王毅访问韩国后，也重复“没有新评论”的立场，回避明确表态。"
+        "ko": "북한이 왕이 중국 외교부장의 방한 직후를 포함해 잇따라 탄도미사일을 발사했지만, 중국은 명확한 입장 표명 없이 \"새로운 논평이 없다\"는 답변만 반복하고 있다.",
+        "en": "Despite North Korea's repeated ballistic missile launches, including one shortly after Chinese Foreign Minister Wang Yi's visit to South Korea, China has consistently refused to issue a clear statement, merely reiterating \"no new comment.\"",
+        "zh": "朝鲜近期包括在中国外交部长王毅访韩后在内的多次发射弹道导弹，但中方始终未明确表态，仅反复表示“没有新的评论”。"
+      }
+    },
+    {
+      "title": "여당 법사위원 “윤 전 대통령 11일 vs 이 대통령 209일, ‘희대’의 이중잣대…청와대 제청 반려해야” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608211617001",
+      "source": "경향신문",
+      "pubDate": "Fri, 21 Aug 2026 07:17:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/21/news-p.v1.20260821.e146de10cee14075b95ceea9ebef1ada_P1.jpeg",
+      "summaries": {
+        "ko": "여당 법사위원 “윤 전 대통령 11일 vs 이 대통령 209일, ‘희대’의 이중잣대…청와대 제청 반려해야” - 경향신문",
+        "en": "여당 법사위원 “윤 전 대통령 11일 vs 이 대통령 209일, ‘희대’의 이중잣대…청와대 제청 반려해야” - 경향신문",
+        "zh": "여당 법사위원 “윤 전 대통령 11일 vs 이 대통령 209일, ‘희대’의 이중잣대…청와대 제청 반려해야” - 경향신문"
+      }
+    },
+    {
+      "title": "[사설]비주류 총선 출마 봉쇄 중징계, 장동혁 사당화하는 국민의힘 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608211810001",
+      "source": "경향신문",
+      "pubDate": "Fri, 21 Aug 2026 09:10:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/21/news-p.v1.20260821.508d5f2071fc483fbfc408b01556c675_P1.jpeg",
+      "summaries": {
+        "ko": "[사설]비주류 총선 출마 봉쇄 중징계, 장동혁 사당화하는 국민의힘 - 경향신문",
+        "en": "[사설]비주류 총선 출마 봉쇄 중징계, 장동혁 사당화하는 국민의힘 - 경향신문",
+        "zh": "[사설]비주류 총선 출마 봉쇄 중징계, 장동혁 사당화하는 국민의힘 - 경향신문"
       }
     },
     {
@@ -38,99 +50,99 @@
       }
     },
     {
-      "title": "국힘 의총서 ‘당협위원장 재선출’ 반대…장동혁 강행할까 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1274085.html",
+      "title": "이 대통령, 통상교섭본부장에 박정성 차관보 임명 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1274041.html",
       "source": "한겨레",
-      "pubDate": "Fri, 21 Aug 2026 08:43:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0821/20260821502176.webp",
+      "pubDate": "Fri, 21 Aug 2026 08:26:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/715/425/imgdb/original/2026/0821/20260821501719.webp",
       "summaries": {
-        "ko": "국힘 의총서 ‘당협위원장 재선출’ 반대…장동혁 강행할까 - 한겨레",
-        "en": "국힘 의총서 ‘당협위원장 재선출’ 반대…장동혁 강행할까 - 한겨레",
-        "zh": "국힘 의총서 ‘당협위원장 재선출’ 반대…장동혁 강행할까 - 한겨레"
+        "ko": "이 대통령, 통상교섭본부장에 박정성 차관보 임명 - 한겨레",
+        "en": "이 대통령, 통상교섭본부장에 박정성 차관보 임명 - 한겨레",
+        "zh": "이 대통령, 통상교섭본부장에 박정성 차관보 임명 - 한겨레"
       }
     },
     {
-      "title": "이 대통령 \"국민 신뢰 확보 못하면 모든 성과 모래성처럼 쉽게 무너져\" - 대한민국 정책브리핑",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148970452",
-      "source": "대한민국 정책브리핑",
-      "pubDate": "Fri, 21 Aug 2026 08:20:50 GMT",
-      "image": "https://www.korea.kr/newsWeb/resources/attaches/2026.08/21/f8b44556a00328cf6686247e309b170c.jpg",
+      "title": "국힘 의원들 “장동혁 ‘당협 전원 교체 案’ 반대”…張, 강행하나 - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/08/21/GIZISSQA5NHINC2FM3VMLQVYTE/",
+      "source": "조선일보",
+      "pubDate": "Fri, 21 Aug 2026 06:39:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/PTOGQXB5YBNDBOOILFWWUFJK5A.jpg?auth=a7485a325e9053eda42689b7e3f01d8d43ba48718e1d43a921784b8b9c1cb044&width=1200&height=630&focal=3884,1030",
       "summaries": {
-        "ko": "이 대통령 \"국민 신뢰 확보 못하면 모든 성과 모래성처럼 쉽게 무너져\" - 대한민국 정책브리핑",
-        "en": "이 대통령 \"국민 신뢰 확보 못하면 모든 성과 모래성처럼 쉽게 무너져\" - 대한민국 정책브리핑",
-        "zh": "이 대통령 \"국민 신뢰 확보 못하면 모든 성과 모래성처럼 쉽게 무너져\" - 대한민국 정책브리핑"
+        "ko": "국힘 의원들 “장동혁 ‘당협 전원 교체 案’ 반대”…張, 강행하나 - 조선일보",
+        "en": "국힘 의원들 “장동혁 ‘당협 전원 교체 案’ 반대”…張, 강행하나 - 조선일보",
+        "zh": "국힘 의원들 “장동혁 ‘당협 전원 교체 案’ 반대”…張, 강행하나 - 조선일보"
       }
     },
     {
-      "title": "한미연합훈련 축소를 바라보는 북한의 속내는? - BBC",
-      "link": "https://www.bbc.com/korean/articles/c934098nxylo",
-      "source": "BBC",
-      "pubDate": "Fri, 21 Aug 2026 08:16:00 GMT",
-      "image": "https://ichef.bbci.co.uk/news/1200/branded_korean/eb9c/live/6e011590-9d2d-11f1-b109-879e35c24276.jpg",
+      "title": "‘시장직 걸린’ 오세훈 항소심 시작…명태균 관련 등 혐의 부인 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1274051.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 21 Aug 2026 07:02:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/678/imgdb/original/2026/0821/20260821501845.webp",
       "summaries": {
-        "ko": "한미연합훈련 축소를 바라보는 북한의 속내는? - BBC",
-        "en": "한미연합훈련 축소를 바라보는 북한의 속내는? - BBC",
-        "zh": "한미연합훈련 축소를 바라보는 북한의 속내는? - BBC"
+        "ko": "‘시장직 걸린’ 오세훈 항소심 시작…명태균 관련 등 혐의 부인 - 한겨레",
+        "en": "‘시장직 걸린’ 오세훈 항소심 시작…명태균 관련 등 혐의 부인 - 한겨레",
+        "zh": "‘시장직 걸린’ 오세훈 항소심 시작…명태균 관련 등 혐의 부인 - 한겨레"
       }
     },
     {
-      "title": "민주, '5.18 폄훼' 이진숙 의원 제명 촉구 결의안 제출 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6846387_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Fri, 21 Aug 2026 07:39:40 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/08/21/yen_20260821_2.jpg",
+      "title": "이 대통령 “한국 청렴도 31위…여야·네 편 내 편 없이 부패 청산을” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1274050.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 21 Aug 2026 07:05:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/613/imgdb/original/2026/0821/20260821501832.webp",
       "summaries": {
-        "ko": "민주, '5.18 폄훼' 이진숙 의원 제명 촉구 결의안 제출 - MBC 뉴스",
-        "en": "민주, '5.18 폄훼' 이진숙 의원 제명 촉구 결의안 제출 - MBC 뉴스",
-        "zh": "민주, '5.18 폄훼' 이진숙 의원 제명 촉구 결의안 제출 - MBC 뉴스"
+        "ko": "이 대통령 “한국 청렴도 31위…여야·네 편 내 편 없이 부패 청산을” - 한겨레",
+        "en": "이 대통령 “한국 청렴도 31위…여야·네 편 내 편 없이 부패 청산을” - 한겨레",
+        "zh": "이 대통령 “한국 청렴도 31위…여야·네 편 내 편 없이 부패 청산을” - 한겨레"
       }
     },
     {
-      "title": "의정부 아파트서 형제 사망…동생 몸에 타살 흔적 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260821150702yS3",
-      "source": "연합뉴스TV",
-      "pubDate": "Fri, 21 Aug 2026 06:07:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260821/AKR20260821150702yS3_01_i.jpg",
+      "title": "[속보]교육교부금 ‘내국세 20.79%’ 연동 폐지…성장률·학령인구 반영 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608211110001",
+      "source": "경향신문",
+      "pubDate": "Fri, 21 Aug 2026 06:12:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/21/news-p.v1.20260821.f320ce2fa8114ad79d6548a302e6e1ac_P1.jpeg",
       "summaries": {
-        "ko": "의정부 아파트서 형제 사망…동생 몸에 타살 흔적 - 연합뉴스TV",
-        "en": "의정부 아파트서 형제 사망…동생 몸에 타살 흔적 - 연합뉴스TV",
-        "zh": "의정부 아파트서 형제 사망…동생 몸에 타살 흔적 - 연합뉴스TV"
+        "ko": "[속보]교육교부금 ‘내국세 20.79%’ 연동 폐지…성장률·학령인구 반영 - 경향신문",
+        "en": "[속보]교육교부금 ‘내국세 20.79%’ 연동 폐지…성장률·학령인구 반영 - 경향신문",
+        "zh": "[속보]교육교부금 ‘내국세 20.79%’ 연동 폐지…성장률·학령인구 반영 - 경향신문"
       }
     },
     {
-      "title": "尹 \"대선 후보 돈 넘쳐나 비용 면제 필요 없어\" '명태균 여론조사' 항소심 시작 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6846349_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Fri, 21 Aug 2026 04:35:03 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/21/joo260821_10.jpg",
+      "title": "정점식, 훈련 축소 관련 \"李대통령 美에 패싱당하고 환호작약\" - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/08/21/6HECONDYUVH7ZBATLTAOZRLZ6M/",
+      "source": "조선일보",
+      "pubDate": "Fri, 21 Aug 2026 01:27:07 GMT",
+      "image": "https://www.chosun.com/resizer/v2/BKPSAOWRAJEEPC54XCY7RGLVJY.jpg?auth=125585afc04b3b1a26985c7b51b2a67169f2697b97cb0ff6ec49fb47673d108f&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "尹 \"대선 후보 돈 넘쳐나 비용 면제 필요 없어\" '명태균 여론조사' 항소심 시작 - MBC 뉴스",
-        "en": "尹 \"대선 후보 돈 넘쳐나 비용 면제 필요 없어\" '명태균 여론조사' 항소심 시작 - MBC 뉴스",
-        "zh": "尹 \"대선 후보 돈 넘쳐나 비용 면제 필요 없어\" '명태균 여론조사' 항소심 시작 - MBC 뉴스"
+        "ko": "정점식, 훈련 축소 관련 \"李대통령 美에 패싱당하고 환호작약\" - 조선일보",
+        "en": "정점식, 훈련 축소 관련 \"李대통령 美에 패싱당하고 환호작약\" - 조선일보",
+        "zh": "정점식, 훈련 축소 관련 \"李대통령 美에 패싱당하고 환호작약\" - 조선일보"
       }
     },
     {
-      "title": "법사위, 31일 현안질의…與, 조희대 증인 채택",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260821180313rfU",
+      "title": "[속보] 이 대통령, 거제·통영 특별재난지역 선포",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260821181555cdH",
       "source": "Breaking News",
-      "pubDate": "Fri, 21 Aug 2026 18:03:14 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260821/MYH20260821180313rfU.jpg",
+      "pubDate": "Fri, 21 Aug 2026 18:15:58 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260821/MYH20260821181555cdH.jpg",
       "summaries": {
-        "ko": "법사위, 31일 현안질의…與, 조희대 증인 채택",
-        "en": "법사위, 31일 현안질의…與, 조희대 증인 채택",
-        "zh": "법사위, 31일 현안질의…與, 조희대 증인 채택"
+        "ko": "[속보] 이 대통령, 거제·통영 특별재난지역 선포",
+        "en": "[속보] 이 대통령, 거제·통영 특별재난지역 선포",
+        "zh": "[속보] 이 대통령, 거제·통영 특별재난지역 선포"
       }
     },
     {
-      "title": "[속보] 삼성전자 \"올해 주주환원 잔여재원 최대 110조\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260821174226tlj",
+      "title": "[속보] 이 대통령, '호우피해' 거제·통영 특별재난지역 선포",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260821181414WQj",
       "source": "Breaking News",
-      "pubDate": "Fri, 21 Aug 2026 17:42:28 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260821/MYH20260821174226tlj.jpg",
+      "pubDate": "Fri, 21 Aug 2026 18:14:15 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260821/AKR20260821181414WQj_01_i.jpg",
       "summaries": {
-        "ko": "[속보] 삼성전자 \"올해 주주환원 잔여재원 최대 110조\"",
-        "en": "[속보] 삼성전자 \"올해 주주환원 잔여재원 최대 110조\"",
-        "zh": "[속보] 삼성전자 \"올해 주주환원 잔여재원 최대 110조\""
+        "ko": "[속보] 이 대통령, '호우피해' 거제·통영 특별재난지역 선포",
+        "en": "[속보] 이 대통령, '호우피해' 거제·통영 특별재난지역 선포",
+        "zh": "[속보] 이 대통령, '호우피해' 거제·통영 특별재난지역 선포"
       }
     }
   ]
