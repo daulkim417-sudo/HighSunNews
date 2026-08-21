@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-21T16:45:45.469629",
+  "lastUpdate": "2026-08-21T17:08:30.471167",
   "items": [
     {
       "title": "이 대통령, 2심 무죄 노웅래에 “선배님, 죄송합니다”···“정치검찰 패악질 편승해 읍참마속했다” 사죄 - 경향신문",
@@ -8,9 +8,9 @@
       "pubDate": "Fri, 21 Aug 2026 12:57:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/08/21/news-p.v1.20240227.9fdc0b4685774b5283e64a460f235515_P1.jpg",
       "summaries": {
-        "ko": "이재명 대표는 정치자금법 위반 혐의로 2심 무죄를 선고받은 노웅래 전 의원에게 '정치검찰의 패악질에 편승해 읍참마속할 수밖에 없었다'며 뒤늦은 사과를 전했고, 김민석 대표도 검찰의 조작 기소를 비판했다.",
-        "en": "Lee Jae-myung belatedly apologized to former lawmaker Noh Woong-rae, who was acquitted in his second trial for political funding law violations, stating he \"had no choice but to sacrifice him due to the political prosecution's malice,\" a sentiment echoed by Kim Min-seok who criticized the prosecution's \"fabricated indictment.\"",
-        "zh": "李在明就前议员卢雄来在政治资金法违规案二审中被判无罪一事，向其致以“因政治检察官的恶行而不得不忍痛割爱”的迟来歉意，金民锡也批评检方是“捏造起诉”。"
+        "ko": "이재명 대통령이 2심에서 무죄를 선고받은 노웅래 전 의원에게 \"정치검찰의 패악질에 편승해 읍참마속할 수밖에 없었다\"며 뒤늦은 사죄를 표하고, 김민석 대표 또한 검찰의 '조작기소'를 강하게 비판했다.",
+        "en": "President Lee Jae-myung belatedly apologized to former lawmaker Noh Woong-rae, who was acquitted in the second trial, stating he had to \"sacrifice a pawn to win the battle\" by excluding him from the nomination due to political prosecution, while Democratic Party leader Kim Min-seok also strongly criticized the prosecution's alleged \"fabricated indictment.\"",
+        "zh": "韩国总统李在明向前议员卢雄来在二审中被判无罪一事表示迟来的歉意，称当时在“政治检察官的恶行”下不得不“挥泪斩马谡”将其排除在公推之外，同时民主党代表金民奭也强烈批评了检方的“捏造起诉”。"
       }
     },
     {
@@ -20,9 +20,9 @@
       "pubDate": "Fri, 21 Aug 2026 13:09:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/850/577/imgdb/original/2026/0821/20260821502382.webp",
       "summaries": {
-        "ko": "이혼 과정서 실토된 ‘노태우 비자금’ 수사 착수…30여년 만에 봉인 풀린다 - 한겨레",
-        "en": "이혼 과정서 실토된 ‘노태우 비자금’ 수사 착수…30여년 만에 봉인 풀린다 - 한겨레",
-        "zh": "이혼 과정서 실토된 ‘노태우 비자금’ 수사 착수…30여년 만에 봉인 풀린다 - 한겨레"
+        "ko": "최태원-노소영 이혼 소송에서 드러난 노태우 전 대통령의 비자금 의혹과 관련해 검찰이 30여 년 만에 노 전 대통령 일가의 범죄수익 은닉 및 조세포탈 혐의로 강제 수사에 착수했다.",
+        "en": "Prosecutors have launched their first forced investigation in over 30 years into former President Roh Tae-woo's family for alleged concealment of criminal proceeds and tax evasion related to his slush fund, which surfaced during the divorce lawsuit between Chey Tae-won and Roh So-young.",
+        "zh": "针对崔泰源与卢素英离婚诉讼中曝光的前总统卢泰愚的秘密资金疑惑，检方时隔30多年首次对卢泰愚家族涉嫌隐匿犯罪收益及逃税展开强制搜查。"
       }
     },
     {
@@ -38,63 +38,39 @@
       }
     },
     {
-      "title": "한미연합훈련 축소를 바라보는 북한의 속내는? - BBC",
-      "link": "https://www.bbc.com/korean/articles/c934098nxylo",
-      "source": "BBC",
-      "pubDate": "Fri, 21 Aug 2026 08:17:13 GMT",
-      "image": "https://ichef.bbci.co.uk/news/1200/branded_korean/eb9c/live/6e011590-9d2d-11f1-b109-879e35c24276.jpg",
+      "title": "미래대응기금 신설, 청년·성장동력·지방·교육에 선제적으로 투자 - 대한민국 정책브리핑",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148970426",
+      "source": "대한민국 정책브리핑",
+      "pubDate": "Fri, 21 Aug 2026 07:46:25 GMT",
+      "image": "https://www.korea.kr/newsWeb/resources/attaches/2026.08/21/bcce65ee1f56fbbf3fc4e4e4a471e60a.jpg",
       "summaries": {
-        "ko": "한미연합훈련 축소에 대해 북한이 겉으로는 무관심을 표하고 미사일을 발사했지만, 이는 수십 년간 외쳐온 '미제 타도'와 주한미군 철수라는 궁극적 목표를 향한 속내를 드러낸 것으로 분석된다.",
-        "en": "Despite North Korea's outwardly indifferent reaction and missile launches following the reduction of US-ROK joint exercises, it is analyzed as reflecting their underlying intention rooted in the decades-long call to 'destroy US imperialism' and the ultimate goal of US troop withdrawal.",
-        "zh": "尽管朝鲜表面上对韩美联合军演缩减表示不屑并试射导弹，但分析认为这反映了其数十年来“打倒美帝”口号和最终撤走驻韩美军的深层意图。"
+        "ko": "미래대응기금 신설, 청년·성장동력·지방·교육에 선제적으로 투자 - 대한민국 정책브리핑",
+        "en": "미래대응기금 신설, 청년·성장동력·지방·교육에 선제적으로 투자 - 대한민국 정책브리핑",
+        "zh": "미래대응기금 신설, 청년·성장동력·지방·교육에 선제적으로 투자 - 대한민국 정책브리핑"
       }
     },
     {
-      "title": "“실종 장미란 씨 프로파일링 자료, 입력 후 삭제”…경찰 수사 확대 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8643053",
-      "source": "KBS 뉴스",
-      "pubDate": "Fri, 21 Aug 2026 11:26:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/08/21/20260821_2jddp6.jpg",
+      "title": "중수청 수사관에 검사 100여명 지원 - 조선일보",
+      "link": "https://www.chosun.com/national/court_law/2026/08/22/CZXWVJPB5NG4JMQYOWS5IVZWPA/",
+      "source": "조선일보",
+      "pubDate": "Fri, 21 Aug 2026 15:42:00 GMT",
+      "image": "https://www.chosun.com/pf/resources/images/thumb_meta.png?d=2353",
       "summaries": {
-        "ko": "“실종 장미란 씨 프로파일링 자료, 입력 후 삭제”…경찰 수사 확대 - KBS 뉴스",
-        "en": "“실종 장미란 씨 프로파일링 자료, 입력 후 삭제”…경찰 수사 확대 - KBS 뉴스",
-        "zh": "“실종 장미란 씨 프로파일링 자료, 입력 후 삭제”…경찰 수사 확대 - KBS 뉴스"
+        "ko": "중수청 수사관에 검사 100여명 지원 - 조선일보",
+        "en": "중수청 수사관에 검사 100여명 지원 - 조선일보",
+        "zh": "중수청 수사관에 검사 100여명 지원 - 조선일보"
       }
     },
     {
-      "title": "‘찬밥 신세’ 예상했는데 임은정 등 간부급 몰려···중수청 지원 검사 100명 넘고, 수사관은 82% 채웠다 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608211516011",
-      "source": "경향신문",
-      "pubDate": "Fri, 21 Aug 2026 06:16:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/21/news-p.v1.20250908.2f7eb622cc31481aa1e143d3c0205130_P1.jpeg",
-      "summaries": {
-        "ko": "‘찬밥 신세’ 예상했는데 임은정 등 간부급 몰려···중수청 지원 검사 100명 넘고, 수사관은 82% 채웠다 - 경향신문",
-        "en": "‘찬밥 신세’ 예상했는데 임은정 등 간부급 몰려···중수청 지원 검사 100명 넘고, 수사관은 82% 채웠다 - 경향신문",
-        "zh": "‘찬밥 신세’ 예상했는데 임은정 등 간부급 몰려···중수청 지원 검사 100명 넘고, 수사관은 82% 채웠다 - 경향신문"
-      }
-    },
-    {
-      "title": "이 대통령 \"부패 청산, 내 편 네 편 있을 수 없어…흔들림 없이 추진\" - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260821191855Hjy",
-      "source": "연합뉴스TV",
-      "pubDate": "Fri, 21 Aug 2026 10:18:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260821/AKR20260821191855Hjy_01_i.jpg",
-      "summaries": {
-        "ko": "이 대통령 \"부패 청산, 내 편 네 편 있을 수 없어…흔들림 없이 추진\" - 연합뉴스TV",
-        "en": "이 대통령 \"부패 청산, 내 편 네 편 있을 수 없어…흔들림 없이 추진\" - 연합뉴스TV",
-        "zh": "이 대통령 \"부패 청산, 내 편 네 편 있을 수 없어…흔들림 없이 추진\" - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "이 대통령, 집중호우 피해 거제·통영 특별재난지역 선포 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1274094.html",
+      "title": "트럼프 지시에 한·미 연합훈련 첫 조기종료…오늘까지 방어작전만 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1274072.html",
       "source": "한겨레",
-      "pubDate": "Fri, 21 Aug 2026 13:10:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/618/404/imgdb/original/2026/0821/20260821502283.webp",
+      "pubDate": "Fri, 21 Aug 2026 08:20:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0821/53_17872989537532_20260821502041.webp",
       "summaries": {
-        "ko": "이 대통령, 집중호우 피해 거제·통영 특별재난지역 선포 - 한겨레",
-        "en": "이 대통령, 집중호우 피해 거제·통영 특별재난지역 선포 - 한겨레",
-        "zh": "이 대통령, 집중호우 피해 거제·통영 특별재난지역 선포 - 한겨레"
+        "ko": "트럼프 지시에 한·미 연합훈련 첫 조기종료…오늘까지 방어작전만 - 한겨레",
+        "en": "트럼프 지시에 한·미 연합훈련 첫 조기종료…오늘까지 방어작전만 - 한겨레",
+        "zh": "트럼프 지시에 한·미 연합훈련 첫 조기종료…오늘까지 방어작전만 - 한겨레"
       }
     },
     {
@@ -110,15 +86,39 @@
       }
     },
     {
-      "title": "주말 폭염 속 곳곳 비…태풍 '사우델' 영향 촉각",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260822004233NKW",
-      "source": "Breaking News",
-      "pubDate": "Sat, 22 Aug 2026 00:42:34 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260821/MYH20260822004233NKW.png",
+      "title": "이 대통령 “반부패보다 헌정질서 파괴가 더 심각…가짜뉴스 횡행” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1274109.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 21 Aug 2026 13:09:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/804/580/imgdb/original/2026/0821/20260821502433.webp",
       "summaries": {
-        "ko": "주말 폭염 속 곳곳 비…태풍 '사우델' 영향 촉각",
-        "en": "주말 폭염 속 곳곳 비…태풍 '사우델' 영향 촉각",
-        "zh": "주말 폭염 속 곳곳 비…태풍 '사우델' 영향 촉각"
+        "ko": "이 대통령 “반부패보다 헌정질서 파괴가 더 심각…가짜뉴스 횡행” - 한겨레",
+        "en": "이 대통령 “반부패보다 헌정질서 파괴가 더 심각…가짜뉴스 횡행” - 한겨레",
+        "zh": "이 대통령 “반부패보다 헌정질서 파괴가 더 심각…가짜뉴스 횡행” - 한겨레"
+      }
+    },
+    {
+      "title": "이 대통령, 집중호우 피해 거제·통영 특별재난지역 선포 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1274094.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 21 Aug 2026 13:10:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/618/404/imgdb/original/2026/0821/20260821502283.webp",
+      "summaries": {
+        "ko": "이 대통령, 집중호우 피해 거제·통영 특별재난지역 선포 - 한겨레",
+        "en": "이 대통령, 집중호우 피해 거제·통영 특별재난지역 선포 - 한겨레",
+        "zh": "이 대통령, 집중호우 피해 거제·통영 특별재난지역 선포 - 한겨레"
+      }
+    },
+    {
+      "title": "서울 송파구 다세대주택서 화재…5명 대피·8명 구조",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260822014513Wzb",
+      "source": "Breaking News",
+      "pubDate": "Sat, 22 Aug 2026 01:45:16 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260821/AKR20260822014513Wzb_01_i.jpg",
+      "summaries": {
+        "ko": "21일 밤 서울 송파구 석촌동의 한 다세대주택에서 불이 나 인명 피해 없이 5명이 자력 대피하고 8명이 구조되었으며, 소방당국이 화재 원인을 조사 중이다.",
+        "en": "A fire broke out in a multi-family house in Seokchon-dong, Songpa-gu, Seoul on the night of the 21st, leading to 5 people self-evacuating and 8 being rescued without any casualties, and authorities are currently investigating the cause of the fire.",
+        "zh": "21日晚，首尔松坡区石村洞一栋多户住宅发生火灾，5人自行疏散，8人获救，无人员伤亡，消防部门正在调查火灾原因。"
       }
     }
   ]
