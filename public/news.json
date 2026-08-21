@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-08-21T20:55:19.738951",
+  "lastUpdate": "2026-08-21T21:11:39.114964",
   "items": [
-    {
-      "title": "[뉴스 동서남북] 김여정 연이틀 담화…미한 균열 노린 ‘갈라치기’ - VOA 한국어 홈페이지",
-      "link": "https://www.voakorea.com/a/nkor-across-nation-082126/8188948.html",
-      "source": "VOA 한국어 홈페이지",
-      "pubDate": "Fri, 21 Aug 2026 16:39:34 GMT",
-      "image": "https://gdb.voanews.com/01630000-0aff-0242-95db-08da82135c36_cx0_cy10_cw0_w1200_h630.jpg",
-      "summaries": {
-        "ko": "북한 김여정 노동당 총무부장이 연이틀 담화를 통해 미한 균열을 노린 '갈라치기'를 시도하고 한국 정부를 비난하며 김정은 위원장의 '정치적 공간'을 만들려 했으며, 이에 한국 정부는 유감을 표명했다.",
-        "en": "North Korea's Kim Yo Jong issued consecutive statements, attempting to drive a wedge between the U.S. and South Korea, criticize the South Korean government, and create \"political space\" for Kim Jong Un, prompting regret from the South Korean government.",
-        "zh": "朝鲜劳动党总务部部长金与正连续两天发表谈话，旨在离间美韩关系、批评韩国政府，并为金正恩委员长制造“政治空间”，对此韩国政府表示遗憾。"
-      }
-    },
     {
       "title": "與 “법원행정처 집행업무만 하게 강등”… 손봉기 제청 반려도 요청 - 동아일보",
       "link": "https://www.donga.com/news/Politics/article/all/20260821/134522970/2",
@@ -26,15 +14,27 @@
       }
     },
     {
+      "title": "[뉴스 동서남북] 김여정 연이틀 담화…미한 균열 노린 ‘갈라치기’ - VOA 한국어 홈페이지",
+      "link": "https://www.voakorea.com/a/nkor-across-nation-082126/8188948.html",
+      "source": "VOA 한국어 홈페이지",
+      "pubDate": "Fri, 21 Aug 2026 16:39:34 GMT",
+      "image": "https://gdb.voanews.com/01630000-0aff-0242-95db-08da82135c36_cx0_cy10_cw0_w1200_h630.jpg",
+      "summaries": {
+        "ko": "[뉴스 동서남북] 김여정 연이틀 담화…미한 균열 노린 ‘갈라치기’ - VOA 한국어 홈페이지",
+        "en": "[뉴스 동서남북] 김여정 연이틀 담화…미한 균열 노린 ‘갈라치기’ - VOA 한국어 홈페이지",
+        "zh": "[뉴스 동서남북] 김여정 연이틀 담화…미한 균열 노린 ‘갈라치기’ - VOA 한국어 홈페이지"
+      }
+    },
+    {
       "title": "이혼 과정서 실토된 ‘노태우 비자금’ 수사 착수…30여년 만에 봉인 풀린다 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/society_general/1274104.html",
       "source": "한겨레",
       "pubDate": "Fri, 21 Aug 2026 16:05:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/850/577/imgdb/original/2026/0821/20260821502382.webp",
       "summaries": {
-        "ko": "최태원-노소영 이혼소송에서 불거진 '노태우 비자금' 의혹과 관련해 검찰이 노 전 대통령 일가의 비자금 은닉 및 조세포탈 혐의로 자택 등을 압수수색하며 30여년 만에 강제수사에 착수했다.",
-        "en": "Prosecutors have launched a forced investigation, including search and seizure, into allegations of former President Roh Tae-woo's family concealing slush funds and evading taxes, following revelations during the Choi Tae-won-Roh Soh-yeong divorce lawsuit, marking the first such action in over 30 years.",
-        "zh": "围绕崔泰源与卢素英离婚诉讼中曝出的“卢泰愚秘密资金”疑惑，检方已对卢泰愚前总统家族涉嫌隐匿秘密资金及逃税展开强制调查，包括搜查其住所等，这是30多年来的首次此类行动。"
+        "ko": "이혼 과정서 실토된 ‘노태우 비자금’ 수사 착수…30여년 만에 봉인 풀린다 - 한겨레",
+        "en": "이혼 과정서 실토된 ‘노태우 비자금’ 수사 착수…30여년 만에 봉인 풀린다 - 한겨레",
+        "zh": "이혼 과정서 실토된 ‘노태우 비자금’ 수사 착수…30여년 만에 봉인 풀린다 - 한겨레"
       }
     },
     {
@@ -56,9 +56,9 @@
       "pubDate": "Fri, 21 Aug 2026 10:18:00 GMT",
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260821/AKR20260821191855Hjy_01_i.jpg",
       "summaries": {
-        "ko": "이 대통령 \"부패 청산, 내 편 네 편 있을 수 없어…흔들림 없이 추진\" - 연합뉴스TV",
-        "en": "이 대통령 \"부패 청산, 내 편 네 편 있을 수 없어…흔들림 없이 추진\" - 연합뉴스TV",
-        "zh": "이 대통령 \"부패 청산, 내 편 네 편 있을 수 없어…흔들림 없이 추진\" - 연합뉴스TV"
+        "ko": "이재명 대통령은 제1차 반부패정책협의회에서 부패 청산에는 내 편 네 편이 있을 수 없음을 강조하며 국민 신뢰 확보를 위해 AI를 활용한 비리 적발 및 투명성 강화를 지시했다.",
+        "en": "President Lee Jae-myung, at the 1st Anti-Corruption Policy Council, emphasized that anti-corruption efforts must be non-partisan and ordered the use of AI for detecting irregularities and enhancing transparency to secure public trust.",
+        "zh": "李在明总统在第一次反腐败政策协议会上强调反腐败工作不分党派，并指示利用人工智能发现违规行为和加强透明度以赢得公众信任。"
       }
     },
     {
@@ -74,27 +74,27 @@
       }
     },
     {
-      "title": "이 대통령, 집중호우 피해 거제·통영 특별재난지역 선포 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1274094.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 21 Aug 2026 13:10:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/618/404/imgdb/original/2026/0821/20260821502283.webp",
+      "title": "초등생 발등 밟고 지나간 차량 2심도 뺑소니 ‘무죄’ - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8642915",
+      "source": "KBS 뉴스",
+      "pubDate": "Fri, 21 Aug 2026 08:27:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/08/21/20260821_rYEW4D.jpg",
       "summaries": {
-        "ko": "이재명 대통령이 최근 집중호우로 큰 피해를 입은 경남 거제시와 통영시 일부 지역을 특별재난지역으로 선포하여 복구 지원과 주민 혜택을 확대하기로 했다.",
-        "en": "President Lee Jae-myung declared Geoje City and parts of Tongyeong City in Gyeongnam as special disaster zones due to severe damage from recent heavy rainfall, expanding recovery support and resident benefits.",
-        "zh": "李在明总统宣布，庆尚南道巨济市和统营市部分地区因近期强降雨遭受严重损失，被指定为特别灾难区，以扩大恢复支持和居民福利。"
+        "ko": "초등생 발등 밟고 지나간 차량 2심도 뺑소니 ‘무죄’ - KBS 뉴스",
+        "en": "초등생 발등 밟고 지나간 차량 2심도 뺑소니 ‘무죄’ - KBS 뉴스",
+        "zh": "초등생 발등 밟고 지나간 차량 2심도 뺑소니 ‘무죄’ - KBS 뉴스"
       }
     },
     {
-      "title": "‘제주 실종’ 허위 종결한 경찰... 수색 지원 자료도 삭제했다 - 조선일보",
-      "link": "https://www.chosun.com/national/regional/2026/08/21/VUFZWIAU25ENPCMMRDHA2ZXV3A/",
-      "source": "조선일보",
-      "pubDate": "Fri, 21 Aug 2026 13:17:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GAUQFLG4UZDI5JHSC26SPJGDVI.jpg?auth=3a6383141fcdd4f84b9e8166ec581b9a4f127c919cd50944431d86741b7cddf1&width=764&height=401&smart=true",
+      "title": "아이스박스 타고 닷새 표류… 멕시코서 실종된 어부 '극적 구조'",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260821151152Yok",
+      "source": "Breaking News",
+      "pubDate": "Sat, 22 Aug 2026 06:02:03 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260821/AKR20260821151152Yok_01_i.jpg",
       "summaries": {
-        "ko": "‘제주 실종’ 허위 종결한 경찰... 수색 지원 자료도 삭제했다 - 조선일보",
-        "en": "‘제주 실종’ 허위 종결한 경찰... 수색 지원 자료도 삭제했다 - 조선일보",
-        "zh": "‘제주 실종’ 허위 종결한 경찰... 수색 지원 자료도 삭제했다 - 조선일보"
+        "ko": "아이스박스 타고 닷새 표류… 멕시코서 실종된 어부 '극적 구조'",
+        "en": "아이스박스 타고 닷새 표류… 멕시코서 실종된 어부 '극적 구조'",
+        "zh": "아이스박스 타고 닷새 표류… 멕시코서 실종된 어부 '극적 구조'"
       }
     },
     {
