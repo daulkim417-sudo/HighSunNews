@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-08-21T11:34:47.902617",
+  "lastUpdate": "2026-08-21T11:56:41.343338",
   "items": [
-    {
-      "title": "법사위 여당 간사 김승원, ‘조희대 논란’에 “법원행정처 폐지해야” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1274052.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 21 Aug 2026 07:21:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/740/493/imgdb/original/2026/0821/20260821501896.webp",
-      "summaries": {
-        "ko": "국회 법제사법위원회 여당 간사인 김승원 더불어민주당 의원이 조희대 대법원장 논란과 관련하여 '제왕적 대법원장' 체제를 해체하기 위한 사법개혁 방안으로 법원행정처 폐지와 법원사무처로의 전환을 제안했다.",
-        "en": "Democratic Party lawmaker Kim Seung-won, a leading member of the National Assembly's Legislation and Judiciary Committee, proposed abolishing the Court Administration Office and replacing it with the Court Secretariat as a judicial reform to dismantle the 'imperial Chief Justice' system, following the controversy surrounding Chief Justice Cho Hee-dae.",
-        "zh": "韩国国会法制司法委员会执政党干事、共同民主党议员金承源，针对曹喜大法院长争议，提出废除法院行政处并改设法院事务处，作为一项司法改革，旨在瓦解‘帝王式大法院长’体制。"
-      }
-    },
     {
       "title": "노태우 비자금 수사, 노소영·최태원 재산분할에 영향 끼치나 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/society_general/1274060.html",
@@ -20,9 +8,9 @@
       "pubDate": "Fri, 21 Aug 2026 07:51:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/900/488/imgdb/original/2026/0821/20260821501949.webp",
       "summaries": {
-        "ko": "노태우 전 대통령의 비자금 수사가 시작되었으나, 법조계에서는 대법원이 이미 해당 300억원을 불법 자금으로 판단하여 재산 분할 대상에서 제외했으므로 최태원·노소영 재산분할 소송에는 별다른 영향이 없을 것이라는 전망이 지배적이다.",
-        "en": "Although an investigation into former President Roh Tae-woo's slush fund has begun, legal experts widely expect it will not significantly affect the property division in the Chey Tae-won and Noh So-young divorce lawsuit, as the Supreme Court has already ruled the 30 billion won to be illegal funds and thus excluded it from divisible assets.",
-        "zh": "尽管前总统卢泰愚的秘密资金调查已经开始，但法律界普遍预测，鉴于大法院已将该300亿韩元认定为非法资金并排除在财产分割对象之外，因此这不会对崔泰源和卢素英的财产分割诉讼产生重大影响。"
+        "ko": "노태우 비자금 수사, 노소영·최태원 재산분할에 영향 끼치나 - 한겨레",
+        "en": "노태우 비자금 수사, 노소영·최태원 재산분할에 영향 끼치나 - 한겨레",
+        "zh": "노태우 비자금 수사, 노소영·최태원 재산분할에 영향 끼치나 - 한겨레"
       }
     },
     {
@@ -50,27 +38,39 @@
       }
     },
     {
-      "title": "장동혁 추진 ‘당협 물갈이’ 제동…국힘 의총서 “기존 방식대로” - 동아일보",
+      "title": "의총 존중이냐 밀어붙이기냐…24일 장동혁의 선택에 쏠린 눈 - 동아일보",
       "link": "https://www.donga.com/news/Politics/article/all/20260821/134519922/1",
       "source": "동아일보",
       "pubDate": "Fri, 21 Aug 2026 10:29:00 GMT",
       "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/21/134521994.1.jpg",
       "summaries": {
-        "ko": "장동혁 추진 ‘당협 물갈이’ 제동…국힘 의총서 “기존 방식대로” - 동아일보",
-        "en": "장동혁 추진 ‘당협 물갈이’ 제동…국힘 의총서 “기존 방식대로” - 동아일보",
-        "zh": "장동혁 추진 ‘당협 물갈이’ 제동…국힘 의총서 “기존 방식대로” - 동아일보"
+        "ko": "의총 존중이냐 밀어붙이기냐…24일 장동혁의 선택에 쏠린 눈 - 동아일보",
+        "en": "의총 존중이냐 밀어붙이기냐…24일 장동혁의 선택에 쏠린 눈 - 동아일보",
+        "zh": "의총 존중이냐 밀어붙이기냐…24일 장동혁의 선택에 쏠린 눈 - 동아일보"
       }
     },
     {
-      "title": "오세훈 항소심 첫 재판 \"무죄 밝히겠다\"...10월 말 선고할 듯 - 조선일보",
-      "link": "https://www.chosun.com/national/court_law/2026/08/21/3M6YHA7WJJDTNBTZ2RHNUEZZYM/",
+      "title": "與, 대법원장 탄핵 외치더니... 손발 법원행정처까지 \"없애자\" - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/08/21/46MK3GZMHRH4FKRV4BELR4FH6Q/",
       "source": "조선일보",
-      "pubDate": "Fri, 21 Aug 2026 06:39:17 GMT",
-      "image": "https://www.chosun.com/resizer/v2/WTSVE4Y4BBJGZEOYITX7IMEZOE.jpg?auth=6db0360776f36ffd7185e53126e2b35103937b81848a9028875875a99aaea870&width=1200&height=630&focal=970,610",
+      "pubDate": "Fri, 21 Aug 2026 07:06:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/XIPUFRQCDND77MDVNWMWYX5BGQ.jpg?auth=554aba1ae63cc1f4ae3e1fff027457489a30477ea6e33abedd43a2108830c22d&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "오세훈 항소심 첫 재판 \"무죄 밝히겠다\"...10월 말 선고할 듯 - 조선일보",
-        "en": "오세훈 항소심 첫 재판 \"무죄 밝히겠다\"...10월 말 선고할 듯 - 조선일보",
-        "zh": "오세훈 항소심 첫 재판 \"무죄 밝히겠다\"...10월 말 선고할 듯 - 조선일보"
+        "ko": "與, 대법원장 탄핵 외치더니... 손발 법원행정처까지 \"없애자\" - 조선일보",
+        "en": "與, 대법원장 탄핵 외치더니... 손발 법원행정처까지 \"없애자\" - 조선일보",
+        "zh": "與, 대법원장 탄핵 외치더니... 손발 법원행정처까지 \"없애자\" - 조선일보"
+      }
+    },
+    {
+      "title": "‘시장직 걸린’ 오세훈 항소심 시작…명태균 관련 등 혐의 부인 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1274051.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 21 Aug 2026 07:31:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/678/imgdb/original/2026/0821/20260821501845.webp",
+      "summaries": {
+        "ko": "‘시장직 걸린’ 오세훈 항소심 시작…명태균 관련 등 혐의 부인 - 한겨레",
+        "en": "‘시장직 걸린’ 오세훈 항소심 시작…명태균 관련 등 혐의 부인 - 한겨레",
+        "zh": "‘시장직 걸린’ 오세훈 항소심 시작…명태균 관련 등 혐의 부인 - 한겨레"
       }
     },
     {
@@ -86,39 +86,39 @@
       }
     },
     {
-      "title": "이 대통령 “한국 청렴도 31위…여야·네 편 내 편 없이 부패 청산을” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1274050.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 21 Aug 2026 07:05:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/613/imgdb/original/2026/0821/20260821501832.webp",
+      "title": "조현준 효성 회장 “동생 처벌 원한다”…12년만에 법정서 증언 - 매일경제",
+      "link": "https://www.mk.co.kr/news/society/12133307",
+      "source": "매일경제",
+      "pubDate": "Fri, 21 Aug 2026 07:25:48 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202608/21/news-p.v1.20260821.4b43dbcc8104432c8a124eb208c3b21a_R.png",
       "summaries": {
-        "ko": "이 대통령 “한국 청렴도 31위…여야·네 편 내 편 없이 부패 청산을” - 한겨레",
-        "en": "이 대통령 “한국 청렴도 31위…여야·네 편 내 편 없이 부패 청산을” - 한겨레",
-        "zh": "이 대통령 “한국 청렴도 31위…여야·네 편 내 편 없이 부패 청산을” - 한겨레"
+        "ko": "조현준 효성 회장 “동생 처벌 원한다”…12년만에 법정서 증언 - 매일경제",
+        "en": "조현준 효성 회장 “동생 처벌 원한다”…12년만에 법정서 증언 - 매일경제",
+        "zh": "조현준 효성 회장 “동생 처벌 원한다”…12년만에 법정서 증언 - 매일경제"
       }
     },
     {
-      "title": "제주 실종 여성 관련 2차 가해…경찰 전담팀 구성 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260821171904yW7",
-      "source": "연합뉴스TV",
-      "pubDate": "Fri, 21 Aug 2026 08:19:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260821/AKR20260821171904yW7_01_i.jpg",
+      "title": "[속보]교육교부금 ‘내국세 20.79%’ 연동 폐지…성장률·학령인구 반영 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608211110001",
+      "source": "경향신문",
+      "pubDate": "Fri, 21 Aug 2026 02:10:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/21/news-p.v1.20260821.f320ce2fa8114ad79d6548a302e6e1ac_P1.jpeg",
       "summaries": {
-        "ko": "제주 실종 여성 관련 2차 가해…경찰 전담팀 구성 - 연합뉴스TV",
-        "en": "제주 실종 여성 관련 2차 가해…경찰 전담팀 구성 - 연합뉴스TV",
-        "zh": "제주 실종 여성 관련 2차 가해…경찰 전담팀 구성 - 연합뉴스TV"
+        "ko": "[속보]교육교부금 ‘내국세 20.79%’ 연동 폐지…성장률·학령인구 반영 - 경향신문",
+        "en": "[속보]교육교부금 ‘내국세 20.79%’ 연동 폐지…성장률·학령인구 반영 - 경향신문",
+        "zh": "[속보]교육교부금 ‘내국세 20.79%’ 연동 폐지…성장률·학령인구 반영 - 경향신문"
       }
     },
     {
-      "title": "법정서 마주한 효성家 형제 … 조현준 효성 회장 “조현문 처벌 원한다” - 뉴데일리",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/21/2026082100152.html",
-      "source": "뉴데일리",
-      "pubDate": "Fri, 21 Aug 2026 04:24:17 GMT",
-      "image": "https://image.newdaily.co.kr/site/data/img/2026/08/21/2026082100152_0.png?u=20260821183117?u=20260821183117",
+      "title": "[속보] 이 대통령, 호우 피해 거제·통영 특별재난지역 선포 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6846417_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Fri, 21 Aug 2026 09:13:58 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/08/21/ggm_20260821_18.jpg",
       "summaries": {
-        "ko": "법정서 마주한 효성家 형제 … 조현준 효성 회장 “조현문 처벌 원한다” - 뉴데일리",
-        "en": "법정서 마주한 효성家 형제 … 조현준 효성 회장 “조현문 처벌 원한다” - 뉴데일리",
-        "zh": "법정서 마주한 효성家 형제 … 조현준 효성 회장 “조현문 처벌 원한다” - 뉴데일리"
+        "ko": "[속보] 이 대통령, 호우 피해 거제·통영 특별재난지역 선포 - MBC 뉴스",
+        "en": "[속보] 이 대통령, 호우 피해 거제·통영 특별재난지역 선포 - MBC 뉴스",
+        "zh": "[속보] 이 대통령, 호우 피해 거제·통영 특별재난지역 선포 - MBC 뉴스"
       }
     }
   ]
