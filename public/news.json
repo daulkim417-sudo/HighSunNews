@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-08-21T15:02:00.372347",
+  "lastUpdate": "2026-08-21T15:42:13.003844",
   "items": [
+    {
+      "title": "한미연합훈련 축소를 바라보는 북한의 속내는? - BBC",
+      "link": "https://www.bbc.com/korean/articles/c934098nxylo",
+      "source": "BBC",
+      "pubDate": "Fri, 21 Aug 2026 08:17:13 GMT",
+      "image": "https://ichef.bbci.co.uk/news/1200/branded_korean/eb9c/live/6e011590-9d2d-11f1-b109-879e35c24276.jpg",
+      "summaries": {
+        "ko": "한미 연합훈련 축소와 트럼프 대통령의 회담 제안에 대해 북한은 공개적으로 무관심을 표하고 미사일을 발사하는 등 엇갈린 반응을 보였지만, 이는 미군 철수와 '미제 타도'를 통한 체제 유지라는 장기적인 전략적 목표와 일치하는 것으로 분석된다.",
+        "en": "North Korea's seemingly contradictory response—publicly dismissing the shortened US-ROK joint drills and Trump's meeting proposal while launching missiles—is analyzed as consistent with its long-term strategic goals of achieving US military withdrawal and maintaining its regime by demonizing \"US imperialism.\"",
+        "zh": "朝鲜对美韩联合军演缩减以及特朗普会谈提议表现出公开的冷淡和发射导弹的矛盾反应，但分析认为这与其实现美军撤离和通过“打倒美帝”来维持政权的长期战略目标相符。"
+      }
+    },
     {
       "title": "이혼 과정서 실토된 ‘노태우 비자금’ 수사 착수…30여년 만에 봉인 풀린다 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/society_general/1274104.html",
@@ -8,21 +20,9 @@
       "pubDate": "Fri, 21 Aug 2026 13:09:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/850/577/imgdb/original/2026/0821/20260821502382.webp",
       "summaries": {
-        "ko": "검찰이 최태원-노소영 이혼 소송 과정에서 불거진 노태우 전 대통령의 비자금 은닉 의혹과 관련해 30여 년 만에 첫 강제수사에 착수, 김옥숙 여사 자택 등을 압수수색했다.",
-        "en": "The prosecution has launched its first compulsory investigation in 30 years into former President Roh Tae-woo's alleged slush fund concealment, initially uncovered during the Choi Tae-won-Noh So-young divorce lawsuit, conducting search and seizure operations including at his wife Kim Ok-suk's residence.",
-        "zh": "检方针对前总统卢泰愚涉嫌隐藏秘密资金一案，时隔30多年首次启动强制搜查，其中包括其妻金玉淑女士住所的扣押搜查，该案因崔泰源与卢素英的离婚诉讼而浮出水面。"
-      }
-    },
-    {
-      "title": "최민희, 김민석 면전서 “제가 감시하겠다”…與최고위 냉기류 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260821/134520299/1",
-      "source": "동아일보",
-      "pubDate": "Fri, 21 Aug 2026 10:04:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/21/134522122.1.jpg",
-      "summaries": {
-        "ko": "최민희, 김민석 면전서 “제가 감시하겠다”…與최고위 냉기류 - 동아일보",
-        "en": "최민희, 김민석 면전서 “제가 감시하겠다”…與최고위 냉기류 - 동아일보",
-        "zh": "최민희, 김민석 면전서 “제가 감시하겠다”…與최고위 냉기류 - 동아일보"
+        "ko": "이혼 과정서 실토된 ‘노태우 비자금’ 수사 착수…30여년 만에 봉인 풀린다 - 한겨레",
+        "en": "이혼 과정서 실토된 ‘노태우 비자금’ 수사 착수…30여년 만에 봉인 풀린다 - 한겨레",
+        "zh": "이혼 과정서 실토된 ‘노태우 비자금’ 수사 착수…30여년 만에 봉인 풀린다 - 한겨레"
       }
     },
     {
@@ -38,15 +38,15 @@
       }
     },
     {
-      "title": "與 법사위 ‘조희대 출석 의결’…野 “탄핵 사전 청문회” - 서울신문",
-      "link": "https://www.seoul.co.kr/news/politics/2026/08/21/20260821500206",
-      "source": "서울신문",
-      "pubDate": "Fri, 21 Aug 2026 06:31:27 GMT",
-      "image": "https://img.seoul.co.kr//img/upload/2026/08/21/SSC_20260821153115_O2.jpg.webp",
+      "title": "최민희, 김민석 면전서 “제가 감시하겠다”…與최고위 냉기류 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260821/134520299/1",
+      "source": "동아일보",
+      "pubDate": "Fri, 21 Aug 2026 10:04:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/21/134522122.1.jpg",
       "summaries": {
-        "ko": "민주당이 법사위에서 국민의힘 반대에도 조희대 대법원장과 노경필 법원행정처장의 현안 질의 출석 요구 안건을 강행 처리했으며, 국민의힘은 이를 '탄핵 사전 청문회'라 비판하며 퇴장했다.",
-        "en": "The Democratic Party-led National Assembly Legislation and Judiciary Committee approved a motion to summon Chief Justice Cho Hee-dae and Court Administration Minister Noh Kyung-pil for a current issues inquiry, prompting strong opposition from the People Power Party, who denounced it as a 'pre-impeachment hearing' and walked out.",
-        "zh": "民主党在法制司法委员会不顾国民力量党的反对，强行通过了要求大法院长赵熙大和法院行政处长卢庆弼出席现案质询的议案，国民力量党则批评此举是“弹劾预备听证会”并退席抗议。"
+        "ko": "최민희, 김민석 면전서 “제가 감시하겠다”…與최고위 냉기류 - 동아일보",
+        "en": "최민희, 김민석 면전서 “제가 감시하겠다”…與최고위 냉기류 - 동아일보",
+        "zh": "최민희, 김민석 면전서 “제가 감시하겠다”…與최고위 냉기류 - 동아일보"
       }
     },
     {
@@ -62,15 +62,15 @@
       }
     },
     {
-      "title": "이 대통령, 조희대 겨냥?···“최근 반부패보다 헌정질서 파괴 행위가 더 심각, 대책 논의해야” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608211941001",
-      "source": "경향신문",
-      "pubDate": "Fri, 21 Aug 2026 10:41:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/21/rcv.PHOTOPOOL.20260821.kpa17872944423718_P1.jpg",
+      "title": "與, 대법원장 탄핵 외치더니... 손발 법원행정처까지 \"없애자\" - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/08/21/46MK3GZMHRH4FKRV4BELR4FH6Q/",
+      "source": "조선일보",
+      "pubDate": "Fri, 21 Aug 2026 07:06:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/XIPUFRQCDND77MDVNWMWYX5BGQ.jpg?auth=554aba1ae63cc1f4ae3e1fff027457489a30477ea6e33abedd43a2108830c22d&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "이 대통령, 조희대 겨냥?···“최근 반부패보다 헌정질서 파괴 행위가 더 심각, 대책 논의해야” - 경향신문",
-        "en": "이 대통령, 조희대 겨냥?···“최근 반부패보다 헌정질서 파괴 행위가 더 심각, 대책 논의해야” - 경향신문",
-        "zh": "이 대통령, 조희대 겨냥?···“최근 반부패보다 헌정질서 파괴 행위가 더 심각, 대책 논의해야” - 경향신문"
+        "ko": "與, 대법원장 탄핵 외치더니... 손발 법원행정처까지 \"없애자\" - 조선일보",
+        "en": "與, 대법원장 탄핵 외치더니... 손발 법원행정처까지 \"없애자\" - 조선일보",
+        "zh": "與, 대법원장 탄핵 외치더니... 손발 법원행정처까지 \"없애자\" - 조선일보"
       }
     },
     {
@@ -86,22 +86,22 @@
       }
     },
     {
-      "title": "민주당, 이진숙 제명 징계안 제출…\"헌법 정신 중대 도발\" - 노컷뉴스",
-      "link": "https://www.nocutnews.co.kr/news/6566226",
-      "source": "노컷뉴스",
-      "pubDate": "Fri, 21 Aug 2026 07:34:00 GMT",
-      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/21/202608211634298684_0.jpg",
+      "title": "지방 비리 경고한 李…메가 프로젝트 앞두고 ‘이권 개입’ 정조준 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260821/134522038/1",
+      "source": "동아일보",
+      "pubDate": "Fri, 21 Aug 2026 11:20:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/21/134522387.1.jpg",
       "summaries": {
-        "ko": "민주당, 이진숙 제명 징계안 제출…\"헌법 정신 중대 도발\" - 노컷뉴스",
-        "en": "민주당, 이진숙 제명 징계안 제출…\"헌법 정신 중대 도발\" - 노컷뉴스",
-        "zh": "민주당, 이진숙 제명 징계안 제출…\"헌법 정신 중대 도발\" - 노컷뉴스"
+        "ko": "지방 비리 경고한 李…메가 프로젝트 앞두고 ‘이권 개입’ 정조준 - 동아일보",
+        "en": "지방 비리 경고한 李…메가 프로젝트 앞두고 ‘이권 개입’ 정조준 - 동아일보",
+        "zh": "지방 비리 경고한 李…메가 프로젝트 앞두고 ‘이권 개입’ 정조준 - 동아일보"
       }
     },
     {
       "title": "이 대통령, 집중호우 피해 거제·통영 특별재난지역 선포 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/bluehouse/1274094.html",
       "source": "한겨레",
-      "pubDate": "Fri, 21 Aug 2026 12:10:00 GMT",
+      "pubDate": "Fri, 21 Aug 2026 13:10:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/618/404/imgdb/original/2026/0821/20260821502283.webp",
       "summaries": {
         "ko": "이 대통령, 집중호우 피해 거제·통영 특별재난지역 선포 - 한겨레",
@@ -110,15 +110,15 @@
       }
     },
     {
-      "title": "[뉴스리뷰] 8월21일 다시보기",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260821230122pdi",
+      "title": "미 민주, 하원 탈환뒤 트럼프 일가 조사 채비…'부패의혹' 정조준",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202608220038276DC",
       "source": "Breaking News",
-      "pubDate": "Fri, 21 Aug 2026 23:50:07 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260821/MYH20260821230122pdi.jpg",
+      "pubDate": "Sat, 22 Aug 2026 00:38:28 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260821/AKR202608220038276DC_01_i.jpg",
       "summaries": {
-        "ko": "[뉴스리뷰] 8월21일 다시보기",
-        "en": "[뉴스리뷰] 8월21일 다시보기",
-        "zh": "[뉴스리뷰] 8월21일 다시보기"
+        "ko": "미 민주, 하원 탈환뒤 트럼프 일가 조사 채비…'부패의혹' 정조준",
+        "en": "미 민주, 하원 탈환뒤 트럼프 일가 조사 채비…'부패의혹' 정조준",
+        "zh": "미 민주, 하원 탈환뒤 트럼프 일가 조사 채비…'부패의혹' 정조준"
       }
     }
   ]
