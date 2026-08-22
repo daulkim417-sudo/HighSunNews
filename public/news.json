@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-22T17:33:02.360902",
+  "lastUpdate": "2026-08-22T17:51:55.853363",
   "items": [
     {
       "title": "‘장미란씨 실종’ 담당 경찰 긴급체포…허위종결 사건 또 있었다 - 한겨레",
@@ -8,9 +8,9 @@
       "pubDate": "Sat, 22 Aug 2026 12:50:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/701/701/imgdb/original/2026/0822/20260822500474.webp",
       "summaries": {
-        "ko": "제주 실종자 장미란씨 사건을 허위로 종결한 혐의를 받는 담당 경찰관이 다른 실종 사건도 허위 종결한 사실이 드러나 긴급체포되었으며, 장씨에 대한 수색은 계속되고 있다.",
-        "en": "A police officer in charge of the missing person case of Jang Miran, who disappeared in Jeju, was emergency arrested after it was revealed he falsely closed her case and another missing person case, while the search for Jang Miran continues.",
-        "zh": "负责济州失踪者张美兰案件的警官因涉嫌虚假结案而被紧急逮捕，并发现他还对另一起失踪案件进行了虚假结案，目前对张美兰的搜寻仍在继续。"
+        "ko": "‘장미란씨 실종’ 담당 경찰 긴급체포…허위종결 사건 또 있었다 - 한겨레",
+        "en": "‘장미란씨 실종’ 담당 경찰 긴급체포…허위종결 사건 또 있었다 - 한겨레",
+        "zh": "‘장미란씨 실종’ 담당 경찰 긴급체포…허위종결 사건 또 있었다 - 한겨레"
       }
     },
     {
@@ -26,18 +26,6 @@
       }
     },
     {
-      "title": "與김영배, 오세훈 시장과 회동…용산공원 활용 ‘이견’ - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/08/22/T4VCYQF6C5EJZK7C4LWJH355E4/",
-      "source": "조선일보",
-      "pubDate": "Sat, 22 Aug 2026 07:58:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/DWUF2TYHVVALZCCQTZX5DDTLUY.jpg?auth=c631566a6331eb6f4003982fe0e857d16975dbccfda0cae0963e35d4cb0a142c&width=448&height=235&focal=223,83",
-      "summaries": {
-        "ko": "與김영배, 오세훈 시장과 회동…용산공원 활용 ‘이견’ - 조선일보",
-        "en": "與김영배, 오세훈 시장과 회동…용산공원 활용 ‘이견’ - 조선일보",
-        "zh": "與김영배, 오세훈 시장과 회동…용산공원 활용 ‘이견’ - 조선일보"
-      }
-    },
-    {
       "title": "트럼프 또 “호르무즈는 미국 영토” 이란 압박…“선거 지면 난 탄핵당해” - 한겨레",
       "link": "https://www.hani.co.kr/arti/international/international_general/1274143.html",
       "source": "한겨레",
@@ -50,15 +38,27 @@
       }
     },
     {
-      "title": "이 대통령, 28일 민주당 의원 전원 청와대 초청 오찬 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1274142.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 22 Aug 2026 12:51:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0822/20260822500440.webp",
+      "title": "與 의원들 28일 李대통령과 청와대 오찬...전원 참석 전망 - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/08/22/CTUL3TJJHFGTLBWEIZ2TO6MWLQ/",
+      "source": "조선일보",
+      "pubDate": "Sat, 22 Aug 2026 04:25:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/HA2TOZTFGA4DGNZUGU4TMMDFGE.jpg?auth=a7485dc89bea1449474eeb3d734ba2d6649016a6a17c5dcacb0b290519d77624&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "이 대통령, 28일 민주당 의원 전원 청와대 초청 오찬 - 한겨레",
-        "en": "이 대통령, 28일 민주당 의원 전원 청와대 초청 오찬 - 한겨레",
-        "zh": "이 대통령, 28일 민주당 의원 전원 청와대 초청 오찬 - 한겨레"
+        "ko": "與 의원들 28일 李대통령과 청와대 오찬...전원 참석 전망 - 조선일보",
+        "en": "與 의원들 28일 李대통령과 청와대 오찬...전원 참석 전망 - 조선일보",
+        "zh": "與 의원들 28일 李대통령과 청와대 오찬...전원 참석 전망 - 조선일보"
+      }
+    },
+    {
+      "title": "오세훈 “용산공원 1㎝도 양보 못 해”…김영배 “자기 정치만” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1274140.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 22 Aug 2026 12:52:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/631/imgdb/child/2026/0822/17873891215224_2417873882928899.webp",
+      "summaries": {
+        "ko": "오세훈 “용산공원 1㎝도 양보 못 해”…김영배 “자기 정치만” - 한겨레",
+        "en": "오세훈 “용산공원 1㎝도 양보 못 해”…김영배 “자기 정치만” - 한겨레",
+        "zh": "오세훈 “용산공원 1㎝도 양보 못 해”…김영배 “자기 정치만” - 한겨레"
       }
     },
     {
@@ -86,18 +86,6 @@
       }
     },
     {
-      "title": "[북극항로 시대] ① 기후변화로 열린 기회…부산-유럽 뱃길 35% 단축 - 한국무역협회-KITA.NET",
-      "link": "https://www.kita.net/board/totalTradeNews/totalTradeNewsDetail.do;JSESSIONID_KITA=F6FA7B0F2D80E3597F894B719967CA55.Hyper?no=104066&siteId=1",
-      "source": "한국무역협회-KITA.NET",
-      "pubDate": "Sat, 22 Aug 2026 11:41:03 GMT",
-      "image": "https://kita.net/imgs/common/kita_logo_mid.png",
-      "summaries": {
-        "ko": "[북극항로 시대] ① 기후변화로 열린 기회…부산-유럽 뱃길 35% 단축 - 한국무역협회-KITA.NET",
-        "en": "[북극항로 시대] ① 기후변화로 열린 기회…부산-유럽 뱃길 35% 단축 - 한국무역협회-KITA.NET",
-        "zh": "[북극항로 시대] ① 기후변화로 열린 기회…부산-유럽 뱃길 35% 단축 - 한국무역협회-KITA.NET"
-      }
-    },
-    {
       "title": "한동훈 \"이 대통령 노웅래 신파 역할극‥공소취소 빌드업 속셈\" - MBC 뉴스",
       "link": "https://imnews.imbc.com/news/2026/politics/article/6846539_36911.html",
       "source": "MBC 뉴스",
@@ -110,15 +98,27 @@
       }
     },
     {
-      "title": "100조 넘보는 '미래기금' 신설…교육교부금 연동 55년만에 폐지(종합2보) - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260821070752002",
-      "source": "연합뉴스",
-      "pubDate": "Fri, 21 Aug 2026 09:14:55 GMT",
-      "image": "https://img2.yna.co.kr/photo/yna/YH/2026/08/21/PYH2026082105300001301_P4.jpg",
+      "title": "광교 도심 출몰 70㎝ ‘나일왕도마뱀’ 11일 만에 잡혔다 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1274138.html",
+      "source": "한겨레",
+      "pubDate": "Sat, 22 Aug 2026 12:57:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0822/53_17873821310101_20260822500368.webp",
       "summaries": {
-        "ko": "100조 넘보는 '미래기금' 신설…교육교부금 연동 55년만에 폐지(종합2보) - 연합뉴스",
-        "en": "100조 넘보는 '미래기금' 신설…교육교부금 연동 55년만에 폐지(종합2보) - 연합뉴스",
-        "zh": "100조 넘보는 '미래기금' 신설…교육교부금 연동 55년만에 폐지(종합2보) - 연합뉴스"
+        "ko": "광교 도심 출몰 70㎝ ‘나일왕도마뱀’ 11일 만에 잡혔다 - 한겨레",
+        "en": "광교 도심 출몰 70㎝ ‘나일왕도마뱀’ 11일 만에 잡혔다 - 한겨레",
+        "zh": "광교 도심 출몰 70㎝ ‘나일왕도마뱀’ 11일 만에 잡혔다 - 한겨레"
+      }
+    },
+    {
+      "title": "‘숏컷 위장’ 터파크 女탈의실 불법촬영…20대 남성 검거",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260823015500iha",
+      "source": "Breaking News",
+      "pubDate": "Sun, 23 Aug 2026 01:55:03 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260822/AKR20260823015500iha_01_i.jpg",
+      "summaries": {
+        "ko": "‘숏컷 위장’ 터파크 女탈의실 불법촬영…20대 남성 검거",
+        "en": "‘숏컷 위장’ 터파크 女탈의실 불법촬영…20대 남성 검거",
+        "zh": "‘숏컷 위장’ 터파크 女탈의실 불법촬영…20대 남성 검거"
       }
     }
   ]
