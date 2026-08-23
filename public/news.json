@@ -1,16 +1,52 @@
 {
-  "lastUpdate": "2026-08-23T11:38:50.960949",
+  "lastUpdate": "2026-08-23T11:53:47.627525",
   "items": [
     {
-      "title": "민주당, ‘비거주 1주택’ 세부담 완화 드라이브…당·정 온도차 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/economy/economy_general/1274225.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 23 Aug 2026 10:49:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/608/imgdb/original/2026/0823/20260823501701.webp",
+      "title": "민주당 “1주택자 종부세, 거주·비거주 구분하지 말자고 강하게 요청” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608231805001",
+      "source": "경향신문",
+      "pubDate": "Sun, 23 Aug 2026 09:05:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/23/news-p.v1.20260823.5e4d352973234bd48f8c3be582227cd1_P1.jpeg",
       "summaries": {
-        "ko": "민주당, ‘비거주 1주택’ 세부담 완화 드라이브…당·정 온도차 - 한겨레",
-        "en": "민주당, ‘비거주 1주택’ 세부담 완화 드라이브…당·정 온도차 - 한겨레",
-        "zh": "민주당, ‘비거주 1주택’ 세부담 완화 드라이브…당·정 온도차 - 한겨레"
+        "ko": "민주당 “1주택자 종부세, 거주·비거주 구분하지 말자고 강하게 요청” - 경향신문",
+        "en": "민주당 “1주택자 종부세, 거주·비거주 구분하지 말자고 강하게 요청” - 경향신문",
+        "zh": "민주당 “1주택자 종부세, 거주·비거주 구분하지 말자고 강하게 요청” - 경향신문"
+      }
+    },
+    {
+      "title": "“통영시 전역 피해 심각”…정부에 특별재난지역 확대 지정 요구 - 경남도민일보",
+      "link": "https://www.idomin.com/news/articleView.html?idxno=2012935",
+      "source": "경남도민일보",
+      "pubDate": "Sun, 23 Aug 2026 05:32:00 GMT",
+      "image": "https://cdn.idomin.com/news/photo/202608/2012935_719861_4006.jpg",
+      "summaries": {
+        "ko": "“통영시 전역 피해 심각”…정부에 특별재난지역 확대 지정 요구 - 경남도민일보",
+        "en": "“통영시 전역 피해 심각”…정부에 특별재난지역 확대 지정 요구 - 경남도민일보",
+        "zh": "“통영시 전역 피해 심각”…정부에 특별재난지역 확대 지정 요구 - 경남도민일보"
+      }
+    },
+    {
+      "title": "홍준표 “조선제일껌” 한동훈 또 직격…‘노웅래 녹취록’ 공개 주장에 “무식” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1274158.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 23 Aug 2026 07:57:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0823/20260823500616.webp",
+      "summaries": {
+        "ko": "홍준표 “조선제일껌” 한동훈 또 직격…‘노웅래 녹취록’ 공개 주장에 “무식” - 한겨레",
+        "en": "홍준표 “조선제일껌” 한동훈 또 직격…‘노웅래 녹취록’ 공개 주장에 “무식” - 한겨레",
+        "zh": "홍준표 “조선제일껌” 한동훈 또 직격…‘노웅래 녹취록’ 공개 주장에 “무식” - 한겨레"
+      }
+    },
+    {
+      "title": "제주 경찰관 두번째 '허위종결' 사건 실종 60대, 결국 숨진채 발견 - 헤드라인제주",
+      "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597843",
+      "source": "헤드라인제주",
+      "pubDate": "Sun, 23 Aug 2026 11:01:36 GMT",
+      "image": "https://www.headlinejeju.co.kr/news/photo/202608/597843_493939_032.jpg",
+      "summaries": {
+        "ko": "제주 경찰관 두번째 '허위종결' 사건 실종 60대, 결국 숨진채 발견 - 헤드라인제주",
+        "en": "제주 경찰관 두번째 '허위종결' 사건 실종 60대, 결국 숨진채 발견 - 헤드라인제주",
+        "zh": "제주 경찰관 두번째 '허위종결' 사건 실종 60대, 결국 숨진채 발견 - 헤드라인제주"
       }
     },
     {
@@ -26,99 +62,63 @@
       }
     },
     {
-      "title": "[내일 날씨] 전국 폭염특보 속 무더위 최고조...주간예보와 태풍 진로는? - 헤드라인제주",
-      "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597838",
-      "source": "헤드라인제주",
-      "pubDate": "Sun, 23 Aug 2026 04:25:01 GMT",
-      "image": "https://www.headlinejeju.co.kr/news/photo/202608/597838_493930_2418.png",
-      "summaries": {
-        "ko": "[내일 날씨] 전국 폭염특보 속 무더위 최고조...주간예보와 태풍 진로는? - 헤드라인제주",
-        "en": "[내일 날씨] 전국 폭염특보 속 무더위 최고조...주간예보와 태풍 진로는? - 헤드라인제주",
-        "zh": "[내일 날씨] 전국 폭염특보 속 무더위 최고조...주간예보와 태풍 진로는? - 헤드라인제주"
-      }
-    },
-    {
       "title": "커지는 ‘대법관 후보 제청’ 후폭풍…청와대, 조희대에 재제청 요구할까 - 경향신문",
       "link": "https://www.khan.co.kr/article/202608231711001",
       "source": "경향신문",
       "pubDate": "Sun, 23 Aug 2026 08:11:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/08/23/news-p.v1.20260823.159002db395c4189b3890abfd9f2c150_P1.jpeg",
       "summaries": {
-        "ko": "조희대 대법원장이 청와대와 협의 없이 대법관 후보를 일방적으로 제청하면서 사법부와 청와대 간 전례 없는 갈등이 고조되고 있으며, 청와대는 제청 반려 여부를 놓고 깊이 고심하고 있다.",
-        "en": "An unprecedented conflict has escalated between the judiciary and the Blue House after Chief Justice Cho Hee-dae unilaterally nominated Supreme Court justices without prior consultation, leading the Blue House to deeply contemplate whether to reject the nominations.",
-        "zh": "在韩国大法院院长曹熙大未与青瓦台协商，单方面提名大法院法官候选人后，司法机构与青瓦台之间爆发了前所未有的冲突，青瓦台正就拒绝提名一事进行深入考量。"
+        "ko": "커지는 ‘대법관 후보 제청’ 후폭풍…청와대, 조희대에 재제청 요구할까 - 경향신문",
+        "en": "커지는 ‘대법관 후보 제청’ 후폭풍…청와대, 조희대에 재제청 요구할까 - 경향신문",
+        "zh": "커지는 ‘대법관 후보 제청’ 후폭풍…청와대, 조희대에 재제청 요구할까 - 경향신문"
       }
     },
     {
-      "title": "이 대통령, 28일 민주당 의원 전원 청와대 초청 오찬 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1274142.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 23 Aug 2026 03:58:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0822/20260822500440.webp",
+      "title": "처서에도 무더위 계속... 서울 전역 폭염주의보 - 조선일보",
+      "link": "https://www.chosun.com/national/transport-environment/2026/08/23/AEMF6BKIEBA5LDNYNOTHPQC7B4/",
+      "source": "조선일보",
+      "pubDate": "Sun, 23 Aug 2026 04:14:19 GMT",
+      "image": "https://www.chosun.com/resizer/v2/SBUDEW5EYJOMHBUL67RT4RZWZA.jpg?auth=3f912b965b831084d189d5677cd172c2cd07e8c2d8efe9fa7374d3154353d64d&width=1200&height=630&focal=958,573",
       "summaries": {
-        "ko": "이 대통령, 28일 민주당 의원 전원 청와대 초청 오찬 - 한겨레",
-        "en": "이 대통령, 28일 민주당 의원 전원 청와대 초청 오찬 - 한겨레",
-        "zh": "이 대통령, 28일 민주당 의원 전원 청와대 초청 오찬 - 한겨레"
+        "ko": "처서에도 무더위 계속... 서울 전역 폭염주의보 - 조선일보",
+        "en": "처서에도 무더위 계속... 서울 전역 폭염주의보 - 조선일보",
+        "zh": "처서에도 무더위 계속... 서울 전역 폭염주의보 - 조선일보"
       }
     },
     {
-      "title": "'거제 집중호우' 1박2일 결방 확정...스페셜 방송 편성 - gukjenews.com",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3671864",
-      "source": "gukjenews.com",
-      "pubDate": "Sun, 23 Aug 2026 04:37:33 GMT",
-      "image": "https://cdn.gukjenews.com/news/thumbnail/202608/3671864_3839957_2413_v150.jpg",
-      "summaries": {
-        "ko": "'거제 집중호우' 1박2일 결방 확정...스페셜 방송 편성 - gukjenews.com",
-        "en": "'거제 집중호우' 1박2일 결방 확정...스페셜 방송 편성 - gukjenews.com",
-        "zh": "'거제 집중호우' 1박2일 결방 확정...스페셜 방송 편성 - gukjenews.com"
-      }
-    },
-    {
-      "title": "역대 최장 180일 수사 마친 종합특검, 58명 기소‥한계 지적도 - MBC 뉴스",
+      "title": "역대 최장 180일 수사 마친 종합특검, 50여 명 기소‥한계 지적도 - MBC 뉴스",
       "link": "https://imnews.imbc.com/news/2026/society/article/6846667_36918.html",
       "source": "MBC 뉴스",
       "pubDate": "Sun, 23 Aug 2026 06:24:46 GMT",
       "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/23/ggm_20260823_5.jpg",
       "summaries": {
-        "ko": "역대 최장 180일 수사 마친 종합특검, 58명 기소‥한계 지적도 - MBC 뉴스",
-        "en": "역대 최장 180일 수사 마친 종합특검, 58명 기소‥한계 지적도 - MBC 뉴스",
-        "zh": "역대 최장 180일 수사 마친 종합특검, 58명 기소‥한계 지적도 - MBC 뉴스"
+        "ko": "역대 최장 180일 수사 마친 종합특검, 50여 명 기소‥한계 지적도 - MBC 뉴스",
+        "en": "역대 최장 180일 수사 마친 종합특검, 50여 명 기소‥한계 지적도 - MBC 뉴스",
+        "zh": "역대 최장 180일 수사 마친 종합특검, 50여 명 기소‥한계 지적도 - MBC 뉴스"
       }
     },
     {
-      "title": "용산공원 ‘본 구역’(정부)과 ‘주변 구역’(서울시) 주택 공급량 3배 차 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608231813001",
+      "title": "이 대통령, 민주당 새 지도부·의원 전원 ‘식사 정치’ 재개…‘김민석 체제’ 힘 싣기 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608231521001",
       "source": "경향신문",
-      "pubDate": "Sun, 23 Aug 2026 09:13:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/23/news-p.v1.20260823.f022fc6d36c641d5ad1eed90c8703f65_P1.jpeg",
+      "pubDate": "Sun, 23 Aug 2026 06:21:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/23/rcv.PHOTOPOOL.20260819.kpa17871358017268_P1.jpg",
       "summaries": {
-        "ko": "용산공원 ‘본 구역’(정부)과 ‘주변 구역’(서울시) 주택 공급량 3배 차 - 경향신문",
-        "en": "용산공원 ‘본 구역’(정부)과 ‘주변 구역’(서울시) 주택 공급량 3배 차 - 경향신문",
-        "zh": "용산공원 ‘본 구역’(정부)과 ‘주변 구역’(서울시) 주택 공급량 3배 차 - 경향신문"
+        "ko": "이 대통령, 민주당 새 지도부·의원 전원 ‘식사 정치’ 재개…‘김민석 체제’ 힘 싣기 - 경향신문",
+        "en": "이 대통령, 민주당 새 지도부·의원 전원 ‘식사 정치’ 재개…‘김민석 체제’ 힘 싣기 - 경향신문",
+        "zh": "이 대통령, 민주당 새 지도부·의원 전원 ‘식사 정치’ 재개…‘김민석 체제’ 힘 싣기 - 경향신문"
       }
     },
     {
-      "title": "서울 등 폭염특보 확대…태풍 3개 활동 중",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202608232003578SD",
-      "source": "Breaking News",
-      "pubDate": "Sun, 23 Aug 2026 20:03:58 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260823/MYH202608232003578SD.jpg",
+      "title": "장동혁, 당협위원장 254명 전원 재선출 강행하나…국힘 ‘폭풍전야’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1274202.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 23 Aug 2026 10:37:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/702/imgdb/original/2026/0823/20260823501541.webp",
       "summaries": {
-        "ko": "서울 등 폭염특보 확대…태풍 3개 활동 중",
-        "en": "서울 등 폭염특보 확대…태풍 3개 활동 중",
-        "zh": "서울 등 폭염특보 확대…태풍 3개 활동 중"
-      }
-    },
-    {
-      "title": "파키스탄군 총사령관, 24일 이란 방문…협상 돌파구 주목",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202608231955300iF",
-      "source": "Breaking News",
-      "pubDate": "Sun, 23 Aug 2026 19:55:30 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260823/AKR202608231955300iF_01_i.jpg",
-      "summaries": {
-        "ko": "파키스탄군 총사령관, 24일 이란 방문…협상 돌파구 주목",
-        "en": "파키스탄군 총사령관, 24일 이란 방문…협상 돌파구 주목",
-        "zh": "파키스탄군 총사령관, 24일 이란 방문…협상 돌파구 주목"
+        "ko": "장동혁, 당협위원장 254명 전원 재선출 강행하나…국힘 ‘폭풍전야’ - 한겨레",
+        "en": "장동혁, 당협위원장 254명 전원 재선출 강행하나…국힘 ‘폭풍전야’ - 한겨레",
+        "zh": "장동혁, 당협위원장 254명 전원 재선출 강행하나…국힘 ‘폭풍전야’ - 한겨레"
       }
     }
   ]
