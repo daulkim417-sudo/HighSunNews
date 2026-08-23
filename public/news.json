@@ -1,40 +1,64 @@
 {
-  "lastUpdate": "2026-08-23T04:18:32.228059",
+  "lastUpdate": "2026-08-23T04:53:52.964252",
   "items": [
     {
-      "title": "김민석 “비거주 인정 사유 폭넓게…종부세 상한 200% 상향 숙의 필요” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1274163.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 23 Aug 2026 02:45:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/884/531/imgdb/child/2026/0823/53_17874555771182_20260823500729.webp",
+      "title": "제주 실종자 51일 만에 숨진 채 발견···경찰관 ‘임의 종결 수사’ 더 있었다 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608230811001",
+      "source": "경향신문",
+      "pubDate": "Sat, 22 Aug 2026 23:11:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/23/news-p.v1.20260823.fa212fd441884d1b9477267bb91dc136_P1.png",
       "summaries": {
-        "ko": "더불어민주당 김민석 대표는 고위당정협의회에서 부동산 세제 개편과 관련, 비거주 인정 사유를 폭넓게 인정하고 비거주 1주택자 종부세 기본공제 하향 및 종부세 세부담 상한 200% 상향안 등에 대한 심도 깊은 재논의를 요청했다.",
-        "en": "During a high-level party-government meeting, Democratic Party leader Kim Min-seok called for broader recognition of non-residency reasons for real estate tax calculations and requested in-depth reconsideration of plans to lower the basic deduction for non-resident single homeowners and raise the comprehensive real estate tax burden cap to 200%.",
-        "zh": "民主党领袖金民锡在高级党政协商会议上呼吁，在房地产税计算中更广泛地承认非居住原因，并要求就下调非居住单一套住房所有者的基本扣除额和将综合不动产税负担上限提高至200%的方案进行深入审议。"
+        "ko": "제주 경찰관이 실종 사건을 임의로 종결하여 한 실종자가 51일 만에 숨진 채 발견되고 다른 실종자는 수개월째 행방이 묘연한 사건에 대해 수사를 받고 있으며, 그의 다른 사건 처리 방식에 대한 전면적인 조사가 진행 중이다.",
+        "en": "A Jeju police officer is under investigation after arbitrarily closing multiple missing person cases, leading to one victim being found dead 51 days later and another remaining missing for months, prompting a broader inquiry into his conduct.",
+        "zh": "济州岛一名警官因擅自结案多起失踪案件而受到调查，其中一名失踪者在51天后被发现死亡，另一名失踪者已失踪数月，这促使对该警官的行为展开更广泛的调查。"
+      }
+    },
+    {
+      "title": "김민석 “비거주 1주택자 종부세 등 세제 개편 숙의 필요” - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260823/134524625/2",
+      "source": "동아일보",
+      "pubDate": "Sun, 23 Aug 2026 02:56:08 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/23/134524759.1.jpg",
+      "summaries": {
+        "ko": "김민석 “비거주 1주택자 종부세 등 세제 개편 숙의 필요” - 동아일보",
+        "en": "김민석 “비거주 1주택자 종부세 등 세제 개편 숙의 필요” - 동아일보",
+        "zh": "김민석 “비거주 1주택자 종부세 등 세제 개편 숙의 필요” - 동아일보"
+      }
+    },
+    {
+      "title": "“전쟁 해보자”…캐나다, 미국 50% 관세폭탄 직후 ‘같은 규모’ 맞불 관세 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/america/1274150.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 23 Aug 2026 03:13:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/728/imgdb/original/2026/0823/3517874523180938.webp",
+      "summaries": {
+        "ko": "“전쟁 해보자”…캐나다, 미국 50% 관세폭탄 직후 ‘같은 규모’ 맞불 관세 - 한겨레",
+        "en": "“전쟁 해보자”…캐나다, 미국 50% 관세폭탄 직후 ‘같은 규모’ 맞불 관세 - 한겨레",
+        "zh": "“전쟁 해보자”…캐나다, 미국 50% 관세폭탄 직후 ‘같은 규모’ 맞불 관세 - 한겨레"
+      }
+    },
+    {
+      "title": "[특파원 시선] 우려되는 트럼프의 '김정은 대화' 조급증 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260822010100071",
+      "source": "연합뉴스",
+      "pubDate": "Sat, 22 Aug 2026 22:00:04 GMT",
+      "image": "https://img2.yna.co.kr/etc/inner/KR/2026/08/22/AKR20260822010100071_01_i_P4.jpg",
+      "summaries": {
+        "ko": "[특파원 시선] 우려되는 트럼프의 '김정은 대화' 조급증 - 연합뉴스",
+        "en": "[특파원 시선] 우려되는 트럼프의 '김정은 대화' 조급증 - 연합뉴스",
+        "zh": "[특파원 시선] 우려되는 트럼프의 '김정은 대화' 조급증 - 연합뉴스"
       }
     },
     {
       "title": "조희대, 헌법의 기본 ‘국민주권’ 모르는 무자격자…제청권 파동 풀려면 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1274152.html",
       "source": "한겨레",
-      "pubDate": "Sun, 23 Aug 2026 03:15:00 GMT",
+      "pubDate": "Sun, 23 Aug 2026 03:57:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0823/53_17874461108446_20260823500304.webp",
       "summaries": {
         "ko": "조희대, 헌법의 기본 ‘국민주권’ 모르는 무자격자…제청권 파동 풀려면 - 한겨레",
         "en": "조희대, 헌법의 기본 ‘국민주권’ 모르는 무자격자…제청권 파동 풀려면 - 한겨레",
         "zh": "조희대, 헌법의 기본 ‘국민주권’ 모르는 무자격자…제청권 파동 풀려면 - 한겨레"
-      }
-    },
-    {
-      "title": "카니 총리 “미국과 전쟁 중”···캐나다, 미국의 50% 관세 발효에 맞불 관세 예고 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608230607001",
-      "source": "경향신문",
-      "pubDate": "Sat, 22 Aug 2026 21:07:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/23/news-p.v1.20260823.b65900da19a545e7a01c0809553489d2_P1.png",
-      "summaries": {
-        "ko": "카니 총리 “미국과 전쟁 중”···캐나다, 미국의 50% 관세 발효에 맞불 관세 예고 - 경향신문",
-        "en": "카니 총리 “미국과 전쟁 중”···캐나다, 미국의 50% 관세 발효에 맞불 관세 예고 - 경향신문",
-        "zh": "카니 총리 “미국과 전쟁 중”···캐나다, 미국의 50% 관세 발효에 맞불 관세 예고 - 경향신문"
       }
     },
     {
@@ -50,39 +74,39 @@
       }
     },
     {
-      "title": "\"무사하다\"던 남성이 시신으로... 제주 실종여성 그 경찰이 담당 - 조선일보",
-      "link": "https://www.chosun.com/national/incident/2026/08/23/7FCK6XVIMNAO3BPVQXO42HWG4E/",
-      "source": "조선일보",
-      "pubDate": "Sun, 23 Aug 2026 01:40:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/MMYWEZJRHAZDGYZXHBTGCNZQGI.jpg?auth=b5fa27beb97c5c7caf1752db2ba06bfe40ffef99bf6eba4c4e0743d24bf382e9&width=1200&height=630&focal=2462,1821",
-      "summaries": {
-        "ko": "\"무사하다\"던 남성이 시신으로... 제주 실종여성 그 경찰이 담당 - 조선일보",
-        "en": "\"무사하다\"던 남성이 시신으로... 제주 실종여성 그 경찰이 담당 - 조선일보",
-        "zh": "\"무사하다\"던 남성이 시신으로... 제주 실종여성 그 경찰이 담당 - 조선일보"
-      }
-    },
-    {
-      "title": "트럼프 또 “호르무즈는 미국 영토” 이란 압박…“선거 지면 난 탄핵당해” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1274143.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 23 Aug 2026 01:23:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0822/20260822500449.webp",
-      "summaries": {
-        "ko": "트럼프 또 “호르무즈는 미국 영토” 이란 압박…“선거 지면 난 탄핵당해” - 한겨레",
-        "en": "트럼프 또 “호르무즈는 미국 영토” 이란 압박…“선거 지면 난 탄핵당해” - 한겨레",
-        "zh": "트럼프 또 “호르무즈는 미국 영토” 이란 압박…“선거 지면 난 탄핵당해” - 한겨레"
-      }
-    },
-    {
       "title": "“정치 얘기 그만하세요” 말리자…운행 중 대리기사 뺨 때린 60대 ‘벌금형’ - 경기일보",
       "link": "https://www.kyeonggi.com/article/20260823580012",
       "source": "경기일보",
       "pubDate": "Sat, 22 Aug 2026 23:18:55 GMT",
-      "image": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/23/.cache/512/20260823580013.jpg?v=20260823131825",
+      "image": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/23/.cache/512/20260823580013.jpg?v=20260823135343",
       "summaries": {
         "ko": "“정치 얘기 그만하세요” 말리자…운행 중 대리기사 뺨 때린 60대 ‘벌금형’ - 경기일보",
         "en": "“정치 얘기 그만하세요” 말리자…운행 중 대리기사 뺨 때린 60대 ‘벌금형’ - 경기일보",
         "zh": "“정치 얘기 그만하세요” 말리자…운행 중 대리기사 뺨 때린 60대 ‘벌금형’ - 경기일보"
+      }
+    },
+    {
+      "title": "말다툼하던 부모 흉기로 찌른 외국인 10대…친부 숨져 - 동아일보",
+      "link": "https://www.donga.com/news/Society/article/all/20260823/134524203/1",
+      "source": "동아일보",
+      "pubDate": "Sun, 23 Aug 2026 00:09:16 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/23/134524204.1.jpg",
+      "summaries": {
+        "ko": "말다툼하던 부모 흉기로 찌른 외국인 10대…친부 숨져 - 동아일보",
+        "en": "말다툼하던 부모 흉기로 찌른 외국인 10대…친부 숨져 - 동아일보",
+        "zh": "말다툼하던 부모 흉기로 찌른 외국인 10대…친부 숨져 - 동아일보"
+      }
+    },
+    {
+      "title": "전남 해남 규모 3.1 지진‥원안위 \"국내 원자로 시설 이상 없어\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6846622_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 23 Aug 2026 00:39:03 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/23/ljm_20260823_3.jpg",
+      "summaries": {
+        "ko": "전남 해남 규모 3.1 지진‥원안위 \"국내 원자로 시설 이상 없어\" - MBC 뉴스",
+        "en": "전남 해남 규모 3.1 지진‥원안위 \"국내 원자로 시설 이상 없어\" - MBC 뉴스",
+        "zh": "전남 해남 규모 3.1 지진‥원안위 \"국내 원자로 시설 이상 없어\" - MBC 뉴스"
       }
     },
     {
@@ -98,27 +122,15 @@
       }
     },
     {
-      "title": "홍준표, ‘노웅래 무죄’ 반발 한동훈에 “위법증거 까보자? 무식하고 무지” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1274158.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 23 Aug 2026 02:55:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0823/20260823500616.webp",
+      "title": "종합특검, 6개월 수사 종료…50여명 기소",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260823134915LVU",
+      "source": "Breaking News",
+      "pubDate": "Sun, 23 Aug 2026 13:49:16 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260823/MYH20260823134915LVU.jpg",
       "summaries": {
-        "ko": "홍준표, ‘노웅래 무죄’ 반발 한동훈에 “위법증거 까보자? 무식하고 무지” - 한겨레",
-        "en": "홍준표, ‘노웅래 무죄’ 반발 한동훈에 “위법증거 까보자? 무식하고 무지” - 한겨레",
-        "zh": "홍준표, ‘노웅래 무죄’ 반발 한동훈에 “위법증거 까보자? 무식하고 무지” - 한겨레"
-      }
-    },
-    {
-      "title": "용산공원 주택 공급 ‘평행선’ 김윤덕·오세훈, 이번주 다시 만난다 - 조선비즈 - Chosunbiz",
-      "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/08/23/LDRMTWTIHBCD5EENZSQ5C4PTYI/",
-      "source": "Chosunbiz",
-      "pubDate": "Sun, 23 Aug 2026 00:21:00 GMT",
-      "image": "https://biz.chosun.com/resizer/v2/GNTDQOBRGA2GCMDBGA4WIYTEGA.jpg?auth=fb7a9c1b24a3c494c73b945ac9e76e061b508eaec2108137fb5c5e69224f4250&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "용산공원 주택 공급 ‘평행선’ 김윤덕·오세훈, 이번주 다시 만난다 - 조선비즈 - Chosunbiz",
-        "en": "용산공원 주택 공급 ‘평행선’ 김윤덕·오세훈, 이번주 다시 만난다 - 조선비즈 - Chosunbiz",
-        "zh": "용산공원 주택 공급 ‘평행선’ 김윤덕·오세훈, 이번주 다시 만난다 - 조선비즈 - Chosunbiz"
+        "ko": "종합특검, 6개월 수사 종료…50여명 기소",
+        "en": "종합특검, 6개월 수사 종료…50여명 기소",
+        "zh": "종합특검, 6개월 수사 종료…50여명 기소"
       }
     }
   ]
