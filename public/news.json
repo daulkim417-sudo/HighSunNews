@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-23T18:26:57.559252",
+  "lastUpdate": "2026-08-23T18:54:14.638572",
   "items": [
     {
       "title": "제주 실종 ‘허위 종결’ 또 있었다…재신고 하루 만에 백골 시신 - 경향신문",
@@ -8,9 +8,9 @@
       "pubDate": "Sun, 23 Aug 2026 11:57:00 GMT",
       "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
       "summaries": {
-        "ko": "제주에서 실종자의 소재를 확인하지 않고 허위로 사건을 종결하고 전산 자료를 삭제한 혐의로 경찰관이 긴급 체포되었으며, 그가 처리한 사건 중 재신고 하루 만에 백골 시신으로 발견된 실종자가 드러나 그가 맡았던 모든 실종 사건에 대한 전수 조사가 착수되었다.",
-        "en": "A Jeju police officer was emergency arrested for falsely closing missing person cases and deleting records without confirming their whereabouts, after one victim handled by him was found as a skeleton following a re-report, prompting a full investigation into all his past missing person cases.",
-        "zh": "济州一名警察因未确认失踪人员下落便虚假结案并删除记录而被紧急逮捕，此前他经手的一名失踪者在重新报案后被发现已白骨化，目前他负责的所有失踪案件正接受全面调查。"
+        "ko": "제주에서 실종자의 소재를 확인하지 않고 허위로 사건을 종결한 경찰관이 백골 시신으로 발견된 실종자 사례를 포함해 직무유기 혐의로 긴급 체포되었으며, 그가 담당했던 모든 실종 사건에 대한 전수 조사가 시작되었다.",
+        "en": "A Jeju police officer was emergency arrested for dereliction of duty, including falsely closing multiple missing person cases without confirming their whereabouts (one of whom was later found as a skeleton), prompting a full investigation into all missing person cases he handled.",
+        "zh": "济州岛一名警官因在未确认失踪人员下落的情况下虚假结案多起失踪案件（其中包括一名失踪者后来被发现为白骨），涉嫌渎职而被紧急逮捕，目前正对其经手的所有失踪案件展开全面调查。"
       }
     },
     {
@@ -29,12 +29,24 @@
       "title": "민주당, ‘비거주 1주택’ 세부담 완화 드라이브…당·정 온도차 - 한겨레",
       "link": "https://www.hani.co.kr/arti/economy/economy_general/1274225.html",
       "source": "한겨레",
-      "pubDate": "Sun, 23 Aug 2026 16:09:00 GMT",
+      "pubDate": "Sun, 23 Aug 2026 13:08:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/900/608/imgdb/original/2026/0823/20260823501701.webp",
       "summaries": {
         "ko": "민주당, ‘비거주 1주택’ 세부담 완화 드라이브…당·정 온도차 - 한겨레",
         "en": "민주당, ‘비거주 1주택’ 세부담 완화 드라이브…당·정 온도차 - 한겨레",
         "zh": "민주당, ‘비거주 1주택’ 세부담 완화 드라이브…당·정 온도차 - 한겨레"
+      }
+    },
+    {
+      "title": "[사설] 반 토막 난 한미연합훈련, 안보 위협 이상 없나 - 경기일보",
+      "link": "https://www.kyeonggi.com/article/20260823580283",
+      "source": "경기일보",
+      "pubDate": "Sun, 23 Aug 2026 18:03:00 GMT",
+      "image": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/23/.cache/512/20260823580310.jpg?v=20260824035402",
+      "summaries": {
+        "ko": "[사설] 반 토막 난 한미연합훈련, 안보 위협 이상 없나 - 경기일보",
+        "en": "[사설] 반 토막 난 한미연합훈련, 안보 위협 이상 없나 - 경기일보",
+        "zh": "[사설] 반 토막 난 한미연합훈련, 안보 위협 이상 없나 - 경기일보"
       }
     },
     {
@@ -50,15 +62,15 @@
       }
     },
     {
-      "title": "[사설] 반 토막 난 한미연합훈련, 안보 위협 이상 없나 - 경기일보",
-      "link": "https://www.kyeonggi.com/article/20260823580283",
-      "source": "경기일보",
-      "pubDate": "Sun, 23 Aug 2026 18:03:00 GMT",
-      "image": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/23/.cache/512/20260823580310.jpg?v=20260824032646",
+      "title": "처서에 다시 들이닥친 폭염 - 조선일보",
+      "link": "https://www.chosun.com/national/transport-environment/2026/08/24/TQ2HUKBT4JFORMT4VPEWNE5O2Y/",
+      "source": "조선일보",
+      "pubDate": "Sun, 23 Aug 2026 15:44:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/IJ2CPVAYJVGRRK65FATNAVLQ2M.jpg?auth=ef4a54a9ef120e88e8907ccb9cc970bbd036b1cf7218da070146b3b3471c01c6&width=1200&height=630&focal=2930,1786",
       "summaries": {
-        "ko": "[사설] 반 토막 난 한미연합훈련, 안보 위협 이상 없나 - 경기일보",
-        "en": "[사설] 반 토막 난 한미연합훈련, 안보 위협 이상 없나 - 경기일보",
-        "zh": "[사설] 반 토막 난 한미연합훈련, 안보 위협 이상 없나 - 경기일보"
+        "ko": "처서에 다시 들이닥친 폭염 - 조선일보",
+        "en": "처서에 다시 들이닥친 폭염 - 조선일보",
+        "zh": "처서에 다시 들이닥친 폭염 - 조선일보"
       }
     },
     {
@@ -86,18 +98,6 @@
       }
     },
     {
-      "title": "날씨 \"태풍경로 3개 동시발생\" 서울33도·청주35도 폭염 언제까지 - gukjenews.com",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3671635",
-      "source": "gukjenews.com",
-      "pubDate": "Sat, 22 Aug 2026 19:25:00 GMT",
-      "image": "https://cdn.gukjenews.com/news/thumbnail/202608/3671635_3839737_2019_v150.jpg",
-      "summaries": {
-        "ko": "날씨 \"태풍경로 3개 동시발생\" 서울33도·청주35도 폭염 언제까지 - gukjenews.com",
-        "en": "날씨 \"태풍경로 3개 동시발생\" 서울33도·청주35도 폭염 언제까지 - gukjenews.com",
-        "zh": "날씨 \"태풍경로 3개 동시발생\" 서울33도·청주35도 폭염 언제까지 - gukjenews.com"
-      }
-    },
-    {
       "title": "트럼프 또 “호르무즈는 미국 영토” 이란 압박…“선거 지면 난 탄핵당해” - 한겨레",
       "link": "https://www.hani.co.kr/arti/international/international_general/1274143.html",
       "source": "한겨레",
@@ -110,15 +110,15 @@
       }
     },
     {
-      "title": "서아프리카 기니에서 쓰레기매립지 붕괴 사고…\"최소 22명 사망\"",
+      "title": "서아프리카 기니에서 쓰레기매립지 붕괴 사고…\"최소 30명 사망\"",
       "link": "https://www.yonhapnewstv.co.kr/news/AKR20260824025328UZT",
       "source": "Breaking News",
       "pubDate": "Mon, 24 Aug 2026 02:53:30 +0900",
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260823/AKR20260824025328UZT_01_i.jpg",
       "summaries": {
-        "ko": "서아프리카 기니에서 쓰레기매립지 붕괴 사고…\"최소 22명 사망\"",
-        "en": "서아프리카 기니에서 쓰레기매립지 붕괴 사고…\"최소 22명 사망\"",
-        "zh": "서아프리카 기니에서 쓰레기매립지 붕괴 사고…\"최소 22명 사망\""
+        "ko": "서아프리카 기니에서 쓰레기매립지 붕괴 사고…\"최소 30명 사망\"",
+        "en": "서아프리카 기니에서 쓰레기매립지 붕괴 사고…\"최소 30명 사망\"",
+        "zh": "서아프리카 기니에서 쓰레기매립지 붕괴 사고…\"최소 30명 사망\""
       }
     }
   ]
