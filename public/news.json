@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-08-23T14:57:08.344641",
+  "lastUpdate": "2026-08-23T15:11:38.444374",
   "items": [
-    {
-      "title": "민주당, ‘비거주 1주택’ 세부담 완화 드라이브…당·정 온도차 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/economy/economy_general/1274225.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 23 Aug 2026 13:08:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/608/imgdb/original/2026/0823/20260823501701.webp",
-      "summaries": {
-        "ko": "민주당은 당정협의에서 정부의 '실거주 중심' 세제개편 기조와 달리 비거주 1주택자의 종합부동산세 및 양도소득세 등 세부담을 완화해야 한다고 강하게 주장했다.",
-        "en": "In inter-party and government consultations, the Democratic Party strongly argued for easing the tax burden, including comprehensive real estate tax and capital gains tax, on non-resident single homeowners, contrary to the government's \"real-residence-centric\" tax reform approach.",
-        "zh": "在党政协商会议上，民主党强烈主张，与政府“以实际居住为中心”的税制改革基调不同，应减轻非居住型一户住宅所有者的综合房地产税和资本利得税等税负。"
-      }
-    },
     {
       "title": "제주 실종 ‘허위 종결’ 또 있었다…재신고 하루 만에 백골 시신 - 경향신문",
       "link": "https://www.khan.co.kr/article/202608232057005",
@@ -20,9 +8,21 @@
       "pubDate": "Sun, 23 Aug 2026 11:57:00 GMT",
       "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
       "summaries": {
-        "ko": "제주 경찰관이 실종자 소재를 확인하지 않은 채 허위 종결하고 전산 자료를 삭제한 혐의로 긴급체포됐으며, 그가 담당했던 실종 사건 중 한 명은 백골 상태로 발견되어 모든 실종 사건에 대한 전수 조사가 진행 중이다.",
-        "en": "A Jeju police officer has been emergency arrested for allegedly falsely closing multiple missing person cases without verifying their whereabouts and deleting records, after one such missing person was later found as a skeleton, prompting a full investigation into all cases handled by the officer.",
-        "zh": "济州一名警察因涉嫌未经确认失踪人员下落便虚假结案并删除记录而被紧急逮捕，此前一名失踪者在其负责的案件中被发现为白骨，警方已对其经手的全部失踪案件展开调查。"
+        "ko": "제주 실종 ‘허위 종결’ 또 있었다…재신고 하루 만에 백골 시신 - 경향신문",
+        "en": "제주 실종 ‘허위 종결’ 또 있었다…재신고 하루 만에 백골 시신 - 경향신문",
+        "zh": "제주 실종 ‘허위 종결’ 또 있었다…재신고 하루 만에 백골 시신 - 경향신문"
+      }
+    },
+    {
+      "title": "민주당, ‘비거주 1주택’ 세부담 완화 드라이브…당·정 온도차 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/economy/economy_general/1274225.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 23 Aug 2026 13:08:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/900/608/imgdb/original/2026/0823/20260823501701.webp",
+      "summaries": {
+        "ko": "민주당, ‘비거주 1주택’ 세부담 완화 드라이브…당·정 온도차 - 한겨레",
+        "en": "민주당, ‘비거주 1주택’ 세부담 완화 드라이브…당·정 온도차 - 한겨레",
+        "zh": "민주당, ‘비거주 1주택’ 세부담 완화 드라이브…당·정 온도차 - 한겨레"
       }
     },
     {
@@ -50,27 +50,39 @@
       }
     },
     {
-      "title": "대법관 14→26명으로…전문가들 “인선 제도, 더 투명해야” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1274233.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 23 Aug 2026 10:46:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/676/imgdb/original/2026/0823/20260823501739.webp",
+      "title": "푸틴 “우크라이나, 러시아 경제 파괴하려 판도라 상자 열어” - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260823233457PxR",
+      "source": "연합뉴스TV",
+      "pubDate": "Sun, 23 Aug 2026 14:34:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260823/AKR20260823233457PxR_01_i.jpg",
       "summaries": {
-        "ko": "대법관 14→26명으로…전문가들 “인선 제도, 더 투명해야” - 한겨레",
-        "en": "대법관 14→26명으로…전문가들 “인선 제도, 더 투명해야” - 한겨레",
-        "zh": "대법관 14→26명으로…전문가들 “인선 제도, 더 투명해야” - 한겨레"
+        "ko": "푸틴 “우크라이나, 러시아 경제 파괴하려 판도라 상자 열어” - 연합뉴스TV",
+        "en": "푸틴 “우크라이나, 러시아 경제 파괴하려 판도라 상자 열어” - 연합뉴스TV",
+        "zh": "푸틴 “우크라이나, 러시아 경제 파괴하려 판도라 상자 열어” - 연합뉴스TV"
       }
     },
     {
-      "title": "이란 “호르무즈 석유 한 방울도…” 미 제재 앞두고 “동참하면 적” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1274176.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 23 Aug 2026 09:58:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/881/587/imgdb/original/2026/0823/20260823501020.webp",
+      "title": "또 사라진 ‘처서 매직’…무더위에 계곡·동굴로 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8643691",
+      "source": "KBS 뉴스",
+      "pubDate": "Sun, 23 Aug 2026 12:06:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/08/23/20260823_3QD1Wq.png",
       "summaries": {
-        "ko": "이란 “호르무즈 석유 한 방울도…” 미 제재 앞두고 “동참하면 적” - 한겨레",
-        "en": "이란 “호르무즈 석유 한 방울도…” 미 제재 앞두고 “동참하면 적” - 한겨레",
-        "zh": "이란 “호르무즈 석유 한 방울도…” 미 제재 앞두고 “동참하면 적” - 한겨레"
+        "ko": "또 사라진 ‘처서 매직’…무더위에 계곡·동굴로 - KBS 뉴스",
+        "en": "또 사라진 ‘처서 매직’…무더위에 계곡·동굴로 - KBS 뉴스",
+        "zh": "또 사라진 ‘처서 매직’…무더위에 계곡·동굴로 - KBS 뉴스"
+      }
+    },
+    {
+      "title": "박성준 \"조희대 대법원장, 품격 내던져‥즉각 사퇴하라\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6846633_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Sun, 23 Aug 2026 01:52:30 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/08/23/sa_20260823_10.jpg",
+      "summaries": {
+        "ko": "박성준 \"조희대 대법원장, 품격 내던져‥즉각 사퇴하라\" - MBC 뉴스",
+        "en": "박성준 \"조희대 대법원장, 품격 내던져‥즉각 사퇴하라\" - MBC 뉴스",
+        "zh": "박성준 \"조희대 대법원장, 품격 내던져‥즉각 사퇴하라\" - MBC 뉴스"
       }
     },
     {
@@ -83,18 +95,6 @@
         "ko": "민주 \"장동혁·국힘, 노웅래에 2차 가해‥한동훈은 '당게' 사건부터 해명해야\" - MBC 뉴스",
         "en": "민주 \"장동혁·국힘, 노웅래에 2차 가해‥한동훈은 '당게' 사건부터 해명해야\" - MBC 뉴스",
         "zh": "민주 \"장동혁·국힘, 노웅래에 2차 가해‥한동훈은 '당게' 사건부터 해명해야\" - MBC 뉴스"
-      }
-    },
-    {
-      "title": "처서에도 무더위 계속... 서울 전역 폭염주의보 - 조선일보",
-      "link": "https://www.chosun.com/national/transport-environment/2026/08/23/AEMF6BKIEBA5LDNYNOTHPQC7B4/",
-      "source": "조선일보",
-      "pubDate": "Sun, 23 Aug 2026 04:14:19 GMT",
-      "image": "https://www.chosun.com/resizer/v2/SBUDEW5EYJOMHBUL67RT4RZWZA.jpg?auth=3f912b965b831084d189d5677cd172c2cd07e8c2d8efe9fa7374d3154353d64d&width=1200&height=630&focal=958,573",
-      "summaries": {
-        "ko": "처서에도 무더위 계속... 서울 전역 폭염주의보 - 조선일보",
-        "en": "처서에도 무더위 계속... 서울 전역 폭염주의보 - 조선일보",
-        "zh": "처서에도 무더위 계속... 서울 전역 폭염주의보 - 조선일보"
       }
     },
     {
