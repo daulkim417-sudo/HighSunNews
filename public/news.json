@@ -1,28 +1,52 @@
 {
-  "lastUpdate": "2026-08-24T09:59:28.052090",
+  "lastUpdate": "2026-08-24T10:34:00.358331",
   "items": [
     {
-      "title": "장미란씨 추정 시신, 실종 104일 만에 발견···제주 숙소서 도보로 5분 거리 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608241137001",
-      "source": "경향신문",
-      "pubDate": "Mon, 24 Aug 2026 02:37:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/24/news-p.v1.20260824.d22b26af5aa54bce97338c32a3ccffca_P1.png",
+      "title": "‘장미란 실종’ 허위 종결한 A경장…그동안 실종사건 298건 처리 - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/08/24/GJQMYITG2VHQLBCNBNSKQF6HHQ/",
+      "source": "조선일보",
+      "pubDate": "Mon, 24 Aug 2026 06:36:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/XNSXV73UKJC6LL4EBAQ6NJHCLI.jpg?auth=33d466785a440d14301b397317072a131c71d3fc16c2453dedb8b23baaa48999&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "제주에서 실종 104일 만에 장미란씨 추정 시신이 숙소 인근에서 발견된 가운데, 실종 신고를 허위 종결한 담당 경찰관 A경장이 체포 후 석방되었으나 구속영장이 청구됐다.",
-        "en": "The presumed body of Jang Miran, missing for 104 days in Jeju, was found near her accommodation, while police officer 'A', who allegedly falsely closed her missing person report, was arrested and released, but an arrest warrant has now been sought for him.",
-        "zh": "在济州失踪104天后，据信是张美兰的遗体在其住所附近被发现，而涉嫌虚假结案其失踪报案的负责警官A在被捕后获释，但检方已申请了逮捕令。"
+        "ko": "‘장미란 실종’ 허위 종결한 A경장…그동안 실종사건 298건 처리 - 조선일보",
+        "en": "‘장미란 실종’ 허위 종결한 A경장…그동안 실종사건 298건 처리 - 조선일보",
+        "zh": "‘장미란 실종’ 허위 종결한 A경장…그동안 실종사건 298건 처리 - 조선일보"
       }
     },
     {
-      "title": "장애인 지하철 시위 진짜 끝?…전장연 “시위 전면 중단” - 국민일보",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005509",
-      "source": "국민일보",
-      "pubDate": "Mon, 24 Aug 2026 04:39:00 GMT",
-      "image": "https://image.kmib.co.kr/online_image/2026/0824/01100201.20260824500696.jpg",
+      "title": "청와대 “세제개편안 수정, 국민 의견·당정협의 결과 면밀히 살피는 중” - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8644440",
+      "source": "KBS 뉴스",
+      "pubDate": "Mon, 24 Aug 2026 09:44:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/08/24/20260824_ayveD1.jpg",
       "summaries": {
-        "ko": "장애인 지하철 시위 진짜 끝?…전장연 “시위 전면 중단” - 국민일보",
-        "en": "장애인 지하철 시위 진짜 끝?…전장연 “시위 전면 중단” - 국민일보",
-        "zh": "장애인 지하철 시위 진짜 끝?…전장연 “시위 전면 중단” - 국민일보"
+        "ko": "청와대는 세제개편안 수정 방향에 대해 국민 의견과 당정 협의 결과를 면밀히 살피는 중이라고 밝히는 한편, 조희대 대법원장의 대법관 후보 제청 과정에 대해선 '헌정사 초유의 사태'라며 강한 문제 의식을 표명했습니다.",
+        "en": "The Presidential Office announced it is carefully reviewing public opinions and the results of party-government consultations regarding the direction of the tax reform amendment, while also expressing strong concerns about Chief Justice Cho Hee-dae's Supreme Court justice nomination process, calling it an \"unprecedented event in constitutional history.\"",
+        "zh": "青瓦台表示正在密切关注国民意见和党政协商结果，以确定税制改革修正案的方向，同时就大法院院长赵熙大提请大法官候选人的过程，表示“这是宪政史上前所未有的事态”，表达了强烈的问题意识。"
+      }
+    },
+    {
+      "title": "김민석 고소장에 ‘여자 전두환’ 뺀 이진숙 “절차 단순하게 하려고” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1274322.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 24 Aug 2026 07:21:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/788/389/imgdb/child/2026/0824/17875545080897_20260824502189.webp",
+      "summaries": {
+        "ko": "국민의힘 이진숙 의원이 5·18 폄훼 토론회 개최를 비판하며 자신을 '여자 히틀러'라고 칭한 더불어민주당 김민석 대표를 모욕죄 혐의로 고소했다.",
+        "en": "People Power Party lawmaker Lee Jin-sook has sued Democratic Party leader Kim Min-seok for insult, after he called her a 'female Hitler' while criticizing her for hosting a debate on the May 18 Gwangju Uprising.",
+        "zh": "国民力量党议员李珍淑因共同民主党代表金民锡批评她主办“5·18歪曲讨论会”并称其为“女希特勒”，以涉嫌侮辱罪对其提起诉讼。"
+      }
+    },
+    {
+      "title": "“연임 없다 재판받겠다” 문구 앞에 선 김민석…피했어야 할 사진? - 주간경향",
+      "link": "https://weekly.khan.co.kr/article/202608241533011",
+      "source": "주간경향",
+      "pubDate": "Mon, 24 Aug 2026 06:33:00 GMT",
+      "image": "https://img.khan.co.kr/weekly/2026/08/24/news-p.v1.20260824.4333e9484f704546943f2247dba75ebd_P1.jpeg",
+      "summaries": {
+        "ko": "“연임 없다 재판받겠다” 문구 앞에 선 김민석…피했어야 할 사진? - 주간경향",
+        "en": "“연임 없다 재판받겠다” 문구 앞에 선 김민석…피했어야 할 사진? - 주간경향",
+        "zh": "“연임 없다 재판받겠다” 문구 앞에 선 김민석…피했어야 할 사진? - 주간경향"
       }
     },
     {
@@ -38,54 +62,6 @@
       }
     },
     {
-      "title": "김민석 ‘여자 히틀러’ 발언... 이진숙, 모욕 혐의로 고소 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/08/24/I2H3NTMWJRC65KUHQTDH27RSVQ/",
-      "source": "조선일보",
-      "pubDate": "Mon, 24 Aug 2026 07:54:37 GMT",
-      "image": "https://www.chosun.com/resizer/v2/ZZFGUWG53BMATOGI32VBSND2LY.JPG?auth=b8bfa9053e8a766923b626af6883fe54fbe030820e7248dc5d7b9bfb4b3722be&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "김민석 ‘여자 히틀러’ 발언... 이진숙, 모욕 혐의로 고소 - 조선일보",
-        "en": "김민석 ‘여자 히틀러’ 발언... 이진숙, 모욕 혐의로 고소 - 조선일보",
-        "zh": "김민석 ‘여자 히틀러’ 발언... 이진숙, 모욕 혐의로 고소 - 조선일보"
-      }
-    },
-    {
-      "title": "당분간 무더위와 열대야…내일 중부지방 소나기 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8644398",
-      "source": "KBS 뉴스",
-      "pubDate": "Mon, 24 Aug 2026 08:22:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/08/24/20260824_AokZd4.png",
-      "summaries": {
-        "ko": "당분간 무더위와 열대야…내일 중부지방 소나기 - KBS 뉴스",
-        "en": "당분간 무더위와 열대야…내일 중부지방 소나기 - KBS 뉴스",
-        "zh": "당분간 무더위와 열대야…내일 중부지방 소나기 - KBS 뉴스"
-      }
-    },
-    {
-      "title": "서울시, 500세대 이하 정비구역 구청 이양 반발…“속도보다 난개발 우려” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/capital/1274327.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 24 Aug 2026 06:26:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0824/53_17875528402064_20260824502256.webp",
-      "summaries": {
-        "ko": "서울시, 500세대 이하 정비구역 구청 이양 반발…“속도보다 난개발 우려” - 한겨레",
-        "en": "서울시, 500세대 이하 정비구역 구청 이양 반발…“속도보다 난개발 우려” - 한겨레",
-        "zh": "서울시, 500세대 이하 정비구역 구청 이양 반발…“속도보다 난개발 우려” - 한겨레"
-      }
-    },
-    {
-      "title": "장동혁과 첫 회동한 김민석 \"필수적 제1야당 리더\" 치켜세워 - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/08/24/OHRUT3IANZE5VC6POJGKPS5FHM/",
-      "source": "조선일보",
-      "pubDate": "Mon, 24 Aug 2026 05:09:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/VJUVVMTTMBMUFEJPXQD6NUNV2Q.jpg?auth=8f4027594a7f8e4e594102e7102e98825bc949283a198dab7aec5f3cd8f6e91b&width=1200&height=630&focal=2796,1537",
-      "summaries": {
-        "ko": "장동혁과 첫 회동한 김민석 \"필수적 제1야당 리더\" 치켜세워 - 조선일보",
-        "en": "장동혁과 첫 회동한 김민석 \"필수적 제1야당 리더\" 치켜세워 - 조선일보",
-        "zh": "장동혁과 첫 회동한 김민석 \"필수적 제1야당 리더\" 치켜세워 - 조선일보"
-      }
-    },
-    {
       "title": "산청군, 수해 피해 거제시민 빠른 일상 회복에 힘 보태 - 연합뉴스",
       "link": "https://www.yna.co.kr/view/RPR20260824003700353",
       "source": "연합뉴스",
@@ -98,27 +74,63 @@
       }
     },
     {
-      "title": "제주서 또 실종자 사체 발견…22일 이후 사흘새 4명째",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260824185213Ipm",
-      "source": "Breaking News",
-      "pubDate": "Mon, 24 Aug 2026 18:52:15 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260824/AKR20260824185213Ipm_01_i.jpg",
+      "title": "법원, '尹 여론조사 무상제공' 혐의 명태균 보석 인용 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6846914_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Mon, 24 Aug 2026 07:25:53 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/24/jse_20260824_11.jpg",
       "summaries": {
-        "ko": "제주서 또 실종자 사체 발견…22일 이후 사흘새 4명째",
-        "en": "제주서 또 실종자 사체 발견…22일 이후 사흘새 4명째",
-        "zh": "제주서 또 실종자 사체 발견…22일 이후 사흘새 4명째"
+        "ko": "법원, '尹 여론조사 무상제공' 혐의 명태균 보석 인용 - MBC 뉴스",
+        "en": "법원, '尹 여론조사 무상제공' 혐의 명태균 보석 인용 - MBC 뉴스",
+        "zh": "법원, '尹 여론조사 무상제공' 혐의 명태균 보석 인용 - MBC 뉴스"
       }
     },
     {
-      "title": "[DM왔어요] KTX 낙상사고 공개한 박위 '역풍'…'100만 유튜버' 타이틀도 깨져 外",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260824184853YpD",
-      "source": "Breaking News",
-      "pubDate": "Mon, 24 Aug 2026 18:48:54 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260824/MYH20260824184853YpD.jpg",
+      "title": "‘평행선’ 용산공원 해법 나올까…김윤덕-오세훈 이번주 재협상 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/capital/1274250.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 24 Aug 2026 02:08:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/950/528/imgdb/original/2026/0823/20260823501975.webp",
       "summaries": {
-        "ko": "[DM왔어요] KTX 낙상사고 공개한 박위 '역풍'…'100만 유튜버' 타이틀도 깨져 外",
-        "en": "[DM왔어요] KTX 낙상사고 공개한 박위 '역풍'…'100만 유튜버' 타이틀도 깨져 外",
-        "zh": "[DM왔어요] KTX 낙상사고 공개한 박위 '역풍'…'100만 유튜버' 타이틀도 깨져 外"
+        "ko": "‘평행선’ 용산공원 해법 나올까…김윤덕-오세훈 이번주 재협상 - 한겨레",
+        "en": "‘평행선’ 용산공원 해법 나올까…김윤덕-오세훈 이번주 재협상 - 한겨레",
+        "zh": "‘평행선’ 용산공원 해법 나올까…김윤덕-오세훈 이번주 재협상 - 한겨레"
+      }
+    },
+    {
+      "title": "특별감찰관에 최길수 지명…정성호 사의 수리",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260824192130DI3",
+      "source": "Breaking News",
+      "pubDate": "Mon, 24 Aug 2026 19:21:31 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260824/MYH20260824192130DI3.jpg",
+      "summaries": {
+        "ko": "특별감찰관에 최길수 지명…정성호 사의 수리",
+        "en": "특별감찰관에 최길수 지명…정성호 사의 수리",
+        "zh": "특별감찰관에 최길수 지명…정성호 사의 수리"
+      }
+    },
+    {
+      "title": "또 폭락한 이란 리알화…미 '경제적 D-데이' 앞 사상 최저",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260824191817QeM",
+      "source": "Breaking News",
+      "pubDate": "Mon, 24 Aug 2026 19:18:19 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260824/AKR20260824191817QeM_01_i.jpg",
+      "summaries": {
+        "ko": "또 폭락한 이란 리알화…미 '경제적 D-데이' 앞 사상 최저",
+        "en": "또 폭락한 이란 리알화…미 '경제적 D-데이' 앞 사상 최저",
+        "zh": "또 폭락한 이란 리알화…미 '경제적 D-데이' 앞 사상 최저"
+      }
+    },
+    {
+      "title": "종합특검 \"내란 수사 안 끝나…상설 특수본 필요\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260824191453sP1",
+      "source": "Breaking News",
+      "pubDate": "Mon, 24 Aug 2026 19:14:54 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260824/MYH20260824191453sP1.jpg",
+      "summaries": {
+        "ko": "종합특검 \"내란 수사 안 끝나…상설 특수본 필요\"",
+        "en": "종합특검 \"내란 수사 안 끝나…상설 특수본 필요\"",
+        "zh": "종합특검 \"내란 수사 안 끝나…상설 특수본 필요\""
       }
     }
   ]
