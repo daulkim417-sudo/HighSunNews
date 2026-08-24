@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-24T13:31:02.135948",
+  "lastUpdate": "2026-08-24T14:10:34.436871",
   "items": [
     {
       "title": "‘장미란씨 실종 허위 종결’ 그 경찰, 298건 혼자서 끝냈다···1인 종결 구멍, 터질 게 터졌다 - 경향신문",
@@ -8,16 +8,28 @@
       "pubDate": "Mon, 24 Aug 2026 08:26:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/08/24/news-p.v1.20260824.aa312d7cc66846b2b10836283cac00db_P1.jpg",
       "summaries": {
-        "ko": "제주에서 실종사건을 허위 종결한 경찰관으로 인해 사망자가 발생하자, 경찰은 298건의 단독 종결 실종사건 전수조사와 함께 담당 경찰관 한 명이 사건을 종결할 수 있는 시스템 개선에 착수했다.",
-        "en": "Following the deaths of individuals whose missing person cases were falsely closed by a police officer in Jeju, the police have launched a full investigation into 298 such cases closed solely by one officer and are moving to improve the system that allows a single officer to close cases.",
-        "zh": "济州一名警察虚假结案失踪事件导致死亡后，警方已对该警察单独结案的298起失踪案件展开全面调查，并着手改进允许一名警察独自结案的制度。"
+        "ko": "제주 경찰관이 실종 신고 298건을 허위 종결한 사실이 드러나면서, 상급자 결재 없는 단독 종결 등 실종 사건 처리 시스템의 구조적 문제에 대한 전면적인 점검과 개선 요구가 나오고 있다.",
+        "en": "A Jeju police officer falsely closed 298 missing persons cases, including two individuals later found dead, exposing systemic flaws in the missing persons case handling process, such as unilateral closure without supervisor approval, and prompting calls for comprehensive review and improvement.",
+        "zh": "济州一名警官被揭发虚假结案298起失踪人员报告，其中有两人后来被发现死亡，这暴露了失踪案件处理系统中存在的结构性缺陷，例如没有上级批准的单方面结案，促使警方要求对该系统进行全面审查和改进。"
+      }
+    },
+    {
+      "title": "서울 ‘폭염경보’ 강화…이번 주 내내 덥다 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8644688",
+      "source": "KBS 뉴스",
+      "pubDate": "Mon, 24 Aug 2026 12:14:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/08/24/20260824_QYcpZJ.png",
+      "summaries": {
+        "ko": "서울에 폭염경보가 강화되고 이번 주 내내 무더위가 이어질 예정으로, 습도와 체감온도가 높아 열대야와 함께 건강 관리에 유의해야 한다.",
+        "en": "Seoul's heatwave warning has been strengthened, with intense heat expected to continue throughout this week, bringing high humidity, elevated perceived temperatures, and tropical nights, necessitating caution for health management.",
+        "zh": "首尔的酷暑警报已升级，预计本周将持续高温天气，湿度和体感温度较高，伴随热带夜现象，需注意健康管理。"
       }
     },
     {
       "title": "정부, 비거주 1주택 종부세 기본공제 ‘12억’ 복원 검토 - 한겨레",
       "link": "https://www.hani.co.kr/arti/economy/economy_general/1274408.html",
       "source": "한겨레",
-      "pubDate": "Mon, 24 Aug 2026 12:13:00 GMT",
+      "pubDate": "Mon, 24 Aug 2026 13:16:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/690/imgdb/original/2026/0824/20260824503147.webp",
       "summaries": {
         "ko": "정부, 비거주 1주택 종부세 기본공제 ‘12억’ 복원 검토 - 한겨레",
@@ -32,57 +44,57 @@
       "pubDate": "Mon, 24 Aug 2026 12:13:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/958/575/imgdb/child/2026/0824/53_17875601418689_20260824502943.webp",
       "summaries": {
-        "ko": "“조희대 이대로 둘 순 없어”…법 개정 밝힌 민주, 탄핵까지 갈까 - 한겨레",
-        "en": "“조희대 이대로 둘 순 없어”…법 개정 밝힌 민주, 탄핵까지 갈까 - 한겨레",
-        "zh": "“조희대 이대로 둘 순 없어”…법 개정 밝힌 민주, 탄핵까지 갈까 - 한겨레"
+        "ko": "조희대 대법원장의 대법관 후보자 임명제청 논란이 불거지자 더불어민주당이 그의 자진 사퇴를 압박하며 법원조직법 개정 등 사법개혁 추진과 함께 일부에서 탄핵까지 거론하고 있다.",
+        "en": "Following the controversy over Chief Justice Cho Hee-dae's nomination of Supreme Court justices, the Democratic Party is pressing for his resignation, pursuing judicial reforms including amendments to the Court Organization Act, and some members are even discussing impeachment.",
+        "zh": "针对大法院院长赵熙大关于大法官候选人任命推荐的争议，共同民主党正施压要求其自行辞职，同时推动包括修改法院组织法在内的司法改革，部分议员甚至提及弹劾。"
       }
     },
     {
-      "title": "김민석 ‘여자 히틀러’ 발언... 이진숙, 모욕 혐의로 고소 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/08/24/I2H3NTMWJRC65KUHQTDH27RSVQ/",
+      "title": "퇴임하는 정성호 법무장관 \"대통령은 대법관 임명권자… 존중해 해결해야\" - 조선일보",
+      "link": "https://www.chosun.com/national/court_law/2026/08/24/EJ6NZU2VFZDU7GRQERR6VPET6E/",
       "source": "조선일보",
-      "pubDate": "Mon, 24 Aug 2026 07:54:37 GMT",
-      "image": "https://www.chosun.com/resizer/v2/ZZFGUWG53BMATOGI32VBSND2LY.JPG?auth=b8bfa9053e8a766923b626af6883fe54fbe030820e7248dc5d7b9bfb4b3722be&width=1200&height=630&smart=true",
+      "pubDate": "Mon, 24 Aug 2026 09:46:10 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MY2DMOLGGNQWKMRSGY4TENRQMY.jpg?auth=de80cb62af9ba83371cec18b041ded353ad96ea3069a2f4c76c09f5ef3d5c299&width=720&height=378&focal=352,198",
       "summaries": {
-        "ko": "김민석 ‘여자 히틀러’ 발언... 이진숙, 모욕 혐의로 고소 - 조선일보",
-        "en": "김민석 ‘여자 히틀러’ 발언... 이진숙, 모욕 혐의로 고소 - 조선일보",
-        "zh": "김민석 ‘여자 히틀러’ 발언... 이진숙, 모욕 혐의로 고소 - 조선일보"
+        "ko": "퇴임하는 정성호 법무장관 \"대통령은 대법관 임명권자… 존중해 해결해야\" - 조선일보",
+        "en": "퇴임하는 정성호 법무장관 \"대통령은 대법관 임명권자… 존중해 해결해야\" - 조선일보",
+        "zh": "퇴임하는 정성호 법무장관 \"대통령은 대법관 임명권자… 존중해 해결해야\" - 조선일보"
       }
     },
     {
-      "title": "정성호 사표 수리…중폭 개각 속도 붙나 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608242101025",
-      "source": "경향신문",
-      "pubDate": "Mon, 24 Aug 2026 12:01:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/24/l_2026082501000694900069741.jpg",
-      "summaries": {
-        "ko": "정성호 사표 수리…중폭 개각 속도 붙나 - 경향신문",
-        "en": "정성호 사표 수리…중폭 개각 속도 붙나 - 경향신문",
-        "zh": "정성호 사표 수리…중폭 개각 속도 붙나 - 경향신문"
-      }
-    },
-    {
-      "title": "윤석열 부부 등 58명 기소한 종합특검…핵심 사건은 ‘용두사미’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1274389.html",
+      "title": "김민석 고소장에 ‘여자 전두환’ 뺀 이진숙 “절차 단순하게 하려고” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1274322.html",
       "source": "한겨레",
-      "pubDate": "Mon, 24 Aug 2026 10:47:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0824/20260824503032.webp",
+      "pubDate": "Mon, 24 Aug 2026 07:21:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/788/389/imgdb/child/2026/0824/17875545080897_20260824502189.webp",
       "summaries": {
-        "ko": "윤석열 부부 등 58명 기소한 종합특검…핵심 사건은 ‘용두사미’ - 한겨레",
-        "en": "윤석열 부부 등 58명 기소한 종합특검…핵심 사건은 ‘용두사미’ - 한겨레",
-        "zh": "윤석열 부부 등 58명 기소한 종합특검…핵심 사건은 ‘용두사미’ - 한겨레"
+        "ko": "김민석 고소장에 ‘여자 전두환’ 뺀 이진숙 “절차 단순하게 하려고” - 한겨레",
+        "en": "김민석 고소장에 ‘여자 전두환’ 뺀 이진숙 “절차 단순하게 하려고” - 한겨레",
+        "zh": "김민석 고소장에 ‘여자 전두환’ 뺀 이진숙 “절차 단순하게 하려고” - 한겨레"
       }
     },
     {
-      "title": "李대통령 지지율 ‘6주 연속 하락’ 40.2%… 최저치 경신 - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/08/24/RIYGIDRWBFGAXKIA7NKDM4CQ7Q/",
-      "source": "조선일보",
-      "pubDate": "Sun, 23 Aug 2026 23:16:14 GMT",
-      "image": "https://www.chosun.com/resizer/v2/E2M7YAX4LFH3BGETG5BD3KDOTU.jpg?auth=a8e6a92c2ee6b4ca2477cbf2088e98ca10b5414a52cbf25d8abe8cff1ee9d4a5&width=1200&height=630&smart=true",
+      "title": "역대 최장 180일 수사한 종합특검 \"시간 부족…특수본 설치해야\"[영상] - 노컷뉴스",
+      "link": "https://www.nocutnews.co.kr/news/6566886",
+      "source": "노컷뉴스",
+      "pubDate": "Mon, 24 Aug 2026 03:25:00 GMT",
+      "image": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/24/202608241224509663_0.jpg",
       "summaries": {
-        "ko": "李대통령 지지율 ‘6주 연속 하락’ 40.2%… 최저치 경신 - 조선일보",
-        "en": "李대통령 지지율 ‘6주 연속 하락’ 40.2%… 최저치 경신 - 조선일보",
-        "zh": "李대통령 지지율 ‘6주 연속 하락’ 40.2%… 최저치 경신 - 조선일보"
+        "ko": "역대 최장 180일 수사한 종합특검 \"시간 부족…특수본 설치해야\"[영상] - 노컷뉴스",
+        "en": "역대 최장 180일 수사한 종합특검 \"시간 부족…특수본 설치해야\"[영상] - 노컷뉴스",
+        "zh": "역대 최장 180일 수사한 종합특검 \"시간 부족…특수본 설치해야\"[영상] - 노컷뉴스"
+      }
+    },
+    {
+      "title": "전장연, 지하철 휠체어 시위 전면 중단…서울시의회 민주당과 타협 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260824076000004",
+      "source": "연합뉴스",
+      "pubDate": "Mon, 24 Aug 2026 02:31:01 GMT",
+      "image": "https://img8.yna.co.kr/photo/yna/YH/2026/08/24/PYH2026082400940001300_P4.jpg",
+      "summaries": {
+        "ko": "전장연, 지하철 휠체어 시위 전면 중단…서울시의회 민주당과 타협 - 연합뉴스",
+        "en": "전장연, 지하철 휠체어 시위 전면 중단…서울시의회 민주당과 타협 - 연합뉴스",
+        "zh": "전장연, 지하철 휠체어 시위 전면 중단…서울시의회 민주당과 타협 - 연합뉴스"
       }
     },
     {
@@ -98,27 +110,15 @@
       }
     },
     {
-      "title": "‘평행선’ 용산공원 해법 나올까…김윤덕-오세훈 이번주 재협상 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/capital/1274250.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 23 Aug 2026 20:00:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/950/528/imgdb/original/2026/0823/20260823501975.webp",
-      "summaries": {
-        "ko": "‘평행선’ 용산공원 해법 나올까…김윤덕-오세훈 이번주 재협상 - 한겨레",
-        "en": "‘평행선’ 용산공원 해법 나올까…김윤덕-오세훈 이번주 재협상 - 한겨레",
-        "zh": "‘평행선’ 용산공원 해법 나올까…김윤덕-오세훈 이번주 재협상 - 한겨레"
-      }
-    },
-    {
-      "title": "[뉴스워치] 8월24일 다시보기",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260824215857I6j",
+      "title": "'주식 성과급' 분수령…SK하이닉스에 쏠리는 눈",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260824230552upn",
       "source": "Breaking News",
-      "pubDate": "Mon, 24 Aug 2026 22:25:05 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260824/MYH20260824215857I6j.jpg",
+      "pubDate": "Mon, 24 Aug 2026 23:05:54 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260824/MYH20260824230552upn.jpg",
       "summaries": {
-        "ko": "[뉴스워치] 8월24일 다시보기",
-        "en": "[뉴스워치] 8월24일 다시보기",
-        "zh": "[뉴스워치] 8월24일 다시보기"
+        "ko": "'주식 성과급' 분수령…SK하이닉스에 쏠리는 눈",
+        "en": "'주식 성과급' 분수령…SK하이닉스에 쏠리는 눈",
+        "zh": "'주식 성과급' 분수령…SK하이닉스에 쏠리는 눈"
       }
     }
   ]
