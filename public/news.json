@@ -1,6 +1,30 @@
 {
-  "lastUpdate": "2026-08-24T16:01:41.383093",
+  "lastUpdate": "2026-08-24T16:49:33.589939",
   "items": [
+    {
+      "title": "[종합] 실종 장미란씨 추정 시신 발견...'허위 종결' 경찰관 영장 신청 - 헤드라인제주",
+      "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597905",
+      "source": "헤드라인제주",
+      "pubDate": "Mon, 24 Aug 2026 14:39:24 GMT",
+      "image": "https://www.headlinejeju.co.kr/news/photo/202608/597905_494010_3820.jpg",
+      "summaries": {
+        "ko": "3개월 전 실종된 장미란 씨로 추정되는 시신이 발견되었고, 이 사건을 허위 종결하고 다른 실종 기록까지 삭제하려 한 혐의로 경찰관 A경장이 구속영장을 신청받았다.",
+        "en": "The body presumed to be that of Jang Miran, missing for three months, has been found, while police officer A has been arrested and faces charges for allegedly falsely closing her case and attempting to delete other missing persons' records.",
+        "zh": "失踪三个月的张美兰女士遗体被发现，与此同时，一名警官因涉嫌虚假结案并试图删除其他失踪记录而被申请逮捕令。"
+      }
+    },
+    {
+      "title": "윤석열 부부 등 58명 기소한 종합특검…핵심 사건은 ‘용두사미’ - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1274389.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 24 Aug 2026 09:02:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0824/20260824503032.webp",
+      "summaries": {
+        "ko": "윤석열 부부 등 58명 기소한 종합특검…핵심 사건은 ‘용두사미’ - 한겨레",
+        "en": "윤석열 부부 등 58명 기소한 종합특검…핵심 사건은 ‘용두사미’ - 한겨레",
+        "zh": "윤석열 부부 등 58명 기소한 종합특검…핵심 사건은 ‘용두사미’ - 한겨레"
+      }
+    },
     {
       "title": "정부, 비거주 1주택 종부세 기본공제 ‘12억’ 복원 검토 - 한겨레",
       "link": "https://www.hani.co.kr/arti/economy/economy_general/1274408.html",
@@ -8,45 +32,9 @@
       "pubDate": "Mon, 24 Aug 2026 13:16:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/690/imgdb/original/2026/0824/20260824503147.webp",
       "summaries": {
-        "ko": "정부가 더불어민주당의 요구에 따라 비거주 1주택자의 종합부동산세 기본공제액을 12억원으로 복원하고 보유세 부담 상한을 150%로 유지하는 등 세제개편안을 재검토하고 있다.",
-        "en": "The South Korean government is re-examining its proposed tax reform, including restoring the comprehensive real estate tax basic deduction for non-resident single-home owners to 1.2 billion KRW and maintaining the property tax burden cap at 150%, following strong demands from the Democratic Party.",
-        "zh": "韩国政府正应执政党民主党的强烈要求，重新审查其税制改革方案，考虑将非居住型一户住宅的综合房地产税基本免税额恢复至12亿韩元，并维持房地产税负担上限为150%。"
-      }
-    },
-    {
-      "title": "55년 만에 지방교부금 개편…전북 교육 재정 투자 축소되나 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8644538",
-      "source": "KBS 뉴스",
-      "pubDate": "Mon, 24 Aug 2026 10:29:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/title_image/newsmp4/jeonju/news7/2026/08/24/80_8644538.jpg",
-      "summaries": {
-        "ko": "정부가 55년 만에 지방교육재정교부금 배분 방식을 개편하여 학생 수 감소를 반영하게 되면서, 학생 수가 줄고 있는 전북 교육청은 재정 압박과 교육 투자 축소에 대한 우려가 커지고 있다.",
-        "en": "The government's reform of the local education finance grant system after 55 years, now incorporating factors like student population changes, has heightened concerns in Jeonbuk, a province with declining student numbers, regarding increased financial pressure and reduced educational investment.",
-        "zh": "韩国政府在55年后改革了地方教育财政拨款分配方式，新方案将反映学生人数变化等因素，这导致学生持续减少的全北地区对教育财政压力增大和投资缩减的担忧加剧。"
-      }
-    },
-    {
-      "title": "위고비·마운자로 ‘불법 반입’ 4155건 적발 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608242041005",
-      "source": "경향신문",
-      "pubDate": "Mon, 24 Aug 2026 11:41:00 GMT",
-      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
-      "summaries": {
-        "ko": "위고비·마운자로 ‘불법 반입’ 4155건 적발 - 경향신문",
-        "en": "위고비·마운자로 ‘불법 반입’ 4155건 적발 - 경향신문",
-        "zh": "위고비·마운자로 ‘불법 반입’ 4155건 적발 - 경향신문"
-      }
-    },
-    {
-      "title": "윤석열 부부 등 58명 기소한 종합특검…핵심 사건은 ‘용두사미’ - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1274389.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 24 Aug 2026 12:33:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0824/20260824503032.webp",
-      "summaries": {
-        "ko": "윤석열 부부 등 58명 기소한 종합특검…핵심 사건은 ‘용두사미’ - 한겨레",
-        "en": "윤석열 부부 등 58명 기소한 종합특검…핵심 사건은 ‘용두사미’ - 한겨레",
-        "zh": "윤석열 부부 등 58명 기소한 종합특검…핵심 사건은 ‘용두사미’ - 한겨레"
+        "ko": "정부, 비거주 1주택 종부세 기본공제 ‘12억’ 복원 검토 - 한겨레",
+        "en": "정부, 비거주 1주택 종부세 기본공제 ‘12억’ 복원 검토 - 한겨레",
+        "zh": "정부, 비거주 1주택 종부세 기본공제 ‘12억’ 복원 검토 - 한겨레"
       }
     },
     {
@@ -62,51 +50,63 @@
       }
     },
     {
-      "title": "[날씨] 전국 대부분 폭염특보, 당분간 늦더위…중부 중심 소나기 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260824232654BFm",
-      "source": "연합뉴스TV",
-      "pubDate": "Mon, 24 Aug 2026 14:26:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260824/MYH20260824232654BFm.jpg",
+      "title": "퇴임하는 정성호 법무장관 \"대통령은 대법관 임명권자… 존중해 해결해야\" - 조선일보",
+      "link": "https://www.chosun.com/national/court_law/2026/08/24/EJ6NZU2VFZDU7GRQERR6VPET6E/",
+      "source": "조선일보",
+      "pubDate": "Mon, 24 Aug 2026 09:46:10 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MY2DMOLGGNQWKMRSGY4TENRQMY.jpg?auth=de80cb62af9ba83371cec18b041ded353ad96ea3069a2f4c76c09f5ef3d5c299&width=720&height=378&focal=352,198",
       "summaries": {
-        "ko": "[날씨] 전국 대부분 폭염특보, 당분간 늦더위…중부 중심 소나기 - 연합뉴스TV",
-        "en": "[날씨] 전국 대부분 폭염특보, 당분간 늦더위…중부 중심 소나기 - 연합뉴스TV",
-        "zh": "[날씨] 전국 대부분 폭염특보, 당분간 늦더위…중부 중심 소나기 - 연합뉴스TV"
+        "ko": "퇴임하는 정성호 법무장관 \"대통령은 대법관 임명권자… 존중해 해결해야\" - 조선일보",
+        "en": "퇴임하는 정성호 법무장관 \"대통령은 대법관 임명권자… 존중해 해결해야\" - 조선일보",
+        "zh": "퇴임하는 정성호 법무장관 \"대통령은 대법관 임명권자… 존중해 해결해야\" - 조선일보"
       }
     },
     {
-      "title": "국힘 이진숙, 김민석 '여자 히틀러' 발언 모욕 혐의 고소 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260824040900001",
+      "title": "전북 남원 지리산서 등산객 2명 벌 쏘여…소방헬기 이송 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8644677",
+      "source": "KBS 뉴스",
+      "pubDate": "Mon, 24 Aug 2026 11:57:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/08/24/20260824_q7BwVP.jpg",
+      "summaries": {
+        "ko": "전북 남원 지리산서 등산객 2명 벌 쏘여…소방헬기 이송 - KBS 뉴스",
+        "en": "전북 남원 지리산서 등산객 2명 벌 쏘여…소방헬기 이송 - KBS 뉴스",
+        "zh": "전북 남원 지리산서 등산객 2명 벌 쏘여…소방헬기 이송 - KBS 뉴스"
+      }
+    },
+    {
+      "title": "김민석 ‘여자 히틀러’ 발언... 이진숙, 모욕 혐의로 고소 - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/08/24/I2H3NTMWJRC65KUHQTDH27RSVQ/",
+      "source": "조선일보",
+      "pubDate": "Mon, 24 Aug 2026 07:54:37 GMT",
+      "image": "https://www.chosun.com/resizer/v2/ZZFGUWG53BMATOGI32VBSND2LY.JPG?auth=b8bfa9053e8a766923b626af6883fe54fbe030820e7248dc5d7b9bfb4b3722be&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "김민석 ‘여자 히틀러’ 발언... 이진숙, 모욕 혐의로 고소 - 조선일보",
+        "en": "김민석 ‘여자 히틀러’ 발언... 이진숙, 모욕 혐의로 고소 - 조선일보",
+        "zh": "김민석 ‘여자 히틀러’ 발언... 이진숙, 모욕 혐의로 고소 - 조선일보"
+      }
+    },
+    {
+      "title": "민주당 전대 효과 없었다…이 대통령 지지율, 40%대 턱걸이 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608242107005",
+      "source": "경향신문",
+      "pubDate": "Mon, 24 Aug 2026 12:07:00 GMT",
+      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
+      "summaries": {
+        "ko": "민주당 전대 효과 없었다…이 대통령 지지율, 40%대 턱걸이 - 경향신문",
+        "en": "민주당 전대 효과 없었다…이 대통령 지지율, 40%대 턱걸이 - 경향신문",
+        "zh": "민주당 전대 효과 없었다…이 대통령 지지율, 40%대 턱걸이 - 경향신문"
+      }
+    },
+    {
+      "title": "전장연, 지하철 휠체어 시위 전면 중단…서울시의회 민주당과 타협 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260824076000004",
       "source": "연합뉴스",
-      "pubDate": "Mon, 24 Aug 2026 00:58:49 GMT",
-      "image": "https://img9.yna.co.kr/photo/yna/YH/2026/08/14/PYH2026081409470001300_P4.jpg",
+      "pubDate": "Mon, 24 Aug 2026 02:31:01 GMT",
+      "image": "https://img8.yna.co.kr/photo/yna/YH/2026/08/24/PYH2026082400940001300_P4.jpg",
       "summaries": {
-        "ko": "국힘 이진숙, 김민석 '여자 히틀러' 발언 모욕 혐의 고소 - 연합뉴스",
-        "en": "국힘 이진숙, 김민석 '여자 히틀러' 발언 모욕 혐의 고소 - 연합뉴스",
-        "zh": "국힘 이진숙, 김민석 '여자 히틀러' 발언 모욕 혐의 고소 - 연합뉴스"
-      }
-    },
-    {
-      "title": "이 대통령 지지율 40.2%로 취임 후 최저치‥6주 연속 하락 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6846800_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Mon, 24 Aug 2026 00:57:40 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/08/24/sa_20260824_22.jpg",
-      "summaries": {
-        "ko": "이 대통령 지지율 40.2%로 취임 후 최저치‥6주 연속 하락 - MBC 뉴스",
-        "en": "이 대통령 지지율 40.2%로 취임 후 최저치‥6주 연속 하락 - MBC 뉴스",
-        "zh": "이 대통령 지지율 40.2%로 취임 후 최저치‥6주 연속 하락 - MBC 뉴스"
-      }
-    },
-    {
-      "title": "‘장애인 권리 조례’ 통과 약속에…전장연 “지하철 탑승 시위 멈춥니다” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1274302.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 24 Aug 2026 05:09:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/486/imgdb/original/2026/0824/20260824501758.webp",
-      "summaries": {
-        "ko": "‘장애인 권리 조례’ 통과 약속에…전장연 “지하철 탑승 시위 멈춥니다” - 한겨레",
-        "en": "‘장애인 권리 조례’ 통과 약속에…전장연 “지하철 탑승 시위 멈춥니다” - 한겨레",
-        "zh": "‘장애인 권리 조례’ 통과 약속에…전장연 “지하철 탑승 시위 멈춥니다” - 한겨레"
+        "ko": "전장연, 지하철 휠체어 시위 전면 중단…서울시의회 민주당과 타협 - 연합뉴스",
+        "en": "전장연, 지하철 휠체어 시위 전면 중단…서울시의회 민주당과 타협 - 연합뉴스",
+        "zh": "전장연, 지하철 휠체어 시위 전면 중단…서울시의회 민주당과 타협 - 연합뉴스"
       }
     },
     {
