@@ -1,16 +1,40 @@
 {
-  "lastUpdate": "2026-08-24T06:25:34.164098",
+  "lastUpdate": "2026-08-24T07:34:27.034950",
   "items": [
     {
-      "title": "‘장미란씨 실종사건 허위 종결’ 제주 현직 경찰관 구속영장 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608240936001",
-      "source": "경향신문",
-      "pubDate": "Mon, 24 Aug 2026 00:36:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/24/news-p.v1.20260824.ce68d25bb753439ab1f618e36247236b_P1.jpg",
+      "title": "10분 거리 두고 3개월을... 실종 장미란 추정 시신 발견 - 조선일보",
+      "link": "https://www.chosun.com/national/incident/2026/08/24/YGMHU4QRJNCYFL5RDKTBPLLVTE/",
+      "source": "조선일보",
+      "pubDate": "Mon, 24 Aug 2026 02:29:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/EAHFAKEWZZF53JSL2IK74QXPZ4.png?auth=c6dc131e4c1199da0ccedc75f031bc6d376ce8607bc82ce79211bee81c43798c&width=1059&height=555&smart=true",
       "summaries": {
-        "ko": "제주 현직 경찰관이 실종자 안전 확인을 허위로 기록해 여러 실종 사건을 종결한 혐의로 구속영장이 신청되었으며, 이로 인해 한 실종자는 여전히 소재 불명이고 다른 실종자는 결국 숨진 채 발견되어 경찰의 실종사건 관리 시스템의 중대한 허점이 드러났다.",
-        "en": "A Jeju police officer faces an arrest warrant for fabricating records to falsely close multiple missing person cases, one of whom is still missing and another was later found dead, exposing critical flaws in the police's missing person management system.",
-        "zh": "一名济州警官因伪造记录虚假结案多起失踪人员案件而被申请逮捕令，其中一人至今下落不明，另一人后来被发现死亡，这暴露了警方失踪人员管理系统中的严重缺陷。"
+        "ko": "10분 거리 두고 3개월을... 실종 장미란 추정 시신 발견 - 조선일보",
+        "en": "10분 거리 두고 3개월을... 실종 장미란 추정 시신 발견 - 조선일보",
+        "zh": "10분 거리 두고 3개월을... 실종 장미란 추정 시신 발견 - 조선일보"
+      }
+    },
+    {
+      "title": "4년 9개월만에 멈춘 전장연 지하철 시위···‘권리 중심 일자리’ 놓고 시의회·서울시 갈등 예상 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608241611001",
+      "source": "경향신문",
+      "pubDate": "Mon, 24 Aug 2026 07:11:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/24/news-p.v1.20260824.cd66ea9d94f54c5fb42f530ee15793fb_P1.jpeg",
+      "summaries": {
+        "ko": "전국장애인차별철폐연대가 서울시의회 민주당의 장애인 이동권 보장 및 권리 중심 공공일자리 조례안 통과 약속에 따라 지하철 시위를 중단했지만, 권리 중심 일자리에 반대하는 서울시 및 오세훈 시장과의 갈등이 예상된다.",
+        "en": "Jeonjangyeon has suspended its subway protests following the Seoul City Council's Democratic Party's promise to pass ordinances on disability mobility rights and 'rights-based public jobs,' but conflict is expected with Seoul City and Mayor Oh Se-hoon, who oppose these rights-based jobs.",
+        "zh": "全国残疾人差别撤废联合会因首尔市议会民主党承诺通过关于残疾人移动权和“权利中心型工作岗位”的条例案而中断了地铁示威，但预计将与反对“权利中心型工作岗位”的首尔市和吴世勋市长发生冲突。"
+      }
+    },
+    {
+      "title": "서울시, 500세대 이하 정비구역 구청 이양 반발…“속도보다 난개발 우려” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/capital/1274327.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 24 Aug 2026 06:26:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0824/53_17875528402064_20260824502256.webp",
+      "summaries": {
+        "ko": "서울시는 정부·여당의 500세대 이하 재개발·재건축 권한 자치구 이양 방침에 대해 도시계획 일관성 훼손과 난개발 우려를 표하며 전면 재검토를 촉구했다.",
+        "en": "Seoul City urged a full re-examination of the government and ruling party's policy to transfer authority for redevelopment and reconstruction projects involving fewer than 500 households to local districts, expressing concerns about undermining urban planning consistency and potentially leading to haphazard development.",
+        "zh": "首尔市敦促政府和执政党重新审议将500户以下旧城改造和重建项目权力下放至地方自治区的方针，担忧此举会损害城市规划的一致性并可能导致混乱开发。"
       }
     },
     {
@@ -20,105 +44,81 @@
       "pubDate": "Mon, 24 Aug 2026 05:49:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/804/482/imgdb/child/2026/0824/53_17875377659609_20260824500966.webp",
       "summaries": {
-        "ko": "김민석 “조희대 노림수, 대법관 제청 반려하게 만드는 것” - 한겨레",
-        "en": "김민석 “조희대 노림수, 대법관 제청 반려하게 만드는 것” - 한겨레",
-        "zh": "김민석 “조희대 노림수, 대법관 제청 반려하게 만드는 것” - 한겨레"
+        "ko": "김민석 더불어민주당 대표는 조희대 대법원장이 대통령과의 사전 협의 없이 대법관 후보자를 서면 제청한 것을 두고 정부의 반려를 유도해 추천위를 무력화하려는 '꼼수'라고 비판하며, 정부의 결정 보류와 국회의 법 개정을 촉구했다.",
+        "en": "Democratic Party leader Kim Min-seok criticized Chief Justice Cho Hee-dae's unilateral written nomination of a Supreme Court justice candidate without prior consultation with the president as a 'trick' aimed at inducing the government's rejection to nullify the recommendation committee, urging the government to postpone its decision and the National Assembly to amend the law.",
+        "zh": "共同民主党代表金民锡批评大法院长赵熙大未经与总统事先协商，单方面书面提名大法官候选人是“诡计”，旨在诱导政府否决提名以削弱推荐委员会，并敦促政府推迟决定，国会修改法律。"
       }
     },
     {
-      "title": "[현장] 학부모도 연차 내고 수해 복구…거제 장평초 개학 준비 '구슬땀' - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260824089800052",
+      "title": "국힘 이진숙, 김민석 '여자 히틀러' 발언 모욕 혐의 고소 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260824040900001",
       "source": "연합뉴스",
-      "pubDate": "Mon, 24 Aug 2026 04:36:50 GMT",
-      "image": "https://img0.yna.co.kr/etc/inner/KR/2026/08/24/AKR20260824089800052_01_i_P4.jpg",
+      "pubDate": "Mon, 24 Aug 2026 00:58:49 GMT",
+      "image": "https://img9.yna.co.kr/photo/yna/YH/2026/08/14/PYH2026081409470001300_P4.jpg",
       "summaries": {
-        "ko": "[현장] 학부모도 연차 내고 수해 복구…거제 장평초 개학 준비 '구슬땀' - 연합뉴스",
-        "en": "[현장] 학부모도 연차 내고 수해 복구…거제 장평초 개학 준비 '구슬땀' - 연합뉴스",
-        "zh": "[현장] 학부모도 연차 내고 수해 복구…거제 장평초 개학 준비 '구슬땀' - 연합뉴스"
+        "ko": "국민의힘 이진숙 의원이 자신을 '여자 히틀러'라고 비난한 더불어민주당 김민석 대표의 발언이 정치적 비판을 넘어선 악의적 인신공격이라며 모욕 혐의로 고소했다.",
+        "en": "People Power Party lawmaker Lee Jin-sook sued Democratic Party leader Kim Min-seok for insult, alleging that his remark calling her 'female Hitler' constituted a malicious personal attack exceeding the bounds of political criticism.",
+        "zh": "韩国国民力量党议员李珍淑以涉嫌侮辱罪起诉了共同民主党代表金敏锡，称其将她称为“女希特勒”的言论是超出政治批评范围的恶意人身攻击。"
       }
     },
     {
-      "title": "한낮 최고 36도 무더위…오후부터 전국 곳곳 소나기 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1274256.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 23 Aug 2026 23:06:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/680/438/imgdb/original/2026/0824/20260824500158.webp",
-      "summaries": {
-        "ko": "한낮 최고 36도 무더위…오후부터 전국 곳곳 소나기 - 한겨레",
-        "en": "한낮 최고 36도 무더위…오후부터 전국 곳곳 소나기 - 한겨레",
-        "zh": "한낮 최고 36도 무더위…오후부터 전국 곳곳 소나기 - 한겨레"
-      }
-    },
-    {
-      "title": "\"3년 해야 한다\"던 권창영, 180일 수사 마치고 \"전쟁 이제 시작… 특수본 설치해야\" - 조선일보",
-      "link": "https://www.chosun.com/national/court_law/2026/08/24/ZOMXFASBDRB6DLF4KPZ6PKOJ6I/",
-      "source": "조선일보",
-      "pubDate": "Mon, 24 Aug 2026 04:03:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/FKG6GFE6RZLUVC4SNSXFPH3BZM.JPG?auth=50178b0c8fe075405240c58c1d94bcf17e08ae9faf4a4a2b12a289b2b9382040&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "\"3년 해야 한다\"던 권창영, 180일 수사 마치고 \"전쟁 이제 시작… 특수본 설치해야\" - 조선일보",
-        "en": "\"3년 해야 한다\"던 권창영, 180일 수사 마치고 \"전쟁 이제 시작… 특수본 설치해야\" - 조선일보",
-        "zh": "\"3년 해야 한다\"던 권창영, 180일 수사 마치고 \"전쟁 이제 시작… 특수본 설치해야\" - 조선일보"
-      }
-    },
-    {
-      "title": "서울시민 3명 중 2명 \"용산공원 부지에 공공주택 공급 반대\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6846817_36918.html",
+      "title": "2차 종합특검, 180일 수사 종료‥윤석열·김건희 등 58명 기소 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6846816_36918.html",
       "source": "MBC 뉴스",
-      "pubDate": "Mon, 24 Aug 2026 02:23:24 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/24/ljm_20260824_11.jpg",
+      "pubDate": "Mon, 24 Aug 2026 02:21:25 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/24/ljm_20260824_10.jpg",
       "summaries": {
-        "ko": "서울시민 3명 중 2명 \"용산공원 부지에 공공주택 공급 반대\" - MBC 뉴스",
-        "en": "서울시민 3명 중 2명 \"용산공원 부지에 공공주택 공급 반대\" - MBC 뉴스",
-        "zh": "서울시민 3명 중 2명 \"용산공원 부지에 공공주택 공급 반대\" - MBC 뉴스"
+        "ko": "2차 종합특검팀이 180일간의 수사를 마무리하고 윤석열 전 대통령과 김건희 씨 등 총 58명을 재판에 넘겼으며, 46건의 미완 수사를 국가수사본부에 이첩했습니다.",
+        "en": "The Second Comprehensive Special Prosecutor's Team concluded its 180-day investigation, indicting a total of 58 people including former President Yoon Suk-yeol and Kim Keon-hee, and transferring 46 unresolved cases to the National Investigation Headquarters.",
+        "zh": "第二综合特别检察组结束了为期180天的调查，起诉了包括前总统尹锡悦和金建希在内的58人，并将46件未结案件移交给了国家搜查本部。"
       }
     },
     {
-      "title": "김민석 “1주택자 부득이한 비거주 사유, 폭넓게 인정해야” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1274163.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 24 Aug 2026 02:46:35 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/884/531/imgdb/child/2026/0823/53_17874555771182_20260823500729.webp",
+      "title": "산청군, 수해 피해 거제시민 빠른 일상 회복에 힘 보태 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/RPR20260824003700353",
+      "source": "연합뉴스",
+      "pubDate": "Mon, 24 Aug 2026 05:00:37 GMT",
+      "image": "https://img4.yna.co.kr/etc/inner/PR/2026/08/24/RPR20260824003700353_01_i_P4.jpg",
       "summaries": {
-        "ko": "김민석 “1주택자 부득이한 비거주 사유, 폭넓게 인정해야” - 한겨레",
-        "en": "김민석 “1주택자 부득이한 비거주 사유, 폭넓게 인정해야” - 한겨레",
-        "zh": "김민석 “1주택자 부득이한 비거주 사유, 폭넓게 인정해야” - 한겨레"
+        "ko": "지난해 거제시의 도움을 받았던 산청군이 집중호우로 큰 피해를 입은 거제시의 빠른 일상 회복을 위해 공무원과 자원봉사자 파견, 성금품 기탁 등 민관이 힘을 모아 지원하고 있다.",
+        "en": "Sancheong-gun, which received assistance from Geoje-si last year, is now mobilizing public officials, volunteers, and private sector donations to collaboratively support Geoje-si's rapid recovery from severe flood damage caused by heavy rains.",
+        "zh": "去年曾得到巨济市帮助的山清郡，现在正通过派遣公务员和志愿者、捐赠款物等方式，动员官民力量，全力支持遭受暴雨洪灾的巨济市尽快恢复日常生活。"
       }
     },
     {
-      "title": "이 대통령 지지율 40.2%, 취임 이후 최저치 경신···민주당 41.9%·국힘 37.6%[리얼미터] - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608240818001",
-      "source": "경향신문",
-      "pubDate": "Sun, 23 Aug 2026 23:18:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/24/rcv.PHOTOPOOL.20260821.kpa17872944415829_P1.jpg",
+      "title": "서울시민 3명 중 2명 \"용산공원 공공주택 공급 반대\" - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/08/24/TDGEXIZMXVCG5BQCKBX3SAQL7Y/",
+      "source": "조선일보",
+      "pubDate": "Mon, 24 Aug 2026 03:21:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GNRTGZBXGY4DQYRRG43TMMZWGE.jpg?auth=8fedb20712a9c8ce931d905c8dd1b5ad4da24bff09d164f9c9872a62727c8546&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "이 대통령 지지율 40.2%, 취임 이후 최저치 경신···민주당 41.9%·국힘 37.6%[리얼미터] - 경향신문",
-        "en": "이 대통령 지지율 40.2%, 취임 이후 최저치 경신···민주당 41.9%·국힘 37.6%[리얼미터] - 경향신문",
-        "zh": "이 대통령 지지율 40.2%, 취임 이후 최저치 경신···민주당 41.9%·국힘 37.6%[리얼미터] - 경향신문"
+        "ko": "서울시민 3명 중 2명 \"용산공원 공공주택 공급 반대\" - 조선일보",
+        "en": "서울시민 3명 중 2명 \"용산공원 공공주택 공급 반대\" - 조선일보",
+        "zh": "서울시민 3명 중 2명 \"용산공원 공공주택 공급 반대\" - 조선일보"
       }
     },
     {
-      "title": "시카고 오는 BTS '대환영'…미 일리노이주, 공연일 'BTS 데이' 지정",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260824152253gQu",
+      "title": "[속보] 李대통령, 정성호 장관 사의 수리…\"후속 인선\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260824162117ayN",
       "source": "Breaking News",
-      "pubDate": "Mon, 24 Aug 2026 15:22:55 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260824/AKR20260824152253gQu_01_i.jpg",
+      "pubDate": "Mon, 24 Aug 2026 16:21:20 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260824/MYH20260824162117ayN.jpg",
       "summaries": {
-        "ko": "시카고 오는 BTS '대환영'…미 일리노이주, 공연일 'BTS 데이' 지정",
-        "en": "시카고 오는 BTS '대환영'…미 일리노이주, 공연일 'BTS 데이' 지정",
-        "zh": "시카고 오는 BTS '대환영'…미 일리노이주, 공연일 'BTS 데이' 지정"
+        "ko": "[속보] 李대통령, 정성호 장관 사의 수리…\"후속 인선\"",
+        "en": "[속보] 李대통령, 정성호 장관 사의 수리…\"후속 인선\"",
+        "zh": "[속보] 李대통령, 정성호 장관 사의 수리…\"후속 인선\""
       }
     },
     {
-      "title": "\"중동 미군기지, 이란 전쟁서 허점 노출…무용론 커져\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260824151750xC8",
+      "title": "[속보] 법원, '尹 여론조사 무상제공' 명태균 보석 인용",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260824162046lCX",
       "source": "Breaking News",
-      "pubDate": "Mon, 24 Aug 2026 15:17:52 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260824/AKR20260824151750xC8_01_i.jpg",
+      "pubDate": "Mon, 24 Aug 2026 16:20:46 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260824/AKR20260824162046lCX_01_i.jpg",
       "summaries": {
-        "ko": "\"중동 미군기지, 이란 전쟁서 허점 노출…무용론 커져\"",
-        "en": "\"중동 미군기지, 이란 전쟁서 허점 노출…무용론 커져\"",
-        "zh": "\"중동 미군기지, 이란 전쟁서 허점 노출…무용론 커져\""
+        "ko": "[속보] 법원, '尹 여론조사 무상제공' 명태균 보석 인용",
+        "en": "[속보] 법원, '尹 여론조사 무상제공' 명태균 보석 인용",
+        "zh": "[속보] 법원, '尹 여론조사 무상제공' 명태균 보석 인용"
       }
     }
   ]
