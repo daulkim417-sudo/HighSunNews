@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-25T13:57:24.016582",
+  "lastUpdate": "2026-08-25T14:34:13.688544",
   "items": [
     {
       "title": "[속보]‘실종사건 허위종결’ 경찰관, 석방 하루 만에 구속···제주서부경찰서 지휘라인 전원 대기발령 - 경향신문",
@@ -8,9 +8,9 @@
       "pubDate": "Tue, 25 Aug 2026 09:49:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/08/25/news-p.v1.20260825.7a9546d835b44c54b2c11babac884483_P1.png",
       "summaries": {
-        "ko": "제주에서 실종 사건을 허위 종결해 두 명의 사망자를 낸 혐의를 받는 경찰관이 석방 하루 만에 구속됐고, 제주서부경찰서 지휘라인 전원이 대기발령 조치됐다.",
-        "en": "A police officer in Jeju, accused of falsely closing missing person cases that led to two deaths, has been detained just one day after being released, and the entire command line of the Jeju Seobu Police Station has been put on standby.",
-        "zh": "济州一名涉嫌虚假了结失踪案件并导致两人死亡的警官在获释一天后被拘留，济州西部警察署的整个指挥层也已被停职待命。"
+        "ko": "제주서부경찰서 소속 경찰관이 실종 사건을 허위 종결하여 실종자들이 숨진 채 발견된 혐의로 구속되었고, 이에 제주서부경찰서 지휘 라인 전체가 대기발령 조치되었다.",
+        "en": "A police officer from Jeju Seobu Police Station was arrested for falsely closing missing person cases, where the missing individuals were later found dead, leading to the suspension of the entire command line of the Jeju Seobu Police Station.",
+        "zh": "济州西部警察署一名警官因涉嫌虚假结案失踪事件导致失踪者死亡而被捕，济州西部警察署指挥层全员因此被停职待命。"
       }
     },
     {
@@ -26,6 +26,18 @@
       }
     },
     {
+      "title": "박지원 “유시민, 내란세력 집권 돕겠다면 커밍아웃하라” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1274555.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 25 Aug 2026 11:19:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0825/20260825502941.webp",
+      "summaries": {
+        "ko": "박지원 “유시민, 내란세력 집권 돕겠다면 커밍아웃하라” - 한겨레",
+        "en": "박지원 “유시민, 내란세력 집권 돕겠다면 커밍아웃하라” - 한겨레",
+        "zh": "박지원 “유시민, 내란세력 집권 돕겠다면 커밍아웃하라” - 한겨레"
+      }
+    },
+    {
       "title": "새 형사사법체계 불신 키울라…비대해진 ‘경찰 통제’ 고삐 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1274612.html",
       "source": "한겨레",
@@ -38,15 +50,39 @@
       }
     },
     {
-      "title": "박지원 “유시민, 내란세력 집권 돕겠다면 커밍아웃하라” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1274555.html",
+      "title": "이 대통령 “선명한 개혁이 칭찬받긴 좋아…문제는 저항·고통 키워” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1274504.html",
       "source": "한겨레",
-      "pubDate": "Tue, 25 Aug 2026 08:28:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0825/20260825502941.webp",
+      "pubDate": "Tue, 25 Aug 2026 10:40:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/886/532/imgdb/child/2026/0825/53_17876289367893_20260825501651.webp",
       "summaries": {
-        "ko": "박지원 “유시민, 내란세력 집권 돕겠다면 커밍아웃하라” - 한겨레",
-        "en": "박지원 “유시민, 내란세력 집권 돕겠다면 커밍아웃하라” - 한겨레",
-        "zh": "박지원 “유시민, 내란세력 집권 돕겠다면 커밍아웃하라” - 한겨레"
+        "ko": "이 대통령 “선명한 개혁이 칭찬받긴 좋아…문제는 저항·고통 키워” - 한겨레",
+        "en": "이 대통령 “선명한 개혁이 칭찬받긴 좋아…문제는 저항·고통 키워” - 한겨레",
+        "zh": "이 대통령 “선명한 개혁이 칭찬받긴 좋아…문제는 저항·고통 키워” - 한겨레"
+      }
+    },
+    {
+      "title": "‘부동산은 버티면 된다’ 확신 줄라…정부 ‘실거주 원칙’ 두고 고민 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/economy/economy_general/1274607.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 25 Aug 2026 11:20:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/599/imgdb/original/2026/0825/20260825503403.webp",
+      "summaries": {
+        "ko": "‘부동산은 버티면 된다’ 확신 줄라…정부 ‘실거주 원칙’ 두고 고민 - 한겨레",
+        "en": "‘부동산은 버티면 된다’ 확신 줄라…정부 ‘실거주 원칙’ 두고 고민 - 한겨레",
+        "zh": "‘부동산은 버티면 된다’ 확신 줄라…정부 ‘실거주 원칙’ 두고 고민 - 한겨레"
+      }
+    },
+    {
+      "title": "[속보] 대구서 실종된 중국인 여대생 사망‥경찰, 30대 남성 살인 혐의 체포 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6847299_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Tue, 25 Aug 2026 12:23:42 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/25/jh_20260825_65.jpg",
+      "summaries": {
+        "ko": "[속보] 대구서 실종된 중국인 여대생 사망‥경찰, 30대 남성 살인 혐의 체포 - MBC 뉴스",
+        "en": "[속보] 대구서 실종된 중국인 여대생 사망‥경찰, 30대 남성 살인 혐의 체포 - MBC 뉴스",
+        "zh": "[속보] 대구서 실종된 중국인 여대생 사망‥경찰, 30대 남성 살인 혐의 체포 - MBC 뉴스"
       }
     },
     {
@@ -62,39 +98,15 @@
       }
     },
     {
-      "title": "‘5·18 폄훼 토론회’ 이진숙 제명 촉구 결의안 가결 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608252102005",
-      "source": "경향신문",
-      "pubDate": "Tue, 25 Aug 2026 12:02:00 GMT",
-      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
-      "summaries": {
-        "ko": "‘5·18 폄훼 토론회’ 이진숙 제명 촉구 결의안 가결 - 경향신문",
-        "en": "‘5·18 폄훼 토론회’ 이진숙 제명 촉구 결의안 가결 - 경향신문",
-        "zh": "‘5·18 폄훼 토론회’ 이진숙 제명 촉구 결의안 가결 - 경향신문"
-      }
-    },
-    {
-      "title": "[속보] 대구서 실종된 중국인 여대생 사망‥경찰, 용의자 검거 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6847299_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 25 Aug 2026 12:23:42 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/25/jh_20260825_65.jpg",
-      "summaries": {
-        "ko": "대구에서 실종된 20대 중국인 여성 유학생이 숨진 채 발견되어 경찰이 30대 남성을 살인 혐의로 체포했습니다.",
-        "en": "A Chinese female exchange student in her 20s who went missing in Daegu was found dead, and police have arrested a man in his 30s on murder charges.",
-        "zh": "在大邱失踪的一名20多岁中国女留学生被发现死亡，警方已逮捕一名30多岁男子，罪名是谋杀。"
-      }
-    },
-    {
-      "title": "김민석 “개혁-중도-보수 유능한 인물 대대적 영입”…외연확장 강조 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260825/134540224/1",
+      "title": "김민석, 공천혁신부터 개헌까지…‘메가텐’ 단장 인선 완료 - 동아일보",
+      "link": "https://www.donga.com/news/Politics/article/all/20260825/134542265/1",
       "source": "동아일보",
-      "pubDate": "Tue, 25 Aug 2026 07:10:38 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/25/134538641.1.jpg",
+      "pubDate": "Tue, 25 Aug 2026 09:07:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/17/134491068.1.jpg",
       "summaries": {
-        "ko": "김민석 “개혁-중도-보수 유능한 인물 대대적 영입”…외연확장 강조 - 동아일보",
-        "en": "김민석 “개혁-중도-보수 유능한 인물 대대적 영입”…외연확장 강조 - 동아일보",
-        "zh": "김민석 “개혁-중도-보수 유능한 인물 대대적 영입”…외연확장 강조 - 동아일보"
+        "ko": "김민석, 공천혁신부터 개헌까지…‘메가텐’ 단장 인선 완료 - 동아일보",
+        "en": "김민석, 공천혁신부터 개헌까지…‘메가텐’ 단장 인선 완료 - 동아일보",
+        "zh": "김민석, 공천혁신부터 개헌까지…‘메가텐’ 단장 인선 완료 - 동아일보"
       }
     },
     {
@@ -107,30 +119,6 @@
         "ko": "법원행정처장, 與 '조희대 씨' 호칭에 \"대법원장 존중할 필요\" - 연합뉴스",
         "en": "법원행정처장, 與 '조희대 씨' 호칭에 \"대법원장 존중할 필요\" - 연합뉴스",
         "zh": "법원행정처장, 與 '조희대 씨' 호칭에 \"대법원장 존중할 필요\" - 연합뉴스"
-      }
-    },
-    {
-      "title": "오세훈·한동훈, 장동혁 겨냥 “하위의 정치” “사당화” 협공 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1274551.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 25 Aug 2026 10:38:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/613/imgdb/original/2026/0825/20260825502902.webp",
-      "summaries": {
-        "ko": "오세훈·한동훈, 장동혁 겨냥 “하위의 정치” “사당화” 협공 - 한겨레",
-        "en": "오세훈·한동훈, 장동혁 겨냥 “하위의 정치” “사당화” 협공 - 한겨레",
-        "zh": "오세훈·한동훈, 장동혁 겨냥 “하위의 정치” “사당화” 협공 - 한겨레"
-      }
-    },
-    {
-      "title": "[속보] 대구 실종 중국인 유학생 살해 피의자, 112에 실종 신고도",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260825225059yGr",
-      "source": "Breaking News",
-      "pubDate": "Tue, 25 Aug 2026 22:51:00 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260825/AKR20260825225059yGr_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 대구 실종 중국인 유학생 살해 피의자, 112에 실종 신고도",
-        "en": "[속보] 대구 실종 중국인 유학생 살해 피의자, 112에 실종 신고도",
-        "zh": "[속보] 대구 실종 중국인 유학생 살해 피의자, 112에 실종 신고도"
       }
     }
   ]
