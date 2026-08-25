@@ -1,30 +1,6 @@
 {
-  "lastUpdate": "2026-08-24T23:51:42.780508",
+  "lastUpdate": "2026-08-25T00:26:50.116205",
   "items": [
-    {
-      "title": "‘장미란씨 추정 주검’ 거주지서 불과 400m에…뒷북 수사로 단서 사라져 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/area/jeju/1274422.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 24 Aug 2026 13:17:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/610/imgdb/original/2026/0824/20260824503201.webp",
-      "summaries": {
-        "ko": "제주에서 104일 만에 거주지 불과 400m 떨어진 곳에서 장미란씨 추정 주검이 발견되자, 경찰의 '셀프 종결'과 뒷북 수사로 중요한 단서가 사라진 직무유기에 대한 비난 여론이 쏟아지고 있다.",
-        "en": "The discovery of the presumed body of missing Jang Miran after 104 days, just 400m from her Jeju residence, has intensified public outrage over police negligence, including a 'self-terminated' initial investigation and delayed search efforts that led to the loss of crucial evidence.",
-        "zh": "在济州，失踪104天的张美兰女士的推定遗体在其住所仅400米处被发现，这激起了公众对警方玩忽职守的强烈谴责，包括其“自行结案”和迟迟未展开搜查导致关键证据的流失。"
-      }
-    },
-    {
-      "title": "이란 대통령 “미국, 이란 대할 때 어조·접근법 바꿔야” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8645074",
-      "source": "KBS 뉴스",
-      "pubDate": "Mon, 24 Aug 2026 23:23:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/08/25/20260825_YVcjiV.jpg",
-      "summaries": {
-        "ko": "이란 대통령 “미국, 이란 대할 때 어조·접근법 바꿔야” - KBS 뉴스",
-        "en": "이란 대통령 “미국, 이란 대할 때 어조·접근법 바꿔야” - KBS 뉴스",
-        "zh": "이란 대통령 “미국, 이란 대할 때 어조·접근법 바꿔야” - KBS 뉴스"
-      }
-    },
     {
       "title": "녹지보다 녹음…폭염의 시대, ‘숲 지붕’이 주는 이익 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/environment/1274430.html",
@@ -32,9 +8,21 @@
       "pubDate": "Mon, 24 Aug 2026 21:41:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0825/53_17876073624213_20260824503380.webp",
       "summaries": {
-        "ko": "녹지보다 녹음…폭염의 시대, ‘숲 지붕’이 주는 이익 - 한겨레",
-        "en": "녹지보다 녹음…폭염의 시대, ‘숲 지붕’이 주는 이익 - 한겨레",
-        "zh": "녹지보다 녹음…폭염의 시대, ‘숲 지붕’이 주는 이익 - 한겨레"
+        "ko": "기후변화 폭염 시대에 도시 열섬 완화를 위해 '숲 지붕'의 중요성이 부각되면서, 뉴욕의 정책 사례를 바탕으로 한국도 녹지율 대신 숲 지붕 확대를 목표로 한 구체적인 정책 도입이 필요하다는 주장이 제기되었다.",
+        "en": "Amidst climate change-induced heatwaves, the article highlights the growing importance of 'forest canopy' over traditional 'green spaces' for urban heat mitigation, advocating for Korea to adopt specific policies and statistical tracking for canopy expansion, similar to New York City's initiatives.",
+        "zh": "鉴于气候变化引发的热浪中，“森林冠层”在缓解城市高温方面的作用日益超越传统“绿地”，文章呼吁韩国效仿纽约市的政策，引入具体策略并统计数据以扩大森林冠层。"
+      }
+    },
+    {
+      "title": "미, 이란 거래 제3국 겨냥 ‘2차 제재’…베센트 “경제적 고립 작전 개시” - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8644936",
+      "source": "KBS 뉴스",
+      "pubDate": "Mon, 24 Aug 2026 21:04:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza_p1/2026/08/25/20_8644936.jpg",
+      "summaries": {
+        "ko": "미, 이란 거래 제3국 겨냥 ‘2차 제재’…베센트 “경제적 고립 작전 개시” - KBS 뉴스",
+        "en": "미, 이란 거래 제3국 겨냥 ‘2차 제재’…베센트 “경제적 고립 작전 개시” - KBS 뉴스",
+        "zh": "미, 이란 거래 제3국 겨냥 ‘2차 제재’…베센트 “경제적 고립 작전 개시” - KBS 뉴스"
       }
     },
     {
@@ -50,6 +38,18 @@
       }
     },
     {
+      "title": "이 대통령 저격한 유시민 \"오만한 권력자 모습... 학습 중단한 듯\" - 한국일보",
+      "link": "https://www.hankookilbo.com/news/article/A2026082422160004174",
+      "source": "한국일보",
+      "pubDate": "Mon, 24 Aug 2026 13:36:00 GMT",
+      "image": "https://newsimg.hankookilbo.com/2026/08/24/6b62ffa4-d38a-4693-98c0-68c0cf5637f3.jpg",
+      "summaries": {
+        "ko": "이 대통령 저격한 유시민 \"오만한 권력자 모습... 학습 중단한 듯\" - 한국일보",
+        "en": "이 대통령 저격한 유시민 \"오만한 권력자 모습... 학습 중단한 듯\" - 한국일보",
+        "zh": "이 대통령 저격한 유시민 \"오만한 권력자 모습... 학습 중단한 듯\" - 한국일보"
+      }
+    },
+    {
       "title": "정부, 비거주 1주택 종부세 기본공제 ‘12억’ 복원 검토 - 한겨레",
       "link": "https://www.hani.co.kr/arti/economy/economy_general/1274408.html",
       "source": "한겨레",
@@ -62,51 +62,39 @@
       }
     },
     {
-      "title": "우크라 세계 최초 ‘無人 열병식’... 로봇·드론, 인간 없이 육해공 누벼 - 조선일보",
-      "link": "https://www.chosun.com/international/international_general/2026/08/25/YZ3K6X3GDVCURHV4PX2ZOXJUQA/",
-      "source": "조선일보",
-      "pubDate": "Mon, 24 Aug 2026 20:35:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/ZRITVR2M3NE3HHMBQ75VMRCYLI.gif?auth=d131102a631af00788db6b6d46886a43322d720d62eab0e3e1685fd12489b284&width=480&height=252&focal=264,132",
+      "title": "\"美, 망명 신청자 비자 일괄 취소 준비…최대 20만명\" - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260825074432v2N",
+      "source": "연합뉴스TV",
+      "pubDate": "Mon, 24 Aug 2026 22:44:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260824/AKR20260825074432v2N_01_i.jpg",
       "summaries": {
-        "ko": "우크라 세계 최초 ‘無人 열병식’... 로봇·드론, 인간 없이 육해공 누벼 - 조선일보",
-        "en": "우크라 세계 최초 ‘無人 열병식’... 로봇·드론, 인간 없이 육해공 누벼 - 조선일보",
-        "zh": "우크라 세계 최초 ‘無人 열병식’... 로봇·드론, 인간 없이 육해공 누벼 - 조선일보"
+        "ko": "\"美, 망명 신청자 비자 일괄 취소 준비…최대 20만명\" - 연합뉴스TV",
+        "en": "\"美, 망명 신청자 비자 일괄 취소 준비…최대 20만명\" - 연합뉴스TV",
+        "zh": "\"美, 망명 신청자 비자 일괄 취소 준비…최대 20만명\" - 연합뉴스TV"
       }
     },
     {
-      "title": "추미애 “경기도 재정 위기 심각···인사보다 사무 재설계·조직개편이 먼저” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608250735011",
+      "title": "전 부인 살해 혐의‥전직 경찰관 긴급체포 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6847028_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Mon, 24 Aug 2026 19:12:18 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/25/hye_20260825_11.jpg",
+      "summaries": {
+        "ko": "전 부인 살해 혐의‥전직 경찰관 긴급체포 - MBC 뉴스",
+        "en": "전 부인 살해 혐의‥전직 경찰관 긴급체포 - MBC 뉴스",
+        "zh": "전 부인 살해 혐의‥전직 경찰관 긴급체포 - MBC 뉴스"
+      }
+    },
+    {
+      "title": "태권도장서 아동 관원에 ‘다리찢기’ 강요한 관장 피소···“전치 8주 부상” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608242243001",
       "source": "경향신문",
-      "pubDate": "Mon, 24 Aug 2026 22:35:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/25/news-p.v1.20260423.5d218943563a428b9a97b89d8626daa5_P1.jpeg",
+      "pubDate": "Mon, 24 Aug 2026 13:43:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/24/news-p.v1.20260824.81cbec09a88a4edab9537160814d3e9d_P1.jpg",
       "summaries": {
-        "ko": "추미애 “경기도 재정 위기 심각···인사보다 사무 재설계·조직개편이 먼저” - 경향신문",
-        "en": "추미애 “경기도 재정 위기 심각···인사보다 사무 재설계·조직개편이 먼저” - 경향신문",
-        "zh": "추미애 “경기도 재정 위기 심각···인사보다 사무 재설계·조직개편이 먼저” - 경향신문"
-      }
-    },
-    {
-      "title": "제주 주택서 50대 여성 흉기 찔려 숨져... 용의자는 전직 경찰 - 조선일보",
-      "link": "https://www.chosun.com/national/regional/2026/08/24/UVZBYN4LYNAGPC6EIIS5VPQM5Y/",
-      "source": "조선일보",
-      "pubDate": "Mon, 24 Aug 2026 12:12:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/A5BCK3DHCZFRJKUE65YPNGLVC4.jpg?auth=5e032678ac905feed1fce6277345a8b8c51fb8aaa31ef15ac3b34041805bb489&width=462&height=242&smart=true",
-      "summaries": {
-        "ko": "제주 주택서 50대 여성 흉기 찔려 숨져... 용의자는 전직 경찰 - 조선일보",
-        "en": "제주 주택서 50대 여성 흉기 찔려 숨져... 용의자는 전직 경찰 - 조선일보",
-        "zh": "제주 주택서 50대 여성 흉기 찔려 숨져... 용의자는 전직 경찰 - 조선일보"
-      }
-    },
-    {
-      "title": "7살 아동에 강제 ‘다리찢기’, 허벅지뼈 부러져…태권도 관장 ‘학대’ 피소 - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260824/134536287/1",
-      "source": "동아일보",
-      "pubDate": "Mon, 24 Aug 2026 14:07:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/24/134536257.1.jpg",
-      "summaries": {
-        "ko": "7살 아동에 강제 ‘다리찢기’, 허벅지뼈 부러져…태권도 관장 ‘학대’ 피소 - 동아일보",
-        "en": "7살 아동에 강제 ‘다리찢기’, 허벅지뼈 부러져…태권도 관장 ‘학대’ 피소 - 동아일보",
-        "zh": "7살 아동에 강제 ‘다리찢기’, 허벅지뼈 부러져…태권도 관장 ‘학대’ 피소 - 동아일보"
+        "ko": "태권도장서 아동 관원에 ‘다리찢기’ 강요한 관장 피소···“전치 8주 부상” - 경향신문",
+        "en": "태권도장서 아동 관원에 ‘다리찢기’ 강요한 관장 피소···“전치 8주 부상” - 경향신문",
+        "zh": "태권도장서 아동 관원에 ‘다리찢기’ 강요한 관장 피소···“전치 8주 부상” - 경향신문"
       }
     },
     {
@@ -119,6 +107,42 @@
         "ko": "“안 믿으면 지옥 간다”···비행기서 전도하며 소란 피운 목사들 벌금형 - 경향신문",
         "en": "“안 믿으면 지옥 간다”···비행기서 전도하며 소란 피운 목사들 벌금형 - 경향신문",
         "zh": "“안 믿으면 지옥 간다”···비행기서 전도하며 소란 피운 목사들 벌금형 - 경향신문"
+      }
+    },
+    {
+      "title": "[코인시세] 비트코인 8만 달러 앞두고 '숨고르기'…차익 매물 출회에 약보합",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR2026082509210158s",
+      "source": "Breaking News",
+      "pubDate": "Tue, 25 Aug 2026 09:21:03 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260825/AKR2026082509210158s_01_i.jpg",
+      "summaries": {
+        "ko": "[코인시세] 비트코인 8만 달러 앞두고 '숨고르기'…차익 매물 출회에 약보합",
+        "en": "[코인시세] 비트코인 8만 달러 앞두고 '숨고르기'…차익 매물 출회에 약보합",
+        "zh": "[코인시세] 비트코인 8만 달러 앞두고 '숨고르기'…차익 매물 출회에 약보합"
+      }
+    },
+    {
+      "title": "[속보] SK하이닉스 잠정합의안 노조서 부결…재협상 수순",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260825091855PT5",
+      "source": "Breaking News",
+      "pubDate": "Tue, 25 Aug 2026 09:18:57 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260825/AKR20260825091855PT5_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] SK하이닉스 잠정합의안 노조서 부결…재협상 수순",
+        "en": "[속보] SK하이닉스 잠정합의안 노조서 부결…재협상 수순",
+        "zh": "[속보] SK하이닉스 잠정합의안 노조서 부결…재협상 수순"
+      }
+    },
+    {
+      "title": "[속보] 코스피 2%대 하락…6,530선 후퇴",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260825090634BUy",
+      "source": "Breaking News",
+      "pubDate": "Tue, 25 Aug 2026 09:06:36 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260825/MYH20260825090634BUy.jpg",
+      "summaries": {
+        "ko": "[속보] 코스피 2%대 하락…6,530선 후퇴",
+        "en": "[속보] 코스피 2%대 하락…6,530선 후퇴",
+        "zh": "[속보] 코스피 2%대 하락…6,530선 후퇴"
       }
     }
   ]
