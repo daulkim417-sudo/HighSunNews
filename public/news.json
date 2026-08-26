@@ -1,52 +1,28 @@
 {
-  "lastUpdate": "2026-08-26T11:40:56.500628",
+  "lastUpdate": "2026-08-26T12:00:56.002862",
   "items": [
     {
-      "title": "용산공원 청년임대주택, 기존 미군시설 활용하자 [왜냐면] - 한겨레",
-      "link": "https://www.hani.co.kr/arti/opinion/because/1274827.html",
+      "title": "[속보] 네팔 홍수로 수력발전소 건설 한국인 8명 연락 두절, 10명 고립 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1274816.html",
       "source": "한겨레",
-      "pubDate": "Wed, 26 Aug 2026 10:51:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/501/imgdb/original/2026/0826/20260826503513.webp",
+      "pubDate": "Wed, 26 Aug 2026 11:40:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0826/53_17877407691639_9017877407032843.webp",
       "summaries": {
-        "ko": "배재대 김종헌 교수는 용산공원에 청년 임대주택을 새로 짓는 대신 기존 미군 시설을 활용해 새로운 주거 형태를 실험하고 용산이 미래 주거 리빙랩이 되도록 해야 한다고 주장한다.",
-        "en": "Professor Kim Jong-heon of Pai Chai University argues that instead of building new youth rental housing in Yongsan Park, existing U.S. military facilities should be repurposed to experiment with new housing models, transforming Yongsan into a future housing living lab.",
-        "zh": "培材大学教授金钟宪主张，与其在龙山公园新建青年租赁住房，不如利用现有美军设施，实验新的居住模式，将龙山打造成未来居住生活实验室。"
+        "ko": "[속보] 네팔 홍수로 수력발전소 건설 한국인 8명 연락 두절, 10명 고립 - 한겨레",
+        "en": "[속보] 네팔 홍수로 수력발전소 건설 한국인 8명 연락 두절, 10명 고립 - 한겨레",
+        "zh": "[속보] 네팔 홍수로 수력발전소 건설 한국인 8명 연락 두절, 10명 고립 - 한겨레"
       }
     },
     {
-      "title": "네팔·티베트 홍수로 관광객 384명 실종, 한국인 8명 포함 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608261951001",
-      "source": "경향신문",
-      "pubDate": "Wed, 26 Aug 2026 10:51:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/26/news-p.v1.20260826.3c0fbcaab8754a35a36e30d44fc3719c_P1.jpeg",
+      "title": "행안부 장관, 경찰 지휘부 소집…제주 실종사건 철저 조사 지시 - 대한민국 정책브리핑",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148970672&pWise=sub&pWiseSub=R5",
+      "source": "대한민국 정책브리핑",
+      "pubDate": "Wed, 26 Aug 2026 09:05:43 GMT",
+      "image": "https://www.korea.kr/newsWeb/resources/attaches/2026.08/26/7b248fbd3679e442049162b343017334.jpg",
       "summaries": {
-        "ko": "네팔·티베트 홍수로 관광객 384명 실종, 한국인 8명 포함 - 경향신문",
-        "en": "네팔·티베트 홍수로 관광객 384명 실종, 한국인 8명 포함 - 경향신문",
-        "zh": "네팔·티베트 홍수로 관광객 384명 실종, 한국인 8명 포함 - 경향신문"
-      }
-    },
-    {
-      "title": "\"장미란, 5월13일 새벽 사망 추정... 제주 경찰과 통화 내역 없어\" - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/08/26/PQPIN6ZW3NDE7IUM6QQBW4BHJQ/",
-      "source": "조선일보",
-      "pubDate": "Wed, 26 Aug 2026 05:13:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/WGYNLB22IRFSJG3IVRIOIYCPKY.jpg?auth=080a5e908908166b2f445fb0fbd2486b80ac9e186455fa1880595cd26b265d37&width=720&height=378&focal=359,138",
-      "summaries": {
-        "ko": "\"장미란, 5월13일 새벽 사망 추정... 제주 경찰과 통화 내역 없어\" - 조선일보",
-        "en": "\"장미란, 5월13일 새벽 사망 추정... 제주 경찰과 통화 내역 없어\" - 조선일보",
-        "zh": "\"장미란, 5월13일 새벽 사망 추정... 제주 경찰과 통화 내역 없어\" - 조선일보"
-      }
-    },
-    {
-      "title": "‘5·18 폄훼’ 이진숙 제명촉구 결의안, 與주도 본회의 통과 - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260826/134548842/2",
-      "source": "동아일보",
-      "pubDate": "Wed, 26 Aug 2026 07:19:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/26/134548889.2.jpg",
-      "summaries": {
-        "ko": "‘5·18 폄훼’ 이진숙 제명촉구 결의안, 與주도 본회의 통과 - 동아일보",
-        "en": "‘5·18 폄훼’ 이진숙 제명촉구 결의안, 與주도 본회의 통과 - 동아일보",
-        "zh": "‘5·18 폄훼’ 이진숙 제명촉구 결의안, 與주도 본회의 통과 - 동아일보"
+        "ko": "행안부 장관, 경찰 지휘부 소집…제주 실종사건 철저 조사 지시 - 대한민국 정책브리핑",
+        "en": "행안부 장관, 경찰 지휘부 소집…제주 실종사건 철저 조사 지시 - 대한민국 정책브리핑",
+        "zh": "행안부 장관, 경찰 지휘부 소집…제주 실종사건 철저 조사 지시 - 대한민국 정책브리핑"
       }
     },
     {
@@ -62,39 +38,39 @@
       }
     },
     {
-      "title": "캐나다, 미국에 200억달러 보복 관세…관세 갈등 넘어 ‘주권 침해’ 전면전 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/america/1274727.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 26 Aug 2026 10:15:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/728/imgdb/original/2026/0823/3517874523180938.webp",
-      "summaries": {
-        "ko": "캐나다, 미국에 200억달러 보복 관세…관세 갈등 넘어 ‘주권 침해’ 전면전 - 한겨레",
-        "en": "캐나다, 미국에 200억달러 보복 관세…관세 갈등 넘어 ‘주권 침해’ 전면전 - 한겨레",
-        "zh": "캐나다, 미국에 200억달러 보복 관세…관세 갈등 넘어 ‘주권 침해’ 전면전 - 한겨레"
-      }
-    },
-    {
-      "title": "영호남 10% 할인…서울서 멀수록 산업용 전기료 싸진다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/environment/1274701.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 26 Aug 2026 06:55:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2026/0826/20260826501532.webp",
-      "summaries": {
-        "ko": "영호남 10% 할인…서울서 멀수록 산업용 전기료 싸진다 - 한겨레",
-        "en": "영호남 10% 할인…서울서 멀수록 산업용 전기료 싸진다 - 한겨레",
-        "zh": "영호남 10% 할인…서울서 멀수록 산업용 전기료 싸진다 - 한겨레"
-      }
-    },
-    {
-      "title": "“제가 식물 대통령입니다···4년 임기 끝으로 사임했으면” 928쪽에 담아낸 노무현의 궤적 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608261123001",
+      "title": "캐나다, 미국에 최대 50% 보복 관세···술렁이는 미 북부 민심에 ‘역풍’ 관측도 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608261603001",
       "source": "경향신문",
-      "pubDate": "Wed, 26 Aug 2026 02:23:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/26/news-p.v1.20260825.3dfeffde9f844214bd43a4f27adf3692_P1.png",
+      "pubDate": "Wed, 26 Aug 2026 07:03:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/26/news-p.v1.20260826.95e3a16c728b4145a81499824a3e6ef7_P1.jpg",
       "summaries": {
-        "ko": "“제가 식물 대통령입니다···4년 임기 끝으로 사임했으면” 928쪽에 담아낸 노무현의 궤적 - 경향신문",
-        "en": "“제가 식물 대통령입니다···4년 임기 끝으로 사임했으면” 928쪽에 담아낸 노무현의 궤적 - 경향신문",
-        "zh": "“제가 식물 대통령입니다···4년 임기 끝으로 사임했으면” 928쪽에 담아낸 노무현의 궤적 - 경향신문"
+        "ko": "캐나다, 미국에 최대 50% 보복 관세···술렁이는 미 북부 민심에 ‘역풍’ 관측도 - 경향신문",
+        "en": "캐나다, 미국에 최대 50% 보복 관세···술렁이는 미 북부 민심에 ‘역풍’ 관측도 - 경향신문",
+        "zh": "캐나다, 미국에 최대 50% 보복 관세···술렁이는 미 북부 민심에 ‘역풍’ 관측도 - 경향신문"
+      }
+    },
+    {
+      "title": "경제계 “산업용 지역 전기요금제 환영…조속히 시행돼야” - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8646726",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 26 Aug 2026 08:38:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/08/26/20260826_qdNQoT.png",
+      "summaries": {
+        "ko": "경제계 “산업용 지역 전기요금제 환영…조속히 시행돼야” - KBS 뉴스",
+        "en": "경제계 “산업용 지역 전기요금제 환영…조속히 시행돼야” - KBS 뉴스",
+        "zh": "경제계 “산업용 지역 전기요금제 환영…조속히 시행돼야” - KBS 뉴스"
+      }
+    },
+    {
+      "title": "이진숙, 제명 촉구 결의안에 “5·18 성역화, 민주당 독재” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1274759.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 26 Aug 2026 08:05:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/682/imgdb/original/2026/0826/20260826502905.webp",
+      "summaries": {
+        "ko": "이진숙, 제명 촉구 결의안에 “5·18 성역화, 민주당 독재” - 한겨레",
+        "en": "이진숙, 제명 촉구 결의안에 “5·18 성역화, 민주당 독재” - 한겨레",
+        "zh": "이진숙, 제명 촉구 결의안에 “5·18 성역화, 민주당 독재” - 한겨레"
       }
     },
     {
@@ -119,6 +95,30 @@
         "ko": "취임 1년 장동혁 \"당원 주권 확대\"... 비주류 \"정청래 흉내내나, 빨리 용퇴하라\" - 조선일보",
         "en": "취임 1년 장동혁 \"당원 주권 확대\"... 비주류 \"정청래 흉내내나, 빨리 용퇴하라\" - 조선일보",
         "zh": "취임 1년 장동혁 \"당원 주권 확대\"... 비주류 \"정청래 흉내내나, 빨리 용퇴하라\" - 조선일보"
+      }
+    },
+    {
+      "title": "“제가 식물 대통령입니다···4년 임기 끝으로 사임했으면” 928쪽에 담아낸 노무현의 궤적 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608261123001",
+      "source": "경향신문",
+      "pubDate": "Wed, 26 Aug 2026 02:23:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/26/news-p.v1.20260825.3dfeffde9f844214bd43a4f27adf3692_P1.png",
+      "summaries": {
+        "ko": "“제가 식물 대통령입니다···4년 임기 끝으로 사임했으면” 928쪽에 담아낸 노무현의 궤적 - 경향신문",
+        "en": "“제가 식물 대통령입니다···4년 임기 끝으로 사임했으면” 928쪽에 담아낸 노무현의 궤적 - 경향신문",
+        "zh": "“제가 식물 대통령입니다···4년 임기 끝으로 사임했으면” 928쪽에 담아낸 노무현의 궤적 - 경향신문"
+      }
+    },
+    {
+      "title": "정성호 이임식…법무·검찰 수장 '동시 공백' 현실로",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260826204908AGb",
+      "source": "Breaking News",
+      "pubDate": "Wed, 26 Aug 2026 20:49:09 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260826/MYH20260826204908AGb.jpg",
+      "summaries": {
+        "ko": "정성호 이임식…법무·검찰 수장 '동시 공백' 현실로",
+        "en": "정성호 이임식…법무·검찰 수장 '동시 공백' 현실로",
+        "zh": "정성호 이임식…법무·검찰 수장 '동시 공백' 현실로"
       }
     }
   ]
