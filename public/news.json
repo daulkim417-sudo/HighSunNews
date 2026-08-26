@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-26T16:41:48.089489",
+  "lastUpdate": "2026-08-26T18:25:20.484027",
   "items": [
     {
       "title": "네팔 홍수로 95명 사망···연락 두절 한국인 8명 포함 관광객 384명 실종 - 경향신문",
@@ -8,9 +8,21 @@
       "pubDate": "Wed, 26 Aug 2026 10:51:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/08/26/news-p.v1.20260826.3c0fbcaab8754a35a36e30d44fc3719c_P1.jpeg",
       "summaries": {
-        "ko": "네팔과 중국 접경 지역에서 대규모 홍수가 발생해 95명이 사망하고 한국인 8명 등 관광객 384명이 실종되었으며, 이는 산사태, 빙하 눈사태 또는 지진으로 추정된다.",
-        "en": "A massive flood on the Nepal-China border killed 95 people and left 384 tourists, including 8 Koreans, missing, with landslides, glacial avalanches, or an earthquake suspected as causes.",
-        "zh": "尼泊尔与中国边境发生大规模洪水，导致95人死亡、包括8名韩国人在内的384名游客失踪，山体滑坡、冰川雪崩或地震被认为是可能原因。"
+        "ko": "네팔과 중국 접경 지역에서 26일 대규모 홍수가 발생해 95명이 사망하고 한국인 8명 포함 관광객 384명이 실종되었으며, 지진이 원인일 가능성이 제기되고 있다.",
+        "en": "A massive flood on October 26th in the Nepal-China border region killed 95 people and left 384 tourists, including 8 South Koreans, missing, with an earthquake being a potential cause.",
+        "zh": "10月26日，尼泊尔与中国边境地区发生大规模洪水，造成95人死亡，包括8名韩国人在内的384名游客失踪，地震可能是此次洪水的原因。"
+      }
+    },
+    {
+      "title": "고성·욕설 난무한 '사관학교 통합' 공청회…4시간 내내 난장판(종합) - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260826138751504",
+      "source": "연합뉴스",
+      "pubDate": "Wed, 26 Aug 2026 09:54:24 GMT",
+      "image": "https://img1.yna.co.kr/photo/yna/YH/2026/08/26/PYH2026082616920001300_P4.jpg",
+      "summaries": {
+        "ko": "고성·욕설 난무한 '사관학교 통합' 공청회…4시간 내내 난장판(종합) - 연합뉴스",
+        "en": "고성·욕설 난무한 '사관학교 통합' 공청회…4시간 내내 난장판(종합) - 연합뉴스",
+        "zh": "고성·욕설 난무한 '사관학교 통합' 공청회…4시간 내내 난장판(종합) - 연합뉴스"
       }
     },
     {
@@ -50,75 +62,63 @@
       }
     },
     {
-      "title": "[경향의 눈]경찰이 지워버린 실종자의 골든타임 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608262032025",
-      "source": "경향신문",
-      "pubDate": "Wed, 26 Aug 2026 11:32:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/26/l_2026082701000764100078031.jpg",
-      "summaries": {
-        "ko": "[경향의 눈]경찰이 지워버린 실종자의 골든타임 - 경향신문",
-        "en": "[경향의 눈]경찰이 지워버린 실종자의 골든타임 - 경향신문",
-        "zh": "[경향의 눈]경찰이 지워버린 실종자의 골든타임 - 경향신문"
-      }
-    },
-    {
-      "title": "“규백이 오라 그래” “이재명 앞잡이가!”…국군사관학교 첫 공청회 난장판 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/defense/1274733.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 26 Aug 2026 06:56:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/948/569/imgdb/child/2026/0826/53_17877261722882_20260826502417.webp",
-      "summaries": {
-        "ko": "“규백이 오라 그래” “이재명 앞잡이가!”…국군사관학교 첫 공청회 난장판 - 한겨레",
-        "en": "“규백이 오라 그래” “이재명 앞잡이가!”…국군사관학교 첫 공청회 난장판 - 한겨레",
-        "zh": "“규백이 오라 그래” “이재명 앞잡이가!”…국군사관학교 첫 공청회 난장판 - 한겨레"
-      }
-    },
-    {
-      "title": "‘5·18 폄훼 논란’ 이진숙, 제명 촉구 결의안 국회 본회의 통과 - 조선일보",
-      "link": "https://www.chosun.com/politics/assembly/2026/08/26/PSPJOXJA4ZCEVKIRB2IPIUC3JA/",
+      "title": "제주 경찰, 장미란 허위종결 한달뒤... 실종 해결 공로로 경찰청장 표창 - 조선일보",
+      "link": "https://www.chosun.com/national/regional/2026/08/26/S3CKGHIMPBAYRMWUAWUOWBB4DA/",
       "source": "조선일보",
-      "pubDate": "Wed, 26 Aug 2026 07:04:58 GMT",
-      "image": "https://www.chosun.com/resizer/v2/YY4PGT24YFLFPICGS3TL723564.jpg?auth=9f32d017db82c1a38beb82deaf44a95e0895eaac52dfc4c86a45145403d99918&width=1200&height=630&focal=1445,581",
+      "pubDate": "Wed, 26 Aug 2026 11:23:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/ME2DSYZWGZRTEOLFGU2GGNBZGM.jpg?auth=9165240701b17bdcb9ca1638d68117b17f2b2e555210b727841c3e31515524c0&width=1200&height=630&focal=1428,666",
       "summaries": {
-        "ko": "‘5·18 폄훼 논란’ 이진숙, 제명 촉구 결의안 국회 본회의 통과 - 조선일보",
-        "en": "‘5·18 폄훼 논란’ 이진숙, 제명 촉구 결의안 국회 본회의 통과 - 조선일보",
-        "zh": "‘5·18 폄훼 논란’ 이진숙, 제명 촉구 결의안 국회 본회의 통과 - 조선일보"
+        "ko": "제주 경찰, 장미란 허위종결 한달뒤... 실종 해결 공로로 경찰청장 표창 - 조선일보",
+        "en": "제주 경찰, 장미란 허위종결 한달뒤... 실종 해결 공로로 경찰청장 표창 - 조선일보",
+        "zh": "제주 경찰, 장미란 허위종결 한달뒤... 실종 해결 공로로 경찰청장 표창 - 조선일보"
       }
     },
     {
-      "title": "장동혁 “남은 임기 1년 새출발…당협위원장 선출에 당원 참여” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608262124005",
+      "title": "'취임 1주년' 장동혁 \"28년 총선 과반 승리해야‥당협위원장, 당원 선출\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6847410_36911.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Wed, 26 Aug 2026 02:05:13 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/08/26/lyj_260826_22.jpg",
+      "summaries": {
+        "ko": "'취임 1주년' 장동혁 \"28년 총선 과반 승리해야‥당협위원장, 당원 선출\" - MBC 뉴스",
+        "en": "'취임 1주년' 장동혁 \"28년 총선 과반 승리해야‥당협위원장, 당원 선출\" - MBC 뉴스",
+        "zh": "'취임 1주년' 장동혁 \"28년 총선 과반 승리해야‥당협위원장, 당원 선출\" - MBC 뉴스"
+      }
+    },
+    {
+      "title": "이진숙, 제명 촉구 결의안에 “5·18 성역화, 민주당 독재” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1274759.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 26 Aug 2026 08:05:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/682/imgdb/original/2026/0826/20260826502905.webp",
+      "summaries": {
+        "ko": "이진숙, 제명 촉구 결의안에 “5·18 성역화, 민주당 독재” - 한겨레",
+        "en": "이진숙, 제명 촉구 결의안에 “5·18 성역화, 민주당 독재” - 한겨레",
+        "zh": "이진숙, 제명 촉구 결의안에 “5·18 성역화, 민주당 독재” - 한겨레"
+      }
+    },
+    {
+      "title": "이 대통령, 중앙·지방 ‘원팀’ 강조…“강력한 국토 균형발전 정책 추진” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608262125005",
       "source": "경향신문",
-      "pubDate": "Wed, 26 Aug 2026 12:24:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/26/l_2026082701000779800078631.jpg",
+      "pubDate": "Wed, 26 Aug 2026 12:25:00 GMT",
+      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
       "summaries": {
-        "ko": "장동혁 국민의힘 대표가 취임 1주년 기자회견에서 남은 1년 임기 새 출발과 당원주권 확대를 발표했으나, 비당권파는 즉각 사퇴와 전당대회를 통한 새 리더십 구축을 촉구했다.",
-        "en": "People Power Party leader Jang Dong-hyuk announced a \"new start\" for his remaining one-year term and plans to expand party members' participation in selecting officials, but non-pro-leadership factions immediately called for his resignation and a national convention to establish new leadership.",
-        "zh": "国民力量党代表张东赫在就任一周年记者会上宣布，其剩余一年任期将重新出发并扩大党员参与地方党组织委员长选举，但非亲执政党派系立即呼吁他辞职并通过全国代表大会建立新领导层。"
+        "ko": "이 대통령, 중앙·지방 ‘원팀’ 강조…“강력한 국토 균형발전 정책 추진” - 경향신문",
+        "en": "이 대통령, 중앙·지방 ‘원팀’ 강조…“강력한 국토 균형발전 정책 추진” - 경향신문",
+        "zh": "이 대통령, 중앙·지방 ‘원팀’ 강조…“강력한 국토 균형발전 정책 추진” - 경향신문"
       }
     },
     {
-      "title": "김민석, 李와 독대서 \"인요한 적십자 회장 임명 않는 게 좋겠다\" - 한국일보",
-      "link": "https://www.hankookilbo.com/news/article/A2026082609520004808",
-      "source": "한국일보",
-      "pubDate": "Wed, 26 Aug 2026 01:18:00 GMT",
-      "image": "https://newsimg.hankookilbo.com/2026/08/26/2b2f684f-fb82-440e-ace6-1475bb76b4fc.jpg",
-      "summaries": {
-        "ko": "김민석, 李와 독대서 \"인요한 적십자 회장 임명 않는 게 좋겠다\" - 한국일보",
-        "en": "김민석, 李와 독대서 \"인요한 적십자 회장 임명 않는 게 좋겠다\" - 한국일보",
-        "zh": "김민석, 李와 독대서 \"인요한 적십자 회장 임명 않는 게 좋겠다\" - 한국일보"
-      }
-    },
-    {
-      "title": "트럼프, 다음 달 본인 골프장서 열리는 대회 맞춰 아일랜드 방문",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR2026082701145257E",
+      "title": "[속보] '네팔 대홍수' 사망자 100명으로 늘어…실종자는 403명",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260827024636GcM",
       "source": "Breaking News",
-      "pubDate": "Thu, 27 Aug 2026 01:14:55 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260826/AKR2026082701145257E_01_i.jpg",
+      "pubDate": "Thu, 27 Aug 2026 02:46:37 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260826/AKR20260827024636GcM_01_i.jpg",
       "summaries": {
-        "ko": "트럼프, 다음 달 본인 골프장서 열리는 대회 맞춰 아일랜드 방문",
-        "en": "트럼프, 다음 달 본인 골프장서 열리는 대회 맞춰 아일랜드 방문",
-        "zh": "트럼프, 다음 달 본인 골프장서 열리는 대회 맞춰 아일랜드 방문"
+        "ko": "[속보] '네팔 대홍수' 사망자 100명으로 늘어…실종자는 403명",
+        "en": "[속보] '네팔 대홍수' 사망자 100명으로 늘어…실종자는 403명",
+        "zh": "[속보] '네팔 대홍수' 사망자 100명으로 늘어…실종자는 403명"
       }
     }
   ]
