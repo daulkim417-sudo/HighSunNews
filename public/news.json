@@ -1,28 +1,52 @@
 {
-  "lastUpdate": "2026-08-26T12:00:56.002862",
+  "lastUpdate": "2026-08-26T12:50:36.486307",
   "items": [
     {
-      "title": "[속보] 네팔 홍수로 수력발전소 건설 한국인 8명 연락 두절, 10명 고립 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1274816.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 26 Aug 2026 11:40:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0826/53_17877407691639_9017877407032843.webp",
+      "title": "경제계 “산업용 지역 전기요금제 환영…조속히 시행돼야” - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8646726",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 26 Aug 2026 08:38:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/08/26/20260826_qdNQoT.png",
       "summaries": {
-        "ko": "[속보] 네팔 홍수로 수력발전소 건설 한국인 8명 연락 두절, 10명 고립 - 한겨레",
-        "en": "[속보] 네팔 홍수로 수력발전소 건설 한국인 8명 연락 두절, 10명 고립 - 한겨레",
-        "zh": "[속보] 네팔 홍수로 수력발전소 건설 한국인 8명 연락 두절, 10명 고립 - 한겨레"
+        "ko": "경제계는 기업 부담 경감과 지역균형발전 등을 위한 산업용 지역 전기요금제 도입을 환영하며 조속한 시행과 추가 정책 마련을 촉구했다.",
+        "en": "The business community welcomed the introduction of a regional industrial electricity rate system, citing its benefits for alleviating corporate burden and promoting balanced regional development, and urged its prompt implementation along with additional policy measures.",
+        "zh": "经济界欢迎引入产业用区域电费制度，认为其有助于减轻企业负担和促进区域均衡发展，并敦促尽快实施该制度及制定配套政策。"
       }
     },
     {
-      "title": "행안부 장관, 경찰 지휘부 소집…제주 실종사건 철저 조사 지시 - 대한민국 정책브리핑",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148970672&pWise=sub&pWiseSub=R5",
-      "source": "대한민국 정책브리핑",
-      "pubDate": "Wed, 26 Aug 2026 09:05:43 GMT",
-      "image": "https://www.korea.kr/newsWeb/resources/attaches/2026.08/26/7b248fbd3679e442049162b343017334.jpg",
+      "title": "[경향의 눈]경찰이 지워버린 실종자의 골든타임 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608262032025",
+      "source": "경향신문",
+      "pubDate": "Wed, 26 Aug 2026 11:32:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/26/l_2026082701000764100078031.jpg",
       "summaries": {
-        "ko": "행안부 장관, 경찰 지휘부 소집…제주 실종사건 철저 조사 지시 - 대한민국 정책브리핑",
-        "en": "행안부 장관, 경찰 지휘부 소집…제주 실종사건 철저 조사 지시 - 대한민국 정책브리핑",
-        "zh": "행안부 장관, 경찰 지휘부 소집…제주 실종사건 철저 조사 지시 - 대한민국 정책브리핑"
+        "ko": "[경향의 눈]경찰이 지워버린 실종자의 골든타임 - 경향신문",
+        "en": "[경향의 눈]경찰이 지워버린 실종자의 골든타임 - 경향신문",
+        "zh": "[경향의 눈]경찰이 지워버린 실종자의 골든타임 - 경향신문"
+      }
+    },
+    {
+      "title": "캐나다, 미국에 200억달러 보복 관세…관세 갈등 넘어 ‘주권 침해’ 전면전 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/international/america/1274727.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 26 Aug 2026 06:43:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/728/imgdb/original/2026/0823/3517874523180938.webp",
+      "summaries": {
+        "ko": "캐나다, 미국에 200억달러 보복 관세…관세 갈등 넘어 ‘주권 침해’ 전면전 - 한겨레",
+        "en": "캐나다, 미국에 200억달러 보복 관세…관세 갈등 넘어 ‘주권 침해’ 전면전 - 한겨레",
+        "zh": "캐나다, 미국에 200억달러 보복 관세…관세 갈등 넘어 ‘주권 침해’ 전면전 - 한겨레"
+      }
+    },
+    {
+      "title": "김윤덕 “탄천물재생센터 검토” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608262139005",
+      "source": "경향신문",
+      "pubDate": "Wed, 26 Aug 2026 12:39:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/26/l_2026082701000784900078741.jpg",
+      "summaries": {
+        "ko": "김윤덕 “탄천물재생센터 검토” - 경향신문",
+        "en": "김윤덕 “탄천물재생센터 검토” - 경향신문",
+        "zh": "김윤덕 “탄천물재생센터 검토” - 경향신문"
       }
     },
     {
@@ -38,39 +62,39 @@
       }
     },
     {
-      "title": "캐나다, 미국에 최대 50% 보복 관세···술렁이는 미 북부 민심에 ‘역풍’ 관측도 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608261603001",
+      "title": "서울 시내 각 법원에 ‘폭파하겠다’ 협박 메일···“폭발물 확인 안 돼” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608261617001",
       "source": "경향신문",
-      "pubDate": "Wed, 26 Aug 2026 07:03:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/26/news-p.v1.20260826.95e3a16c728b4145a81499824a3e6ef7_P1.jpg",
+      "pubDate": "Wed, 26 Aug 2026 07:17:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/26/rcv.YNA.20260826.PYH2026082611680005500_P1.jpg",
       "summaries": {
-        "ko": "캐나다, 미국에 최대 50% 보복 관세···술렁이는 미 북부 민심에 ‘역풍’ 관측도 - 경향신문",
-        "en": "캐나다, 미국에 최대 50% 보복 관세···술렁이는 미 북부 민심에 ‘역풍’ 관측도 - 경향신문",
-        "zh": "캐나다, 미국에 최대 50% 보복 관세···술렁이는 미 북부 민심에 ‘역풍’ 관측도 - 경향신문"
+        "ko": "서울 시내 각 법원에 ‘폭파하겠다’ 협박 메일···“폭발물 확인 안 돼” - 경향신문",
+        "en": "서울 시내 각 법원에 ‘폭파하겠다’ 협박 메일···“폭발물 확인 안 돼” - 경향신문",
+        "zh": "서울 시내 각 법원에 ‘폭파하겠다’ 협박 메일···“폭발물 확인 안 돼” - 경향신문"
       }
     },
     {
-      "title": "경제계 “산업용 지역 전기요금제 환영…조속히 시행돼야” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8646726",
-      "source": "KBS 뉴스",
-      "pubDate": "Wed, 26 Aug 2026 08:38:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/08/26/20260826_qdNQoT.png",
-      "summaries": {
-        "ko": "경제계 “산업용 지역 전기요금제 환영…조속히 시행돼야” - KBS 뉴스",
-        "en": "경제계 “산업용 지역 전기요금제 환영…조속히 시행돼야” - KBS 뉴스",
-        "zh": "경제계 “산업용 지역 전기요금제 환영…조속히 시행돼야” - KBS 뉴스"
-      }
-    },
-    {
-      "title": "이진숙, 제명 촉구 결의안에 “5·18 성역화, 민주당 독재” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1274759.html",
+      "title": "신고자가 ‘살인 피의자’…실종 중국 유학생, 닷새 만에 주검으로 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/yeongnam/1274667.html",
       "source": "한겨레",
-      "pubDate": "Wed, 26 Aug 2026 08:05:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/682/imgdb/original/2026/0826/20260826502905.webp",
+      "pubDate": "Wed, 26 Aug 2026 02:04:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/571/imgdb/original/2026/0826/20260826500502.webp",
       "summaries": {
-        "ko": "이진숙, 제명 촉구 결의안에 “5·18 성역화, 민주당 독재” - 한겨레",
-        "en": "이진숙, 제명 촉구 결의안에 “5·18 성역화, 민주당 독재” - 한겨레",
-        "zh": "이진숙, 제명 촉구 결의안에 “5·18 성역화, 민주당 독재” - 한겨레"
+        "ko": "신고자가 ‘살인 피의자’…실종 중국 유학생, 닷새 만에 주검으로 - 한겨레",
+        "en": "신고자가 ‘살인 피의자’…실종 중국 유학생, 닷새 만에 주검으로 - 한겨레",
+        "zh": "신고자가 ‘살인 피의자’…실종 중국 유학생, 닷새 만에 주검으로 - 한겨레"
+      }
+    },
+    {
+      "title": "‘5·18 폄훼 논란’ 이진숙, 제명 촉구 결의안 국회 본회의 통과 - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/08/26/PSPJOXJA4ZCEVKIRB2IPIUC3JA/",
+      "source": "조선일보",
+      "pubDate": "Wed, 26 Aug 2026 07:04:58 GMT",
+      "image": "https://www.chosun.com/resizer/v2/YY4PGT24YFLFPICGS3TL723564.jpg?auth=9f32d017db82c1a38beb82deaf44a95e0895eaac52dfc4c86a45145403d99918&width=1200&height=630&focal=1445,581",
+      "summaries": {
+        "ko": "‘5·18 폄훼 논란’ 이진숙, 제명 촉구 결의안 국회 본회의 통과 - 조선일보",
+        "en": "‘5·18 폄훼 논란’ 이진숙, 제명 촉구 결의안 국회 본회의 통과 - 조선일보",
+        "zh": "‘5·18 폄훼 논란’ 이진숙, 제명 촉구 결의안 국회 본회의 통과 - 조선일보"
       }
     },
     {
@@ -86,39 +110,27 @@
       }
     },
     {
-      "title": "취임 1년 장동혁 \"당원 주권 확대\"... 비주류 \"정청래 흉내내나, 빨리 용퇴하라\" - 조선일보",
-      "link": "https://www.chosun.com/politics/politics_general/2026/08/26/BMFBZUZH3ZA6VNH77FIZH537EY/",
-      "source": "조선일보",
-      "pubDate": "Wed, 26 Aug 2026 05:36:21 GMT",
-      "image": "https://www.chosun.com/resizer/v2/KKGVU62SDJB7BLSGQRSV3DUEWE.jpg?auth=0986820ec4515aaba1b7fc4d84e284843bf20096b7a75c1ec64e5c4e5488c2ca&width=1200&height=630&focal=2644,680",
+      "title": "“다시 탈게요” 박수홍, 비행기 지연 ‘민폐’ 논란에 사과…“아이 울어 당황” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/culture/culture_general/1274703.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 26 Aug 2026 11:09:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/910/546/imgdb/child/2026/0826/53_17877302359422_17877302186991_2517877302089874.webp",
       "summaries": {
-        "ko": "취임 1년 장동혁 \"당원 주권 확대\"... 비주류 \"정청래 흉내내나, 빨리 용퇴하라\" - 조선일보",
-        "en": "취임 1년 장동혁 \"당원 주권 확대\"... 비주류 \"정청래 흉내내나, 빨리 용퇴하라\" - 조선일보",
-        "zh": "취임 1년 장동혁 \"당원 주권 확대\"... 비주류 \"정청래 흉내내나, 빨리 용퇴하라\" - 조선일보"
+        "ko": "“다시 탈게요” 박수홍, 비행기 지연 ‘민폐’ 논란에 사과…“아이 울어 당황” - 한겨레",
+        "en": "“다시 탈게요” 박수홍, 비행기 지연 ‘민폐’ 논란에 사과…“아이 울어 당황” - 한겨레",
+        "zh": "“다시 탈게요” 박수홍, 비행기 지연 ‘민폐’ 논란에 사과…“아이 울어 당황” - 한겨레"
       }
     },
     {
-      "title": "“제가 식물 대통령입니다···4년 임기 끝으로 사임했으면” 928쪽에 담아낸 노무현의 궤적 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608261123001",
-      "source": "경향신문",
-      "pubDate": "Wed, 26 Aug 2026 02:23:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/26/news-p.v1.20260825.3dfeffde9f844214bd43a4f27adf3692_P1.png",
-      "summaries": {
-        "ko": "“제가 식물 대통령입니다···4년 임기 끝으로 사임했으면” 928쪽에 담아낸 노무현의 궤적 - 경향신문",
-        "en": "“제가 식물 대통령입니다···4년 임기 끝으로 사임했으면” 928쪽에 담아낸 노무현의 궤적 - 경향신문",
-        "zh": "“제가 식물 대통령입니다···4년 임기 끝으로 사임했으면” 928쪽에 담아낸 노무현의 궤적 - 경향신문"
-      }
-    },
-    {
-      "title": "정성호 이임식…법무·검찰 수장 '동시 공백' 현실로",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260826204908AGb",
+      "title": "[속보] 美 7월 PCE 물가 전년대비 3.7%↑…전망치 소폭 상회",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202608262138039wJ",
       "source": "Breaking News",
-      "pubDate": "Wed, 26 Aug 2026 20:49:09 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260826/MYH20260826204908AGb.jpg",
+      "pubDate": "Wed, 26 Aug 2026 21:38:05 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260826/AKR202608262138039wJ_01_i.jpg",
       "summaries": {
-        "ko": "정성호 이임식…법무·검찰 수장 '동시 공백' 현실로",
-        "en": "정성호 이임식…법무·검찰 수장 '동시 공백' 현실로",
-        "zh": "정성호 이임식…법무·검찰 수장 '동시 공백' 현실로"
+        "ko": "[속보] 美 7월 PCE 물가 전년대비 3.7%↑…전망치 소폭 상회",
+        "en": "[속보] 美 7월 PCE 물가 전년대비 3.7%↑…전망치 소폭 상회",
+        "zh": "[속보] 美 7월 PCE 물가 전년대비 3.7%↑…전망치 소폭 상회"
       }
     }
   ]
