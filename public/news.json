@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2026-08-29T15:09:45.654006",
+  "lastUpdate": "2026-08-29T18:26:45.457224",
   "items": [
     {
       "title": "“亞 산맥에만 빙하 9만5000개…뉴욕 전체 잠길 물이 매년 흘러” - 동아일보",
       "link": "https://www.donga.com/news/Inter/article/all/20260829/134568089/2",
       "source": "동아일보",
-      "pubDate": "Sat, 29 Aug 2026 11:47:07 GMT",
+      "pubDate": "Sat, 29 Aug 2026 11:47:00 GMT",
       "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/29/134568090.2.jpg",
       "summaries": {
         "ko": "“亞 산맥에만 빙하 9만5000개…뉴욕 전체 잠길 물이 매년 흘러” - 동아일보",
@@ -20,21 +20,9 @@
       "pubDate": "Sat, 29 Aug 2026 13:19:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/609/imgdb/original/2026/0829/20260829500495.webp",
       "summaries": {
-        "ko": "국민의힘은 장동혁 대표를 필두로 청와대가 손봉기 대법관 후보자에 대한 임명동의안을 국회에 제출하지 않기로 한 것을 반헌법적 행위로 맹비난하며 대통령 탄핵까지 시사하고 강력한 법적·정치적 대응을 예고했다.",
-        "en": "The People Power Party fiercely criticized the presidential office's rejection of Supreme Court justice nominee Son Bong-gi, with leader Jang Dong-hyuk calling it anti-constitutional and hinting at impeachment, and the party vowing strong legal and political action.",
-        "zh": "国民力量党猛烈批评总统府拒绝向国会提交大法院法官被提名人孙奉基的任命同意案，党首张东赫称此举违反宪法并暗示弹劾总统，该党还誓言采取强烈的法律和政治行动。"
-      }
-    },
-    {
-      "title": "김민석 “국힘, 김영삼 정신 계승 맞다면 이진숙 내쫓아야” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608291736001",
-      "source": "경향신문",
-      "pubDate": "Sat, 29 Aug 2026 08:36:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/29/rcv.YNA.20260829.PYH2026082902760005100_P1.jpg",
-      "summaries": {
-        "ko": "김민석 더불어민주당 대표가 국민의힘에 5·18 폄훼 논란을 빚은 이진숙 의원을 제명할 것을 압박하며, 김영삼 전 대통령의 정신을 계승한다면 그렇게 해야 한다고 주장했다.",
-        "en": "Democratic Party leader Kim Min-seok pressured the People Power Party to expel Representative Lee Jin-sook, who caused controversy with remarks disparaging the May 18 Gwangju Uprising, arguing that they should do so if they truly inherit the spirit of former President Kim Young-sam.",
-        "zh": "共同民主党党首金民锡敦促国民力量党开除因贬低5·18光州民主化运动言论引发争议的李真淑议员，并主张如果他们真正继承了金泳三前总统的精神，就应该这样做。"
+        "ko": "청와대가 손봉기 대법관 후보자의 임명동의안을 국회에 제출하지 않기로 하자, 국민의힘은 이를 반헌법적 행위로 규정하며 장동혁 대표가 \"이재명 탄핵을 위해 웃통 벗고 싸울 것\"이라고 밝히는 등 강력한 비판과 법적·정치적 대응을 예고했다.",
+        "en": "Following the presidential office's decision not to submit Supreme Court justice nominee Son Bong-gi's appointment consent motion to the National Assembly, the People Power Party strongly criticized it as an unconstitutional act, with leader Jang Dong-hyuk stating he would \"fight shirtless for Lee Jae-myung's impeachment,\" and announced legal and political countermeasures.",
+        "zh": "在青瓦台决定不向国会提交大法院法官被提名人孙奉基的任命同意案后，国民力量党将其定性为违宪行为，党代表张东赫表示将“为弹劾李在明而赤膊上阵”，并预告将采取强烈的批判和法律政治应对。"
       }
     },
     {
@@ -56,33 +44,33 @@
       "pubDate": "Sat, 29 Aug 2026 09:34:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/656/imgdb/original/2026/0829/20260829500518.webp",
       "summaries": {
-        "ko": "일요일인 30일 전국적으로 흐리거나 비가 오겠으며, 수도권 폭염특보는 해제되지만 남부지방을 중심으로 돌풍과 번개를 동반한 강한 비가 내리고 일부 지역에는 최대 200mm 이상 비가 예상된다.",
-        "en": "On Sunday, the 30th, the entire nation will be cloudy or rainy, and while the heatwave warning in the Seoul metropolitan area will be lifted, southern regions will experience strong rain accompanied by gusts and lightning, with some areas expecting over 200mm.",
-        "zh": "周日（30日），全国范围将多云或有雨，首都圈的高温特报将解除，但以南部地区为中心，将伴有强风和雷电的强降雨，部分地区预计降雨量将超过200毫米。"
+        "ko": "일요일인 30일 전국이 흐리거나 비가 내리겠으며, 수도권 폭염특보가 해제되는 가운데 남부지방에는 돌풍과 번개를 동반한 최대 200mm의 강한 비가 예상된다.",
+        "en": "On Sunday, the 30th, the entire country will be cloudy or rainy, with the heatwave advisory for the Seoul metropolitan area expected to be lifted, while southern regions anticipate heavy rains of up to 200mm accompanied by gales and lightning.",
+        "zh": "周日（30日），韩国全国将多云或有雨，首都圈高温特报有望解除，但南部地区预计将伴随强风和雷电，降下最高200毫米的强降雨。"
       }
     },
     {
-      "title": "제주서 실종자 또 숨진 채 발견…낚시도구 챙겨 나간 20대 남성 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1275252.html",
-      "source": "한겨레",
-      "pubDate": "Sat, 29 Aug 2026 09:43:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/638/imgdb/original/2026/0829/1417879965048945.webp",
+      "title": "인천 연수구 아파트서 불…70대 남성 사망 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8649582",
+      "source": "KBS 뉴스",
+      "pubDate": "Sat, 29 Aug 2026 11:16:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/08/29/20260829_yoUjcH.jpg",
       "summaries": {
-        "ko": "제주 서귀포에서 낚시를 위해 나갔다가 실종된 20대 남성 군 간부가 이틀 만에 숨진 채 발견되었다.",
-        "en": "A 20-something junior military officer who went missing after going fishing in Seogwipo, Jeju, was found dead two days later.",
-        "zh": "一名20多岁、在济州西归浦因钓鱼失踪的年轻军官，在失踪两天后被发现死亡。"
+        "ko": "인천 연수구 아파트 2층에서 불이 나 70대 남성이 사망하고 주민 24명이 대피했습니다.",
+        "en": "A fire on the second floor of an apartment in Yeonsu-gu, Incheon, resulted in the death of a man in his 70s and the evacuation of 24 residents.",
+        "zh": "仁川延寿区一公寓二楼发生火灾，导致一名70多岁男子死亡，24名居民被疏散。"
       }
     },
     {
-      "title": "인천 연수구 아파트서 불‥70대 남성 사망 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6848269_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sat, 29 Aug 2026 11:44:38 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/29/sa_20260829_8.jpg",
+      "title": "결국 목적은 석유였나…트럼프 “베네수 650억 배럴, 美 장악” - 동아일보",
+      "link": "https://www.donga.com/news/Inter/article/all/20260829/134567631/1",
+      "source": "동아일보",
+      "pubDate": "Sat, 29 Aug 2026 01:38:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/29/134567634.1.jpg",
       "summaries": {
-        "ko": "오늘 오후 인천 연수구 아파트 2층에서 불이 나 70대 남성 1명이 숨지고 주민 24명이 대피했으며, 경찰과 소방 당국이 화재 원인을 조사하고 있습니다.",
-        "en": "A fire broke out on the second floor of an apartment in Yeonsu-gu, Incheon, this afternoon, killing a man in his 70s and evacuating 24 residents, with police and fire authorities investigating the cause.",
-        "zh": "今天下午，仁川延寿区一公寓二楼发生火灾，导致一名70多岁男性死亡，24名居民紧急疏散，警方和消防部门正在调查起火原因。"
+        "ko": "결국 목적은 석유였나…트럼프 “베네수 650억 배럴, 美 장악” - 동아일보",
+        "en": "결국 목적은 석유였나…트럼프 “베네수 650억 배럴, 美 장악” - 동아일보",
+        "zh": "결국 목적은 석유였나…트럼프 “베네수 650억 배럴, 美 장악” - 동아일보"
       }
     },
     {
@@ -92,33 +80,69 @@
       "pubDate": "Sat, 29 Aug 2026 12:16:00 GMT",
       "image": "http://news.kbs.co.kr/data/news/2026/08/29/20260829_cAJIqr.png",
       "summaries": {
-        "ko": "폭우 피해가 컸던 통영 한산도 등 일부 지역이 피해 집계 지연과 기준 미달로 특별재난지역에서 제외되어 주민들이 불만을 토로하고 있으며, 추가 선포는 다음 달에나 가능할 전망입니다.",
-        "en": "Some areas in Tongyeong, including Hansando, severely affected by heavy rain, were excluded from the special disaster zone declaration due to delayed damage assessment and not meeting the criteria, prompting complaints from residents, with additional declarations expected only next month.",
-        "zh": "统营汉山岛等部分受暴雨严重影响的地区，因灾情统计延迟且未达标准，被排除在特别灾区宣告之外，引发居民不满，预计要到下个月才可能进行追加宣告。"
+        "ko": "폭우 피해가 컸음에도 통영 일부 지역(한산도 등)은 초기 피해 집계 지연으로 특별재난지역에서 제외되자 주민들이 당혹스러워하며 추가 선포를 요구하고 있으나, 행정 조사에 시간이 걸릴 전망이다.",
+        "en": "Despite severe heavy rain damage, some areas of Tongyeong (such as Hansan Island) were excluded from special disaster zone declarations due to delayed initial damage assessment, leading to bewildered residents demanding additional declarations, which are expected to take time for administrative surveys.",
+        "zh": "尽管遭受了严重的暴雨损害，统营市的部分地区（如闲山岛）因初期损害统计延迟而被排除在特别灾区之外，当地居民对此感到困惑并要求额外宣布，但行政调查预计将需要时间。"
       }
     },
     {
-      "title": "충청·전북 등 집중호우 예보‥산사태 위기경보 '주의' 상향 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6848236_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Sat, 29 Aug 2026 06:47:17 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/29/yen_20260829_16.jpg",
+      "title": "7.3만 가구에 서울 추가되나?...탄천? 그린벨트? - YTN",
+      "link": "https://www.ytn.co.kr/_ln/0102_202608292318109608",
+      "source": "YTN",
+      "pubDate": "Sat, 29 Aug 2026 14:18:00 GMT",
+      "image": "https://image.ytn.co.kr/general/jpg/2026/0829/202608292318109608_t.jpg",
       "summaries": {
-        "ko": "충청·전북 등 집중호우 예보‥산사태 위기경보 '주의' 상향 - MBC 뉴스",
-        "en": "충청·전북 등 집중호우 예보‥산사태 위기경보 '주의' 상향 - MBC 뉴스",
-        "zh": "충청·전북 등 집중호우 예보‥산사태 위기경보 '주의' 상향 - MBC 뉴스"
+        "ko": "국토부와 서울시가 경기지역 7.3만 가구 외 서울 추가 주택 공급을 위해 탄천물재생센터 이전 및 강남 그린벨트 해제를 논의 중이지만, 이전 부지 확보와 용산공원 개발 카드 철회 등 핵심 쟁점에서 이견을 좁히지 못하고 있다.",
+        "en": "The Ministry of Land, Infrastructure and Transport and the Seoul Metropolitan Government are discussing the relocation of the Tancheon Water Reclamation Center and greenbelt解除 in Gangnam to increase housing supply in Seoul, beyond the 73,000 units in Gyeonggi, but are struggling to reconcile differences on key issues such as securing relocation sites and the withdrawal of the Yongsan Park development plan.",
+        "zh": "韩国国土交通部与首尔市政府正就除京畿道7.3万套住房外的首尔额外住房供应展开讨论，主要考虑炭川水再生中心搬迁和江南绿地解除，但因搬迁场地难觅以及首尔市要求撤销龙山公园开发计划等关键问题而难以达成共识。"
       }
     },
     {
-      "title": "러 드론에 키이우 인근 마을 창고 연쇄 폭발…최소 37명 사망",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260829235520VZQ",
+      "title": "제주서 실종된 20대, 해안서 숨진 채 발견 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260829173901dg7",
+      "source": "연합뉴스TV",
+      "pubDate": "Sat, 29 Aug 2026 08:39:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260829/AKR20260829173901dg7_01_i.jpg",
+      "summaries": {
+        "ko": "제주에서 낚시 도구를 챙겨 나간 뒤 연락이 두절된 20대 남성이 서귀포시 하예포구 인근 해안가에서 숨진 채 발견되었습니다.",
+        "en": "A man in his 20s who went missing in Jeju after leaving with fishing gear was found dead near the coast of Haye Port in Seogwipo.",
+        "zh": "在济州岛携带钓鱼工具外出后失联的20多岁男子，在西归浦市河礼浦口附近海岸被发现身亡。"
+      }
+    },
+    {
+      "title": "네팔 신속대응팀 \"두차례 헬기 수색, 실종자 관련 성과 없어\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260830013009ihg",
       "source": "Breaking News",
-      "pubDate": "Sat, 29 Aug 2026 23:55:20 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260829/AKR20260829235520VZQ_01_i.jpg",
+      "pubDate": "Sun, 30 Aug 2026 01:30:10 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260829/AKR20260830013009ihg_01_i.jpg",
       "summaries": {
-        "ko": "러 드론에 키이우 인근 마을 창고 연쇄 폭발…최소 37명 사망",
-        "en": "러 드론에 키이우 인근 마을 창고 연쇄 폭발…최소 37명 사망",
-        "zh": "러 드론에 키이우 인근 마을 창고 연쇄 폭발…최소 37명 사망"
+        "ko": "네팔 홍수로 실종된 한국인 9명을 찾기 위해 한국 정부 합동 신속대응팀이 민간 헬기를 두 차례 운항해 수색했지만 지형적 어려움으로 성과를 얻지 못했으며, 네팔 군 당국의 수색 또한 실패하여 추가 수색을 계획 중이다.",
+        "en": "A South Korean rapid response team conducted two helicopter searches for nine Koreans missing after floods in Nepal, but found no results due to difficult terrain, with the Nepalese military also failing to find survivors, prompting plans for further searches.",
+        "zh": "为寻找在尼泊尔洪灾中失踪的9名韩国人，韩国政府联合快速响应小组两次出动民用直升机进行搜救，但因地形复杂未取得任何成果，尼泊尔军方搜救也告失败，韩方计划进行进一步搜寻。"
+      }
+    },
+    {
+      "title": "[속보] 네팔 신속대응팀 \"당국에 한국인 실종 추정 지역 수색 독려\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260830002246U2T",
+      "source": "Breaking News",
+      "pubDate": "Sun, 30 Aug 2026 00:22:46 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260829/AKR20260830002246U2T_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] 네팔 신속대응팀 \"당국에 한국인 실종 추정 지역 수색 독려\"",
+        "en": "[속보] 네팔 신속대응팀 \"당국에 한국인 실종 추정 지역 수색 독려\"",
+        "zh": "[속보] 네팔 신속대응팀 \"당국에 한국인 실종 추정 지역 수색 독려\""
+      }
+    },
+    {
+      "title": "[속보] 네팔 신속대응팀 \"민간 헬기 동원해 다른 지점도 수색 계획\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260830002158aB1",
+      "source": "Breaking News",
+      "pubDate": "Sun, 30 Aug 2026 00:21:58 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260829/AKR20260830002158aB1_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] 네팔 신속대응팀 \"민간 헬기 동원해 다른 지점도 수색 계획\"",
+        "en": "[속보] 네팔 신속대응팀 \"민간 헬기 동원해 다른 지점도 수색 계획\"",
+        "zh": "[속보] 네팔 신속대응팀 \"민간 헬기 동원해 다른 지점도 수색 계획\""
       }
     }
   ]
