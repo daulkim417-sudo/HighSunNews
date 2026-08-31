@@ -1,28 +1,16 @@
 {
-  "lastUpdate": "2026-08-31T18:09:50.768386",
+  "lastUpdate": "2026-08-31T22:47:19.167231",
   "items": [
     {
-      "title": "산비탈 달리니 끊긴 길, 차는 멈췄다…수색팀 “걸어서라도 갑니다” [르포] - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1275588.html",
+      "title": "육로 수색팀, 사고 현장 ‘둔체’도 수색…“네팔군 협조로 드론 띄워” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1275592.html",
       "source": "한겨레",
-      "pubDate": "Mon, 31 Aug 2026 14:15:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/531/imgdb/original/2026/0831/20260831503616.webp",
+      "pubDate": "Mon, 31 Aug 2026 16:51:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/624/imgdb/original/2026/0901/2517881948910414.webp",
       "summaries": {
-        "ko": "네팔 대규모 홍수로 연락이 두절된 한국인 9명을 수색하기 위해 파견된 한국 정부 신속대응팀이 험난한 육로 수색을 시작했으며, 끊긴 도로에도 불구하고 걸어서라도 목표 지점인 람체로 이동할 계획이다.",
-        "en": "A South Korean government rapid response team has begun a challenging overland search for nine Koreans missing after massive floods in Nepal, facing broken roads and difficult terrain, but is determined to reach the target area of Lamche even on foot.",
-        "zh": "韩国政府快速响应小组已开始对尼泊尔大规模洪水中失联的9名韩国人进行艰难的陆路搜救，尽管道路中断且地形复杂，他们仍决心步行前往目标地点Lamche。"
-      }
-    },
-    {
-      "title": "'장관 내정' 용혜인 \"비례의원직 유지\"에 들끓는 여론···여당·진보 진영서도 \"부적절\" \"국민 기만\" - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608312101015",
-      "source": "경향신문",
-      "pubDate": "Mon, 31 Aug 2026 12:01:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/31/l_2026090101000027600092201.jpg",
-      "summaries": {
-        "ko": "성평등가족부 장관에 내정된 용혜인 기본소득당 의원이 비례대표 의원직을 유지하겠다고 밝히면서, 관례를 깨고 위성정당 논란을 재점화시킨 이 행동에 대해 여당과 진보 진영을 포함한 각계에서 강한 비판이 쏟아지고 있다.",
-        "en": "Basic Income Party lawmaker Yong Hye-in, nominated as Minister of Gender Equality and Family, announced her intention to retain her proportional representation lawmaker seat despite the convention of resigning, sparking widespread criticism from both ruling and progressive camps for breaking tradition and fueling satellite party controversies.",
-        "zh": "被提名为性别平等与家庭部部长的基本收入党议员龙惠仁宣布，即使就任部长也将维持其比例代表议员职务，此举打破了惯例并再次引发了卫星党争议，遭到执政党和进步阵营的强烈批评。"
+        "ko": "네팔 대홍수로 실종된 한국인 9명 수색을 위해 파견된 정부 신속대응팀이 헬기 운행 난항 끝에 육로 수색을 시작해 드론을 활용했으며, 그간 외국 구조대 투입에 난색을 보이던 네팔 당국의 적극적인 협조를 얻어냈지만 아직 생존자는 발견하지 못했다.",
+        "en": "The South Korean government's rapid response team, dispatched to search for nine Koreans missing in Nepal's massive flood, began ground operations using drones after helicopter difficulties, notably securing active cooperation from previously reluctant Nepali authorities, though no survivors have yet been found.",
+        "zh": "为搜寻尼泊尔洪水中失踪的9名韩国人，韩国政府快速响应小组在直升机作业受阻后，启动了地面搜索并使用无人机，显著获得了此前不愿接受外国救援队的尼泊尔当局的积极合作，但尚未发现幸存者。"
       }
     },
     {
@@ -32,93 +20,105 @@
       "pubDate": "Mon, 31 Aug 2026 16:10:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/640/446/imgdb/original/2026/0831/20260831503513.webp",
       "summaries": {
-        "ko": "이재명 대통령이 지지율 반등을 꾀하며 6개 부처 개각을 단행했지만, 부동산 민심 악화와 대통령 관련 사건 공소 취소 논란 등 기존 현안이 여전해 쇄신 효과에 대한 회의론이 제기된다.",
-        "en": "President Lee Jae-myung's six-ministry cabinet reshuffle, aimed at boosting flagging approval ratings, faces skepticism over its reform efficacy due to persistent issues like worsening real estate sentiment and the controversy surrounding the dismissal of charges related to the president.",
-        "zh": "李在明总统为扭转支持率下滑而对6个部门进行了改组，但由于房地产民意恶化和总统相关案件撤销公诉的争议等原有问题依然存在，外界对此次改革的效果持怀疑态度。"
+        "ko": "이재명 대통령이 국정 쇄신을 위해 중폭 개각을 단행했지만, 지지율 하락의 주요 원인이었던 부동산 문제와 관련 사건 공소 취소 논란 등 부담이 되는 현안들이 여전해 지지율 반등 여부는 불확실하다는 분석이 나온다.",
+        "en": "President Lee Jae-myung's mid-level cabinet reshuffle to refresh national affairs faces uncertainty in boosting his low approval ratings, as persistent issues like real estate concerns and controversies over dropping charges related to him remain unaddressed.",
+        "zh": "李在明总统为刷新国政进行中幅改阁，但分析认为，由于导致其支持率低迷的房地产问题以及相关案件撤诉争议等悬而未决的重大议题依然存在，此次改阁能否提升支持率仍不确定。"
       }
     },
     {
-      "title": "윤 정부 정교유착 한학자 ‘징역 2년’ - 경향신문",
-      "link": "https://www.khan.co.kr/article/202608312111005",
+      "title": "출근길 또 비구름이…수도권·충청에 최대 60mm - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8651043",
+      "source": "KBS 뉴스",
+      "pubDate": "Mon, 31 Aug 2026 21:11:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza_p1/2026/09/01/70_8651043.jpg",
+      "summaries": {
+        "ko": "밤사이 소강상태를 보였던 비구름이 출근길에 수도권과 충청에 다시 유입돼 최대 60mm의 비를 뿌릴 예정이며, 이미 많은 비로 인한 산사태 및 추가 피해에 대한 주의가 요구된다.",
+        "en": "After a temporary lull overnight, heavy rain, up to 60mm, is expected to return to the Seoul metropolitan area and Chungcheong region during the morning commute, necessitating continued vigilance against landslides and further damage following prior severe rainfall.",
+        "zh": "夜间短暂歇停后，降雨云团在上班高峰期再次进入首都圈和忠清地区，预计将带来最高60毫米的降雨，此前已发生多起山体滑坡和灾害，因此需要持续保持警惕。"
+      }
+    },
+    {
+      "title": "'가짜뉴스' 확산에 제주 관광업계 \"허위·왜곡 정보 단호히 대응\" - 헤드라인제주",
+      "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=598256",
+      "source": "헤드라인제주",
+      "pubDate": "Mon, 31 Aug 2026 07:18:00 GMT",
+      "image": "https://www.headlinejeju.co.kr/news/photo/202608/598256_494467_272.jpg",
+      "summaries": {
+        "ko": "제주 관광업계는 최근 실종사건으로 확산된 가짜뉴스에 대해 허위·왜곡 정보에 단호히 대응하고 관광객 안전 강화를 약속했다.",
+        "en": "The Jeju tourism industry pledged to firmly address false and distorted information and enhance tourist safety in response to fake news spreading after a recent missing person incident.",
+        "zh": "济州旅游业针对近期失踪事件引发的假新闻扩散，承诺将坚决应对虚假歪曲信息并加强游客安全。"
+      }
+    },
+    {
+      "title": "밴스 부통령 “새로운 경제 제재 속 이란의 선박 공격 막을 수단 있어” - VOA 한국어 홈페이지",
+      "link": "https://www.voakorea.com/a/us-iran-economy-083126/8192531.html",
+      "source": "VOA 한국어 홈페이지",
+      "pubDate": "Mon, 31 Aug 2026 19:12:41 GMT",
+      "image": "https://gdb.voanews.com/970aab72-00d5-4cf1-48aa-08decadaa577_w1200_h630.jpg",
+      "summaries": {
+        "ko": "미국이 새로운 경제 제재를 가하는 가운데, JD 밴스 부통령은 이란의 선박 공격을 막을 수단이 있다고 경고하며, 이란 경제가 압력에 시달리고 있다고 재무장관이 전했다.",
+        "en": "Amidst new economic sanctions against Iran, US Vice President JD Vance warned that the US possesses means to prevent Iranian ship attacks, while the Treasury Secretary reported that Iran's economy is struggling under pressure.",
+        "zh": "在对伊朗实施新经济制裁之际，美国副总统JD万斯警告称美国有能力阻止伊朗袭击船只，同时财政部长报告称伊朗经济正承受压力。"
+      }
+    },
+    {
+      "title": "與 신현영 \"용혜인, 의원·장관 겸직 말고 한 가지 선택해야\" - 조선일보",
+      "link": "https://www.chosun.com/politics/assembly/2026/08/31/GSONWLTKCVEUZDRHWFRB7ULX6Y/",
+      "source": "조선일보",
+      "pubDate": "Mon, 31 Aug 2026 12:41:30 GMT",
+      "image": "https://www.chosun.com/resizer/v2/MM2DIYZUGQYTEYTBGI4DAMZYHE.jpg?auth=18ffea3314b1eeede4fff0a631496eccf13b8bf55b9d45a9544a834c4761e052&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "與 신현영 \"용혜인, 의원·장관 겸직 말고 한 가지 선택해야\" - 조선일보",
+        "en": "與 신현영 \"용혜인, 의원·장관 겸직 말고 한 가지 선택해야\" - 조선일보",
+        "zh": "與 신현영 \"용혜인, 의원·장관 겸직 말고 한 가지 선택해야\" - 조선일보"
+      }
+    },
+    {
+      "title": "[사설] 지금 대통령이 집값 폭락할까 걱정할 때인가 - 조선일보",
+      "link": "https://www.chosun.com/opinion/editorial/2026/09/01/4V67CLJ7YRG3FAZ3UHYURGKJ6U/",
+      "source": "조선일보",
+      "pubDate": "Mon, 31 Aug 2026 15:20:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GJTGKNLFGYZTQY3EME4GGNRUG4.jpg?auth=425b32218debbf84009c1d5e60f3dd49dcc0354c311ed8fde8fb7d4a8682d46c&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "[사설] 지금 대통령이 집값 폭락할까 걱정할 때인가 - 조선일보",
+        "en": "[사설] 지금 대통령이 집값 폭락할까 걱정할 때인가 - 조선일보",
+        "zh": "[사설] 지금 대통령이 집값 폭락할까 걱정할 때인가 - 조선일보"
+      }
+    },
+    {
+      "title": "[속보] ‘정교유착 의혹 정점’ 한학자 통일교 총재, 1심 징역 2년 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202608311446001",
       "source": "경향신문",
-      "pubDate": "Mon, 31 Aug 2026 12:11:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/08/31/l_2026090101000035300091961.jpg",
+      "pubDate": "Mon, 31 Aug 2026 05:46:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/08/31/news-p.v1.20260831.337532c9c15149eda3050a38b8c305ff_P1.jpg",
       "summaries": {
-        "ko": "윤석열 정부와의 정교유착 의혹으로 기소된 한학자 통일교 총재가 불법 정치자금 제공 및 김건희 여사 청탁 혐의 등으로 1심에서 징역 2년을 선고받았다.",
-        "en": "Han Hak-ja, the head of the Unification Church, who was indicted on suspicions of collusion between religion and politics with the Yoon Seok-yeol government, was sentenced to 2 years in prison in the first trial for charges including providing illegal political funds and soliciting favors from First Lady Kim Keon-hee.",
-        "zh": "被指控与尹锡悦政府存在政教勾结嫌疑的统一教总裁韩鹤子，因提供非法政治献金并向金建希女士行贿以求恩惠等罪名，在一审中被判处有期徒刑2年。"
+        "ko": "통일교 한학자 총재가 윤석열 정부와의 '정교유착 의혹 정점'으로 지목되며 불법 정치자금 및 김건희 여사 대상 청탁금지법 위반 혐의로 1심에서 징역 2년을 선고받았다.",
+        "en": "Han Hak-ja, leader of the Unification Church and suspected 'nexus of political-religious collusion' with the Yoon Seok-yeol government, was sentenced to two years in prison in the first trial for violating political funds laws and the Improper Solicitation and Graft Act, including illicit lobbying involving First Lady Kim Keon-hee.",
+        "zh": "统一教总裁韩鹤子因被指是与尹锡悦政府“政教勾结疑云的顶峰”，并涉嫌违反政治资金法和针对第一夫人金建希的禁止不正当请托法，在一审中被判处有期徒刑2年。"
       }
     },
     {
-      "title": "삽교천 유역 충남 예산군 구만교 지점에 ‘홍수주의보’ - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8650821",
-      "source": "KBS 뉴스",
-      "pubDate": "Mon, 31 Aug 2026 12:31:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/08/31/20260831_V6xiQq.jpg",
+      "title": "충남 예산, 호우주의보 발효 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6848646_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Mon, 31 Aug 2026 11:54:47 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/31/yh_20260831-13.jpg",
       "summaries": {
-        "ko": "금강홍수통제소가 충남 예산군 삽교천 구만교 지점에 수위 상승으로 홍수주의보를 발령하며 인근 주민들에게 홍수 피해에 유의할 것을 당부했다.",
-        "en": "The Geumgang Flood Control Office has issued a flood advisory for the Gumanggyo point on the Sapgyocheon stream in Yesan-gun, Chungcheongnam-do, due to rising water levels, urging nearby residents to take precautions against potential flood damage.",
-        "zh": "锦江洪水控制所对忠清南道礼山郡插桥川구만교地点发布了洪水警报，原因是水位上涨，并敦促附近居民警惕潜在的洪水灾害。"
+        "ko": "충남 예산, 호우주의보 발효 - MBC 뉴스",
+        "en": "충남 예산, 호우주의보 발효 - MBC 뉴스",
+        "zh": "충남 예산, 호우주의보 발효 - MBC 뉴스"
       }
     },
     {
-      "title": "뉴욕증시, 美-이란 무력공방 재개에 하락 출발 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260831183500009",
+      "title": "검찰, '여고생 살해범' 장윤기에 사형 구형…\"재범 위험\"(종합) - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260831163851054",
       "source": "연합뉴스",
-      "pubDate": "Mon, 31 Aug 2026 14:05:39 GMT",
-      "image": "https://img6.yna.co.kr/photo/etc/epa/2026/08/28/PEP20260828218101009_P4.jpg",
+      "pubDate": "Mon, 31 Aug 2026 09:37:17 GMT",
+      "image": "https://img8.yna.co.kr/photo/cms/2026/05/14/77/PCM20260514000077990_P4.jpg",
       "summaries": {
-        "ko": "뉴욕증시는 미국과 이란의 무력 공방 재개로 위험 회피 심리가 고조되고 잭슨홀 심포지엄 이후 금리 인상 전망이 강화되면서 하락 출발했다.",
-        "en": "New York stocks opened lower as renewed military clashes between the US and Iran heightened risk aversion, coupled with a strengthened outlook for interest rate hikes following the Jackson Hole symposium.",
-        "zh": "纽约股市低开，原因是美伊军事冲突再次升级加剧了避险情绪，且杰克逊霍尔研讨会后加息预期增强。"
-      }
-    },
-    {
-      "title": "오세훈 \"집값 폭락? 국민 고통에 책임감 느껴야\" - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260831182957myE",
-      "source": "연합뉴스TV",
-      "pubDate": "Mon, 31 Aug 2026 09:31:17 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260831/AKR20260831182957myE_01_i.jpg",
-      "summaries": {
-        "ko": "오세훈 \"집값 폭락? 국민 고통에 책임감 느껴야\" - 연합뉴스TV",
-        "en": "오세훈 \"집값 폭락? 국민 고통에 책임감 느껴야\" - 연합뉴스TV",
-        "zh": "오세훈 \"집값 폭락? 국민 고통에 책임감 느껴야\" - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "법원행정처장, 靑 대법관 제청 거부에 \"각자의 권한 존중돼야\" - 연합뉴스",
-      "link": "https://www.yna.co.kr/amp/view/AKR20260831089700001",
-      "source": "연합뉴스",
-      "pubDate": "Mon, 31 Aug 2026 03:39:00 GMT",
-      "image": "https://img9.yna.co.kr/photo/yna/YH/2026/08/25/PYH2026082515530001300_P4.jpg",
-      "summaries": {
-        "ko": "법원행정처장, 靑 대법관 제청 거부에 \"각자의 권한 존중돼야\" - 연합뉴스",
-        "en": "법원행정처장, 靑 대법관 제청 거부에 \"각자의 권한 존중돼야\" - 연합뉴스",
-        "zh": "법원행정처장, 靑 대법관 제청 거부에 \"각자의 권한 존중돼야\" - 연합뉴스"
-      }
-    },
-    {
-      "title": "청주 아파트서 20·60대 남성 흉기 찔려 숨져…父子 추정 - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260831/134576693/2",
-      "source": "동아일보",
-      "pubDate": "Mon, 31 Aug 2026 06:56:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/31/134576696.3.jpg",
-      "summaries": {
-        "ko": "청주 아파트서 20·60대 남성 흉기 찔려 숨져…父子 추정 - 동아일보",
-        "en": "청주 아파트서 20·60대 남성 흉기 찔려 숨져…父子 추정 - 동아일보",
-        "zh": "청주 아파트서 20·60대 남성 흉기 찔려 숨져…父子 추정 - 동아일보"
-      }
-    },
-    {
-      "title": "중부 내일까지 천둥 번개 동반 비…남부·제주는 계속 무더워 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8650527",
-      "source": "KBS 뉴스",
-      "pubDate": "Mon, 31 Aug 2026 08:10:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/08/31/20260831_Xg21Ch.jpg",
-      "summaries": {
-        "ko": "중부 내일까지 천둥 번개 동반 비…남부·제주는 계속 무더워 - KBS 뉴스",
-        "en": "중부 내일까지 천둥 번개 동반 비…남부·제주는 계속 무더워 - KBS 뉴스",
-        "zh": "중부 내일까지 천둥 번개 동반 비…남부·제주는 계속 무더워 - KBS 뉴스"
+        "ko": "검찰, '여고생 살해범' 장윤기에 사형 구형…\"재범 위험\"(종합) - 연합뉴스",
+        "en": "검찰, '여고생 살해범' 장윤기에 사형 구형…\"재범 위험\"(종합) - 연합뉴스",
+        "zh": "검찰, '여고생 살해범' 장윤기에 사형 구형…\"재범 위험\"(종합) - 연합뉴스"
       }
     }
   ]
