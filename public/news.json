@@ -1,28 +1,40 @@
 {
-  "lastUpdate": "2026-09-03T23:35:49.253579",
+  "lastUpdate": "2026-09-04T01:17:47.913081",
   "items": [
-    {
-      "title": "산은·수은·기은 등 금융노조 오늘 총파업···“당사자 협의 없는 지방이전 안 돼” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202609040600021",
-      "source": "경향신문",
-      "pubDate": "Thu, 03 Sep 2026 21:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/09/04/news-p.v1.20260903.abbbb69013a54b0abba31ee61e79f7e4_P1.jpg",
-      "summaries": {
-        "ko": "금융노조는 정부의 금융기관 지방 이전 계획이 충분한 검증과 당사자 협의 없이 추진되어 노동자들의 삶과 금융산업 경쟁력을 훼손할 것이라며 오늘 총파업에 돌입했다.",
-        "en": "Financial labor unions, including those from state-run banks, launched a general strike today to oppose the government's plan for relocating financial institutions to provincial areas, arguing it lacks proper review, harms employees, and undermines industry competitiveness.",
-        "zh": "金融工会，包括国有银行的工会，今天举行了总罢工，反对政府将金融机构迁往地方的计划，认为该计划未经充分审查和相关方协商，将损害员工生活并削弱金融业竞争力。"
-      }
-    },
     {
       "title": "김승원, ‘신약 로비’ 브로커·영장기각 판사와 찍은 사진도 나와…의혹 증폭 - 한겨레",
       "link": "https://www.hani.co.kr/arti/society/society_general/1276139.html",
       "source": "한겨레",
-      "pubDate": "Thu, 03 Sep 2026 09:42:00 GMT",
+      "pubDate": "Thu, 03 Sep 2026 13:12:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/858/805/imgdb/original/2026/0903/2217884372635091.webp",
       "summaries": {
-        "ko": "김승원, ‘신약 로비’ 브로커·영장기각 판사와 찍은 사진도 나와…의혹 증폭 - 한겨레",
-        "en": "김승원, ‘신약 로비’ 브로커·영장기각 판사와 찍은 사진도 나와…의혹 증폭 - 한겨레",
-        "zh": "김승원, ‘신약 로비’ 브로커·영장기각 판사와 찍은 사진도 나와…의혹 증폭 - 한겨레"
+        "ko": "김승원 법무부 장관 후보자가 코로나19 신약 로비 의혹에 휩싸인 가운데, 브로커와 관련 구속영장을 기각한 판사와의 사적 인연이 드러나면서 논란이 증폭되고 있다.",
+        "en": "Justice Minister nominee Kim Seung-won is embroiled in a COVID-19 new drug lobbying scandal, with controversy escalating over his personal connections to a broker and the judge who rejected an arrest warrant related to the case.",
+        "zh": "法务部长官提名人金承源卷入新冠肺炎新药游说丑闻，其与中介人以及驳回相关逮捕令的法官之间的私人关系曝光，引发争议进一步加剧。"
+      }
+    },
+    {
+      "title": "통합 17년만에 다시 쪼개지는 LH…’주택 공급’ 속도 낼까 - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260904090416hTZ",
+      "source": "연합뉴스TV",
+      "pubDate": "Fri, 04 Sep 2026 00:04:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260904/AKR20260904090416hTZ_01_i.jpg",
+      "summaries": {
+        "ko": "정부가 주택 공급 속도 향상과 재무 건전성 개선을 위해 LH를 개발과 주거복지 기능으로 분리하는 구조개혁을 추진하지만, 부채 전담 기관의 재정 부담과 조직 갈등으로 인한 공급 지연 가능성에 대한 우려가 제기되고 있습니다.",
+        "en": "The South Korean government is restructuring LH by splitting its development and housing welfare functions to accelerate housing supply and improve financial soundness, but concerns are raised regarding the financial burden on the debt-managing entity and potential supply delays due to organizational conflicts.",
+        "zh": "韩国政府正在推动将LH拆分为开发和住房福利职能的结构改革，旨在加快住房供应并改善财务状况，但人们对负责债务的机构的财政负担以及组织冲突可能导致的供应延迟表示担忧。"
+      }
+    },
+    {
+      "title": "‘中유학생 살해’ 정창성 “관계 알려지면 실직 우려”… 구속 송치 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8654685",
+      "source": "KBS 뉴스",
+      "pubDate": "Fri, 04 Sep 2026 00:22:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/09/04/20260904_yYe9Qa.jpg",
+      "summaries": {
+        "ko": "‘中유학생 살해’ 정창성 “관계 알려지면 실직 우려”… 구속 송치 - KBS 뉴스",
+        "en": "‘中유학생 살해’ 정창성 “관계 알려지면 실직 우려”… 구속 송치 - KBS 뉴스",
+        "zh": "‘中유학생 살해’ 정창성 “관계 알려지면 실직 우려”… 구속 송치 - KBS 뉴스"
       }
     },
     {
@@ -38,39 +50,27 @@
       }
     },
     {
-      "title": "발전 5사 통합, LH는 개발·주거복지 분리…공공기관 109곳 감축 - 대한민국 정책브리핑",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148971154",
-      "source": "대한민국 정책브리핑",
-      "pubDate": "Thu, 03 Sep 2026 09:13:40 GMT",
-      "image": "https://www.korea.kr/newsWeb/resources/attaches/2026.09/03/c192705a34e8977b2e2bfdbc4be45502.jpg",
+      "title": "국고보조금 받는 정당에 ‘기생충’이라더니…6년 전과 대비되는 용혜인 - 매일경제",
+      "link": "https://www.mk.co.kr/news/politics/12144066",
+      "source": "매일경제",
+      "pubDate": "Thu, 03 Sep 2026 21:56:02 GMT",
+      "image": "https://pimg.mk.co.kr/news/cms/202609/04/news-p.v1.20260831.152f8a59ec9940e8a6e2381ba55adc6f_R.jpg",
       "summaries": {
-        "ko": "발전 5사 통합, LH는 개발·주거복지 분리…공공기관 109곳 감축 - 대한민국 정책브리핑",
-        "en": "발전 5사 통합, LH는 개발·주거복지 분리…공공기관 109곳 감축 - 대한민국 정책브리핑",
-        "zh": "발전 5사 통합, LH는 개발·주거복지 분리…공공기관 109곳 감축 - 대한민국 정책브리핑"
+        "ko": "국고보조금 받는 정당에 ‘기생충’이라더니…6년 전과 대비되는 용혜인 - 매일경제",
+        "en": "국고보조금 받는 정당에 ‘기생충’이라더니…6년 전과 대비되는 용혜인 - 매일경제",
+        "zh": "국고보조금 받는 정당에 ‘기생충’이라더니…6년 전과 대비되는 용혜인 - 매일경제"
       }
     },
     {
-      "title": "현대판 봉이 김선달? '불꽃축제 명당' 돗자리 1개 30만원 판매 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260903176400004",
-      "source": "연합뉴스",
-      "pubDate": "Thu, 03 Sep 2026 21:00:01 GMT",
-      "image": "https://img8.yna.co.kr/etc/inner/KR/2026/09/03/AKR20260903176400004_05_i_P4.jpg",
+      "title": "25년 만에 5개 발전사 통합…법무·성평등부는 내년 세종행 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1276092.html",
+      "source": "한겨레",
+      "pubDate": "Thu, 03 Sep 2026 11:02:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/447/imgdb/original/2026/0903/20260903503179.webp",
       "summaries": {
-        "ko": "현대판 봉이 김선달? '불꽃축제 명당' 돗자리 1개 30만원 판매 - 연합뉴스",
-        "en": "현대판 봉이 김선달? '불꽃축제 명당' 돗자리 1개 30만원 판매 - 연합뉴스",
-        "zh": "현대판 봉이 김선달? '불꽃축제 명당' 돗자리 1개 30만원 판매 - 연합뉴스"
-      }
-    },
-    {
-      "title": "‘사면초가’ 용혜인, 장관직·의원직 둘 중 하나 내려놓나···김민석 “국민 판단 존중을” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202609031700001",
-      "source": "경향신문",
-      "pubDate": "Thu, 03 Sep 2026 08:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/09/03/rcv.YNA.20260903.PYH2026090303050001300_P1.jpg",
-      "summaries": {
-        "ko": "‘사면초가’ 용혜인, 장관직·의원직 둘 중 하나 내려놓나···김민석 “국민 판단 존중을” - 경향신문",
-        "en": "‘사면초가’ 용혜인, 장관직·의원직 둘 중 하나 내려놓나···김민석 “국민 판단 존중을” - 경향신문",
-        "zh": "‘사면초가’ 용혜인, 장관직·의원직 둘 중 하나 내려놓나···김민석 “국민 판단 존중을” - 경향신문"
+        "ko": "25년 만에 5개 발전사 통합…법무·성평등부는 내년 세종행 - 한겨레",
+        "en": "25년 만에 5개 발전사 통합…법무·성평등부는 내년 세종행 - 한겨레",
+        "zh": "25년 만에 5개 발전사 통합…법무·성평등부는 내년 세종행 - 한겨레"
       }
     },
     {
@@ -86,39 +86,39 @@
       }
     },
     {
-      "title": "연준 월러, 9월 동결 시사에...美증시 1% 반등[월가월부] - 매일경제 마켓",
-      "link": "https://stock.mk.co.kr/news/view/1153439",
-      "source": "매일경제 마켓",
-      "pubDate": "Thu, 03 Sep 2026 20:48:36 GMT",
-      "image": "https://wimg.mk.co.kr/news/cms/202609/04/rcv.YNA.20260904.PGT20260904059201009_P1.jpg",
+      "title": "뉴욕 증시, 미 국채 금리 하락에 동반 상승세 - ytn.co.kr",
+      "link": "https://www.ytn.co.kr/_ln/0104_202609040000264237",
+      "source": "ytn.co.kr",
+      "pubDate": "Thu, 03 Sep 2026 15:00:00 GMT",
+      "image": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg",
       "summaries": {
-        "ko": "연준 월러, 9월 동결 시사에...美증시 1% 반등[월가월부] - 매일경제 마켓",
-        "en": "연준 월러, 9월 동결 시사에...美증시 1% 반등[월가월부] - 매일경제 마켓",
-        "zh": "연준 월러, 9월 동결 시사에...美증시 1% 반등[월가월부] - 매일경제 마켓"
+        "ko": "뉴욕 증시, 미 국채 금리 하락에 동반 상승세 - ytn.co.kr",
+        "en": "뉴욕 증시, 미 국채 금리 하락에 동반 상승세 - ytn.co.kr",
+        "zh": "뉴욕 증시, 미 국채 금리 하락에 동반 상승세 - ytn.co.kr"
       }
     },
     {
-      "title": "7월 경상수지 420.8억달러 흑자…동월 기준 '역대 최대'",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202609040833002Dq",
+      "title": "'용혜인 테마주' 오해 해소됐나…혜인, 7% 급반등",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260904101515MnU",
       "source": "Breaking News",
-      "pubDate": "Fri, 04 Sep 2026 08:33:01 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260903/AKR202609040833002Dq_01_i.jpg",
+      "pubDate": "Fri, 04 Sep 2026 10:15:17 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260904/AKR20260904101515MnU_02_i.jpg",
       "summaries": {
-        "ko": "7월 경상수지 420.8억달러 흑자…동월 기준 '역대 최대'",
-        "en": "7월 경상수지 420.8억달러 흑자…동월 기준 '역대 최대'",
-        "zh": "7월 경상수지 420.8억달러 흑자…동월 기준 '역대 최대'"
+        "ko": "'용혜인 테마주' 오해 해소됐나…혜인, 7% 급반등",
+        "en": "'용혜인 테마주' 오해 해소됐나…혜인, 7% 급반등",
+        "zh": "'용혜인 테마주' 오해 해소됐나…혜인, 7% 급반등"
       }
     },
     {
-      "title": "네팔·티베트 대홍수 사망자 1,200명 넘어…실종자도 5천명대",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260904082318vTE",
+      "title": "LG전자, IFA서 헤어드라이어 '에어듀' 최초 공개",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260904101445Zhg",
       "source": "Breaking News",
-      "pubDate": "Fri, 04 Sep 2026 08:23:19 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260903/MYH20260904082318vTE.jpg",
+      "pubDate": "Fri, 04 Sep 2026 10:14:46 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260904/AKR20260904101445Zhg_01_i.jpg",
       "summaries": {
-        "ko": "네팔·티베트 대홍수 사망자 1,200명 넘어…실종자도 5천명대",
-        "en": "네팔·티베트 대홍수 사망자 1,200명 넘어…실종자도 5천명대",
-        "zh": "네팔·티베트 대홍수 사망자 1,200명 넘어…실종자도 5천명대"
+        "ko": "LG전자, IFA서 헤어드라이어 '에어듀' 최초 공개",
+        "en": "LG전자, IFA서 헤어드라이어 '에어듀' 최초 공개",
+        "zh": "LG전자, IFA서 헤어드라이어 '에어듀' 최초 공개"
       }
     }
   ]
