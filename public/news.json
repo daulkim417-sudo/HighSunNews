@@ -1,16 +1,28 @@
 {
-  "lastUpdate": "2026-09-08T13:31:37.777352",
+  "lastUpdate": "2026-09-08T17:21:21.256685",
   "items": [
     {
-      "title": "보완수사권 폐지 반대한 중수청장?…‘검찰 2중대화’ 쟁점 부상 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202609082105005",
+      "title": "국방부, UAE에 현지 조사단 파견…“파병 전제는 아냐” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202609082226005",
       "source": "경향신문",
-      "pubDate": "Tue, 08 Sep 2026 12:05:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/09/08/l_2026090901000287900025861.jpg",
+      "pubDate": "Tue, 08 Sep 2026 13:26:00 GMT",
+      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
       "summaries": {
-        "ko": "중대범죄수사청(중수청) 초대 청장으로 지명된 김지용 전 검사가 검찰 보완수사권 폐지에 반대했던 이력 등으로 인해 ‘검찰 2중대화’ 우려와 비판에 직면하고 있다.",
-        "en": "Former prosecutor Kim Jiyong, nominated as the first head of the Serious Crime Investigation Agency (SCIA), faces criticism and concerns that the agency could become a 'second prosecution office' due to his past opposition to the abolition of prosecutors' supplementary investigation powers.",
-        "zh": "被任命为严重犯罪调查厅（SCIA）首任厅长的前检察官金志容，因其过去反对废除检察官补充侦查权等经历，面临着SCIA可能沦为‘检察院第二分队’的担忧和批评。"
+        "ko": "국방부가 호르무즈 해협 파병 가능성에 대비해 UAE에 현지 조사단을 파견했으나, 이는 파병을 전제로 한 것이 아닌 사전 준비 단계이며 정부는 신중한 입장을 보이고 있다.",
+        "en": "South Korea's Ministry of National Defense dispatched a survey team to the UAE in preparation for potential deployment to the Hormuz Strait, clarifying it as a preliminary step rather than a commitment to deployment, with the government maintaining a cautious stance.",
+        "zh": "韩国国防部向阿联酋派遣了实地调查团，为可能派兵霍尔木兹海峡做准备，但强调这并非以派兵为前提，而是事前准备阶段，政府对此持谨慎态度。"
+      }
+    },
+    {
+      "title": "이 대통령, 프랑스 정상회담서 “호르무즈 항행 자유·공급망 안정 위해 긴밀 공조” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1276898.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 08 Sep 2026 15:53:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/469/imgdb/original/2026/0909/20260909500007.webp",
+      "summaries": {
+        "ko": "이재명 대통령이 프랑스 마크롱 대통령과의 정상회담에서 호르무즈 해협의 항행 자유와 공급망 안정을 위한 긴밀한 공조를 강조하고, 2030년까지 교역액 200억 달러 달성 및 첨단기술, 원자력 등 다양한 분야에서의 협력 강화를 합의했다.",
+        "en": "During a summit with French President Macron, President Lee Jae-myung emphasized close cooperation for freedom of navigation in the Strait of Hormuz and supply chain stability, agreeing to aim for $20 billion in trade by 2030 and strengthen cooperation in various fields including advanced technology and nuclear energy.",
+        "zh": "李在明总统在与法国总统马克龙的峰会上强调了在霍尔木兹海峡航行自由和供应链稳定方面的紧密合作，并同意到2030年实现200亿美元的贸易额，同时加强在先进技术和核能等多个领域的合作。"
       }
     },
     {
@@ -20,105 +32,93 @@
       "pubDate": "Tue, 08 Sep 2026 10:48:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0908/53_17888594849527_20260908503631.webp",
       "summaries": {
-        "ko": "청와대는 김승원 법무부 장관 후보자와 용혜인 성평등가족부 장관 후보자에 대한 논란에도 불구하고 인사청문회를 거쳐야 한다는 입장을 밝힌 반면, 민주당은 김 후보자를 엄호하고 용 후보자는 사실상 자진 사퇴를 바라는 기류이다.",
-        "en": "Despite controversies surrounding Justice Minister nominee Kim Seung-won and Gender Equality and Family Minister nominee Yong Hye-in, the Presidential Office insists on their confirmation hearings, while the Democratic Party defends Kim but largely hopes for Yong's voluntary resignation.",
-        "zh": "尽管围绕法务部长提名人金承元和性别平等家庭部长提名人龙慧仁的争议不断，韩国总统府仍坚持进行人事听证会，而执政党民主党则力挺金承元，但实际上希望龙慧仁主动辞职。"
+        "ko": "청와대는 논란에도 불구하고 김승원 법무부 장관 후보자와 용혜인 성평등가족부 장관 후보자의 인사청문회 절차를 강행하겠다는 입장을 밝히며, 특히 용 후보자에 대한 민주당 내부의 부정적 기류와 지명 철회 요구를 부인했다.",
+        "en": "The Blue House announced its intent to proceed with confirmation hearings for Justice Minister nominee Kim Seung-won and Gender Equality Minister nominee Yong Hye-in despite ongoing controversies, while denying internal Democratic Party demands for Yong's nomination withdrawal.",
+        "zh": "青瓦台表示，尽管存在争议，仍将推进对法务部部长候选人金承元和性别平等家庭部部长候选人龙慧仁的人事听证程序，并否认民主党内部要求撤销龙慧仁提名的说法。"
       }
     },
     {
-      "title": "軍, 중동에 현지조사단 파견…호르무즈 파병 준비 본격화하나 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260908168100504",
+      "title": "\"이쯤 되면 배 째라?\"...김승원 의혹 전선 확대 - YTN",
+      "link": "https://www.ytn.co.kr/_ln/0101_202609082242584380",
+      "source": "YTN",
+      "pubDate": "Tue, 08 Sep 2026 13:42:00 GMT",
+      "image": "https://image.ytn.co.kr/general/jpg/2026/0908/202609082242584380_t.jpg",
+      "summaries": {
+        "ko": "국민의힘이 김승원 후보자 지명 철회를 요구하며 가족 협동조합 관련 추가 의혹을 제기하고 한동훈 의원까지 가세하며 김승원 의혹 전선이 확대되고 있다.",
+        "en": "The People Power Party is escalating its opposition to Kim Seung-won's nomination, demanding his withdrawal, raising additional suspicions regarding his family's cooperative, and widening the front of allegations with former minister Han Dong-hoon joining the pressure.",
+        "zh": "国民力量党要求撤回金承元候选人的提名，并提出有关其家庭合作社的额外质疑，随着前部长韩东勋也加入施压，围绕金承元的争议战线正在扩大。"
+      }
+    },
+    {
+      "title": "[단독] 경찰, 피해자 발견 11시간 전 카페 사장 조사…사장은 거짓말 - news.kbs.co.kr",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8658098",
+      "source": "news.kbs.co.kr",
+      "pubDate": "Tue, 08 Sep 2026 12:16:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/09/08/20260908_GFGLDw.png",
+      "summaries": {
+        "ko": "[단독] 경찰, 피해자 발견 11시간 전 카페 사장 조사…사장은 거짓말 - news.kbs.co.kr",
+        "en": "[단독] 경찰, 피해자 발견 11시간 전 카페 사장 조사…사장은 거짓말 - news.kbs.co.kr",
+        "zh": "[단독] 경찰, 피해자 발견 11시간 전 카페 사장 조사…사장은 거짓말 - news.kbs.co.kr"
+      }
+    },
+    {
+      "title": "추미애 ’12억 관사' 입주 두고… 경실련 “재정 비상상황 맞나?” - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/09/08/V7ZC75DXVBD25HO3C7PAMGUT3I/",
+      "source": "조선일보",
+      "pubDate": "Tue, 08 Sep 2026 06:20:42 GMT",
+      "image": "https://www.chosun.com/resizer/v2/QXLOOJLV7REWPHLKOZALM2HFLI.jpg?auth=8eff3ae40806bb25aedac0bacf776dd27f2dfa7218d459b62cd92447c038a056&width=1200&height=630&focal=1551,466",
+      "summaries": {
+        "ko": "추미애 ’12억 관사' 입주 두고… 경실련 “재정 비상상황 맞나?” - 조선일보",
+        "en": "추미애 ’12억 관사' 입주 두고… 경실련 “재정 비상상황 맞나?” - 조선일보",
+        "zh": "추미애 ’12억 관사' 입주 두고… 경실련 “재정 비상상황 맞나?” - 조선일보"
+      }
+    },
+    {
+      "title": "2억1550만원 무이자 차용···‘7억원 상가 매입’ 강신철 아들, 비과세 한도 꽉 채운 ‘이모네 찬스’ - 경향신문",
+      "link": "https://www.khan.co.kr/article/202609081559011",
+      "source": "경향신문",
+      "pubDate": "Tue, 08 Sep 2026 06:59:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/09/08/rcv.YNA.20260903.PYH2026090302300001301_P1.jpg",
+      "summaries": {
+        "ko": "2억1550만원 무이자 차용···‘7억원 상가 매입’ 강신철 아들, 비과세 한도 꽉 채운 ‘이모네 찬스’ - 경향신문",
+        "en": "2억1550만원 무이자 차용···‘7억원 상가 매입’ 강신철 아들, 비과세 한도 꽉 채운 ‘이모네 찬스’ - 경향신문",
+        "zh": "2억1550만원 무이자 차용···‘7억원 상가 매입’ 강신철 아들, 비과세 한도 꽉 채운 ‘이모네 찬스’ - 경향신문"
+      }
+    },
+    {
+      "title": "경찰, 김병기 뇌물수수액 6천700만원 등 계산…구의회 카드 유용도 - 연합뉴스",
+      "link": "https://www.yna.co.kr/amp/view/AKR20260908155300004",
       "source": "연합뉴스",
-      "pubDate": "Tue, 08 Sep 2026 12:59:06 GMT",
-      "image": "https://img1.yna.co.kr/photo/yna/YH/2026/09/04/PYH2026090408510001300_P4.jpg",
+      "pubDate": "Tue, 08 Sep 2026 09:14:15 GMT",
+      "image": "https://img6.yna.co.kr/photo/yna/YH/2026/06/18/PYH2026061815690001300_P4.jpg",
       "summaries": {
-        "ko": "한국 정부가 미국의 요청에 따라 호르무즈 해협 파병 가능성에 대비해 아랍에미리트에 현지조사단을 파견해 작전 여건을 확인하고 있지만, 최종 결정은 아직 내려지지 않았다고 밝혔다.",
-        "en": "South Korea has dispatched a survey team to the UAE to assess operational conditions for a potential deployment to the Strait of Hormuz, accelerating preparations after a U.S. request, while emphasizing that a final decision has not yet been made.",
-        "zh": "韩国政府已派遣一支现场调查团前往阿联酋，评估霍尔木兹海峡部署的作战条件，加速了对美国请求的准备工作，但强调尚未做出最终决定。"
+        "ko": "경찰, 김병기 뇌물수수액 6천700만원 등 계산…구의회 카드 유용도 - 연합뉴스",
+        "en": "경찰, 김병기 뇌물수수액 6천700만원 등 계산…구의회 카드 유용도 - 연합뉴스",
+        "zh": "경찰, 김병기 뇌물수수액 6천700만원 등 계산…구의회 카드 유용도 - 연합뉴스"
       }
     },
     {
-      "title": "홍익표 “李 조작기소 밝혀지면 공소취소는 자연스럽게 이뤄질 일” - 동아일보",
-      "link": "https://www.donga.com/news/Politics/article/all/20260908/134627403/1",
-      "source": "동아일보",
-      "pubDate": "Tue, 08 Sep 2026 07:14:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/08/134627931.1.jpg",
+      "title": "김지용 중수청장 후보자 \"중대범죄 수사 대응, 한 치 빈틈 없도록 최선\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6850375_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Tue, 08 Sep 2026 05:30:55 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/09/08/yh_20260908-4.jpg",
       "summaries": {
-        "ko": "홍익표 “李 조작기소 밝혀지면 공소취소는 자연스럽게 이뤄질 일” - 동아일보",
-        "en": "홍익표 “李 조작기소 밝혀지면 공소취소는 자연스럽게 이뤄질 일” - 동아일보",
-        "zh": "홍익표 “李 조작기소 밝혀지면 공소취소는 자연스럽게 이뤄질 일” - 동아일보"
+        "ko": "김지용 중수청장 후보자 \"중대범죄 수사 대응, 한 치 빈틈 없도록 최선\" - MBC 뉴스",
+        "en": "김지용 중수청장 후보자 \"중대범죄 수사 대응, 한 치 빈틈 없도록 최선\" - MBC 뉴스",
+        "zh": "김지용 중수청장 후보자 \"중대범죄 수사 대응, 한 치 빈틈 없도록 최선\" - MBC 뉴스"
       }
     },
     {
-      "title": "[단독] 김승원-양 모 씨, 6일간 5차례 통화…청탁부터 전달까지 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8658092",
-      "source": "KBS 뉴스",
-      "pubDate": "Tue, 08 Sep 2026 12:02:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/09/08/20260908_MJTzdb.png",
+      "title": "가정폭력 피신 아내 찾아가 보복살인한 공무원 오늘 송치 - news.kbs.co.kr",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8658358",
+      "source": "news.kbs.co.kr",
+      "pubDate": "Tue, 08 Sep 2026 16:02:39 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/09/09/20260909_Z8l0xR.jpg",
       "summaries": {
-        "ko": "김승원 법무부 장관 후보자가 브로커 양 모 씨의 식약처 신약 승인 청탁을 받고 관련자와 5차례 통화했으나 대가성 없는 통화로 판단되어 기소유예 처분을 받았으며, 한편 제약업체는 조작된 자료로 승인받아 유죄를 선고받은 사실이 KBS 단독 보도로 드러났다.",
-        "en": "KBS exclusively reported that Minister of Justice nominee Kim Seung-won had five phone calls over six days with broker Yang Mo-ssi regarding a request for new drug approval from the Ministry of Food and Drug Safety, but was given a probation of indictment after prosecutors determined the calls were not transactional, while the pharmaceutical company involved was convicted for receiving approval with manipulated data.",
-        "zh": "KBS独家报道称，法务部长官候选人金承元接到了经纪人杨某关于食品药品安全处新药批准的请托，并与相关人员进行了5次通话，但检方认为这些通话不涉及利益交换，因此金承元被处以缓期起诉；与此同时，涉事制药公司则因通过伪造资料获得批准而被判有罪。"
-      }
-    },
-    {
-      "title": "'부산 예인선 전복' 압수수색‥선원 2명 해상 추락 확인 - imnews.imbc.com",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6850420_36918.html",
-      "source": "imnews.imbc.com",
-      "pubDate": "Tue, 08 Sep 2026 07:41:29 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/09/08/yh_20260908-21.jpg",
-      "summaries": {
-        "ko": "부산 예인선 전복 사고와 관련해 해경이 선사 등을 압수수색하여 업무상 과실 여부를 조사 중이며, 사고 당시 선원 2명의 해상 추락을 확인하고 실종된 선원 6명에 대한 수색을 이어가고 있다.",
-        "en": "Regarding the Busan tugboat capsizing accident, the Coast Guard has raided the boat company and others to investigate potential professional negligence, while confirming that two crew members fell into the sea during the accident and continuing the search for six missing crew members.",
-        "zh": "关于釜山拖船倾覆事故，海警对船公司等地进行了扣押搜查，正在调查是否存在业务过失，同时确认事故发生时有2名船员坠海，并正在继续搜寻6名失踪船员。"
-      }
-    },
-    {
-      "title": "30%대로 밀린 지지율…이 대통령, ‘연임 논란’ 등 직접 설명 검토 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1276819.html",
-      "source": "한겨레",
-      "pubDate": "Tue, 08 Sep 2026 08:57:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/952/571/imgdb/child/2026/0908/53_17888567700845_20260908503328.webp",
-      "summaries": {
-        "ko": "30%대로 밀린 지지율과 지지층 갈등, 연임 개헌 논란에 직면한 이재명 대통령이 국정 동력 회복을 위해 직접 입장을 표명하는 방안을 검토 중이다.",
-        "en": "Faced with approval ratings dropping to the 30% range, President Lee Jae-myung is reportedly considering directly addressing issues such as internal conflicts among his supporters and the 're-election constitutional amendment' controversy to reverse the decline in public support.",
-        "zh": "面对跌至30%的支持率以及支持者内部矛盾和连任修宪争议，李在明总统正考虑直接表态以扭转局面，恢复执政动力。"
-      }
-    },
-    {
-      "title": "경기경실련 “추미애 관사 계약 철회·예산 환수해야” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8657656",
-      "source": "KBS 뉴스",
-      "pubDate": "Tue, 08 Sep 2026 04:35:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/09/08/20260908_mWbOKV.jpg",
-      "summaries": {
-        "ko": "경기경실련은 추미애 경기도지사가 재정 비상 상황을 선언했음에도 12억 원대 호화 전세 관사를 임대한 것을 '자기모순'이자 '도민 기만' 행위로 규정하며 계약 철회와 예산 환수를 촉구했다.",
-        "en": "The Gyeonggi Citizens' Coalition for Economic Justice demanded the cancellation of Gyeonggi Governor Choo Mi-ae's 1.2 billion won luxury leased official residence contract and the return of the budget, criticizing it as a 'self-contradiction' and 'deception of citizens' despite her declaration of a financial emergency.",
-        "zh": "京畿道经济正义实践市民联盟批评京畿道知事秋美爱在宣布财政紧急状况后仍租用价值12亿韩元的豪华官邸是“自相矛盾”和“欺骗道民”的行为，要求撤销合同并追回相关预算。"
-      }
-    },
-    {
-      "title": "\"용혜인 이끈 싱크탱크, 여성 연구 3건뿐…석·박사 전무\" - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202609081814459MI",
-      "source": "연합뉴스TV",
-      "pubDate": "Tue, 08 Sep 2026 09:14:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260908/AKR202609081814459MI_01_i.jpg",
-      "summaries": {
-        "ko": "\"용혜인 이끈 싱크탱크, 여성 연구 3건뿐…석·박사 전무\" - 연합뉴스TV",
-        "en": "\"용혜인 이끈 싱크탱크, 여성 연구 3건뿐…석·박사 전무\" - 연합뉴스TV",
-        "zh": "\"용혜인 이끈 싱크탱크, 여성 연구 3건뿐…석·박사 전무\" - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "[뉴스워치] 9월8일 다시보기",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202609082201294Y6",
-      "source": "Breaking News",
-      "pubDate": "Tue, 08 Sep 2026 22:20:07 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260908/MYH202609082201294Y6.jpg",
-      "summaries": {
-        "ko": "[뉴스워치] 9월8일 다시보기",
-        "en": "[뉴스워치] 9월8일 다시보기",
-        "zh": "[뉴스워치] 9월8일 다시보기"
+        "ko": "가정폭력 피신 아내 찾아가 보복살인한 공무원 오늘 송치 - news.kbs.co.kr",
+        "en": "가정폭력 피신 아내 찾아가 보복살인한 공무원 오늘 송치 - news.kbs.co.kr",
+        "zh": "가정폭력 피신 아내 찾아가 보복살인한 공무원 오늘 송치 - news.kbs.co.kr"
       }
     }
   ]
