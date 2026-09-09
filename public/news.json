@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-09T17:17:42.702943",
+  "lastUpdate": "2026-09-09T19:46:31.118127",
   "items": [
     {
       "title": "한동훈 ‘김승원 녹취’ 공개…한성숙 “수사자료 유출 경위 확인 지시” - 한겨레",
@@ -8,21 +8,9 @@
       "pubDate": "Wed, 09 Sep 2026 12:42:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/612/imgdb/original/2026/0909/20260909503594.webp",
       "summaries": {
-        "ko": "무소속 한동훈 의원이 김승원 장관 후보자 관련 수사 자료를 공개하자 한성숙 국무총리가 자료 유출 경위와 위법 여부 확인을 지시했으며, 더불어민주당은 한 의원의 행위를 '정치 검찰'로 규정하며 개혁을 촉구했다.",
-        "en": "After independent MP Han Dong-hoon publicly revealed leaked investigative materials concerning ministerial nominee Kim Seung-won, Prime Minister Han Seong-suk ordered an inquiry into the leak's origins and legality, while the Democratic Party condemned his actions as 'political prosecution' and called for reform.",
-        "zh": "在无党派议员韩东勋公开了与部长提名人金胜元相关的调查资料后，国务总理韩成淑下令调查资料泄露的经过和合法性，同时共同民主党谴责韩东勋的行为是'政治检察'并呼吁进行改革。"
-      }
-    },
-    {
-      "title": "李대통령 \"제 임기, 헌법상 명확하게 제한돼 있어\" - 조선일보",
-      "link": "https://www.chosun.com/politics/blue_house/2026/09/09/LEYS7EGTJJDIBD3X362N7RJSHY/",
-      "source": "조선일보",
-      "pubDate": "Wed, 09 Sep 2026 12:58:57 GMT",
-      "image": "https://www.chosun.com/resizer/v2/VGYS55UGORB5BN5CJTRAQEVHCA.jpg?auth=117c88ec0923e830c1ce744e46279703b0e4a064fc4e1e315cbe53c2ecfec642&width=1200&height=630&focal=2191,994",
-      "summaries": {
-        "ko": "李대통령 \"제 임기, 헌법상 명확하게 제한돼 있어\" - 조선일보",
-        "en": "李대통령 \"제 임기, 헌법상 명확하게 제한돼 있어\" - 조선일보",
-        "zh": "李대통령 \"제 임기, 헌법상 명확하게 제한돼 있어\" - 조선일보"
+        "ko": "한동훈 의원이 김승원 법무부 장관 후보자 관련 수사 자료를 공개하자 한성숙 총리가 자료 유출 경위 확인을 지시했으며, 더불어민주당은 한 의원의 행태를 비판하며 '정치 검찰 개혁'을 촉구했다.",
+        "en": "After former Justice Minister Han Dong-hoon publicly disclosed investigation materials related to Justice Minister nominee Kim Seung-won, Prime Minister Han Seong-sook ordered an inquiry into the leak's origins, while the Democratic Party criticized Han's actions and called for \"political prosecution reform.\"",
+        "zh": "前法务部长韩东勋公开了与法务部长被提名人金承元相关的调查资料后，国务总理韩成淑指示调查资料泄露途径，而共同民主党则批评韩东勋的行为并呼吁“政治检察官改革”。"
       }
     },
     {
@@ -32,9 +20,21 @@
       "pubDate": "Wed, 09 Sep 2026 12:26:00 GMT",
       "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
       "summaries": {
-        "ko": "정부는 프랑스와의 호르무즈 해협 자유항행 공조 논의가 파병을 전제로 한 것이 아니며, 국익과 국민 공감대를 기반으로 기여 방안을 신중히 검토 중이라고 밝혔다.",
-        "en": "The South Korean government clarified that its discussions with France on cooperation for free navigation in the Strait of Hormuz are not premised on troop deployment, stating it will cautiously review contribution methods based on national interest and public consensus.",
-        "zh": "韩国政府澄清，与法国讨论霍尔木兹海峡自由航行合作并非以派兵为前提，并表示将基于国家利益和国民共识谨慎审议贡献方案。"
+        "ko": "정부 “한·프 공조, 파병 논의 아니다” - 경향신문",
+        "en": "정부 “한·프 공조, 파병 논의 아니다” - 경향신문",
+        "zh": "정부 “한·프 공조, 파병 논의 아니다” - 경향신문"
+      }
+    },
+    {
+      "title": "미국과 이란 선박 타격전 가운데 이라크 영해서 유조선 피격 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8659553",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 09 Sep 2026 15:17:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/09/10/20260910_c0vx1U.jpg",
+      "summaries": {
+        "ko": "미국과 이란 선박 타격전 가운데 이라크 영해서 유조선 피격 - KBS 뉴스",
+        "en": "미국과 이란 선박 타격전 가운데 이라크 영해서 유조선 피격 - KBS 뉴스",
+        "zh": "미국과 이란 선박 타격전 가운데 이라크 영해서 유조선 피격 - KBS 뉴스"
       }
     },
     {
@@ -44,81 +44,93 @@
       "pubDate": "Wed, 09 Sep 2026 13:47:00 GMT",
       "image": "https://image.ytn.co.kr/general/jpg/2026/0909/202609092247451578_t.jpg",
       "summaries": {
-        "ko": "용혜인 성평등가족부 장관 후보자가 '국고 빌붙는 정당' 비판 등 거취 압박에도 연일 침묵하며 청문회에서 입장을 밝히겠다고 반복하는 가운데, 기본소득당은 이에 반발하고 있다.",
-        "en": "Gender Equality and Family Minister nominee Yong Hye-in is facing increasing pressure to resign, including criticism that her party \"clings to the state treasury,\" but she remains silent, deferring all explanations to her still-unconfirmed confirmation hearing, while her Basic Income Party defends her.",
-        "zh": "韩国性别平等与家庭部长提名人龙慧仁在面临党内外对其政党“依附国库”等指责和辞职压力下，持续保持沉默，并表示将在尚未确定的听证会上澄清一切，而其基本所得党则对此进行了反驳。"
+        "ko": "\"국고 빌붙는 정당\"에 발끈?...용혜인은 침묵 - YTN",
+        "en": "\"국고 빌붙는 정당\"에 발끈?...용혜인은 침묵 - YTN",
+        "zh": "\"국고 빌붙는 정당\"에 발끈?...용혜인은 침묵 - YTN"
       }
     },
     {
-      "title": "정부 “네팔 파견 긴급구호대 1진 11일 귀국…2진 파견 준비 중” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1277075.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 09 Sep 2026 11:35:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/480/imgdb/original/2026/0909/20260909503493.webp",
+      "title": "화물차로 옮겨진 냉동창고…‘허위 정보’로 수사 혼선 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8659320",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 09 Sep 2026 12:31:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/09/09/20260909_FHDgQe.png",
       "summaries": {
-        "ko": "네팔 대홍수 실종자 수색을 위해 파견된 해외긴급구호대 1진이 11일 귀국하며, 정부는 2진 파견을 준비 중이다.",
-        "en": "The first contingent of the Korean Overseas Disaster Relief Team (KDRT), dispatched to Nepal to search for missing persons after the major flood, will return on August 11th, with the government preparing to send a second contingent.",
-        "zh": "韩国海外紧急救援队（KDRT）第一批队员在尼泊尔洪水灾区搜寻失踪者后，将于8月11日回国，政府正准备派遣第二批队员。"
+        "ko": "화물차로 옮겨진 냉동창고…‘허위 정보’로 수사 혼선 - KBS 뉴스",
+        "en": "화물차로 옮겨진 냉동창고…‘허위 정보’로 수사 혼선 - KBS 뉴스",
+        "zh": "화물차로 옮겨진 냉동창고…‘허위 정보’로 수사 혼선 - KBS 뉴스"
       }
     },
     {
-      "title": "후지산도 와르르‥일본 덮친 극한호우, 원인은 '원격강수' - v.daum.net",
-      "link": "https://v.daum.net/v/20260909201609848",
-      "source": "v.daum.net",
-      "pubDate": "Wed, 09 Sep 2026 11:16:09 GMT",
-      "image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/09/imbc/20260909204609651pvdi.jpg",
-      "summaries": {
-        "ko": "일본에 기록적인 폭우가 쏟아져 후지산 산사태와 침수 피해가 발생했는데, 이는 태풍 소멸 후에도 수증기를 공급해 폭우를 유발하는 '원격 강수'와 해수면 온도 상승 등 기후 변화가 복합적으로 작용한 결과로 분석됩니다.",
-        "en": "Japan has experienced extreme torrential rain, causing landslides on Mount Fuji and widespread flooding, which is attributed to 'remote precipitation' from dissipated typhoons supplying moisture for downpours, compounded by rising sea surface temperatures and other climate change factors.",
-        "zh": "日本遭遇极端暴雨，导致富士山发生山体滑坡和大面积洪灾，分析认为其原因是已消散的台风仍能提供水汽引发强降雨的“远程降水”，以及海面温度上升等气候变化因素的综合作用。"
-      }
-    },
-    {
-      "title": "김민석 ‘서울시장 후보, 훈식 원식 청래’ 메모…“이번엔 수첩으로 때리냐” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1277045.html",
-      "source": "한겨레",
-      "pubDate": "Wed, 09 Sep 2026 13:10:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0909/20260909503284.webp",
-      "summaries": {
-        "ko": "더불어민주당 김민석 대표가 수첩에 '서울시장 후보'와 정청래 의원 등 여러 이름이 적힌 메모를 보는 모습이 포착되자, 정 의원이 \"수첩으로 때리냐\"며 불쾌감을 표출했다.",
-        "en": "Democratic Party leader Kim Min-seok was photographed with a memo listing \"Seoul Mayor Candidates\" including Rep. Jeong Cheong-rae, who then publicly expressed discomfort, accusing Kim of \"hitting him with a memo pad.\"",
-        "zh": "民主党党首金民锡因其备忘录中出现“首尔市长候选人”及郑清来议员等人的名字而受到关注，郑清来议员对此公开表达不满，指责金民锡“用笔记本攻击人”。"
-      }
-    },
-    {
-      "title": "[날씨] 가끔 구름 끼고 아침 기온 뚝‥일교차 최대 15도 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6850766_36918.html",
+      "title": "특검, '매관매직' 김건희 2심 징역 7년 구형‥金 눈물로 무죄 주장 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6850707_36918.html",
       "source": "MBC 뉴스",
-      "pubDate": "Wed, 09 Sep 2026 15:01:53 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/09/10/s260910_0004.jpg",
+      "pubDate": "Wed, 09 Sep 2026 08:43:53 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/09/09/joo260909_11.jpg",
       "summaries": {
-        "ko": "오늘(10일)은 전국에 가끔 구름이 끼고 아침 기온이 떨어져 최대 15도의 큰 일교차를 보이겠으며, 일부 지역에는 빗방울이, 바다에서는 높은 물결이 예상됩니다.",
-        "en": "Today, October 10th, the nation will experience scattered clouds and a significant daily temperature range of up to 15 degrees due to dropping morning temperatures, with some areas seeing light raindrops and high waves expected in the seas.",
-        "zh": "今天（10日）全国大部分地区将有间歇性多云天气，早晨气温下降导致昼夜温差最高可达15摄氏度，部分地区有零星小雨，海上预计将有较大风浪。"
+        "ko": "특검, '매관매직' 김건희 2심 징역 7년 구형‥金 눈물로 무죄 주장 - MBC 뉴스",
+        "en": "특검, '매관매직' 김건희 2심 징역 7년 구형‥金 눈물로 무죄 주장 - MBC 뉴스",
+        "zh": "특검, '매관매직' 김건희 2심 징역 7년 구형‥金 눈물로 무죄 주장 - MBC 뉴스"
       }
     },
     {
-      "title": "한-프랑스 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 정책브리핑",
+      "title": "한-프랑스 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - korea.kr",
       "link": "https://www.korea.kr/multi/visualNewsView.do?newsId=148971574",
-      "source": "정책브리핑",
+      "source": "korea.kr",
       "pubDate": "Wed, 09 Sep 2026 07:33:01 GMT",
       "image": "https://www.korea.kr/newsWeb/resources/attaches/2026.09/09/620b8f22046e815f96146be8e2b6caf2.jpg",
       "summaries": {
-        "ko": "한-프랑스 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 정책브리핑",
-        "en": "한-프랑스 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 정책브리핑",
-        "zh": "한-프랑스 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 정책브리핑"
+        "ko": "한-프랑스 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - korea.kr",
+        "en": "한-프랑스 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - korea.kr",
+        "zh": "한-프랑스 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - korea.kr"
       }
     },
     {
-      "title": "[단독] 냉동창고에 가둔 직후 AI에 \"창고에 사람 있으면 어떻게 되나?\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6850682_36918.html",
+      "title": "부산 예인선 전복사고 실종자 1명 시신 7일 만에 발견 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6850764_36918.html",
       "source": "MBC 뉴스",
-      "pubDate": "Wed, 09 Sep 2026 06:20:13 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/09/09/joo260909_2.jpg",
+      "pubDate": "Wed, 09 Sep 2026 13:36:06 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/09/09/yh_20260909-34.jpg",
       "summaries": {
-        "ko": "[단독] 냉동창고에 가둔 직후 AI에 \"창고에 사람 있으면 어떻게 되나?\" - MBC 뉴스",
-        "en": "[단독] 냉동창고에 가둔 직후 AI에 \"창고에 사람 있으면 어떻게 되나?\" - MBC 뉴스",
-        "zh": "[단독] 냉동창고에 가둔 직후 AI에 \"창고에 사람 있으면 어떻게 되나?\" - MBC 뉴스"
+        "ko": "부산 예인선 전복사고 실종자 1명 시신 7일 만에 발견 - MBC 뉴스",
+        "en": "부산 예인선 전복사고 실종자 1명 시신 7일 만에 발견 - MBC 뉴스",
+        "zh": "부산 예인선 전복사고 실종자 1명 시신 7일 만에 발견 - MBC 뉴스"
+      }
+    },
+    {
+      "title": "트럼프 \"중간선거 직후 전쟁 끝날것…이란, 더는 못버텨\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260910041358olC",
+      "source": "Breaking News",
+      "pubDate": "Thu, 10 Sep 2026 04:13:59 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260909/AKR20260910041358olC_01_i.jpg",
+      "summaries": {
+        "ko": "트럼프 \"중간선거 직후 전쟁 끝날것…이란, 더는 못버텨\"",
+        "en": "트럼프 \"중간선거 직후 전쟁 끝날것…이란, 더는 못버텨\"",
+        "zh": "트럼프 \"중간선거 직후 전쟁 끝날것…이란, 더는 못버텨\""
+      }
+    },
+    {
+      "title": "[속보] 트럼프 \"이란전쟁, 중간선거 직후 끝날 것\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260910033649ak8",
+      "source": "Breaking News",
+      "pubDate": "Thu, 10 Sep 2026 03:36:50 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260909/AKR20260910033649ak8_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] 트럼프 \"이란전쟁, 중간선거 직후 끝날 것\"",
+        "en": "[속보] 트럼프 \"이란전쟁, 중간선거 직후 끝날 것\"",
+        "zh": "[속보] 트럼프 \"이란전쟁, 중간선거 직후 끝날 것\""
+      }
+    },
+    {
+      "title": "[속보] 애플, '아이폰 듀오' 공개…'접는 아이폰' 첫 출시",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202609100259541S0",
+      "source": "Breaking News",
+      "pubDate": "Thu, 10 Sep 2026 02:59:56 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260909/AKR202609100259541S0_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] 애플, '아이폰 듀오' 공개…'접는 아이폰' 첫 출시",
+        "en": "[속보] 애플, '아이폰 듀오' 공개…'접는 아이폰' 첫 출시",
+        "zh": "[속보] 애플, '아이폰 듀오' 공개…'접는 아이폰' 첫 출시"
       }
     }
   ]
