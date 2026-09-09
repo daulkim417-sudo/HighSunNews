@@ -1,124 +1,136 @@
 {
-  "lastUpdate": "2026-09-09T09:09:00.868935",
+  "lastUpdate": "2026-09-09T13:40:44.848459",
   "items": [
     {
-      "title": "“검찰 자료 상납 게이트” VS “물타기 그만”…한동훈 ‘자료 출처’ 두고 여야 격돌 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202609091700011",
+      "title": "[단독] ‘김승원 청탁’ 김강립 “특정 제품 챙겨달란 경우는 없어…개별회사 언급 예외적” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1277073.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 09 Sep 2026 10:44:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/494/imgdb/original/2026/0909/20260909503478.webp",
+      "summaries": {
+        "ko": "김강립 전 식약처장이 김승원 법무부 장관 후보자의 코로나19 치료제 승인 청탁과 관련해 처음에는 지시 사실을 부인했으나, 검찰이 수행비서를 통한 지시 증거를 제시하자 뒤늦게 인정한 것으로 확인됐다.",
+        "en": "Former MFDS head Kim Kang-lip initially denied issuing instructions regarding Justice Minister nominee Kim Seung-won's request for COVID-19 treatment approval but later admitted it after prosecutors presented evidence that his secretary had conveyed the directive.",
+        "zh": "前食品医药品安全处长金刚立起初否认曾就法务部长候选人金承源提出的新冠治疗剂审批请求下达指示，但在检察官出示其秘书传达指示的证据后，他才承认了事实。"
+      }
+    },
+    {
+      "title": "“제 임기, 헌법상 명확하게 제한” 이 대통령, 연임 개헌에 첫 입장 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202609092128005",
       "source": "경향신문",
-      "pubDate": "Wed, 09 Sep 2026 08:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/09/09/rcv.YNA.20260909.PYH2026090915670001300_P1.jpg",
+      "pubDate": "Wed, 09 Sep 2026 12:28:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/09/09/l_2026091001000341300031051.jpg",
       "summaries": {
-        "ko": "김승원 법무부장관 후보자 의혹을 제기한 한동훈 무소속 의원의 자료 출처를 두고 여야가 격렬하게 공방하는 가운데, 민주당은 '검찰의 수사자료 상납 게이트'라며 검찰 배후설을 주장했고, 한 의원은 '허위사실'이라며 법적 대응에 나섰다.",
-        "en": "The ruling and opposition parties are fiercely clashing over the source of materials used by independent MP Han Dong-hoon to raise allegations against Justice Minister nominee Kim Seung-won, with the Democratic Party labeling it a 'prosecutor's investigation data handover gate' and alleging prosecutorial backing, while Han refutes it as 'false facts' and retaliates with legal action.",
-        "zh": "执政党和反对党就无党派议员韩东勋提出法务部长官候选人金承源疑点所用资料来源展开激烈争论，共同民主党将其定性为“检察机关调查资料上缴门”并主张检察机关幕后支持，而韩东勋则反驳其为“虚假事实”并采取法律行动反击。"
+        "ko": "이재명 대통령은 야권의 연임 개헌 공세가 이어지는 가운데, 프랑스 순방 중 \"저의 임기는 헌법상 명확하게 제한돼 있다\"며 연임 개헌 논란에 대한 첫 입장을 밝혔다.",
+        "en": "Amidst continuous accusations from the opposition regarding a re-election constitutional amendment, President Lee Jae-myung, during his visit to France, publicly stated for the first time that \"my term is clearly limited by the constitution.\"",
+        "zh": "在反对党持续指责他寻求连任修宪的背景下，李在明总统在访法期间首次公开表示，“我的任期在宪法上明确受到限制”。"
       }
     },
     {
-      "title": "‘파주 카페 살인’ 범행 일주일 전 냉동창고 설치···실종 수사 경찰에 거짓말도 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202609091450001",
-      "source": "경향신문",
-      "pubDate": "Wed, 09 Sep 2026 05:50:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/09/09/news-p.v1.20260909.0ac7ba1e6f47491db49943ba8152906c_P1.jpg",
+      "title": "대정부질문 첫날…연임 개헌·개각·대법관 제청 두고 여야 공방 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1277072.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 09 Sep 2026 10:42:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/469/imgdb/original/2026/0909/20260909503474.webp",
       "summaries": {
-        "ko": "파주 카페에서 30대 남성이 위조 상품권 발각을 우려해 60대 여성을 냉동창고에 가둬 숨지게 한 혐의로 구속되었으며, 범행 전 냉동창고를 설치하고 경찰에 거짓말을 한 사실이 드러났다.",
-        "en": "A man in his 30s has been arrested for allegedly killing a woman in her 60s by trapping her in a freezer at his Paju cafe, reportedly due to her discovering 50 billion won worth of counterfeit gift certificates, and it was revealed he installed the freezer a week prior and lied to the police.",
-        "zh": "一名30多岁的男子因涉嫌在京畿道坡州的一家咖啡馆将其60多岁的女性受害者锁在冷冻仓库中致死而被捕，据称是因为受害者发现了价值500亿韩元的伪造礼券，且他被揭露在一周前安装了冷冻仓库并对警方撒了谎。"
+        "ko": "9일 국회 대정부질문 첫날, 여야는 이재명 정부 2기 개각 및 장관 후보자 논란, 대통령 연임 개헌 논의, 5·18 정신 헌법 수록, 대법관 제청 방식 등을 놓고 격렬한 공방을 벌였다.",
+        "en": "On the first day of the general interpellation at the National Assembly on September 9th, ruling and opposition parties engaged in fierce debates over the Lee Jae-myung government's second-term cabinet reshuffle and ministerial nominee controversies, discussions on the president's re-election constitutional amendment, enshrining the 5·18 spirit in the constitution, and the method of recommending Supreme Court justices.",
+        "zh": "9日国会对政府质询首日，执政党和在野党就李在明政府第二期内阁改组及部长候选人争议、总统连任修宪讨论、将5·18精神写入宪法以及大法官提名方式等问题展开了激烈攻防。"
       }
     },
     {
-      "title": "김민석, 본회의장서 수첩 포착…서울시장 후보 ’청래’ ’훈식’ ’원식’? - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260909164137AKW",
-      "source": "연합뉴스TV",
-      "pubDate": "Wed, 09 Sep 2026 07:41:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260909/AKR20260909164137AKW_01_i.jpg",
+      "title": "화물차로 옮겨진 냉동창고…‘허위 정보’로 수사 혼선 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8659320",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 09 Sep 2026 12:31:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/09/09/20260909_FHDgQe.png",
       "summaries": {
-        "ko": "더불어민주당 김민석 대표의 국회 본회의장 포착 수첩에 '청래', '훈식', '원식' 등 서울시장 후보군과 야당 인사 이름 옆 'OUT'이 적혀 있어 정청래 전 대표가 강하게 반발했다.",
-        "en": "Democratic Party leader Kim Min-seok's notebook, spotted in the National Assembly, listed potential Seoul mayoral candidates such as 'Cheong-rae,' 'Hun-sik,' and 'Won-sik,' alongside 'OUT' next to opposition figures, sparking a strong negative reaction from Jung Cheong-rae.",
-        "zh": "民主党代表金民锡在国会全体会议上被拍到的笔记本上，列出了“青来”、“勋植”、“元植”等首尔市长潜在候选人，并在野党人士旁标注“OUT”，引发了前代表郑青来的强烈不满。"
+        "ko": "위조 상품권 거래 후 60대 여성을 냉동창고에 가둬 숨지게 하고 수사를 혼선시킨 카페 사장이 입건됐으며, 피해자를 데려다준 브로커도 상품권 위조 혐의로 입건되었다.",
+        "en": "A cafe owner was charged for fatally imprisoning a 60-year-old woman in a freezer after a fake gift certificate transaction and misleading investigators, while the broker who brought the victim was also charged with gift certificate forgery.",
+        "zh": "一名咖啡店老板因伪造礼品券交易后将一名60多岁女性囚禁在冷冻库中致死并混淆调查而被逮捕，同时，带受害人前来的中间人也因伪造礼品券罪名被立案。"
       }
     },
     {
-      "title": "김건희 “공직 절대 안 팔아”…‘매관매직’ 2심도 징역 7년 구형 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8658972",
+      "title": "일본 나고야에 또 극한 호우…시간당 100mm에 ‘물난리’ - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8659317",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 09 Sep 2026 12:28:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/09/09/20260909_kNFWjW.png",
+      "summaries": {
+        "ko": "일본 나고야에 시간당 100mm 넘는 기록적인 극한 호우가 쏟아져 도심이 물에 잠기고 차량 200대가 침수되는 등 큰 피해가 발생했다.",
+        "en": "Nagoya, Japan, experienced unprecedented extreme heavy rainfall exceeding 100mm per hour, submerging the city center and causing significant damage, including the flooding of 200 vehicles.",
+        "zh": "日本名古屋遭遇每小时超过100毫米的创纪录极端暴雨，导致市中心被淹，200辆汽车被洪水浸泡，损失惨重。"
+      }
+    },
+    {
+      "title": "\"국고 빌붙는 정당\"에 발끈?...용혜인은 침묵 - YTN",
+      "link": "https://www.ytn.co.kr/_ln/0101_202609092200356603",
+      "source": "YTN",
+      "pubDate": "Wed, 09 Sep 2026 13:00:00 GMT",
+      "image": "https://image.ytn.co.kr/general/jpg/2026/0909/202609092200356603_t.jpg",
+      "summaries": {
+        "ko": "성평등가족부 장관 후보자 용혜인이 국고 의존 정당을 비판한 송영길 의원 등 여권 내부의 거취 압박에 직면했지만, 그녀는 침묵을 지키며 아직 확정되지 않은 청문회에서 모든 문제를 밝히겠다고 말하고 있다.",
+        "en": "Nominee Yong Hye-in is facing increasing pressure from within the ruling party, including criticism from Song Young-gil regarding parties dependent on state funds, to make a decision on her ministerial nomination and parliamentary seat, but she maintains silence, stating she will address all issues at her still-unconfirmed hearing.",
+        "zh": "被提名为性别平等家庭部部长的龙惠仁正面临执政党内部日益增大的压力，包括宋永吉议员对依赖国家财政政党的批评，要求她就部长提名和议员席位做出决定，但她保持沉默，表示将在尚未确定的听证会上澄清所有问题。"
+      }
+    },
+    {
+      "title": "김병주 \"최악의 경우 호르무즈 파병해도… 美 지휘 체계 들어가선 안 돼\" - 한국일보",
+      "link": "https://www.hankookilbo.com/news/article/A2026090909280000959",
+      "source": "한국일보",
+      "pubDate": "Wed, 09 Sep 2026 02:30:00 GMT",
+      "image": "https://newsimg.hankookilbo.com/2026/09/09/d6466b89-51f4-4422-97c4-546afc966ec6.jpg",
+      "summaries": {
+        "ko": "김병주 \"최악의 경우 호르무즈 파병해도… 美 지휘 체계 들어가선 안 돼\" - 한국일보",
+        "en": "김병주 \"최악의 경우 호르무즈 파병해도… 美 지휘 체계 들어가선 안 돼\" - 한국일보",
+        "zh": "김병주 \"최악의 경우 호르무즈 파병해도… 美 지휘 체계 들어가선 안 돼\" - 한국일보"
+      }
+    },
+    {
+      "title": "김민석 ‘서울시장 후보, 훈식 원식 청래’ 메모…“이번엔 수첩으로 때리냐” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1277045.html",
+      "source": "한겨레",
+      "pubDate": "Wed, 09 Sep 2026 13:10:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2026/0909/20260909503284.webp",
+      "summaries": {
+        "ko": "김민석 ‘서울시장 후보, 훈식 원식 청래’ 메모…“이번엔 수첩으로 때리냐” - 한겨레",
+        "en": "김민석 ‘서울시장 후보, 훈식 원식 청래’ 메모…“이번엔 수첩으로 때리냐” - 한겨레",
+        "zh": "김민석 ‘서울시장 후보, 훈식 원식 청래’ 메모…“이번엔 수첩으로 때리냐” - 한겨레"
+      }
+    },
+    {
+      "title": "합참의장·주한미군사령관, ‘北 상습 월선’ 동부전선 GP 현장 점검 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8658974",
       "source": "KBS 뉴스",
       "pubDate": "Wed, 09 Sep 2026 07:37:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/09/09/20260909_CA2WTZ.jpg",
+      "image": "http://news.kbs.co.kr/data/news/2026/09/09/20260909_crk4qI.png",
       "summaries": {
-        "ko": "김건희 여사의 '매관매직' 혐의 2심 결심공판에서 특검팀은 1심과 같이 징역 7년을 구형하며 공직 신뢰 훼손을 주장했고, 김 여사는 공직을 팔지 않았다며 혐의를 부인했으며, 선고는 22일로 예정됐다.",
-        "en": "In the final appellate hearing for First Lady Kim Keon-hee on 'influence peddling' charges, the special prosecution requested a 7-year prison sentence, the same as in the first trial, alleging damage to public trust, while Kim denied the charges, asserting she never traded public office, with the verdict scheduled for the 22nd.",
-        "zh": "在金建希女士“买官卖官”嫌疑的二审最终辩论中，特检组像一审一样求刑7年，指控其损害了公职信任，而金女士否认指控，称其绝未出卖公职，宣判将于22日进行。"
+        "ko": "합참의장·주한미군사령관, ‘北 상습 월선’ 동부전선 GP 현장 점검 - KBS 뉴스",
+        "en": "합참의장·주한미군사령관, ‘北 상습 월선’ 동부전선 GP 현장 점검 - KBS 뉴스",
+        "zh": "합참의장·주한미군사령관, ‘北 상습 월선’ 동부전선 GP 현장 점검 - KBS 뉴스"
       }
     },
     {
-      "title": "이란 “호르무즈서 美 최신 무인잠수정 나포”…영상 공개 예고 - 매일경제",
-      "link": "https://www.mk.co.kr/news/world/12148156",
-      "source": "매일경제",
-      "pubDate": "Wed, 09 Sep 2026 03:39:09 GMT",
-      "image": "https://pimg.mk.co.kr/news/cms/202609/09/news-p.v1.20260909.467ba54c55af41e18a68980a9d852bc6_R.jpg",
-      "summaries": {
-        "ko": "이란 “호르무즈서 美 최신 무인잠수정 나포”…영상 공개 예고 - 매일경제",
-        "en": "이란 “호르무즈서 美 최신 무인잠수정 나포”…영상 공개 예고 - 매일경제",
-        "zh": "이란 “호르무즈서 美 최신 무인잠수정 나포”…영상 공개 예고 - 매일경제"
-      }
-    },
-    {
-      "title": "[속보]‘스마일게이트’ 권혁빈, 배우자에 이혼 재산분할 ‘2조5500억원’···역대 최대 이혼 소송 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202609091431001",
-      "source": "경향신문",
-      "pubDate": "Wed, 09 Sep 2026 05:31:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/09/09/news-p.v1.20260909.932694aedd2b47668298b453d26f576f_P1.jpg",
-      "summaries": {
-        "ko": "[속보]‘스마일게이트’ 권혁빈, 배우자에 이혼 재산분할 ‘2조5500억원’···역대 최대 이혼 소송 - 경향신문",
-        "en": "[속보]‘스마일게이트’ 권혁빈, 배우자에 이혼 재산분할 ‘2조5500억원’···역대 최대 이혼 소송 - 경향신문",
-        "zh": "[속보]‘스마일게이트’ 권혁빈, 배우자에 이혼 재산분할 ‘2조5500억원’···역대 최대 이혼 소송 - 경향신문"
-      }
-    },
-    {
-      "title": "\"정부, '침략전쟁 동참' 호르무즈 파병 美요구 거부하라\" - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6850699_36918.html",
+      "title": "특검, '매관매직' 김건희 2심 징역 7년 구형‥金 눈물로 무죄 주장 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6850707_36918.html",
       "source": "MBC 뉴스",
-      "pubDate": "Wed, 09 Sep 2026 07:47:18 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/09/09/ggm_20260909_17.jpg",
+      "pubDate": "Wed, 09 Sep 2026 08:43:53 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/09/09/joo260909_11.jpg",
       "summaries": {
-        "ko": "\"정부, '침략전쟁 동참' 호르무즈 파병 美요구 거부하라\" - MBC 뉴스",
-        "en": "\"정부, '침략전쟁 동참' 호르무즈 파병 美요구 거부하라\" - MBC 뉴스",
-        "zh": "\"정부, '침략전쟁 동참' 호르무즈 파병 美요구 거부하라\" - MBC 뉴스"
+        "ko": "특검, '매관매직' 김건희 2심 징역 7년 구형‥金 눈물로 무죄 주장 - MBC 뉴스",
+        "en": "특검, '매관매직' 김건희 2심 징역 7년 구형‥金 눈물로 무죄 주장 - MBC 뉴스",
+        "zh": "특검, '매관매직' 김건희 2심 징역 7년 구형‥金 눈물로 무죄 주장 - MBC 뉴스"
       }
     },
     {
-      "title": "한-프랑스 정상회담 결과, 국민께 보고드립니다 - 대한민국 정책브리핑",
-      "link": "https://www.korea.kr/multi/visualNewsView.do?newsId=148971574",
-      "source": "대한민국 정책브리핑",
-      "pubDate": "Wed, 09 Sep 2026 07:33:01 GMT",
-      "image": "https://www.korea.kr/newsWeb/resources/attaches/2026.09/09/620b8f22046e815f96146be8e2b6caf2.jpg",
-      "summaries": {
-        "ko": "한-프랑스 정상회담 결과, 국민께 보고드립니다 - 대한민국 정책브리핑",
-        "en": "한-프랑스 정상회담 결과, 국민께 보고드립니다 - 대한민국 정책브리핑",
-        "zh": "한-프랑스 정상회담 결과, 국민께 보고드립니다 - 대한민국 정책브리핑"
-      }
-    },
-    {
-      "title": "서울 27·강릉 23℃, 낮에도 선선…내일 아침엔 ‘싸늘’ - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8658554",
-      "source": "KBS 뉴스",
-      "pubDate": "Wed, 09 Sep 2026 00:02:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/09/09/20260909_wU1mQb.jpg",
-      "summaries": {
-        "ko": "오늘 전국적으로 선선한 날씨에 강풍과 높은 파도가 예상되며, 내일 아침에는 기온이 뚝 떨어져 쌀쌀해지겠습니다.",
-        "en": "Today will see relatively cool temperatures nationwide with strong winds and high waves, while tomorrow morning temperatures are expected to drop significantly, making it chilly.",
-        "zh": "今天韩国全国天气凉爽，并伴有强风和巨浪，而明天早晨气温预计将大幅下降，变得寒冷。"
-      }
-    },
-    {
-      "title": "AG 앞둔 일본 나고야, 폭우에 몸살…경기장 누수에 선수단 대피",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202609091807478JU",
+      "title": "[속보] 부산 예인선 전복 실종자 1명 시신 포항 해변서 발견",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260909221941AKb",
       "source": "Breaking News",
-      "pubDate": "Wed, 09 Sep 2026 18:07:47 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260909/AKR202609091807478JU_01_i.jpg",
+      "pubDate": "Wed, 09 Sep 2026 22:19:42 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260909/AKR20260909221941AKb_01_i.jpg",
       "summaries": {
-        "ko": "AG 앞둔 일본 나고야, 폭우에 몸살…경기장 누수에 선수단 대피",
-        "en": "AG 앞둔 일본 나고야, 폭우에 몸살…경기장 누수에 선수단 대피",
-        "zh": "AG 앞둔 일본 나고야, 폭우에 몸살…경기장 누수에 선수단 대피"
+        "ko": "[속보] 부산 예인선 전복 실종자 1명 시신 포항 해변서 발견",
+        "en": "[속보] 부산 예인선 전복 실종자 1명 시신 포항 해변서 발견",
+        "zh": "[속보] 부산 예인선 전복 실종자 1명 시신 포항 해변서 발견"
       }
     }
   ]
