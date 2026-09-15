@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-09-14T22:00:19.649803",
+  "lastUpdate": "2026-09-15T00:14:05.649388",
   "items": [
-    {
-      "title": "제넨셀 영장 기각 판사…김성수 대법관 후보자 \"사실이면 엄중 징계\" - chosun.com",
-      "link": "https://www.chosun.com/national/court_law/2026/09/14/7JGSY47P7BEJFL6S2WSKMN4AJM/",
-      "source": "chosun.com",
-      "pubDate": "Mon, 14 Sep 2026 09:10:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/77HXKPNRM5OZDEETGET2BSSQ5A.JPG?auth=f12bccaeb47087fd89d7988560d3dad17be130b9f7c5cab551e9de00c836f255&width=1200&height=630&focal=1878,747",
-      "summaries": {
-        "ko": "제넨셀 영장 기각 판사…김성수 대법관 후보자 \"사실이면 엄중 징계\" - chosun.com",
-        "en": "제넨셀 영장 기각 판사…김성수 대법관 후보자 \"사실이면 엄중 징계\" - chosun.com",
-        "zh": "제넨셀 영장 기각 판사…김성수 대법관 후보자 \"사실이면 엄중 징계\" - chosun.com"
-      }
-    },
     {
       "title": "김민석 “노무현 탄핵 전조와 비슷”…여권내 노선 갈등 또 과열 - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/politics_general/1277826.html",
@@ -20,9 +8,45 @@
       "pubDate": "Mon, 14 Sep 2026 15:48:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/970/625/imgdb/original/2026/0914/3217893958220949.webp",
       "summaries": {
-        "ko": "여당 더불어민주당 내 검찰개혁 노선 갈등이 격화하는 가운데, 김민석 대표가 이재명 대통령의 개혁 추진에 대한 추미애 경기도지사의 비판을 “노무현 탄핵 전조와 비슷하다”고 경고하며 당내 갈등이 고조되고 있다.",
-        "en": "The ruling Democratic Party is grappling with escalating internal conflict over judicial reform, as party leader Kim Min-seok warned Gyeonggi Governor Choo Mi-ae that her criticism of President Lee Jae-myung's reform efforts was \"similar to the prelude to the Roh Moo-hyun impeachment.\"",
-        "zh": "执政党共同民主党内部围绕检察改革路线的冲突正在加剧，党首金民锡警告京畿道知事秋美爱，其对李在明总统改革努力的批评“与卢武铉弹劾前兆相似”，加剧了党内矛盾。"
+        "ko": "더불어민주당 김민석 대표가 이재명 대통령의 검찰개혁에 대한 추미애 경기도지사의 비판을 '노무현 탄핵 전조와 비슷'하다고 평가하며 여권 내 노선 갈등이 격화하고 있다.",
+        "en": "Democratic Party leader Kim Min-seok intensified intra-party conflict by likening Gyeonggi Governor Choo Mi-ae's criticism of President Lee Jae-myung's prosecutorial reform to a \"prelude to the Roh Moo-hyun impeachment.\"",
+        "zh": "共同民主党党首金民锡将京畿道知事秋美爱对李在明总统检察改革的批评比作“卢武铉弹劾前兆”，使执政党内部路线矛盾进一步激化。"
+      }
+    },
+    {
+      "title": "‘김승원 청탁의혹’ 치료제, 햄스터 폐사에도 93명에 투약됐다 - donga.com",
+      "link": "https://www.donga.com/news/Politics/article/all/20260914/134663365/2",
+      "source": "donga.com",
+      "pubDate": "Mon, 14 Sep 2026 03:35:00 GMT",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/14/134663366.2.jpg",
+      "summaries": {
+        "ko": "‘김승원 청탁의혹’ 치료제, 햄스터 폐사에도 93명에 투약됐다 - donga.com",
+        "en": "‘김승원 청탁의혹’ 치료제, 햄스터 폐사에도 93명에 투약됐다 - donga.com",
+        "zh": "‘김승원 청탁의혹’ 치료제, 햄스터 폐사에도 93명에 투약됐다 - donga.com"
+      }
+    },
+    {
+      "title": "김민석 “’한동훈, 尹의 배다른 형제…’깐족 동훈’이 나았다“ - 연합뉴스TV",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260915081755mtn",
+      "source": "연합뉴스TV",
+      "pubDate": "Mon, 14 Sep 2026 23:17:00 GMT",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260914/AKR20260915081755mtn_01_i.jpg",
+      "summaries": {
+        "ko": "더불어민주당 김민석 대표가 무소속 한동훈 의원을 향해 \"윤석열 대통령과 같은 핏줄의 배다른 형제\"라고 비판하며 과거 자신의 정치자금 사건을 언급, 장관 시절의 \"깐족 동훈\"이 \"막말 동훈\"보다 나았다고 직격했습니다.",
+        "en": "Democratic Party leader Kim Min-seok criticized independent lawmaker Han Dong-hoon, calling him \"President Yoon Seok-yeol's half-brother from the same bloodline,\" referencing his own past political funding case, and directly stating that \"snarky Han Dong-hoon\" from his ministerial tenure was better than \"rude Han Dong-hoon.\"",
+        "zh": "民主党代表金民锡批评无党派议员韩东勋是“与尹锡悦总统同血脉的异父兄弟”，并提及自己过去的政治献金事件，直言韩东勋在部长任职期间的“嘲讽东勋”比“粗鲁东勋”更好。"
+      }
+    },
+    {
+      "title": "용혜인 사퇴가 던진 질문…성평등가족부 장관은 어떤 자리인가 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202609150600071",
+      "source": "경향신문",
+      "pubDate": "Mon, 14 Sep 2026 21:00:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/09/15/news-p.v1.20260910.c53762cd8c9a469092ab1d6c2880eda1_P1.jpeg",
+      "summaries": {
+        "ko": "용혜인 사퇴가 던진 질문…성평등가족부 장관은 어떤 자리인가 - 경향신문",
+        "en": "용혜인 사퇴가 던진 질문…성평등가족부 장관은 어떤 자리인가 - 경향신문",
+        "zh": "용혜인 사퇴가 던진 질문…성평등가족부 장관은 어떤 자리인가 - 경향신문"
       }
     },
     {
@@ -32,57 +56,9 @@
       "pubDate": "Mon, 14 Sep 2026 15:52:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/640/446/imgdb/original/2026/0914/20260914502984.webp",
       "summaries": {
-        "ko": "청와대가 김지용 초대 중대범죄수사청장 후보자의 과거 검찰 이력 논란에 대해 추가 검증에 들어갔으나, 지명 철회 여부는 미지수다.",
-        "en": "The Presidential Office has begun additional verification of Kim Ji-yong, the nominee for the inaugural Serious Crime Investigation Agency Chief, due to controversies surrounding his past prosecutorial career, though it remains uncertain if his nomination will be withdrawn.",
-        "zh": "总统府已开始对首任重罪调查厅厅长提名人金志容的检察官背景争议进行追加审查，但其提名是否会被撤回仍不明朗。"
-      }
-    },
-    {
-      "title": "용혜인 사퇴가 던진 질문…성평등가족부 장관은 어떤 자리인가 - khan.co.kr",
-      "link": "https://www.khan.co.kr/article/202609150600071",
-      "source": "khan.co.kr",
-      "pubDate": "Mon, 14 Sep 2026 21:00:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/09/15/news-p.v1.20260910.c53762cd8c9a469092ab1d6c2880eda1_P1.jpeg",
-      "summaries": {
-        "ko": "용혜인 성평등가족부 장관 후보자 사퇴 이후, 해당 장관에게 요구되는 성평등 정책 전문성과 정치적 역량에 대한 검증 필요성 및 성평등부의 위상과 권한 강화가 재조명되고 있다.",
-        "en": "Following the resignation of Minister-designate Yong Hye-in, the debate has been reignited over the necessary qualifications, including gender equality policy expertise and political capacity, for the Minister of Gender Equality and Family, along with calls to strengthen the ministry's status and authority.",
-        "zh": "随着龙慧仁性别平等与家庭部长提名人辞职，社会重新审视该职位所需的性别平等政策专业知识和政治能力，以及提升该部门地位和权力以使其发挥实际作用的必要性。"
-      }
-    },
-    {
-      "title": "송유관 피격에…\"사우디, 호르무즈 통한 원유 수출 확대 모색\" - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260915005100099",
-      "source": "연합뉴스",
-      "pubDate": "Mon, 14 Sep 2026 19:49:10 GMT",
-      "image": "https://img2.yna.co.kr/photo/reuters/2026/09/14/PRU20260914325701009_P4.jpg",
-      "summaries": {
-        "ko": "송유관 피격으로 가동이 중단된 사우디아라비아가 이란의 봉쇄 위협과 운송비 급등에도 불구하고 호르무즈 해협을 통한 원유 수출 확대를 모색하고 있다.",
-        "en": "Saudi Arabia is seeking to expand oil exports via the Strait of Hormuz, despite Iran's blockade threats and soaring shipping costs, after its East-West pipeline was attacked and halted.",
-        "zh": "在东西输油管道遭袭击停运后，沙特阿拉伯正寻求通过霍尔木兹海峡扩大原油出口，尽管面临伊朗的封锁威胁和运输成本飙升。"
-      }
-    },
-    {
-      "title": "\"예산 깎고 12억 관사\"… 추미애 사퇴 청원 1만명 돌파 - chosun.com",
-      "link": "https://www.chosun.com/national/regional/2026/09/14/RV6QCNLUMJFKNB6XGRPRP5EPAU/",
-      "source": "chosun.com",
-      "pubDate": "Mon, 14 Sep 2026 12:03:30 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GYZDIZDGMQZGEOLGGVTDCY3BG4.jpg?auth=59861de95a64f8f8e662d42da84d65db2a54be1d2e09ecb30ffe91132309e801&width=1200&height=630&smart=true",
-      "summaries": {
-        "ko": "\"예산 깎고 12억 관사\"… 추미애 사퇴 청원 1만명 돌파 - chosun.com",
-        "en": "\"예산 깎고 12억 관사\"… 추미애 사퇴 청원 1만명 돌파 - chosun.com",
-        "zh": "\"예산 깎고 12억 관사\"… 추미애 사퇴 청원 1만명 돌파 - chosun.com"
-      }
-    },
-    {
-      "title": "국힘 “김생용사 어불성설”…민주 “이슬만 먹고 사는 분 없어” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1277771.html",
-      "source": "한겨레",
-      "pubDate": "Mon, 14 Sep 2026 08:46:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/661/imgdb/original/2026/0914/20260914503037.webp",
-      "summaries": {
-        "ko": "국힘 “김생용사 어불성설”…민주 “이슬만 먹고 사는 분 없어” - 한겨레",
-        "en": "국힘 “김생용사 어불성설”…민주 “이슬만 먹고 사는 분 없어” - 한겨레",
-        "zh": "국힘 “김생용사 어불성설”…민주 “이슬만 먹고 사는 분 없어” - 한겨레"
+        "ko": "청와대, 김지용 중수청장 후보자 추가 검증…지명 철회는 미지수 - 한겨레",
+        "en": "청와대, 김지용 중수청장 후보자 추가 검증…지명 철회는 미지수 - 한겨레",
+        "zh": "청와대, 김지용 중수청장 후보자 추가 검증…지명 철회는 미지수 - 한겨레"
       }
     },
     {
@@ -98,27 +74,51 @@
       }
     },
     {
-      "title": "‘돌봄 사각지대’ 지적장애 가족, 장남 시신 옆에 두고 지냈다 - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260914/134665160/1",
-      "source": "동아일보",
-      "pubDate": "Mon, 14 Sep 2026 11:31:00 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/14/134667870.1.jpg",
+      "title": "[날씨] 전국 맑은 가운데 일교차 큰 날씨‥서울 아침 최저 15도 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6851809_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Mon, 14 Sep 2026 15:05:00 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/09/15/yn20260914-04.jpg",
       "summaries": {
-        "ko": "‘돌봄 사각지대’ 지적장애 가족, 장남 시신 옆에 두고 지냈다 - 동아일보",
-        "en": "‘돌봄 사각지대’ 지적장애 가족, 장남 시신 옆에 두고 지냈다 - 동아일보",
-        "zh": "‘돌봄 사각지대’ 지적장애 가족, 장남 시신 옆에 두고 지냈다 - 동아일보"
+        "ko": "[날씨] 전국 맑은 가운데 일교차 큰 날씨‥서울 아침 최저 15도 - MBC 뉴스",
+        "en": "[날씨] 전국 맑은 가운데 일교차 큰 날씨‥서울 아침 최저 15도 - MBC 뉴스",
+        "zh": "[날씨] 전국 맑은 가운데 일교차 큰 날씨‥서울 아침 최저 15도 - MBC 뉴스"
       }
     },
     {
-      "title": "“이번이 마지막 기회다”···이 대통령 기자회견 앞두고 정치 원로·전문가의 ‘작심 제언’ - khan.co.kr",
-      "link": "https://www.khan.co.kr/article/202609141854001",
-      "source": "khan.co.kr",
-      "pubDate": "Mon, 14 Sep 2026 09:54:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/09/14/news-p.v1.20260914.45ecf392855c432c825381f45cc7c1e1_P1.jpg",
+      "title": "김성수 대법관 후보자, 이 대통령 선거법 파기환송 “절차 진행 다소 이례적” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1277747.html",
+      "source": "한겨레",
+      "pubDate": "Mon, 14 Sep 2026 15:51:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2026/0914/20260914502897.webp",
       "summaries": {
-        "ko": "“이번이 마지막 기회다”···이 대통령 기자회견 앞두고 정치 원로·전문가의 ‘작심 제언’ - khan.co.kr",
-        "en": "“이번이 마지막 기회다”···이 대통령 기자회견 앞두고 정치 원로·전문가의 ‘작심 제언’ - khan.co.kr",
-        "zh": "“이번이 마지막 기회다”···이 대통령 기자회견 앞두고 정치 원로·전문가의 ‘작심 제언’ - khan.co.kr"
+        "ko": "김성수 대법관 후보자, 이 대통령 선거법 파기환송 “절차 진행 다소 이례적” - 한겨레",
+        "en": "김성수 대법관 후보자, 이 대통령 선거법 파기환송 “절차 진행 다소 이례적” - 한겨레",
+        "zh": "김성수 대법관 후보자, 이 대통령 선거법 파기환송 “절차 진행 다소 이례적” - 한겨레"
+      }
+    },
+    {
+      "title": "대체로 맑고 일교차 커…오후 경북 동해안·울산 5mm 미만 비 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8663353",
+      "source": "KBS 뉴스",
+      "pubDate": "Mon, 14 Sep 2026 20:00:37 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/09/15/20260915_QxyJvW.jpg",
+      "summaries": {
+        "ko": "대체로 맑고 일교차 커…오후 경북 동해안·울산 5mm 미만 비 - KBS 뉴스",
+        "en": "대체로 맑고 일교차 커…오후 경북 동해안·울산 5mm 미만 비 - KBS 뉴스",
+        "zh": "대체로 맑고 일교차 커…오후 경북 동해안·울산 5mm 미만 비 - KBS 뉴스"
+      }
+    },
+    {
+      "title": "경기 중 설사하면서 우승…주최 측 \"돌발 상황 규정 개선\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260915091033BrI",
+      "source": "Breaking News",
+      "pubDate": "Tue, 15 Sep 2026 09:10:33 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260915/AKR20260915091033BrI_01_i.jpg",
+      "summaries": {
+        "ko": "경기 중 설사하면서 우승…주최 측 \"돌발 상황 규정 개선\"",
+        "en": "경기 중 설사하면서 우승…주최 측 \"돌발 상황 규정 개선\"",
+        "zh": "경기 중 설사하면서 우승…주최 측 \"돌발 상황 규정 개선\""
       }
     }
   ]
