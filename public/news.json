@@ -1,16 +1,40 @@
 {
-  "lastUpdate": "2026-09-15T18:23:22.090472",
+  "lastUpdate": "2026-09-15T21:25:51.338369",
   "items": [
     {
-      "title": "서울 시내버스 파업... 오늘 아침 출근 비상 - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/09/15/BWEQF6TFURFBRAGSHRHZNFYDI4/",
-      "source": "조선일보",
-      "pubDate": "Tue, 15 Sep 2026 13:17:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/F5TDU54Y45FQ5DIK5XDFREHABQ.jpg?auth=8beb9c127d6b7f71bf02a8864b4d8b106f0b13dea9ca2c53297a950553b52e4c&width=1200&height=630&smart=true",
+      "title": "서울 시내버스 노사 협상 타결됐지만…‘통상임금’ 불씨는 여전 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/area/area_general/1277998.html",
+      "source": "한겨레",
+      "pubDate": "Tue, 15 Sep 2026 17:49:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0916/20260916500052.webp",
       "summaries": {
-        "ko": "서울 시내버스 파업... 오늘 아침 출근 비상 - 조선일보",
-        "en": "서울 시내버스 파업... 오늘 아침 출근 비상 - 조선일보",
-        "zh": "서울 시내버스 파업... 오늘 아침 출근 비상 - 조선일보"
+        "ko": "서울 시내버스 노사가 파업 직전 임금 협상을 타결해 파업은 피했지만, 정기상여금 포함 여부 등 통상임금 산출 방식에 대한 갈등은 여전히 남아있다.",
+        "en": "Seoul city bus labor and management reached a wage agreement just before a strike, averting the strike, but the dispute over the calculation method of ordinary wages, including whether to incorporate regular bonuses, remains unresolved.",
+        "zh": "首尔市内公交劳资双方在罢工前夕达成工资协议，避免了罢工，但关于包括定期奖金在内的通常工资计算方式的争议仍未解决。"
+      }
+    },
+    {
+      "title": "알맹이 빠진 회견 땐 역풍… 與서도 \"공소취소는 없다 선언해야\" - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/09/16/4LL5VBLDG5GZZIYFEGZSQLZ7DU/",
+      "source": "조선일보",
+      "pubDate": "Tue, 15 Sep 2026 15:49:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/2TTWPI27YZBIFNHQO5QWFAKOAU.jpg?auth=0c8ad676bdfd127e4b4aa5942d1e1206e4d2b542f68427a792ef8119bf4b0a9a&width=1200&height=630&focal=1497,775",
+      "summaries": {
+        "ko": "알맹이 빠진 회견 땐 역풍… 與서도 \"공소취소는 없다 선언해야\" - 조선일보",
+        "en": "알맹이 빠진 회견 땐 역풍… 與서도 \"공소취소는 없다 선언해야\" - 조선일보",
+        "zh": "알맹이 빠진 회견 땐 역풍… 與서도 \"공소취소는 없다 선언해야\" - 조선일보"
+      }
+    },
+    {
+      "title": "추미애 비판 뒤 김민석 반발, 조국도 참전…감정싸움 된 ‘범여권 내분’ - 경향신문",
+      "link": "https://www.khan.co.kr/article/202609152119005",
+      "source": "경향신문",
+      "pubDate": "Tue, 15 Sep 2026 12:19:00 GMT",
+      "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
+      "summaries": {
+        "ko": "추미애 비판 뒤 김민석 반발, 조국도 참전…감정싸움 된 ‘범여권 내분’ - 경향신문",
+        "en": "추미애 비판 뒤 김민석 반발, 조국도 참전…감정싸움 된 ‘범여권 내분’ - 경향신문",
+        "zh": "추미애 비판 뒤 김민석 반발, 조국도 참전…감정싸움 된 ‘범여권 내분’ - 경향신문"
       }
     },
     {
@@ -20,117 +44,81 @@
       "pubDate": "Tue, 15 Sep 2026 12:24:00 GMT",
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260915/AKR20260915212453lQw_01_i.jpg",
       "summaries": {
-        "ko": "지난해 미국 조지아주에서 이민 당국에 의해 체포·구금됐던 한국인 노동자 300여 명이 트럼프 행정부를 상대로 연방 소송의 전 단계인 행정 청구를 제기하며 법적 대응에 착수했습니다.",
-        "en": "Over 300 Korean workers, who were arrested and detained by immigration authorities in Georgia, USA, last year, have initiated legal action by filing administrative claims against the Trump administration, a preliminary step to a federal lawsuit.",
-        "zh": "去年在美国佐治亚州被移民当局逮捕和拘留的300多名韩国工人，已开始对特朗普政府采取法律行动，提起行政索赔，这是联邦诉讼的初步阶段。"
+        "ko": "지난해 미국 조지아주에서 이민 당국에 체포·구금됐던 한국인 300여 명이 트럼프 행정부와 9개 연방 기관을 상대로 법적 대응 절차인 행정 청구를 제기하기 시작했습니다.",
+        "en": "Over 300 South Koreans who were arrested and detained by immigration authorities in Georgia, USA, last year have begun initiating administrative claims, a preliminary step to legal action, against the Trump administration and nine federal agencies.",
+        "zh": "去年在美国佐治亚州被移民当局逮捕和拘留的300多名韩国人，已开始针对特朗普政府及9个联邦机构，提起作为法律诉讼前阶段的行政申诉。"
       }
     },
     {
-      "title": "법무장관 후보자 인사청문회 자정 직전 마무리…김승원 “지난 삶 돌아보고, 국민 위해 봉사” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8664454",
-      "source": "KBS 뉴스",
-      "pubDate": "Tue, 15 Sep 2026 15:22:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/09/16/20260916_X8vpiu.jpg",
-      "summaries": {
-        "ko": "김승원 법무부 장관 후보자의 14시간 인사청문회가 자정 직전 마무리되었으며, 김 후보자는 국민을 위해 봉사하고 제기된 논란들을 해명하겠다고 밝혔다.",
-        "en": "The 14-hour parliamentary confirmation hearing for Minister of Justice nominee Kim Seung-won concluded just before midnight, where he vowed to serve the people and clarify the raised controversies.",
-        "zh": "司法部长候选人金承源的14小时国会人事听证会于午夜前结束，他承诺将为民服务并澄清所提出的争议。"
-      }
-    },
-    {
-      "title": "사우디-후티 교전 격화‥성지 메카에도 첫 위협 경보 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/world/article/6852024_36925.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Tue, 15 Sep 2026 11:25:39 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/09/15/hm_20260915_6.jpg",
-      "summaries": {
-        "ko": "사우디아라비아와 후티 반군의 교전 격화로 이슬람 성지 메카에 중동 전쟁 발발 이후 처음으로 공격 위협 경보가 발령되었습니다.",
-        "en": "The escalating conflict between Saudi Arabia and Houthi rebels has led to the first attack threat alarm in the Islamic holy city of Mecca since the outbreak of the Middle East war.",
-        "zh": "沙特阿拉伯与胡塞武装之间的冲突升级，导致伊斯兰圣地麦加在中东战争爆发以来首次发布攻击威胁警报。"
-      }
-    },
-    {
-      "title": "전 식약처장 비서 “국회의원 청탁은 김승원뿐…청탁성 메시지 분명” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202609152104005",
+      "title": "“굳이 검사 출신을” “중수청 안착”…여당 ‘김지용 지명’ 여진 지속 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202609152102015",
       "source": "경향신문",
-      "pubDate": "Tue, 15 Sep 2026 12:04:00 GMT",
+      "pubDate": "Tue, 15 Sep 2026 12:02:00 GMT",
       "image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
       "summaries": {
-        "ko": "김승원 법무부 장관 후보자가 제넨셀 신약 임상시험 승인 민원을 식약처장에게 전달한 메시지에 대해 당시 식약처장 비서가 \"국회의원 청탁은 김승원뿐이었고 청탁성 메시지가 분명하다\"고 검찰에 진술했으며, 해당 임상시험은 2주 후 승인되었다.",
-        "en": "The former secretary to the head of the Ministry of Food and Drug Safety testified in a prosecutor's investigation that Justice Minister candidate Kim Seung-won's message regarding Genencell's drug approval was \"clearly a solicitation\" and unique among lawmakers' requests, with the drug's clinical trial approved two weeks later.",
-        "zh": "时任食品医药品安全处长的秘书在检方调查中证实，法务部长候选人金承源就Genencell新药临床试验批准事宜向食药处长发送的信息“明显是请托”，且是唯一来自国会议员的此类请求，该临床试验于两周后获批。"
+        "ko": "“굳이 검사 출신을” “중수청 안착”…여당 ‘김지용 지명’ 여진 지속 - 경향신문",
+        "en": "“굳이 검사 출신을” “중수청 안착”…여당 ‘김지용 지명’ 여진 지속 - 경향신문",
+        "zh": "“굳이 검사 출신을” “중수청 안착”…여당 ‘김지용 지명’ 여진 지속 - 경향신문"
       }
     },
     {
-      "title": "김동연 전 경기지사, 추미애에 반박 \"지금 재정위기 아냐\" - 조선일보",
-      "link": "https://www.chosun.com/national/regional/2026/09/15/GMASL6CJTBG53ADY3VLIKF6OMU/",
-      "source": "조선일보",
-      "pubDate": "Tue, 15 Sep 2026 07:13:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GZRTCNTDMJQTCY3DG4ZWGZTDGU.jpg?auth=a8855cd7cf13e524ad36320c955d0fd4c97dc63399099fc2d630655037d9ae00&width=1200&height=630&smart=true",
+      "title": "與 \"김승원, 자격 충분히 보여줘\"…국힘 \"의혹 소명 안돼\" - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260915174000001",
+      "source": "연합뉴스",
+      "pubDate": "Tue, 15 Sep 2026 11:15:12 GMT",
+      "image": "https://img6.yna.co.kr/photo/yna/YH/2026/09/15/PYH2026091518600001300_P4.jpg",
       "summaries": {
-        "ko": "김동연 전 경기지사, 추미애에 반박 \"지금 재정위기 아냐\" - 조선일보",
-        "en": "김동연 전 경기지사, 추미애에 반박 \"지금 재정위기 아냐\" - 조선일보",
-        "zh": "김동연 전 경기지사, 추미애에 반박 \"지금 재정위기 아냐\" - 조선일보"
+        "ko": "與 \"김승원, 자격 충분히 보여줘\"…국힘 \"의혹 소명 안돼\" - 연합뉴스",
+        "en": "與 \"김승원, 자격 충분히 보여줘\"…국힘 \"의혹 소명 안돼\" - 연합뉴스",
+        "zh": "與 \"김승원, 자격 충분히 보여줘\"…국힘 \"의혹 소명 안돼\" - 연합뉴스"
       }
     },
     {
-      "title": "대통령 지지율 꺾이자 목소리 키우는 강경파들... 김민석 \"노무현 탄핵 전조와 비슷\" - 한국일보",
-      "link": "https://www.hankookilbo.com/news/article/A2026091409030003125",
-      "source": "한국일보",
-      "pubDate": "Mon, 14 Sep 2026 19:30:00 GMT",
-      "image": "https://newsimg.hankookilbo.com/2026/09/14/dfcab60c-3ccf-4b79-97cd-317cf5f47309.jpg",
-      "summaries": {
-        "ko": "대통령 지지율 꺾이자 목소리 키우는 강경파들... 김민석 \"노무현 탄핵 전조와 비슷\" - 한국일보",
-        "en": "대통령 지지율 꺾이자 목소리 키우는 강경파들... 김민석 \"노무현 탄핵 전조와 비슷\" - 한국일보",
-        "zh": "대통령 지지율 꺾이자 목소리 키우는 강경파들... 김민석 \"노무현 탄핵 전조와 비슷\" - 한국일보"
-      }
-    },
-    {
-      "title": "\"음식에 돌 나왔으니 치료비 내놔\"…식당 돌며 2천만 원 뜯은 일당 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260915105124pWp",
-      "source": "연합뉴스TV",
-      "pubDate": "Tue, 15 Sep 2026 01:51:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260915/AKR20260915105124pWp_01_i.jpg",
-      "summaries": {
-        "ko": "\"음식에 돌 나왔으니 치료비 내놔\"…식당 돌며 2천만 원 뜯은 일당 - 연합뉴스TV",
-        "en": "\"음식에 돌 나왔으니 치료비 내놔\"…식당 돌며 2천만 원 뜯은 일당 - 연합뉴스TV",
-        "zh": "\"음식에 돌 나왔으니 치료비 내놔\"…식당 돌며 2천만 원 뜯은 일당 - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "[날씨] 수요일도 맑고 쾌청‥대체로 일교차 커 '건강 유의' - MBC 뉴스",
+      "title": "[날씨] 수요일도 맑고 쾌청‥대체로 일교차 커 '건강 유의' - imnews.imbc.com",
       "link": "https://imnews.imbc.com/news/2026/society/article/6852069_36918.html",
-      "source": "MBC 뉴스",
+      "source": "imnews.imbc.com",
       "pubDate": "Tue, 15 Sep 2026 15:01:41 GMT",
       "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/09/16/s260916_0008.jpg",
       "summaries": {
-        "ko": "[날씨] 수요일도 맑고 쾌청‥대체로 일교차 커 '건강 유의' - MBC 뉴스",
-        "en": "[날씨] 수요일도 맑고 쾌청‥대체로 일교차 커 '건강 유의' - MBC 뉴스",
-        "zh": "[날씨] 수요일도 맑고 쾌청‥대체로 일교차 커 '건강 유의' - MBC 뉴스"
+        "ko": "수요일인 오늘은 전국 대부분 지역이 맑고 쾌청하겠으나 동해안을 제외한 대부분 지역에서 일교차가 크게 벌어져 건강에 유의해야 하며, 제주도에는 약한 빗방울이 떨어지는 곳도 있겠습니다.",
+        "en": "On Wednesday, most of the country will be clear and fine, but a large daily temperature range of 10-15 degrees Celsius is expected in most areas except the East Coast, so health precautions are advised, with some light rain possible in Jeju Island.",
+        "zh": "周三全国大部分地区天气晴朗，但除东海岸外，大部分地区昼夜温差将达10至15摄氏度，需注意健康，济州岛部分地区可能会有小雨。"
       }
     },
     {
-      "title": "\"미군, 호르무즈서 美무인수상정 나포하려던 이란 어선 파괴\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260916020327jA7",
-      "source": "Breaking News",
-      "pubDate": "Wed, 16 Sep 2026 02:03:28 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260915/AKR20260916020327jA7_01_i.jpg",
+      "title": "한동훈 \"이 순간이 역사의 분기점‥맨 앞서 민주주의 적과 맞서겠다\" - imnews.imbc.com",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6852006_36911.html",
+      "source": "imnews.imbc.com",
+      "pubDate": "Tue, 15 Sep 2026 08:49:07 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/09/15/yen_20260915_13.jpg",
       "summaries": {
-        "ko": "\"미군, 호르무즈서 美무인수상정 나포하려던 이란 어선 파괴\"",
-        "en": "\"미군, 호르무즈서 美무인수상정 나포하려던 이란 어선 파괴\"",
-        "zh": "\"미군, 호르무즈서 美무인수상정 나포하려던 이란 어선 파괴\""
+        "ko": "한동훈 \"이 순간이 역사의 분기점‥맨 앞서 민주주의 적과 맞서겠다\" - imnews.imbc.com",
+        "en": "한동훈 \"이 순간이 역사의 분기점‥맨 앞서 민주주의 적과 맞서겠다\" - imnews.imbc.com",
+        "zh": "한동훈 \"이 순간이 역사의 분기점‥맨 앞서 민주주의 적과 맞서겠다\" - imnews.imbc.com"
       }
     },
     {
-      "title": "[속보] 서울 시내버스 노사, 임단협 극적 타결…오늘 버스 정상 운행",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202609160153214L9",
-      "source": "Breaking News",
-      "pubDate": "Wed, 16 Sep 2026 01:53:24 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260915/AKR202609160153214L9_01_i.jpg",
+      "title": "한복이 중국 옷?…경북문화관광공사 운용 전광판 오표기 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260915055100053",
+      "source": "연합뉴스",
+      "pubDate": "Tue, 15 Sep 2026 01:39:51 GMT",
+      "image": "https://img0.yna.co.kr/photo/yna/YH/2026/09/15/PYH2026091507310005300_P4.jpg",
       "summaries": {
-        "ko": "[속보] 서울 시내버스 노사, 임단협 극적 타결…오늘 버스 정상 운행",
-        "en": "[속보] 서울 시내버스 노사, 임단협 극적 타결…오늘 버스 정상 운행",
-        "zh": "[속보] 서울 시내버스 노사, 임단협 극적 타결…오늘 버스 정상 운행"
+        "ko": "한복이 중국 옷?…경북문화관광공사 운용 전광판 오표기 - 연합뉴스",
+        "en": "한복이 중국 옷?…경북문화관광공사 운용 전광판 오표기 - 연합뉴스",
+        "zh": "한복이 중국 옷?…경북문화관광공사 운용 전광판 오표기 - 연합뉴스"
+      }
+    },
+    {
+      "title": "김승원 ‘신약 청탁 의혹’ 브로커도 법원 출석…질문엔 묵묵부답 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8663947",
+      "source": "KBS 뉴스",
+      "pubDate": "Tue, 15 Sep 2026 08:02:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/09/15/20260915_bJwZ6x.jpg",
+      "summaries": {
+        "ko": "김승원 ‘신약 청탁 의혹’ 브로커도 법원 출석…질문엔 묵묵부답 - KBS 뉴스",
+        "en": "김승원 ‘신약 청탁 의혹’ 브로커도 법원 출석…질문엔 묵묵부답 - KBS 뉴스",
+        "zh": "김승원 ‘신약 청탁 의혹’ 브로커도 법원 출석…질문엔 묵묵부답 - KBS 뉴스"
       }
     }
   ]
