@@ -1,52 +1,88 @@
 {
-  "lastUpdate": "2026-09-18T15:10:34.439005",
+  "lastUpdate": "2026-09-18T18:24:26.719992",
   "items": [
     {
       "title": "연임·공소취소 선 그은 이 대통령…김승원 임명은 “결론 못 내려” - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/bluehouse/1278543.html",
       "source": "한겨레",
-      "pubDate": "Fri, 18 Sep 2026 09:29:00 GMT",
+      "pubDate": "Fri, 18 Sep 2026 14:18:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/640/423/imgdb/original/2026/0918/20260918502820.webp",
       "summaries": {
-        "ko": "이재명 대통령은 연임 의사가 없음을 재차 밝히고, 특검법에서 기존 기소 사건에 대한 공소취소 조항 삭제를 국회에 요청했으며, 김승원 후보자 임명에 대해서는 신중한 입장을 표명했다.",
-        "en": "President Lee Jae-myung reiterated he has no intention of seeking re-election, requested the National Assembly remove the public prosecution termination clause for existing indicted cases from the special prosecutor bill, and expressed caution regarding the appointment of candidate Kim Seung-won.",
-        "zh": "李在明总统再次声明无意连任，要求国会从特别检察法中删除针对现有起诉案件的公诉取消条款，并对金承元候选人的任命表达了谨慎立场。"
+        "ko": "이재명 대통령은 연임 의사가 없음을 선언하고, 특검법에서 기존 기소 사건의 공소취소 조항을 삭제해 달라고 요청했으며, 김승원 후보자 임명에 대해서는 신중한 입장을 밝혔다.",
+        "en": "President Lee Jae-myung declared he has no intention of seeking re-election, requested the removal of the clause concerning the revocation of indictments for existing cases from the special prosecutor's bill, and expressed a cautious stance on the appointment of nominee Kim Seung-won.",
+        "zh": "李在明总统声明无意寻求连任，要求从特别检察官法案中删除针对现有起诉案件的公诉撤销条款，并对任命金胜元候选人持谨慎态度。"
       }
     },
     {
-      "title": "청와대, 대통령 ‘평탄화’ 발언 해명 “가격 변동 추이 설명…집값 상승 무겁게 받아들여” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8667340",
+      "title": "李, 서울 집값 상승 오세훈 탓... 吳 \"대통령 머릿속부터 리셋해야\" - 조선일보",
+      "link": "https://www.chosun.com/national/national_general/2026/09/18/CSFGMINTMVEM5N3VJ2NEILCEZY/",
+      "source": "조선일보",
+      "pubDate": "Fri, 18 Sep 2026 13:22:32 GMT",
+      "image": "https://www.chosun.com/resizer/v2/2GD7PHU4WNDWXJQQMMK3FZDYGU.JPG?auth=44b2d8e79caf7ac978e27dd62b1419908d4efd710d529872bf88e66d6d10190e&width=1200&height=630&smart=true",
+      "summaries": {
+        "ko": "李, 서울 집값 상승 오세훈 탓... 吳 \"대통령 머릿속부터 리셋해야\" - 조선일보",
+        "en": "李, 서울 집값 상승 오세훈 탓... 吳 \"대통령 머릿속부터 리셋해야\" - 조선일보",
+        "zh": "李, 서울 집값 상승 오세훈 탓... 吳 \"대통령 머릿속부터 리셋해야\" - 조선일보"
+      }
+    },
+    {
+      "title": "“김승원 임명, 지지율 향방 결정…위기의식 느껴졌다”…정치 평론가 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1278535.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 18 Sep 2026 08:59:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/1200/800/imgdb/child/2026/0918/17897199285146_20260916503673.webp",
+      "summaries": {
+        "ko": "정치 평론가들은 이재명 대통령 기자회견에서 변화 의지를 감지했지만, 김승원 법무부 장관 후보자 임명 강행 여부가 지지율 향방을 결정할 것이라고 전망했다.",
+        "en": "Political commentators perceived a willingness to change in President Lee Jae-myung's press conference, but predicted that the decision regarding the controversial appointment of Justice Minister nominee Kim Seung-won would determine the direction of his approval ratings.",
+        "zh": "政治评论家们在李在明总统的记者会上感受到了求变意愿，但预测备受争议的法务部长提名人金承源的任命决定将决定其支持率的走向。"
+      }
+    },
+    {
+      "title": "트럼프·시진핑 회담 앞두고…미중, 'AI 안전' 동상이몽 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260918151600009",
+      "source": "연합뉴스",
+      "pubDate": "Fri, 18 Sep 2026 07:47:01 GMT",
+      "image": "https://img8.yna.co.kr/photo/etc/up/2026/05/15/PUP20260515012001009_P4.jpg",
+      "summaries": {
+        "ko": "트럼프·시진핑 회담을 앞두고 미중 양국이 AI 안전에 대해 미국은 인류 위협을, 중국은 체제 안보 위협을 우려하며 동상이몽을 보이고 있다.",
+        "en": "Ahead of the Trump-Xi summit, the US and China hold differing views on AI safety, with the US concerned about AI threatening humanity and China worried about AI destabilizing its political system.",
+        "zh": "在特朗普与习近平会晤前夕，中美两国在人工智能（AI）安全问题上各持己见，美方担忧AI威胁人类，中方则忧虑AI危及政权稳定。"
+      }
+    },
+    {
+      "title": "일교차 큰 가을 날씨…동해안·제주 비 - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8667658",
       "source": "KBS 뉴스",
-      "pubDate": "Fri, 18 Sep 2026 09:37:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/09/18/20260918_oqhw0K.jpg",
+      "pubDate": "Fri, 18 Sep 2026 15:01:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/09/19/20260919_G4s6vg.jpg",
       "summaries": {
-        "ko": "청와대는 이재명 대통령의 '집값 평탄화' 발언이 가격 변동 추이를 설명한 것이며, 정부가 강남 3구 외 서울 집값 상승으로 인한 국민 부담을 무겁게 받아들이고 있다고 해명했다.",
-        "en": "The Blue House clarified that President Lee Jae-myung's \"housing price equalization\" comment was a description of price fluctuation trends, and that the government takes the public burden from rising housing prices outside Gangnam 3-gu seriously.",
-        "zh": "青瓦台澄清称，李在明总统关于房价“平坦化”的言论是对价格变动趋势的说明，并表示政府对江南三区外首尔房价上涨给民众带来的负担感到沉重。"
+        "ko": "오늘은 동해안과 제주에 비가 오겠고 전국적으로 일교차가 15도 내외로 크겠으며 제주도와 전남 남해안에는 강풍이 불겠습니다.",
+        "en": "Today, rain is expected in the East Coast and Jeju, with a large daily temperature range of around 15 degrees Celsius nationwide, and strong winds will blow in Jeju Island and the southern coast of Jeollanam-do.",
+        "zh": "今天东海岸和济州岛将有降雨，全国昼夜温差将达到15摄氏度左右，济州岛和全罗南道南海沿岸将有强风。"
       }
     },
     {
-      "title": "이 대통령 지지율 37%, 또 최저치 경신…부정평가 전주 대비 5%↑[한국갤럽] - 경향신문",
-      "link": "https://www.khan.co.kr/article/202609181034001",
+      "title": "인천 물류센터 화재 7시간 만에 큰불 잡혀…인명피해 없어 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202609182224001",
       "source": "경향신문",
-      "pubDate": "Fri, 18 Sep 2026 01:34:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/09/18/rcv.YNA.20260917.PYH2026091717260001300_P1.jpg",
+      "pubDate": "Fri, 18 Sep 2026 13:24:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/09/18/rcv.YNA.20260918.PYH2026091821610006500_P1.jpg",
       "summaries": {
-        "ko": "이재명 대통령의 국정 수행 긍정평가가 37%로 취임 후 최저치를 기록했으며, 부동산 정책 등이 부정 평가의 주된 이유로 꼽혔다.",
-        "en": "President Lee Jae-myung's job approval rating dropped to a post-inauguration low of 37%, with real estate policy cited as the primary reason for negative evaluations.",
-        "zh": "李在明总统的施政肯定评价降至就任以来最低的37%，房地产政策等被列为负面评价的主要原因。"
+        "ko": "인천 경인아라뱃길 인근 물류센터에서 발생한 화재가 7시간 만에 큰불이 잡히고 인명피해 없이 진화됐다.",
+        "en": "A major fire at a logistics center near Incheon's Gyeongin Ara Canal was brought under control after 7 hours, with no casualties reported.",
+        "zh": "仁川京仁阿拉运河附近物流中心发生的大火在7小时内被扑灭，所幸没有人员伤亡。"
       }
     },
     {
-      "title": "한미 외교장관 회담 시작…’호르무즈 파병·대미 투자’ 등 논의 주목 - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202609182256323pc",
-      "source": "연합뉴스TV",
-      "pubDate": "Fri, 18 Sep 2026 13:56:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260918/AKR202609182256323pc_01_i.jpg",
+      "title": "이 대통령, ‘외국군 지휘 배제’ 밝혀…청해부대 활동 ‘기준선’ 시사 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/defense/1278509.html",
+      "source": "한겨레",
+      "pubDate": "Fri, 18 Sep 2026 07:07:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/1200/797/imgdb/original/2026/0918/20260918502208.webp",
       "summaries": {
-        "ko": "워싱턴에서 열린 한미 외교장관 회담에서 조현 외교부 장관과 마코 루비오 국무부 장관은 호르무즈 해협 파병 논란, 한국의 대미 투자, 그리고 북미 대화 동력 마련 등 주요 현안에 대해 논의했습니다.",
-        "en": "During their meeting in Washington, South Korean Foreign Minister Cho Hyun and U.S. Secretary of State Marco Rubio discussed key issues such as the controversy surrounding potential deployment to the Strait of Hormuz, South Korea's investment in the U.S., and efforts to foster momentum for North Korea-U.S. dialogue.",
-        "zh": "在华盛顿举行的韩美外长会谈上，韩国外交部长官赵显和美国国务卿马科·鲁比奥讨论了霍尔木兹海峡派兵争议、韩国对美投资以及推动朝美对话等主要议题。"
+        "ko": "이재명 대통령은 호르무즈 해협 파병과 관련하여 전쟁 개입 및 외국군 지휘하의 파병은 없을 것이라고 밝히면서도, 자국 상선 및 국민 보호를 위한 청해부대 활동 강화 검토를 시사하며 작전의 '기준선'을 제시했다.",
+        "en": "President Lee Jae-myung stated that there would be no troop deployment for war or under foreign command in relation to the Hormuz Strait, while hinting at strengthening Cheonghae Unit activities to protect national merchant ships and citizens, thereby setting a \"baseline\" for its operations.",
+        "zh": "李在明总统就霍尔木兹海峡派兵问题表示，不会派遣介入战争或受外国军队指挥的部队，但同时暗示将考虑加强青海部队的活动以保护本国商船和公民，从而为其行动设定了“基准线”。"
       }
     },
     {
@@ -56,33 +92,21 @@
       "pubDate": "Fri, 18 Sep 2026 08:07:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/09/18/rcv.YNA.20260918.PYH2026091812040001300_P1.jpg",
       "summaries": {
-        "ko": "이재명 대통령은 부동산 투기 근절과 시장 안정을 정부 핵심 과제로 삼겠다고 밝히면서, 단일종목 레버리지 ETF 도입 결정에 대해서는 \"부족함이 있었다\"고 인정했다.",
-        "en": "President Lee Jae-myung declared tackling real estate speculation and stabilizing the market as a core government task, while acknowledging \"shortcomings\" in the decision to introduce single-stock leverage ETFs.",
-        "zh": "李在明总统表示将把打击房地产投机和稳定房地产市场作为政府核心任务，同时也承认在引入单一股票杠杆ETF的决定上存在“不足”。"
+        "ko": "이 대통령 “농지전수조사, 투기세력 ‘강제 매각’ 선전은 진실 아냐…레버리지 ETF 부족함 있었다” - 경향신문",
+        "en": "이 대통령 “농지전수조사, 투기세력 ‘강제 매각’ 선전은 진실 아냐…레버리지 ETF 부족함 있었다” - 경향신문",
+        "zh": "이 대통령 “농지전수조사, 투기세력 ‘강제 매각’ 선전은 진실 아냐…레버리지 ETF 부족함 있었다” - 경향신문"
       }
     },
     {
-      "title": "“사우디, 후티에 2주 휴전 제안”…친이란 매체 ‘협상 계기’ 보도 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1278480.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 18 Sep 2026 05:03:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/375/imgdb/original/2026/0918/20260918501699.webp",
+      "title": "李대통령, 김성수 대법관 임명안 재가 - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/09/18/E4YSXRVGNREQLOXOIOBJDNJMHY/",
+      "source": "조선일보",
+      "pubDate": "Fri, 18 Sep 2026 11:22:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/GQ3TOOBRMUYGKMTCMYZWMY3FHE.jpg?auth=a9c8f47609a53af70019fe61ea9ebbb69037df1754b2330078e3930f3baaea37&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "사우디아라비아가 격화되는 예멘 내전과 후티의 지속적인 공격 속에서 인도주의 위기 해결을 위한 협상 계기를 마련하고자 오만을 통해 후티 반군에 2주간의 휴전을 제안했다.",
-        "en": "Amidst escalating conflict and persistent Houthi attacks, Saudi Arabia has proposed a two-week ceasefire to the Houthi rebels via Oman, aiming to create an opportunity for negotiations to resolve Yemen's humanitarian crisis.",
-        "zh": "在也门内战升级和胡塞武装持续袭击的背景下，沙特阿拉伯通过阿曼向胡塞武装提议为期两周的停火，以期为解决也门人道主义危机提供谈判契机。"
-      }
-    },
-    {
-      "title": "[속보] 이 대통령 “전쟁 파병 없다…불관여·불개입 원칙 지킬 것” [이 대통령 기자회견] - 경향신문",
-      "link": "https://www.khan.co.kr/article/202609181119001",
-      "source": "경향신문",
-      "pubDate": "Fri, 18 Sep 2026 02:19:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/09/18/news-p.v1.20260918.763c517d409a491a8023c902b78b7983_P1.jpg",
-      "summaries": {
-        "ko": "[속보] 이 대통령 “전쟁 파병 없다…불관여·불개입 원칙 지킬 것” [이 대통령 기자회견] - 경향신문",
-        "en": "[속보] 이 대통령 “전쟁 파병 없다…불관여·불개입 원칙 지킬 것” [이 대통령 기자회견] - 경향신문",
-        "zh": "[속보] 이 대통령 “전쟁 파병 없다…불관여·불개입 원칙 지킬 것” [이 대통령 기자회견] - 경향신문"
+        "ko": "李대통령, 김성수 대법관 임명안 재가 - 조선일보",
+        "en": "李대통령, 김성수 대법관 임명안 재가 - 조선일보",
+        "zh": "李대통령, 김성수 대법관 임명안 재가 - 조선일보"
       }
     },
     {
@@ -95,30 +119,6 @@
         "ko": "올해 암표 거래 약 13만건‥해외 거래·MD 끼워팔기 등 고도화 - MBC 뉴스",
         "en": "올해 암표 거래 약 13만건‥해외 거래·MD 끼워팔기 등 고도화 - MBC 뉴스",
         "zh": "올해 암표 거래 약 13만건‥해외 거래·MD 끼워팔기 등 고도화 - MBC 뉴스"
-      }
-    },
-    {
-      "title": "제주 강풍 주의…주말·연휴 초반 ‘맑고 일교차 커’ - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8667357",
-      "source": "KBS 뉴스",
-      "pubDate": "Fri, 18 Sep 2026 10:09:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/09/18/20260918_b7Qv7K.png",
-      "summaries": {
-        "ko": "제주 강풍 주의…주말·연휴 초반 ‘맑고 일교차 커’ - KBS 뉴스",
-        "en": "제주 강풍 주의…주말·연휴 초반 ‘맑고 일교차 커’ - KBS 뉴스",
-        "zh": "제주 강풍 주의…주말·연휴 초반 ‘맑고 일교차 커’ - KBS 뉴스"
-      }
-    },
-    {
-      "title": "이 대통령, 김성수 대법관 임명안 재가‥첫 대법관 임명 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6852872_36911.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Fri, 18 Sep 2026 10:03:22 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/politics/article/__icsFiles/afieldfile/2026/09/18/kds_20260918_4_1.jpg",
-      "summaries": {
-        "ko": "이 대통령, 김성수 대법관 임명안 재가‥첫 대법관 임명 - MBC 뉴스",
-        "en": "이 대통령, 김성수 대법관 임명안 재가‥첫 대법관 임명 - MBC 뉴스",
-        "zh": "이 대통령, 김성수 대법관 임명안 재가‥첫 대법관 임명 - MBC 뉴스"
       }
     }
   ]
