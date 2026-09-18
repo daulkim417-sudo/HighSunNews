@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-18T21:02:28.822125",
+  "lastUpdate": "2026-09-18T23:13:02.928388",
   "items": [
     {
       "title": "연임·공소취소 선 그은 이 대통령…김승원 임명은 “결론 못 내려” - 한겨레",
@@ -8,57 +8,45 @@
       "pubDate": "Fri, 18 Sep 2026 14:18:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/640/423/imgdb/original/2026/0918/20260918502820.webp",
       "summaries": {
-        "ko": "이재명 대통령은 연임 의사가 없음을 재확인하며 특검법에서 공소취소 조항 삭제를 요청했고, 김승원 후보자 임명에 대해서는 신중한 입장을 밝혔다.",
-        "en": "President Lee Jae-myung reaffirmed he has no intention of seeking re-election, requested the removal of the indictment quash clause from the special prosecutor bill, and adopted a cautious stance on Kim Seung-won's appointment.",
-        "zh": "李在明总统重申无意连任，要求在特检法中删除取消公诉条款，并对金承元候选人的任命持谨慎态度。"
+        "ko": "이재명 대통령은 연임 의사가 없음을 재확인하고, 조작기소 의혹 특검법에서 공소취소 조항을 삭제해줄 것을 요청했으며, 김승원 후보자 임명은 신중히 결정하겠다고 밝혔다.",
+        "en": "President Lee Jae-myung reiterated his refusal to seek re-election, requested the deletion of public prosecution withdrawal clauses from the special prosecutor bill for manipulated prosecution allegations, and stated he would cautiously decide on Kim Seung-won's appointment.",
+        "zh": "李在明总统重申不寻求连任，就操纵起诉嫌疑特检法案，要求删除撤销公诉条款，并表示将慎重决定金承源候选人的任命。"
       }
     },
     {
-      "title": "李, 집값 상승 오세훈 탓하자... 吳 \"대통령 머릿속부터 리셋해야\" - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/09/18/CSFGMINTMVEM5N3VJ2NEILCEZY/",
+      "title": "\"강남 하락, 외곽 상승은 평탄화 과정\"... 李, 부동산 기조 안 바꾼다 - 조선일보",
+      "link": "https://www.chosun.com/politics/politics_general/2026/09/19/37VYUOA4FBHV7FRHWBCAZM3X2M/",
       "source": "조선일보",
-      "pubDate": "Fri, 18 Sep 2026 13:10:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/2GD7PHU4WNDWXJQQMMK3FZDYGU.JPG?auth=44b2d8e79caf7ac978e27dd62b1419908d4efd710d529872bf88e66d6d10190e&width=1200&height=630&smart=true",
+      "pubDate": "Fri, 18 Sep 2026 15:37:00 GMT",
+      "image": "https://www.chosun.com/resizer/v2/EWK5N3DUDVDSNEMA5ZZVN323KA.jpg?auth=c116983c0af1f1c891413612530704ff8a87e0d628f322a272f6e7479a157662&width=1200&height=630&focal=3020,1049",
       "summaries": {
-        "ko": "李, 집값 상승 오세훈 탓하자... 吳 \"대통령 머릿속부터 리셋해야\" - 조선일보",
-        "en": "李, 집값 상승 오세훈 탓하자... 吳 \"대통령 머릿속부터 리셋해야\" - 조선일보",
-        "zh": "李, 집값 상승 오세훈 탓하자... 吳 \"대통령 머릿속부터 리셋해야\" - 조선일보"
+        "ko": "\"강남 하락, 외곽 상승은 평탄화 과정\"... 李, 부동산 기조 안 바꾼다 - 조선일보",
+        "en": "\"강남 하락, 외곽 상승은 평탄화 과정\"... 李, 부동산 기조 안 바꾼다 - 조선일보",
+        "zh": "\"강남 하락, 외곽 상승은 평탄화 과정\"... 李, 부동산 기조 안 바꾼다 - 조선일보"
       }
     },
     {
-      "title": "트럼프·시진핑 회담 앞두고…미중, 'AI 안전' 동상이몽 - 연합뉴스",
-      "link": "https://www.yna.co.kr/view/AKR20260918151600009",
-      "source": "연합뉴스",
-      "pubDate": "Fri, 18 Sep 2026 07:47:01 GMT",
-      "image": "https://img8.yna.co.kr/photo/etc/up/2026/05/15/PUP20260515012001009_P4.jpg",
-      "summaries": {
-        "ko": "트럼프·시진핑 회담 앞두고…미중, 'AI 안전' 동상이몽 - 연합뉴스",
-        "en": "트럼프·시진핑 회담 앞두고…미중, 'AI 안전' 동상이몽 - 연합뉴스",
-        "zh": "트럼프·시진핑 회담 앞두고…미중, 'AI 안전' 동상이몽 - 연합뉴스"
-      }
-    },
-    {
-      "title": "이대통령 \"대미투자, 동의 어려운 부분 있어…치열한 협상\" - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260918200448YmK",
-      "source": "연합뉴스TV",
-      "pubDate": "Fri, 18 Sep 2026 11:04:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260918/MYH20260918200448YmK.jpg",
-      "summaries": {
-        "ko": "이대통령 \"대미투자, 동의 어려운 부분 있어…치열한 협상\" - 연합뉴스TV",
-        "en": "이대통령 \"대미투자, 동의 어려운 부분 있어…치열한 협상\" - 연합뉴스TV",
-        "zh": "이대통령 \"대미투자, 동의 어려운 부분 있어…치열한 협상\" - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "이 대통령 아들 ‘코인업자 친분’ 의혹에…최길수 “조사할 것” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1278508.html",
+      "title": "“김승원 임명, 지지율 향방 결정…위기의식 느껴졌다”…정치 평론가 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1278535.html",
       "source": "한겨레",
-      "pubDate": "Fri, 18 Sep 2026 12:15:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/1200/863/imgdb/original/2026/0918/3117897227166689.webp",
+      "pubDate": "Fri, 18 Sep 2026 08:59:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/1200/800/imgdb/child/2026/0918/17897199285146_20260916503673.webp",
       "summaries": {
-        "ko": "이 대통령 아들 ‘코인업자 친분’ 의혹에…최길수 “조사할 것” - 한겨레",
-        "en": "이 대통령 아들 ‘코인업자 친분’ 의혹에…최길수 “조사할 것” - 한겨레",
-        "zh": "이 대통령 아들 ‘코인업자 친분’ 의혹에…최길수 “조사할 것” - 한겨레"
+        "ko": "“김승원 임명, 지지율 향방 결정…위기의식 느껴졌다”…정치 평론가 - 한겨레",
+        "en": "“김승원 임명, 지지율 향방 결정…위기의식 느껴졌다”…정치 평론가 - 한겨레",
+        "zh": "“김승원 임명, 지지율 향방 결정…위기의식 느껴졌다”…정치 평론가 - 한겨레"
+      }
+    },
+    {
+      "title": "“전쟁 파병 없다, 국민보호 최소 활동만…북미대화 ‘패싱’ 우려 안해도” - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8667464",
+      "source": "KBS 뉴스",
+      "pubDate": "Fri, 18 Sep 2026 12:06:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/09/18/20260918_f7UkAn.png",
+      "summaries": {
+        "ko": "“전쟁 파병 없다, 국민보호 최소 활동만…북미대화 ‘패싱’ 우려 안해도” - KBS 뉴스",
+        "en": "“전쟁 파병 없다, 국민보호 최소 활동만…북미대화 ‘패싱’ 우려 안해도” - KBS 뉴스",
+        "zh": "“전쟁 파병 없다, 국민보호 최소 활동만…북미대화 ‘패싱’ 우려 안해도” - KBS 뉴스"
       }
     },
     {
@@ -74,27 +62,39 @@
       }
     },
     {
-      "title": "[날씨] 전국 대체로 맑아‥강원·경상 동해안·제주는 비 - MBC 뉴스",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6852912_36918.html",
-      "source": "MBC 뉴스",
-      "pubDate": "Fri, 18 Sep 2026 15:03:34 GMT",
-      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/09/19/yn20260918-05.jpg",
+      "title": "제주 강풍 주의…주말·연휴 초반 ‘맑고 일교차 커’ - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8667357",
+      "source": "KBS 뉴스",
+      "pubDate": "Fri, 18 Sep 2026 10:09:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/2026/09/18/20260918_b7Qv7K.png",
       "summaries": {
-        "ko": "[날씨] 전국 대체로 맑아‥강원·경상 동해안·제주는 비 - MBC 뉴스",
-        "en": "[날씨] 전국 대체로 맑아‥강원·경상 동해안·제주는 비 - MBC 뉴스",
-        "zh": "[날씨] 전국 대체로 맑아‥강원·경상 동해안·제주는 비 - MBC 뉴스"
+        "ko": "제주 강풍 주의…주말·연휴 초반 ‘맑고 일교차 커’ - KBS 뉴스",
+        "en": "제주 강풍 주의…주말·연휴 초반 ‘맑고 일교차 커’ - KBS 뉴스",
+        "zh": "제주 강풍 주의…주말·연휴 초반 ‘맑고 일교차 커’ - KBS 뉴스"
       }
     },
     {
-      "title": "이 대통령, ‘외국군 지휘 배제’ 밝혀…청해부대 활동 ‘기준선’ 시사 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/defense/1278509.html",
-      "source": "한겨레",
-      "pubDate": "Fri, 18 Sep 2026 07:07:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/1200/797/imgdb/original/2026/0918/20260918502208.webp",
+      "title": "한미 외교장관 \"대미투자 결실 노력\"‥조현 \"호르무즈 기여 계속 소통\" - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6852932_36925.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Fri, 18 Sep 2026 20:53:52 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/09/19/yn20260918-14.jpg",
       "summaries": {
-        "ko": "이 대통령, ‘외국군 지휘 배제’ 밝혀…청해부대 활동 ‘기준선’ 시사 - 한겨레",
-        "en": "이 대통령, ‘외국군 지휘 배제’ 밝혀…청해부대 활동 ‘기준선’ 시사 - 한겨레",
-        "zh": "이 대통령, ‘외국군 지휘 배제’ 밝혀…청해부대 활동 ‘기준선’ 시사 - 한겨레"
+        "ko": "한미 외교장관 \"대미투자 결실 노력\"‥조현 \"호르무즈 기여 계속 소통\" - MBC 뉴스",
+        "en": "한미 외교장관 \"대미투자 결실 노력\"‥조현 \"호르무즈 기여 계속 소통\" - MBC 뉴스",
+        "zh": "한미 외교장관 \"대미투자 결실 노력\"‥조현 \"호르무즈 기여 계속 소통\" - MBC 뉴스"
+      }
+    },
+    {
+      "title": "'전쟁 틈타 담합' 의혹 석화업체 경영진 2명 구속‥6명은 기각 - MBC 뉴스",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6852926_36918.html",
+      "source": "MBC 뉴스",
+      "pubDate": "Fri, 18 Sep 2026 18:17:12 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/09/19/yn20260918-09.jpg",
+      "summaries": {
+        "ko": "'전쟁 틈타 담합' 의혹 석화업체 경영진 2명 구속‥6명은 기각 - MBC 뉴스",
+        "en": "'전쟁 틈타 담합' 의혹 석화업체 경영진 2명 구속‥6명은 기각 - MBC 뉴스",
+        "zh": "'전쟁 틈타 담합' 의혹 석화업체 경영진 2명 구속‥6명은 기각 - MBC 뉴스"
       }
     },
     {
@@ -110,15 +110,27 @@
       }
     },
     {
-      "title": "[정책 인사이트] 대통령 지시로 시작한 ‘농지 전수조사’, 농민 반발에 고민 커진 정부 - 조선비즈 - Chosunbiz",
-      "link": "https://biz.chosun.com/policy/policy_sub/2026/09/18/HVUQCGLK4JHX3GIMQAQHSO3P7U/",
-      "source": "Chosunbiz",
-      "pubDate": "Fri, 18 Sep 2026 11:09:00 GMT",
-      "image": "https://biz.chosun.com/resizer/v2/GFRWCNJUMI4TGYZQGVQTMMJWMY.jpg?auth=4ef9387b4c6b0b0d9e2d47a52f3abd03321a51c8cc8b7c94f98b45281e8803ec&width=1200&height=630&smart=true",
+      "title": "이 대통령 “농지전수조사, 투기세력 ‘강제 매각’ 선전은 진실 아냐…레버리지 ETF 부족함 있었다” - 경향신문",
+      "link": "https://www.khan.co.kr/article/202609181707011",
+      "source": "경향신문",
+      "pubDate": "Fri, 18 Sep 2026 08:07:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/09/18/rcv.YNA.20260918.PYH2026091812040001300_P1.jpg",
       "summaries": {
-        "ko": "[정책 인사이트] 대통령 지시로 시작한 ‘농지 전수조사’, 농민 반발에 고민 커진 정부 - 조선비즈 - Chosunbiz",
-        "en": "[정책 인사이트] 대통령 지시로 시작한 ‘농지 전수조사’, 농민 반발에 고민 커진 정부 - 조선비즈 - Chosunbiz",
-        "zh": "[정책 인사이트] 대통령 지시로 시작한 ‘농지 전수조사’, 농민 반발에 고민 커진 정부 - 조선비즈 - Chosunbiz"
+        "ko": "이 대통령 “농지전수조사, 투기세력 ‘강제 매각’ 선전은 진실 아냐…레버리지 ETF 부족함 있었다” - 경향신문",
+        "en": "이 대통령 “농지전수조사, 투기세력 ‘강제 매각’ 선전은 진실 아냐…레버리지 ETF 부족함 있었다” - 경향신문",
+        "zh": "이 대통령 “농지전수조사, 투기세력 ‘강제 매각’ 선전은 진실 아냐…레버리지 ETF 부족함 있었다” - 경향신문"
+      }
+    },
+    {
+      "title": "[속보] 한미 \"전작권 전환 협력 지속\"…美 \"韓 국방비 증액 높이 평가\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260919071433JuI",
+      "source": "Breaking News",
+      "pubDate": "Sat, 19 Sep 2026 07:14:35 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260918/AKR20260919071433JuI_01_i.jpg",
+      "summaries": {
+        "ko": "[속보] 한미 \"전작권 전환 협력 지속\"…美 \"韓 국방비 증액 높이 평가\"",
+        "en": "[속보] 한미 \"전작권 전환 협력 지속\"…美 \"韓 국방비 증액 높이 평가\"",
+        "zh": "[속보] 한미 \"전작권 전환 협력 지속\"…美 \"韓 국방비 증액 높이 평가\""
       }
     },
     {
@@ -131,18 +143,6 @@
         "ko": "[속보] 조현 외교장관, 美에 \"호르무즈 자유로운 통항 회복 기여 의지 설명\"",
         "en": "[속보] 조현 외교장관, 美에 \"호르무즈 자유로운 통항 회복 기여 의지 설명\"",
         "zh": "[속보] 조현 외교장관, 美에 \"호르무즈 자유로운 통항 회복 기여 의지 설명\""
-      }
-    },
-    {
-      "title": "[속보] 한미 외교장관 \"대미 전략투자, 좋은 결실 맺도록 노력\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260919055544Sie",
-      "source": "Breaking News",
-      "pubDate": "Sat, 19 Sep 2026 05:55:45 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260918/AKR20260919055544Sie_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 한미 외교장관 \"대미 전략투자, 좋은 결실 맺도록 노력\"",
-        "en": "[속보] 한미 외교장관 \"대미 전략투자, 좋은 결실 맺도록 노력\"",
-        "zh": "[속보] 한미 외교장관 \"대미 전략투자, 좋은 결실 맺도록 노력\""
       }
     }
   ]
