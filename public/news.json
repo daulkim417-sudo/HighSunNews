@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-09-19T22:54:19.095007",
+  "lastUpdate": "2026-09-20T00:28:13.443756",
   "items": [
-    {
-      "title": "김승원 후보자 전격 사퇴…“정부에 부담 더해선 안돼” - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8667879",
-      "source": "KBS 뉴스",
-      "pubDate": "Sat, 19 Sep 2026 12:01:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/09/19/20260919_TlbwVR.png",
-      "summaries": {
-        "ko": "김승원 법무부 장관 후보자가 이재명 대통령의 기자회견 이후 국정 부담과 국민 눈높이를 이유로 지명 20일 만에 자진 사퇴했다.",
-        "en": "Kim Seung-won, nominated as Minister of Justice, voluntarily withdrew his candidacy after 20 days, citing the burden on state affairs and public scrutiny following President Lee Jae-myung's press conference.",
-        "zh": "法务部长官候选人金承源在李在明总统记者会后，以减轻政府负担和顺应民意为由，于提名20天后主动辞职。"
-      }
-    },
     {
       "title": "이 대통령 “‘대통령 친구’의 거친 태도, 저를 곤경에 빠트려…혐오·비아냥 삼가길” - 한겨레",
       "link": "https://www.hani.co.kr/arti/politics/bluehouse/1278626.html",
@@ -20,9 +8,21 @@
       "pubDate": "Sat, 19 Sep 2026 15:14:00 GMT",
       "image": "https://flexible.img.hani.co.kr/flexible/normal/640/495/imgdb/original/2026/0919/20260919500814.webp",
       "summaries": {
-        "ko": "이 대통령 “‘대통령 친구’의 거친 태도, 저를 곤경에 빠트려…혐오·비아냥 삼가길” - 한겨레",
-        "en": "이 대통령 “‘대통령 친구’의 거친 태도, 저를 곤경에 빠트려…혐오·비아냥 삼가길” - 한겨레",
-        "zh": "이 대통령 “‘대통령 친구’의 거친 태도, 저를 곤경에 빠트려…혐오·비아냥 삼가길” - 한겨레"
+        "ko": "이재명 대통령은 자신을 '대통령의 친구'라고 칭하는 지지자들에게 혐오와 비아냥 같은 거친 태도가 자신을 곤경에 빠뜨리고 개혁을 방해한다며 품격 있는 소통을 촉구했다.",
+        "en": "President Lee Jae-myung urged his supporters, whom he called 'president's friends,' to engage in dignified communication, stating that rough attitudes like hatred and sarcasm put him in trouble and hinder reform.",
+        "zh": "李在明总统呼吁其自称为“总统之友”的支持者进行有尊严的沟通，指出仇恨和嘲讽等粗鲁态度会让他陷入困境并阻碍改革。"
+      }
+    },
+    {
+      "title": "김승원 후보자 전격 사퇴…“정부에 부담 더해선 안돼” - KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8667916",
+      "source": "KBS 뉴스",
+      "pubDate": "Sat, 19 Sep 2026 22:03:00 GMT",
+      "image": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza/2026/09/20/30_8667916.jpg",
+      "summaries": {
+        "ko": "김승원 후보자 전격 사퇴…“정부에 부담 더해선 안돼” - KBS 뉴스",
+        "en": "김승원 후보자 전격 사퇴…“정부에 부담 더해선 안돼” - KBS 뉴스",
+        "zh": "김승원 후보자 전격 사퇴…“정부에 부담 더해선 안돼” - KBS 뉴스"
       }
     },
     {
@@ -38,30 +38,6 @@
       }
     },
     {
-      "title": "이란 안보수장 \"미국에 전쟁 종식 조건 전달…답 기다리는 중\" - 연합뉴스TV",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260920013924Yeq",
-      "source": "연합뉴스TV",
-      "pubDate": "Sat, 19 Sep 2026 16:39:00 GMT",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260919/AKR20260920013924Yeq_01_i.jpg",
-      "summaries": {
-        "ko": "이란 안보수장 \"미국에 전쟁 종식 조건 전달…답 기다리는 중\" - 연합뉴스TV",
-        "en": "이란 안보수장 \"미국에 전쟁 종식 조건 전달…답 기다리는 중\" - 연합뉴스TV",
-        "zh": "이란 안보수장 \"미국에 전쟁 종식 조건 전달…답 기다리는 중\" - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "날 세운 오세훈 “이 대통령, 전세난 책임져야···현 정책, 계속 부동산 가격 올릴 것” - 경향신문",
-      "link": "https://www.khan.co.kr/article/202609191937001",
-      "source": "경향신문",
-      "pubDate": "Sat, 19 Sep 2026 10:37:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/09/19/rcv.YNA.20260911.PYH2026091110240001300_P1.jpg",
-      "summaries": {
-        "ko": "날 세운 오세훈 “이 대통령, 전세난 책임져야···현 정책, 계속 부동산 가격 올릴 것” - 경향신문",
-        "en": "날 세운 오세훈 “이 대통령, 전세난 책임져야···현 정책, 계속 부동산 가격 올릴 것” - 경향신문",
-        "zh": "날 세운 오세훈 “이 대통령, 전세난 책임져야···현 정책, 계속 부동산 가격 올릴 것” - 경향신문"
-      }
-    },
-    {
       "title": "후티 \"사우디 민감시설 공격\"…리야드 항공편 결항도 속출 - 연합뉴스TV",
       "link": "https://www.yonhapnewstv.co.kr/news/AKR20260920044222eKL",
       "source": "연합뉴스TV",
@@ -71,6 +47,42 @@
         "ko": "후티 \"사우디 민감시설 공격\"…리야드 항공편 결항도 속출 - 연합뉴스TV",
         "en": "후티 \"사우디 민감시설 공격\"…리야드 항공편 결항도 속출 - 연합뉴스TV",
         "zh": "후티 \"사우디 민감시설 공격\"…리야드 항공편 결항도 속출 - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "[내일날씨] 맑고 낮밤 일교차 커…동해·남해안 너울 주의 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260920003700004",
+      "source": "연합뉴스",
+      "pubDate": "Sun, 20 Sep 2026 00:00:02 GMT",
+      "image": "https://img8.yna.co.kr/photo/yna/YH/2026/09/08/PYH2026090801350001300_P4.jpg",
+      "summaries": {
+        "ko": "[내일날씨] 맑고 낮밤 일교차 커…동해·남해안 너울 주의 - 연합뉴스",
+        "en": "[내일날씨] 맑고 낮밤 일교차 커…동해·남해안 너울 주의 - 연합뉴스",
+        "zh": "[내일날씨] 맑고 낮밤 일교차 커…동해·남해안 너울 주의 - 연합뉴스"
+      }
+    },
+    {
+      "title": "미 베선트·중 허리펑, 뉴욕 JP모건서 회동...정상회담 의제조율 - YTN",
+      "link": "https://www.ytn.co.kr/_ln/0104_202609200645293995",
+      "source": "YTN",
+      "pubDate": "Sat, 19 Sep 2026 21:45:00 GMT",
+      "image": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg",
+      "summaries": {
+        "ko": "미 베선트·중 허리펑, 뉴욕 JP모건서 회동...정상회담 의제조율 - YTN",
+        "en": "미 베선트·중 허리펑, 뉴욕 JP모건서 회동...정상회담 의제조율 - YTN",
+        "zh": "미 베선트·중 허리펑, 뉴욕 JP모건서 회동...정상회담 의제조율 - YTN"
+      }
+    },
+    {
+      "title": "의정부시, 추동 숲정원 ‘무장애행복길’ … 전 구간 개통 - 문화일보",
+      "link": "https://www.munhwa.com/article/11618284",
+      "source": "문화일보",
+      "pubDate": "Sat, 19 Sep 2026 21:47:19 GMT",
+      "image": "https://wimg.munhwa.com/news/cms/2026/09/20/news-p.v1.20260920.45af24d67659491a95ba9bc9b47d4416_R.jpg",
+      "summaries": {
+        "ko": "의정부시, 추동 숲정원 ‘무장애행복길’ … 전 구간 개통 - 문화일보",
+        "en": "의정부시, 추동 숲정원 ‘무장애행복길’ … 전 구간 개통 - 문화일보",
+        "zh": "의정부시, 추동 숲정원 ‘무장애행복길’ … 전 구간 개통 - 문화일보"
       }
     },
     {
@@ -86,39 +98,27 @@
       }
     },
     {
-      "title": "경주 주택 화재 진압 중 붕괴…소방관 매몰 등 2명 부상 - 동아일보",
-      "link": "https://www.donga.com/news/Society/article/all/20260919/134701276/1",
-      "source": "동아일보",
-      "pubDate": "Sat, 19 Sep 2026 14:42:09 GMT",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/19/134701277.1.jpg",
+      "title": "경기 안성 나눔장터로 화물차 돌진‥모자 숨지고 5명 다쳐 - imnews.imbc.com",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6852981_36918.html",
+      "source": "imnews.imbc.com",
+      "pubDate": "Sat, 19 Sep 2026 04:29:32 GMT",
+      "image": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/09/19/ggm_20260919_9.jpg",
       "summaries": {
-        "ko": "경주 주택 화재 진압 중 붕괴…소방관 매몰 등 2명 부상 - 동아일보",
-        "en": "경주 주택 화재 진압 중 붕괴…소방관 매몰 등 2명 부상 - 동아일보",
-        "zh": "경주 주택 화재 진압 중 붕괴…소방관 매몰 등 2명 부상 - 동아일보"
+        "ko": "경기 안성 나눔장터로 화물차 돌진‥모자 숨지고 5명 다쳐 - imnews.imbc.com",
+        "en": "경기 안성 나눔장터로 화물차 돌진‥모자 숨지고 5명 다쳐 - imnews.imbc.com",
+        "zh": "경기 안성 나눔장터로 화물차 돌진‥모자 숨지고 5명 다쳐 - imnews.imbc.com"
       }
     },
     {
-      "title": "전국 대체로 맑음…영남 해안 강풍 주의 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/view.do?ncd=8667902",
-      "source": "KBS 뉴스",
-      "pubDate": "Sat, 19 Sep 2026 15:01:00 GMT",
-      "image": "http://news.kbs.co.kr/data/news/2026/09/20/20260920_MJPnml.jpg",
-      "summaries": {
-        "ko": "전국 대체로 맑음…영남 해안 강풍 주의 - KBS 뉴스",
-        "en": "전국 대체로 맑음…영남 해안 강풍 주의 - KBS 뉴스",
-        "zh": "전국 대체로 맑음…영남 해안 강풍 주의 - KBS 뉴스"
-      }
-    },
-    {
-      "title": "책 하나 골라도 '힙하게'…취향 따라 독립서점 찾는 MZ들",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202609181741042KE",
+      "title": "수사 의뢰·공정위 제소…네이버·토스 갈등 왜?",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260920092545Rjh",
       "source": "Breaking News",
-      "pubDate": "Sun, 20 Sep 2026 07:03:03 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260919/AKR202609181741042KE_02_i.jpg",
+      "pubDate": "Sun, 20 Sep 2026 09:25:46 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260920/MYH20260920092545Rjh.jpg",
       "summaries": {
-        "ko": "책 하나 골라도 '힙하게'…취향 따라 독립서점 찾는 MZ들",
-        "en": "책 하나 골라도 '힙하게'…취향 따라 독립서점 찾는 MZ들",
-        "zh": "책 하나 골라도 '힙하게'…취향 따라 독립서점 찾는 MZ들"
+        "ko": "수사 의뢰·공정위 제소…네이버·토스 갈등 왜?",
+        "en": "수사 의뢰·공정위 제소…네이버·토스 갈등 왜?",
+        "zh": "수사 의뢰·공정위 제소…네이버·토스 갈등 왜?"
       }
     }
   ]
