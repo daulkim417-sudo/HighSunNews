@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-09-20T13:44:33.805768",
+  "lastUpdate": "2026-09-20T17:00:18.333952",
   "items": [
-    {
-      "title": "[뉴스분석] 연임 종지부, 김승원 정리…여진은 남았다 - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1278737.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 20 Sep 2026 12:11:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0920/20260920502217.webp",
-      "summaries": {
-        "ko": "이재명 대통령이 연임 의혹을 부인하고 국정 운영의 부족함을 인정하며 지지율 하락에 대응했지만, 김승원 법무부 장관 후보자 낙마로 인사 검증 부실 논란이 이어지는 등 여러 난제가 여전히 남아있다.",
-        "en": "President Lee Jae-myung addressed political controversies and declining approval ratings by denying reelection ambitions and admitting shortcomings, but still faces challenges such as ongoing criticism over poor personnel vetting following the resignation of Justice Minister nominee Kim Seung-won.",
-        "zh": "李在明总统为应对支持率下降，否认了连任意图并承认施政不足，但随着法务部长官提名人金承源辞职，人事审查不力等争议持续，诸多难题依然存在。"
-      }
-    },
     {
       "title": "“연임·공소취소 논란 정리는 긍정적…부동산 문제 전임 정부 탓은 아쉬워” - 경향신문",
       "link": "https://www.khan.co.kr/article/202609202104015",
@@ -20,9 +8,45 @@
       "pubDate": "Sun, 20 Sep 2026 12:04:00 GMT",
       "image": "https://img.khan.co.kr/news/2026/09/20/l_2026092101000667800062611.jpg",
       "summaries": {
-        "ko": "전문가들은 이재명 대통령의 기자회견에 대해 연임 개헌 및 공소취소 논란에 명확한 입장을 밝힌 점은 긍정적으로 평가했으나, 부동산 문제에 대한 전임 정부 탓하기와 인사 대응 방식에는 아쉬움을 표하며 국정 성과에 집중할 것을 조언했다.",
-        "en": "Experts positively evaluated President Lee Jae-myung's clear stance on the re-election constitutional amendment and prosecution withdrawal controversies during his press conference, but expressed regret over his blaming of the previous administration for real estate issues and his handling of personnel matters, advising him to focus on national policy achievements.",
-        "zh": "专家们对李在明总统记者会上就连任修宪和撤销公诉争议表明清晰立场表示肯定，但对其将房地产问题归咎于前任政府以及人事应对方式表示遗憾，并建议他应集中精力取得执政成就。"
+        "ko": "전문가들은 이재명 대통령 기자회견의 연임개헌·공소취소 논란 정리와 겸손한 태도는 긍정적으로 평가했지만, 부동산 문제의 전임 정부 탓과 인사 문제 대응에 아쉬움을 표하며 민생 성과를 통한 지지율 반등을 조언했다.",
+        "en": "Experts positively evaluated President Lee Jae-myung's press conference for clarifying his stance on the re-election constitutional amendment and public prosecution withdrawal controversies and for his humble attitude, noting it could halt further approval rating decline; however, they expressed regret over blaming the previous government for real estate issues and his handling of personnel matters, advising a rebound in approval ratings through achievements in public welfare.",
+        "zh": "专家们对李在明总统记者招待会上澄清连任修宪和公诉撤销争议并展现谦逊态度表示肯定，认为此举有望阻止支持率进一步下滑；但同时对将房地产问题归咎于前任政府以及人事处理方式表示遗憾，并建议通过民生领域的成果来提升支持率。"
+      }
+    },
+    {
+      "title": "유시민, 검찰개혁 ‘신발’ 빗대며 “이 대통령, 어쩔 수 없이 신고 가는 중” - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1278709.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 20 Sep 2026 11:22:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/982/545/imgdb/original/2026/0920/20260920501981.webp",
+      "summaries": {
+        "ko": "유시민 작가는 분열적 멸칭을 사용하는 세력을 ‘신발 속 돌멩이’에, 검찰개혁을 ‘신발’에 빗대며, 이재명 대통령이 극단적 지지층과 거리를 두고 검찰개혁에 대한 분명한 의지를 보여야 한다고 촉구했다.",
+        "en": "Author Yoo Si-min, using the metaphor of 'pebbles in shoes' for divisive factions using derogatory terms and 'shoes' for prosecution reform, urged President Lee Jae-myung to distance himself from extreme supporters and clarify his commitment to reform, suggesting Lee is currently 'forced to wear' the reform shoes against his will.",
+        "zh": "作家柳时敏将使用贬称的分裂派别比作“鞋中的石子”，将检察改革比作“鞋子”，敦促李在明总统与极端支持者划清界限，并明确其对检察改革的承诺，暗示李总统目前是“被迫穿着”改革之鞋。"
+      }
+    },
+    {
+      "title": "눈덩이처럼 불어난 ‘신약 청탁 의혹’…‘재수사’ 기로 선 김승원 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202609202105005",
+      "source": "경향신문",
+      "pubDate": "Sun, 20 Sep 2026 12:05:00 GMT",
+      "image": "https://img.khan.co.kr/news/2026/09/20/l_2026092101000659300063001.jpg",
+      "summaries": {
+        "ko": "김승원 전 법무부 장관 후보자가 신약 청탁 및 성추행 무마 등 각종 의혹으로 사퇴하면서, 경찰이 과거 기소유예 처분된 신약 관련 청탁 사건을 재수사하고 추가 의혹들도 수사할지 검토 중이다.",
+        "en": "Former Justice Minister nominee Kim Seung-won resigned amidst various allegations, including new drug lobbying and a sexual harassment cover-up, prompting police to consider re-investigating the previously suspended drug lobbying case and other emerging suspicions.",
+        "zh": "韩国前法务部长官提名人金承源因新药审批游说、性骚扰掩盖等多种指控而辞职，警方正考虑重新调查此前被缓期起诉的新药游说案，并可能调查其他新出现的疑点。"
+      }
+    },
+    {
+      "title": "[뉴스분석] 연임 종지부, 김승원 정리…여진은 남았다 - 한겨레",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1278737.html",
+      "source": "한겨레",
+      "pubDate": "Sun, 20 Sep 2026 12:11:00 GMT",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2026/0920/20260920502217.webp",
+      "summaries": {
+        "ko": "이재명 대통령이 기자회견에서 연임설을 일축하고 국정 부족함을 인정하며 지지율 반전을 꾀했으나, 김승원 법무부 장관 후보자 낙마 등 인사 검증 부실과 난제가 남아있어 향후 국정 성과가 지지율 향방을 결정할 것이라는 평가다.",
+        "en": "President Lee Jae-myung sought to reverse declining approval ratings by dismissing re-election rumors and admitting shortcomings in a press conference, but lingering issues like the resignation of Justice Minister nominee Kim Seung-won due to vetting failures suggest future performance will dictate his approval.",
+        "zh": "李在明总统在记者会上否认连任传闻并承认国政不足，试图扭转支持率下滑，但由于法务部长官提名人金承源落马等人事审查问题及其他挑战依然存在，未来国政成果将决定其支持率的走向。"
       }
     },
     {
@@ -32,93 +56,69 @@
       "pubDate": "Sun, 20 Sep 2026 07:59:00 GMT",
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260920/AKR20260920165908QrU_01_i.jpg",
       "summaries": {
-        "ko": "홍해에서 후티 반군의 공세가 강화되는 가운데, 사우디아라비아가 저지에 한계를 보이는데도 미국이 군사 개입을 꺼리면서 중동 동맹국들의 불만이 고조되고 이란을 더욱 대담하게 만들고 있다.",
-        "en": "As Houthi rebels intensify their offensive in the Red Sea and Saudi Arabia struggles to contain them, the U.S.'s reluctance to intervene militarily is fueling growing dissatisfaction among Middle Eastern allies and emboldening Iran.",
-        "zh": "随着胡塞叛军在红海地区攻势加剧，沙特阿拉伯在遏制方面力不从心，美国不愿军事介入的做法引发了中东盟友日益增长的不满，并助长了伊朗的胆量。"
+        "ko": "미국 정부가 친이란 후티 반군의 홍해 공세 확장에 대한 군사 개입을 꺼리면서 중동 동맹국들의 불만과 미국에 대한 회의론이 고조되고 있다.",
+        "en": "Middle Eastern allies are growing increasingly dissatisfied and skeptical of the U.S. due to its reluctance to militarily intervene against the expanding offensive by the Iran-backed Houthi rebels in the Red Sea.",
+        "zh": "由于美国政府不愿军事干预亲伊朗的胡塞武装在红海地区日益扩大的攻势，中东盟友对美国的不满和疑虑日益加剧。"
       }
     },
     {
-      "title": "거리 나온 약사들...\"비대면진료·약배송 확대 정책 반대\" - 조선일보",
-      "link": "https://www.chosun.com/national/national_general/2026/09/20/52FX2KJT6RG5DBZJAXDVYM2JIU/",
-      "source": "조선일보",
-      "pubDate": "Sun, 20 Sep 2026 08:32:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/LT5GMOBYHBNNDOWQ5JTR655U2Y.jpg?auth=9cf535629ac026a5e6db4ee47a1d05fda2422836eb145f797febae83c5a8f3b9&width=1200&height=630&smart=true",
+      "title": "북한, 또다시 동해상으로 탄도미사일 두 발 발사..올들어 14번째 - VOA 한국어 홈페이지",
+      "link": "https://www.voakorea.com/a/korean-peninsula-09-20-26/8202026.html",
+      "source": "VOA 한국어 홈페이지",
+      "pubDate": "Sun, 20 Sep 2026 12:03:42 GMT",
+      "image": "https://gdb.voanews.com/f1979e07-cdba-40cd-c83b-08df13be6519_w1200_h630.jpg",
       "summaries": {
-        "ko": "거리 나온 약사들...\"비대면진료·약배송 확대 정책 반대\" - 조선일보",
-        "en": "거리 나온 약사들...\"비대면진료·약배송 확대 정책 반대\" - 조선일보",
-        "zh": "거리 나온 약사들...\"비대면진료·약배송 확대 정책 반대\" - 조선일보"
+        "ko": "북한, 또다시 동해상으로 탄도미사일 두 발 발사..올들어 14번째 - VOA 한국어 홈페이지",
+        "en": "북한, 또다시 동해상으로 탄도미사일 두 발 발사..올들어 14번째 - VOA 한국어 홈페이지",
+        "zh": "북한, 또다시 동해상으로 탄도미사일 두 발 발사..올들어 14번째 - VOA 한국어 홈페이지"
       }
     },
     {
-      "title": "안성 나눔장터 트럭 돌진에 봉사하던 모자 참변···운전자는 “페달 착각” → “급발진” 말 바꿔 - 경향신문",
-      "link": "https://www.khan.co.kr/article/202609201428001",
-      "source": "경향신문",
-      "pubDate": "Sun, 20 Sep 2026 05:28:00 GMT",
-      "image": "https://img.khan.co.kr/news/2026/09/20/news-p.v1.20260920.f853a4839d4342e787662879771b7d2a_P1.jpg",
+      "title": "[1보] 한국 남자농구, 개최국 일본 꺾고 12년 만에 아시안게임 금메달 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260920053800007",
+      "source": "연합뉴스",
+      "pubDate": "Sun, 20 Sep 2026 12:30:57 GMT",
+      "image": "https://img5.yna.co.kr/photo/yna/YH/2026/09/20/PYH2026092019640001300_P4.jpg",
       "summaries": {
-        "ko": "경기 안성 나눔장터에 1t 트럭이 돌진해 자원봉사자 모자 2명이 숨지고 5명이 다쳤으며, 운전자는 사고 원인을 '급발진'으로 주장해 경찰이 정밀 감정에 착수했다.",
-        "en": "A 1-ton truck crashed into a sharing market event in Anseong, Gyeonggi Province, killing two volunteer mother and son and injuring five others, with the driver claiming \"sudden unintended acceleration\" as the cause, leading police to begin a detailed forensic investigation.",
-        "zh": "在京畿道安城市，一辆1吨卡车冲入分享市场活动现场，导致一对志愿者母子身亡，另有五人受伤，司机声称事故原因是“车辆突然加速”，警方已对此展开精密鉴定。"
+        "ko": "[1보] 한국 남자농구, 개최국 일본 꺾고 12년 만에 아시안게임 금메달 - 연합뉴스",
+        "en": "[1보] 한국 남자농구, 개최국 일본 꺾고 12년 만에 아시안게임 금메달 - 연합뉴스",
+        "zh": "[1보] 한국 남자농구, 개최국 일본 꺾고 12년 만에 아시안게임 금메달 - 연합뉴스"
       }
     },
     {
-      "title": "[영상] 최준용 기절·이승현 “영광”…이현중, 일본 KO 시킬 시간 - KBS 뉴스",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8667982&section_id=28149",
-      "source": "KBS 뉴스",
-      "pubDate": "Sun, 20 Sep 2026 05:06:00 GMT",
-      "image": "http://news.kbs.co.kr/data/fckeditor/vod/2026/09/20/kn105391789912205249.jpg",
+      "title": "“예뻐서 열올라” 초1에 ‘사귀자’던 67세男 진술 - munhwa.com",
+      "link": "https://www.munhwa.com/article/11618393",
+      "source": "munhwa.com",
+      "pubDate": "Sun, 20 Sep 2026 14:23:58 GMT",
+      "image": "https://wimg.munhwa.com/news/cms/2026/09/20/news-p.v1.20260920.999e552653094f7a875d8cf529bc6711_R.jpg",
       "summaries": {
-        "ko": "아시안게임 남자농구 결승에서 에이스 이현중을 앞세운 한국 대표팀이 높은 자신감으로 일본과 금메달에 도전하며, KBS가 이를 생중계한다.",
-        "en": "In the Asian Games men's basketball final, the Korean national team, led by ace Lee Hyun-jung, will challenge Japan for the gold medal with high confidence, and KBS will broadcast it live.",
-        "zh": "在亚运会男篮决赛中，以核心选手李贤中为主的韩国队将以高昂的自信挑战日本队争夺金牌，KBS将进行现场直播。"
+        "ko": "“예뻐서 열올라” 초1에 ‘사귀자’던 67세男 진술 - munhwa.com",
+        "en": "“예뻐서 열올라” 초1에 ‘사귀자’던 67세男 진술 - munhwa.com",
+        "zh": "“예뻐서 열올라” 초1에 ‘사귀자’던 67세男 진술 - munhwa.com"
       }
     },
     {
-      "title": "'생업까지 접었다' 조영욱과 축구하던 '무명' 이준석, 테크볼 AG 역사상 첫 금메달리스트 '우뚝'...단 한 세트도 내주지 않는 '퍼펙트' 금메달![나고야 LIVE] - 조선일보",
-      "link": "https://www.chosun.com/sports/sports_general/2026/09/20/GFSGIYZWHE2TOODFHE4GENRWGI/",
-      "source": "조선일보",
-      "pubDate": "Sun, 20 Sep 2026 09:35:00 GMT",
-      "image": "https://www.chosun.com/resizer/v2/GBRTQZBQG42DQOJXGFQWEMBUG4.jpg?auth=b929f15ed26b485d794d7c5122d38d0f93767d50b792886133b81a4a985a9131&width=700&height=367&smart=true",
+      "title": "[날씨] 맑고 일교차 큰 월요일…일부 내륙 15도 이상 벌어져 - 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260920039900004",
+      "source": "연합뉴스",
+      "pubDate": "Sun, 20 Sep 2026 11:00:01 GMT",
+      "image": "https://img2.yna.co.kr/photo/yna/YH/2026/09/20/PYH2026092007910001300_P4.jpg",
       "summaries": {
-        "ko": "'생업까지 접었다' 조영욱과 축구하던 '무명' 이준석, 테크볼 AG 역사상 첫 금메달리스트 '우뚝'...단 한 세트도 내주지 않는 '퍼펙트' 금메달![나고야 LIVE] - 조선일보",
-        "en": "'생업까지 접었다' 조영욱과 축구하던 '무명' 이준석, 테크볼 AG 역사상 첫 금메달리스트 '우뚝'...단 한 세트도 내주지 않는 '퍼펙트' 금메달![나고야 LIVE] - 조선일보",
-        "zh": "'생업까지 접었다' 조영욱과 축구하던 '무명' 이준석, 테크볼 AG 역사상 첫 금메달리스트 '우뚝'...단 한 세트도 내주지 않는 '퍼펙트' 금메달![나고야 LIVE] - 조선일보"
+        "ko": "[날씨] 맑고 일교차 큰 월요일…일부 내륙 15도 이상 벌어져 - 연합뉴스",
+        "en": "[날씨] 맑고 일교차 큰 월요일…일부 내륙 15도 이상 벌어져 - 연합뉴스",
+        "zh": "[날씨] 맑고 일교차 큰 월요일…일부 내륙 15도 이상 벌어져 - 연합뉴스"
       }
     },
     {
-      "title": "민주 “내년 상반기 개헌 국민투표”…국힘 “이 대통령 ‘연임 없다’ 못 믿어” - 한겨레",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1278688.html",
-      "source": "한겨레",
-      "pubDate": "Sun, 20 Sep 2026 08:52:00 GMT",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/528/imgdb/original/2026/0920/20260920501854.webp",
+      "title": "‘뚜루루뚜루’ 사흘째 상어 등장에 ‘핫플’ 된 부산 친수공원 - 조선비즈 - Chosunbiz",
+      "link": "https://biz.chosun.com/topics/topics_social/2026/09/20/2SGMPNOAVBCYFCVYY2WVNKNT7I/",
+      "source": "Chosunbiz",
+      "pubDate": "Sun, 20 Sep 2026 05:25:00 GMT",
+      "image": "https://biz.chosun.com/resizer/v2/A4WDGCOR3BPS5BQTWFYZET5DJY.jpg?auth=d441c12a2ed2dc9bcab3f2de3ff87c8abaa89595e1f99bd272489af6d1348c61&width=1200&height=630&smart=true",
       "summaries": {
-        "ko": "이재명 대통령의 연임 부인에도 불구하고 민주당은 내년 상반기 개헌 국민투표를 목표로 개헌추진단을 출범시켰으나, 국민의힘은 이 대통령 발언을 신뢰할 수 없다며 논의 참여를 거부하고 있다.",
-        "en": "Despite President Lee Jae-myung's denial of re-election intentions, the Democratic Party launched its constitutional amendment promotion team, aiming for a national referendum by the first half of next year, while the People Power Party refuses to participate, citing distrust in the President's remarks.",
-        "zh": "尽管李在明总统否认有连任意图，民主党仍成立了修宪推进团，目标是明年上半年举行修宪全民公投，而国民力量党则以不信任总统发言为由拒绝参与讨论。"
-      }
-    },
-    {
-      "title": "'중국이 칼자루?' 시진핑·트럼프 정상회담 中이 주도권 관측 - 뉴스핌",
-      "link": "https://www.newspim.com/news/view/20260920000111",
-      "source": "뉴스핌",
-      "pubDate": "Sun, 20 Sep 2026 05:20:00 GMT",
-      "image": "https://img.newspim.com/news/2026/09/20/2609201417277640_t1.jpg",
-      "summaries": {
-        "ko": "이재명 대통령이 18일 기자회견을 앞두고 외교 일정을 마무리하고 준비에 몰두하며, 공소 취소, 연임 개헌, 인사 검증 문제, 호르무즈 해협 파병, 부동산 등 산적한 국정 현안에 대한 입장을 밝힐 예정이다.",
-        "en": "President Lee Jae-myung is dedicating himself to preparations for his press conference on the 18th, where he is expected to address various pending national issues, including prosecution cancellation, re-election constitutional amendment, personnel verification, Hormuz Strait deployment, and real estate, after concluding his diplomatic schedule.",
-        "zh": "李在明总统结束外交日程后，正全力准备于18日举行的新闻发布会，预计将在会上就起诉撤销、连任修宪、人事审查、霍尔木兹海峡派兵以及房地产等悬而未决的国家事务发表看法。"
-      }
-    },
-    {
-      "title": "이란군 \"미국, 대이란 행동 재개 결정…동조하면 공범 간주\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260920223712dS6",
-      "source": "Breaking News",
-      "pubDate": "Sun, 20 Sep 2026 22:37:14 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260920/AKR20260920223712dS6_01_i.jpg",
-      "summaries": {
-        "ko": "이란군 중앙군사본부는 미국이 대이란 행동 재개를 결정했다고 경하며, 이에 동조하는 역내 국가들은 공범으로 간주하고 미국 자산은 공격 대상이 될 것이라고 경고했습니다.",
-        "en": "Iran's central military headquarters warned that the U.S. has decided to resume actions against Iran, cautioning regional countries not to cooperate as they would be considered accomplices, and stating that all U.S. assets in the region would be targets for attack.",
-        "zh": "伊朗中央军事总部警告称，美国已决定重新采取反伊朗行动，并警告地区国家不要与美国合作，否则将被视为同谋，同时美国在该地区的所有资产都将成为攻击目标。"
+        "ko": "‘뚜루루뚜루’ 사흘째 상어 등장에 ‘핫플’ 된 부산 친수공원 - 조선비즈 - Chosunbiz",
+        "en": "‘뚜루루뚜루’ 사흘째 상어 등장에 ‘핫플’ 된 부산 친수공원 - 조선비즈 - Chosunbiz",
+        "zh": "‘뚜루루뚜루’ 사흘째 상어 등장에 ‘핫플’ 된 부산 친수공원 - 조선비즈 - Chosunbiz"
       }
     }
   ]
