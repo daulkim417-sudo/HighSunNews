@@ -1,100 +1,88 @@
 {
-  "lastUpdate": "2026-10-20T06:09:35.329304",
+  "lastUpdate": "2026-10-20T11:27:09.391062",
   "items": [
     {
-      "title": "[속보] 서울 역삼동 상가서 화재…30대 여성 심정지·10여 명 부상 - KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCVnNBNFE4RHdoVzNvRFlKaDhLUDllUGItUzFaTHVZUlRBZUhWMUN1THd2NTlRSVpCdkJfNVUyRnNaenN4VlZ2SFlfY21INWc2V2xyYUxMbHV5NE0?oc=5",
+      "title": "[단독] ‘강남 연쇄 방화’ 70대, 4년 전에도 같은 건물서 ‘휘발유 난동’ - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92YkZCMEJNRWRfY3AxTm0tWUlSb0NDc0YtSWhZUVAyZHpZQXdwSUt3dS1ldzVNZFZZcVZ6N09MRlZ3TTU2elg2djE1QW5OZGV4emNHZkg4M25mLUR1RW9aemRnU1ZqSHE3TW9wclNYMUYxZw?oc=5",
+      "source": "한겨레",
+      "pubDate": "Tue, 20 Oct 2026 09:18:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "[단독] ‘강남 연쇄 방화’ 70대, 4년 전에도 같은 건물서 ‘휘발유 난동’ - 한겨레",
+        "en": "[단독] ‘강남 연쇄 방화’ 70대, 4년 전에도 같은 건물서 ‘휘발유 난동’ - 한겨레",
+        "zh": "[단독] ‘강남 연쇄 방화’ 70대, 4년 전에도 같은 건물서 ‘휘발유 난동’ - 한겨레"
+      }
+    },
+    {
+      "title": "추미애, 소방관들 만나 ‘재정 빨대’ 거듭 사과···“진심으로 마음 다해 사과” - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nTlNWRlVKYXJYSi10cXFOWG8xWUlDZV8ySnJsLUdsdUdjd3FVVkVBa1pjcFdnTGp1Nm0xVWNzWnIyNVlXZDdmSktnUDV1MFJXdVVCX0ZkMUMxQdIBX0FVX3lxTE5HUHVYaDliNGtuQ2J4RHRSSldKTjZRUkItWExuVkc4QTh2bF9JR1ViUm5ra0k4elQ4dy1Wb3gyUFd3Nm5IRTFfZFY1ZkhNVThISzM4ZkFKOUJyTmZ6TDlV?oc=5",
+      "source": "경향신문",
+      "pubDate": "Tue, 20 Oct 2026 08:15:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "추미애, 소방관들 만나 ‘재정 빨대’ 거듭 사과···“진심으로 마음 다해 사과” - 경향신문",
+        "en": "추미애, 소방관들 만나 ‘재정 빨대’ 거듭 사과···“진심으로 마음 다해 사과” - 경향신문",
+        "zh": "추미애, 소방관들 만나 ‘재정 빨대’ 거듭 사과···“진심으로 마음 다해 사과” - 경향신문"
+      }
+    },
+    {
+      "title": "건보 소득정산 확대…394만 세대 추가 납부·1.5조 재정 확충 전망 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6Rlg3bkh0YTZpTFNwSHhCTnVPRTdyazJlWWM3TDN3LTF4LWhoZU5OQWkxZ29ETXU4LU1ZNlliOXFFcTFlay1CYzVCNzNoWXZrTzJEUnhYaUFJY0I5cVdhanFndUtPcE0?oc=5",
+      "source": "연합뉴스TV",
+      "pubDate": "Tue, 20 Oct 2026 00:00:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "건보 소득정산 확대…394만 세대 추가 납부·1.5조 재정 확충 전망 - 연합뉴스TV",
+        "en": "건보 소득정산 확대…394만 세대 추가 납부·1.5조 재정 확충 전망 - 연합뉴스TV",
+        "zh": "건보 소득정산 확대…394만 세대 추가 납부·1.5조 재정 확충 전망 - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "청와대 “‘전작권 환수’ 운전대 우리가 잡자는 것…미국 내리라는 것 아냐” - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByQWhRUzNYMjVPaVV0Sko0X05tTjI4VEpiSUV0V0MxNzFWWkpwcDMtaENSNzhxUm84TlVxR250ZlI3dFBJU1JqbWozNVVGNGx4Y1ZsX1VjOWJCZlE?oc=5",
       "source": "KBS 뉴스",
-      "pubDate": "Tue, 20 Oct 2026 04:06:00 GMT",
+      "pubDate": "Tue, 20 Oct 2026 08:47:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "summaries": {
-        "ko": "[속보] 서울 역삼동 상가서 화재…30대 여성 심정지·10여 명 부상 - KBS 뉴스",
-        "en": "[속보] 서울 역삼동 상가서 화재…30대 여성 심정지·10여 명 부상 - KBS 뉴스",
-        "zh": "[속보] 서울 역삼동 상가서 화재…30대 여성 심정지·10여 명 부상 - KBS 뉴스"
+        "ko": "청와대 “‘전작권 환수’ 운전대 우리가 잡자는 것…미국 내리라는 것 아냐” - KBS 뉴스",
+        "en": "청와대 “‘전작권 환수’ 운전대 우리가 잡자는 것…미국 내리라는 것 아냐” - KBS 뉴스",
+        "zh": "청와대 “‘전작권 환수’ 운전대 우리가 잡자는 것…미국 내리라는 것 아냐” - KBS 뉴스"
       }
     },
     {
-      "title": "[속보] 합참의장 “북, 적반하장식 전가 용납 못해…추가 도발시 단호히 대응” - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PclZjYm9CRms5VEpZTmhubGxmdno2TlNmZzJzenFiRkI0b041RTJGSTJPc19qUFRJYndBOVFxSXZwRmkyTDNiOTdCMEpuX3ZpcmFqUW9OTjEzd9IBX0FVX3lxTE1kcUotZlVyTWpMdWJHVWR0b0h1WDhpVGFxMktib01pZ3ctTEhHN3ltRzNURlJkNExTM2lhRHROZzE0RWlKMjRGXzFXTFZQdUJPTUNzdnZlbTQzMmxsaUxB?oc=5",
-      "source": "경향신문",
-      "pubDate": "Tue, 20 Oct 2026 00:47:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "[속보] 합참의장 “북, 적반하장식 전가 용납 못해…추가 도발시 단호히 대응” - 경향신문",
-        "en": "[속보] 합참의장 “북, 적반하장식 전가 용납 못해…추가 도발시 단호히 대응” - 경향신문",
-        "zh": "[속보] 합참의장 “북, 적반하장식 전가 용납 못해…추가 도발시 단호히 대응” - 경향신문"
-      }
-    },
-    {
-      "title": "영결식날 “소방이 재정 쭉쭉 빨아먹어”…부승찬 발언 사과한 김민석 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hczZDVDFpYmctVGdNVmk1NTZYRGRfOUpqNlRwMWh3M0VFZ0d4UW82aTZ5d3I5Qjhqa3JaS0hVbVg2RmNvYXVuaWlDc1hvRFhJOWxyUHdLR214R1lBZC1mZHY4STBodF9FUkE?oc=5",
-      "source": "한겨레",
-      "pubDate": "Tue, 20 Oct 2026 00:01:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "영결식날 “소방이 재정 쭉쭉 빨아먹어”…부승찬 발언 사과한 김민석 - 한겨레",
-        "en": "영결식날 “소방이 재정 쭉쭉 빨아먹어”…부승찬 발언 사과한 김민석 - 한겨레",
-        "zh": "영결식날 “소방이 재정 쭉쭉 빨아먹어”…부승찬 발언 사과한 김민석 - 한겨레"
-      }
-    },
-    {
-      "title": "李 \"주택 공급 전격전… 주거 안정에 국정 성패 좌우\" - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT1NQcEhQTXlmaUkySVZybXRseE9JQlRRVGxJcTBIcV9LNkNwMFFuR2FoMHVOWmZGRFUxWVY1RlZ6dk4zQ1AtdVFsWjN0dU5VOWo3QWpkMlN2NU1UaHR2OFA3Tm5mMi1HaDctX0ktM0txOU0yX19MaUdjWDdaM3Bodk5nUFVtZTJYYmVvMi13Vmg?oc=5",
-      "source": "조선일보",
-      "pubDate": "Tue, 20 Oct 2026 01:31:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "李 \"주택 공급 전격전… 주거 안정에 국정 성패 좌우\" - 조선일보",
-        "en": "李 \"주택 공급 전격전… 주거 안정에 국정 성패 좌우\" - 조선일보",
-        "zh": "李 \"주택 공급 전격전… 주거 안정에 국정 성패 좌우\" - 조선일보"
-      }
-    },
-    {
-      "title": "루이비통·디올 털어간 뒤 벌어진 일…프랑스 ‘수상한 명품’ 중고거래 앱에 속속 등장 [이윤정 기자의 소소월드] - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93V0hWTWdsazVwQVh4OWNjYTNHTVJZaHpTdlkxY2tHQV9sRU14d3ZydnNwRlhxdi00Ymh3M2thQ3NEdXpfRW9Xa3Q2OU9BMXhXbkctOWMxa3BQZ9IBX0FVX3lxTE9ZeFhIQ0FPVHQtU01fMVpvclQ3V0xiYnJoUTRpSmRXbFFwTVlWdjhmdll1MFNXQmNUVV9JMXZ1Vjg4UUJZRUxlSlhObzc5M2J5WDNxZlI0SXFzQTdUb2hV?oc=5",
-      "source": "경향신문",
-      "pubDate": "Tue, 20 Oct 2026 00:51:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "루이비통·디올 털어간 뒤 벌어진 일…프랑스 ‘수상한 명품’ 중고거래 앱에 속속 등장 [이윤정 기자의 소소월드] - 경향신문",
-        "en": "루이비통·디올 털어간 뒤 벌어진 일…프랑스 ‘수상한 명품’ 중고거래 앱에 속속 등장 [이윤정 기자의 소소월드] - 경향신문",
-        "zh": "루이비통·디올 털어간 뒤 벌어진 일…프랑스 ‘수상한 명품’ 중고거래 앱에 속속 등장 [이윤정 기자의 소소월드] - 경향신문"
-      }
-    },
-    {
-      "title": "국힘, '핵무기 실전 치르겠나' 李대통령에 \"北노동당 대변인\" - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ubURJVTJKVDFoR2F2V1lLa0cwZWZKeUUyOEd5bWoyc3JlOG1ib3R0YVlXODRMVXBPWXROTFlJUTdMNk9Mc19xeGxtZ2J0WklWRm5oMS1lVTExWVHSAWBBVV95cUxNWDNBeG1BMDk2U0RfS0NKUDA1ODVEdlMwVlA3bWRHVkFFSWVaVHlDa0ZKOGR0VzJ4SFI1Z1FRSVpkNUJSTEVyQXZfTTN6MXZNMWlnOGNJbHpnRUc5dFJValM?oc=5",
+      "title": "정부, 우크라 공관원 절반 철수 결정…\"전향적조치 없다고 판단\"(종합2보) - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5dVl6MnRId3VXVk80dGJTa08wbS02R01SWEd4S3ZDRFNubEpMeGJWWTdzMllBUjRyY1RJejB2SWJSUWpDeW1NVUFvM3FFQmtHSWdVYkVuazFXMEXSAWBBVV95cUxQaXBvYzA3ZThLYUJ3TXU1T3dFcVV0SzgyQjJkeGd1WEppbE1BeWVmRS1GWGhjdkN3V2VDMElXOGphX29IMlllSFlOMVJoQWFvVjkxTmVlYThXWVNxWTZFZ1Y?oc=5",
       "source": "연합뉴스",
-      "pubDate": "Tue, 20 Oct 2026 05:41:54 GMT",
+      "pubDate": "Tue, 20 Oct 2026 10:50:01 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "summaries": {
-        "ko": "국힘, '핵무기 실전 치르겠나' 李대통령에 \"北노동당 대변인\" - 연합뉴스",
-        "en": "국힘, '핵무기 실전 치르겠나' 李대통령에 \"北노동당 대변인\" - 연합뉴스",
-        "zh": "국힘, '핵무기 실전 치르겠나' 李대통령에 \"北노동당 대변인\" - 연합뉴스"
+        "ko": "정부, 우크라 공관원 절반 철수 결정…\"전향적조치 없다고 판단\"(종합2보) - 연합뉴스",
+        "en": "정부, 우크라 공관원 절반 철수 결정…\"전향적조치 없다고 판단\"(종합2보) - 연합뉴스",
+        "zh": "정부, 우크라 공관원 절반 철수 결정…\"전향적조치 없다고 판단\"(종합2보) - 연합뉴스"
       }
     },
     {
-      "title": "[속보]대법, 아리셀 대표 ‘징역 15년→4년 감형’ 확정…유족 “23명이나 죽였는데” 눈물 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xNGpFYXp6NzBHcm5rMmh3Q09kYUR5dWszNExlZFZ5T25hbzZPMmo2SF82SFdzZll6anJRMmZzZzQ3dlJXRXhNWXRGcnpxWV9hZTNRRk1qRzRQQdIBX0FVX3lxTE1nYTVEbkcxY0NjazBPZmR6ZEI3eVM2bUxPd0pDU3o5aHlfUkhURHJQaWNoRmdYaXRuUFJtYUxNcEhMbG1XRkJNbHdtYTJWenZ6SWkyZFdCNHNjTkpfVW9J?oc=5",
+      "title": "젤렌스키 \"미국이 패트리엇 주면 러 공격 중단\" - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14cVlsT2VuVzhyZzg0bmd0WHBtUXpCSTh6RHBaeUdzU0pGRWFlbmJEN242WWd3MTZLdGhWSlNQLTFHSk1EZUw5ZVdhbWVmX2J1MEVuOFJpa2tQZ0RyNkRmV3l0Q1IwUTZocVdBWmx2azBqb3cx0gF0QVVfeXFMT2FicjVWR3V3M0NIdkUyT09iRkFnSkU4Zm40ZktKSzh0M1FWVUw1bk9Jay02aG1HTVVkcUJyLUFWM3lXc3lrZ3FNYmpPVDJnV24xWFFVaDJaR1NWcFUwSTlmYUJsRnoxejB2amdEOFF6cF9nWTY?oc=5",
+      "source": "MBC 뉴스",
+      "pubDate": "Tue, 20 Oct 2026 06:08:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "젤렌스키 \"미국이 패트리엇 주면 러 공격 중단\" - MBC 뉴스",
+        "en": "젤렌스키 \"미국이 패트리엇 주면 러 공격 중단\" - MBC 뉴스",
+        "zh": "젤렌스키 \"미국이 패트리엇 주면 러 공격 중단\" - MBC 뉴스"
+      }
+    },
+    {
+      "title": "[속보]법원, 오세훈 ‘여론조사 대납’ 2심 선고 23일 실시간 생중계 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KV1E1Q09MdkY3eHlCeHhLeGVVN3dZc0J5ZWhlSGNMWU1rclhGVUx0UzNrbHFPYzVFM05jaVZoM1JpTUd3R0N0dHZHYVNESm5xdGpZVWxETzlyd9IBX0FVX3lxTE9PTTBBZ212Y2hHcG9sa2QtbzU4SU42LVBKNmlzUE1CaVotZW5TSzZIRWd6UnppQWdHdjdzMmk3QUJvRnZ4ZWNpSHJneE1Lc1FiSHZNV2dFbnNVRDRLM2N3?oc=5",
       "source": "경향신문",
-      "pubDate": "Tue, 20 Oct 2026 02:25:00 GMT",
+      "pubDate": "Tue, 20 Oct 2026 08:04:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "summaries": {
-        "ko": "[속보]대법, 아리셀 대표 ‘징역 15년→4년 감형’ 확정…유족 “23명이나 죽였는데” 눈물 - 경향신문",
-        "en": "[속보]대법, 아리셀 대표 ‘징역 15년→4년 감형’ 확정…유족 “23명이나 죽였는데” 눈물 - 경향신문",
-        "zh": "[속보]대법, 아리셀 대표 ‘징역 15년→4년 감형’ 확정…유족 “23명이나 죽였는데” 눈물 - 경향신문"
-      }
-    },
-    {
-      "title": "화요일 곳곳에 추위 부르는 가을비…이비 지나면 ‘영하권 추위’ - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCYU54bFZRZVAwQWtzRThyVzdSSnZZYmJSWmtOOTdoRkhYbTJOZ1p4aGc2R3UxS3VITDRRaWdpTE42TUFSQUhSSVZzZXk5UGh3QlRpRkRMN1E5TVp3YnItc2U5YWlmQWljNUJUTA?oc=5",
-      "source": "한겨레",
-      "pubDate": "Tue, 20 Oct 2026 01:38:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "화요일 곳곳에 추위 부르는 가을비…이비 지나면 ‘영하권 추위’ - 한겨레",
-        "en": "화요일 곳곳에 추위 부르는 가을비…이비 지나면 ‘영하권 추위’ - 한겨레",
-        "zh": "화요일 곳곳에 추위 부르는 가을비…이비 지나면 ‘영하권 추위’ - 한겨레"
+        "ko": "[속보]법원, 오세훈 ‘여론조사 대납’ 2심 선고 23일 실시간 생중계 - 경향신문",
+        "en": "[속보]법원, 오세훈 ‘여론조사 대납’ 2심 선고 23일 실시간 생중계 - 경향신문",
+        "zh": "[속보]법원, 오세훈 ‘여론조사 대납’ 2심 선고 23일 실시간 생중계 - 경향신문"
       }
     },
     {
@@ -110,39 +98,27 @@
       }
     },
     {
-      "title": "개그맨 이혁재, 음주운전하다 오토바이 들이받아···공소청 송치 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpejEyd1lmZ3M1cnRjYVpUWm5UWUhNSldWUEFnVWdPQXQydU1ReUdjOTBEd1lySUowWDhTWHMzb1NodHpJeHo0c1l2RU9JYngzeVpESGVkLV9Bd9IBX0FVX3lxTFAtdFJQYnpqNkNHZlNDN2xfaHVuLXZPUUNnU0Q3Vmw1X0ZCZnh5dmhLbWZWbjVmbGpRVlJWQ2hyb3UzNzZJbWhJLVNBNThsZEF1cDN3UDdmaU5qUmR2MDhj?oc=5",
-      "source": "경향신문",
-      "pubDate": "Tue, 20 Oct 2026 01:29:00 GMT",
+      "title": "국무회의 첫 참석 김지용 \"중수청 정착시켜 검찰개혁 완수할 것\" - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yQ0lfLW5IUFhfRVM5OVdLaWV1QUE3MTlOZHZscklRR0FDVHQ0N2t1RUw2TktsRm0wU1A4T0hyTFNpRnY2aW9OV2dJTVJ3SVg0RzlnRFdER1RkMm13R0Z1dXJxd0dxdTFJZmpQcUVMcG1uYUF1aVBJ0gF3QVVfeXFMTkY1SFRIck1qSjNfdGZsMlYwU2lDd0RwV2tQd21KMURrZ3FNSnZOVmhTeU13WkdqaWNPWGhCOU9PdFpFTVNoZ25XYVFNdWdQa2NXRGFzcDZBcTRLMzN6SjRtQ0xMNlZTN1BlWTEtcUY4LXdmRlU5RFE?oc=5",
+      "source": "MBC 뉴스",
+      "pubDate": "Tue, 20 Oct 2026 04:49:10 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "summaries": {
-        "ko": "개그맨 이혁재, 음주운전하다 오토바이 들이받아···공소청 송치 - 경향신문",
-        "en": "개그맨 이혁재, 음주운전하다 오토바이 들이받아···공소청 송치 - 경향신문",
-        "zh": "개그맨 이혁재, 음주운전하다 오토바이 들이받아···공소청 송치 - 경향신문"
+        "ko": "국무회의 첫 참석 김지용 \"중수청 정착시켜 검찰개혁 완수할 것\" - MBC 뉴스",
+        "en": "국무회의 첫 참석 김지용 \"중수청 정착시켜 검찰개혁 완수할 것\" - MBC 뉴스",
+        "zh": "국무회의 첫 참석 김지용 \"중수청 정착시켜 검찰개혁 완수할 것\" - MBC 뉴스"
       }
     },
     {
-      "title": "[속보] 정부, 우크라 공관원 일부 철수 결정…\"전향적 조치 없어\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202610201500207X2",
-      "source": "Breaking News",
-      "pubDate": "Tue, 20 Oct 2026 15:00:21 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20261020/MYH202610201500207X2.jpg",
+      "title": "이 대통령, 순직 소방관에 “영원히 기억할 것”…군중 밀집시설 안전점검 주문 [지금뉴스] - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnRDQ3NVNobUIyMmVYeEhtX1hRT19FU0t6bG91VlQ4SzVTd2VqWkk4NFJFeUJZWm1HSGZ3MTBsTjRBU0xWV01hSjBaNUFrZTRsUGwyYmR2R2daeGc?oc=5",
+      "source": "KBS 뉴스",
+      "pubDate": "Tue, 20 Oct 2026 08:25:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "summaries": {
-        "ko": "정부는 북한군 포로 송환 공개 논란에 대한 우크라이나 측의 비협조적 태도에 항의하고 우크라이나 전역의 공습 위협을 고려하여 주우크라이나 공관원 일부를 철수하기로 결정했습니다.",
-        "en": "The South Korean government has decided to partially withdraw diplomatic staff from Ukraine, protesting Ukraine's uncooperative stance regarding the controversial public disclosure of North Korean POW repatriation and citing persistent air raid threats across the country.",
-        "zh": "韩国政府决定部分撤回驻乌克兰外交人员，此举旨在抗议乌克兰在公开朝鲜战俘遣返争议上的不合作态度，并考虑到乌克兰全境持续存在的空袭威胁。"
-      }
-    },
-    {
-      "title": "[속보] 정부 \"우크라이나 공관원 일부 철수 결정\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20261020144622W5w",
-      "source": "Breaking News",
-      "pubDate": "Tue, 20 Oct 2026 14:46:22 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20261020/AKR20261020144622W5w_01_i.jpg",
-      "summaries": {
-        "ko": "[속보] 정부 \"우크라이나 공관원 일부 철수 결정\"",
-        "en": "[속보] 정부 \"우크라이나 공관원 일부 철수 결정\"",
-        "zh": "[속보] 정부 \"우크라이나 공관원 일부 철수 결정\""
+        "ko": "이 대통령, 순직 소방관에 “영원히 기억할 것”…군중 밀집시설 안전점검 주문 [지금뉴스] - KBS 뉴스",
+        "en": "이 대통령, 순직 소방관에 “영원히 기억할 것”…군중 밀집시설 안전점검 주문 [지금뉴스] - KBS 뉴스",
+        "zh": "이 대통령, 순직 소방관에 “영원히 기억할 것”…군중 밀집시설 안전점검 주문 [지금뉴스] - KBS 뉴스"
       }
     }
   ]
