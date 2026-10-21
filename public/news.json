@@ -1,76 +1,100 @@
 {
-  "lastUpdate": "2026-10-20T22:35:38.867996",
+  "lastUpdate": "2026-10-21T00:50:48.007930",
   "items": [
     {
-      "title": "위기감 없는 민주당, 민심이 떠나간다 - 한겨레",
+      "title": "\"100만원 벌어봤자 74만원 사라진다\"…'그냥 쉼' 번진 유럽 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TdWdGa29MdURicHpjbmNVUC0weW5HVVdmSU5XRGFlZHVWLUMtUmI2RkZyMUozTXFWR01Gb21sQVJXcHRnWjltV0xRdE9TX0F0d244LVY1Q1dOQQ?oc=5",
+      "source": "한국경제",
+      "pubDate": "Tue, 20 Oct 2026 21:00:02 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "\"100만원 벌어봤자 74만원 사라진다\"…'그냥 쉼' 번진 유럽 - 한국경제",
+        "en": "\"100만원 벌어봤자 74만원 사라진다\"…'그냥 쉼' 번진 유럽 - 한국경제",
+        "zh": "\"100만원 벌어봤자 74만원 사라진다\"…'그냥 쉼' 번진 유럽 - 한국경제"
+      }
+    },
+    {
+      "title": "집안싸움, 막말, 과잉의전...‘나사 빠진’ 민주당, 민심 떠난다 - 한겨레",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUWDJjYXd0TnBqbHBDTU8wZUt3em16M0FLQlZrbFJHemYxWVNHR19sWDQweG9nc3YzY0tWU2ZyajI5WnFzZE5LY2xwMmJfNFBQOGM3cWhSZS1pM0pwd1hNZUhkeFFNa2dSc0hGRU56cU1DNnB2?oc=5",
       "source": "한겨레",
-      "pubDate": "Tue, 20 Oct 2026 21:46:00 GMT",
+      "pubDate": "Tue, 20 Oct 2026 23:18:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "summaries": {
-        "ko": "위기감 없는 민주당, 민심이 떠나간다 - 한겨레",
-        "en": "위기감 없는 민주당, 민심이 떠나간다 - 한겨레",
-        "zh": "위기감 없는 민주당, 민심이 떠나간다 - 한겨레"
+        "ko": "집안싸움, 막말, 과잉의전...‘나사 빠진’ 민주당, 민심 떠난다 - 한겨레",
+        "en": "집안싸움, 막말, 과잉의전...‘나사 빠진’ 민주당, 민심 떠난다 - 한겨레",
+        "zh": "집안싸움, 막말, 과잉의전...‘나사 빠진’ 민주당, 민심 떠난다 - 한겨레"
       }
     },
     {
-      "title": "“폭력 없인 시위 못 하나요?” 하나의 시위, 둘로 나뉜 프랑스 [특파원 리포트] - KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zYTViYlJxWkFsLUdvOHd1U2UwRnNmUDNoSTlfVzdfM0YxZ1JicmowQ3BtbkplYXVad21hT3ZUbW10T2Raelg5Q0dZZU9OUFB0bUJubERCOHdldkdFSDJNX3N0eTR4QQ?oc=5",
-      "source": "KBS 뉴스",
-      "pubDate": "Tue, 20 Oct 2026 20:38:27 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "“폭력 없인 시위 못 하나요?” 하나의 시위, 둘로 나뉜 프랑스 [특파원 리포트] - KBS 뉴스",
-        "en": "“폭력 없인 시위 못 하나요?” 하나의 시위, 둘로 나뉜 프랑스 [특파원 리포트] - KBS 뉴스",
-        "zh": "“폭력 없인 시위 못 하나요?” 하나의 시위, 둘로 나뉜 프랑스 [특파원 리포트] - KBS 뉴스"
-      }
-    },
-    {
-      "title": "70대 ‘특허법인 4년 원한’... 역삼동 같은 건물 연쇄방화 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3ZINnkzQmliZ3RKTHZoalN3VGVGcWx2UXZqdElTMTMtYi1yOWxUWUktQ2FpTWlBWW1wbWV4bHdVeGxNbk5lNmNoTk1QNGxMT1VIZnA0eWFDbUhldnh4Z2NPTnJYNUNkc183REt6OXMzUXQ0bklQalBiR0VSeGRxd2YzQlg1ZVZsWDhMenJjYnk?oc=5",
+      "title": "北, 사흘새 60회 경고 사격 받고도 MDL 계속 넘어왔다 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSWh4d0NzY1NEVFZGcHVOOUYyNFI0aVVoX20zM0ExLXJabzg0bnEzNlhPMGhtbHY3NVh5MDRGamtRR2RJUTdLZVFPNnhjYkdITzNWOWE1U0ZBTjVyTUtWSk9HYlVpUXNJWFFSdVFIRmlVS2lBTWlkZlFaUW9BNkNvVGVjT0JzS3NkT1Q3SlFXdFhkZw?oc=5",
       "source": "조선일보",
-      "pubDate": "Tue, 20 Oct 2026 13:07:00 GMT",
+      "pubDate": "Tue, 20 Oct 2026 15:50:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "summaries": {
-        "ko": "70대 ‘특허법인 4년 원한’... 역삼동 같은 건물 연쇄방화 - 조선일보",
-        "en": "70대 ‘특허법인 4년 원한’... 역삼동 같은 건물 연쇄방화 - 조선일보",
-        "zh": "70대 ‘특허법인 4년 원한’... 역삼동 같은 건물 연쇄방화 - 조선일보"
+        "ko": "北, 사흘새 60회 경고 사격 받고도 MDL 계속 넘어왔다 - 조선일보",
+        "en": "北, 사흘새 60회 경고 사격 받고도 MDL 계속 넘어왔다 - 조선일보",
+        "zh": "北, 사흘새 60회 경고 사격 받고도 MDL 계속 넘어왔다 - 조선일보"
       }
     },
     {
-      "title": "합참 “北 적반하장…DMZ 주도권 강화 작전 시행할 것” - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GazhZTTNBRDB0bjhfZXA2emg4MjdDSWFVckMtYm85b2Y1RHVRcjcwbTdOSmprWHJNbUNDWnY5cF9hQm1NbGNLbHRZaWJBMEw1ZXBlLWFjdzBRZGtBVVlOMDB0UlNCX2dWX2hiTmxPeFlLOG92VTJZ0gFmQVVfeXFMT3RpeTNnUy0yWFpYYi1KSDhxcUQ5QW1UbGRDZDN0NU1yV1N5NkVVM2d6bFZvLTQwY2gtWklMLUxFMzBYTTY1Umh2WXVWZkpxLUNOa3NEbGk0bDYyc1ZteXNZNmNRZklR?oc=5",
-      "source": "동아일보",
-      "pubDate": "Tue, 20 Oct 2026 00:56:00 GMT",
+      "title": "[속보] 역삼방화 70대 “3일 전부터 범행 준비”…수서경찰서 압송돼 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsQmdCOW1aQVZNanVxS0Y4QWdVMzRTNTZNVEtSS0ZHQTctbzN1djhrYV9pM01wVU5wLUNiWUE5MFM2Q09nQ215Nm9fZDQyUlplMzhQSg?oc=5",
+      "source": "매일경제",
+      "pubDate": "Tue, 20 Oct 2026 09:22:52 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "summaries": {
-        "ko": "합참 “北 적반하장…DMZ 주도권 강화 작전 시행할 것” - 동아일보",
-        "en": "합참 “北 적반하장…DMZ 주도권 강화 작전 시행할 것” - 동아일보",
-        "zh": "합참 “北 적반하장…DMZ 주도권 강화 작전 시행할 것” - 동아일보"
+        "ko": "[속보] 역삼방화 70대 “3일 전부터 범행 준비”…수서경찰서 압송돼 - 매일경제",
+        "en": "[속보] 역삼방화 70대 “3일 전부터 범행 준비”…수서경찰서 압송돼 - 매일경제",
+        "zh": "[속보] 역삼방화 70대 “3일 전부터 범행 준비”…수서경찰서 압송돼 - 매일경제"
       }
     },
     {
-      "title": "비 그치면 낮부터 강한 바람에 추위…내일 아침 서울 4도 - KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1maHd5UF9EWVRxamVnMWJZNlh4RnhaMnRwbVdmc1diZHN5dnpWQ2g5Q2NXZURUY2xSeWN0SGhFcVpmOFh6WXlsQW15Rkg1dlZxdGlnd1BKX0JNX28?oc=5",
-      "source": "KBS 뉴스",
-      "pubDate": "Tue, 20 Oct 2026 20:03:44 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "비 그치면 낮부터 강한 바람에 추위…내일 아침 서울 4도 - KBS 뉴스",
-        "en": "비 그치면 낮부터 강한 바람에 추위…내일 아침 서울 4도 - KBS 뉴스",
-        "zh": "비 그치면 낮부터 강한 바람에 추위…내일 아침 서울 4도 - KBS 뉴스"
-      }
-    },
-    {
-      "title": "노동자 23명 사망, 대표는 징역 4년…유가족은 다시 무너졌다 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVU1N1TE9HTUU5Q0pJTWRyVEROWjBMRGJPUmdORjNyS2RLbFVPQUZDNkl4NEJ2S3ZlWkNyOWdlbW1tNUEtVGtXa09FNGxMQ1FodXBMX2lnQkFSd9IBX0FVX3lxTE4yYkpfTU11NDNDR04tTWVFcWgxZ2dndFNKclEtODhyM0o0T2RiajBkUHg1eXR0QURiNEpsN1VCaW1nMkVZRWJCRkZRUV9KSjlxVjEwdnNYckd1TlQyOUdB?oc=5",
+      "title": "21일 낮부터 찬 바람에 기온 뚝···전국 곳곳 비 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5la0E2aWFQQ3RTbVRranpLenNNVFpMOUg2U2lIRkt4dGVpdTBoZDdVaC1NM1hEeUNfQ3d6RDhJc290YzZNRWdhdjQ4RUlheU15cXMzQTNVb0xuZw?oc=5",
       "source": "경향신문",
-      "pubDate": "Tue, 20 Oct 2026 12:30:00 GMT",
+      "pubDate": "Tue, 20 Oct 2026 22:46:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "summaries": {
-        "ko": "노동자 23명 사망, 대표는 징역 4년…유가족은 다시 무너졌다 - 경향신문",
-        "en": "노동자 23명 사망, 대표는 징역 4년…유가족은 다시 무너졌다 - 경향신문",
-        "zh": "노동자 23명 사망, 대표는 징역 4년…유가족은 다시 무너졌다 - 경향신문"
+        "ko": "21일 낮부터 찬 바람에 기온 뚝···전국 곳곳 비 - 경향신문",
+        "en": "21일 낮부터 찬 바람에 기온 뚝···전국 곳곳 비 - 경향신문",
+        "zh": "21일 낮부터 찬 바람에 기온 뚝···전국 곳곳 비 - 경향신문"
+      }
+    },
+    {
+      "title": "젤렌스키 \"미국이 패트리엇 주면 러 공격 중단\" - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14cVlsT2VuVzhyZzg0bmd0WHBtUXpCSTh6RHBaeUdzU0pGRWFlbmJEN242WWd3MTZLdGhWSlNQLTFHSk1EZUw5ZVdhbWVmX2J1MEVuOFJpa2tQZ0RyNkRmV3l0Q1IwUTZocVdBWmx2azBqb3cx0gF0QVVfeXFMT2FicjVWR3V3M0NIdkUyT09iRkFnSkU4Zm40ZktKSzh0M1FWVUw1bk9Jay02aG1HTVVkcUJyLUFWM3lXc3lrZ3FNYmpPVDJnV24xWFFVaDJaR1NWcFUwSTlmYUJsRnoxejB2amdEOFF6cF9nWTY?oc=5",
+      "source": "MBC 뉴스",
+      "pubDate": "Tue, 20 Oct 2026 06:08:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "젤렌스키 \"미국이 패트리엇 주면 러 공격 중단\" - MBC 뉴스",
+        "en": "젤렌스키 \"미국이 패트리엇 주면 러 공격 중단\" - MBC 뉴스",
+        "zh": "젤렌스키 \"미국이 패트리엇 주면 러 공격 중단\" - MBC 뉴스"
+      }
+    },
+    {
+      "title": "‘아리셀 참사’로 23명 숨졌는데 징역 4년…“악마의 판결” 비판 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDa2pBWTBjeFFzT19Yb3VEX1BJLU5ZemRuWGFMRWwxQ0ZHTm5kam1xZkJobC0xcVVWSGUzd1gtMWpzWS05ZjNoT1AwWG9LdTRwVFd4cG1pY29QNUZuS0gtTnl2Mzk?oc=5",
+      "source": "한겨레",
+      "pubDate": "Tue, 20 Oct 2026 12:06:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "‘아리셀 참사’로 23명 숨졌는데 징역 4년…“악마의 판결” 비판 - 한겨레",
+        "en": "‘아리셀 참사’로 23명 숨졌는데 징역 4년…“악마의 판결” 비판 - 한겨레",
+        "zh": "‘아리셀 참사’로 23명 숨졌는데 징역 4년…“악마의 판결” 비판 - 한겨레"
+      }
+    },
+    {
+      "title": "눈 감고 귀 닫고 나무부터 벤다…용인 반도체 산단 ‘위험한 속도전’ - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tZlFlaWZTbEJuUVJSbnRZWjFjOTBzRGJNNXBzc0NoLWpxQ0J4LXJITjNFTElJbWFCWHhyWUhBZGVVbVlfa0Z2MEU4Z29yUEF5clZJdmsxTHUtd9IBX0FVX3lxTE5YVUhDcTQwOUkxbUtMdU5VVzd4S3hiOE9oUVVHVjc2UTJXcWhzYkhZMEVCV0VuYnFGMXl1WjE2eDBPRG9lS3FHLWpyVDhnY056bmNycE1oUVJRa3VMQ3g0?oc=5",
+      "source": "경향신문",
+      "pubDate": "Tue, 20 Oct 2026 08:06:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "눈 감고 귀 닫고 나무부터 벤다…용인 반도체 산단 ‘위험한 속도전’ - 경향신문",
+        "en": "눈 감고 귀 닫고 나무부터 벤다…용인 반도체 산단 ‘위험한 속도전’ - 경향신문",
+        "zh": "눈 감고 귀 닫고 나무부터 벤다…용인 반도체 산단 ‘위험한 속도전’ - 경향신문"
       }
     },
     {
@@ -98,27 +122,15 @@
       }
     },
     {
-      "title": "李, ‘3기 신도시’ 계양 찾아 “신속공급이 부동산정책 성패 갈라” - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yZlhzZ0VDTWxJMUdUOWdRMDVaNHpMV2lBSU5GU2RjalF0WWp1M2hiSEVmc1QzakJzcDltY1BaQmxkRHdHNDl6QW5Wb1ZxTEJFY2l2cjZfaFFJRjlWa0x0ZXZZbHRuaGZEYlViZnpfdE5jLVpzdG1j0gFmQVVfeXFMTXZXVDl5YlhuZ2FFQ1ZKVWRwaTdvTC1EVDY2amdYNGgzZ2pQX0NBWXBhbFNRX2laX3pRbkltc2JBeFhndl9kSGw5X2I5MGprTEU4bHh5OXV2ZGVHRWY2T2s5cWhQbEJ3?oc=5",
-      "source": "동아일보",
-      "pubDate": "Tue, 20 Oct 2026 08:30:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "title": "[속보] 與, '소방재정 설화' 추미애·부승찬에 경고…최고위 결정",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20261021093945E3Z",
+      "source": "Breaking News",
+      "pubDate": "Wed, 21 Oct 2026 09:39:47 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20261021/AKR20261021093945E3Z_01_i.jpg",
       "summaries": {
-        "ko": "李, ‘3기 신도시’ 계양 찾아 “신속공급이 부동산정책 성패 갈라” - 동아일보",
-        "en": "李, ‘3기 신도시’ 계양 찾아 “신속공급이 부동산정책 성패 갈라” - 동아일보",
-        "zh": "李, ‘3기 신도시’ 계양 찾아 “신속공급이 부동산정책 성패 갈라” - 동아일보"
-      }
-    },
-    {
-      "title": "이 대통령, \"모든 위협으로부터 국민 일상 지키는 데 국정 역량 집중\" - 대한민국 정책브리핑",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NclN5cVFKR28zWlVCMHExdmFHbVVTdlBkTVJRUmFMUFBhNC0wcVl5dDlENXZqalJHUVh2ODFQbHNnUDBOckhkT2ZZSHhqV1dwSTM5WG9TYVJTX3BUUFdibWtQNDJhTGt4SHhjZQ?oc=5",
-      "source": "대한민국 정책브리핑",
-      "pubDate": "Tue, 20 Oct 2026 08:03:53 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "이 대통령, \"모든 위협으로부터 국민 일상 지키는 데 국정 역량 집중\" - 대한민국 정책브리핑",
-        "en": "이 대통령, \"모든 위협으로부터 국민 일상 지키는 데 국정 역량 집중\" - 대한민국 정책브리핑",
-        "zh": "이 대통령, \"모든 위협으로부터 국민 일상 지키는 데 국정 역량 집중\" - 대한민국 정책브리핑"
+        "ko": "[속보] 與, '소방재정 설화' 추미애·부승찬에 경고…최고위 결정",
+        "en": "[속보] 與, '소방재정 설화' 추미애·부승찬에 경고…최고위 결정",
+        "zh": "[속보] 與, '소방재정 설화' 추미애·부승찬에 경고…최고위 결정"
       }
     }
   ]
