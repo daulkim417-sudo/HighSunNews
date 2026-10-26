@@ -1,124 +1,136 @@
 {
-  "lastUpdate": "2026-10-25T22:37:41.078757",
+  "lastUpdate": "2026-10-26T00:41:23.978592",
   "items": [
     {
-      "title": "오세훈, ‘유죄’서 ‘무죄’로…‘명태균 진술 신빙성’에 뒤집혔다 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DYXgzYzdMcmVqLUZOd01GZUFhTmQwTHNOcjc0RE5aUzd4dFpEQkRNNUJGVFJWcnI0ZkxLTjRlQi0zNWIyMF9lR1JBcjFLMk45czRjUEluQWFzQdIBX0FVX3lxTE8xNWhoakh6NXJ4SjVYWDM2Y3lFMHZlc090aDFRWW9iSllJSzRlb0xYeWRwY1dpa2x0WVZfY2h1WDY1bUx1Q0g0VGRZY1kwbTVaOEgwYlNRUnhYSnpTOU1F?oc=5",
-      "source": "경향신문",
-      "pubDate": "Sun, 25 Oct 2026 12:30:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "오세훈, ‘유죄’서 ‘무죄’로…‘명태균 진술 신빙성’에 뒤집혔다 - 경향신문",
-        "en": "오세훈, ‘유죄’서 ‘무죄’로…‘명태균 진술 신빙성’에 뒤집혔다 - 경향신문",
-        "zh": "오세훈, ‘유죄’서 ‘무죄’로…‘명태균 진술 신빙성’에 뒤집혔다 - 경향신문"
-      }
-    },
-    {
-      "title": "프랑스 시위, 약탈 재연 면해…산발 충돌에 1,300명 체포 - 연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54emtmeFgxYXYySzV0QnBmTDZLZW15cUxmdmMxWlZDYTdqcGF2ckJzWmdyVXp4emw1Ql9vRXBtZWtfN2lJN3R5ZjFSdFVDZXRVODMxMW9uTjlXR1VfdkxJT2dHUU02V2c?oc=5",
-      "source": "연합뉴스TV",
-      "pubDate": "Sun, 25 Oct 2026 20:38:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "프랑스 시위, 약탈 재연 면해…산발 충돌에 1,300명 체포 - 연합뉴스TV",
-        "en": "프랑스 시위, 약탈 재연 면해…산발 충돌에 1,300명 체포 - 연합뉴스TV",
-        "zh": "프랑스 시위, 약탈 재연 면해…산발 충돌에 1,300명 체포 - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "김정은, 중국 단둥 전격 방문…북중 “전략적 협력 강화” - VOA 한국어 홈페이지",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lb09oNEpib051NUpNZDdXTmU3bEhHaUZKNGw4N3BNNG5qeXpab1Z0LXMycGtqbV9zVUE0dlFySFBSYl96VFFkcjhFSlJ5ckhq0gFTQVVfeXFMT2pJM1A1dGE5eVE4N1hDdVRZRHVPTWx4VjhlS0N5RGp6dWdrQWhBdmpic1QtYXJHQm1xcTBzNU02NEwxN0NiZnpzR2Q3QlJQcGhsLWM?oc=5",
-      "source": "VOA 한국어 홈페이지",
-      "pubDate": "Sun, 25 Oct 2026 14:35:55 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "김정은, 중국 단둥 전격 방문…북중 “전략적 협력 강화” - VOA 한국어 홈페이지",
-        "en": "김정은, 중국 단둥 전격 방문…북중 “전략적 협력 강화” - VOA 한국어 홈페이지",
-        "zh": "김정은, 중국 단둥 전격 방문…북중 “전략적 협력 강화” - VOA 한국어 홈페이지"
-      }
-    },
-    {
-      "title": "미군, ‘중간선거 후 이란 공격’ 계획 보고…백악관 승인 땐 실행 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yM2tvNnUwbGdTb2JJcC1kRGJ0aUcxNVB4Y3V0c3RMWEFUbW5tTERKWndZQjBua1RGQmlWYzFYcWRkM1RpNnRzbTEweVJBc3ZzSGNBRDBlQThfR3ZoOXc5cy14MDlWbm5Wdm5oVWNUbzN0VWs?oc=5",
+      "title": "사법리스크 턴 오세훈 광폭행보…보수 ‘주도권 경쟁’ 격화 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UTjhuN1pJTkVha1hWa0ZoSnp4bWdvT0VQaHAtd19MOWRTeXoxZVNJclN0c2FnWnV2ZGh5M3JCd3ZpenJ3dTBUa25rR0xMcDA5MXJTYTBNTUdoaUVRWTVTLUNDeWJQcXJxX0tZUEtNTlA3UDJR?oc=5",
       "source": "한겨레",
-      "pubDate": "Sun, 25 Oct 2026 16:26:00 GMT",
+      "pubDate": "Sun, 25 Oct 2026 12:47:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "summaries": {
-        "ko": "미군, ‘중간선거 후 이란 공격’ 계획 보고…백악관 승인 땐 실행 - 한겨레",
-        "en": "미군, ‘중간선거 후 이란 공격’ 계획 보고…백악관 승인 땐 실행 - 한겨레",
-        "zh": "미군, ‘중간선거 후 이란 공격’ 계획 보고…백악관 승인 땐 실행 - 한겨레"
+        "ko": "사법리스크 턴 오세훈 광폭행보…보수 ‘주도권 경쟁’ 격화 - 한겨레",
+        "en": "사법리스크 턴 오세훈 광폭행보…보수 ‘주도권 경쟁’ 격화 - 한겨레",
+        "zh": "사법리스크 턴 오세훈 광폭행보…보수 ‘주도권 경쟁’ 격화 - 한겨레"
       }
     },
     {
-      "title": "태풍 영향 벗어나고 오후부터는 ‘고요한 가을’ - KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TT1FCYzQxTjVHTEdMbU8yTi0wVnlqWTRyd0N2dWFBRUtFdWdJXzBCamRVWThTTDVJaFNxblI3c0YzVEtManFKMWtlSmlRTFJiMkJadmNVd2tnQzA?oc=5",
-      "source": "KBS 뉴스",
-      "pubDate": "Sun, 25 Oct 2026 22:03:00 GMT",
+      "title": "오바마·트럼프, 美 중간선거 맞불 유세… ‘무능·부패’ 공방 - 천지일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pWFdZb0NiRzJOUjMzZHk2TE9VZDhQQ1NVZTkzTENUMTRLb1VyNFc0VXNfRy1NV0JXRTZQcGtnN3BSOXBaT0xlS3MxdVVweGNMb0dNTDlDVHVoN29lLWtObW1UeWwwS2piWHc?oc=5",
+      "source": "천지일보",
+      "pubDate": "Sun, 25 Oct 2026 16:00:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "summaries": {
-        "ko": "태풍 영향 벗어나고 오후부터는 ‘고요한 가을’ - KBS 뉴스",
-        "en": "태풍 영향 벗어나고 오후부터는 ‘고요한 가을’ - KBS 뉴스",
-        "zh": "태풍 영향 벗어나고 오후부터는 ‘고요한 가을’ - KBS 뉴스"
+        "ko": "오바마·트럼프, 美 중간선거 맞불 유세… ‘무능·부패’ 공방 - 천지일보",
+        "en": "오바마·트럼프, 美 중간선거 맞불 유세… ‘무능·부패’ 공방 - 천지일보",
+        "zh": "오바마·트럼프, 美 중간선거 맞불 유세… ‘무능·부패’ 공방 - 천지일보"
       }
     },
     {
-      "title": "외국인 대상 건강보험 흑자 ‘1조원’ 돌파 - 한국일보",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBINlFXNXh5RnIyNmVRVWJicEJtVkQ1WVY3WjB5bENWcUxsTjcwTGVLdXFKQi1hMktKZmpsUENEbHlSR2lwbXpSWG5wWGtDeWg5NElGT29ERnZiMGV4M0FyTUlXU25yaVVoVEZMNUJR0gFzQVVfeXFMTy1lX3ZsNjZjU2hGQVJYUzRwNGVfcTFKeFBBaHpJQTdMbHRaQ1JPUkJUZWZSVTNaazFYU3VoOVBoS0R6b0dCY21EeUhRWWJEanJTTnB2aC16N0hnN1ZIeXNodEo1ZVd5LWN3LUNybFNLLWljRQ?oc=5",
-      "source": "한국일보",
-      "pubDate": "Sun, 25 Oct 2026 10:02:00 GMT",
+      "title": "프랑스 시위 41만 명 참가…경찰 7만 명 투입·1천 명 체포 - VOA 한국어 홈페이지",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82c0d5RVNRZE5pQ2tiYlp6M09TTW1WSGVwX2g4QUZZZC1YVXpjQzJrU0tUM0FBd0wxbFFfZG1kZ3VJYjlGNVA3dk82Wm8wTnBz0gFTQVVfeXFMTmhfbU5selRrU2hWaG9TdnpER1JpT0FPYnZ0X1ozUzJOaEdmRzNyb25BUUF2UXZDUEhKRUM0eDdHTk9IUjh0Q1R1LVZhM0l5RGZPZzg?oc=5",
+      "source": "VOA 한국어 홈페이지",
+      "pubDate": "Sun, 25 Oct 2026 20:11:06 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "summaries": {
-        "ko": "외국인 대상 건강보험 흑자 ‘1조원’ 돌파 - 한국일보",
-        "en": "외국인 대상 건강보험 흑자 ‘1조원’ 돌파 - 한국일보",
-        "zh": "외국인 대상 건강보험 흑자 ‘1조원’ 돌파 - 한국일보"
+        "ko": "프랑스 시위 41만 명 참가…경찰 7만 명 투입·1천 명 체포 - VOA 한국어 홈페이지",
+        "en": "프랑스 시위 41만 명 참가…경찰 7만 명 투입·1천 명 체포 - VOA 한국어 홈페이지",
+        "zh": "프랑스 시위 41만 명 참가…경찰 7만 명 투입·1천 명 체포 - VOA 한국어 홈페이지"
       }
     },
     {
-      "title": "한동훈 “사건핑퐁 예견됐던 일…민주당 고의, 지옥문 열려 행복한가” - 문화일보",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MRmh3a0RodnJzdU8zZG15a2E0dWtRbFNIU1o2UzdiR2h4a2FteEtadW1ObkRPY0lqSThpWEs3MVFaS0hmLVFQNGhzV2hMR0k4?oc=5",
-      "source": "문화일보",
-      "pubDate": "Sun, 25 Oct 2026 08:26:19 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "한동훈 “사건핑퐁 예견됐던 일…민주당 고의, 지옥문 열려 행복한가” - 문화일보",
-        "en": "한동훈 “사건핑퐁 예견됐던 일…민주당 고의, 지옥문 열려 행복한가” - 문화일보",
-        "zh": "한동훈 “사건핑퐁 예견됐던 일…민주당 고의, 지옥문 열려 행복한가” - 문화일보"
-      }
-    },
-    {
-      "title": "韓 압박하면서 러 에너지 기업과 거래… 트럼프, 알래스카 LNG 사업 ‘양다리’ - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd3lTendsem5jZzBVWFNsNngyeEF5d1BoaVRFUFBhbXltZnZiREJyVWhGV3p4MGxCeVNBbjFiQUNUWUl6dzM0QXB2SGtlYnFEMFpOMWxXUlRrbHZOb2paU2lsTGpLck5fT0RfdDlNdnZvZTVjMUF6RFJBR3YxN1dJdk9ZLWExTkY2Z1BvNDY5bV9neFo4M3V2clBiVXY3QQ?oc=5",
-      "source": "조선일보",
-      "pubDate": "Sun, 25 Oct 2026 15:44:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "韓 압박하면서 러 에너지 기업과 거래… 트럼프, 알래스카 LNG 사업 ‘양다리’ - 조선일보",
-        "en": "韓 압박하면서 러 에너지 기업과 거래… 트럼프, 알래스카 LNG 사업 ‘양다리’ - 조선일보",
-        "zh": "韓 압박하면서 러 에너지 기업과 거래… 트럼프, 알래스카 LNG 사업 ‘양다리’ - 조선일보"
-      }
-    },
-    {
-      "title": "'역삼 연쇄 방화' 프로파일러 투입...'살해 고의' 입증 주력 - YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KSHhYU2VfcmFSdldPTTdBVnNmbUJnRXctaERCNTN0eEttekEtQmNNV0dwbHRyc2dqT1FTblR0aW55Y1luSkVnZzhyaWRSaG41WUExZ1FOWVo0SUF1WEE?oc=5",
-      "source": "YTN",
-      "pubDate": "Sun, 25 Oct 2026 14:16:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "'역삼 연쇄 방화' 프로파일러 투입...'살해 고의' 입증 주력 - YTN",
-        "en": "'역삼 연쇄 방화' 프로파일러 투입...'살해 고의' 입증 주력 - YTN",
-        "zh": "'역삼 연쇄 방화' 프로파일러 투입...'살해 고의' 입증 주력 - YTN"
-      }
-    },
-    {
-      "title": "법무장관에 박균택·양부남 유력 검토…이 대통령 막판 고심 - 연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnT3JSeG9vWnRYVXFxVW1VUExxRWR5YnlwUm9iVTFnalNqak5heU94Q3JDdmhNd0xnUDA2cm1tVU53Wl85emZDQmMwMUYzTlJ0Uy1tRHNkZXJSbVlZeXZBdks4cVo3VVE?oc=5",
+      "title": "알래스카 ’동명이인 투표’ 소송 논란…미 법무 “불복 의도 아냐“ - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11RzlEZlJFZWg2SE5zSnVwck4zUmpJX0dHZ201aFcwNjdhZDVhbGpTOG81SEpmd21HQlJnT29CbDkxX0dsQkZ2VlhUWXhSNmFBQVVjblJfbkdxMS1ZV1ptcjhyUXh2dlE?oc=5",
       "source": "연합뉴스TV",
-      "pubDate": "Sun, 25 Oct 2026 00:43:00 GMT",
+      "pubDate": "Sun, 25 Oct 2026 22:58:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "summaries": {
-        "ko": "법무장관에 박균택·양부남 유력 검토…이 대통령 막판 고심 - 연합뉴스TV",
-        "en": "법무장관에 박균택·양부남 유력 검토…이 대통령 막판 고심 - 연합뉴스TV",
-        "zh": "법무장관에 박균택·양부남 유력 검토…이 대통령 막판 고심 - 연합뉴스TV"
+        "ko": "알래스카 ’동명이인 투표’ 소송 논란…미 법무 “불복 의도 아냐“ - 연합뉴스TV",
+        "en": "알래스카 ’동명이인 투표’ 소송 논란…미 법무 “불복 의도 아냐“ - 연합뉴스TV",
+        "zh": "알래스카 ’동명이인 투표’ 소송 논란…미 법무 “불복 의도 아냐“ - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "김정은 방중 목적은 동맹 과시와 경협...북·미 대화와 직접 관련 없어 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LbUdzdUhjS3oydkl2X0hkeEgyVkw1SDkzZFVGWXJPMEJuQTZpU0NQUGJDYW5RUERCUnZKUVdGdGZJNVFFcG12NG1kVzY0YnZjVncwa3JXVGNfZFh5?oc=5",
+      "source": "뉴스핌",
+      "pubDate": "Sun, 25 Oct 2026 21:10:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "김정은 방중 목적은 동맹 과시와 경협...북·미 대화와 직접 관련 없어 - 뉴스핌",
+        "en": "김정은 방중 목적은 동맹 과시와 경협...북·미 대화와 직접 관련 없어 - 뉴스핌",
+        "zh": "김정은 방중 목적은 동맹 과시와 경협...북·미 대화와 직접 관련 없어 - 뉴스핌"
+      }
+    },
+    {
+      "title": "태풍 ‘참피’ 온대저기압으로 약화…제주 강풍·풍랑 주의 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDR0lfRUdVVXdqNW5jWkV2dzg5V28zMVlPeDc1Y0VBWHQwV29tcUlyT2lKUThZdTFNTXVJeUNvSm1VSEg5RTdlLWVGYUhaSGhfTzFhRk5HbHdQd9IBX0FVX3lxTE03N2VRUXJyOTZXVWQ3TTkycHFPd041VE84VnJNNFN2cWplR3FzRldieURpSWI0TjYxajB6czRmRm1jUmpsb3JDUHhDWlNNd05hXzRrSGlhR0gzaWozcnY0?oc=5",
+      "source": "경향신문",
+      "pubDate": "Sun, 25 Oct 2026 23:16:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "태풍 ‘참피’ 온대저기압으로 약화…제주 강풍·풍랑 주의 - 경향신문",
+        "en": "태풍 ‘참피’ 온대저기압으로 약화…제주 강풍·풍랑 주의 - 경향신문",
+        "zh": "태풍 ‘참피’ 온대저기압으로 약화…제주 강풍·풍랑 주의 - 경향신문"
+      }
+    },
+    {
+      "title": "남쪽으로 포구 향한 北 122mm ’자주포’ 포착…전진 배치로 ’무력 시위’ - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BRTNSUm1mS2l4TEM0UzdMMlhUcXZLaklVUnZaTDFreDNLTUk4emxaaDNWa05TSUwzMjJUMTJMMzFwRWptQXFGa0RmRFdKSWZRUEFNWXlfejVpTGdteHpoSDA2bkhiaDA?oc=5",
+      "source": "연합뉴스TV",
+      "pubDate": "Sun, 25 Oct 2026 10:58:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "남쪽으로 포구 향한 北 122mm ’자주포’ 포착…전진 배치로 ’무력 시위’ - 연합뉴스TV",
+        "en": "남쪽으로 포구 향한 北 122mm ’자주포’ 포착…전진 배치로 ’무력 시위’ - 연합뉴스TV",
+        "zh": "남쪽으로 포구 향한 北 122mm ’자주포’ 포착…전진 배치로 ’무력 시위’ - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "北 \"자작극에 불과\"...지뢰도발 발뺌 유엔 안보리에 서한 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCSFRUTXZkRnNudFRRR3B2M25DR2ZhLVVuN0xSZ0FSU2RRSFpaTGtYcGlKakp6ajFoLW9Ka2dyU1RsSnpheGFWanQxcjZ0blQ1Y2N3cVZVT2NqRlN3?oc=5",
+      "source": "뉴스핌",
+      "pubDate": "Sun, 25 Oct 2026 22:01:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "北 \"자작극에 불과\"...지뢰도발 발뺌 유엔 안보리에 서한 - 뉴스핌",
+        "en": "北 \"자작극에 불과\"...지뢰도발 발뺌 유엔 안보리에 서한 - 뉴스핌",
+        "zh": "北 \"자작극에 불과\"...지뢰도발 발뺌 유엔 안보리에 서한 - 뉴스핌"
+      }
+    },
+    {
+      "title": "법무장관에 ‘이재명의 변호사’ 박균택·양부남 검토 중 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fT0NGeG5vZ0ZFMUhiNUUyU2h0dXZqaVFUa2xGWXlOV2NJemxub2MzU3plZ1NCR0tpQnU1YzlPWnJCUWU1R2pTS3J4N0tBRXoxNEJ5RzFqUDduUdIBX0FVX3lxTE0zMG1GZUpqRFJGZDBVWk5FS2t1ZHZFdzNRZkRvVGpxY2V1WHhtUnBqaEFjMjdYcEJXQ29yNVB1ekxyR1Brdkd0cGJCaFNvRk5EWFFUUkVoTVdhQ29PRm9j?oc=5",
+      "source": "경향신문",
+      "pubDate": "Sun, 25 Oct 2026 13:01:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "법무장관에 ‘이재명의 변호사’ 박균택·양부남 검토 중 - 경향신문",
+        "en": "법무장관에 ‘이재명의 변호사’ 박균택·양부남 검토 중 - 경향신문",
+        "zh": "법무장관에 ‘이재명의 변호사’ 박균택·양부남 검토 중 - 경향신문"
+      }
+    },
+    {
+      "title": "[날씨] 수도권, 금주 영하권 진입· · ·내륙과 산지 \"서리 또는 얼음\" - 국제뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vZFpRR0l4WERkRS0tWTUxLXQ1Zm42dWdRSlk1bHJNS2k3R3NSUkc4YVlBOGJLRHMzcmZwQXlvRzV0ZUZmOFdCcnh0eUdWeE9TRGVybkU5M3pQRllESEJMajBxVzNfTTdsb3JBRXNB?oc=5",
+      "source": "국제뉴스",
+      "pubDate": "Sun, 25 Oct 2026 15:20:21 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "[날씨] 수도권, 금주 영하권 진입· · ·내륙과 산지 \"서리 또는 얼음\" - 국제뉴스",
+        "en": "[날씨] 수도권, 금주 영하권 진입· · ·내륙과 산지 \"서리 또는 얼음\" - 국제뉴스",
+        "zh": "[날씨] 수도권, 금주 영하권 진입· · ·내륙과 산지 \"서리 또는 얼음\" - 국제뉴스"
+      }
+    },
+    {
+      "title": "[속보] 선관위 특검 \"모레 오전 올림픽공원 투표지 검증\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20261026090945SD7",
+      "source": "Breaking News",
+      "pubDate": "Mon, 26 Oct 2026 09:09:47 +0900",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20261026/MYH20261026090945SD7.jpg",
+      "summaries": {
+        "ko": "선관위 특검은 오는 수요일 오전 9시 올림픽공원에서 6.3지방선거 송파구 투표지 약 247만 장과 현장 CCTV 등을 검증하여 투표지의 증감 및 위조 여부와 관련 장비를 점검할 예정입니다.",
+        "en": "The National Election Commission Special Prosecutor announced that it will verify approximately 2.47 million Songpa-gu ballots from the 6.3 local elections and on-site CCTV footage at Olympic Park this Wednesday at 9 AM to check for ballot fluctuations, forgery, and related equipment.",
+        "zh": "选举委员会特别检察官宣布，将于本周三上午9点在奥林匹克公园对6.3地方选举中松坡区约247万张选票及现场监控录像进行验证，以检查选票的增减、伪造情况及相关设备。"
       }
     }
   ]
