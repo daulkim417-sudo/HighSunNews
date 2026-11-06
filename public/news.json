@@ -1,40 +1,76 @@
 {
-  "lastUpdate": "2026-11-05T22:14:35.426134",
+  "lastUpdate": "2026-11-06T02:26:55.068834",
   "items": [
     {
-      "title": "중간선거 참패에 이란전 ‘진퇴양난’ 트럼프…공습도 협상도 난관 - 한겨레",
+      "title": "이 대통령 “대통령이 SNS 왜 하냐는데…SNS에도 사람이 산다” [지금뉴스] - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IWXN0Z1Y1MmZ2bTNmYjNvNFAzQ2IwQkhOdFpJUGZsWWVYeXNEWFdYRXlOWVVrb0o2azY4bVJ4X29kMXpxZHl3TWI4VTZSZ1JMTlF2Wk92SEhIQkk?oc=5",
+      "source": "KBS 뉴스",
+      "pubDate": "Fri, 06 Nov 2026 01:32:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "이 대통령 “대통령이 SNS 왜 하냐는데…SNS에도 사람이 산다” [지금뉴스] - KBS 뉴스",
+        "en": "이 대통령 “대통령이 SNS 왜 하냐는데…SNS에도 사람이 산다” [지금뉴스] - KBS 뉴스",
+        "zh": "이 대통령 “대통령이 SNS 왜 하냐는데…SNS에도 사람이 산다” [지금뉴스] - KBS 뉴스"
+      }
+    },
+    {
+      "title": "김민석 “종교의 정치개입 우려 제기·경고 과정에서 상처 입으신 분 죄송” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZVUwtTW5WNTNaZlo2ejk1M0E5RTZ5WXNoVXR6QXhwYWx1azBNbGdtM3d1M0xhRjFLU05NRzhxZU1DZzFCX014M2RnNEJjZTFXckpxVVg1d0hhcERFc0xHVm5BYWxIZTBTeUpRc2VSTE90bEVy?oc=5",
+      "source": "한겨레",
+      "pubDate": "Fri, 06 Nov 2026 00:43:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "김민석 “종교의 정치개입 우려 제기·경고 과정에서 상처 입으신 분 죄송” - 한겨레",
+        "en": "김민석 “종교의 정치개입 우려 제기·경고 과정에서 상처 입으신 분 죄송” - 한겨레",
+        "zh": "김민석 “종교의 정치개입 우려 제기·경고 과정에서 상처 입으신 분 죄송” - 한겨레"
+      }
+    },
+    {
+      "title": "미국선 승리 비유, 일본선 재난 기억…‘블루 쓰나미’ 표현 논란 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZS09DdWNmNUxITkZubnJ0R0RjMTFUblFpc3ZrMUhSenljanJvRmtxN2xQSmZ1NFhqUVZkY09GaUZGalp3V3JWdWdIVGRQdXFLUGhuVm1KY2dYQdIBX0FVX3lxTE1LLUhWQ2w2c3d6SlowclVTemZrNDQ5YTQ1cVJNQUN3TnlOaWRycWZRTUlxQUUyV0dkX1F4UnFiN0gzU3EwbEZUTm9UWWlyOV9JQU9ZLUxUUkpQRURHRi1R?oc=5",
+      "source": "경향신문",
+      "pubDate": "Thu, 05 Nov 2026 22:16:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "미국선 승리 비유, 일본선 재난 기억…‘블루 쓰나미’ 표현 논란 - 경향신문",
+        "en": "미국선 승리 비유, 일본선 재난 기억…‘블루 쓰나미’ 표현 논란 - 경향신문",
+        "zh": "미국선 승리 비유, 일본선 재난 기억…‘블루 쓰나미’ 표현 논란 - 경향신문"
+      }
+    },
+    {
+      "title": "이원석 전 검찰총장 \"조작기소 특검법, 권력분립 무너뜨리는 위헌 입법\" - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcGpMdFBUMjRXbVNpUWE4M2xEQmJhX1BSR1A1LXg4akJlT0VsaXUwaGl6Uk90SGxXT3BuczJEa2R0d3JSRHZuMUk3WTJOZ0gybkdqNEZrdFExR3FTMjJFLWVsZzhQTmtOWjdJZXpDQ19uQ0NwZUNvbnFhQ1dubXlDdk1sRnR3d2M?oc=5",
+      "source": "조선일보",
+      "pubDate": "Fri, 06 Nov 2026 01:18:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "이원석 전 검찰총장 \"조작기소 특검법, 권력분립 무너뜨리는 위헌 입법\" - 조선일보",
+        "en": "이원석 전 검찰총장 \"조작기소 특검법, 권력분립 무너뜨리는 위헌 입법\" - 조선일보",
+        "zh": "이원석 전 검찰총장 \"조작기소 특검법, 권력분립 무너뜨리는 위헌 입법\" - 조선일보"
+      }
+    },
+    {
+      "title": "윤석열 “판결 마음에 안 든다고 사법부 수장 모욕”…여권 비판도 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EbHhSQUo2cDRILWViem9tb29Ldl81M3RWRTRBVjJJMFV6TlMzdkF0R1kwUFpnTlJ0am1vQkxFYUFhdzFnTEZpdHlZcnRzdUJSMk1OUHZGYjd6RmRwSEZoYVMwZkk1ZVhBNHpQbmxVQnYyQQ?oc=5",
+      "source": "한겨레",
+      "pubDate": "Thu, 05 Nov 2026 13:12:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "윤석열 “판결 마음에 안 든다고 사법부 수장 모욕”…여권 비판도 - 한겨레",
+        "en": "윤석열 “판결 마음에 안 든다고 사법부 수장 모욕”…여권 비판도 - 한겨레",
+        "zh": "윤석열 “판결 마음에 안 든다고 사법부 수장 모욕”…여권 비판도 - 한겨레"
+      }
+    },
+    {
+      "title": "트럼프 중간선거 참패에 이란전 ‘진퇴양난’…공습도 협상도 어렵다 - 한겨레",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OU0c0TGd0Tzd4cTVQSUtESmlMRV83OFdCWGNVSktSSnkwX3NLYmRVaGxzM0lmZTNDT2JLTlk4RnBTdWtHZ1RWVklkU2JNRm9aVjJvTWNBbnl1UV8wY1JUa1dKMW1VVVNkSEFiYW9SMA?oc=5",
       "source": "한겨레",
-      "pubDate": "Thu, 05 Nov 2026 19:44:00 GMT",
+      "pubDate": "Thu, 05 Nov 2026 21:57:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "summaries": {
-        "ko": "중간선거 참패에 이란전 ‘진퇴양난’ 트럼프…공습도 협상도 난관 - 한겨레",
-        "en": "중간선거 참패에 이란전 ‘진퇴양난’ 트럼프…공습도 협상도 난관 - 한겨레",
-        "zh": "중간선거 참패에 이란전 ‘진퇴양난’ 트럼프…공습도 협상도 난관 - 한겨레"
-      }
-    },
-    {
-      "title": "李 \"SNS 알고리즘에 안 갇혀… 욕·비난 댓글도 봐\" - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRXRsUmJPczlLdU9zSmV6N1dzTHo5N2ZoUENuTTZxVkpLcURVc1FFNG5aaGlBSC11OHNfR0JnMFU3Y04zb3JiazNCSTFMTVAydHZkOVlKa29xS1dva2xTYk0yb0RuZERXUWxLU3QxV1lsZzhCRVhZR1hkR0g3a0hwbkh3VkQ5Vk5lc24tcHQwenA?oc=5",
-      "source": "조선일보",
-      "pubDate": "Thu, 05 Nov 2026 15:41:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "李 \"SNS 알고리즘에 안 갇혀… 욕·비난 댓글도 봐\" - 조선일보",
-        "en": "李 \"SNS 알고리즘에 안 갇혀… 욕·비난 댓글도 봐\" - 조선일보",
-        "zh": "李 \"SNS 알고리즘에 안 갇혀… 욕·비난 댓글도 봐\" - 조선일보"
-      }
-    },
-    {
-      "title": "[전문]윤석열, 항소심 최후 진술 “헌법 지키기 위해 계엄한 것” - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13YktwTHhZcEp5aU1rZGt6eGZLMnRUWGdzMm50OTU4MEJCY1M0X01QRFdxcUlKdjRPTm1XR1lqUWN6bmh6T3d2RmxYQjBRZ21Id2J1WUJYUTRzUdIBX0FVX3lxTE5PNE1ZOFVBWWhFSkZRblp5ak9UZXhHMFd4Zjgyem9ESWZJa0ZrNG1qVzR5VnlzQy0zdWV0eEhweld3N2J1Y2J4OFNVT05DM3FrT01JRFZzbXhFZVphQTVn?oc=5",
-      "source": "경향신문",
-      "pubDate": "Thu, 05 Nov 2026 10:41:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "[전문]윤석열, 항소심 최후 진술 “헌법 지키기 위해 계엄한 것” - 경향신문",
-        "en": "[전문]윤석열, 항소심 최후 진술 “헌법 지키기 위해 계엄한 것” - 경향신문",
-        "zh": "[전문]윤석열, 항소심 최후 진술 “헌법 지키기 위해 계엄한 것” - 경향신문"
+        "ko": "트럼프 중간선거 참패에 이란전 ‘진퇴양난’…공습도 협상도 어렵다 - 한겨레",
+        "en": "트럼프 중간선거 참패에 이란전 ‘진퇴양난’…공습도 협상도 어렵다 - 한겨레",
+        "zh": "트럼프 중간선거 참패에 이란전 ‘진퇴양난’…공습도 협상도 어렵다 - 한겨레"
       }
     },
     {
@@ -50,87 +86,39 @@
       }
     },
     {
-      "title": "국힘, ‘조작기소 특검법’ 상정에…6일부터 장외투쟁 예고 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2Wk9EdkJtNTBLTlowYV9HaEJyM21YaXQwV0dwb0QzemY1NmgwVEloSEJZTHI0aHlxaVhxUU5URnJBZkRvME9QVTZfM19GeTFtbWtlaGg4aE9YNlBqbTdMUUFWNlA1Mmx2OGc?oc=5",
-      "source": "한겨레",
-      "pubDate": "Thu, 05 Nov 2026 13:13:00 GMT",
+      "title": "주말 서울 곳곳 집회·마라톤…광화문·여의도 교통통제 - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zUklsUzJWNTFRaDRNa1QwRHBERmpSREd0M2l3QXNqRVp2dG5VWnNUVTNLOVMzVExUTXkzR2s4WFdBTEY5bl9KdU9raGRPRW9seU16QzVuS3U0V2c?oc=5",
+      "source": "KBS 뉴스",
+      "pubDate": "Fri, 06 Nov 2026 01:34:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "summaries": {
-        "ko": "국힘, ‘조작기소 특검법’ 상정에…6일부터 장외투쟁 예고 - 한겨레",
-        "en": "국힘, ‘조작기소 특검법’ 상정에…6일부터 장외투쟁 예고 - 한겨레",
-        "zh": "국힘, ‘조작기소 특검법’ 상정에…6일부터 장외투쟁 예고 - 한겨레"
+        "ko": "주말 서울 곳곳 집회·마라톤…광화문·여의도 교통통제 - KBS 뉴스",
+        "en": "주말 서울 곳곳 집회·마라톤…광화문·여의도 교통통제 - KBS 뉴스",
+        "zh": "주말 서울 곳곳 집회·마라톤…광화문·여의도 교통통제 - KBS 뉴스"
       }
     },
     {
-      "title": "또 진료실 흉기 난동… ‘임세원법’에도 달라진 게 없다 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeGNWWlFuZ01SX3lOZVpOem85WkIxR3pKbzUtVng5V3h3a3lwVlpmTktNRmc5QjN1b183Ujhqb2dxNk4yeGdhampnc3AzaS04Z2s5bnR5dGZMQWE4SzRwUXM3V0hjcE5OTnNBWWtmWGFmWl85d0JUcFFrdm54X3dVSVM1NndxbkVhbF9kb29yaw?oc=5",
-      "source": "조선일보",
-      "pubDate": "Thu, 05 Nov 2026 15:40:00 GMT",
+      "title": "트럼프, 선거참패 이틀 뒤 \"美에 공장 안 지으면 300%까지 관세\" - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qVjBZQ29qcmFLd1ZfQlkyZEYya1A3RGVDSFpWMF9hdVVWSnJueC1JN0ZwdE9Xd0hHeHg1eElfaWZwMFVPZjBEaHRLMU1ubXpYZ2RLNlk3djNIQjVwX0FuNkV1b2FRVkxNZnJMTF85cXdsQk9V0gF0QVVfeXFMT2ZrWXVTVU1TUE5jbXZZeFBMSllRV2t4OFZKbVhjMXlIWU1FbTBTeUJXdTJQVnB3MFg3TUFCRjlqVl9vVktwMHZFU2pYZjgxSzZvc2NEanVLWEFkRVhNZ1BWVC1DMWVlcEhsWXoxUmkyZzRBNWU?oc=5",
+      "source": "MBC 뉴스",
+      "pubDate": "Thu, 05 Nov 2026 23:25:59 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "summaries": {
-        "ko": "또 진료실 흉기 난동… ‘임세원법’에도 달라진 게 없다 - 조선일보",
-        "en": "또 진료실 흉기 난동… ‘임세원법’에도 달라진 게 없다 - 조선일보",
-        "zh": "또 진료실 흉기 난동… ‘임세원법’에도 달라진 게 없다 - 조선일보"
+        "ko": "트럼프, 선거참패 이틀 뒤 \"美에 공장 안 지으면 300%까지 관세\" - MBC 뉴스",
+        "en": "트럼프, 선거참패 이틀 뒤 \"美에 공장 안 지으면 300%까지 관세\" - MBC 뉴스",
+        "zh": "트럼프, 선거참패 이틀 뒤 \"美에 공장 안 지으면 300%까지 관세\" - MBC 뉴스"
       }
     },
     {
-      "title": "장흥 육용오리농장서 조류인플루엔자 확인…24시간 이동 중지 - 연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCdWRiT2gyajhkWTM0U2ZwNGdCU0d1dTV4U3p2SmVUdmlWVEdNZFZQMVIzMUduaEVRWVdVdkw3Y3o3WEI4YmVvUDdVTm1LSFNHd3FqS0JBZnV4X2xyV0hiRFYyUlN6NGs?oc=5",
-      "source": "연합뉴스TV",
-      "pubDate": "Thu, 05 Nov 2026 14:42:00 GMT",
+      "title": "친한 박정훈 “총선 승리 위해 한동훈 복당해야…오세훈, 입장 왜 변했나” - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRVdrMi14SDZFSHlveV84bEFKT1hzTzZpXzFoRnFzQ2ZENFhLUTluRjNfWHhLci1oWWtUeFA2UDBTTXVfekdGQk5oMl8wMlM4a2JkbmpaR1RzbzA?oc=5",
+      "source": "KBS 뉴스",
+      "pubDate": "Fri, 06 Nov 2026 01:29:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "summaries": {
-        "ko": "장흥 육용오리농장서 조류인플루엔자 확인…24시간 이동 중지 - 연합뉴스TV",
-        "en": "장흥 육용오리농장서 조류인플루엔자 확인…24시간 이동 중지 - 연합뉴스TV",
-        "zh": "장흥 육용오리농장서 조류인플루엔자 확인…24시간 이동 중지 - 연합뉴스TV"
-      }
-    },
-    {
-      "title": "공포의 추위, 이제부터 시작이다···주말 서울 아침 -1도, 체감 -5도 ‘올가을 첫 영하권’ - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LMlNvXy1fVzV2SndtNW9YRElSS3d3am5TSk9QQXZjbVE0OC1JUmxRWGFQWkl4NlNGb0NTdm5sekxRLXgwdWVBSWQ1c2pYeEpwakl2Umo1V3F2d9IBX0FVX3lxTE5DcDZYRmM1Ukplb1Y5Y0dNNm1yNHZSREUyMV9FYWFVMmM0Wjd0My1DZW9LYWF1RkFjOGlOVGJlZmRJdTY0MGtwV002U2U5eUZMeDZ2MFBKc2cxRm9ONHlJ?oc=5",
-      "source": "경향신문",
-      "pubDate": "Thu, 05 Nov 2026 06:54:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "공포의 추위, 이제부터 시작이다···주말 서울 아침 -1도, 체감 -5도 ‘올가을 첫 영하권’ - 경향신문",
-        "en": "공포의 추위, 이제부터 시작이다···주말 서울 아침 -1도, 체감 -5도 ‘올가을 첫 영하권’ - 경향신문",
-        "zh": "공포의 추위, 이제부터 시작이다···주말 서울 아침 -1도, 체감 -5도 ‘올가을 첫 영하권’ - 경향신문"
-      }
-    },
-    {
-      "title": "“순천대 의대 확정, 이의 있습니다”···추천 배제된 목포대, 전남광주시와 법정다툼 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kaXlpT2lkaFhxMTYzaFZSQ2lvQWRFbVJLNFpEeTE3NVNSaEdmVHNEM0lOUVpkOENmUXVkbXVRNHg1ZjhobElPdlpKeG5ibUo0NW9HTU41MEVSQdIBX0FVX3lxTE1qNW5iRDlYZm1Jazl1YlNKMjlPTnZVWm5WRUFRMHhnbi16YTNQYnVJaGNITkI1Tk1UY3BoNS1XSGZPbm91SDhtLXRkd2pvSlNPT0pOQmtDS2VzZGp0YWtn?oc=5",
-      "source": "경향신문",
-      "pubDate": "Thu, 05 Nov 2026 07:29:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "“순천대 의대 확정, 이의 있습니다”···추천 배제된 목포대, 전남광주시와 법정다툼 - 경향신문",
-        "en": "“순천대 의대 확정, 이의 있습니다”···추천 배제된 목포대, 전남광주시와 법정다툼 - 경향신문",
-        "zh": "“순천대 의대 확정, 이의 있습니다”···추천 배제된 목포대, 전남광주시와 법정다툼 - 경향신문"
-      }
-    },
-    {
-      "title": "“놀라울 정도” 강남 집값 하락만 언급한 대통령…비강남·세입자 “웃음도 안 나” - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xTWlycFdkcFkwYlVocnF5Zl9ZTXdhLTk2aEVmeUZVMENDbUFndzN1NjdCWVJwRmpvSUVMNVFESl9MV3VxYjItRFotV21FdkRxal9tNjIxWDU1OTJmLTg3ZkFCUFdDLVprU21vTFdpTzFydw?oc=5",
-      "source": "한겨레",
-      "pubDate": "Thu, 05 Nov 2026 09:40:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "“놀라울 정도” 강남 집값 하락만 언급한 대통령…비강남·세입자 “웃음도 안 나” - 한겨레",
-        "en": "“놀라울 정도” 강남 집값 하락만 언급한 대통령…비강남·세입자 “웃음도 안 나” - 한겨레",
-        "zh": "“놀라울 정도” 강남 집값 하락만 언급한 대통령…비강남·세입자 “웃음도 안 나” - 한겨레"
-      }
-    },
-    {
-      "title": "[속보] 뉴욕증시, 기술주 투매에 급락…나스닥 5.5%↓",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20261106063512TPi",
-      "source": "Breaking News",
-      "pubDate": "Fri, 06 Nov 2026 06:35:12 +0900",
-      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20261105/MYH20261106063512TPi.jpg",
-      "summaries": {
-        "ko": "미국 중간선거 이후 민주당의 상하원 장악으로 인공지능 산업 규제 강화 및 데이터센터 투자 둔화 우려가 확산하며 뉴욕증시 기술주가 투매되어 나스닥 지수가 5.5% 급락했다.",
-        "en": "The Nasdaq plunged 5.5% as tech stocks were sold off in the New York stock market, fueled by concerns over strengthened AI industry regulations and slowed data center investment following the Democratic Party's control of both houses after the US midterm elections.",
-        "zh": "因美国中期选举后民主党掌控参众两院，人工智能产业监管加强及数据中心投资放缓的担忧扩散，纽约股市科技股遭到抛售，纳斯达克指数急跌5.5%。"
+        "ko": "친한 박정훈 “총선 승리 위해 한동훈 복당해야…오세훈, 입장 왜 변했나” - KBS 뉴스",
+        "en": "친한 박정훈 “총선 승리 위해 한동훈 복당해야…오세훈, 입장 왜 변했나” - KBS 뉴스",
+        "zh": "친한 박정훈 “총선 승리 위해 한동훈 복당해야…오세훈, 입장 왜 변했나” - KBS 뉴스"
       }
     }
   ]
