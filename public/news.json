@@ -1,112 +1,76 @@
 {
-  "lastUpdate": "2026-11-07T01:16:55.278579",
+  "lastUpdate": "2026-11-07T07:12:03.967872",
   "items": [
     {
-      "title": "“밴스, 이란과 휴전·핵협상 재개 간접협상 물밑 주도” - KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yUzZ0NVhUVkJtTTFHTnRmTS1DcXZzY19tRjhWTlhTNkhVWTgtRVRPbllONFY4dC1LZFJnNFZpaWZUVE5fVE84WDhVc2liLU9WekVWNV9RNGpBSU0?oc=5",
-      "source": "KBS 뉴스",
-      "pubDate": "Sat, 07 Nov 2026 00:16:00 GMT",
+      "title": "트럼프가 지명한 스티븐 밀러 신임 백악관 비서실장은 누구? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WU3RraU9qMlpfaWhURHNCRlJidlZKeXFJV2pqWmZHZE9zODJOSHFaWjVTalZNVm1pVzNmTmoyaUhwa2R6VU9ZYnZqbXBQS2owVEVhYlphVVNwQkthcGfSAWNBVV95cUxNYVRDZ3RneXFzWm52RndRdHY2X1lmelV3VTQ4YWEtRzYzWnAzTUNuS0lYUm9LN21ZaHBwemY1NXBxaGJadGozTnNFb0xPdE5EOUg4QnRod2dobmVpX2t1TlRESm8?oc=5",
+      "source": "BBC",
+      "pubDate": "Sat, 07 Nov 2026 03:41:03 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "summaries": {
-        "ko": "“밴스, 이란과 휴전·핵협상 재개 간접협상 물밑 주도” - KBS 뉴스",
-        "en": "“밴스, 이란과 휴전·핵협상 재개 간접협상 물밑 주도” - KBS 뉴스",
-        "zh": "“밴스, 이란과 휴전·핵협상 재개 간접협상 물밑 주도” - KBS 뉴스"
+        "ko": "트럼프가 지명한 스티븐 밀러 신임 백악관 비서실장은 누구? - BBC",
+        "en": "트럼프가 지명한 스티븐 밀러 신임 백악관 비서실장은 누구? - BBC",
+        "zh": "트럼프가 지명한 스티븐 밀러 신임 백악관 비서실장은 누구? - BBC"
       }
     },
     {
-      "title": "트럼프, ‘마가 핵심’ 밀러로 비서실장 전격 교체…반이민 강경파 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuR1doOXFtY1NBUzRoTUZVQTYtcjMxRGxEYUlMNjN3QjlON3Y1TWNycWVGbnM2dFpST1EtX3c5X202WkNpZTdTaDdXQVRBcWp2ZHpLcXFBZHZCSWszeTJsWnFfSExhUVdlRTVDMHFwWQ?oc=5",
+      "title": "국민의힘 ‘조작기소 특검법’ 장외투쟁…민주당 “진실규명마저 반대하나” - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Nc3RzSi1GUFlra3VwVG5ObEptazZ3cy1jcU80Z09rMXJlelg3dVBpWFY5VktsNnlmM0ZYLXlMX1VLNVY5ZGo0eVFENFRTcGtRajlzcjlPZGFRQdIBX0FVX3lxTE00VDd0WjVOWkx2NUZmNERQV0hxTEN1WmFUWWhra0FsakJ2TVh1OUtIQ3F6LUtsWEpQa3J3UC03RDBtWGltaEN4TVFwNU53eXdaeEFyd1NoZEpZOVhsMGpJ?oc=5",
+      "source": "경향신문",
+      "pubDate": "Sat, 07 Nov 2026 02:38:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "국민의힘 ‘조작기소 특검법’ 장외투쟁…민주당 “진실규명마저 반대하나” - 경향신문",
+        "en": "국민의힘 ‘조작기소 특검법’ 장외투쟁…민주당 “진실규명마저 반대하나” - 경향신문",
+        "zh": "국민의힘 ‘조작기소 특검법’ 장외투쟁…민주당 “진실규명마저 반대하나” - 경향신문"
+      }
+    },
+    {
+      "title": "‘동장군 입성’ 입동에 전국 곳곳 영하권…서울, 올가을 최저 0.5도 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RclhQRk5YZXA5MTUzRkg2ZGlvYlV0Rk9zai1nblUwV0JGRjUxdjJGbXBBVXJIc1d6bDR4WHBpYzdpREdxenBVVDJTaUh6bTdacU4xN09zaVFySWlUSGxhcF9HeHd0c3RjZjA3MmtPOWRJQQ?oc=5",
       "source": "한겨레",
-      "pubDate": "Fri, 06 Nov 2026 23:16:00 GMT",
+      "pubDate": "Sat, 07 Nov 2026 00:35:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "summaries": {
-        "ko": "트럼프, ‘마가 핵심’ 밀러로 비서실장 전격 교체…반이민 강경파 - 한겨레",
-        "en": "트럼프, ‘마가 핵심’ 밀러로 비서실장 전격 교체…반이민 강경파 - 한겨레",
-        "zh": "트럼프, ‘마가 핵심’ 밀러로 비서실장 전격 교체…반이민 강경파 - 한겨레"
+        "ko": "‘동장군 입성’ 입동에 전국 곳곳 영하권…서울, 올가을 최저 0.5도 - 한겨레",
+        "en": "‘동장군 입성’ 입동에 전국 곳곳 영하권…서울, 올가을 최저 0.5도 - 한겨레",
+        "zh": "‘동장군 입성’ 입동에 전국 곳곳 영하권…서울, 올가을 최저 0.5도 - 한겨레"
       }
     },
     {
-      "title": "李대통령과 같은 법무법인 출신… 野 \"공소 취소 믿고 맡길 측근\" - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTVozOGlaZzlCMV85YVg3dGhzRWticXJlN3A3cFV4VThjM3dFRHRiZ3ZPNjlBbTlXeS1kN1g5MHpVaC1kVVh2T0pVdXk2a0FjRmhmaDJxYTZKdmZaSWVuMnpKRndqZEdTV25RYWZWTzFFSm1MTzhESXhRcXJBcXI1aklyRm9xbzZnb0Nqbld0VzM?oc=5",
+      "title": "野 \"이용철, 대장동 숨은 설계자... 공소취소 설계까지 맡길 건가\" - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX1N1RmFmNkFUdVhTNWdtazh2bEdfSUVRM3RKZUViLUNVbWxSSzJfWkR6NVc0MGEyQjJSU2ZHRDhjeFZqdjBlY0dYcExTQnBWNGoxeHRHNzEzWEdvbXd2Nk9HRG4zUU9MaklfY0lOeU5xY1RaVDQwSU8wMEdJWmVVSk92ejBXS2lFZzFtVFFuUGk?oc=5",
       "source": "조선일보",
-      "pubDate": "Fri, 06 Nov 2026 15:39:00 GMT",
+      "pubDate": "Sat, 07 Nov 2026 00:44:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "summaries": {
-        "ko": "李대통령과 같은 법무법인 출신… 野 \"공소 취소 믿고 맡길 측근\" - 조선일보",
-        "en": "李대통령과 같은 법무법인 출신… 野 \"공소 취소 믿고 맡길 측근\" - 조선일보",
-        "zh": "李대통령과 같은 법무법인 출신… 野 \"공소 취소 믿고 맡길 측근\" - 조선일보"
+        "ko": "野 \"이용철, 대장동 숨은 설계자... 공소취소 설계까지 맡길 건가\" - 조선일보",
+        "en": "野 \"이용철, 대장동 숨은 설계자... 공소취소 설계까지 맡길 건가\" - 조선일보",
+        "zh": "野 \"이용철, 대장동 숨은 설계자... 공소취소 설계까지 맡길 건가\" - 조선일보"
       }
     },
     {
-      "title": "민주당 상·하원 장악…전문가들 “의회 견제 강화” “외교는 대통령 몫” - VOA 한국어 홈페이지",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uci1mN1c1czRzUVBJM2l5Ri01QkZjbEJUVVVsYUZOSG1ld1dfejJ1dFM1T2l4RVp4aHY3OUoxczdBMUdDU0VDWHNrMTNTYjBF0gFTQVVfeXFMTTlGTjBRVXdoU3BFc25ld1AtZFF0SGlPdjJIR1BOZVA3ZnZZcEM4OXNWRXVmbHFsNVRJT0ZsQm9ObTctTTd2QTYtcHdjTVpjNDFydkU?oc=5",
-      "source": "VOA 한국어 홈페이지",
-      "pubDate": "Fri, 06 Nov 2026 21:42:11 GMT",
+      "title": "가평서 의료진에 흉기 위협 60대 오늘 구속영장심사 - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4cV80OF9VM2ZJRU9KWFUzRXl0YnMwMXR6Y0Z0VWVNVzZ5b3UwNExodmVQUkw3cGtSc01WMThoUng3REtGUTFvRnFqRW5GU1JUa1pCTThlclZMQ1U?oc=5",
+      "source": "KBS 뉴스",
+      "pubDate": "Sat, 07 Nov 2026 06:58:00 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "summaries": {
-        "ko": "민주당 상·하원 장악…전문가들 “의회 견제 강화” “외교는 대통령 몫” - VOA 한국어 홈페이지",
-        "en": "민주당 상·하원 장악…전문가들 “의회 견제 강화” “외교는 대통령 몫” - VOA 한국어 홈페이지",
-        "zh": "민주당 상·하원 장악…전문가들 “의회 견제 강화” “외교는 대통령 몫” - VOA 한국어 홈페이지"
+        "ko": "가평서 의료진에 흉기 위협 60대 오늘 구속영장심사 - KBS 뉴스",
+        "en": "가평서 의료진에 흉기 위협 60대 오늘 구속영장심사 - KBS 뉴스",
+        "zh": "가평서 의료진에 흉기 위협 60대 오늘 구속영장심사 - KBS 뉴스"
       }
     },
     {
-      "title": "입동에 찾아온 영하권 강추위…수도권 올가을 첫얼음 - KBC광주방송",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TUHFuNEZCOThMcmZUSTk2WFVwTGxYRV96aTV1VEpYNElrMzdOc01IWjFnYmQwMXRYcFN6LU1VazNBRnh5Ni1hczBvbWpYdWI2ZEVnUm9TTVBlejJKRl8tVGVPSmRpZnNhX0xPczFhc190STNIa3duVDZoOA?oc=5",
-      "source": "KBC광주방송",
-      "pubDate": "Sat, 07 Nov 2026 00:11:41 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "입동에 찾아온 영하권 강추위…수도권 올가을 첫얼음 - KBC광주방송",
-        "en": "입동에 찾아온 영하권 강추위…수도권 올가을 첫얼음 - KBC광주방송",
-        "zh": "입동에 찾아온 영하권 강추위…수도권 올가을 첫얼음 - KBC광주방송"
-      }
-    },
-    {
-      "title": "검찰범죄 특검을 해야 하는 50가지 이유⑬ '조작기소' 특검법안 마침내 통과 - 뉴스타파",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5iQ0xoUE1LYVM3aEJaUm9tSVo1VUszODlWTGhVd0pzSHRZcTdwV09EZG0tSUQ3TC1RY3RvTE1iOGVqSl84Y0ppNlZ3?oc=5",
-      "source": "뉴스타파",
-      "pubDate": "Fri, 06 Nov 2026 11:00:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "검찰범죄 특검을 해야 하는 50가지 이유⑬ '조작기소' 특검법안 마침내 통과 - 뉴스타파",
-        "en": "검찰범죄 특검을 해야 하는 50가지 이유⑬ '조작기소' 특검법안 마침내 통과 - 뉴스타파",
-        "zh": "검찰범죄 특검을 해야 하는 50가지 이유⑬ '조작기소' 특검법안 마침내 통과 - 뉴스타파"
-      }
-    },
-    {
-      "title": "李대통령 직무평가 긍정 41%-부정 50% - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55dGs0aEZBOGxnYl9RM05xMUExNENtVVd5bTY1cEFaSVNJTGo5S3JRSGk3ZDFxWDllanF2SHFCaE93WEVHaW9IbVczcmh6UWNLUUJ5Rm5Yc001UWEtTGNhUmtYeUthTXFlU29UclhSOURpd3NoTkZZ0gFmQVVfeXFMTW9jUlVuUjEzQ3VmSzN1YUFSb19LRWNWZnRDYVFKNTNIcTQ4Nmc5OEhlU2VsQUxvMlBmOEx5ZnlnZVc1SEQ5ZHlZYzJfaHd2dXJPVEFDSzFtSmpFWUJiNnBScHVlcmxB?oc=5",
-      "source": "동아일보",
-      "pubDate": "Fri, 06 Nov 2026 16:40:00 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "李대통령 직무평가 긍정 41%-부정 50% - 동아일보",
-        "en": "李대통령 직무평가 긍정 41%-부정 50% - 동아일보",
-        "zh": "李대통령 직무평가 긍정 41%-부정 50% - 동아일보"
-      }
-    },
-    {
-      "title": "\"운다, 울어! 살았다\"…급박했던 31주 신생아 '구급차 분만'[뉴스럽다] - 노컷뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtSXE1UE5WSXNMZUdidjNpMmJBYVpTT1VhOHdkMDFjc1h0TzlGX3FNZXc0ZzNNUUlpeEJ6U0FOSkRVTUxHZ0lPZE51dWpGY3hDSVE?oc=5",
-      "source": "노컷뉴스",
-      "pubDate": "Fri, 06 Nov 2026 07:23:24 GMT",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "summaries": {
-        "ko": "\"운다, 울어! 살았다\"…급박했던 31주 신생아 '구급차 분만'[뉴스럽다] - 노컷뉴스",
-        "en": "\"운다, 울어! 살았다\"…급박했던 31주 신생아 '구급차 분만'[뉴스럽다] - 노컷뉴스",
-        "zh": "\"운다, 울어! 살았다\"…급박했던 31주 신생아 '구급차 분만'[뉴스럽다] - 노컷뉴스"
-      }
-    },
-    {
-      "title": "경찰까지 출동하더니…결국 경호원 고용한 '스카프 아저씨' - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OeWc1dlNfajRaYXNscnBmWnBYUHpYaWxlY1g2bVRITzFMNEhiMERJOUNCY01aLUlTekZqVXVROWNIY256X2l3WjBBRm9GekRGekt4TnlmSlAyZw?oc=5",
+      "title": "\"사지 마\" 말리는데도 산다…요즘 SNS 뒤집어놓은 '이 가게' [권용훈의 트렌드워치] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KMTg1RmUzVHV6WWdsbk1wOUt3UmdrbUZtN2xaVEJHVk9uTU1yRkpFTkpZN096RTNtbUlxYjZOdEZ4SzFhZWE3OUpSU0ZQQW1RRmRfYzlwQkw3Zw?oc=5",
       "source": "한국경제",
-      "pubDate": "Fri, 06 Nov 2026 12:51:47 GMT",
+      "pubDate": "Sat, 07 Nov 2026 01:00:01 GMT",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "summaries": {
-        "ko": "경찰까지 출동하더니…결국 경호원 고용한 '스카프 아저씨' - 한국경제",
-        "en": "경찰까지 출동하더니…결국 경호원 고용한 '스카프 아저씨' - 한국경제",
-        "zh": "경찰까지 출동하더니…결국 경호원 고용한 '스카프 아저씨' - 한국경제"
+        "ko": "\"사지 마\" 말리는데도 산다…요즘 SNS 뒤집어놓은 '이 가게' [권용훈의 트렌드워치] - 한국경제",
+        "en": "\"사지 마\" 말리는데도 산다…요즘 SNS 뒤집어놓은 '이 가게' [권용훈의 트렌드워치] - 한국경제",
+        "zh": "\"사지 마\" 말리는데도 산다…요즘 SNS 뒤집어놓은 '이 가게' [권용훈의 트렌드워치] - 한국경제"
       }
     },
     {
@@ -119,6 +83,42 @@
         "ko": "서울 마곡동 온수관 파열로 약 9천 세대 난방·온수 멈춰 - 연합뉴스TV",
         "en": "서울 마곡동 온수관 파열로 약 9천 세대 난방·온수 멈춰 - 연합뉴스TV",
         "zh": "서울 마곡동 온수관 파열로 약 9천 세대 난방·온수 멈춰 - 연합뉴스TV"
+      }
+    },
+    {
+      "title": "신상진 성남시장 “‘성남라인’ 그만 사용…‘명지라인’이 사리에 맞아” - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DQXl5NnppUGFmQ1E3U2ZoMHlYM24xUUIyYndBU0ZqdVVodXcwSzQ5X3VsZW5aY1NzSnI0ZkEwT2pzak9SSHZEOXhEckpERERO?oc=5",
+      "source": "문화일보",
+      "pubDate": "Sat, 07 Nov 2026 01:20:55 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "신상진 성남시장 “‘성남라인’ 그만 사용…‘명지라인’이 사리에 맞아” - 문화일보",
+        "en": "신상진 성남시장 “‘성남라인’ 그만 사용…‘명지라인’이 사리에 맞아” - 문화일보",
+        "zh": "신상진 성남시장 “‘성남라인’ 그만 사용…‘명지라인’이 사리에 맞아” - 문화일보"
+      }
+    },
+    {
+      "title": "외로움이 집착으로… 6070 스토킹범이 늘고 있다 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ3ZGSGFDZVdBU0ZTWDdreW1NMkp5N094amtfV1p6XzYyUVc5dHNyZHFQYU9fWnNlV0V4LUt3MTFxcHhNemgwZDVPdndyS1pHNGpma05tZWU2ajBBRmVfSEFkSXFWaEpVcEZmX01OYmdwOHVCc2pacU9mR3NsSVpheHJ2LUxMRHNobXBvLWNGRTU?oc=5",
+      "source": "조선일보",
+      "pubDate": "Fri, 06 Nov 2026 15:36:00 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "외로움이 집착으로… 6070 스토킹범이 늘고 있다 - 조선일보",
+        "en": "외로움이 집착으로… 6070 스토킹범이 늘고 있다 - 조선일보",
+        "zh": "외로움이 집착으로… 6070 스토킹범이 늘고 있다 - 조선일보"
+      }
+    },
+    {
+      "title": "트럼프, 선거참패 이틀 뒤 \"美에 공장 안 지으면 300%까지 관세\"(종합) - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81R05NRWxET1dJUDFnVWtaLTRVd05zenU5M3p5a0NtQU9ieU1rNDRoMmoyeGV2cTBVaEZoeWFWdC1rNXlieEhjN0VVM2g1Y0ZJLWtZN0xFcFVWSHPSAWBBVV95cUxOV1RyeWc3REpIdHZ3OFB1bXhWM3VaTzEtbDlGVFJjZWZTdVI1UEZrbUwwTEx3TGI3M3MxUFUtRmNneUotaU1JaGFMeE1idXlKZlNPYnpRYkdzckh0cVBRamg?oc=5",
+      "source": "연합뉴스",
+      "pubDate": "Thu, 05 Nov 2026 22:54:52 GMT",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "summaries": {
+        "ko": "트럼프, 선거참패 이틀 뒤 \"美에 공장 안 지으면 300%까지 관세\"(종합) - 연합뉴스",
+        "en": "트럼프, 선거참패 이틀 뒤 \"美에 공장 안 지으면 300%까지 관세\"(종합) - 연합뉴스",
+        "zh": "트럼프, 선거참패 이틀 뒤 \"美에 공장 안 지으면 300%까지 관세\"(종합) - 연합뉴스"
       }
     }
   ]
